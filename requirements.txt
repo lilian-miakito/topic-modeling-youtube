@@ -13,6 +13,10 @@ bertopic>=0.16.0
 sentence-transformers>=2.2.0
 keybert>=0.8.0
 
+# LLM Programming
+dspy>=2.5.0
+python-dotenv>=1.0.0
+
 sentencepiece>=0.2.1
 
 # NLP & Pre-traitement (a installer plus tard)
