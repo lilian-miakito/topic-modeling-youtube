@@ -13,16 +13,18 @@ from pathlib import Path
 import warnings
 warnings.filterwarnings("ignore")
 
+import polars as pl
+
 DATASETS_DIR = Path(__file__).parent / "datasets"
 SAMPLE_SIZE = 1000
 
 
 def load_sample():
-    """Load a small sample of comments."""
-    comments_file = DATASETS_DIR / "comments.txt"
+    """Load a small sample of comments from Parquet."""
+    parquet_file = DATASETS_DIR / "comments_full.parquet"
     
-    with open(comments_file, 'r', encoding='utf-8') as f:
-        comments = [line.strip() for line in f if line.strip() and len(line.strip()) > 20]
+    df = pl.read_parquet(parquet_file)
+    comments = [c for c in df["text"].to_list() if c and len(c) > 20]
     
     random.seed(42)
     return random.sample(comments, min(SAMPLE_SIZE, len(comments)))

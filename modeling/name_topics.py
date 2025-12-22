@@ -17,8 +17,7 @@ import torch
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 
 DATASETS_DIR = Path(__file__).parent / "datasets"
-MODEL_NAME = "google/flan-t5-small"  # Fast and good for this task
-
+MODEL_NAME = "google/flan-t5-large"  # 780M params, bien meilleur
 
 def get_latest_topics_file():
     """Find the most recent topics_result file."""

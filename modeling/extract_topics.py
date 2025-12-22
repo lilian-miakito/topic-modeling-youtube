@@ -13,6 +13,7 @@ from datetime import datetime
 import warnings
 warnings.filterwarnings("ignore")
 
+import polars as pl
 from bertopic import BERTopic
 from bertopic.representation import KeyBERTInspired
 
@@ -32,16 +33,16 @@ SAMPLE_SIZE = parse_sample_size()
 
 
 def load_comments():
-    """Load comments from the dataset."""
-    comments_file = DATASETS_DIR / "comments.txt"
+    """Load comments from the Parquet dataset."""
+    parquet_file = DATASETS_DIR / "comments_full.parquet"
     
-    if not comments_file.exists():
-        print(f"Dataset not found: {comments_file}")
+    if not parquet_file.exists():
+        print(f"Dataset not found: {parquet_file}")
         print("Run create_dataset.py first!")
         return []
     
-    with open(comments_file, 'r', encoding='utf-8') as f:
-        comments = [line.strip() for line in f if line.strip()]
+    df = pl.read_parquet(parquet_file)
+    comments = df["text"].to_list()
     
     return comments
 

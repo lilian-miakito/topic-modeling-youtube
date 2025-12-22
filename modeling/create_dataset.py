@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """
 Create a dataset from all comments in the data folder.
-Outputs a simple text file with one comment per line and a JSON with metadata.
+Outputs a Parquet file with full metadata and a simple text file.
 """
 
-import os
 import json
 import sys
 from pathlib import Path
+
+import polars as pl
 
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -84,7 +85,7 @@ def create_dataset(comments):
     """Create dataset files from comments."""
     OUTPUT_DIR.mkdir(exist_ok=True)
     
-    # Create a simple text file (one comment per line)
+    # Create a simple text file (one comment per line) - kept for compatibility
     text_file = OUTPUT_DIR / "comments.txt"
     with open(text_file, 'w', encoding='utf-8', newline='\n') as f:
         for comment in comments:
@@ -93,12 +94,14 @@ def create_dataset(comments):
     
     print(f"Created: {text_file} ({len(comments)} lines)")
     
-    # Create a JSON file with full metadata
-    json_file = OUTPUT_DIR / "comments_full.json"
-    with open(json_file, 'w', encoding='utf-8') as f:
-        json.dump(comments, f, ensure_ascii=False, indent=2)
+    # Create a Parquet file with full metadata (much faster to read)
+    parquet_file = OUTPUT_DIR / "comments_full.parquet"
+    df = pl.DataFrame(comments)
+    df.write_parquet(parquet_file, compression="zstd")
     
-    print(f"Created: {json_file}")
+    # Show file size comparison
+    parquet_size = parquet_file.stat().st_size / (1024 * 1024)
+    print(f"Created: {parquet_file} ({parquet_size:.1f} MB)")
     
     # Create a stats summary
     stats = {
