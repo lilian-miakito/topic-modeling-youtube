@@ -289,7 +289,7 @@ def save_results(topic_model, cluster_metrics, sample, topics):
             'max_distance': metrics.get('max_distance'),
             'top_words_centroid_mmr': [w for w, _ in words],
             'top_words_centroid_mmr_detail': [{'word': w, 'similarity': round(s, 4)} for w, s in words],
-            'example_comments': topic_comments[:5],
+            'example_comments_original': topic_comments[:5],
             'example_comments_centroid_mmr': [c for c, _ in mmr_comments],
             'example_comments_centroid_mmr_detail': [
                 {'comment': c, 'similarity': round(s, 4)} for c, s in mmr_comments

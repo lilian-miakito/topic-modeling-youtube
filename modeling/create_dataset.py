@@ -5,37 +5,14 @@ Outputs a Parquet file with full metadata and a simple text file.
 """
 
 import json
-import sys
 from pathlib import Path
 
 import polars as pl
 
-# Add parent directory to path for imports
-sys.path.insert(0, str(Path(__file__).parent.parent))
+from lib import clean_text
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 OUTPUT_DIR = Path(__file__).parent / "datasets"
-
-
-def clean_text(text):
-    """Clean text by removing problematic Unicode characters."""
-    if not text:
-        return ""
-    # Remove Unicode line/paragraph separators and other problematic chars
-    # U+2028 = Line Separator, U+2029 = Paragraph Separator
-    # Also remove other control characters
-    text = text.replace('\u2028', ' ')  # Line Separator
-    text = text.replace('\u2029', ' ')  # Paragraph Separator
-    text = text.replace('\u0085', ' ')  # Next Line
-    text = text.replace('\u000b', ' ')  # Vertical Tab
-    text = text.replace('\u000c', ' ')  # Form Feed
-    text = text.replace('\r\n', ' ')
-    text = text.replace('\r', ' ')
-    text = text.replace('\n', ' ')
-    # Collapse multiple spaces
-    while '  ' in text:
-        text = text.replace('  ', ' ')
-    return text.strip()
 
 
 def load_channel_comments(channel_dir):

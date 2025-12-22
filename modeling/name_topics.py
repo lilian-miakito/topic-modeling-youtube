@@ -6,7 +6,6 @@ for each topic based on top words and example comments.
 """
 
 import json
-from pathlib import Path
 from datetime import datetime
 
 # Suppress warnings
@@ -16,8 +15,9 @@ warnings.filterwarnings("ignore")
 import torch
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 
+from lib import DATASETS_DIR, get_latest_file
+
 # ==== CONSTANTES D'AJUSTEMENT ====
-DATASETS_DIR = Path(__file__).parent / "datasets"
 MODEL_NAME = "google/flan-t5-large"  # 780M params, bien meilleur
 
 NUM_TOP_WORDS = 20              # Nombre de mots-clés à inclure par topic
@@ -30,19 +30,15 @@ TEMPERATURE = 0.7               # temperature pour la génération
 DO_SAMPLE = False               # do_sample pour la génération
 TOPIC_NAME_WORDS_HINT = "2-5 words max"
 
+
 def get_latest_topics_file():
     """Find the most recent topics_result file."""
-    files = list(DATASETS_DIR.glob("topics_result_*.json"))
-    if not files:
-        # Try the old filename
-        old_file = DATASETS_DIR / "topics_result.json"
-        if old_file.exists():
-            return old_file
-        return None
-    
-    # Sort by modification time, most recent first
-    files.sort(key=lambda x: x.stat().st_mtime, reverse=True)
-    return files[0]
+    latest = get_latest_file(DATASETS_DIR, "topics_result_*.json")
+    if latest:
+        return latest
+    # Fallback to old filename
+    old_file = DATASETS_DIR / "topics_result.json"
+    return old_file if old_file.exists() else None
 
 
 def load_topics(filepath):
@@ -135,8 +131,10 @@ def main():
     named_topics = []
     for topic in topics:
         topic_id = topic.get('id', '?')
-        top_words = topic.get('top_words', [])
-        example_comments = topic.get('example_comments', [])
+        # Use centroid_mmr words (semantic), fallback to old field name
+        top_words = topic.get('top_words_centroid_mmr', topic.get('top_words', []))
+        # Use centroid_mmr comments (representative), fallback to original
+        example_comments = topic.get('example_comments_centroid_mmr', topic.get('example_comments_original', topic.get('example_comments', [])))
         
         if not top_words:
             name = "Unknown Topic"

@@ -14,13 +14,12 @@ import warnings
 warnings.filterwarnings("ignore")
 
 import numpy as np
-import polars as pl
 from sklearn.metrics import silhouette_score
 from sentence_transformers import SentenceTransformer
 from umap import UMAP
 from hdbscan import HDBSCAN
 
-DATASETS_DIR = Path(__file__).parent / "datasets"
+from lib import DATASETS_DIR, load_comments as lib_load_comments
 
 # =============================================================================
 # SWEEP CONFIGURATION
@@ -40,13 +39,8 @@ HDBSCAN_MIN_SAMPLES_GRID = [5, 10]
 
 
 def load_comments():
-    """Load comments from the Parquet dataset."""
-    parquet_file = DATASETS_DIR / "comments_full.parquet"
-    if not parquet_file.exists():
-        print(f"Dataset not found: {parquet_file}")
-        return []
-    df = pl.read_parquet(parquet_file)
-    return df["text"].to_list()
+    """Load comments from the dataset."""
+    return lib_load_comments()
 
 
 def evaluate_clustering(embeddings, labels):

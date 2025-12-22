@@ -86,13 +86,34 @@
 
 ## Détection automatique des stop words
 
-- problème : lister manuellement les stop words FR/EN = fastidieux et incomplet
-- solution : détection algorithmique via IDF bas
-- mots avec IDF < seuil = présents dans beaucoup de documents = probablement stop words
-- indépendant de la langue → s'adapte à n'importe quel corpus
-- script `detect_stopwords.py` → sauvegarde `cache/detected_stopwords.json`
-- `extract_topics.py` charge automatiquement le cache s'il existe
-- params ajustables : IDF_THRESHOLD=1.5, MIN_FREQ=50
+**Problème initial :**
+- lister manuellement les stop words FR/EN = fastidieux et incomplet
+- approche IDF pure = sensible au déséquilibre linguistique du corpus
+- si 90% anglais, 10% français → les stop words français ont IDF plus élevé que certains mots de contenu anglais
+
+**Solution en deux couches :**
+
+1. **NLTK comme base** : charger les stop words connus pour FR, EN, ES, DE, PT, IT
+   - filet de sécurité pour les classiques (de, la, le, the, is, are...)
+
+2. **Entropie inter-cluster** : détection des stop words corpus-spécifiques
+   - clustering rapide (K-means, 10 clusters)
+   - pour chaque mot, calculer sa distribution à travers les clusters
+   - entropie haute = distribution uniforme = stop word
+   - entropie basse = concentré dans certains clusters = mot de contenu
+
+**Raffinement max_ratio :**
+- problème : "vidéo" peut être partout (entropie haute) MAIS avec un pic dans un cluster "montage"
+- solution : calculer max_ratio = max(cluster_freq) / mean(cluster_freq)
+- si max_ratio > 2.0 → le mot a un pic significatif → on le "sauve"
+- stop word = entropie haute ET max_ratio bas
+
+**Robustesse multi-langue :**
+- l'approche entropie fonctionne si chaque langue est distribuée sur plusieurs thématiques
+- si une langue est concentrée dans un seul sujet → ses stop words ne seront pas détectés
+- NLTK couvre ce cas comme filet de sécurité
+
+**Script :** `detect_stopwords.py` → `cache/detected_stopwords.json`
 
 ---
 

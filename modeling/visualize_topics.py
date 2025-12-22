@@ -15,7 +15,8 @@ warnings.filterwarnings("ignore")
 
 from bertopic import BERTopic
 
-DATASETS_DIR = Path(__file__).parent / "datasets"
+from lib import DATASETS_DIR
+
 OUTPUT_DIR = Path(__file__).parent / "visualizations"
 
 
