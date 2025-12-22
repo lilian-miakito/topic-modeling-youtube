@@ -14,6 +14,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 from bertopic import BERTopic
+from bertopic.representation import KeyBERTInspired
 
 
 DATASETS_DIR = Path(__file__).parent / "datasets"
@@ -59,13 +60,17 @@ def main():
     sample = [c for c in sample if len(c) > 20]
     print(f"   After filtering short comments: {len(sample)}")
     
-    # Create BERTopic model
-    print("\n3. Creating BERTopic model...")
+    # Create BERTopic model with KeyBERT-inspired representation
+    print("\n3. Creating BERTopic model with KeyBERT-Inspired representation...")
     print("   (This may take a minute on first run - downloading model)")
+    
+    # KeyBERT-Inspired gives better keyword extraction for topics
+    representation_model = KeyBERTInspired()
     
     topic_model = BERTopic(
         language="multilingual",  # Works for English + other languages
         min_topic_size=5,         # Minimum documents per topic
+        representation_model=representation_model,
         verbose=True
     )
     
