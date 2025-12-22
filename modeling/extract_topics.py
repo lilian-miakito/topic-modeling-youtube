@@ -18,7 +18,17 @@ from bertopic.representation import KeyBERTInspired
 
 
 DATASETS_DIR = Path(__file__).parent / "datasets"
-SAMPLE_SIZE = 100000
+import sys
+
+def parse_sample_size():
+    import argparse
+    parser = argparse.ArgumentParser(description="Extract topics from comments")
+    parser.add_argument("--size", type=int, default=1000,
+                        help="Number of comments to sample (default: 1000)")
+    args, _ = parser.parse_known_args()
+    return args.size
+
+SAMPLE_SIZE = parse_sample_size()
 
 
 def load_comments():
