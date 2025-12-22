@@ -16,6 +16,27 @@ DATA_DIR = Path(__file__).parent.parent / "data"
 OUTPUT_DIR = Path(__file__).parent / "datasets"
 
 
+def clean_text(text):
+    """Clean text by removing problematic Unicode characters."""
+    if not text:
+        return ""
+    # Remove Unicode line/paragraph separators and other problematic chars
+    # U+2028 = Line Separator, U+2029 = Paragraph Separator
+    # Also remove other control characters
+    text = text.replace('\u2028', ' ')  # Line Separator
+    text = text.replace('\u2029', ' ')  # Paragraph Separator
+    text = text.replace('\u0085', ' ')  # Next Line
+    text = text.replace('\u000b', ' ')  # Vertical Tab
+    text = text.replace('\u000c', ' ')  # Form Feed
+    text = text.replace('\r\n', ' ')
+    text = text.replace('\r', ' ')
+    text = text.replace('\n', ' ')
+    # Collapse multiple spaces
+    while '  ' in text:
+        text = text.replace('  ', ' ')
+    return text.strip()
+
+
 def load_all_comments():
     """Load all comments from all JSON files in the data directory."""
     all_comments = []
@@ -38,18 +59,18 @@ def load_all_comments():
             
             for video in videos:
                 video_id = video.get('video_id', '')
-                video_title = video.get('title', '')
+                video_title = clean_text(video.get('title', ''))
                 comments = video.get('comments', [])
                 
                 for comment in comments:
-                    text = comment.get('text', '').strip()
+                    text = clean_text(comment.get('text', ''))
                     if text:  # Only add non-empty comments
                         all_comments.append({
                             'text': text,
                             'channel': channel_name,
                             'video_id': video_id,
                             'video_title': video_title,
-                            'author': comment.get('author', ''),
+                            'author': clean_text(comment.get('author', '')),
                             'likes': comment.get('likes', 0),
                             'is_reply': comment.get('is_reply', False)
                         })
@@ -65,11 +86,10 @@ def create_dataset(comments):
     
     # Create a simple text file (one comment per line)
     text_file = OUTPUT_DIR / "comments.txt"
-    with open(text_file, 'w', encoding='utf-8') as f:
+    with open(text_file, 'w', encoding='utf-8', newline='\n') as f:
         for comment in comments:
-            # Replace newlines with spaces to keep one comment per line
-            text = comment['text'].replace('\n', ' ').replace('\r', ' ')
-            f.write(text + '\n')
+            # Text is already cleaned, just write it
+            f.write(comment['text'] + '\n')
     
     print(f"Created: {text_file} ({len(comments)} lines)")
     
