@@ -701,6 +701,104 @@ def get_file_detail(folder):
         return jsonify({'error': str(e)}), 500
 
 
+# =============================================================================
+# MODELING ENDPOINTS
+# =============================================================================
+
+MODELING_DIR = os.path.join(os.path.dirname(__file__), 'modeling')
+MODELING_DATASETS_DIR = os.path.join(MODELING_DIR, 'datasets')
+MODELING_CACHE_DIR = os.path.join(MODELING_DIR, 'cache')
+
+
+def get_latest_file(directory, pattern):
+    """Get the most recent file matching a pattern."""
+    import glob
+    files = glob.glob(os.path.join(directory, pattern))
+    if not files:
+        return None
+    return max(files, key=os.path.getmtime)
+
+
+@app.route('/api/modeling/stats')
+def modeling_stats():
+    """Get dataset stats for modeling."""
+    stats_file = os.path.join(MODELING_DATASETS_DIR, 'stats.json')
+    if os.path.exists(stats_file):
+        with open(stats_file, 'r', encoding='utf-8') as f:
+            return jsonify(json.load(f))
+    return jsonify({'error': 'No dataset stats found. Run create_dataset.py first.'}), 404
+
+
+@app.route('/api/modeling/topics')
+def modeling_topics():
+    """Get the latest topic extraction results."""
+    topics_file = get_latest_file(MODELING_DATASETS_DIR, 'topics_result_*.json')
+    if not topics_file:
+        return jsonify({'error': 'No topics found. Run extract_topics.py first.'}), 404
+    
+    with open(topics_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    
+    data['filename'] = os.path.basename(topics_file)
+    return jsonify(data)
+
+
+@app.route('/api/modeling/topics-named')
+def modeling_topics_named():
+    """Get the latest named topics results."""
+    named_file = get_latest_file(MODELING_DATASETS_DIR, 'topics_named_*.json')
+    if not named_file:
+        return jsonify({'error': 'No named topics found. Run name_topics.py first.'}), 404
+    
+    with open(named_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    
+    data['filename'] = os.path.basename(named_file)
+    return jsonify(data)
+
+
+@app.route('/api/modeling/stopwords')
+def modeling_stopwords():
+    """Get detected stop words."""
+    stopwords_file = os.path.join(MODELING_CACHE_DIR, 'detected_stopwords.json')
+    if not os.path.exists(stopwords_file):
+        return jsonify({'error': 'No stop words detected. Run detect_stopwords.py first.'}), 404
+    
+    with open(stopwords_file, 'r', encoding='utf-8') as f:
+        return jsonify(json.load(f))
+
+
+@app.route('/api/modeling/visualizations')
+def modeling_visualizations():
+    """List available visualization files."""
+    viz_dir = os.path.join(MODELING_DIR, 'visualizations')
+    if not os.path.exists(viz_dir):
+        return jsonify({'files': []})
+    
+    files = []
+    for f in os.listdir(viz_dir):
+        if f.endswith('.html'):
+            files.append({
+                'name': f,
+                'type': f.split('_')[0],  # galaxy, hierarchy, etc.
+                'path': f'/modeling/visualizations/{f}'
+            })
+    
+    # Sort by modification time
+    files.sort(key=lambda x: os.path.getmtime(os.path.join(viz_dir, x['name'])), reverse=True)
+    return jsonify({'files': files})
+
+
+@app.route('/modeling/visualizations/<filename>')
+def serve_visualization(filename):
+    """Serve visualization HTML files."""
+    viz_dir = os.path.join(MODELING_DIR, 'visualizations')
+    filepath = os.path.join(viz_dir, filename)
+    if os.path.exists(filepath):
+        return send_file(filepath)
+    return jsonify({'error': 'File not found'}), 404
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='YouTube Comments Scraper')
     parser.add_argument('--port', type=int, default=4242, help='Port to run the server on (default: 4242)')
