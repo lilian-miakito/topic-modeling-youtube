@@ -2,8 +2,10 @@ import os
 import json
 import argparse
 import threading
+import uuid
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from queue import Queue
 from flask import Flask, render_template, request, jsonify, send_file
 import yt_dlp
 
@@ -15,6 +17,24 @@ app.config['OUTPUT_DIR'] = 'data'
 
 # Créer le dossier data s'il n'existe pas
 os.makedirs(app.config['OUTPUT_DIR'], exist_ok=True)
+
+# Global state for extraction tracking
+extraction_state = {
+    'active': False,
+    'stop_requested': False,
+    'current_channel': None,
+    'current_video': None,
+    'videos_total': 0,
+    'videos_completed': 0,
+    'comments_extracted': 0,
+    'filename': None
+}
+extraction_lock = threading.Lock()
+
+# Queue for multi-channel extraction
+extraction_queue = Queue()
+queue_list = []  # For display purposes
+queue_lock = threading.Lock()
 
 
 def get_already_downloaded_video_ids():
@@ -161,21 +181,37 @@ def save_progress(filepath, data, lock):
             json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-@app.route('/api/scrape-comments', methods=['POST'])
-def scrape_comments():
-    """Endpoint to scrape all comments from a channel (parallelized with progressive save)."""
-    data = request.json
-    channel_input = data.get('channel', '')
-    limit = data.get('limit')  # None means no limit
-    skip_existing = data.get('skip_existing', False)
+def update_extraction_state(**kwargs):
+    """Update global extraction state."""
+    with extraction_lock:
+        extraction_state.update(kwargs)
 
-    if not channel_input:
-        return jsonify({'error': 'Please provide a channel name or ID'}), 400
 
+def reset_extraction_state():
+    """Reset extraction state."""
+    with extraction_lock:
+        extraction_state.update({
+            'active': False,
+            'stop_requested': False,
+            'current_channel': None,
+            'current_video': None,
+            'videos_total': 0,
+            'videos_completed': 0,
+            'comments_extracted': 0,
+            'filename': None
+        })
+
+
+def do_extraction(channel_input, limit=None, skip_existing=False):
+    """Worker function for extraction (runs in background thread)."""
     try:
+        update_extraction_state(active=True, stop_requested=False)
+        
         videos, channel_name = get_channel_videos(channel_input)
         total_available = len(videos)
         skipped_count = 0
+
+        update_extraction_state(current_channel=channel_name)
 
         # Filter out already downloaded videos if skip_existing is enabled
         if skip_existing:
@@ -193,6 +229,8 @@ def scrape_comments():
         safe_channel_name = "".join(c for c in channel_name if c.isalnum() or c in (' ', '-', '_')).strip()
         filename = f"{safe_channel_name}.json"
         filepath = os.path.join(app.config['OUTPUT_DIR'], filename)
+        
+        update_extraction_state(filename=filename)
         
         # If file already exists, load existing videos to merge
         existing_videos = []
@@ -212,18 +250,19 @@ def scrape_comments():
         
         if len(videos) == 0:
             print("All videos already extracted, nothing new to do")
-            total_comments = sum(v.get('comment_count', 0) for v in existing_videos)
-            return jsonify({
+            reset_extraction_state()
+            return {
                 'success': True,
                 'channel_name': channel_name,
                 'total_videos': len(existing_videos),
-                'total_available': total_available,
-                'skipped_existing': skipped_count + len(existing_video_ids),
-                'total_comments': total_comments,
-                'filename': filename,
-                'filepath': filepath,
                 'message': 'All videos already extracted'
-            })
+            }
+
+        update_extraction_state(
+            videos_total=len(videos),
+            videos_completed=0,
+            comments_extracted=sum(v.get('comment_count', 0) for v in existing_videos)
+        )
 
         all_comments = {
             'channel_name': channel_name,
@@ -250,6 +289,12 @@ def scrape_comments():
 
             completed = 0
             for future in as_completed(future_to_video):
+                # Check if stop was requested
+                if extraction_state['stop_requested']:
+                    print("Stop requested, cancelling remaining tasks...")
+                    executor.shutdown(wait=False, cancel_futures=True)
+                    break
+                
                 completed += 1
                 result = future.result()
                 video_title = result['title'][:50] if result['title'] else 'Unknown'
@@ -263,24 +308,138 @@ def scrape_comments():
                 with file_lock:
                     all_comments['videos'].append(result)
                 save_progress(filepath, all_comments, file_lock)
+                
+                # Update global state
+                total_comments = sum(v.get('comment_count', 0) for v in all_comments['videos'])
+                update_extraction_state(
+                    videos_completed=completed,
+                    current_video=video_title,
+                    comments_extracted=total_comments
+                )
 
         # Final stats
         total_comments = sum(v.get('comment_count', 0) for v in all_comments['videos'])
+        was_stopped = extraction_state['stop_requested']
 
-        print(f"Extraction complete! {total_comments} comments saved to {filename}")
+        if was_stopped:
+            print(f"Extraction stopped! {total_comments} comments saved to {filename}")
+        else:
+            print(f"Extraction complete! {total_comments} comments saved to {filename}")
 
-        return jsonify({
+        reset_extraction_state()
+        
+        return {
             'success': True,
             'channel_name': channel_name,
-            'total_videos': len(videos),
-            'total_available': total_available,
-            'skipped_existing': skipped_count,
+            'total_videos': len(all_comments['videos']),
             'total_comments': total_comments,
             'filename': filename,
-            'filepath': filepath
-        })
+            'stopped': was_stopped
+        }
     except Exception as e:
-        return jsonify({'error': str(e)}), 500
+        print(f"Extraction error: {e}")
+        reset_extraction_state()
+        return {'error': str(e)}
+
+
+def queue_worker():
+    """Background worker to process extraction queue."""
+    while True:
+        job = extraction_queue.get()
+        if job is None:
+            break
+        
+        job_id, channel_input, limit, skip_existing = job
+        
+        # Update queue status
+        with queue_lock:
+            for item in queue_list:
+                if item['id'] == job_id:
+                    item['status'] = 'running'
+                    break
+        
+        # Do the extraction
+        result = do_extraction(channel_input, limit, skip_existing)
+        
+        # Update queue status
+        with queue_lock:
+            for item in queue_list:
+                if item['id'] == job_id:
+                    item['status'] = 'completed' if result.get('success') else 'error'
+                    item['result'] = result
+                    break
+        
+        extraction_queue.task_done()
+
+
+# Start the queue worker thread
+queue_thread = threading.Thread(target=queue_worker, daemon=True)
+queue_thread.start()
+
+
+@app.route('/api/scrape-comments', methods=['POST'])
+def scrape_comments():
+    """Endpoint to queue a channel extraction."""
+    data = request.json
+    channel_input = data.get('channel', '')
+    limit = data.get('limit')
+    skip_existing = data.get('skip_existing', False)
+
+    if not channel_input:
+        return jsonify({'error': 'Please provide a channel name or ID'}), 400
+
+    # Create job
+    job_id = str(uuid.uuid4())[:8]
+    job = (job_id, channel_input, limit, skip_existing)
+    
+    # Add to queue
+    with queue_lock:
+        queue_list.append({
+            'id': job_id,
+            'channel': channel_input,
+            'status': 'queued',
+            'result': None
+        })
+    
+    extraction_queue.put(job)
+    
+    return jsonify({
+        'success': True,
+        'job_id': job_id,
+        'message': 'Extraction queued',
+        'queue_position': extraction_queue.qsize()
+    })
+
+
+@app.route('/api/extraction-status')
+def get_extraction_status():
+    """Get current extraction status for real-time progress."""
+    with extraction_lock:
+        status = extraction_state.copy()
+    
+    with queue_lock:
+        status['queue'] = queue_list.copy()
+    
+    return jsonify(status)
+
+
+@app.route('/api/stop-extraction', methods=['POST'])
+def stop_extraction():
+    """Stop the current extraction."""
+    with extraction_lock:
+        if extraction_state['active']:
+            extraction_state['stop_requested'] = True
+            return jsonify({'success': True, 'message': 'Stop requested'})
+        else:
+            return jsonify({'success': False, 'message': 'No extraction in progress'})
+
+
+@app.route('/api/clear-queue', methods=['POST'])
+def clear_queue():
+    """Clear completed/errored items from queue."""
+    with queue_lock:
+        queue_list[:] = [item for item in queue_list if item['status'] in ('queued', 'running')]
+    return jsonify({'success': True})
 
 
 @app.route('/api/download/<filename>')
