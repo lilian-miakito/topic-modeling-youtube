@@ -7,6 +7,7 @@ Takes a random sample of 1000 comments for quick experimentation.
 import random
 import json
 from pathlib import Path
+from datetime import datetime
 
 # Suppress warnings for cleaner output
 import warnings
@@ -16,7 +17,7 @@ from bertopic import BERTopic
 
 
 DATASETS_DIR = Path(__file__).parent / "datasets"
-SAMPLE_SIZE = 1000
+SAMPLE_SIZE = 10000
 
 
 def load_comments():
@@ -110,6 +111,7 @@ def main():
     # Save results
     output_file = DATASETS_DIR / "topics_result.json"
     result = {
+        'generated_at': datetime.now().isoformat(),
         'sample_size': len(sample),
         'num_topics': len(topic_info) - 1,
         'topics': []
