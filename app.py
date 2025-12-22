@@ -16,6 +16,27 @@ app.config['OUTPUT_DIR'] = 'data'
 os.makedirs(app.config['OUTPUT_DIR'], exist_ok=True)
 
 
+def get_already_downloaded_video_ids():
+    """Get all video IDs that have already been downloaded from existing JSON files."""
+    downloaded_ids = set()
+    output_dir = app.config['OUTPUT_DIR']
+    
+    if os.path.exists(output_dir):
+        for filename in os.listdir(output_dir):
+            if filename.endswith('.json'):
+                filepath = os.path.join(output_dir, filename)
+                try:
+                    with open(filepath, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                        for video in data.get('videos', []):
+                            if video.get('video_id'):
+                                downloaded_ids.add(video['video_id'])
+                except Exception:
+                    pass
+    
+    return downloaded_ids
+
+
 def get_channel_videos(channel_url):
     """Récupère la liste de toutes les vidéos d'une chaîne."""
     ydl_opts = {
@@ -132,12 +153,28 @@ def scrape_comments():
     """Endpoint to scrape all comments from a channel (parallelized)."""
     data = request.json
     channel_input = data.get('channel', '')
+    limit = data.get('limit')  # None means no limit
+    skip_existing = data.get('skip_existing', False)
 
     if not channel_input:
         return jsonify({'error': 'Please provide a channel name or ID'}), 400
 
     try:
         videos, channel_name = get_channel_videos(channel_input)
+        total_available = len(videos)
+        skipped_count = 0
+
+        # Filter out already downloaded videos if skip_existing is enabled
+        if skip_existing:
+            already_downloaded = get_already_downloaded_video_ids()
+            original_count = len(videos)
+            videos = [v for v in videos if v['id'] not in already_downloaded]
+            skipped_count = original_count - len(videos)
+            print(f"Skipping {skipped_count} already downloaded videos")
+
+        # Apply limit if specified
+        if limit and limit > 0:
+            videos = videos[:limit]
 
         all_comments = {
             'channel_name': channel_name,
@@ -184,6 +221,8 @@ def scrape_comments():
             'success': True,
             'channel_name': channel_name,
             'total_videos': len(videos),
+            'total_available': total_available,
+            'skipped_existing': skipped_count,
             'total_comments': total_comments,
             'filename': filename,
             'filepath': filepath
