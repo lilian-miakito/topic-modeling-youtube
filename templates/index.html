@@ -936,13 +936,38 @@
                     document.getElementById('videoLabel').textContent = 'Videos';
                     document.getElementById('videoCount').textContent = data.video_count + ' videos';
                 } else {
-                    // Multiple channels - show summary
+                    // Multiple channels - fetch info for each
                     channelsList = channels;
-                    channelData = { multi: true, count: channels.length };
+                    channelData = { multi: true, count: channels.length, details: [] };
+
                     document.getElementById('channelLabel').textContent = 'Channels';
-                    document.getElementById('channelName').textContent = channels.length + ' channels selected';
-                    document.getElementById('videoLabel').textContent = 'List';
-                    document.getElementById('videoCount').textContent = channels.join(', ');
+                    document.getElementById('channelName').textContent = channels.length + ' channels';
+                    document.getElementById('videoLabel').textContent = 'Loading...';
+                    document.getElementById('videoCount').innerHTML = '<span class="spinner"></span>';
+
+                    // Fetch all channel info in parallel
+                    const promises = channels.map(ch =>
+                        fetch('/api/channel-info', {
+                            method: 'POST',
+                            headers: { 'Content-Type': 'application/json' },
+                            body: JSON.stringify({ channel: ch })
+                        }).then(r => r.json()).catch(() => ({ error: true, channel: ch }))
+                    );
+
+                    const results = await Promise.all(promises);
+                    let totalVideos = 0;
+                    const detailsHtml = results.map((r, i) => {
+                        if (r.error) {
+                            return `<div style="padding: 4px 0; color: var(--error);">${channels[i]}: Error</div>`;
+                        }
+                        totalVideos += r.video_count || 0;
+                        channelData.details.push(r);
+                        const subs = r.subscriber_count ? ` (${formatSubscribers(r.subscriber_count)})` : '';
+                        return `<div style="padding: 4px 0;">${r.channel_name}${subs}: <strong>${r.video_count}</strong> videos</div>`;
+                    }).join('');
+
+                    document.getElementById('videoLabel').textContent = 'Total: ' + totalVideos + ' videos';
+                    document.getElementById('videoCount').innerHTML = detailsHtml;
                 }
 
                 document.getElementById('channelInfo').style.display = 'block';
