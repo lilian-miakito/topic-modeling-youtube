@@ -6,8 +6,9 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from flask import Flask, render_template, request, jsonify, send_file
 import yt_dlp
 
-# Number of parallel workers for comment extraction
-MAX_WORKERS = 5
+# Number of parallel workers for comment extraction (default to CPU count)
+DEFAULT_WORKERS = os.cpu_count() or 4
+MAX_WORKERS = DEFAULT_WORKERS * 2  # Allow up to 2x CPU count
 
 app = Flask(__name__)
 app.config['OUTPUT_DIR'] = 'data'
@@ -121,6 +122,16 @@ def index():
     return render_template('index.html')
 
 
+@app.route('/api/system-info')
+def system_info():
+    """Get system info for UI configuration."""
+    return jsonify({
+        'cpu_count': os.cpu_count() or 4,
+        'default_workers': DEFAULT_WORKERS,
+        'max_workers': MAX_WORKERS
+    })
+
+
 @app.route('/api/channel-info', methods=['POST'])
 def get_channel_info():
     """Endpoint pour récupérer les infos de la chaîne."""
@@ -146,6 +157,7 @@ def scrape_comments():
     """Endpoint to scrape all comments from a channel (parallelized, saves per video)."""
     data = request.json
     channel_input = data.get('channel', '')
+    num_workers = min(data.get('workers', DEFAULT_WORKERS), MAX_WORKERS)
 
     if not channel_input:
         return jsonify({'error': 'Please provide a channel name or ID'}), 400
@@ -158,13 +170,13 @@ def scrape_comments():
         channel_dir = os.path.join(app.config['OUTPUT_DIR'], safe_channel_name)
         os.makedirs(channel_dir, exist_ok=True)
 
-        print(f"Starting parallel extraction for {len(videos)} videos with {MAX_WORKERS} workers...")
+        print(f"Starting parallel extraction for {len(videos)} videos with {num_workers} workers...")
         print(f"Saving to: {channel_dir}/")
 
         video_results = []
 
         # Parallel extraction using ThreadPoolExecutor
-        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        with ThreadPoolExecutor(max_workers=num_workers) as executor:
             # Submit all tasks with channel_dir
             future_to_video = {
                 executor.submit(scrape_video_comments, video, channel_dir): video
