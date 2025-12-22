@@ -25,6 +25,8 @@ function showTab(tabName) {
         loadDataFiles();
     } else if (tabName === 'modeling') {
         loadModelingData();
+    } else if (tabName === 'bootstrap') {
+        loadBootstrapTopics();
     }
 }
 
@@ -776,4 +778,177 @@ document.addEventListener('DOMContentLoaded', async function() {
         console.error('Initial status check failed:', error);
     }
 });
+
+// =============================================================================
+// Bootstrap Tab - Topic Naming
+// =============================================================================
+
+let bootstrapTopics = [];
+let groundTruth = {};
+let currentNamingTopic = null;
+
+async function loadBootstrapTopics() {
+    try {
+        // Load topics
+        const topicsRes = await fetch('/api/modeling/topics');
+        if (topicsRes.ok) {
+            const data = await topicsRes.json();
+            bootstrapTopics = data.topics || [];
+        }
+
+        // Load existing ground truth
+        const gtRes = await fetch('/api/bootstrap/ground-truth');
+        if (gtRes.ok) {
+            groundTruth = await gtRes.json();
+        } else {
+            groundTruth = {};
+        }
+
+        updateNamingProgress();
+        renderGroundTruthStats();
+
+        if (bootstrapTopics.length > 0) {
+            document.getElementById('namingEmpty').style.display = 'none';
+            document.getElementById('namingContent').style.display = 'block';
+            showRandomUnnamedTopic();
+        } else {
+            document.getElementById('namingEmpty').innerHTML = `
+                <div class="empty-icon">📊</div>
+                <div class="empty-title">No topics available</div>
+                <div class="empty-text">Run extract_topics.py first</div>
+            `;
+        }
+    } catch (error) {
+        console.error('Error loading bootstrap data:', error);
+    }
+}
+
+function updateNamingProgress() {
+    const named = Object.keys(groundTruth).length;
+    const total = bootstrapTopics.length;
+    document.getElementById('namingProgress').textContent = `${named}/${total} named`;
+}
+
+function showRandomUnnamedTopic() {
+    // Find topics not yet in ground truth
+    const unnamed = bootstrapTopics.filter(t => !groundTruth[t.id]);
+    
+    if (unnamed.length === 0) {
+        // All named! Show a random one for review
+        showRandomTopic();
+        return;
+    }
+
+    // Pick random unnamed
+    const topic = unnamed[Math.floor(Math.random() * unnamed.length)];
+    displayTopicForNaming(topic);
+}
+
+function showRandomTopic() {
+    if (bootstrapTopics.length === 0) return;
+    const topic = bootstrapTopics[Math.floor(Math.random() * bootstrapTopics.length)];
+    displayTopicForNaming(topic);
+}
+
+function displayTopicForNaming(topic) {
+    currentNamingTopic = topic;
+
+    document.getElementById('namingTopicId').textContent = topic.id;
+    document.getElementById('namingTopicCount').textContent = `${topic.count} comments`;
+
+    // Top words
+    const words = topic.top_words_centroid_mmr || topic.top_words || [];
+    document.getElementById('namingTopWords').innerHTML = words.slice(0, 15).map(w =>
+        `<span style="display: inline-block; background: var(--bg-secondary); padding: 4px 10px; border-radius: 4px; margin: 2px; font-size: 13px;">${w}</span>`
+    ).join('');
+
+    // Example comments
+    const comments = topic.example_comments_centroid_mmr || topic.example_comments_original || [];
+    document.getElementById('namingComments').innerHTML = comments.slice(0, 10).map((c, i) =>
+        `<p style="margin: 8px 0; padding-bottom: 8px; border-bottom: 1px solid var(--border-color); font-size: 13px; color: var(--text-secondary); line-height: 1.5;">
+            <span style="color: var(--text-muted);">${i + 1}.</span> ${c}
+        </p>`
+    ).join('');
+
+    // Pre-fill with existing name if any
+    const existingName = groundTruth[topic.id] || topic.generated_name || '';
+    document.getElementById('namingInput').value = existingName;
+    document.getElementById('namingInput').focus();
+}
+
+async function saveAndNextTopic() {
+    if (!currentNamingTopic) return;
+
+    const name = document.getElementById('namingInput').value.trim();
+    if (!name) {
+        alert('Please enter a name for the topic');
+        return;
+    }
+
+    // Save to ground truth
+    groundTruth[currentNamingTopic.id] = name;
+
+    try {
+        await fetch('/api/bootstrap/ground-truth', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ topic_id: currentNamingTopic.id, name: name })
+        });
+    } catch (error) {
+        console.error('Error saving ground truth:', error);
+    }
+
+    updateNamingProgress();
+    renderGroundTruthStats();
+    showRandomUnnamedTopic();
+}
+
+function skipTopic() {
+    showRandomUnnamedTopic();
+}
+
+function renderGroundTruthStats() {
+    const container = document.getElementById('groundTruthStats');
+    const entries = Object.entries(groundTruth);
+
+    if (entries.length === 0) {
+        container.innerHTML = 'No ground truth data yet. Start naming topics above!';
+        return;
+    }
+
+    container.innerHTML = `
+        <p style="margin-bottom: 12px;"><strong>${entries.length}</strong> topics named</p>
+        <div style="max-height: 200px; overflow-y: auto;">
+            ${entries.slice(-10).reverse().map(([id, name]) =>
+                `<div style="padding: 6px 0; border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between;">
+                    <span style="color: var(--text-muted);">Topic ${id}</span>
+                    <span>${name}</span>
+                </div>`
+            ).join('')}
+            ${entries.length > 10 ? `<p style="color: var(--text-muted); margin-top: 8px;">... and ${entries.length - 10} more</p>` : ''}
+        </div>
+    `;
+}
+
+function downloadGroundTruth() {
+    const dataStr = JSON.stringify(groundTruth, null, 2);
+    const blob = new Blob([dataStr], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'naming_ground_truth.json';
+    a.click();
+    URL.revokeObjectURL(url);
+}
+
+function showBootstrapSubtab(subtab) {
+    document.querySelectorAll('.bootstrap-subtab-content').forEach(el => {
+        el.style.display = 'none';
+    });
+    document.querySelectorAll('.bootstrap-subtab').forEach(btn => {
+        btn.classList.remove('active');
+    });
+    document.getElementById('bootstrap-subtab-' + subtab).style.display = 'block';
+    document.querySelector(`.bootstrap-subtab[data-subtab="${subtab}"]`)?.classList.add('active');
+}
 

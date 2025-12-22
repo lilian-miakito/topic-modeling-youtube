@@ -28,6 +28,10 @@
                 <span class="nav-icon">&#9881;</span>
                 <span>Modeling</span>
             </button>
+            <button class="nav-item" onclick="showTab('bootstrap')">
+                <span class="nav-icon">🏷️</span>
+                <span>Bootstrap</span>
+            </button>
         </div>
     </nav>
 
@@ -375,6 +379,92 @@
                         <h2 class="card-title">Parameters Used</h2>
                     </div>
                     <pre id="paramsJson" style="background: var(--bg-secondary); padding: 16px; border-radius: 8px; overflow-x: auto; font-size: 12px; color: var(--text-secondary);">-</pre>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB: Bootstrap -->
+        <div id="tab-bootstrap" class="tab-content">
+            <div class="page-header">
+                <h1 class="page-title">Bootstrap</h1>
+                <p class="page-subtitle">Manual labeling tools for ground truth creation</p>
+            </div>
+
+            <!-- Sub-tabs navigation -->
+            <div style="display: flex; gap: 8px; margin-bottom: 24px; border-bottom: 1px solid var(--border-color); padding-bottom: 12px;">
+                <button class="btn btn-secondary btn-sm bootstrap-subtab active" onclick="showBootstrapSubtab('name')" data-subtab="name">
+                    🏷️ Name Topics
+                </button>
+            </div>
+
+            <!-- SUBTAB: Name Topics -->
+            <div id="bootstrap-subtab-name" class="bootstrap-subtab-content">
+                <div class="card">
+                    <div class="card-header">
+                        <h2 class="card-title">Topic Naming</h2>
+                        <div style="display: flex; gap: 12px; align-items: center;">
+                            <span id="namingProgress" style="color: var(--text-muted); font-size: 13px;">0/0 named</span>
+                            <button class="btn btn-secondary btn-sm" onclick="loadBootstrapTopics()">Reload</button>
+                        </div>
+                    </div>
+
+                    <div id="namingContainer">
+                        <div class="empty-state" id="namingEmpty">
+                            <div class="empty-icon">🏷️</div>
+                            <div class="empty-title">Loading topics...</div>
+                        </div>
+
+                        <div id="namingContent" style="display: none;">
+                            <!-- Topic info -->
+                            <div style="margin-bottom: 24px;">
+                                <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 16px;">
+                                    <span style="font-weight: 600; font-size: 18px;">Topic <span id="namingTopicId">?</span></span>
+                                    <span class="badge" style="background: var(--bg-secondary);" id="namingTopicCount">? comments</span>
+                                </div>
+
+                                <!-- Top words -->
+                                <div style="margin-bottom: 16px;">
+                                    <div style="font-size: 13px; color: var(--text-muted); margin-bottom: 8px;">Top Words (semantic)</div>
+                                    <div id="namingTopWords"></div>
+                                </div>
+
+                                <!-- Example comments -->
+                                <div>
+                                    <div style="font-size: 13px; color: var(--text-muted); margin-bottom: 8px;">Example Comments</div>
+                                    <div id="namingComments" style="background: var(--bg-secondary); border-radius: 8px; padding: 16px; max-height: 300px; overflow-y: auto;"></div>
+                                </div>
+                            </div>
+
+                            <!-- Name input -->
+                            <div style="margin-bottom: 20px;">
+                                <label class="form-label">Your name for this topic</label>
+                                <div class="input-group">
+                                    <input type="text" id="namingInput" placeholder="Enter a descriptive name..." onkeypress="if(event.key==='Enter') saveAndNextTopic()">
+                                    <button class="btn btn-primary" onclick="saveAndNextTopic()">
+                                        Save & Next →
+                                    </button>
+                                </div>
+                                <p class="help-text">Press Enter or click to save and get a random unlabeled topic</p>
+                            </div>
+
+                            <!-- Skip button -->
+                            <div style="display: flex; gap: 12px;">
+                                <button class="btn btn-secondary btn-sm" onclick="skipTopic()">Skip (no name)</button>
+                                <button class="btn btn-secondary btn-sm" onclick="showRandomTopic()">Random topic</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Ground truth stats -->
+                <div class="card">
+                    <div class="card-header">
+                        <h2 class="card-title">Ground Truth</h2>
+                        <button class="btn btn-secondary btn-sm" onclick="downloadGroundTruth()">Download JSON</button>
+                    </div>
+                    <div id="groundTruthStats" style="color: var(--text-secondary); font-size: 14px;">
+                        No ground truth data yet.
+                    </div>
                 </div>
             </div>
         </div>

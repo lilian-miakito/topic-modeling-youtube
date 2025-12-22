@@ -108,7 +108,7 @@ body {
     color: white;
 }
 
-.modeling-subtab.active, .viz-tab.active {
+.modeling-subtab.active, .viz-tab.active, .bootstrap-subtab.active {
     background: var(--accent) !important;
     color: white !important;
     border-color: var(--accent) !important;

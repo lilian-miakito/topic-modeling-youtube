@@ -150,23 +150,18 @@ def main():
         print(f"  Keywords: {', '.join(top_words[:min(5, NUM_TOP_WORDS)])}")
         print()
     
-    # Save results
-    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    output_file = DATASETS_DIR / f"topics_named_{timestamp}.json"
-    
-    result = {
+    # Merge in-place: update original file with generated names
+    data['topics'] = named_topics
+    data['naming'] = {
         'generated_at': datetime.now().isoformat(),
-        'source_file': topics_file.name,
-        'model_used': MODEL_NAME,
-        'num_topics': len(named_topics),
-        'topics': named_topics
+        'model_used': MODEL_NAME
     }
     
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(result, f, ensure_ascii=False, indent=2)
+    with open(topics_file, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
     
     print("=" * 60)
-    print(f"Results saved to: {output_file}")
+    print(f"Names merged into: {topics_file.name}")
     
     # Also print a summary
     print("\n--- Summary ---")

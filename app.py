@@ -743,20 +743,6 @@ def modeling_topics():
     return jsonify(data)
 
 
-@app.route('/api/modeling/topics-named')
-def modeling_topics_named():
-    """Get the latest named topics results."""
-    named_file = get_latest_file(MODELING_DATASETS_DIR, 'topics_named_*.json')
-    if not named_file:
-        return jsonify({'error': 'No named topics found. Run name_topics.py first.'}), 404
-    
-    with open(named_file, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-    
-    data['filename'] = os.path.basename(named_file)
-    return jsonify(data)
-
-
 @app.route('/api/modeling/stopwords')
 def modeling_stopwords():
     """Get detected stop words."""
@@ -797,6 +783,48 @@ def serve_visualization(filename):
     if os.path.exists(filepath):
         return send_file(filepath)
     return jsonify({'error': 'File not found'}), 404
+
+
+# =============================================================================
+# Bootstrap / Ground Truth API
+# =============================================================================
+
+GROUND_TRUTH_FILE = os.path.join(MODELING_DATASETS_DIR, 'naming_ground_truth.json')
+
+
+@app.route('/api/bootstrap/ground-truth', methods=['GET'])
+def get_ground_truth():
+    """Get the current ground truth for topic naming."""
+    if os.path.exists(GROUND_TRUTH_FILE):
+        with open(GROUND_TRUTH_FILE, 'r', encoding='utf-8') as f:
+            return jsonify(json.load(f))
+    return jsonify({})
+
+
+@app.route('/api/bootstrap/ground-truth', methods=['POST'])
+def save_ground_truth():
+    """Save a topic name to ground truth."""
+    data = request.json
+    topic_id = data.get('topic_id')
+    name = data.get('name')
+    
+    if topic_id is None or not name:
+        return jsonify({'error': 'Missing topic_id or name'}), 400
+    
+    # Load existing
+    ground_truth = {}
+    if os.path.exists(GROUND_TRUTH_FILE):
+        with open(GROUND_TRUTH_FILE, 'r', encoding='utf-8') as f:
+            ground_truth = json.load(f)
+    
+    # Update
+    ground_truth[str(topic_id)] = name
+    
+    # Save
+    with open(GROUND_TRUTH_FILE, 'w', encoding='utf-8') as f:
+        json.dump(ground_truth, f, ensure_ascii=False, indent=2)
+    
+    return jsonify({'success': True, 'total': len(ground_truth)})
 
 
 if __name__ == '__main__':
