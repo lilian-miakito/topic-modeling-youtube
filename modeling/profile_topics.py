@@ -14,7 +14,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 DATASETS_DIR = Path(__file__).parent / "datasets"
-SAMPLE_SIZE = 10
+SAMPLE_SIZE = 1000
 
 
 def load_sample():

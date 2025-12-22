@@ -17,7 +17,7 @@ from bertopic import BERTopic
 
 
 DATASETS_DIR = Path(__file__).parent / "datasets"
-SAMPLE_SIZE = 10000
+SAMPLE_SIZE = 100000
 
 
 def load_comments():
@@ -109,7 +109,8 @@ def main():
             print(f"  • {preview}")
     
     # Save results
-    output_file = DATASETS_DIR / "topics_result.json"
+    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+    output_file = DATASETS_DIR / f"topics_result_{timestamp}.json"
     result = {
         'generated_at': datetime.now().isoformat(),
         'sample_size': len(sample),
