@@ -4,6 +4,10 @@ Extract topics from YouTube comments using BERTopic.
 Takes a random sample of 1000 comments for quick experimentation.
 """
 
+import os
+# Disable tokenizer parallelism warning (must be before imports)
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
 import random
 import json
 from pathlib import Path
@@ -17,13 +21,16 @@ import numpy as np
 import polars as pl
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import silhouette_samples
+from sklearn.metrics.pairwise import cosine_similarity
 from bertopic import BERTopic
-from bertopic.representation import KeyBERTInspired
 from umap import UMAP
 from hdbscan import HDBSCAN
 
 
 DATASETS_DIR = Path(__file__).parent / "datasets"
+CACHE_DIR = Path(__file__).parent / "cache"
+VOCAB_CACHE_FILE = CACHE_DIR / "vocab_embeddings.parquet"
+COMMENTS_CACHE_FILE = CACHE_DIR / "comments_embeddings.parquet"
 
 # =============================================================================
 # CLUSTERING PARAMETERS - Tweak these for exploration!
@@ -50,6 +57,13 @@ NR_TOPICS = None             # None = auto, or set a number to force reduction
 # Vectorizer
 VECTORIZER_MIN_DF = 2        # Word must appear in at least N docs
 VECTORIZER_NGRAM_RANGE = (1, 2)  # (1,1)=unigrams, (1,2)=uni+bigrams
+
+# Semantic word extraction (centroid → vocabulary approach)
+SEMANTIC_TOP_N_WORDS = 10    # Number of semantic words to extract per topic
+SEMANTIC_VOCAB_MIN_DF = 5    # Word must appear in at least N docs to be in vocab
+SEMANTIC_NGRAM_RANGE = (1, 3)  # Include unigrams, bigrams, trigrams
+SEMANTIC_CANDIDATES = 100     # Pre-filter top N candidates before MMR (for speed)
+MMR_LAMBDA = 0.7             # MMR trade-off: 1.0 = pure relevance, 0.0 = pure diversity
 
 # Stop words français + anglais (les plus communs)
 STOP_WORDS_FR = {
@@ -103,6 +117,167 @@ def parse_sample_size():
     return args.size
 
 SAMPLE_SIZE = parse_sample_size()
+
+
+def mmr_selection_fast(centroid_sim: np.ndarray, word_embeddings: np.ndarray, 
+                        candidate_indices: np.ndarray, top_n: int, 
+                        lambda_param: float = 0.7) -> list:
+    """
+    Fast Maximal Marginal Relevance selection using vectorized operations.
+    
+    Args:
+        centroid_sim: Similarity scores between words and topic centroid (full vocab)
+        word_embeddings: Embeddings of candidate words only (pre-filtered)
+        candidate_indices: Original indices of candidates in full vocab
+        top_n: Number of words to select
+        lambda_param: Trade-off between relevance (1.0) and diversity (0.0)
+    
+    Returns:
+        List of selected original indices
+    """
+    n_candidates = len(candidate_indices)
+    if n_candidates == 0:
+        return []
+    
+    # Pre-compute similarity matrix between all candidates (vectorized)
+    candidate_sims = cosine_similarity(word_embeddings)  # N x N matrix
+    
+    # Relevance scores for candidates
+    relevance = centroid_sim[candidate_indices]
+    
+    # Track selected (local indices within candidates)
+    selected_local = [np.argmax(relevance)]
+    remaining = set(range(n_candidates)) - set(selected_local)
+    
+    for _ in range(min(top_n - 1, n_candidates - 1)):
+        if not remaining:
+            break
+        
+        remaining_list = list(remaining)
+        
+        # Max similarity to any already selected word (vectorized lookup)
+        max_sim_to_selected = candidate_sims[np.ix_(remaining_list, selected_local)].max(axis=1)
+        
+        # MMR scores
+        mmr_scores = lambda_param * relevance[remaining_list] - (1 - lambda_param) * max_sim_to_selected
+        
+        # Select best
+        best_local = remaining_list[np.argmax(mmr_scores)]
+        selected_local.append(best_local)
+        remaining.remove(best_local)
+    
+    # Map back to original indices
+    return [candidate_indices[i] for i in selected_local]
+
+
+def _hash_text(text: str) -> str:
+    """Fast hash for cache lookup."""
+    import hashlib
+    return hashlib.md5(text.encode('utf-8')).hexdigest()
+
+
+def get_comments_embeddings_cached(comments: list, embedding_model) -> np.ndarray:
+    """
+    Get embeddings for comments, using cache for already computed ones.
+    Uses MD5 hash of text as cache key.
+    """
+    CACHE_DIR.mkdir(exist_ok=True)
+    
+    # Load existing cache
+    cache_dict = {}
+    if COMMENTS_CACHE_FILE.exists():
+        cache_df = pl.read_parquet(COMMENTS_CACHE_FILE)
+        for row in cache_df.iter_rows(named=True):
+            cache_dict[row['hash']] = np.array(row['embedding'])
+        print(f"   Comments cache loaded: {len(cache_dict)} entries")
+    
+    # Hash all comments
+    comment_hashes = [_hash_text(c) for c in comments]
+    
+    # Find comments not in cache
+    new_indices = [i for i, h in enumerate(comment_hashes) if h not in cache_dict]
+    new_comments = [comments[i] for i in new_indices]
+    new_hashes = [comment_hashes[i] for i in new_indices]
+    
+    cached_count = len(comments) - len(new_comments)
+    print(f"   Comments: {len(comments)} | Cached: {cached_count} | New: {len(new_comments)}")
+    
+    # Encode only new comments
+    if new_comments:
+        print(f"   Encoding {len(new_comments)} new comments...")
+        new_embeddings = embedding_model.encode(
+            new_comments,
+            batch_size=32,
+            show_progress_bar=len(new_comments) > 100
+        )
+        
+        # Add to cache dict
+        for h, emb in zip(new_hashes, new_embeddings):
+            cache_dict[h] = emb
+        
+        # Save updated cache
+        cache_data = {
+            'hash': list(cache_dict.keys()),
+            'embedding': [emb.tolist() for emb in cache_dict.values()]
+        }
+        cache_df = pl.DataFrame(cache_data)
+        cache_df.write_parquet(COMMENTS_CACHE_FILE)
+        print(f"   Comments cache updated: {len(cache_dict)} entries total")
+    else:
+        print("   All comments found in cache!")
+    
+    # Return embeddings in comments order
+    return np.array([cache_dict[h] for h in comment_hashes])
+
+
+def get_vocab_embeddings_cached(vocabulary: list, embedding_model) -> np.ndarray:
+    """
+    Get embeddings for vocabulary words, using cache for already computed ones.
+    Only encodes new words and updates the cache.
+    """
+    CACHE_DIR.mkdir(exist_ok=True)
+    
+    # Load existing cache
+    cache_dict = {}
+    if VOCAB_CACHE_FILE.exists():
+        cache_df = pl.read_parquet(VOCAB_CACHE_FILE)
+        for row in cache_df.iter_rows(named=True):
+            cache_dict[row['word']] = np.array(row['embedding'])
+        print(f"   Cache loaded: {len(cache_dict)} words")
+    
+    # Find words not in cache
+    vocab_set = set(vocabulary)
+    cached_words = set(cache_dict.keys())
+    new_words = list(vocab_set - cached_words)
+    
+    print(f"   Vocabulary: {len(vocabulary)} | Cached: {len(vocab_set & cached_words)} | New: {len(new_words)}")
+    
+    # Encode only new words
+    if new_words:
+        print(f"   Encoding {len(new_words)} new words...")
+        new_embeddings = embedding_model.encode(
+            new_words,
+            batch_size=128,
+            show_progress_bar=len(new_words) > 100
+        )
+        
+        # Add to cache dict
+        for word, emb in zip(new_words, new_embeddings):
+            cache_dict[word] = emb
+        
+        # Save updated cache
+        cache_data = {
+            'word': list(cache_dict.keys()),
+            'embedding': [emb.tolist() for emb in cache_dict.values()]
+        }
+        cache_df = pl.DataFrame(cache_data)
+        cache_df.write_parquet(VOCAB_CACHE_FILE)
+        print(f"   Cache updated: {len(cache_dict)} words total")
+    else:
+        print("   All words found in cache!")
+    
+    # Return embeddings in vocabulary order
+    return np.array([cache_dict[word] for word in vocabulary])
 
 
 def load_comments():
@@ -175,28 +350,48 @@ def main():
         ngram_range=VECTORIZER_NGRAM_RANGE
     )
     
-    # KeyBERT-Inspired gives better keyword extraction for topics
-    representation_model = KeyBERTInspired()
+    # Create embedding model for cache
+    from sentence_transformers import SentenceTransformer
+    embedding_model = SentenceTransformer("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
     
+    # BERTopic without KeyBERTInspired - we use our own centroid+MMR for top words
     topic_model = BERTopic(
         language="multilingual",
         umap_model=umap_model,
         hdbscan_model=hdbscan_model,
         vectorizer_model=vectorizer_model,
-        representation_model=representation_model,
         min_topic_size=MIN_TOPIC_SIZE,
         nr_topics=NR_TOPICS,
         verbose=True
     )
     
-    # Fit the model
-    print("\n4. Fitting model to comments...")
-    topics, probs = topic_model.fit_transform(sample)
+    # Pre-compute embeddings with cache
+    print("\n4. Getting comment embeddings (with cache)...")
+    embeddings = get_comments_embeddings_cached(sample, embedding_model)
     
-    # Get embeddings for cluster quality analysis
-    print("\n5. Computing cluster quality metrics...")
-    embeddings = topic_model._extract_embeddings(sample, method="document")
+    # Fit the model with pre-computed embeddings
+    print("\n5. Fitting model to comments...")
+    topics, probs = topic_model.fit_transform(sample, embeddings=embeddings)
+    
+    # Get reduced embeddings for cluster quality analysis
+    print("\n6. Computing cluster quality metrics...")
     embeddings_reduced = umap_model.transform(embeddings)
+    
+    # Build vocabulary for semantic word extraction
+    print("\n7. Building vocabulary for semantic word extraction...")
+    vocab_vectorizer = CountVectorizer(
+        stop_words=list(STOP_WORDS),
+        min_df=SEMANTIC_VOCAB_MIN_DF,
+        ngram_range=SEMANTIC_NGRAM_RANGE,  # Unigrams, bigrams, trigrams
+        token_pattern=r'\b[a-zA-ZÀ-ÿ]{3,}\b'  # At least 3 chars, letters only
+    )
+    vocab_vectorizer.fit(sample)
+    vocabulary = list(vocab_vectorizer.vocabulary_.keys())
+    print(f"   Vocabulary size: {len(vocabulary)} words")
+    
+    # Get vocabulary embeddings (with cache for speed)
+    vocab_embeddings = get_vocab_embeddings_cached(vocabulary, embedding_model)
+    print(f"   Vocabulary embeddings shape: {vocab_embeddings.shape}")
     
     # Compute silhouette per cluster and intra-cluster variance
     topics_array = np.array(topics)
@@ -230,10 +425,28 @@ def main():
             variance = float(distances.std())
             max_dist = float(distances.max())
             
+            # Semantic words: find words closest to cluster centroid with MMR for diversity
+            cluster_doc_embeddings = embeddings[mask]  # Original embeddings, not reduced
+            topic_centroid = cluster_doc_embeddings.mean(axis=0).reshape(1, -1)
+            similarities = cosine_similarity(topic_centroid, vocab_embeddings)[0]
+            
+            # Pre-filter top candidates for speed (before MMR)
+            top_candidate_indices = np.argsort(similarities)[-SEMANTIC_CANDIDATES:][::-1]
+            candidate_embeddings = vocab_embeddings[top_candidate_indices]
+            
+            # Use fast MMR on pre-filtered candidates
+            selected_indices = mmr_selection_fast(
+                similarities, candidate_embeddings, top_candidate_indices,
+                top_n=SEMANTIC_TOP_N_WORDS, 
+                lambda_param=MMR_LAMBDA
+            )
+            semantic_words = [(vocabulary[i], float(similarities[i])) for i in selected_indices]
+            
             cluster_metrics[cluster_id] = {
                 'silhouette': round(mean_silhouette, 4),
                 'variance': round(variance, 4),
-                'max_distance': round(max_dist, 4)
+                'max_distance': round(max_dist, 4),
+                'centroid_mmr_words': semantic_words
             }
     
     # Get topic info
@@ -248,21 +461,22 @@ def main():
     print(topic_info.to_string())
     
     # Show top words for each topic with quality metrics
-    print("\n--- Topic Quality & Top Words ---")
+    print("\n--- Topic Quality & Top Words (Centroid+MMR) ---")
     for topic_id in topic_info['Topic'].tolist():
         if topic_id == -1:
             continue  # Skip outlier topic
-        topic_words = topic_model.get_topic(topic_id)
         metrics = cluster_metrics.get(topic_id, {})
         sil = metrics.get('silhouette', 0)
         var = metrics.get('variance', 0)
+        centroid_mmr_words = metrics.get('centroid_mmr_words', [])
         
         # Flag potential fourre-tout clusters
         flag = " ⚠️ FOURRE-TOUT?" if sil < 0.1 else ""
         
-        if topic_words:
-            words = [word for word, _ in topic_words[:8]]
-            print(f"\nTopic {topic_id} [sil={sil:.3f}, var={var:.3f}]{flag}: {', '.join(words)}")
+        print(f"\nTopic {topic_id} [sil={sil:.3f}, var={var:.3f}]{flag}")
+        if centroid_mmr_words:
+            words_display = [f"{word}({score:.2f})" for word, score in centroid_mmr_words[:8]]
+            print(f"  {', '.join(words_display)}")
     
     # Show example comments for top topics
     print("\n--- Example Comments per Topic ---")
@@ -309,16 +523,17 @@ def main():
     for topic_id in topic_info['Topic'].tolist():
         if topic_id == -1:
             continue
-        topic_words = topic_model.get_topic(topic_id)
         topic_comments = [sample[i] for i, t in enumerate(topics) if t == topic_id]
         metrics = cluster_metrics.get(topic_id, {})
+        centroid_mmr_words = metrics.get('centroid_mmr_words', [])
         result['topics'].append({
             'id': topic_id,
             'count': len(topic_comments),
             'silhouette': metrics.get('silhouette', None),
             'variance': metrics.get('variance', None),
             'max_distance': metrics.get('max_distance', None),
-            'top_words': [word for word, _ in topic_words[:10]] if topic_words else [],
+            'top_words_centroid_mmr': [w for w, _ in centroid_mmr_words],
+            'top_words_centroid_mmr_detail': [{'word': w, 'similarity': round(s, 4)} for w, s in centroid_mmr_words],
             'example_comments': topic_comments[:5]
         })
     
@@ -329,7 +544,7 @@ def main():
     
     # Save the BERTopic model for visualization
     model_dir = DATASETS_DIR / "bertopic_model"
-    print(f"\n6. Saving BERTopic model to: {model_dir}")
+    print(f"\n8. Saving BERTopic model to: {model_dir}")
     topic_model.save(model_dir, serialization="safetensors", save_ctfidf=True, save_embedding_model="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
     
     # Save the documents (sample) for visualization
