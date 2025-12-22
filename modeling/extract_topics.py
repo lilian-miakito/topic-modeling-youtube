@@ -13,13 +13,43 @@ from datetime import datetime
 import warnings
 warnings.filterwarnings("ignore")
 
+import numpy as np
 import polars as pl
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics import silhouette_samples
 from bertopic import BERTopic
 from bertopic.representation import KeyBERTInspired
+from umap import UMAP
+from hdbscan import HDBSCAN
 
 
 DATASETS_DIR = Path(__file__).parent / "datasets"
+
+# =============================================================================
+# CLUSTERING PARAMETERS - Tweak these for exploration!
+# =============================================================================
+
+# UMAP: Dimensionality reduction before clustering
+# Choix basé sur sweep_results_20251222_190342.json (Run 30)
+# → 6 topics, 38% outliers, silhouette 0.471 (meilleur ratio topics/qualité)
+UMAP_N_NEIGHBORS = 15        # Higher = more global structure, lower = more local
+UMAP_N_COMPONENTS = 5        # Number of dimensions to reduce to
+UMAP_MIN_DIST = 0.0          # 0.0 = tight clusters, 1.0 = spread out
+UMAP_METRIC = "cosine"       # Distance metric (cosine works well for text)
+
+# HDBSCAN: Clustering algorithm
+HDBSCAN_MIN_CLUSTER_SIZE = 50    # Minimum docs per cluster (smaller = more topics)
+HDBSCAN_MIN_SAMPLES = 10         # Core points required (higher = denser clusters)
+HDBSCAN_CLUSTER_EPSILON = 0.0    # Distance threshold (0 = auto, higher = merge close clusters)
+HDBSCAN_METRIC = "euclidean"     # Distance metric for clustering
+
+# BERTopic
+MIN_TOPIC_SIZE = 5           # Minimum documents per topic
+NR_TOPICS = None             # None = auto, or set a number to force reduction
+
+# Vectorizer
+VECTORIZER_MIN_DF = 2        # Word must appear in at least N docs
+VECTORIZER_NGRAM_RANGE = (1, 2)  # (1,1)=unigrams, (1,2)=uni+bigrams
 
 # Stop words français + anglais (les plus communs)
 STOP_WORDS_FR = {
@@ -114,31 +144,97 @@ def main():
     sample = [c for c in sample if len(c) > 20]
     print(f"   After filtering short comments: {len(sample)}")
     
-    # Create BERTopic model with KeyBERT-inspired representation
-    print("\n3. Creating BERTopic model with KeyBERT-Inspired representation...")
+    # Create BERTopic model with explicit UMAP and HDBSCAN
+    print("\n3. Creating BERTopic model...")
     print("   (This may take a minute on first run - downloading model)")
+    print(f"   UMAP: n_neighbors={UMAP_N_NEIGHBORS}, n_components={UMAP_N_COMPONENTS}, min_dist={UMAP_MIN_DIST}")
+    print(f"   HDBSCAN: min_cluster_size={HDBSCAN_MIN_CLUSTER_SIZE}, min_samples={HDBSCAN_MIN_SAMPLES}")
+    
+    # UMAP for dimensionality reduction
+    umap_model = UMAP(
+        n_neighbors=UMAP_N_NEIGHBORS,
+        n_components=UMAP_N_COMPONENTS,
+        min_dist=UMAP_MIN_DIST,
+        metric=UMAP_METRIC,
+        random_state=42
+    )
+    
+    # HDBSCAN for clustering
+    hdbscan_model = HDBSCAN(
+        min_cluster_size=HDBSCAN_MIN_CLUSTER_SIZE,
+        min_samples=HDBSCAN_MIN_SAMPLES,
+        cluster_selection_epsilon=HDBSCAN_CLUSTER_EPSILON,
+        metric=HDBSCAN_METRIC,
+        prediction_data=True
+    )
     
     # CountVectorizer with stop words to filter out common words
     vectorizer_model = CountVectorizer(
         stop_words=list(STOP_WORDS),
-        min_df=2,           # Word must appear in at least 2 docs
-        ngram_range=(1, 2)  # Unigrams and bigrams for better context
+        min_df=VECTORIZER_MIN_DF,
+        ngram_range=VECTORIZER_NGRAM_RANGE
     )
     
     # KeyBERT-Inspired gives better keyword extraction for topics
     representation_model = KeyBERTInspired()
     
     topic_model = BERTopic(
-        language="multilingual",  # Works for English + other languages
-        min_topic_size=5,         # Minimum documents per topic
+        language="multilingual",
+        umap_model=umap_model,
+        hdbscan_model=hdbscan_model,
         vectorizer_model=vectorizer_model,
         representation_model=representation_model,
+        min_topic_size=MIN_TOPIC_SIZE,
+        nr_topics=NR_TOPICS,
         verbose=True
     )
     
     # Fit the model
     print("\n4. Fitting model to comments...")
     topics, probs = topic_model.fit_transform(sample)
+    
+    # Get embeddings for cluster quality analysis
+    print("\n5. Computing cluster quality metrics...")
+    embeddings = topic_model._extract_embeddings(sample, method="document")
+    embeddings_reduced = umap_model.transform(embeddings)
+    
+    # Compute silhouette per cluster and intra-cluster variance
+    topics_array = np.array(topics)
+    non_outlier_mask = topics_array != -1
+    
+    cluster_metrics = {}
+    if non_outlier_mask.sum() > 1:
+        # Silhouette scores (only for non-outliers)
+        silhouette_scores = silhouette_samples(
+            embeddings_reduced[non_outlier_mask], 
+            topics_array[non_outlier_mask]
+        )
+        
+        # Map back to full array
+        full_silhouette = np.full(len(topics), np.nan)
+        full_silhouette[non_outlier_mask] = silhouette_scores
+        
+        for cluster_id in set(topics):
+            if cluster_id == -1:
+                continue
+            mask = topics_array == cluster_id
+            cluster_points = embeddings_reduced[mask]
+            
+            # Silhouette for this cluster
+            cluster_silhouette = full_silhouette[mask]
+            mean_silhouette = float(np.nanmean(cluster_silhouette))
+            
+            # Variance: distance to centroid
+            centroid = cluster_points.mean(axis=0)
+            distances = np.linalg.norm(cluster_points - centroid, axis=1)
+            variance = float(distances.std())
+            max_dist = float(distances.max())
+            
+            cluster_metrics[cluster_id] = {
+                'silhouette': round(mean_silhouette, 4),
+                'variance': round(variance, 4),
+                'max_distance': round(max_dist, 4)
+            }
     
     # Get topic info
     print("\n" + "=" * 60)
@@ -151,15 +247,22 @@ def main():
     print("\n--- Topic Overview ---")
     print(topic_info.to_string())
     
-    # Show top words for each topic
-    print("\n--- Top Words per Topic ---")
+    # Show top words for each topic with quality metrics
+    print("\n--- Topic Quality & Top Words ---")
     for topic_id in topic_info['Topic'].tolist():
         if topic_id == -1:
             continue  # Skip outlier topic
         topic_words = topic_model.get_topic(topic_id)
+        metrics = cluster_metrics.get(topic_id, {})
+        sil = metrics.get('silhouette', 0)
+        var = metrics.get('variance', 0)
+        
+        # Flag potential fourre-tout clusters
+        flag = " ⚠️ FOURRE-TOUT?" if sil < 0.1 else ""
+        
         if topic_words:
             words = [word for word, _ in topic_words[:8]]
-            print(f"\nTopic {topic_id}: {', '.join(words)}")
+            print(f"\nTopic {topic_id} [sil={sil:.3f}, var={var:.3f}]{flag}: {', '.join(words)}")
     
     # Show example comments for top topics
     print("\n--- Example Comments per Topic ---")
@@ -182,6 +285,24 @@ def main():
         'generated_at': datetime.now().isoformat(),
         'sample_size': len(sample),
         'num_topics': len(topic_info) - 1,
+        'params': {
+            'umap': {
+                'n_neighbors': UMAP_N_NEIGHBORS,
+                'n_components': UMAP_N_COMPONENTS,
+                'min_dist': UMAP_MIN_DIST,
+                'metric': UMAP_METRIC
+            },
+            'hdbscan': {
+                'min_cluster_size': HDBSCAN_MIN_CLUSTER_SIZE,
+                'min_samples': HDBSCAN_MIN_SAMPLES,
+                'cluster_epsilon': HDBSCAN_CLUSTER_EPSILON,
+                'metric': HDBSCAN_METRIC
+            },
+            'bertopic': {
+                'min_topic_size': MIN_TOPIC_SIZE,
+                'nr_topics': NR_TOPICS
+            }
+        },
         'topics': []
     }
     
@@ -190,9 +311,13 @@ def main():
             continue
         topic_words = topic_model.get_topic(topic_id)
         topic_comments = [sample[i] for i, t in enumerate(topics) if t == topic_id]
+        metrics = cluster_metrics.get(topic_id, {})
         result['topics'].append({
             'id': topic_id,
             'count': len(topic_comments),
+            'silhouette': metrics.get('silhouette', None),
+            'variance': metrics.get('variance', None),
+            'max_distance': metrics.get('max_distance', None),
             'top_words': [word for word, _ in topic_words[:10]] if topic_words else [],
             'example_comments': topic_comments[:5]
         })
@@ -204,7 +329,7 @@ def main():
     
     # Save the BERTopic model for visualization
     model_dir = DATASETS_DIR / "bertopic_model"
-    print(f"\n5. Saving BERTopic model to: {model_dir}")
+    print(f"\n6. Saving BERTopic model to: {model_dir}")
     topic_model.save(model_dir, serialization="safetensors", save_ctfidf=True, save_embedding_model="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
     
     # Save the documents (sample) for visualization
