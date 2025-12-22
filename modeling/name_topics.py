@@ -16,8 +16,19 @@ warnings.filterwarnings("ignore")
 import torch
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 
+# ==== CONSTANTES D'AJUSTEMENT ====
 DATASETS_DIR = Path(__file__).parent / "datasets"
 MODEL_NAME = "google/flan-t5-large"  # 780M params, bien meilleur
+
+NUM_TOP_WORDS = 20              # Nombre de mots-clés à inclure par topic
+NUM_COMMENTS = 10                # Nombre de commentaires exemples par topic
+MAX_COMMENT_LENGTH = 500        # Longueur max d'un commentaire avant troncation
+PROMPT_MAX_LENGTH = 1024         # Longueur max du prompt (tokenizer)
+MAX_NEW_TOKENS = 128             # max_new_tokens pour la génération du nom
+NUM_BEAMS = 4                   # num_beams pour la génération
+TEMPERATURE = 0.7               # temperature pour la génération
+DO_SAMPLE = False               # do_sample pour la génération
+TOPIC_NAME_WORDS_HINT = "2-5 words max"
 
 def get_latest_topics_file():
     """Find the most recent topics_result file."""
@@ -43,34 +54,40 @@ def load_topics(filepath):
 def generate_topic_name(model, tokenizer, top_words, example_comments, device):
     """Generate a topic name using Flan-T5."""
     # Build the prompt
-    words_str = ", ".join(top_words[:10])
+    words_str = ", ".join(top_words[:NUM_TOP_WORDS])
     
-    # Take first 5 comments, truncate if too long
+    # Take first N comments, truncate if too long
     comments_str = ""
-    for i, comment in enumerate(example_comments[:5], 1):
-        truncated = comment[:150] + "..." if len(comment) > 150 else comment
+    for i, comment in enumerate(example_comments[:NUM_COMMENTS], 1):
+        truncated = comment[:MAX_COMMENT_LENGTH] + "..." if len(comment) > MAX_COMMENT_LENGTH else comment
         comments_str += f"{i}. {truncated}\n"
     
-    prompt = f"""Given these keywords and example comments from a discussion topic, generate a short, descriptive name for this topic (2-5 words max).
-
-Keywords: {words_str}
-
-Example comments:
-{comments_str}
-
-Topic name:"""
+    prompt = (
+        f"Given these keywords and example comments from a discussion topic, generate a short, descriptive name for this topic ({TOPIC_NAME_WORDS_HINT}).\n\n"
+        f"<example>\n"
+        f"Keywords: AI, human-computer interaction, future, technology, innovation\n"
+        f"Example comments:\n"
+        f"You always talk about AI but i think it's really important.\n"
+        f"I'm excited about the potential of AI to help us solve complex problems and make better decisions.\n"
+        f"AI is already changing the way we work and live. It's going to be even more impactful in the future.\n"
+        f"Topic name: The Future of AI and Human-Computer Interaction\n"
+        f"</example>\n\n"
+        f"Keywords: {words_str}\n\n"
+        f"Example comments:\n{comments_str}\n"
+        f"Topic name:"
+    )
 
     # Tokenize and generate
-    inputs = tokenizer(prompt, return_tensors="pt", max_length=512, truncation=True)
+    inputs = tokenizer(prompt, return_tensors="pt", max_length=PROMPT_MAX_LENGTH, truncation=True)
     inputs = {k: v.to(device) for k, v in inputs.items()}
     
     with torch.no_grad():
         outputs = model.generate(
             **inputs,
-            max_new_tokens=20,
-            num_beams=3,
-            temperature=0.7,
-            do_sample=False
+            max_new_tokens=MAX_NEW_TOKENS,
+            num_beams=NUM_BEAMS,
+            temperature=TEMPERATURE,
+            do_sample=DO_SAMPLE
         )
     
     # Decode
@@ -132,7 +149,7 @@ def main():
         })
         
         print(f"Topic {topic_id}: {name}")
-        print(f"  Keywords: {', '.join(top_words[:5])}")
+        print(f"  Keywords: {', '.join(top_words[:min(5, NUM_TOP_WORDS)])}")
         print()
     
     # Save results

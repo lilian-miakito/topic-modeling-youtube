@@ -14,12 +14,55 @@ import warnings
 warnings.filterwarnings("ignore")
 
 import polars as pl
+from sklearn.feature_extraction.text import CountVectorizer
 from bertopic import BERTopic
 from bertopic.representation import KeyBERTInspired
 
 
 DATASETS_DIR = Path(__file__).parent / "datasets"
-import sys
+
+# Stop words français + anglais (les plus communs)
+STOP_WORDS_FR = {
+    "le", "la", "les", "un", "une", "des", "du", "de", "et", "est", "en", "que", "qui",
+    "dans", "ce", "il", "ne", "sur", "se", "pas", "plus", "par", "pour", "au", "aux",
+    "avec", "son", "sa", "ses", "ou", "mais", "comme", "on", "tout", "nous", "vous",
+    "ils", "elle", "elles", "été", "être", "avoir", "fait", "faire", "dit", "dire",
+    "cette", "ces", "sont", "ont", "leur", "leurs", "même", "aussi", "bien", "sans",
+    "peut", "tous", "après", "ainsi", "donc", "entre", "très", "quand", "depuis",
+    "encore", "peu", "ça", "cela", "si", "où", "dont", "ni", "car", "avant", "chez",
+    "vers", "comment", "pourquoi", "quoi", "là", "moins", "autre", "autres", "y",
+    "deux", "fois", "bon", "bonne", "ici", "là", "alors", "toujours", "jamais",
+    "déjà", "trop", "assez", "beaucoup", "plusieurs", "chaque", "quelque", "quelques",
+    "moi", "toi", "lui", "eux", "te", "me", "tu", "je", "suis", "es", "soit",
+    "fais", "vas", "vais", "allons", "allez", "vont", "ont", "avez", "avons",
+    "vraiment", "tellement", "puis", "nan", "oui", "non", "ouais", "ok", "super",
+    "merci", "svp", "stp", "lol", "mdr", "ptdr", "haha", "genre", "truc", "chose",
+    "juste", "parce", "quand", "comme", "car", "donc", "lorsqu", "afin", "sinon"
+}
+
+STOP_WORDS_EN = {
+    "the", "be", "to", "of", "and", "a", "in", "that", "have", "i", "it", "for",
+    "not", "on", "with", "he", "as", "you", "do", "at", "this", "but", "his",
+    "by", "from", "they", "we", "say", "her", "she", "or", "an", "will", "my",
+    "one", "all", "would", "there", "their", "what", "so", "up", "out", "if",
+    "about", "who", "get", "which", "go", "me", "when", "make", "can", "like",
+    "time", "no", "just", "him", "know", "take", "people", "into", "year", "your",
+    "good", "some", "could", "them", "see", "other", "than", "then", "now", "look",
+    "only", "come", "its", "over", "think", "also", "back", "after", "use", "two",
+    "how", "our", "work", "first", "well", "way", "even", "new", "want", "because",
+    "any", "these", "give", "day", "most", "us", "is", "are", "was", "were", "been",
+    "being", "has", "had", "did", "does", "doing", "don", "doesn", "didn", "won",
+    "wouldn", "shouldn", "couldn", "can", "cannot", "could", "should", "would",
+    "might", "must", "shall", "will", "need", "got", "getting", "going", "gonna",
+    "yeah", "yes", "yep", "nope", "ok", "okay", "lol", "lmao", "haha", "wow",
+    "oh", "ah", "um", "uh", "hey", "hi", "hello", "thanks", "thank", "please",
+    "really", "very", "much", "many", "more", "less", "too", "still", "already",
+    "here", "where", "why", "when", "while", "though", "although", "however",
+    "actually", "basically", "literally", "probably", "maybe", "perhaps", "thing"
+}
+
+STOP_WORDS = STOP_WORDS_FR | STOP_WORDS_EN
+
 
 def parse_sample_size():
     import argparse
@@ -75,12 +118,20 @@ def main():
     print("\n3. Creating BERTopic model with KeyBERT-Inspired representation...")
     print("   (This may take a minute on first run - downloading model)")
     
+    # CountVectorizer with stop words to filter out common words
+    vectorizer_model = CountVectorizer(
+        stop_words=list(STOP_WORDS),
+        min_df=2,           # Word must appear in at least 2 docs
+        ngram_range=(1, 2)  # Unigrams and bigrams for better context
+    )
+    
     # KeyBERT-Inspired gives better keyword extraction for topics
     representation_model = KeyBERTInspired()
     
     topic_model = BERTopic(
         language="multilingual",  # Works for English + other languages
         min_topic_size=5,         # Minimum documents per topic
+        vectorizer_model=vectorizer_model,
         representation_model=representation_model,
         verbose=True
     )
@@ -150,6 +201,19 @@ def main():
         json.dump(result, f, ensure_ascii=False, indent=2)
     
     print(f"\n\nResults saved to: {output_file}")
+    
+    # Save the BERTopic model for visualization
+    model_dir = DATASETS_DIR / "bertopic_model"
+    print(f"\n5. Saving BERTopic model to: {model_dir}")
+    topic_model.save(model_dir, serialization="safetensors", save_ctfidf=True, save_embedding_model="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
+    
+    # Save the documents (sample) for visualization
+    docs_file = DATASETS_DIR / "bertopic_docs.json"
+    with open(docs_file, 'w', encoding='utf-8') as f:
+        json.dump({"documents": sample, "topics": topics}, f, ensure_ascii=False)
+    
+    print(f"   Documents saved to: {docs_file}")
+    print("\n   Run 'python visualize_topics.py' to generate visualizations!")
 
 
 if __name__ == "__main__":
