@@ -74,3 +74,34 @@
 
 ---
 
+## Commentaires représentatifs
+
+- par défaut BERTopic prend les premiers commentaires du cluster (pas forcément représentatifs)
+- solution : centroïde+MMR sur les commentaires aussi
+- calculer similarité de chaque commentaire au centroïde du cluster
+- prendre top 20 candidats, puis MMR pour diversifier
+- résultat : commentaires typiques ET diversifiés (pas 5x le même truc reformulé)
+
+---
+
+## Détection automatique des stop words
+
+- problème : lister manuellement les stop words FR/EN = fastidieux et incomplet
+- solution : détection algorithmique via IDF bas
+- mots avec IDF < seuil = présents dans beaucoup de documents = probablement stop words
+- indépendant de la langue → s'adapte à n'importe quel corpus
+- script `detect_stopwords.py` → sauvegarde `cache/detected_stopwords.json`
+- `extract_topics.py` charge automatiquement le cache s'il existe
+- params ajustables : IDF_THRESHOLD=1.5, MIN_FREQ=50
+
+---
+
+## Simplifications
+
+- KeyBERTInspired retiré : on utilise notre propre centroïde+MMR pour les top words
+- plus besoin du re-ranking TF-IDF, on va direct au sémantique
+- code refactorisé dans `lib/` : config, cache, mmr, data
+- `extract_topics.py` reste lisible (~300 lignes)
+
+---
+
