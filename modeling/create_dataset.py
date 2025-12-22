@@ -38,45 +38,75 @@ def clean_text(text):
     return text.strip()
 
 
+def load_channel_comments(channel_dir):
+    """Load comments from a channel directory: @ChannelName/videos/*.json"""
+    comments = []
+    
+    # Load channel info
+    info_file = channel_dir / "info.json"
+    if not info_file.exists():
+        return comments
+    
+    with open(info_file, 'r', encoding='utf-8') as f:
+        info = json.load(f)
+    
+    channel_name = info.get('channel_name', channel_dir.name)
+    
+    # Load all video files
+    videos_dir = channel_dir / "videos"
+    if not videos_dir.exists():
+        return comments
+    
+    video_files = list(videos_dir.glob("*.json"))
+    
+    for video_file in video_files:
+        try:
+            with open(video_file, 'r', encoding='utf-8') as f:
+                video_data = json.load(f)
+            
+            video_id = video_data.get('video_id', video_file.stem)
+            video_title = clean_text(video_data.get('title', ''))
+            
+            for comment in video_data.get('comments', []):
+                text = clean_text(comment.get('text', ''))
+                if text:
+                    comments.append({
+                        'text': text,
+                        'channel': channel_name,
+                        'video_id': video_id,
+                        'video_title': video_title,
+                        'author': clean_text(comment.get('author', '')),
+                        'likes': comment.get('likes', 0),
+                        'is_reply': comment.get('is_reply', False)
+                    })
+        except Exception as e:
+            print(f"    Error loading {video_file.name}: {e}")
+    
+    return comments
+
+
 def load_all_comments():
-    """Load all comments from all JSON files in the data directory."""
+    """Load all comments from @ChannelName/ directories in the data folder."""
     all_comments = []
     
     if not DATA_DIR.exists():
         print(f"Data directory not found: {DATA_DIR}")
         return all_comments
     
-    json_files = list(DATA_DIR.glob("*.json"))
-    print(f"Found {len(json_files)} JSON files in {DATA_DIR}")
+    # Find all @ChannelName/ directories
+    channel_dirs = [d for d in DATA_DIR.iterdir() if d.is_dir() and d.name.startswith('@')]
     
-    for json_file in json_files:
-        print(f"  Loading: {json_file.name}")
-        try:
-            with open(json_file, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-            
-            channel_name = data.get('channel_name', 'Unknown')
-            videos = data.get('videos', [])
-            
-            for video in videos:
-                video_id = video.get('video_id', '')
-                video_title = clean_text(video.get('title', ''))
-                comments = video.get('comments', [])
-                
-                for comment in comments:
-                    text = clean_text(comment.get('text', ''))
-                    if text:  # Only add non-empty comments
-                        all_comments.append({
-                            'text': text,
-                            'channel': channel_name,
-                            'video_id': video_id,
-                            'video_title': video_title,
-                            'author': clean_text(comment.get('author', '')),
-                            'likes': comment.get('likes', 0),
-                            'is_reply': comment.get('is_reply', False)
-                        })
-        except Exception as e:
-            print(f"  Error loading {json_file.name}: {e}")
+    if not channel_dirs:
+        print("No channel directories found (expecting @ChannelName/ folders)")
+        return all_comments
+    
+    print(f"Found {len(channel_dirs)} channel(s)")
+    
+    for channel_dir in channel_dirs:
+        print(f"  Loading: {channel_dir.name}")
+        comments = load_channel_comments(channel_dir)
+        print(f"    → {len(comments):,} comments")
+        all_comments.extend(comments)
     
     return all_comments
 
@@ -144,7 +174,7 @@ def main():
     comments = load_all_comments()
     
     if not comments:
-        print("\nNo comments found. Make sure you have JSON files in the data/ folder.")
+        print("\nNo comments found. Make sure you have @ChannelName/ folders in data/")
         return
     
     print(f"\nTotal comments loaded: {len(comments)}")
