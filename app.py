@@ -79,25 +79,39 @@ def get_video_comments(video_url):
     return comments
 
 
-def scrape_video_comments(video):
-    """Helper function to scrape comments from a single video (for parallel execution)."""
+def scrape_video_comments(video, channel_dir):
+    """Helper function to scrape comments from a single video and save to individual file."""
+    video_id = video['id']
+    video_file = os.path.join(channel_dir, f"{video_id}.json")
+
     try:
         comments = get_video_comments(video['url'])
+        video_data = {
+            'video_id': video_id,
+            'title': video['title'],
+            'url': video['url'],
+            'scraped_at': datetime.now().isoformat(),
+            'comment_count': len(comments),
+            'comments': comments
+        }
+
+        # Save immediately to individual file
+        with open(video_file, 'w', encoding='utf-8') as f:
+            json.dump(video_data, f, ensure_ascii=False, indent=2)
+
         return {
-            'video_id': video['id'],
+            'video_id': video_id,
             'title': video['title'],
             'url': video['url'],
             'comment_count': len(comments),
-            'comments': comments,
             'error': None
         }
     except Exception as e:
         return {
-            'video_id': video['id'],
+            'video_id': video_id,
             'title': video['title'],
             'url': video['url'],
             'comment_count': 0,
-            'comments': [],
             'error': str(e)
         }
 
@@ -129,7 +143,7 @@ def get_channel_info():
 
 @app.route('/api/scrape-comments', methods=['POST'])
 def scrape_comments():
-    """Endpoint to scrape all comments from a channel (parallelized)."""
+    """Endpoint to scrape all comments from a channel (parallelized, saves per video)."""
     data = request.json
     channel_input = data.get('channel', '')
 
@@ -139,19 +153,23 @@ def scrape_comments():
     try:
         videos, channel_name = get_channel_videos(channel_input)
 
-        all_comments = {
-            'channel_name': channel_name,
-            'scraped_at': datetime.now().isoformat(),
-            'total_videos': len(videos),
-            'videos': []
-        }
+        # Create channel directory
+        safe_channel_name = "".join(c for c in channel_name if c.isalnum() or c in (' ', '-', '_')).strip()
+        channel_dir = os.path.join(app.config['OUTPUT_DIR'], safe_channel_name)
+        os.makedirs(channel_dir, exist_ok=True)
 
         print(f"Starting parallel extraction for {len(videos)} videos with {MAX_WORKERS} workers...")
+        print(f"Saving to: {channel_dir}/")
+
+        video_results = []
 
         # Parallel extraction using ThreadPoolExecutor
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            # Submit all tasks
-            future_to_video = {executor.submit(scrape_video_comments, video): video for video in videos}
+            # Submit all tasks with channel_dir
+            future_to_video = {
+                executor.submit(scrape_video_comments, video, channel_dir): video
+                for video in videos
+            }
 
             completed = 0
             for future in as_completed(future_to_video):
@@ -162,31 +180,43 @@ def scrape_comments():
                 if result['error']:
                     print(f"[{completed}/{len(videos)}] Error: {video_title} - {result['error']}")
                 else:
-                    print(f"[{completed}/{len(videos)}] Done: {video_title} ({result['comment_count']} comments)")
+                    print(f"[{completed}/{len(videos)}] Saved: {video_title} ({result['comment_count']} comments)")
 
-                all_comments['videos'].append(result)
+                video_results.append(result)
 
         # Calculate total comments
-        total_comments = sum(v.get('comment_count', 0) for v in all_comments['videos'])
-        all_comments['total_comments'] = total_comments
+        total_comments = sum(v.get('comment_count', 0) for v in video_results)
 
-        # Save to JSON
-        safe_channel_name = "".join(c for c in channel_name if c.isalnum() or c in (' ', '-', '_')).strip()
-        filename = f"{safe_channel_name}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
-        filepath = os.path.join(app.config['OUTPUT_DIR'], filename)
+        # Save/update channel metadata
+        metadata = {
+            'channel_name': channel_name,
+            'last_scraped_at': datetime.now().isoformat(),
+            'total_videos': len(videos),
+            'total_comments': total_comments,
+            'videos': [
+                {
+                    'video_id': v['video_id'],
+                    'title': v['title'],
+                    'url': v['url'],
+                    'comment_count': v['comment_count'],
+                    'error': v.get('error')
+                }
+                for v in video_results
+            ]
+        }
 
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(all_comments, f, ensure_ascii=False, indent=2)
+        metadata_file = os.path.join(channel_dir, '_metadata.json')
+        with open(metadata_file, 'w', encoding='utf-8') as f:
+            json.dump(metadata, f, ensure_ascii=False, indent=2)
 
-        print(f"Extraction complete! {total_comments} comments saved to {filename}")
+        print(f"Extraction complete! {total_comments} comments saved to {channel_dir}/")
 
         return jsonify({
             'success': True,
             'channel_name': channel_name,
+            'channel_dir': safe_channel_name,
             'total_videos': len(videos),
-            'total_comments': total_comments,
-            'filename': filename,
-            'filepath': filepath
+            'total_comments': total_comments
         })
     except Exception as e:
         return jsonify({'error': str(e)}), 500
@@ -234,75 +264,147 @@ def list_files():
 
 @app.route('/api/files-stats')
 def list_files_with_stats():
-    """Lister tous les fichiers JSON avec leurs statistiques."""
-    files = []
+    """List all channel directories with their statistics."""
+    channels_list = []
     output_dir = app.config['OUTPUT_DIR']
     total_videos = 0
     total_comments = 0
-    channels = set()
 
     if os.path.exists(output_dir):
-        for filename in os.listdir(output_dir):
-            if filename.endswith('.json'):
-                filepath = os.path.join(output_dir, filename)
-                size = os.path.getsize(filepath)
+        for item in os.listdir(output_dir):
+            item_path = os.path.join(output_dir, item)
 
-                # Formater la taille
-                if size < 1024:
-                    size_str = f"{size} B"
-                elif size < 1024 * 1024:
-                    size_str = f"{size / 1024:.1f} KB"
-                else:
-                    size_str = f"{size / (1024 * 1024):.1f} MB"
+            # Check for channel directories (new structure)
+            if os.path.isdir(item_path):
+                metadata_file = os.path.join(item_path, '_metadata.json')
+                if os.path.exists(metadata_file):
+                    try:
+                        with open(metadata_file, 'r', encoding='utf-8') as f:
+                            metadata = json.load(f)
 
-                file_info = {
-                    'name': filename,
-                    'size': size_str,
-                    'path': filepath
-                }
+                        # Calculate folder size
+                        folder_size = sum(
+                            os.path.getsize(os.path.join(item_path, f))
+                            for f in os.listdir(item_path)
+                            if os.path.isfile(os.path.join(item_path, f))
+                        )
 
-                # Lire les métadonnées du fichier JSON
+                        if folder_size < 1024:
+                            size_str = f"{folder_size} B"
+                        elif folder_size < 1024 * 1024:
+                            size_str = f"{folder_size / 1024:.1f} KB"
+                        else:
+                            size_str = f"{folder_size / (1024 * 1024):.1f} MB"
+
+                        channel_info = {
+                            'name': item,
+                            'channel_name': metadata.get('channel_name', item),
+                            'video_count': metadata.get('total_videos', 0),
+                            'comment_count': metadata.get('total_comments', 0),
+                            'scraped_at': metadata.get('last_scraped_at', ''),
+                            'size': size_str,
+                            'is_folder': True
+                        }
+
+                        total_videos += channel_info['video_count']
+                        total_comments += channel_info['comment_count']
+                        channels_list.append(channel_info)
+                    except Exception:
+                        pass
+
+            # Also check for legacy single JSON files
+            elif item.endswith('.json'):
                 try:
-                    with open(filepath, 'r', encoding='utf-8') as f:
+                    with open(item_path, 'r', encoding='utf-8') as f:
                         data = json.load(f)
-                        file_info['channel_name'] = data.get('channel_name', '')
-                        file_info['video_count'] = data.get('total_videos', 0)
-                        file_info['comment_count'] = data.get('total_comments', 0)
-                        file_info['scraped_at'] = data.get('scraped_at', '')
 
-                        # Accumuler les stats globales
-                        if file_info['channel_name']:
-                            channels.add(file_info['channel_name'])
-                        total_videos += file_info['video_count']
-                        total_comments += file_info['comment_count']
+                    size = os.path.getsize(item_path)
+                    if size < 1024:
+                        size_str = f"{size} B"
+                    elif size < 1024 * 1024:
+                        size_str = f"{size / 1024:.1f} KB"
+                    else:
+                        size_str = f"{size / (1024 * 1024):.1f} MB"
+
+                    channel_info = {
+                        'name': item,
+                        'channel_name': data.get('channel_name', item.replace('.json', '')),
+                        'video_count': data.get('total_videos', 0),
+                        'comment_count': data.get('total_comments', 0),
+                        'scraped_at': data.get('scraped_at', ''),
+                        'size': size_str,
+                        'is_folder': False
+                    }
+
+                    total_videos += channel_info['video_count']
+                    total_comments += channel_info['comment_count']
+                    channels_list.append(channel_info)
                 except Exception:
                     pass
 
-                files.append(file_info)
-
-    # Trier par date de scraping (plus récent en premier)
-    files.sort(key=lambda x: x.get('scraped_at', ''), reverse=True)
+    # Sort by scrape date (most recent first)
+    channels_list.sort(key=lambda x: x.get('scraped_at', ''), reverse=True)
 
     return jsonify({
-        'files': files,
-        'total_channels': len(channels),
+        'files': channels_list,
+        'total_channels': len(channels_list),
         'total_videos': total_videos,
         'total_comments': total_comments
     })
 
 
-@app.route('/api/file-detail/<filename>')
-def get_file_detail(filename):
-    """Récupérer le contenu détaillé d'un fichier JSON."""
-    filepath = os.path.join(app.config['OUTPUT_DIR'], filename)
+@app.route('/api/file-detail/<path:name>')
+def get_file_detail(name):
+    """Get detailed content of a channel folder or legacy JSON file."""
+    item_path = os.path.join(app.config['OUTPUT_DIR'], name)
 
-    if not os.path.exists(filepath):
-        return jsonify({'error': 'Fichier non trouvé'}), 404
+    if not os.path.exists(item_path):
+        return jsonify({'error': 'Not found'}), 404
 
     try:
-        with open(filepath, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-        return jsonify(data)
+        # New folder structure
+        if os.path.isdir(item_path):
+            metadata_file = os.path.join(item_path, '_metadata.json')
+            if not os.path.exists(metadata_file):
+                return jsonify({'error': 'No metadata found'}), 404
+
+            with open(metadata_file, 'r', encoding='utf-8') as f:
+                metadata = json.load(f)
+
+            # Load all video files and merge comments
+            videos_with_comments = []
+            for video_info in metadata.get('videos', []):
+                video_id = video_info['video_id']
+                video_file = os.path.join(item_path, f"{video_id}.json")
+
+                if os.path.exists(video_file):
+                    with open(video_file, 'r', encoding='utf-8') as f:
+                        video_data = json.load(f)
+                    videos_with_comments.append(video_data)
+                else:
+                    # Video file missing, use metadata info
+                    videos_with_comments.append({
+                        'video_id': video_id,
+                        'title': video_info.get('title', ''),
+                        'url': video_info.get('url', ''),
+                        'comment_count': 0,
+                        'comments': []
+                    })
+
+            return jsonify({
+                'channel_name': metadata.get('channel_name', name),
+                'scraped_at': metadata.get('last_scraped_at', ''),
+                'total_videos': metadata.get('total_videos', 0),
+                'total_comments': metadata.get('total_comments', 0),
+                'videos': videos_with_comments
+            })
+
+        # Legacy single JSON file
+        else:
+            with open(item_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            return jsonify(data)
+
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
