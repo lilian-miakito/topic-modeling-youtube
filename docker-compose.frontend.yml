@@ -1,0 +1,26 @@
+# =============================================================================
+# To-Peek - Frontend Only (use with local backend for MPS GPU)
+# =============================================================================
+# Usage: docker compose -f docker-compose.frontend.yml up
+#
+# Backend runs locally with: uvicorn app.main:app --reload --port 8000
+
+services:
+  frontend:
+    build:
+      context: ./to-peek
+      dockerfile: Dockerfile.dev
+    container_name: to-peek-frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./to-peek/src:/app/src:ro
+      - ./to-peek/public:/app/public:ro
+      - /app/node_modules
+      - /app/.next
+    environment:
+      - NODE_ENV=development
+      # API calls go to host machine (where backend runs with MPS)
+      - NEXT_PUBLIC_API_URL=http://localhost:8000/api/v1
+      - WATCHPACK_POLLING=true
+

@@ -2,12 +2,22 @@
 Topic extraction service.
 Implements the hierarchical topic extraction pipeline.
 """
+import os
+import random
 import threading
+import warnings
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from typing import Optional
 
+# Disable tokenizer parallelism warning (must be before imports)
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
 import numpy as np
+
+# Suppress joblib/loky resource tracker warnings (benign cleanup noise)
+warnings.filterwarnings("ignore", message="resource_tracker:")
+warnings.filterwarnings("ignore", message=".*leaked semaphore.*")
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import silhouette_samples
 from sklearn.metrics.pairwise import cosine_similarity
@@ -20,17 +30,20 @@ from app.ml import (
     UMAP_N_COMPONENTS,
     UMAP_MIN_DIST,
     UMAP_METRIC,
-    HDBSCAN_MIN_CLUSTER_SIZE,
-    HDBSCAN_MIN_SAMPLES,
     HDBSCAN_METRIC,
     MIN_TOPIC_SIZE,
     SEMANTIC_TOP_N_WORDS,
     SEMANTIC_CANDIDATES,
+    SEMANTIC_VOCAB_MIN_DF,
+    SEMANTIC_NGRAM_RANGE,
     MMR_LAMBDA,
     SILHOUETTE_THRESHOLD,
     STOP_WORDS,
     EmbeddingsCache,
     mmr_selection_fast,
+    detect_stopwords,
+    get_adaptive_hdbscan_params,
+    get_adaptive_sub_params,
 )
 from app.ml.topic_namer import configure_dspy, get_topic_namer, get_subtopic_namer
 
@@ -150,10 +163,18 @@ class ExtractionService:
             extraction.current_step = "Loading comments"
             self.db.commit()
             
+            print("=" * 70)
+            print("🌳 HIERARCHICAL TOPIC EXTRACTION PIPELINE")
+            print("=" * 70)
+            
             # Step 1: Load comments
+            print("\n📚 Step 1: Loading comments...")
             comments = self._load_comments(extraction.video_ids)
             if not comments:
                 raise ValueError("No comments found for selected videos")
+            
+            print(f"   Total comments loaded: {len(comments):,}")
+            print(f"   Videos: {len(extraction.video_ids)}")
             
             extraction.num_comments = len(comments)
             extraction.progress = 0.1
@@ -161,37 +182,67 @@ class ExtractionService:
             self.db.commit()
             
             # Step 2: Initialize ML and get embeddings
+            print("\n🧠 Step 2: Generating embeddings...")
             self._init_ml()
             embeddings = self.embeddings_cache.get_comment_embeddings(comments)
+            print(f"   Embeddings shape: {embeddings.shape}")
             
-            extraction.progress = 0.3
+            extraction.progress = 0.25
+            extraction.current_step = "Detecting stopwords"
+            self.db.commit()
+            
+            # Step 3: Detect corpus-specific stopwords
+            stopwords = detect_stopwords(comments, embeddings, verbose=True)
+            
+            extraction.progress = 0.35
             extraction.current_step = "Clustering"
             self.db.commit()
             
-            # Step 3: Run clustering
-            topics, topic_model = self._run_clustering(comments, embeddings)
+            # Step 4: Run clustering
+            print("\n🔬 Step 4: Running BERTopic clustering...")
+            topics, topic_model, outliers_info = self._run_clustering(comments, embeddings, stopwords)
+            print(f"   Found {len(topics)} initial topics")
             
             extraction.progress = 0.5
             extraction.current_step = "Computing metrics"
             self.db.commit()
             
-            # Step 4: Compute metrics
+            # Step 5: Compute metrics
+            print("\n📊 Step 5: Computing silhouette metrics...")
             topics = self._compute_metrics(topics, embeddings, comments)
             
-            extraction.progress = 0.6
+            fourre_tout = sum(1 for t in topics if t.get("silhouette", 1) < SILHOUETTE_THRESHOLD)
+            print(f"   Topics with silhouette < {SILHOUETTE_THRESHOLD}: {fourre_tout}")
+            for t in topics:
+                sil = t.get("silhouette", 0)
+                marker = "⚠️ " if sil < SILHOUETTE_THRESHOLD else "✓ "
+                print(f"   {marker}Topic {t['id']}: count={t['count']}, sil={sil:.3f}")
+            
+            extraction.progress = 0.55
+            extraction.current_step = "Extracting semantic words"
+            self.db.commit()
+            
+            # Step 6: Extract semantic words (centroid + MMR)
+            print("\n🎯 Step 6: Extracting semantic words (centroid + MMR)...")
+            topics = self._extract_semantic_words(topics, comments, stopwords)
+            
+            extraction.progress = 0.65
             extraction.current_step = "Splitting low-quality clusters"
             self.db.commit()
             
-            # Step 5: Split low-silhouette clusters
+            # Step 7: Split low-silhouette clusters
+            print(f"\n🔀 Step 7: Splitting low-silhouette topics (threshold={SILHOUETTE_THRESHOLD})...")
             topics = self._split_low_silhouette_topics(topics, embeddings, comments)
             
-            extraction.progress = 0.8
+            extraction.progress = 0.85
             extraction.current_step = "Naming topics"
             self.db.commit()
             
-            # Step 6: Name topics
+            # Step 8: Name topics
+            print("\n🏷️  Step 8: Naming topics with LLM...")
             config = extraction.config or {}
             llm_model = config.get("llm_model", "openai/gpt-4o-mini")
+            print(f"   Model: {llm_model}")
             topics = self._name_topics(topics, llm_model)
             
             extraction.progress = 1.0
@@ -199,13 +250,27 @@ class ExtractionService:
             self.db.commit()
             
             # Build result
+            num_hierarchical = sum(1 for t in topics if t.get("children"))
+            total_subtopics = sum(len(t.get("children", [])) for t in topics)
+            
             result = {
                 "generated_at": datetime.utcnow().isoformat(),
                 "num_comments": len(comments),
                 "num_topics": len(topics),
-                "num_hierarchical": sum(1 for t in topics if t.get("children")),
+                "num_hierarchical": num_hierarchical,
+                "num_subtopics": total_subtopics,
+                "outliers": outliers_info,
                 "topics": self._clean_topics_for_json(topics),
             }
+            
+            print("\n" + "=" * 70)
+            print("✅ PIPELINE COMPLETE")
+            print("=" * 70)
+            print(f"   Topics: {len(topics)}")
+            print(f"   Hierarchical: {num_hierarchical}")
+            print(f"   Sub-topics: {total_subtopics}")
+            print(f"   Outliers: {outliers_info['count']} ({outliers_info['percentage']:.1f}%)")
+            print(f"   Total comments: {len(comments):,}")
             
             # Save result
             extraction.status = "completed"
@@ -233,7 +298,12 @@ class ExtractionService:
         texts = [c.text for c in comments if c.text and len(c.text) > 20]
         return texts
     
-    def _run_clustering(self, comments: list[str], embeddings: np.ndarray) -> tuple:
+    def _run_clustering(
+        self,
+        comments: list[str],
+        embeddings: np.ndarray,
+        stopwords: set[str],
+    ) -> tuple:
         """Run BERTopic clustering."""
         UMAP = _get_umap()
         HDBSCAN = _get_hdbscan()
@@ -247,15 +317,21 @@ class ExtractionService:
             random_state=42,
         )
         
+        # Adaptive HDBSCAN parameters based on corpus size
+        hdbscan_params = get_adaptive_hdbscan_params(len(comments))
+        print(f"Adaptive HDBSCAN params for {len(comments)} docs: "
+              f"min_cluster_size={hdbscan_params['min_cluster_size']}, "
+              f"min_samples={hdbscan_params['min_samples']}")
+        
         hdbscan_model = HDBSCAN(
-            min_cluster_size=HDBSCAN_MIN_CLUSTER_SIZE,
-            min_samples=HDBSCAN_MIN_SAMPLES,
+            min_cluster_size=hdbscan_params["min_cluster_size"],
+            min_samples=hdbscan_params["min_samples"],
             metric=HDBSCAN_METRIC,
             prediction_data=True,
         )
         
         vectorizer = CountVectorizer(
-            stop_words=list(STOP_WORDS),
+            stop_words=list(stopwords),
             min_df=2,
             ngram_range=(1, 2),
         )
@@ -271,6 +347,18 @@ class ExtractionService:
         )
         
         topic_labels, _ = topic_model.fit_transform(comments, embeddings)
+        
+        # Collect outliers
+        outlier_indices = [i for i, label in enumerate(topic_labels) if label == -1]
+        outlier_count = len(outlier_indices)
+        outlier_pct = 100 * outlier_count / len(comments) if comments else 0
+        print(f"   Outliers: {outlier_count} ({outlier_pct:.1f}%)")
+        
+        # Sample random outliers for exploration (max 100)
+        import random
+        sample_size = min(100, outlier_count)
+        sampled_indices = random.sample(outlier_indices, sample_size) if outlier_count > 0 else []
+        outlier_examples = [comments[i] for i in sampled_indices]
         
         # Build topic structures
         topics = []
@@ -296,7 +384,12 @@ class ExtractionService:
                 "indices": np.where(mask)[0].tolist(),
             })
         
-        return topics, topic_model
+        # Return topics, model, and outlier info
+        return topics, topic_model, {
+            "count": outlier_count, 
+            "percentage": outlier_pct,
+            "examples": outlier_examples,
+        }
     
     def _compute_metrics(
         self,
@@ -339,6 +432,72 @@ class ExtractionService:
         
         return topics
     
+    def _extract_semantic_words(
+        self,
+        topics: list[dict],
+        all_comments: list[str],
+        stopwords: set,
+    ) -> list[dict]:
+        """
+        Extract semantic top words using centroid similarity + MMR.
+        Much better than c-TF-IDF for avoiding stopwords.
+        """
+        if not topics:
+            return topics
+        
+        print("   Building vocabulary for semantic extraction...")
+        
+        # Build vocabulary from all comments
+        vectorizer = CountVectorizer(
+            min_df=SEMANTIC_VOCAB_MIN_DF,
+            ngram_range=SEMANTIC_NGRAM_RANGE,
+            stop_words=list(stopwords | STOP_WORDS),
+        )
+        
+        try:
+            vectorizer.fit(all_comments)
+            vocabulary = vectorizer.get_feature_names_out().tolist()
+        except ValueError:
+            print("   Warning: Could not build vocabulary, using BERTopic words")
+            return topics
+        
+        print(f"   Vocabulary size: {len(vocabulary)} words/ngrams")
+        
+        # Get vocabulary embeddings (cached)
+        embeddings_cache = EmbeddingsCache(self.db, self.embedding_model)
+        vocab_embeddings = embeddings_cache.get_vocab_embeddings(vocabulary)
+        print(f"   Vocabulary embeddings: {vocab_embeddings.shape}")
+        
+        # Extract semantic words for each topic
+        for topic in topics:
+            topic_embeddings = topic.get("embeddings")
+            if topic_embeddings is None or len(topic_embeddings) == 0:
+                continue
+            
+            # Compute centroid
+            centroid = np.mean(topic_embeddings, axis=0).reshape(1, -1)
+            
+            # Similarity with vocabulary
+            similarities = cosine_similarity(centroid, vocab_embeddings)[0]
+            
+            # Top candidates
+            top_candidate_indices = np.argsort(similarities)[-SEMANTIC_CANDIDATES:][::-1]
+            candidate_embeddings = vocab_embeddings[top_candidate_indices]
+            
+            # MMR selection for diversity
+            selected_indices = mmr_selection_fast(
+                similarities, 
+                candidate_embeddings, 
+                top_candidate_indices,
+                top_n=SEMANTIC_TOP_N_WORDS, 
+                lambda_param=MMR_LAMBDA
+            )
+            
+            # Replace top_words with semantic words
+            topic["top_words"] = [vocabulary[i] for i in selected_indices]
+        
+        return topics
+    
     def _split_low_silhouette_topics(
         self,
         topics: list[dict],
@@ -358,17 +517,27 @@ class ExtractionService:
         ]
         
         if not topics_to_split:
+            print("   No topics need splitting!")
             return topics
+        
+        print(f"   Found {len(topics_to_split)} topics to split")
         
         for parent_topic in topics_to_split:
             parent_id = parent_topic["id"]
             cluster_comments = parent_topic["comments"]
             cluster_embeddings = parent_topic["embeddings"]
             
+            print(f"\n   📌 Splitting topic {parent_id} (count={len(cluster_comments)}, sil={parent_topic.get('silhouette', 0):.3f})...")
+            
             if len(cluster_comments) < 30:
+                print(f"      Too few comments ({len(cluster_comments)}), skipping")
                 continue
             
-            # Sub-clustering with smaller params
+            # Sub-clustering with adaptive params
+            sub_params = get_adaptive_sub_params(len(cluster_comments))
+            print(f"      Sub-clustering params: min_cluster_size={sub_params['min_cluster_size']}, "
+                  f"min_topic_size={sub_params['min_topic_size']}")
+            
             sub_umap = UMAP(
                 n_neighbors=min(15, len(cluster_comments) - 1),
                 n_components=min(5, len(cluster_comments) - 2),
@@ -378,8 +547,8 @@ class ExtractionService:
             )
             
             sub_hdbscan = HDBSCAN(
-                min_cluster_size=max(5, len(cluster_comments) // 10),
-                min_samples=3,
+                min_cluster_size=sub_params["min_cluster_size"],
+                min_samples=max(3, sub_params["min_cluster_size"] // 5),
                 metric="euclidean",
                 prediction_data=True,
             )
@@ -388,7 +557,7 @@ class ExtractionService:
                 embedding_model=self.embedding_model,
                 umap_model=sub_umap,
                 hdbscan_model=sub_hdbscan,
-                min_topic_size=max(5, len(cluster_comments) // 15),
+                min_topic_size=sub_params["min_topic_size"],
                 calculate_probabilities=False,
                 verbose=False,
             )
@@ -397,12 +566,29 @@ class ExtractionService:
                 sub_labels, _ = sub_topic_model.fit_transform(
                     cluster_comments, cluster_embeddings
                 )
-            except Exception:
+            except Exception as e:
+                print(f"      Error during sub-clustering: {e}")
                 continue
             
             # Build sub-topics
             sub_topics = []
             unique_sub = set(sub_labels) - {-1}
+            
+            # Compute silhouette for sub-topics if we have enough clusters
+            sub_silhouette_dict = {}
+            valid_sub_mask = np.array(sub_labels) != -1
+            unique_valid_labels = set(sub_labels) - {-1}
+            if valid_sub_mask.sum() > 1 and len(unique_valid_labels) > 1:
+                valid_sub_embeddings = cluster_embeddings[valid_sub_mask]
+                valid_sub_labels = np.array(sub_labels)[valid_sub_mask]
+                sub_silhouettes = silhouette_samples(valid_sub_embeddings, valid_sub_labels)
+                
+                # Map silhouette to each sub-topic
+                idx = 0
+                for sub_id in sorted(unique_valid_labels):
+                    count = (np.array(sub_labels) == sub_id).sum()
+                    sub_silhouette_dict[sub_id] = float(np.mean(sub_silhouettes[idx:idx + count]))
+                    idx += count
             
             for sub_id in sorted(unique_sub):
                 mask = np.array(sub_labels) == sub_id
@@ -427,6 +613,7 @@ class ExtractionService:
                     "depth": 1,
                     "parent_id": parent_id,
                     "count": len(sub_comments),
+                    "silhouette": sub_silhouette_dict.get(sub_id),
                     "comments": sub_comments,
                     "embeddings": sub_embeddings,
                     "top_words": top_words,
@@ -435,10 +622,75 @@ class ExtractionService:
                 })
             
             if sub_topics:
+                # Apply semantic word extraction to sub-topics
+                sub_topics = self._extract_semantic_words_for_subtopics(sub_topics, cluster_comments)
+                
+                print(f"      Found {len(sub_topics)} sub-topics")
+                for st in sub_topics:
+                    sil = st.get("silhouette")
+                    sil_str = f"{sil:.3f}" if sil is not None else "N/A"
+                    print(f"         └─ {st['id']}: count={st['count']}, sil={sil_str}")
                 parent_topic["children"] = sub_topics
                 parent_topic["is_hierarchical"] = True
+            else:
+                print("      No sub-topics found")
         
         return topics
+    
+    def _extract_semantic_words_for_subtopics(
+        self,
+        sub_topics: list[dict],
+        parent_comments: list[str],
+    ) -> list[dict]:
+        """Extract semantic words for sub-topics using parent vocabulary."""
+        if not sub_topics:
+            return sub_topics
+        
+        # Build vocabulary from parent comments
+        vectorizer = CountVectorizer(
+            min_df=max(2, SEMANTIC_VOCAB_MIN_DF // 2),  # Lower threshold for smaller corpus
+            ngram_range=SEMANTIC_NGRAM_RANGE,
+            stop_words=list(STOP_WORDS),
+        )
+        
+        try:
+            vectorizer.fit(parent_comments)
+            vocabulary = vectorizer.get_feature_names_out().tolist()
+        except ValueError:
+            return sub_topics  # Keep BERTopic words
+        
+        if len(vocabulary) < 10:
+            return sub_topics
+        
+        # Get vocabulary embeddings
+        embeddings_cache = EmbeddingsCache(self.db, self.embedding_model)
+        vocab_embeddings = embeddings_cache.get_vocab_embeddings(vocabulary)
+        
+        # Extract semantic words for each sub-topic
+        for sub_topic in sub_topics:
+            sub_embeddings = sub_topic.get("embeddings")
+            if sub_embeddings is None or len(sub_embeddings) == 0:
+                continue
+            
+            centroid = np.mean(sub_embeddings, axis=0).reshape(1, -1)
+            similarities = cosine_similarity(centroid, vocab_embeddings)[0]
+            
+            n_candidates = min(SEMANTIC_CANDIDATES, len(vocabulary))
+            top_candidate_indices = np.argsort(similarities)[-n_candidates:][::-1]
+            candidate_embeddings = vocab_embeddings[top_candidate_indices]
+            
+            n_words = min(SEMANTIC_TOP_N_WORDS, len(top_candidate_indices))
+            selected_indices = mmr_selection_fast(
+                similarities, 
+                candidate_embeddings, 
+                top_candidate_indices,
+                top_n=n_words, 
+                lambda_param=MMR_LAMBDA
+            )
+            
+            sub_topic["top_words"] = [vocabulary[i] for i in selected_indices]
+        
+        return sub_topics
     
     def _name_topics(self, topics: list[dict], llm_model: str) -> list[dict]:
         """Name topics using LLM."""
@@ -459,6 +711,8 @@ class ExtractionService:
         topic_namer = get_topic_namer()
         subtopic_namer = get_subtopic_namer()
         
+        print(f"   Naming {len(topics)} top-level topics...")
+        
         # Name top-level topics in parallel
         def name_topic(t):
             try:
@@ -466,39 +720,108 @@ class ExtractionService:
                     keywords=t.get("top_words", []),
                     comments=t.get("comments", [])[:5],
                 )
-            except Exception:
+            except Exception as e:
+                print(f"      Error naming topic {t['id']}: {e}")
                 words = t.get("top_words", [])[:3]
                 return " / ".join(words) if words else f"Topic {t['id']}"
         
-        with ThreadPoolExecutor(max_workers=5) as executor:
+        with ThreadPoolExecutor(max_workers=10) as executor:
             futures = {executor.submit(name_topic, t): i for i, t in enumerate(topics)}
             
             for future in as_completed(futures):
                 idx = futures[future]
                 topics[idx]["generated_name"] = future.result()
+                topic = topics[idx]
+                print(f"      [{idx+1}/{len(topics)}] Topic {topic['id']}: {topic['generated_name']}")
         
-        # Name sub-topics
+        # Name sub-topics with parent context - IN PARALLEL
+        all_children = []
         for topic in topics:
             parent_name = topic.get("generated_name", f"Topic {topic['id']}")
-            
             for child in topic.get("children", []):
+                child["parent_name"] = parent_name
+                all_children.append(child)
+        
+        if all_children:
+            print(f"\n   Naming {len(all_children)} sub-topics in parallel (with parent context)...")
+            
+            def name_subtopic(child):
                 try:
-                    child["generated_name"] = subtopic_namer(
-                        parent_name=parent_name,
+                    return subtopic_namer(
+                        parent_name=child["parent_name"],
                         keywords=child.get("top_words", []),
                         comments=child.get("comments", [])[:5],
                     )
-                    child["parent_name"] = parent_name
-                except Exception:
+                except Exception as e:
+                    print(f"      Error naming subtopic {child['id']}: {e}")
                     words = child.get("top_words", [])[:3]
-                    child["generated_name"] = " / ".join(words) if words else f"Subtopic {child['id']}"
-                    child["parent_name"] = parent_name
+                    return " / ".join(words) if words else f"Subtopic {child['id']}"
+            
+            with ThreadPoolExecutor(max_workers=10) as executor:
+                futures = {executor.submit(name_subtopic, c): i for i, c in enumerate(all_children)}
+                
+                for future in as_completed(futures):
+                    idx = futures[future]
+                    child = all_children[idx]
+                    child["generated_name"] = future.result()
+                    print(f"      [{idx+1}/{len(all_children)}] {child['id']} (under '{child['parent_name']}'): {child['generated_name']}")
         
         return topics
     
+    def _select_representative_comments(
+        self, 
+        comments: list[str], 
+        embeddings: np.ndarray, 
+        n: int = 10,
+    ) -> list[str]:
+        """
+        Select representative + diverse comments using centroid + MMR.
+        
+        Instead of just taking the first N comments, this finds comments that:
+        1. Are close to the cluster centroid (representative)
+        2. Are diverse from each other (not 5x the same thing reformulated)
+        """
+        if len(comments) <= n:
+            return comments
+        
+        if embeddings is None or len(embeddings) == 0:
+            return comments[:n]
+        
+        # Compute centroid
+        centroid = np.mean(embeddings, axis=0).reshape(1, -1)
+        
+        # Similarity of each comment to centroid
+        similarities = cosine_similarity(centroid, embeddings)[0]
+        
+        # Pre-filter top candidates (2x what we need)
+        n_candidates = min(n * 2, len(comments))
+        top_indices = np.argsort(similarities)[-n_candidates:][::-1]
+        candidate_embeddings = embeddings[top_indices]
+        
+        # MMR selection for diversity
+        selected_indices = mmr_selection_fast(
+            similarities,
+            candidate_embeddings,
+            top_indices,
+            top_n=n,
+            lambda_param=MMR_LAMBDA,
+        )
+        
+        return [comments[i] for i in selected_indices]
+    
     def _clean_topics_for_json(self, topics: list[dict]) -> list[dict]:
-        """Remove non-serializable data from topics."""
+        """Remove non-serializable data and select representative comments."""
         def clean_topic(t):
+            # Select representative comments using MMR
+            comments = t.get("comments", [])
+            embeddings = t.get("embeddings")
+            if embeddings is not None and len(comments) > 10:
+                example_comments = self._select_representative_comments(
+                    comments, embeddings, n=10
+                )
+            else:
+                example_comments = comments[:10]
+            
             cleaned = {
                 "id": t["id"],
                 "depth": t.get("depth", 0),
@@ -510,7 +833,7 @@ class ExtractionService:
                 "variance": t.get("variance"),
                 "max_distance": t.get("max_distance"),
                 "top_words": t.get("top_words", []),
-                "example_comments": t.get("comments", [])[:10],
+                "example_comments": example_comments,
                 "is_hierarchical": t.get("is_hierarchical", False),
             }
             

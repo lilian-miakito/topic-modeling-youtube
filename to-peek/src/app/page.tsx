@@ -5,6 +5,7 @@ import { ChannelInput } from "@/components/wizard/ChannelInput";
 import { VideoSelection } from "@/components/wizard/VideoSelection";
 import { CommentsFetch } from "@/components/wizard/CommentsFetch";
 import { Extraction } from "@/components/wizard/Extraction";
+import { ExtractionHistory } from "@/components/wizard/ExtractionHistory";
 import { TopicTree } from "@/components/results/TopicTree";
 import type { ChannelInfo } from "@/lib/api";
 
@@ -32,6 +33,11 @@ export default function Home() {
   }, []);
 
   const handleExtractionComplete = useCallback((id: number) => {
+    setExtractionId(id);
+    setStep("results");
+  }, []);
+
+  const handleSelectPastExtraction = useCallback((id: number) => {
     setExtractionId(id);
     setStep("results");
   }, []);
@@ -123,11 +129,17 @@ export default function Home() {
           )}
 
           {step === "videos" && channel && (
-            <VideoSelection
-              channel={channel}
-              onVideosSelected={handleVideosSelected}
-              onBack={() => goBack("channel")}
-            />
+            <>
+              <ExtractionHistory
+                channelId={channel.id}
+                onSelectExtraction={handleSelectPastExtraction}
+              />
+              <VideoSelection
+                channel={channel}
+                onVideosSelected={handleVideosSelected}
+                onBack={() => goBack("channel")}
+              />
+            </>
           )}
 
           {step === "fetch" && channel && (

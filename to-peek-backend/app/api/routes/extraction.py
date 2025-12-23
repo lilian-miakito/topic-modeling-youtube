@@ -52,6 +52,13 @@ class TopicInfo(BaseModel):
     children: list["TopicInfo"] = []
 
 
+class OutliersInfo(BaseModel):
+    """Outlier statistics."""
+    count: int
+    percentage: float
+    examples: list[str] = []
+
+
 class ExtractionResultResponse(BaseModel):
     """Full extraction result."""
     id: int
@@ -60,6 +67,8 @@ class ExtractionResultResponse(BaseModel):
     num_comments: Optional[int] = None
     num_topics: Optional[int] = None
     num_hierarchical: Optional[int] = None
+    num_subtopics: Optional[int] = None
+    outliers: Optional[OutliersInfo] = None
     topics: list[TopicInfo] = []
 
 
@@ -164,6 +173,16 @@ async def get_extraction_result(
     
     topics = [parse_topic(t) for t in result.get("topics", [])]
     
+    # Parse outliers
+    outliers_data = result.get("outliers")
+    outliers = None
+    if outliers_data:
+        outliers = OutliersInfo(
+            count=outliers_data.get("count", 0),
+            percentage=outliers_data.get("percentage", 0.0),
+            examples=outliers_data.get("examples", []),
+        )
+    
     return ExtractionResultResponse(
         id=extraction.id,
         status=extraction.status,
@@ -171,6 +190,8 @@ async def get_extraction_result(
         num_comments=result.get("num_comments"),
         num_topics=result.get("num_topics"),
         num_hierarchical=result.get("num_hierarchical"),
+        num_subtopics=result.get("num_subtopics"),
+        outliers=outliers,
         topics=topics,
     )
 

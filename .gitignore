@@ -39,6 +39,9 @@ Thumbs.db
 # Logs
 *.log
 
+# Launch script files
+.backend.pid
+
 .env
 
 data_save/

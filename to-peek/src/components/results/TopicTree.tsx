@@ -12,6 +12,8 @@ function TopicCard({ topic, depth = 0 }: { topic: TopicInfo; depth?: number }) {
   const [expanded, setExpanded] = useState(depth === 0);
 
   const hasChildren = topic.children && topic.children.length > 0;
+  const hasComments = topic.example_comments && topic.example_comments.length > 0;
+  const isExpandable = hasChildren || hasComments;
 
   return (
     <div
@@ -28,7 +30,7 @@ function TopicCard({ topic, depth = 0 }: { topic: TopicInfo; depth?: number }) {
         <div className="flex items-start justify-between">
           <div className="flex-1">
             <div className="flex items-center gap-2">
-              {hasChildren && (
+              {isExpandable && (
                 <button
                   onClick={() => setExpanded(!expanded)}
                   className="text-zinc-400 hover:text-zinc-200"
@@ -36,7 +38,7 @@ function TopicCard({ topic, depth = 0 }: { topic: TopicInfo; depth?: number }) {
                   {expanded ? "▼" : "▶"}
                 </button>
               )}
-              <h3 className="text-lg font-medium text-zinc-100">
+              <h3 className={`font-medium text-zinc-100 ${depth === 0 ? "text-lg" : "text-base"}`}>
                 {topic.generated_name}
               </h3>
             </div>
@@ -50,7 +52,7 @@ function TopicCard({ topic, depth = 0 }: { topic: TopicInfo; depth?: number }) {
             <span className="px-2 py-1 bg-zinc-700 rounded text-sm text-zinc-300">
               {topic.count} comments
             </span>
-            {topic.silhouette !== undefined && (
+            {topic.silhouette != null && (
               <span
                 className={`px-2 py-1 rounded text-sm ${
                   topic.silhouette >= 0.15
@@ -79,12 +81,12 @@ function TopicCard({ topic, depth = 0 }: { topic: TopicInfo; depth?: number }) {
         )}
 
         {/* Example comments */}
-        {expanded && topic.example_comments.length > 0 && (
+        {expanded && hasComments && (
           <div className="mt-4 space-y-2">
             <div className="text-xs text-zinc-500 font-medium">
-              Example comments:
+              Example comments ({topic.example_comments.length} samples):
             </div>
-            {topic.example_comments.slice(0, 3).map((comment, i) => (
+            {topic.example_comments.slice(0, depth === 0 ? 3 : 5).map((comment, i) => (
               <div
                 key={i}
                 className="p-2 bg-zinc-900 rounded text-sm text-zinc-400 italic"
@@ -112,6 +114,7 @@ export function TopicTree({ extractionId, onRestart }: TopicTreeProps) {
   const [result, setResult] = useState<ExtractionResult | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [showOutliersModal, setShowOutliersModal] = useState(false);
 
   useEffect(() => {
     const loadResult = async () => {
@@ -174,16 +177,16 @@ export function TopicTree({ extractionId, onRestart }: TopicTreeProps) {
       </div>
 
       {/* Stats */}
-      <div className="grid grid-cols-3 gap-4">
+      <div className="grid grid-cols-4 gap-4">
         <div className="p-4 bg-zinc-800 rounded-lg text-center">
           <div className="text-3xl font-bold text-amber-400">{result.num_topics}</div>
           <div className="text-sm text-zinc-500">Topics</div>
         </div>
         <div className="p-4 bg-zinc-800 rounded-lg text-center">
           <div className="text-3xl font-bold text-blue-400">
-            {result.num_hierarchical || 0}
+            {result.num_subtopics || 0}
           </div>
-          <div className="text-sm text-zinc-500">Hierarchical</div>
+          <div className="text-sm text-zinc-500">Sub-topics</div>
         </div>
         <div className="p-4 bg-zinc-800 rounded-lg text-center">
           <div className="text-3xl font-bold text-green-400">
@@ -191,7 +194,82 @@ export function TopicTree({ extractionId, onRestart }: TopicTreeProps) {
           </div>
           <div className="text-sm text-zinc-500">Comments</div>
         </div>
+        <button
+          onClick={() => result.outliers?.examples?.length && setShowOutliersModal(true)}
+          className={`p-4 bg-zinc-800 rounded-lg text-center transition-colors ${
+            result.outliers?.examples?.length 
+              ? "hover:bg-zinc-700 cursor-pointer" 
+              : "cursor-default"
+          }`}
+          title={result.outliers?.examples?.length ? "Click to explore outliers" : undefined}
+        >
+          <div className={`text-3xl font-bold ${
+            result.outliers && result.outliers.percentage > 20 
+              ? "text-red-400" 
+              : "text-zinc-400"
+          }`}>
+            {result.outliers ? `${result.outliers.percentage.toFixed(1)}%` : "-"}
+          </div>
+          <div className="text-sm text-zinc-500">
+            Outliers ({result.outliers?.count?.toLocaleString() || 0})
+            {result.outliers?.examples?.length ? " 🔍" : ""}
+          </div>
+        </button>
       </div>
+
+      {/* Outliers Modal */}
+      {showOutliersModal && result.outliers?.examples && (
+        <div 
+          className="fixed inset-0 bg-black/70 flex items-center justify-center z-50 p-4"
+          onClick={() => setShowOutliersModal(false)}
+        >
+          <div 
+            className="bg-zinc-900 rounded-xl max-w-3xl w-full max-h-[80vh] overflow-hidden flex flex-col"
+            onClick={(e) => e.stopPropagation()}
+          >
+            {/* Modal Header */}
+            <div className="p-4 border-b border-zinc-700 flex items-center justify-between">
+              <div>
+                <h3 className="text-xl font-semibold text-zinc-100">
+                  Outlier Comments
+                </h3>
+                <p className="text-sm text-zinc-400">
+                  {result.outliers.examples.length} random samples from {result.outliers.count.toLocaleString()} outliers
+                </p>
+              </div>
+              <button
+                onClick={() => setShowOutliersModal(false)}
+                className="text-zinc-400 hover:text-zinc-200 text-2xl leading-none"
+              >
+                ×
+              </button>
+            </div>
+            
+            {/* Modal Body */}
+            <div className="p-4 overflow-y-auto space-y-3">
+              {result.outliers.examples.slice(0, 50).map((comment, i) => (
+                <div
+                  key={i}
+                  className="p-3 bg-zinc-800 rounded-lg text-sm text-zinc-300"
+                >
+                  <span className="text-zinc-500 mr-2">#{i + 1}</span>
+                  {comment.length > 300 ? comment.slice(0, 300) + "..." : comment}
+                </div>
+              ))}
+            </div>
+            
+            {/* Modal Footer */}
+            <div className="p-4 border-t border-zinc-700 text-center">
+              <button
+                onClick={() => setShowOutliersModal(false)}
+                className="px-6 py-2 bg-zinc-700 hover:bg-zinc-600 text-zinc-100 rounded-lg transition-colors"
+              >
+                Close
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* Topics */}
       <div className="space-y-4">

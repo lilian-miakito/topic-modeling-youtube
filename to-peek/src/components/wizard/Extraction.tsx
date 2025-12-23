@@ -132,10 +132,12 @@ export function Extraction({
           {[
             "Load comments from database",
             "Generate embeddings (cached)",
+            "Detect corpus-specific stopwords",
             "Cluster with UMAP + HDBSCAN",
             "Calculate silhouette scores",
+            "Extract semantic words (centroid + MMR)",
             "Split low-quality clusters",
-            "Name topics with AI",
+            "Name topics with LLM",
           ].map((step, i) => (
             <div
               key={i}

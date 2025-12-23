@@ -74,23 +74,38 @@ class EmbeddingsCache:
         
         # Encode only new comments
         if new_comments:
-            print(f"   Encoding {len(new_comments)} new comments...")
-            new_embeddings = self.embedding_model.encode(
-                new_comments,
-                batch_size=32,
-                show_progress_bar=show_progress and len(new_comments) > 100
-            )
+            # Deduplicate new comments (same text can appear multiple times)
+            unique_hashes = []
+            unique_comments = []
+            seen_hashes = set(cache_dict.keys())
             
-            # Add to cache
-            for h, emb in zip(new_hashes, new_embeddings):
-                cache_dict[h] = emb
-                self.db.add(CommentEmbedding(
-                    text_hash=h,
-                    embedding=_serialize_embedding(emb)
-                ))
+            for h, c in zip(new_hashes, new_comments):
+                if h not in seen_hashes:
+                    unique_hashes.append(h)
+                    unique_comments.append(c)
+                    seen_hashes.add(h)
             
-            self.db.commit()
-            print(f"   Cache updated: {len(cache_dict)} entries total")
+            if unique_comments:
+                print(f"   Encoding {len(unique_comments)} unique new comments...")
+                new_embeddings = self.embedding_model.encode(
+                    unique_comments,
+                    batch_size=256,  # Larger batch for better throughput
+                    show_progress_bar=show_progress and len(unique_comments) > 500,
+                    normalize_embeddings=True,  # Pre-normalize for cosine similarity
+                )
+                
+                # Add to cache
+                for h, emb in zip(unique_hashes, new_embeddings):
+                    cache_dict[h] = emb
+                    self.db.add(CommentEmbedding(
+                        text_hash=h,
+                        embedding=_serialize_embedding(emb)
+                    ))
+                
+                self.db.commit()
+                print(f"   Cache updated: {len(cache_dict)} entries total")
+            else:
+                print("   All new comments were duplicates, already processed")
         else:
             print("   All comments found in cache!")
         
@@ -125,16 +140,17 @@ class EmbeddingsCache:
         
         print(f"   Vocabulary: {len(vocabulary)} | Cached: {len(vocab_set & cached_words)} | New: {len(new_words)}")
         
-        # Encode only new words
+        # Encode only new words (already deduplicated via set operation)
         if new_words:
             print(f"   Encoding {len(new_words)} new words...")
             new_embeddings = self.embedding_model.encode(
                 new_words,
-                batch_size=128,
-                show_progress_bar=show_progress and len(new_words) > 100
+                batch_size=512,  # Words are short, can batch more
+                show_progress_bar=show_progress and len(new_words) > 500,
+                normalize_embeddings=True,
             )
             
-            # Add to cache
+            # Add to cache (batch insert)
             for word, emb in zip(new_words, new_embeddings):
                 cache_dict[word] = emb
                 self.db.add(VocabEmbedding(
@@ -142,7 +158,11 @@ class EmbeddingsCache:
                     embedding=_serialize_embedding(emb)
                 ))
             
-            self.db.commit()
+            try:
+                self.db.commit()
+            except Exception:
+                # Handle rare duplicates from race conditions
+                self.db.rollback()
             print(f"   Cache updated: {len(cache_dict)} words total")
         else:
             print("   All words found in cache!")

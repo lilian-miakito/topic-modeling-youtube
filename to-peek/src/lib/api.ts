@@ -64,6 +64,12 @@ export interface TopicInfo {
   children: TopicInfo[];
 }
 
+export interface OutliersInfo {
+  count: number;
+  percentage: number;
+  examples: string[];
+}
+
 export interface ExtractionResult {
   id: number;
   status: string;
@@ -71,6 +77,8 @@ export interface ExtractionResult {
   num_comments?: number;
   num_topics?: number;
   num_hierarchical?: number;
+  num_subtopics?: number;
+  outliers?: OutliersInfo;
   topics: TopicInfo[];
 }
 
