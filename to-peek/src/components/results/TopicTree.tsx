@@ -190,7 +190,7 @@ export function TopicTree({ extractionId, onRestart }: TopicTreeProps) {
       </div>
 
       {/* Stats */}
-      <div className="grid grid-cols-4 gap-4">
+      <div className="grid grid-cols-5 gap-4">
         <div className="p-4 bg-zinc-800 rounded-lg text-center">
           <div className="text-3xl font-bold text-amber-400">{result.num_topics}</div>
           <div className="text-sm text-zinc-500">Topics</div>
@@ -228,6 +228,16 @@ export function TopicTree({ extractionId, onRestart }: TopicTreeProps) {
             {result.outliers?.examples?.length ? " 🔍" : ""}
           </div>
         </button>
+        <div className="p-4 bg-zinc-800 rounded-lg text-center">
+          <div className="text-3xl font-bold text-purple-400">
+            {result.duration_seconds 
+              ? result.duration_seconds < 60 
+                ? `${Math.round(result.duration_seconds)}s`
+                : `${Math.floor(result.duration_seconds / 60)}m${Math.round(result.duration_seconds % 60)}s`
+              : "-"}
+          </div>
+          <div className="text-sm text-zinc-500">Duration</div>
+        </div>
       </div>
 
       {/* Outliers Modal */}

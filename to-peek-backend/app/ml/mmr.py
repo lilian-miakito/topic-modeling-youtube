@@ -1,6 +1,8 @@
 """
 Maximal Marginal Relevance (MMR) for diverse word selection.
 """
+from typing import Optional
+
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
@@ -11,6 +13,7 @@ def mmr_selection_fast(
     candidate_indices: np.ndarray,
     top_n: int,
     lambda_param: float = 0.7,
+    precomputed_sim_matrix: Optional[np.ndarray] = None,
 ) -> list:
     """
     Fast Maximal Marginal Relevance selection using vectorized operations.
@@ -21,6 +24,9 @@ def mmr_selection_fast(
         candidate_indices: Original indices of candidates in full vocab
         top_n: Number of words to select
         lambda_param: Trade-off between relevance (1.0) and diversity (0.0)
+        precomputed_sim_matrix: Optional pre-computed vocab x vocab similarity matrix.
+            If provided, extracts the candidate sub-matrix instead of recomputing.
+            This amortizes the cost when calling MMR multiple times with same vocab.
     
     Returns:
         List of selected original indices
@@ -29,8 +35,13 @@ def mmr_selection_fast(
     if n_candidates == 0:
         return []
     
-    # Pre-compute similarity matrix between all candidates (vectorized)
-    candidate_sims = cosine_similarity(word_embeddings)  # N x N matrix
+    # Use precomputed similarity matrix if available (amortized optimization)
+    if precomputed_sim_matrix is not None:
+        # Extract sub-matrix for candidates only
+        candidate_sims = precomputed_sim_matrix[np.ix_(candidate_indices, candidate_indices)]
+    else:
+        # Compute similarity matrix between candidates (fallback)
+        candidate_sims = cosine_similarity(word_embeddings)  # N x N matrix
     
     # Relevance scores for candidates
     relevance = centroid_sim[candidate_indices]

@@ -55,23 +55,21 @@ from app.ml import (
     mmr_selection_fast,
     detect_stopwords,
     get_adaptive_sub_params,
+    get_embedding_model,
+    UMAPCache,
 )
 from app.ml.topic_namer import configure_dspy, get_topic_namer, get_subtopic_namer
 
 
 # Lazy imports for heavy ML libs
-_sentence_transformer = None
 _umap = None
 _hdbscan = None
 _bertopic = None
 
 
 def _get_sentence_transformer():
-    global _sentence_transformer
-    if _sentence_transformer is None:
-        from sentence_transformers import SentenceTransformer
-        _sentence_transformer = SentenceTransformer(EMBEDDING_MODEL_NAME)
-    return _sentence_transformer
+    """Get the SentenceTransformer singleton from warmup module."""
+    return get_embedding_model()
 
 
 def _get_umap():
@@ -217,7 +215,9 @@ class ExtractionService:
             
             # Step 4: Run clustering
             print("\n🔬 Step 4: Running BERTopic clustering...")
-            topics, topic_model, outliers_info = self._run_clustering(comments, embeddings, stopwords)
+            topics, topic_model, outliers_info = self._run_clustering(
+                comments, embeddings, stopwords, channel_id=extraction.channel_id
+            )
             print(f"   Found {len(topics)} initial topics")
             
             extraction.progress = 0.5
@@ -323,6 +323,7 @@ class ExtractionService:
         comments: list[str],
         embeddings: np.ndarray,
         stopwords: set[str],
+        channel_id: int = None,
     ) -> tuple:
         """
         Run robust BERTopic clustering with permissive HDBSCAN + reduction.
@@ -331,6 +332,8 @@ class ExtractionService:
         1. Permissive clustering (many topics, few outliers)
         2. Reduce topics to target count
         3. Reassign outliers to nearest clusters
+        
+        Uses UMAP cache when channel_id is provided to speed up repeated extractions.
         """
         UMAP = _get_umap()
         HDBSCAN = _get_hdbscan()
@@ -338,14 +341,25 @@ class ExtractionService:
         
         print(f"   Clustering {len(comments):,} comments...")
         
-        # Step 1: UMAP dimensionality reduction
-        umap_model = UMAP(
-            n_neighbors=UMAP_N_NEIGHBORS,
-            n_components=UMAP_N_COMPONENTS,
-            min_dist=UMAP_MIN_DIST,
-            metric=UMAP_METRIC,
-            random_state=42,
-        )
+        # Step 1: UMAP dimensionality reduction (with caching)
+        umap_cache = UMAPCache()
+        cached_umap = None
+        
+        if channel_id is not None:
+            cached_umap = umap_cache.get_cached_model(channel_id, len(embeddings))
+        
+        if cached_umap is not None:
+            print(f"   UMAP cache HIT - using cached model for channel {channel_id}")
+            umap_model = cached_umap
+        else:
+            print(f"   UMAP cache MISS - fitting new model...")
+            umap_model = UMAP(
+                n_neighbors=UMAP_N_NEIGHBORS,
+                n_components=UMAP_N_COMPONENTS,
+                min_dist=UMAP_MIN_DIST,
+                metric=UMAP_METRIC,
+                random_state=42,
+            )
         
         # Step 2: Permissive HDBSCAN (accept many micro-topics)
         print(f"   HDBSCAN params: min_cluster_size={HDBSCAN_MIN_CLUSTER_SIZE}, "
@@ -378,6 +392,13 @@ class ExtractionService:
         )
         
         topic_labels, probs = topic_model.fit_transform(comments, embeddings)
+        
+        # Save UMAP model to cache if it was newly fitted
+        if cached_umap is None and channel_id is not None:
+            # BERTopic fits the UMAP model during fit_transform, retrieve it
+            fitted_umap = topic_model.umap_model
+            umap_cache.save_model(channel_id, len(embeddings), fitted_umap)
+            print(f"   UMAP model cached for channel {channel_id}")
         
         # Count initial results
         initial_topics = len(set(topic_labels) - {-1})
@@ -557,29 +578,43 @@ class ExtractionService:
         vocab_embeddings = embeddings_cache.get_vocab_embeddings(vocabulary)
         print(f"   Vocabulary embeddings: {vocab_embeddings.shape}")
         
-        # Extract semantic words for each topic
-        for topic in topics:
-            topic_embeddings = topic.get("embeddings")
-            if topic_embeddings is None or len(topic_embeddings) == 0:
-                continue
-            
-            # Compute centroid
-            centroid = np.mean(topic_embeddings, axis=0).reshape(1, -1)
-            
-            # Similarity with vocabulary
-            similarities = cosine_similarity(centroid, vocab_embeddings)[0]
+        # OPTIMIZATION: Filter valid topics and batch compute all centroids
+        valid_topics = [
+            t for t in topics 
+            if t.get("embeddings") is not None and len(t.get("embeddings", [])) > 0
+        ]
+        
+        if not valid_topics:
+            return topics
+        
+        # Batch compute all centroids at once (vectorized)
+        all_centroids = np.array([
+            np.mean(t["embeddings"], axis=0) for t in valid_topics
+        ])
+        
+        # Single large matmul for all topic-vocab similarities (2-4x faster)
+        all_similarities = cosine_similarity(all_centroids, vocab_embeddings)
+        print(f"   Computed {len(valid_topics)} centroids in batch")
+        
+        # OPTIMIZATION: Pre-compute vocab similarity matrix for MMR (amortized)
+        vocab_sim_matrix = cosine_similarity(vocab_embeddings)
+        
+        # Extract semantic words for each topic using precomputed data
+        for i, topic in enumerate(valid_topics):
+            similarities = all_similarities[i]
             
             # Top candidates
             top_candidate_indices = np.argsort(similarities)[-SEMANTIC_CANDIDATES:][::-1]
             candidate_embeddings = vocab_embeddings[top_candidate_indices]
             
-            # MMR selection for diversity
+            # MMR selection for diversity (using precomputed vocab similarity)
             selected_indices = mmr_selection_fast(
                 similarities, 
                 candidate_embeddings, 
                 top_candidate_indices,
                 top_n=SEMANTIC_TOP_N_WORDS, 
-                lambda_param=MMR_LAMBDA
+                lambda_param=MMR_LAMBDA,
+                precomputed_sim_matrix=vocab_sim_matrix,
             )
             
             # Replace top_words with semantic words

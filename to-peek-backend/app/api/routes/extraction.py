@@ -71,6 +71,7 @@ class ExtractionResultResponse(BaseModel):
     id: int
     status: str
     generated_at: Optional[str] = None
+    duration_seconds: Optional[float] = None
     num_comments: Optional[int] = None
     num_topics: Optional[int] = None
     num_hierarchical: Optional[int] = None
@@ -194,10 +195,16 @@ async def get_extraction_result(
             examples=outliers_data.get("examples", []),
         )
     
+    # Calculate duration
+    duration_seconds = None
+    if extraction.started_at and extraction.completed_at:
+        duration_seconds = (extraction.completed_at - extraction.started_at).total_seconds()
+    
     return ExtractionResultResponse(
         id=extraction.id,
         status=extraction.status,
         generated_at=result.get("generated_at"),
+        duration_seconds=duration_seconds,
         num_comments=result.get("num_comments"),
         num_topics=result.get("num_topics"),
         num_hierarchical=result.get("num_hierarchical"),

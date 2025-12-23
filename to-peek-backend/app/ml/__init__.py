@@ -37,6 +37,8 @@ from .embeddings import EmbeddingsCache
 from .mmr import mmr_selection_fast
 from .stopwords import detect_stopwords
 from .utils import clean_text
+from .warmup import warmup_ml_components, get_embedding_model
+from .umap_cache import UMAPCache
 
 __all__ = [
     # Config
@@ -72,5 +74,9 @@ __all__ = [
     "mmr_selection_fast",
     "detect_stopwords",
     "clean_text",
+    "warmup_ml_components",
+    "get_embedding_model",
+    # Classes
+    "UMAPCache",
 ]
 

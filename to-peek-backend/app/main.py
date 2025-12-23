@@ -17,12 +17,17 @@ from app.api.routes import (
     extraction_router,
 )
 from app.db import init_db
+from app.ml import warmup_ml_components
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """Initialize database on startup."""
+    """Initialize database and warm up ML components on startup."""
     init_db()
+    
+    # Warm-up ML components (avoid cold start penalty ~10s)
+    warmup_ml_components()
+    
     yield
 
 # Create FastAPI app

@@ -75,6 +75,7 @@ export interface ExtractionResult {
   id: number;
   status: string;
   generated_at?: string;
+  duration_seconds?: number;
   num_comments?: number;
   num_topics?: number;
   num_hierarchical?: number;
