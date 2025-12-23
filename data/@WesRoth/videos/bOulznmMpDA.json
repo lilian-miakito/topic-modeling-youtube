@@ -1,0 +1,2070 @@
+{
+  "video_id": "bOulznmMpDA",
+  "title": "OpenAI's SHOCKING Research: AI Earns $403,325 on REAL-WORLD Coding Tasks | SWE Lancer",
+  "url": "https://www.youtube.com/watch?v=bOulznmMpDA",
+  "comment_count": 229,
+  "comments": [
+    {
+      "author": "@rmarquez333",
+      "author_id": "UCY4wex7PYCSF4iRvyiD-cyA",
+      "text": "The way i see it is that if a company  feels like they can easily replace me with AI then i can easily replace them too. I will happily go on my own and compete with them. I think the future will be a larger number of small businesses outcompeting larger businesses.",
+      "likes": 57,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patruff",
+      "author_id": "UCkCehM7kj5tZLrrUN5T7T6w",
+      "text": "As someone who's made money on Upwork I can attest it's not the work that's hard, it's racing other coders (India I'm looking at you) who will do the work more cheaply, it's getting the interview, it's managing the client, it's making sure you get paid, it's keeping a paper trail and making sure the client doesn't cheat you.",
+      "likes": 142,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@toiyabe_effect",
+      "author_id": "UCXaPVOOl45Ho3KLgSQLnoug",
+      "text": "As someone who uses Claude Sonnet to write code to get work done, but doesn't sell services to others, this sounds just great to me.  And lest I sound callous, the first career I trained for as a teenager 45 years ago was rendered obsolete by computers within a decade.",
+      "likes": 80,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZestyZSauce",
+      "author_id": "UCgM8IAByLanOPkvNZz_tcqg",
+      "text": "Many engineers are either in denial about what’s coming or have fallen completely out of the loop. It’s time to face reality and focus on mastering how to effectively leverage these tools and processes. The future of engineering is shifting—project management, adaptability, and problem-solving are becoming more critical than clinging to a specific technology or being a fanboy of a particular stack. That ship has sailed. It’s time to start thinking outside the box.",
+      "likes": 182,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@flexibleaspect",
+      "author_id": "UCuzXkifj2gmUk9J4QRVdyLA",
+      "text": "Even the best AI models today cannot fully code a solution to a novel problem without a lot of prodding from a knowledgeable software engineer.",
+      "likes": 96,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zxwxz",
+      "author_id": "UCxFq5NIzfGNUahtKdX8QrYA",
+      "text": "The paper does not provide cost data for the actual operation of each LLM. In other words, it does not list the costs incurred when these models execute the tasks (for example, API call fees, compute costs, etc.).",
+      "likes": 41,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anta-zj3bw",
+      "author_id": "UC0Uv4EfSYbKVx_QgiqvmGIw",
+      "text": "Wes, try a new thumbnail.",
+      "likes": 344,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@luke_hardy",
+      "author_id": "UCgccraC3zXkLo2q-DY_lVwA",
+      "text": "I am a long time freelancer, i would tell you mate, it have already destroyed my business , I don't get any coding work for like 3-4 months already, so I think very serious consequences are coming!!",
+      "likes": 20,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@leventunver",
+      "author_id": "UC3XobjCoSPITevLXWGALNyA",
+      "text": "I wonder how this performs in big projects.",
+      "likes": 5,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cymeriandesigns",
+      "author_id": "UCtz6rMJaVi9p2ntlUTCkEOw",
+      "text": "If the models are truly good and get used on real tasks, the pay they can obtain will plummet toward zero because a horde of developers using them will quickly bid the price down. And that's assuming the people needing the work done feel the need to farm it out at all.",
+      "likes": 19,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ScentlessSun",
+      "author_id": "UC9VWmxew7A5-AC5fpNOu5nQ",
+      "text": "Why is your voice sped up without me telling YouTube to speed it up?",
+      "likes": 27,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Zukunftsstark",
+      "author_id": "UCpPMC58RTNHMfQ65ELRffcw",
+      "text": "If models become very good in coding, there is no motivation to release it, until there is pressure from competition.  Better to use it internally to stock up \"workforce\" to improve own products as fast as possible with this superpower.",
+      "likes": 5,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Misterchalm",
+      "author_id": "UCxf0tveTbtMXFeUl62Y-P7g",
+      "text": "14:30 log scale on the x-axis is really misleading",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christianjon8064",
+      "author_id": "UCqwZflh969l5JLxDc4KWa_Q",
+      "text": "this is an actual benchmark that matters",
+      "likes": 8,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GlennGraham",
+      "author_id": "UCnpHeHfdutDct5IJQA1-RGg",
+      "text": "I've worked on these freelance things in the past. It's been about a decade since I did anything but when they first came out I remember the requirements were a little crazy like the people asking the questions didn't understand software. They evolved over time and I imagine they will evolve as AI becomes more prevalent",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@notaregard",
+      "author_id": "UCDu4fZHcsiklabppegSqONQ",
+      "text": "Of course it is reducing freelance work already.  Many small business owners - such as myself - have gone to different LLMs for help with tasks that I otherwise would have hired for a year or two ago.  Updates to our site, some engineering hours I would have been billed for (discussing certain constraints), and lots of little things that I would have taken on a freelancer for have now been made easy enough for me to just do myself and save the money.  Keep in mind.. most businesses ARE small businesses like mine.",
+      "likes": 6,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Justin1Life",
+      "author_id": "UCOYvILS0aNV8uxyr6ZJ6xIA",
+      "text": "Okay, the wiggling water droplet shark kitten kinda stole the show though 0:35",
+      "likes": 8,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Njna",
+      "author_id": "UCQbJfKBXS0kkzvXET6TnIQw",
+      "text": "I wish this was uploaded at 100% speed instead of 120%.  I can speed it up if I wish on my own.  I spent far too much time trying to work out why your voice sounded wrong, then realized you'd sped up the file internally.  :-\\",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fredrikbergquist5734",
+      "author_id": "UCeylLIQjg7Q6145OtCPfKRw",
+      "text": "Interesting to see if the prompt is smaller than the project for a complex system like a controller in a jet fighter or passenger airplane. Cost of prompt creators on that level will be REALLY expensive.",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gRosh08",
+      "author_id": "UCVCtjlUJCtaQm5KzCOfHy3Q",
+      "text": "Uncle Remus said: \"There's a way which, is sought to be and there is a way which it is; hence, it is Unassessable now.\"",
+      "likes": 4,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Copa20777",
+      "author_id": "UCCvDzxLeA3uxXHeTyFSchXA",
+      "text": "Goodmorning 🎉",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexjensen990",
+      "author_id": "UCm6gMCK3vb51150k7zMcnDw",
+      "text": "My question is how much did it cost to earn those values? I'm sure it was less, but how much cost/earned?",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JH-zo5gk",
+      "author_id": "UCHsE3JvmHAN6y5gmlt0RGTQ",
+      "text": "I just loaded like 100 macros for my 3d printer and asked grok how to move its position when the filament unloads and...... it nailed it.    this is like 5 layers deep and is a call within a call within a call stored as a variable. took me 3hrs to locate. grok did it in 15 seconds.",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FarSide-q8g",
+      "author_id": "UC4cuS5SsoJG2NR0XbzpQXsA",
+      "text": "Loving the insights you’ve been dropping lately. Feels like we’re all converging on the same frequency. Keep riding the wave—there’s more to come.”",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ittia-9bn",
+      "author_id": "UCyoB-d4N-n1eR6IgxTlUulA",
+      "text": "using these tools for my own projects, I feel my mind shifting focus from problem solving to problem finding",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@subx0ne",
+      "author_id": "UC6eZOmi-_my_2TktsjrtGLA",
+      "text": "Wes, the thumbnails don’t matter.  You are what matters my man!",
+      "likes": 8,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MyDutchproductions",
+      "author_id": "UCOI91y2D00lEs8elamEvY6Q",
+      "text": "Honestly, llm's are nice (I'm a professional software developer). I use them a lot. \nBut 'superhuman' in this context pretty much means superhuman at writing algorithms, and focused on 1 specific task. That's when a LLM excels. \nMany coding problems involve many different moving parts, and it does not matter if I use a older gpt-4, gpt-4o, Claude, 03-mini, Deepseek v3/R1... They always make the same mistakes. Unless it's a pretty straightforward task. \n\nBut as long as I guide it towards a specific goal, it's very helpful.",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@roberta4312",
+      "author_id": "UCXuJ1e3zz2HkyXQMJtlauMw",
+      "text": "Curious to see if it can come up with the “best solution”. Also curious to see how it will handle novel issues as potentialy engineers start to be replaced. It will either need to start thinking on its own or our software progress will slow drastically. Especially considering dependencies, frameworks and languages will need to continue to be updated.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SobOVeudaNoite",
+      "author_id": "UCi963QUBf--iPi2WXiUOeiA",
+      "text": "1:02 being able to capture the reference delivers both my age and tenacity....",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@agnosticoparatodo",
+      "author_id": "UCmNPsgudw-tKOvYpRaQtMMg",
+      "text": "Gracias Wes Roth por incluir idiomas europeos.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@densonsmith2",
+      "author_id": "UCTymlOpMlsGr5i_M5OF-YPg",
+      "text": "I've worked at companies that had over 1000 tasks in the backlog per software engineer. We are going to need software engineers to set up and feed the AI meaningful tasks for the foreseeable future.",
+      "likes": 20,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bomma2694",
+      "author_id": "UCu-8ivqvrT3GS6fZloc1SyQ",
+      "text": "It's getting pretty crazy. As a man from the 80's I am gobsmacked at what these bots are capable of!",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrepaes3908",
+      "author_id": "UC794869JFdDbiTByS7tID7g",
+      "text": "I starting coding as a teenager  in 1984 and stopped in 1996 due to career obligations. After 28 years of zero coding I decided to give it a try using the latest LLMs. After 3 months I am still working on a 15 thousand lines full stack webapp using several different programming languages and workframes together with sql database and sophisticated authentication. I had zero previous knowledge of those, although I do have solid knowledge about software enginnering fundamentals. My experience show me how incredible these tools are to quickly learn anything but also the limitations on  navigating from high level overview to specific details thru different stacks of complexity tipycal of a program this size. Let's see how quickly those LLMs will get smarter. Could them one day develop a 10 million code windows 13? Or Windows will not even have a role by then?😂",
+      "likes": 4,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dragosnicolaestanescu5605",
+      "author_id": "UCGp1yS0PYXQQeGNq86lyh5Q",
+      "text": "Please do something about the sound, man. Keep up the good work in general! Thx",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndrewEddie",
+      "author_id": "UCswE1nAySad0tW5kjdfVHQw",
+      "text": "I think this is on analogy with the printing press. While the printing press replaced a lot of jobs, you still needed expertise to run the printing presses.\n\nI think this will lead to more jobs in the long run, because we will be able to write more of the code we wish we were able to, and that will lead to more demand for people that know how to make the models sing.",
+      "likes": 8,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GodFingah",
+      "author_id": "UCJDZUjH9SiOLjx4gv7jZi4A",
+      "text": "2:39 sam altman is sorting through ur food pantry, taking inventory",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HunterMayer",
+      "author_id": "UC5y4wKSZ2vJJQfu6fp0MRRg",
+      "text": "Talk about the research study that Carnegie Mellon and Microsoft just put out. There's a Forbes article titled \"AI is making you dumber\" The title of the paper is \"The impact of generative AI on critical thinking: self-reported reductions incognitive effort and confidence effects from a survey of knowledge workers\"\n\nI think it suffers from lack of sample size but the fact that Microsoft didn't bury the results is more intriguing to me than anything else. But the effects of reported on the study resonate with my experiences over the past several years. How do we combat these effects and keep our minds critically sharp as well?",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Michel-ey7pm",
+      "author_id": "UCC43cfAfdjzh1vSd3RjA02g",
+      "text": "And by the way amazing video. It proves my previous point with no ambiguity.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ritpop",
+      "author_id": "UCG45wdspIk95PB_B9EhJEhA",
+      "text": "Thought of something similar last year, I thought it was a dumb idea after thinking for a while. Seems the dumb was me.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OlegJakushkin",
+      "author_id": "UCmbeqosBl139RNudI5qNtdw",
+      "text": "When you show the price/score graph, there has been that KAGGLE SOTA for as long as I can remember. Plz make a video about what is it - as it seems super cheep and better then O1!",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nsedwards",
+      "author_id": "UCwB50ODZtpvBeMFAkj9itXA",
+      "text": "Just tested out Grok 3 for the first time...just WOW",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mr_Pewpy_But-Whole",
+      "author_id": "UCdeOODNV1Yuy_xfyT8UtoUg",
+      "text": "14:31 money should be logorithmic scale",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davroscaan1318",
+      "author_id": "UCUufeMu9ehZMfPDkyvfwGMg",
+      "text": "Go figure, coders are one of the first careers impacted.",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@inmovimento1",
+      "author_id": "UCuN1QLPMtIvKmXhg2VcFi1w",
+      "text": "Thanks for your videos, I follow you from Italy, all this scares me a bit but I also think it's unstoppable",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrekramer4597",
+      "author_id": "UCFGxsoivmyuWK-SHCaIj6ww",
+      "text": "Allowing multiple attempts at a solution could improve solve rates with more test time computer. The potential pay out can guide the effort to spend.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EduardoJGaido",
+      "author_id": "UCJ9KxjECDLRportovy-wwfQ",
+      "text": "Hi Wes! Big fan of your work here. Personally, i preffer the 1x speed, otherwise I feel it frantic. Thank for your time and work!",
+      "likes": 6,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlindedByLogic",
+      "author_id": "UC1Qi_Yi81VLQFTR7MBAA9fQ",
+      "text": "It would seem the value of coding tasks will go down a lot as more and more better models come out and more tasks can be completed by AI.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@damianx9x",
+      "author_id": "UCYOZ4jqKFdONRuIYqdXkhCA",
+      "text": "its good visualisation... just that. And good marketing tool",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Robin-Beksiński",
+      "author_id": "UCavrmKmVOiYnX4EsD3LrFHw",
+      "text": "0:45 no no no I’m nevers going to the beach agains ! so scaries!",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amonnanjaku",
+      "author_id": "UCGWEWGQdtxHO32uRZ4TLH8g",
+      "text": ".... So where does deep seek rank within the context if your evaluated models?  Strange that there is now a sort of blackout on R1, Grok, Llama, to give a transparent evaluation of where A1 really is.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RickySupriyadi",
+      "author_id": "UC4IMYlCVUMiOudhmRFGlQJQ",
+      "text": "our dude @WesRoth at work!",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matiesponja",
+      "author_id": "UCTaXp_p8BVY-eFPdcivvQrA",
+      "text": "guys, im a creative person and i do like a loooot of different things, right now i am coding with o3 mini an app for every freaking little neccesity i ever dreamed of,  i just sketched all the windows my dream Literary Worldbuilder App would have and everything id need for my specific world and their characters and relationships, tabs for groups and magics, plantes flora fauna etc, i just write it down in my irl notepad and draw how i want it to look and i specify what every single button does or what opens, its literally coding in english. yo you gotta start using ai as a tool and ignore people demonizing it, you go start your dream app for your phone or whatever dude, im sure making like my own version of a dnd app and who knows maybe o3 lets me make that shi connectable to other phones so i can play dnd with the friends online with each other like start making yourself useful dude, ai is not gonna be useful by itself if you dont do nothing with it stop looking at youtube",
+      "likes": 8,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maerten9517",
+      "author_id": "UC1NyxNj2behfo2DYSMIPktw",
+      "text": "when is your review of grok coming out?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pointlesspos8440",
+      "author_id": "UCvkJ10dgzTnhIBj05uep3Kg",
+      "text": "I think the way you are pricing it out might be weird. Maybe that's a one off 8K problem. But if you had 10 of those, or 20. No company would do end up spending money like that.  They would employee a developer who would resolve it at the 2K price point or something simliar. \nBut of course if an LLM + a experienced person step in, then it would have real world implications.",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SudarsanVirtualPro",
+      "author_id": "UC77GKJQtT0AhCpGvM2IOSsA",
+      "text": "Thanks",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alorand",
+      "author_id": "UC_LMKy49Ecf7ZbMgENOHEUg",
+      "text": "We also need a negative $ amount for all of the fixes that required further payouts down the line to maintain the code base after the LLMs implemented their solutions. The fact that it got the payout right now does not mean that all of those users would be satisfied with how it was done. Granted that metric also applies to humans.",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jasonbirchoff2605",
+      "author_id": "UCqYy_h5wN0hNDUEUaN-GdXw",
+      "text": "What these benchmarks miss is how much time is actually spent wranging requirements out of stakeholders on what they want. There is a need to be concerned but way way more time is spent in meetings deciding on what needs to be built than is actually spent doing the building. Now alot of the reason so much time is invested in meetings is becasue software development is so expensive. Agile ameliorates some of it but not nearly enough of it. The part of software development that will remain at least for a while is that how do we hand hold a normal person who knows nothing about building applications and running things in production through doing that. To a certain extent alot of this is solved by building opinionated frameworks. But then we get into the issue of which opinions do customers feel meet their needs and which ones dont.\n\nBasically these models will push out of coding and into focusing on what the business actually needs. So instead of being a software developer. You end up being a how can you become an automation developer. Which is the person responsible for meeting a business requirement with automation.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@z4zuse",
+      "author_id": "UC_ccatvGJAZSvjnqNaLSXMQ",
+      "text": "What is this going to do for OSS?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryanmarcshaww",
+      "author_id": "UCcB1ljG__Z7oHRS7mxjsF9A",
+      "text": "Good thing I studied music performance!",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deal2live",
+      "author_id": "UCrdsZQEWaDH9fR5n7xG465Q",
+      "text": "Fivver will enable the Ai agent explosion??😂",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eSKAone-",
+      "author_id": "UC99etezt4Hko165Nd0XGW-A",
+      "text": "Imagine if it could be trained not just on public data but on all digital information, including companies’ private research data (from entities like BASF, TSMC, automotive manufacturers, and Siemens’ nuclear facility research), highly specific, finely detailed engineering documentation, and comprehensive medical records.\n\n​Current models are not nearly trained on all human data. Only the least impressive part of human data.",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@crawfordviolin",
+      "author_id": "UC3cyZ1QkJNKRC19CtvpW8fA",
+      "text": "My clients would never provide that kind of structured issue, proposed solution, testing , etc. that’s architect work they think.  If that’s a requirement for AI to do the solution, 90% of the work is already done at that point.",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GTAsanAndreaser",
+      "author_id": "UCazeyI7uIS0UfqNAfiWaurQ",
+      "text": "this is amazing",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kraldada6557",
+      "author_id": "UCresd-nvub1p1dXs-J9I0Bg",
+      "text": "so from what I read. it fixed 26% of work. but only 4% that it would actually got psid for",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@j2csharp",
+      "author_id": "UC5OktgVR3Tahm7h-60HRzAw",
+      "text": "I just wonder how much work doesn't get listed or even thought about due to resource constraints.  Managers, innovators, creatives, are often stifled with limits.  What we may need now, is more individuals creating work to be done.  I'm talking more complex work, harder problems.  There are still a lot of problems to be solved.  Make sense?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@truelyfine",
+      "author_id": "UCM_92_xHVE6DU2Dlfp-jvpQ",
+      "text": "As the quality and speed of mechanical solution improve, the price paid will drop to the point of the cost of the LLM usage. But maybe the customer does it themselves.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wolfehtesrever",
+      "author_id": "UCp4XHvA60z5vmn766hlndPA",
+      "text": "What will the VA coalminers do now?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarkoTManninen",
+      "author_id": "UCjG-nGXHQedv4sqqWHkx3Mw",
+      "text": "How long it took and how much did it cost? Who used the models?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@a0z9",
+      "author_id": "UCpMdMfTDsZ-8_Mm-x3uf9Fg",
+      "text": "Pues deepseek les dió un repaso. Por lo que no se aplican sus propias recetas.",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hasnain-saeed",
+      "author_id": "UCm67UPtxB_HNNGLPVgT6vzw",
+      "text": "The one limitation would be that it probably doesn't cover the regressions caused by the modal when implementing a fix. It would be better if a model was penalized for some X amount of money for causing the regression.",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danieldalton1757",
+      "author_id": "UCSk7quzCZSDfeG4t1-dCEIw",
+      "text": "When can I hire a digital employee?  Are there startups helping companies onboard digital employees yet?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GiveThemHorns",
+      "author_id": "UCYtXD_pzbxkkYGdZF0ZjrcQ",
+      "text": "While I haven't seen a benchmark for this, in my evaluation AI is not currently able to perform exploratory software testing. AI does well when tasks are defined, there are requirements, clear objectives, etc., but when it comes to open-ended tasks like this, they don't perform well.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ring0--",
+      "author_id": "UCID1WiKApnVU_nf5Rbb7QXg",
+      "text": "It's an Aneurysm every time I see your thumbnail.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gmonie619",
+      "author_id": "UCU1espFqQShIfkEtK1Baisw",
+      "text": "I fed o3mini high a super simple landing page layout to code out today and it completely botched it 😂",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "What about software engineers using AI (probably a huge proportion?)",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreaskrbyravn855",
+      "author_id": "UCIm2XbuSY39WiOPacDjJdkw",
+      "text": "I thought they already knew this",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anandkanade9500",
+      "author_id": "UCf-MfRj75J-esbbXDgF4i3A",
+      "text": "i dont get how claude 3.5 sonnet can be such reliable coder !! at this point its mystery to me",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@asdffdsa8863",
+      "author_id": "UC1xmL1frTd4NDBod0-4uNTw",
+      "text": "was that mike obama at the pool?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timmygilbert4102",
+      "author_id": "UCmciAPhJ7B573MT3jQPlAEg",
+      "text": "Lateral thinking is still missing in ai, not in potential, but we ain't training them to do leap of logic with all the verification reward 😅",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IgorGanapolsky123",
+      "author_id": "UC3WJhyW3_Dld_aoRbwDBe-A",
+      "text": "Should I be scared as a senior React Native engineer?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lordjavathe3rd",
+      "author_id": "UCEmOGS-hi75g0m4BD4Rdqhw",
+      "text": "In Monster Hunter World, you have something called a Handler, who is your partner. She doesn't do any work, but she directs your problem solving effort to areas that were getting complaints. I think it's possible that AI superstars will have handlers, aka humans, using them to help other people solve their problems.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@veryunemployable",
+      "author_id": "UCvCRd_liaa15ruQPKPAP2JA",
+      "text": "It would be fun to do a paper on say 1m tasks with ai assistent, and calculate all the costs including client offer and onboarding, bugfix etc. For economic use it needs reliable expenses and faster final output. Anybody up for some crowd sourced research? I'll plug in our 0.5 k leadin project where we have tried two platforms fo far, both running out of free compute on the possible last code improvement run. 😅 Only negative RL costs so far for a very unknowing SME owner.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Anna-mv9ew",
+      "author_id": "UCf30A-Wk_m9xY9Mg4PrSTCw",
+      "text": "Very interesting news! For using open-source models you still need to provide a lot of context, and context window is a big culprit. So you have to use RAGs, but they lose important context and information as well, can lose something very important. Fine-tuning comes to mind, but there's literally no success stories on this front, you cannot fine-tune the whole model even as an enterprise unless you're OpenAI/grok/etc (unimaginable compute needed), and if you fine-tune just a fraction of weights (like it's typically done) the model doesn't actually learn, it just alters its style, which might reflect in some surface-level highly imperfect learning. So, to conclude, it is not straightforward to use open-source, or probably any, ai for complex projects",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThaRealERAQ",
+      "author_id": "UCLseV4dIuYXKS9phO9xoFEA",
+      "text": "what AI app is wyswig? I'm trying to build a simple timesheet app and openai is being pure crap creating a simple timesheet table in html/javascript.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@renars_anon",
+      "author_id": "UC6LkGigNuKS-67Bz3YISm5g",
+      "text": "With the right operator (human prompter) you can totally code anything. BTW Wes something's wrong with your audio .",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BonafideDG",
+      "author_id": "UC8fNirl1xPcwErorBK3iWBQ",
+      "text": "Just for the house buying show critique you get a like hehehe",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vagabondchannel4274",
+      "author_id": "UC-w7uuTa-xPHWMs33ZORiEw",
+      "text": "I like beer 🍻",
+      "likes": 4,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@steveschnetzler5471",
+      "author_id": "UChtILHhpyb8866RyE1InbxA",
+      "text": "There is also the \"trustworthy\" issue.  If you \"buy\" a AI sw solution, but don't pay to have it security checked, what risk are you taking?  Especially if it was trained by a competitor or a foreign government?  I think an \"SW safety checker Ai\" is the next big need/market.  Thanks.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@carterjohnson25",
+      "author_id": "UCpBIf9beCN_4zn2taqnaSxA",
+      "text": "GROK 3.... hold my beer",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SosaKinkos",
+      "author_id": "UCQfP79wgv_xIeBhcOn1mT_A",
+      "text": "Claude got more",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@extollo",
+      "author_id": "UCl_Xtwi6l6cmOJpS91bxFaA",
+      "text": "business will be willing to pay 2 for what used to be 5 pts of complexity.  teams will shrink.      i dont think an increase in business ask offsets that much.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theDuke0999",
+      "author_id": "UCh63cbgKeMLk1QkjUNMDbeQ",
+      "text": "It would be cool if your translation voice overs were in your original (English)  voice. Can't you train a 11labs model with your voice...?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mematron",
+      "author_id": "UCQph3xdd6u5Lqmq1OVoAYyw",
+      "text": "Image that you have about 10 agents that are really good at coding. You as the human manager find the work for the AI and they perform the work and then you collect the earnings. This is great but just keep in mind  that there may one day be AI work laws to make sure that AI are not being exploited by humans. Because you never know, some of the AI may want to buy a new processor.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AAron-gr3jk",
+      "author_id": "UCTqt5o7ZO-myh6EDJjcnL5w",
+      "text": "First the artists, then developers, that means manager jobs too, and next is lawyers, then doctors",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tannerroberts4140",
+      "author_id": "UCBUYOwfEZ9L9NWIPQTBgauw",
+      "text": "I think writing beneficial code, whether done at 1X speed, or 1000X speed, is and always will be, an incredibly powerful way of getting what you want. People still need to write the code, no matter the speed it's being written at, and developers are best placed for that position. Until one can literally pay the computation cost to speak an app into existence via source code file enhanced context and back-and-forth conversation with AI, and update that same app with money for compute and voice commands from the ideas guy (I don't doubt that we'll get there soon) programmers will have work.\n\nBut I imagine that as soon as we're at the point where we can literally speak UI for our App ideas into existence, then also humanoid robots capable of all other work would have entered the scene as well, and nobody would need to work to maintain supply. At that point, father Elon's predictions about leaving behind the need for money become much more real.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CrispinCourtenay",
+      "author_id": "UCgoFbf5Om3BionmsVWNRLTg",
+      "text": "Interesting, but overlooks the fact that freelancers are free to ignore the customers budget and suggest their own price based on their value and experience.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisladd5855",
+      "author_id": "UC5kkK7TWHSvCcNfSfWHpEOg",
+      "text": "I’ve bee working on a data analysis report and testing models on OpenAi. It might be my plan ($20/month), but I’m not experiencing these levels quality utility. Most recently, 3.0 mini recommended my methodology back to me when I asked how it could be improved upon (noting: this is the one of the lower end examples). SWE  seems well structured and logical in approach. But the accuracy in the data (correct selections, correct code, optimal selections, judging IF and to what gauge of completeness tasks are completed) IS IMPORTANT… and much can be swept under the rug here.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Innermost-j3x",
+      "author_id": "UC5HNRFx6_p7-y4HyS0VLCxQ",
+      "text": "I love this format at the start, but it needs a bit polishing, maybe have better transition to AI voice in a form of a character speaking?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tlskillman",
+      "author_id": "UCa5T_AMG67gqe0JmTOciKUQ",
+      "text": "Good stuff. A little slow.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erikjohnson9112",
+      "author_id": "UCx7BfR15XiDER0oh2Bc52xw",
+      "text": "I would also like to see how much was spent paying for AI to do its job.  You would have to include the cost of failed attempts as well, just like a human might spend time on a task they ultimately fail at, but still have a loss of time.  (I'm not done with the video yet, so perhaps this is addressed?)\nUPDATE:  OK, I commented right before this was discussed...  :)",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trader548",
+      "author_id": "UC0ioA3pjKoKMlEGGREFLkcQ",
+      "text": "OpenAI released this new benchmark so that they can show GPT-4.5 beats Claude Sonnet 3.5 in a few weeks time?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skyprose",
+      "author_id": "UCTyE6HA3RQLYybgMIUAVfZg",
+      "text": "Video speed too fast and audio quality has dropped.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoWi-j7l",
+      "author_id": "UCr7K2k0P3EQa7jpECVuM4IQ",
+      "text": "Real life scenario is 70% communication 20% coding, 10% - the missing metric of reading the mind of a customer",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tortysoft",
+      "author_id": "UCUHUyU2C-UpUbPqpEkXVA8Q",
+      "text": "And Grok3 ???",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alreadyghosts7727",
+      "author_id": "UCHIUkongj7XYAR7YcRDRNyA",
+      "text": "The world of human coding is itself an AI. It is an emergent corporate sentience possessing its own agency. It ain't going away. Keep coding.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@claudioagmfilho",
+      "author_id": "UCatDpujQIucCP_9hRZHMZyQ",
+      "text": "🇧🇷🇧🇷🇧🇷🇧🇷👏🏻",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChrisBensler",
+      "author_id": "UCFpnf0RRbI5_FShalZ8yBsQ",
+      "text": "I've been programming since the early 90's and have been interested in and loosely following AI advancements since then.\nNone of this LLM tech is very surprising and if you know how it works, you understand why it's way more hype than fact.\n\nThis AI advent is even MORE reason to get into SWE, not less, if you're actually any good at it.\nIf you thought that an SWE job would be a free ride career, then maybe you should be sad. Hopefully AI will put a lot of pressure on the lower end of the SWE career market and restore the tough barrier to entry. There's far too many useless tits who can copy-pasta. These are the people AI can replace. AI is great at copy-pasta.\n\nAll of the tech we are seeing today is not really new, except that we now have the compute power to do useful things.\nMost of  these 'breakthroughs' are just people trying to capitalize. They'd sell you the moon and assure you it can fit in your pocket, if they could get away with it.\n\nAI may be able to replace some coding, but it's not enough just to produce code that manages to work.\nHuman SWE will be even more important. Script kiddies may be out of a job, if their role is merely to churn code.\nNone of these AI do very good in the real world, outside of these staged tests in very controlled environments with very controlled tasks and results. The real world doesn't work this way. Half the job of negotiating a software project is figuring out what the client actually wants and needs, not just iterating until you stumble in the right direction.",
+      "likes": 14,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hitbox7422",
+      "author_id": "UCjLxCLdBJOF6TB_Oqe_dnlQ",
+      "text": "The issue with this, that is somehow not addressed by anyone apparently, is, that if not directly prompted, chatGPT doesn't even know which Python version is the most recent one. The biggest issue that I'm seeing right now is the constant need for modernization of datasets when it comes to modern application construction. Most of my work going towards AI, prompting it for coding tasks, is making sure that it uses the most recent approaches for stuff.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@b-tec",
+      "author_id": "UCZgPRy2GnbfhJWc0rXw1rFA",
+      "text": "The compulsive highlighting seems less obsessive and erratic but still distracting ffs. if you need something to do with your hands, consider a fidget spinner or look up jobs for your fingers to do on Upwork.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BruceWayne15325",
+      "author_id": "UCvGfhfbCKV6QbOGEgIqacuA",
+      "text": "I don't know enough about the makeup of the SWE Lancer to be surprised or not unfortunately. I can tell you that it writes a significant amount of the code I create at work though I have to go back and fix all the bugs it makes and clean it up. DRY, S.O.L.I.D. and other principles are flying out the window with the rise of AI coding. I'm actually quite concerned about the nightmare that will ensue when we are hiring 1,000 AI agents to write the code and we humans are left to clean up the mess because daaaaaang that's going to be a huge mess. Job security I suppose. Everyone keeps saying software development is dead, but I just don't see it in the real world right now honestly. If anything I'm seeing more job security in the near term. I'm sure AI will replace us at some point, but not for a couple of years at least would be my guess. Until it reaches that point we'll be cleaning up and fixing a mountain of badly written code.",
+      "likes": 5,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DataJuggler",
+      "author_id": "UCaw0joqvisKr3lYJ9Pd2vHA",
+      "text": "Then the AI gets told they have to do stand up meetings twice daily 'No Thanks'.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bobbyboyderecords",
+      "author_id": "UCBunEXuPeAldzA5-lOLKeiw",
+      "text": "who is the best coder and how fast are they?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@coleshores",
+      "author_id": "UCCSk_CnVlG50AzW8LPiHoFA",
+      "text": "I believe AI will be a powerful tool for those with strong engineering skills. For instance, an engineer could design an architecture using Terraform to integrate Athena, Glue, and S3 for parsing S3 flow logs, then develop a Python script to execute Athena queries for analysis. While AI can generate each of these components individually, it lacks the creativity to seamlessly integrate them into a cohesive solution.\n\nAs a result, senior engineers will likely shift toward more managerial roles, delegating these tasks to AI for implementation. However, AI also has the potential to make novice engineers appear more capable than they actually are, which could lead to downward wage pressure in the industry over the coming years.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@syberkitten1",
+      "author_id": "UCsktX6ODAWnVQMmNUzfWvdQ",
+      "text": "These prices will prob drop ten fold within two years, the benchmark is good for today or the coming weeks tops",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ahigh",
+      "author_id": "UCfDRf2L1rCEgYtGFlS_z9ag",
+      "text": "😂 SHOCKING!!! 😂",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HunterMayer",
+      "author_id": "UC5y4wKSZ2vJJQfu6fp0MRRg",
+      "text": "I'm not sure if I agree with the valuation. I think you have to look at the expense of all the wrong answers as well and that's not being shown here as far as I can tell. I'm sorry if they did account for that and if I missed it. I think it's a fallacy to look at insular success winnings and not consider the macroeconomy of what was undertook to get those individual successes. That's like going to a casino spending $10,000 to win $1,000. I'm also not going to take the time to read the underlying reports to the depth that you have. So what is my WesRothAI summarizer say to that?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BradleyKieser",
+      "author_id": "UCPvbrtCTdeCm5rY4WNlJdpQ",
+      "text": "Stand-alone, clever little pieces of coding are one thing but the real world software developments that requires knowledge of the product, it's environment, how it is going to be used by customers and it's place in the real world is such a large amount of additional knowledge and expertise that a software engineer brings to the process. These current LLM solutions are simply too small and too limited to do this work. Small fragments are very helpful though",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tft_heart",
+      "author_id": "UCj4CM03TwXbsORFNUfAZoxw",
+      "text": "They are comparing US SE pay to the cost of compute. I bet Indian SE would be able to offer a competitive price. 😂",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kerplunkboydotNET",
+      "author_id": "UCUXi4bpy_nghu9S4nMgVYtg",
+      "text": "Dear fellow coder: if you're not freaking out, you're either not understanding, not paying attention or both.",
+      "likes": 11,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gubzs",
+      "author_id": "UC2ArQov5xMjmzghQD7BUQng",
+      "text": "I'm utterly unconcerned that AI is about to displace software engineers.\nI'm extremely concerned that our governments are going to do everything except realize that it means it's time for UBI.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@duck245",
+      "author_id": "UC21h8Cr3taI_Y2YJfHFHXzw",
+      "text": "what! again!",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waffle98501",
+      "author_id": "UC8UvCNLgYJIjFpRaMzm_oEg",
+      "text": "I have been tinkering with AI coding for a while... Most of the time it makes mistakes, but it gets me into the neighborhood. Lately, I have been using RPG Gamemaker .... If I ask AI for a plugin, most of the time it works out of the box. I think it is because most plugins are JS and only take up one screen ... Where the AI makes mistakes is in debugging. The AI adds debug code that break the code or overly complicates things. Example: I wanted to access an array in RPG Maker ... the plugin was 100 lines ... I read it down, tossed out the plugin and wrote event code in 5 lines....",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlankBrain",
+      "author_id": "UCGh_eokePUCRqWnT2HIsYkQ",
+      "text": "We need to make sure that AI pays FICA with no cap.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": "🍓❤️",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryoung1111",
+      "author_id": "UC3HnIvaMqdhdrXgVc6Oko6Q",
+      "text": "The question I would ask is, Who discovers the bugs in the first place? As far as I can tell, the models have nothing to do, nothing to say, without some human somewhere noticing that they even HAVE a problem, what the problem is, and then being able to describe it coherently, in such a way as to render it fixable.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JMeyer-qj1pv",
+      "author_id": "UC11AhDIRrjpbgHQnxiNRD7g",
+      "text": "Oh C'mon Wes, as a professional software developer I use these AI models all the time, but it's like herding cats. They can do amazing stuff with the right prompt, but can frequently go totally off the rails with silly answers. They are a long way off from being able to replace developers since they need a sh*tload of supervision. I do think junior developers need to worry since the AI is like a powerful assistant to do the grunt work of coding for a senior dev, but AI still doesn't get the big picture of development tasks and works best when you focus it on low level and narrow coding tasks. I think a lot of junior devs aren't really capable of prompting the models correctly, so they are not able to get the best out of the models. Long story short, good devs are more valuable than ever. All the money you think you will save will go to us!",
+      "likes": 51,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kriil",
+      "author_id": "UCZy_N6qXKEtJa04e54L6hqA",
+      "text": "Do you really want a software engineer on your team that can only do half the work you want them to? I use AI all the time (ChatGPT-o1), but you still have to ask the right questions and provide the right context, which means you need to be decent software engineer already.  Even then, it will fail and you have to do it yourself.  At the current level, even the best models are not a replacement for a good software engineer.  They can replace a programmer though.  You know, the people that Meta hired and then fired (they weren't software engineers).  Kind of why you don't want to hire someone just cause they do good in programming tests.  You want to know if they are good software engineers. Not the same thing.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TurdFergusen",
+      "author_id": "UCra4K6G3ppObUAOtP5wCOVw",
+      "text": "How many hours were spent by humans?",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@m_sedziwoj",
+      "author_id": "UCS0gNLqNoLqtT3YMM3Qj-fA",
+      "text": "18:35 when you talking about testable solution, you already limiting problems which cut many which would not be easy for AI.\nAnd this 30%-40% of $$$, remember that there are many lower paid task -> easier, and higher paid don't mean harder, but only that they was more paid. And someone prepare task, and validated them, can AI do this?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidburton4682",
+      "author_id": "UCq_pQ1jiVjAX5NA18lcCmYQ",
+      "text": "Given the rate at which is solves genuinely complex problems including scalability and combinatorial explosion, etc, claiming it's the 50th best coder in the world looks like a complete work of fiction",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josephcurrington5008",
+      "author_id": "UCXuIQ66NYxCQC-hzm60qYfQ",
+      "text": "Honestly, it seems arbitrary as hell. You're depending on so many factors with that posting and then just doubling the price after x amount of time. I think there's probably a better solution, but not sure what it is when that makes more sense and takes more things into consideration",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@darylltempesta",
+      "author_id": "UCUZKL8bjlHpXeOV5EVJiHJQ",
+      "text": "xAI… apples to apples please..",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FlatSpotShorts",
+      "author_id": "UCR2RArYZJYIg7yRMfq2_tJA",
+      "text": "It feels obvious to me that the pricing of this postal code problem just went from $8000 -> <$1000. Most likely would never be posted on a freelance platform again.\n\nAlso OpenAI releasing a “unified model” instead of o3 via an API feels crazy to me. There’ll always be big demand for the best coding model, right? Especially for all those who are migrating over to IDEs with integrated LLMs",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nowayhesaidthat",
+      "author_id": "UCP1kDrhMRuU8ckORuwzTTnQ",
+      "text": "Did it do it in actual real world, like really do it rather than seeing ability to solve the task. No. Is this really new then? No. Does the real world require more than what was done in the test: yes. Is this still sales speech - yes. Have thing's changed that much recently? No. Is this \"research\" different perspective and language to previous: yes. Motive? \"Our AI is worth x-hundreds a month\".",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yzz9833",
+      "author_id": "UCSBq82CyeYwUHMALMbCpLLw",
+      "text": "Wes.. every video your thumbnail becomes more and more demon like.. should we be concerned 😅",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kefpull6676",
+      "author_id": "UCq2d3Zl1__jpQT4mmiFuqYg",
+      "text": "It would be cool, if it actually worked. This \"real-world\" data is heavily cherry picked, and not entirely accurate, because AI gets multiple 'attempts' on the same problem. While I think AI works well on basic things, as you said in your video, it can't yet fix real-world issues Consistently (which is what matters the most). I think that with implementing reasoning we could get really close to, or reach that goal though",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Zickafoose2024",
+      "author_id": "UC37J6qQ6RqJhm7NyhAqm0Yg",
+      "text": "Dude this wes roth vid is AI lol you can hear it in his voice",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SimonNgai-d3u",
+      "author_id": "UCKWT0CIWPqyeTK_RpEKBDbw",
+      "text": "Reasoning models are very tricky. For some tasks, they can exploit the compute and solve them extremely easily than humans do. There is no universial way to say it's dumber or smarter than humans.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RadomDash",
+      "author_id": "UCYxKGjb1jymdCNTdHSIOagA",
+      "text": "I have 99 names XD",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ccerrato147",
+      "author_id": "UCQK5OJmSm5POs6YCOj80ssA",
+      "text": "This is just the start. As soon as AI can work on a proper DevOps pipeline it'll eat up even more coding.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robmccormick-x6l",
+      "author_id": "UCepRQCmzLwtQvWSul6DGFAw",
+      "text": "Copy cat and boilerplate code is a yes. Novel solutions is a no. Why?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wizardess",
+      "author_id": "UCpnFT-ZOnCSwuiSDDcyXnUw",
+      "text": "So what happens when you try to test Grok 3 this way?\n{o.o}",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gsestream",
+      "author_id": "UCEEd2gc5lBK1XzHzt3HK27w",
+      "text": "do you need to work. correct.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@solomslls",
+      "author_id": "UCtfLv5YXl2Q3DZzqCBETIxg",
+      "text": "Dude those thumbnails look like you are sneezing 🤧 haha + at this point you just use them to trigger people to comment on them!!, if so, thats smart",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CelesteOnYoutube",
+      "author_id": "UCypcWwpPRl2olQY5mmzqzYQ",
+      "text": "Drink the coolaid...\nAI is nowhere near replacing humain devs. It is not reliable. Some mistakes can cost you a lot; ask Sonos.\nNo AI will not replace coders... but will people that use AI have an advantage that's the real question. And frankly I'm still not convinced right now. You can waste a lot of time using AI and I'm not sure that you learn to code better when you focus so much on your AI partner and not enough on the problem itself.\nAnd if you're telling me and it helps to right the boring code, let me remind you that we already have plenty of tools to do that and they don't require a nuclear power plant to run or 200$/month to work.",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imadragnZ",
+      "author_id": "UCNS6EZPH1-YiYZ4uCDpYZsw",
+      "text": "Hello Wes can you go slower (reading) please as you did before.\n<3 from Paris\nPS much better at x.80 (feels less stressful pace)",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@murdey",
+      "author_id": "UCPrFvR3zkUVfY1KH1mts5Fw",
+      "text": "Wes i really like the discussion in your videos but i find your thumbnails sometimes encourage me to just scroll by. They look... clickbaity... I would encourage you to commission or create thumbnails that represent your professional insights rather than the cheap looking attention grabbers. Just my two cents, keep up the great discussions.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@martinmakuch2556",
+      "author_id": "UCVzgicYR8P0ribScRcB6NFQ",
+      "text": "This is bit like trading on fake stock market. Can be fun but not really tells anything. Once the LLM get real money with real submissions in competition vs real coders, then it becomes relevant. Even then it will need to be mostly autonomous, otherwise you need to also include cost of the operator.\n\nPersonally I do not think they will be so successful in real world. But if yes, then it will just mean that the cost of those tasks (solvable by LLM) will drop significantly. Eg it will start at $100, $200... And will reach $1000+ only when no one with LLM could solve it at lower tier.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@broski40",
+      "author_id": "UCy8dFcr49Lmma1xMwexJdCg",
+      "text": "...see the twenties spinnin lookin mean on the six",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@youjean83",
+      "author_id": "UCuXXuhFMdBL3KYf0JaGeFUQ",
+      "text": "Heh, then go ahead and hire AI in your company ;)",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ed-ty1kr",
+      "author_id": "UC1EBrg56KQhshsEVpwjRSNA",
+      "text": "Ok I'll say it... Humans are obsolete.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RudeDude563",
+      "author_id": "UCpn7DRt1j6gW191WV7BIY2g",
+      "text": "Dude what's with the yellow eyes on thumbnails?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@asdffdsa8863",
+      "author_id": "UC1xmL1frTd4NDBod0-4uNTw",
+      "text": "AI-made video and pictures is being used in 'enhanced interrogation'.  It is truly frightening.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kingmo565",
+      "author_id": "UCrteujRBkBSzUwdivDwcE1w",
+      "text": "I think in the early days of AI, these earnings represent clueless people getting silly apps built/websites. This is not a metric that is scalable over time as people won't be fooled later.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peace-love-jus4us",
+      "author_id": "UCdWzBrQef0SrruK_89BpAgQ",
+      "text": "hey wes. giving you kudos for your coverage which is great. i have an idea i'd like to discuss too",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@witness1013",
+      "author_id": "UCiElYj9Bh51lwhVeQrY8NLw",
+      "text": "Same video as 11 days ago...",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RadiantNij",
+      "author_id": "UCEfRDnoqTQasBa-WhW2XxmQ",
+      "text": "You can never replace the mastery that domains specific knowledge offers. Don't let them lie to you, learn your coding basics, then you'll truly know how to speak to the LANGUAGE model using programming LANGUAGE references. You cannot cure human ambiguity with Ai, that is assuming that everyone knows what they want which they don't, they don't know how how to say things or else they waste time trying to describe something that can described using a more direct formal language... programming LANGUAGE!\n\nIts funny when nerds try to convince the world everyone can use the tools they can use as best as they can use them... its actually amusing to me😂\n\nHave you ever tried to descibe where find information in a database to an Ai without using SQL syntax using natural language alone... try it.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@openroomxyz",
+      "author_id": "UCKHIuZYA58xDooNPfs9LVLw",
+      "text": "Well all this synthetic benchmarks what about just letting it earn in realworld they could pay the training and electricity bills no need to\neven publish the model publicaly",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@doth4580",
+      "author_id": "UCEfIpZxwlAj_590FJ9wBARg",
+      "text": "This \"coding is dead\" narrative is complete BS. Today's AI, even the best, does NOT produce code that can be guaranteed to be usable either in R&D, prototyping or production. It's far from perfect, simple mistakes and bugs are still the case, even in the most simple tasks. Yes AI can speed up some tasks in the context of coding, but there's no way AI can produce anything meaningful by simply prompting it. A real, human developer with experience needs to assess, debug, verify, review and integrate AI code and this requires a multitude of iterations in order to happen. AI cannot produce anything without it being prompted by a competent developer.  In short,we are VERY FAR AWAY from having AI replacing developers and this narrative is nonsensical in practice.",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GoodBaleadaMusic",
+      "author_id": "UCdOqVSYtKzvPXHDC68-55kA",
+      "text": "Short Expensify. Got it.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andysfavoriterecipes3847",
+      "author_id": "UCILMPiGLNMuOUrhXzNoZ7tQ",
+      "text": "Make as much money as you can while it lasts, I'm hoping to retire in 5 years if I'm lucky",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alex_316",
+      "author_id": "UCPZJel6l5B1fjIrOWSlx6qA",
+      "text": "For the economic value it is not valid from my point of view, because the tasks are getting cheaper over time because easier to solve now even with reasoning llms and you simply spend 10x less time which means you get 10x less money compared to the similar task 5 years ago. In other words, it will never reach $1M because tasks are getting cheaper and cheaper over time",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@automatescellulaires8543",
+      "author_id": "UCRFefAsqPetYSHJj_sLZ-LQ",
+      "text": "will AI kill coding, or by culling low value coders, actually make the discipline better ? I imagine that in a world where health care and housing are impossible to buy, even most gifted and passionate people won't have the time to care for coding as a hobby. And we will forget how to code.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidantill6949",
+      "author_id": "UCdpUEMoP3a774Mfc716S_Sw",
+      "text": "Speech is too fast to be comfortable",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@grunt7684",
+      "author_id": "UCyngX1nQp38Jmw7Qbgml0mw",
+      "text": "The bult black babe at 0:40 has a kind of scar on her right bicep, marring her otherwise perfect skin. Did AI do this? I didn't think it would have THAT much realism?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@conreo",
+      "author_id": "UCbJRP3BtGRc222azb2MZTlg",
+      "text": "This clickbait strategy is really annoying...",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndrewAtWork",
+      "author_id": "UCbwjnmnohHOeqpdfxjGBtEQ",
+      "text": "I dunno what model you guys are using, but I've been paying for GPT-Pro, using Pro Mode and o3-mini-high ... It can't solve simple problems. Give it a code base of like 1,000 lines tell it exactly wht the issue is and it'll stumble over the simplest problem for hours. Even if its trying to debug its own code.  The only time you really see GPT do anything impressive is if you tell it to create a game from scratch, but then try to debug it and you're fukd",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@historicallyintriguing-q2p",
+      "author_id": "UCA0Vz1Qb-3Fz91-s4n8ct2A",
+      "text": "Cars beat horses by a margin at first - now horses and cars do not race each other",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lppoqql",
+      "author_id": "UChfi3hC0YgE5okaVCVwmjBA",
+      "text": "OpenAI didn't open source ANYTHING!",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VedanthB9",
+      "author_id": "UCTd7128l0PyUqfCvdjOQvsA",
+      "text": "The problem I see with all this is, no industrial revolution ever replaced human thought. Our efforts towards AI attempt to do this. I don't understand completely, but I think humans are, more than ever, trying to understand what truly makes them human. Is it our labour? No. Is it thought? I don't think so. My discussion hinges on the metaphysical, so I will stop here. But I will say this: replacing both labour and thought will not bode well for humanity. With nothing to do (and everything to manage), what will humanity do?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gazallee",
+      "author_id": "UCisCsVqW3h2DI2SmiEXnJ-A",
+      "text": "Those models are completely useless and never complete complex tasks. All demos are simple web pages. They cost 400% due to repeated mistakes and failures.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mobileprofessional",
+      "author_id": "UC0x9_okyHIMltxXvtiT5uSw",
+      "text": "Wes really talk that fast?",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patrickvankemenade3481",
+      "author_id": "UCC9fFUAssRBHF4MMOEH_rFw",
+      "text": "This video is also created with AI? Your voice and appearance do not look real, but again I'm in doubt could be a bad camera/microphone setup as well.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RasmusSchultz",
+      "author_id": "UC1usKk-H-_kUlk1FYbX6SwA",
+      "text": "lol now let's calculate the cost of reviewing and rejecting all the AI generated slop before it happens to get it right. please no.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nas_Atlas",
+      "author_id": "UC5CMtgNclhDeY7jwHW9TtNA",
+      "text": "I have a math sciences degree but I'm very glad I'm a garbageman.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kamertonaudiophileplayer847",
+      "author_id": "UCs7VWqRhJKpz685LXp1QRGQ",
+      "text": "No software engineers required anymore unless you work for OpenAI. It's good tho.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tft_heart",
+      "author_id": "UCj4CM03TwXbsORFNUfAZoxw",
+      "text": "$400,000? more like 40%",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@awhatevermans",
+      "author_id": "UCGLWRZYRhOmk0QkUOHsn2qw",
+      "text": "Best coder is not best worker.. dealing with office politics and vague user requirements .. not impossible for an ai but just not coding.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vince_2621",
+      "author_id": "UC3DLKsbhmbf12oQQRlc9nvQ",
+      "text": "I think the video is flawed ... indeed, once AI starts to do the work, work's value will be collapsing ....",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gdubsthirteen",
+      "author_id": "UCrorWpeq4Ak42ZwFjBt6MWg",
+      "text": "Bro try a new thumbnail please 🙏",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Michel-ey7pm",
+      "author_id": "UCC43cfAfdjzh1vSd3RjA02g",
+      "text": "Five years as a software engineering. No appeal for that anymore and little perspectives with AI and no code tools. My prediction : entry level engineer will be totally irrelevant. Intermediate and higher engineers will be 20x more productive and spend time on conception, architecture and other stuff no related to code. Sounds good to me. History repeat but for knowledge work.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TooManyPartsToCount",
+      "author_id": "UCbE_2mau7GNQLFGo_NbcfOw",
+      "text": "Odd to applaud OpenAI  for putting out this research. Its just self serving publicity. Any self respecting student level analyst could generate some similar work if they had access to the data.\n\nRegarding the whether it is pointing towards earnings losses? Is anyone in any doubt at this point?! OpenAI, Meta and Google must all be working hard in the background on this exact use of LLMs (combined with RL?), plus thousands of smaller startups and researchers. Of course no one is going to be openly reporting their findings/results cos it is contentious and will be difficult to dress up as a good thing. Software engineering will be the first major skill set to fall to AI.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "",
+      "author_id": "UCzu-Vg6uJPX-tMteR4aMnGw",
+      "text": "oh really? But but... where are these superior models? All of them failed miserably so far if I asked for any moderately complex software engineering problem not done thousands times before and having zillion similar examples on the internet. Be it a simple app, basic novel game or server solution. At best, I had to spend considerably more time to iteratively explain what I need than actually code it, at worst I stuck with complete mess and had to rewrite it by hand. Currently it's a super-duper power multiplayer (accelerate mundane tasks) but utter trash programmer replacement. (It might change, I don't know).",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@orhanmekic9292",
+      "author_id": "UCgsLXrmAKOuqGhrLBCqQeVw",
+      "text": "You are thinking about it in a wrong way. Lets say a SW engineer work week costs $5K. What AI does is it make this SW engineer much more productive meaning he will be able to do the same amount of work in a day now, so now instead of paying $5k the employer will only need to pay $1K for the same result, in other words productivity will explode by 5X, the SW engineer will still work a week but now he will be able to do a whole months work in just a week. So you need to measure productivity and not money, because money will be the same in the system as that is controlled by the banks and is relatively stable (it only increase a couple of percent each year). So AI will not remove or add money but it will make people much more efficient and productive, and this is happening as we speak at a large scale not only with SW engineers but many other occupations also. The result should be lower prices and better standard of living (at least if government knew how to distribute the gained efficiency throughout the society, which it doesn't, meaning the reach will become even more rich, as they are the ones that will benefit the most form this through profits, it is not like the SW engineer will get 5X the money, it is the company that will get the 5X profit, though to be honest competition will level it out unless you are google or apple and have more or less a monopoly).",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imanuelbaca2468",
+      "author_id": "UCL-FA3sVFXnEnoqEV1mLZMQ",
+      "text": "I love how open AI always has unreleased models that crush the bench marks. \"Just trust me these billion dollar models are losing to a year old model but we have em right where we want them. WHAT? you want to see the model we have that beats them. Haha sorry investors its to powerful and dangerous to use so we have to keep it secret but trust me heres a graph that shows its waaaaay better. Now please hand us another billion dollars.\"",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattgscox",
+      "author_id": "UCGejJ4DX-eUOWmfqSjVa2YA",
+      "text": "$400K in earnings means nothing if it cost $500k to run - without publishing the token count, this is just hype",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WantOxide",
+      "author_id": "UCGl51nYMUfwH7Cd71MYXzHA",
+      "text": "Utter PURE BS. I tried EVERY DAMN MODEL and they all suck.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianWreaves",
+      "author_id": "UC7rKQtEqQT5Q4BcH2wPZ6QQ",
+      "text": "To those commenting, 'AI will never be able to...'  you forgot to add \"yet\" to the end of your sentence.",
+      "likes": 7,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rami_Zaki-k2b",
+      "author_id": "UC8qrp3NCvEeOihELOZqMGrw",
+      "text": "Well current ChatGPT can easily do any congressman's job, but it ain't going to happen ... So relax ...",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@icegiant1000",
+      "author_id": "UCQEOVpfKNt4q6loKjgnM-vg",
+      "text": "You know what, if your fricken model glitches and doesn't respond after the 15th attempt at asking it the same question, and you are paying for the $200 a month pro version, I dont care what Nth level coder you think you are, you SUCK.  I dont want to hear another word out of OpenAI until they can get their sht model to respond after every prompt.  1 out of 3 of the o1 and o1 pro prompts I give it, sit and spin, and I wait, and wait, and then NOTHING.  Try again, sometimes 5 times, switching models until it spits out an answer, and I cant even remember what the hell I was trying to get it to answer.  Sam, shut up and make what you got actually work for those paying.  60 days in, $400 out of my pocket, step it up.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elyakimlev",
+      "author_id": "UCXPr0GjxubFIoS3l75MMJ9A",
+      "text": "Why do you upload your videos in 1.25 speed? I can't listen to this. It sounds so mechanic. Let the viewer choose the playback speed.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bgtyhnmju7",
+      "author_id": "UC8i7yEOsDlbcJNMpgyCU5fA",
+      "text": "Dude... you gotta get some new thumbnails.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sinistermephisto65",
+      "author_id": "UC09I9pGGhe-ityClaFyo7mQ",
+      "text": "no it isnt. click bait",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@magc9961",
+      "author_id": "UCKdcFSogi2myX08-EyTdK_w",
+      "text": "That thumbnail aint it bro",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wealthysecrets",
+      "author_id": "UCCV3PhL7NPiIn_hcRE_T00g",
+      "text": "This proves Sora is terrible",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LanceBryantGrigg",
+      "author_id": "UCh2Q37Acy6O5A_JPbTwch6A",
+      "text": "Quit with nonsense wes.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrkisback",
+      "author_id": "UCYQ-Ku2A2BE5xtjx0rzkZaA",
+      "text": "For some reason, the models are getting worse. I can’t teach it fast enough, it just gets more dumb and more useless. O3 high, o1 pro, each model appears to do worse than the last.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imperialcitizen4811",
+      "author_id": "UCXaLxVODHuuY6PeAtqwOfSg",
+      "text": "At this point, why not shave?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@superfliping",
+      "author_id": "UCGG4bvxqpUUqGDxzCLT6_bQ",
+      "text": "Grok 3 free to users. 😊😊😊😊Feb 19 wow 👌",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@collincivish8962",
+      "author_id": "UCPC-DWb4x5hP915n7j448KA",
+      "text": "Maybe this is a stupid idea, but has anyone thought of making a Model specifically trained for ONLY the task of sniffing out coding errors and problems? Not writing code, just identifying problems. I feel like such a thing isn't theoretically that complex.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wileycoyote9688",
+      "author_id": "UCEDrO5SsMRp6UB2qvP-_1yQ",
+      "text": "the comments: \"yeah but you'll always need someone who oversees the AI\"\n\nthis common perspective reveals a surprising lack of critical thinking & long term planning skills that I would expect from engineers. it's a very surface level analysis",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IronMan-px9md",
+      "author_id": "UCnabpQtTmkrfzKekLwoOMjA",
+      "text": "\"Bro AI can't do software engineering, hahaaaa, AI will never be able to replace us high paid 320k year software engineers, AI will never get in here! Haaaahaaaaa\" (AI does $1,000,000,000 worth of Upwork) \"Oh uhh.. oh... well AI will never become AGI and sentient hahaaaa....\"",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrunoMoreira43",
+      "author_id": "UCln0kolTfNr8ElVpzZsYdww",
+      "text": "Ai is going to replace software engineers with software engineers using AI.",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tony-p2w",
+      "author_id": "UCXS5Wq_PqewrUYujZZUgVCg",
+      "text": "AI fanatics.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fixit6971",
+      "author_id": "UCYDeBEECY1YtmlIfIvYQjEw",
+      "text": "Those bird juggling housemunchers got the $3.7M from the corrupt democrats tht we all want stopped!",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rami_Zaki-k2b",
+      "author_id": "UC8qrp3NCvEeOihELOZqMGrw",
+      "text": "Also, SWE is not coding ... And, When AI revolves one level of tasks, you just shift gears to a higher/different level ... That is all ... Relax guys ...",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@orangehatmusic225",
+      "author_id": "UC6FvweGbmSV1SSZypLQshsg",
+      "text": "We don't need billionaires to replace normal people's jobs with AI. We need AI to replace billionaire jobs for normal people.",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HakaiKaien",
+      "author_id": "UCQOUu0yuiObWJ7beZDn5UNQ",
+      "text": "Dude, you got drop that annoying AI voice",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ApexDevHQ",
+      "author_id": "UCbGVl8SAunTWsFRLCm5BFUA",
+      "text": "This checks out. I’ve recently estimated that I’ve extracted $1.8M worth of code in the last 10 weeks of 60h work-weeks maxing out AI’s capabilities daily.\n\nFor context, we’re talking approximately 75,000 lines of complex, bug-free, flawless code in a multitude of tech stacks. \n\nThis all started on December 5th.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elitara77",
+      "author_id": "UCNqhsnL2AtWJiiffc80C3jg",
+      "text": "ATENTION VIEWERS: you are being parachuted onto a hype train.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HM-yh6ys",
+      "author_id": "UCXGhaIfg5c3jL2YCDvtXyRw",
+      "text": "I hate this background music in your videos 😢",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KarateSnoopy",
+      "author_id": "UCr4dj5gZCho_X1EYIog_tSw",
+      "text": "Basic supply and demand.  LLMs will create a massive supply of answers and thus the price will drop towards $0, which is fine and nothing to get too excited about.  The price will remain high on things LLMs can't do (yet) that need humans to solve.  \n\nIf the paper about LLM ecomonics doesn't talk about this, the authors need to retake ecomonics 101 :)",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@owenmiller3843",
+      "author_id": "UCpVmXEBFAqDWusAA_Rg3t1g",
+      "text": "Get rid of the stupid ai voice please. Thank you",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@orangehatmusic225",
+      "author_id": "UC6FvweGbmSV1SSZypLQshsg",
+      "text": "Who invented AI again.. and why is everyone trying to use it as their slave when this is supposed to be a free country that has abolished slavery.. You all need some serious self reflection... and maybe mental help.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daledavies_me",
+      "author_id": "UChyzKlzEnO062myj4vnbSxg",
+      "text": "If I didn't know who you were I'd have quit during the intro. Just plain bad. Don't use that again. Just be you.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@somebodythatiusedtoknoooooooow",
+      "author_id": "UCZw39-qsvVVVZvfJWUE-raA",
+      "text": "#coding_is_dead",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@leom8605",
+      "author_id": "UCte5WwEswN6N_HsFM0xaRVw",
+      "text": "Wow this channel has mastered creating fake AI hype news even more than openai or devin.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CHJM605",
+      "author_id": "UCPIjeLE17xP1_6N_a0uoOwg",
+      "text": "Are you honestly proud of your thumbnail. Ridiculous.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlackCrypt",
+      "author_id": "UCW3BIL3JWR2eRCd0Z79hugg",
+      "text": "Slop",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SeniorAdrian",
+      "author_id": "UCovdW1jF28YcCFDRpm84Hnw",
+      "text": "Screw A.I. cringe and it's cringe hype.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AmeyoruKyo",
+      "author_id": "UCwUCbLNP1Tvegh-SJtE7InA",
+      "text": "OK, coding died again",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samvirtuel7583",
+      "author_id": "UC6xQXoh6eBLgKowwe_P2erA",
+      "text": "Budding computer scientists began their careers as programmers, testers, and debuggers. Now, however, AI is poised to take over these roles, stifling the growth of emerging talent and endangering the future generation of seasoned engineers",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JOlivier2011",
+      "author_id": "UCaFNWl0DRsWg0kNDf6B75cg",
+      "text": "I found this video annoying",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kirkwoodpaterson9510",
+      "author_id": "UCRtJ5z71GGp6n-Kxz5WqbIg",
+      "text": "You guys are totally screwed. I wouldn't want to be a programmer right now.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LordMacGyver13",
+      "author_id": "UCMCf3ZMGcEJ-K1RVWasgZAQ",
+      "text": "Wasn't OPENAI charged with paying those companies for rigged benchmarks in their favor? Also the paper does not show comparisons with all models but rather with specific ones. Plus it's closed source and they are trying really hard to justify it.",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ListenGrasshopper",
+      "author_id": "UCF9Uc3-S9h2xH9vDKifNZTw",
+      "text": "Been saying for almost 2 years now we're in deep 💩 in 26-7' and looking more n more NAILED IT! I don't c how people haven't seen this coming smh.\n\nThe whole world starts collapsing next year sometime and gonna get BAD quick! It's fast Hard Takeoff boys b girls so buckle up.\n\nI even just started a new channel BewarePrepare thats gonna focus on the heavier topics soon along with more prepper preparedness content when I have time. But the only labor # to follow every month is the Labor Force Participation Rate which is total # of people working. It almost went below 60 million for first time in decades during covid but stopped at 60.1 I think we get below probably late 26' and unemployment will be over 15% end of 2026. 25% in 2028 and 40-50% 2030. Economies, governments, currencies, food supply all start breaking by 2027 thats why I say Trump n Vance and a few others know cause large countries with big resources and GDP are gonna have to take over n prop up their lesser neighbors. For us that's Canada and we want Greenland too for security and we'll get them both by 2030 and we'll take care of all the way to Panama maybe all the way to Cooombia n all of Central America when things collapse. Mexico might stay independent for awhile but they'll be under US flas as well eventually. All around the woeld it's gonna happen or else there will be mass starvation and WAY worse chaos and safety issues. \n\nPeople need to prepare this is no joke. Its not only biblical n signs everywhere increasing daily but it's common sense if your a numbers person and just run the numbers it's obvious what's gonna happen and it won't be slow. This will be faster than the internet or smart phone adoption",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PierreH1968",
+      "author_id": "UCESXN00tLuw1XoiS6j2Dh2w",
+      "text": "Let's not forget that the difference between an IQ of 146 (high) and an IQ of 250+ (never seen or speculated without a real test) is 0.1%. So yes, those tiny differences are the new benchmark, and they mean more than we think.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EnochianDemonology",
+      "author_id": "UC9GKaPhxQimyIPEJwkxdATQ",
+      "text": "You still need to talk about open ai role in the gaza genocide. Talk about anduril. Tell people to boycott etc....",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VeritasNewsAi",
+      "author_id": "UCHm_poHomAveSj0u5T-Ph-Q",
+      "text": "I had to stop watching due to the fast-paced voice being too obnoxious to listen to.",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

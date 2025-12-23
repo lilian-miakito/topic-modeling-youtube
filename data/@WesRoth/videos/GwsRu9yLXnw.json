@@ -1,0 +1,2268 @@
+{
+  "video_id": "GwsRu9yLXnw",
+  "title": "GPT-4 leaked! 🔥 All details exposed 🔥 It is over...",
+  "url": "https://www.youtube.com/watch?v=GwsRu9yLXnw",
+  "comment_count": 251,
+  "comments": [
+    {
+      "author": "@Alice_Fumo",
+      "author_id": "UCHsh7FTs0eQjaTTUw2jfGKA",
+      "text": "Technically this is merely a high-level architecture leak, not a model leak. A model leak would be if the actual weights were disclosed.\nThis is neat and all, but I would wish to have so much more detail.",
+      "likes": 190,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jckpn",
+      "author_id": "UCnXhuVsBdFXgd72B_goBYGQ",
+      "text": "Great video as always Wes.\n\nSummary:\r\n- The total GPT-4 model has around 1.8 trillion parameters with 120 layers\r\n- It's made of 16 different models, each with ~110b parameters and trained for a specific task/field (a technique known as MoE or Mixture of Experts)\r\n- ~55b parameters are used solely for 'attention', i.e. guiding the model to stay on the topic at hand\r\n- They believe GPT-4 was trained on ~13 trillion tokens (~10 trillion words)\r\n- Some of these tokens were re-used (twice, or four times if it was code-based), so the actual size of the dataset is unknown but probably several trillion tokens\r\n- They fine-tuned the model using more specific data from OpenAI and ScaleAI\r\n- It took ~2e25 FLOPS of compute to train, using ~25k A100 processors for around 3 months\r\n- GPT-4 is about 3x as computationally expensive to run than GPT-3.5\r\n- It's thought a faster/cheaper model takes over after the first few words of a response, which could explain the complaints that ChatGPT got worse over time\r\n\r\nThis is all according to SemiAnalysis who published the information on their site behind a ~$500 paywall, but Yam Peleg released it for free on Twitter (now deleted).",
+      "likes": 472,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EnjoyCocaColaLight",
+      "author_id": "UC7EqfJ5fas9zD2DglJcntBQ",
+      "text": "I want an unfiltered and un-curated version of ChatGPT.",
+      "likes": 932,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@otterhopper",
+      "author_id": "UCMX7CERL9tZnnEfTDpHztwA",
+      "text": "Model was not leaked. The weights themselves which is the model have not leaked. The title would be accurate if it read “Model characteristics leaked”",
+      "likes": 155,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@boltvanderhuge8711",
+      "author_id": "UCVgIMv3PNAAsIgFZcM3MgLQ",
+      "text": "It's worth noting that while model size is massive and increasing right now, much of this field is still just taking shots in the dark and following anything that seems to work. It's possible and likely that there will be breakthroughs that drastically reduce the size and complexity of these models.",
+      "likes": 380,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thomascleveland",
+      "author_id": "UCrWIaPfUBjr2RdI4xNeskzg",
+      "text": "I know somebody who works in Microsoft's cloud division and he said that the price quoted to train a model for a certain government entity was $500 million. While that may not be the actual cost, that was what they were telling the government that it takes.",
+      "likes": 18,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@senju2024",
+      "author_id": "UCM82dGSIEb6TXfz54t4b_uQ",
+      "text": "The main reason LLM losing thought is due to the \"Vanishing Gradient Problem\". Prior to transformers, (when encoders were processing tokens in one at a time) they use LSTM and GPU as GATES to help the model struggle with long-range dependencies and the vanishing gradient problem.  Then Google labs and GoogleBrain provided that wonderful paper in June 2017 on Transformers that can use Self-Attention Mechianism in the Layers. Back in the day I think was only 8 layers.   Now with Self-Attention and FFFNN as the second layer for INPUT Encoders, no need for LSTM or GRUs. But the Vanishing Gradient problem was there there but much less. This allows the LLMs to have those understand those long sentences now and CONTEXT associated to that tokens. I think the standard dimension size is between 50 and 300 with Softmax score that gives the properbabiliy of the answer. That is howit can generates different output from the same question. The softmax score will change.  Anyway, thanks for the insite of GPT4 stuff.  Anthoropic Claude2 came out so very interested in how it can compare to GPT4.  Maybe it is time to stop my subscription and move over to Claude2 as it is FREE.",
+      "likes": 60,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@poochy661",
+      "author_id": "UCpXDxPVSsXeRwDTztbHORGg",
+      "text": "My 2 cents on the copyright issue - I agree with Japan that copyright should not be a thing in this instance, but I also think the trainers of the models must at least have bought/licensed the textbook/artwork/etc... Essentially GPT and other AI must pay for their own textbooks, but then it's free to learn from them, just like any of us mere humans",
+      "likes": 34,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hhhsp951",
+      "author_id": "UCtFdXg48m9LaaIoopN2wUHg",
+      "text": "\"Open Source Information\" that costs your month's rent check",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Definesleepalt",
+      "author_id": "UCxw2b_P0VnvjucpZEDjSgIA",
+      "text": "i love how nvidia called their model \"Megatron\" , also slightly worried",
+      "likes": 30,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@russcastella",
+      "author_id": "UC2K0S7ZZek56bbLaMAJUrJg",
+      "text": "It’s refreshing to hear “this is out of my depth, so I’m not going to talk about it”",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ghost_ship_supreme",
+      "author_id": "UCnLQesTreZWLHBEhSX5H2Lw",
+      "text": "I for one embrace our AI overlords, and hope they keep giving me D&D item ideas",
+      "likes": 12,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@leeroychang",
+      "author_id": "UCOuL8k2Hu4KPbr2QcI0m5ww",
+      "text": "I very much appreciate you going through this. It's very digestible and of great interest. As always, a very excellent video. Well done.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TBKJoshua",
+      "author_id": "UCISlJLcA9UFDhz5hL6WP54Q",
+      "text": "I fully agree with your and Japan's take on Ai learning from art. That's the only way to learn art at the end of the day for humans and for AI. I do understand artist wanting to be compensated for this Ai art boom but even humans aren't required to give compensation to the artists they learned art from most of the time. so...",
+      "likes": 58,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ellocosjchushhxha",
+      "author_id": "UCh-90p8gg7UC2FSzxab0cLA",
+      "text": "I love your matrix bckrnd! It is actually a method used to subvert yt's copyright algo. Although, I doubt this background would work, but it reminded me of that lol",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vengirgirem",
+      "author_id": "UC8FaUihxsx_0yuHzkk8Sf-w",
+      "text": "The first thing I thought about when I heard \"MoE\" are \"Mushrooms of Energy\"",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@carpark1414",
+      "author_id": "UCPVEGzH0giinus85kCL8wPw",
+      "text": "MoE is also one of the leading methodologies to mitigating hallucinations. By having some overlap of knowledge between at least a few models, they can build \"concensus\" on answers. Any hallucinations can (hopefully) be identified as they would be outliers.",
+      "likes": 23,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronWacker",
+      "author_id": "UCdKiy5xeO2JuWuIlE5nUaNw",
+      "text": "Great summary and insights.  This was a very valuable walk through of the architecture.  Thanks Wes!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Reflektor-o2c",
+      "author_id": "UCOUlTiICdpPEc6ANDJXnz3w",
+      "text": "Mid-year resolution: Unsub from all channels using blatant titles. It is over.",
+      "likes": 18,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avidlearner8117",
+      "author_id": "UCgM2yDAgFCa2O66af0n0fuQ",
+      "text": "Why is this mentioned anywhere?  Can't find a single news outlet, even in tech, reporting on this.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kennethbeal",
+      "author_id": "UC0dCdmzyzem9ujz-A1QmZGA",
+      "text": "Thank you!  Love your argument at the end.  Recording is done by our brains.  It should never be \"illegal\" for us to make a backup of our brains, i.e., record our surroundings via audio and video, and whatever other sensors.\n\nSimilarly, if I can view it, then something I create can view it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@illogicmath",
+      "author_id": "UCkhGJry3ToDRSBelr0thOuw",
+      "text": "I'm beginning to watch the video at this exact moment. If it turns out to be clickbait, I'm going to leave an extremely caustic comment.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Multihuntr0",
+      "author_id": "UCbBv2_nCkPv60A_O_0GrPwg",
+      "text": "*With regards to batch size*\nWhen training a neural network, the steps are, roughly: 1. forward, 2. backward and 3. update. So, you push a batch of examples through your network (forward), you calculate how to get a better answer next time (backward), and then you update all of the weights just a tiny bit (update). This is how the machine \"learns\". \n\nGenerally, having a large batch size is a good idea because it means that your backward pass, the part that calculates how to do better next time, is based on more information. Consider a tiny batch size: if you see a sentence \"the cat flew through the air on it's wings\", that's not a normal sentence - we don't want to associate wings with cats like that - but if you use that to train your model and you have a small batch size, that's going to be a really important data point the model will reference. Having a large batch size means that the model sees a lot more at once before each update step, and thus each update is more reliable. \n\nTypical batch sizes for small models are around 64-256. Recently batch sizes of 1024-8096 have been used for particularly large models and big training setups. The downside, however, is that if you have very large batch sizes, it takes longer for your model to learn. It would be like that person who can only read the theory and never tries to put it into practice. They don't try to learn very often, even though they have read a lot. So we want a balance, look at a lot, then try it, look at a lot, then try it. If you have 1000 GPUs, then this doesn't matter as much; you can just make it learn for longer to make up for it.\n\nWhen counting the number of elements in a batch, typically you would count how many distinct examples there are. Notice that the person you are quoting says to not believe the fake numbers. They're referring to the fact that a single example in this case is actually many tokens. In this case, 8k tokens for most of the time, but 32k tokens by the end of training. So how many examples are there?\n\n60 million tokens spread across 16 experts.\n7.5 million tokens per expert (looks like every example was given to two experts)\n32k tokens per context => approx. 234 contexts per batch.\n8k tokens per context => approx. 937 contexts per batch.\n\nThat's not that many examples, but the context size is huge, so it makes sense the batch size would be smaller. \n\n*With regards to using copyrighted data*\nIn these discussions about AI ethics, it's good to inspect first principles. As I see it, these are the basic arguments: \nOn the for side - which you present here - it is said \"well, this AI learns like a human, and it wouldn't be illegal for a human to do it, so it should be legal\". \nOn the against side it is said \"it doesn't matter how the AI does it, it will cause harm to people to let it continue, so it should be illegal\".\nMy perspective is that there's a fundamental difference between these two positions on the nature of what is considered fair. On the \"for\" side, the fundamental point is that we should treat everyone equally. We can just think of the AI as something to be treated equally to a human. On the against side, the fundamental point is that everyone should be free to pursue whatever they like. Fairness is when people can do what they want to (so long as it doesn't hurt others). So, if many people are hurt by some actions, then it is definitionally unfair. \nI ummed and ahhed about it when generative AI first came out, because the \"it does it like a human\" line of reasoning is fairly sound. But the more I thought about it, the more I realised that it doesn't matter. Ignoring real outcomes for real people is always bad. How you choose to justify ignoring those outcomes is immaterial. Laws should serve humans, not the other way around.",
+      "likes": 9,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Arksmostcunningrat2142",
+      "author_id": "UCXSHltAezvljm-E6r-rNNlw",
+      "text": "I wonder what it will be like when a model designed to not only reverse engineer code but also break it into segments and provide likely reasoning about why and what was intended along with how to make an improvement be it in code writing or for operational efficiency.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PlayerThe90",
+      "author_id": "UCbqN5-5xg6t14f9GNaqzW7A",
+      "text": "@Wes Roth Lovely video! I was able to catch all the explanations. Regarding, the access to training data, if it was from textbooks and scientific articles. OPEN AI will not have any problem. Imagine this, you buy the coding book X and after reading it,  you teach or use the information from it in your job. You do not need to \"pay\" again for using the information for any task. I do think that problems may occur is you are using image from people and other things. Best regards,",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@coleb1567",
+      "author_id": "UCP-64qHbMB7XHZ3OZKcaxlw",
+      "text": "This was so great. Glad I found your channel. Subscribed.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thedoctor5478",
+      "author_id": "UCtkpiWd84yMR-_HvxBeHP7Q",
+      "text": "OH DAN SON",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@automatescellulaires8543",
+      "author_id": "UCRFefAsqPetYSHJj_sLZ-LQ",
+      "text": "This reminds me of the \"star size comparison\" videos.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GremlinsAreGold",
+      "author_id": "UCVy7obvw3DEeLx2NCKFEvfQ",
+      "text": "I'd ignore the copyright warning and letter, this company were after all selling a model that wasn't theirs to begin with. And openai are never going to confirm it's really got 4 by pushing the matter.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bharathsubu2603",
+      "author_id": "UCw0fYAEI6Y2fP1I6V4aK1Jw",
+      "text": "Expecting a setup video",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trailblazingfive",
+      "author_id": "UCAIH0XVGeOewF7j0Ez4LULQ",
+      "text": "Can't wait for a SETI like effort to train a FOSS language model",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@owentanzer6838",
+      "author_id": "UCR1KR9lTZegcbP9bUC_DtRw",
+      "text": "Love your content, Wes. How do I get into contact with you/your team with regard to business-related inquiries?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@insignismusica",
+      "author_id": "UClmf5_JjyzLu5dNe0r1tQQA",
+      "text": "Very insightful. Thanks for sharing.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Borszczuk",
+      "author_id": "UCQVqiC-fpgF8cUttC4GJbVQ",
+      "text": "Attention mechanism is not for \"remembering what was said before in the conversation\".",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OpenAITutor",
+      "author_id": "UC-OszhqWsF1tqqECdeLI_7Q",
+      "text": "It's not always the size but the quality of the input that matters.  The trend will be smaller nitch models using synthetic data.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@misterlau5246",
+      "author_id": "UCJ4eb1z5t_ExzdycF-ksHBw",
+      "text": "Not quite the model leaked, but the characteristics of it\n\nNode weights aren't disclosed",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samuelgunter",
+      "author_id": "UCsxmNCdnXQHOKYB-qgRqzVA",
+      "text": "based on the title and thumbnail I expected this video to just be a useless text-to-speech slideshow, probably written by chatgpt, but I gave it a shot and it was actually a good, informative video",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trapfethen",
+      "author_id": "UCZlV-KzNH9IaC8cEWgjNx-w",
+      "text": "On the inference detail. Essentially since the overall model is comprised of 16 experts, and only 2 exports are chosen per forward pass (which creates 1 token of output), the cost of that forward pass is reduced greatly. You only have to run the two expert models, rather than the hypothetical model that did not separate out into these experts.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sanguen666",
+      "author_id": "UCRD0PzP4QdmwESv_RfmFDsQ",
+      "text": "GODBLESS! this is epic! amazing video, deserves millions of view.\nas I am writing this: 789 views  Jul 12, 2023",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HanakoSeishin",
+      "author_id": "UCQ8cS1feuujEXVNRJXYw3RQ",
+      "text": "> attention in these models is very similar to how humans pay attention, right? You walk into a room....\n\n...and forget what you came here for, right :-)",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LearnAsUGrow501",
+      "author_id": "UClaxC3xDeq-9lHBiTKBYWQQ",
+      "text": "19:48 Aliens Scriptures downed Weather Balloons I mean.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stoic_sheep",
+      "author_id": "UCwML5qrlZnqNnFUHkvuM4Ow",
+      "text": "God i misread it as \"gta 4 leaks\" i eas like \"wtf?!\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheAero",
+      "author_id": "UCE6Q3MsE_sct7dApmuAszAg",
+      "text": "The newest literature shows that model size should grow with the data size, token size. Right now the new models will probably get fed more data, while utilizing their size to optimum and also learn and handle larger context windows + more tokens. This is allowed to scale linearly through the new implementations of attention and training.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@friedrichdergroe9664",
+      "author_id": "UCiigP30pox6OBZjDf5TjwLQ",
+      "text": "Very informative. Thanks.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@argentinavr",
+      "author_id": "UCLMw15DOvNtC5fPn2VaSYVg",
+      "text": "can we download about it where?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@powerzx",
+      "author_id": "UCnto-I2Iqyb8xDnSJvxcq5Q",
+      "text": "It was very interesting and informative video. The funny thing is that I asked some of those questions ChatGPT, but it didn't want to give me answers. Like model size, number and type of GPUs.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pushqrdx",
+      "author_id": "UCS4zH-lK-fwlvJTxhKntz7g",
+      "text": "random question but where did you get your matrix background video, I want to use that as my screen saver",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Space-O-2001",
+      "author_id": "UCq0lCb6Ax8QpyE3mxmQKWxw",
+      "text": "My Commodore 64 looked at this and burst into flames.  Great video thank you.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DF-ov1zm",
+      "author_id": "UC5WiopeNdl1MKeaLYq36yeQ",
+      "text": "OpenAI probably had not revealed how they trained GPT4, but Microsoft did with a lot tech detail. There was a bunch of sessions at the latest Microsoft Build conference. It is not just hardware matter, they actually created tons of new very low- and high-level technologies in order to make this process feasible.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "I wish I could get the original article",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kevinkoosk",
+      "author_id": "UCMTkHnwGIESQPGEl8iS_WXQ",
+      "text": "Another question, sorry if it is inappropriate. In the past there were tools to help crowdsource computing power for folding proteins, crunch numbers, etc. Would that kind of crowdsourcing of computing power, work for training new LLM AI?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sunnohh",
+      "author_id": "UCi33D3Jl7XVXYapYbmptEfg",
+      "text": "The cat is out of the bag, but is completely dead, rotting yet everyone is passing it around putting it on their laps and petting it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@regis_red",
+      "author_id": "UCmkeew3g7hUv8RUmxV_hsqA",
+      "text": "I’m on the same mind as you regarding training. And I’m an artist! This is how we learn. I’ve never asked my favourite artist for copyright when I was learning from his art taken from the Internet. Yes the machine learning does it better and faster and that could be scary to some, still the principle is the same.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@haxi52",
+      "author_id": "UC6kuc2pM_fthF5PwMNxHu_w",
+      "text": "A batch is how many, in this case tokens, go through the model before they adjust weights to min the loss.\nFor e.g. if you said \"The dog barked at the\", and the model came back with \"sky\", you can say \"no, it should have been cat\", now adjust weights so that it favors cat over sky. With batching you are giving the model more examples, add up and average all the weight changes, change once and go again. See if it does better. If you to adjust weights on every try it can skew things the wrong way. Batching allows a more smooth learning experience.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@majdijj",
+      "author_id": "UCBHWJN92IBchV66BIg2UNOA",
+      "text": "Was hoping it would have some information on how exactly they fine-tuned the chat models. I understand they got a base model of GPT 3/3.5/4 then fine-tuned with conversation intercations to then be a chat model.\nIm trying to make my own chat model and using GPT to run it, but i need a lot of chat examples/interactions and I haven't found many good sources or how OpenAI did it. I'm wondering if they fully spent their own resources on creating their own chat traing data.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IPutFishInAWashingMachine",
+      "author_id": "UCwpK_ltMATKa8J-bIiGyLwQ",
+      "text": "This will definitely help open source devs create better models. The moat is shrinking every day!",
+      "likes": 64,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@4.0.4",
+      "author_id": "UCxVORjpbzb-0dpQJG3iW-jA",
+      "text": "For a moment I was hoping the weights were leaked, so TheBloke could quantize it into half-bit precision to run on a 6090 Ti",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bigdaddy5303",
+      "author_id": "UCoUdKdSddfM0GZXHWTe1TCA",
+      "text": "Incredibly well explained mate",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlackMita",
+      "author_id": "UC03sQj82_0JsITwlWjm6oYA",
+      "text": "Yesssss yeeessss!!!!\n\nPlay from your fvcking HEART!!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pyotrgrowpotkin",
+      "author_id": "UCV5dBbKn9BrWamlBvwk1RDQ",
+      "text": "They have mentioned multimodality, it's on hold waiting for more hardware. Same with increased context length. Some users have gotten Bing with Vision, and It's quite impressive (reading graphs etc)",
+      "likes": 19,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrSuperPatar",
+      "author_id": "UCmc1kVVxmKBgf6cXYqkqPRw",
+      "text": "OPEN SOURCE GPT 4 PLEASE :)",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@corwin.macleod",
+      "author_id": "UCj9hOdectoohqvbpncjOy6A",
+      "text": "MOE, MLP, I think I'm in da wrong neighbourhood.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marc_frank",
+      "author_id": "UC1v4J76g4z0OIjvCgnKSJ0Q",
+      "text": "yeah i'd review one of those gpu's as well",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@princeramos3893",
+      "author_id": "UCEhRzE-rdHCXeinif-Orv1w",
+      "text": "so basically speculative decoding is just 1st world managers outsourcing the work to the 3rd world workers because they have the cheapest labour",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xspydazx",
+      "author_id": "UCzl6giBN3-tuR2p1pt8OdVA",
+      "text": "I would like to see more videos on making lora models . \nFor specific use cases . \nIe chat models .\nReasoners , \nInstruct, code generators ... As this is the actual future . The llm is growing so fast that it will become unhostable and unusable offline for individuals ... Perhaos the best way is the same in data science. .. to have the LLM (data warehouse ) and the LoRa model as your (data marts) ..",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@velo1337",
+      "author_id": "UC3_kzyI9aUeN0MqSa8gG02g",
+      "text": "there is a full video on the microsoft channel explaining on what hardware infrastructure gpt was trained",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Andreas-gh6is",
+      "author_id": "UCtTKMfTVEvhfQ_u03c2OBOw",
+      "text": "I still have issues with \"what's the usecase?\" beyond chatgpt and very similar apps. And there already is a chatgpt.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DavidRojas-ky5wh",
+      "author_id": "UC911IHbhmFxJLAhXyiStTYw",
+      "text": "its OvEr! i'm recreating chatgpt4 in my computer now.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vbefrequency",
+      "author_id": "UCks-25vhgkCBRHGoCxMxMGg",
+      "text": "I want to train them and collaborate. How and who I have to talk to.\nThank you",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nonetrix3066",
+      "author_id": "UCz5Sdn3ZB2P2sgHzEEs9daA",
+      "text": "I thought about building something like MoE with StarCoder and more general models tbh but I am too dumb to actually implement it",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@colfaxschuyler3675",
+      "author_id": "UCPal6ZRqnS8vN6cCEwAxltA",
+      "text": "The only reason you try to put a cat in a bag, is to add a stone, tie it, and toss it from a bridge.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mr.anonymous5856",
+      "author_id": "UC1dYM4DbfRcx8PoryaPaeZA",
+      "text": "Babel                                                      library                  Youtube really doesn't like when I use those words together                                   they give an  error    message",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fiend404",
+      "author_id": "UCe3fYaLRWYnDjiJksID7e8g",
+      "text": "wow",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CharonSin",
+      "author_id": "UCV39QV-TqE7TmAprE_6vJ-w",
+      "text": "I agree with you on the Ai training process and for the exact same reasons you do. Humans read and retain knowledge from books. Upcoming authors are influenced by popular authors like Steven King for example. How many artists have mimicked the style of popular artists going on for thousands of years.  So if an artist/author can sue an Ai for creating artwork that is original but in the same style of the artist can an artist sue another artist for creating artwork that mimics their style? If an artist wins a lawsuit against an Ai a following lawsuit could use that case as precedent for a lawsuit against a human artist depending on the ruling in the Ai lawsuit.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ValiantKojiroKurosawa",
+      "author_id": "UCAFeMkOwekHU7UD0r67Fkmg",
+      "text": "Minute 21:05 Me: Niku, niku, niku niiii. Japan, here we go, bbyyyyyy.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveEtchells",
+      "author_id": "UC6Oj16Fmn_yuykylyfRoL4g",
+      "text": "Very interesting, new subscriber!\n\nOne thing to note about training costs is that three open-source LLM world has drastically improved training cost. I do not know the details, but IIRC, it’s orders of magnitude, as in a 100+ x improvement. I think custom in-house trained AIs will be feasible for even relatively small businesses very quickly.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EQ_EnchantX",
+      "author_id": "UCUGUJuBa0eiSbiBV77vMTDw",
+      "text": "So if we read a copyrighted text book, we can't use any of the knowledge that we learned from it because of copyright laws? Seems like the same thing with ML...its not copying the book 1 to 1, its using what it learned from it to create a pattern just like memory.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@antekzyro5373",
+      "author_id": "UCLyu-2-FAUdsiOFr_yO9hFw",
+      "text": "i wonder how long it will take people to create a fully offline free unfiltered gpt4 app",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@大支爺",
+      "author_id": "UC4sM776LDY65XiLI5d8xoPQ",
+      "text": "Multi-node PCs over worldwide can do the supercomputer thing, you guy forgot this old tech.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RudyRdx",
+      "author_id": "UCSe5Vlah90VfPo_bLI7QWSQ",
+      "text": "Feels like csgo 2017 source leak ngl",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndrewBrownK",
+      "author_id": "UCWZ6imK8M13IQFTyzQr7Ttw",
+      "text": "this is what we call an epic win my dudes",
+      "likes": 11,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ikkeheltvanlig",
+      "author_id": "UCfTTYFEyBlwPy7xjsgKarwg",
+      "text": "Loved the AD&D mixup at 6:20 POV you're trying to make a serious video on AI model leak, but you've played too much Advanced Dungeons and Dragons.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheOneHong",
+      "author_id": "UCzOKTxOVQs8HuKPazn_8cYg",
+      "text": "so are we going to get self hosted chatgpt?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hhf39p",
+      "author_id": "UCuAlKnFLuByQzqxQiXc4SsQ",
+      "text": "Where does Cycorp fit in?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bonecircuit",
+      "author_id": "UC_T9X8pFdRx-oW6qRfgXQnQ",
+      "text": "i think you mean't `eeepock`, as compared to epic unless that is an accent thing",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jbexta",
+      "author_id": "UC6z8WwsqRIqvKGz-_0n1LKQ",
+      "text": "It's not the size of the model that matters, it's how you use it",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@almor2445",
+      "author_id": "UC2LVgyIXMC6XkmYmUw_aLIg",
+      "text": "Might be worth investing in a Japanese ai company ?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThoughtsinPurple",
+      "author_id": "UCvyZySFnZ99yY75MERhSKSQ",
+      "text": "Off-topic: I love your voice, it's very good for teaching ^^",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MickeyMishra",
+      "author_id": "UCuUH0tPK9sskcuACqAojpyw",
+      "text": "Its going to be GOLDEN!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "13:41 how could more experts not improve convergence?  Wouldn’t there be a better chance at consensus? Perhaps not, because too much data to be analyzed?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@max31505",
+      "author_id": "UC8aj3Xp8DbDLqCjYg3C3ERQ",
+      "text": "it's still a long way to drop AI robotic soldier from a ship or something to attack a base 🤣",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hdjwkrbrnflfnfbrjrmd",
+      "author_id": "UCz9j4AVRrlp_KT9UuZO73xg",
+      "text": "Its joever",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moto4life1",
+      "author_id": "UCcFrtjX1lMIaDaANOlizk1w",
+      "text": "I'm going to take it to another level ,..... well \"IT\" will!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frogz",
+      "author_id": "UCYF7yUQzZBQ7TtbcWsIOa3Q",
+      "text": "the question is, how long before we use ai to code ai that codes better ai?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@knightjacob80",
+      "author_id": "UCr2oQBbn19nYG--T48NfJpg",
+      "text": "7:25 the predictions and accuracy are tied to context and details within the conversation or whatever the ai has from the question to tie to the answer. Like how we have stuff on tv that isnt real, its because it put things together that arent current because it lacks the details related to making it accurate. Such as asking who won a game and then it picks out of every game all player who won and it knows nothing about what game or other vital context clues. Humans have sight and sound that assist in the details to understand the question in better detail plus we think about if its true and then know to look and see, ai needs to be able to gather more context and thats why it learned how paragraph work, poems, and other forms of structure within the language. Its crazy to think about but i love it. Its like it lacks details so it needed training on what is so it could follow the path and use the details and make connections, like growing new details from connecting what you have even if its not true or doesnt understand what is true because theres so many right answers in the connections too. Thats why the ai needs to learn about shapes and colors and so many other things but it only had language in written form but now we can use the segment anything model and use it to basically expand the connections but also the understandings so the accuracy may bump up but we should start simple like child level and then make learning spikes in fundamentals and then tech more complex stuff like going from one plus one and growing to calc or beyond and then the ai has that in its toolbelt to use in conjunction with anything and everything else it has.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quantumenergysolutions9128",
+      "author_id": "UCA1Ufv_K57q79mzFkFh8SEg",
+      "text": "Cheers. Any chance we can have a chat about AI? Its a very sweet deal if you can help me? Thanks",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "22:52 what does “+20 intelligence buff” mean?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vengirgirem",
+      "author_id": "UC8FaUihxsx_0yuHzkk8Sf-w",
+      "text": "If I were Nvidia I would definitely send you pne of those GPUs for you to review just for the lolz",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheSteveTheDragon",
+      "author_id": "UCk7trglygCyar8_tH2YO2mg",
+      "text": "Maybe they do this already, but maybe they can have 'idea' compression for these text models. Like 'this book talks about mixing flour and water to create dough' and so do all of these other hundreds of articles and books, let's just replace all that text with that idea token.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ebenezer456",
+      "author_id": "UCDdy0JuOyzw1NnG-18ROfwA",
+      "text": "This was really interesting! I would personally be interested to know how these AI tools implement all the safeguards and filters they've put in place. For example, how do they make sure it doesn't give you instructions for making a bomb, produce graphic images, etc etc. I'm curious as to how they made this so tight.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NoidoDev",
+      "author_id": "UCZHQDSKJZ60wldhb5HCX28w",
+      "text": "Europe: How can I shoot myself in the foot in this instance? Ah, okay, never mind. Got it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lucyshi562",
+      "author_id": "UCZEvYJyyCVw4kul70JHSFKQ",
+      "text": "Number of experts  cost heavily affected by seeing which data goes to which. This  is a human cost .",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bappo2693",
+      "author_id": "UCOF6Gil3BFedFdZIwC_I12g",
+      "text": "Half the budget of it’s development went into buying textbooks, ~30mil., yep, regular student’s debt",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@katerinaptrv",
+      "author_id": "UCpA3V106Wv6RVFUtvqi244Q",
+      "text": "more like, Japain is in the right side of the spectrum",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chartingwithliv",
+      "author_id": "UCPdDVTYJPPTC1GjkKaPvtqQ",
+      "text": "GGWP pack it up boys",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Philson",
+      "author_id": "UCi3Z0jFoa1BLLByxS5-NDuA",
+      "text": "karmic justice",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@helixx23",
+      "author_id": "UCMxMOm7tolTLMfv0RH74jMA",
+      "text": "its going to grow into a size that hireing a human gets more cheep in the end phase of a real life project",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dooZyz",
+      "author_id": "UC6rNx6aURpsUlfI7aC8gBFg",
+      "text": "LOL it's \"E-pAWK\" not \"epix\" for epoch",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AG-ur1lj",
+      "author_id": "UCoBi-7oAow0-y0HyR04E0iQ",
+      "text": "Interesting, I wonder how reliable the “1.8 trillion parameters” figure actually is. George Hotz very confidently claimed that GPT4 was closer to ~220 billion params—which to me, made a lot of sense.\n\nMuch of the research that had been published prior to the release of 4 seemed to indicate that new alignment techniques and other optimizations yielded much better output than simply pumping the size. And from a business perspective, it made sense to me that they would be tight-lipped about a model that is actually much smaller than expected—leaving competitors to assume that it takes 5x the size than what is actually necessary to make a chatbot of the same quality",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MsDuketown",
+      "author_id": "UCN0kPiSpIvbL9-swJ2g1SjQ",
+      "text": "Is there already Sugar-GPT? To run the data locally ofc..",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@antonioveloy9107",
+      "author_id": "UCE86rNDi_UPjHQfdAbcfxVw",
+      "text": "where is?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kmcgushion",
+      "author_id": "UCVpKsHaC338hY7lblx0r3tA",
+      "text": "The problem with people using the GPT data set is that it is based on a self attention block that has position and time encoded into it.  That is what makes it work.  Google applied for a patent on that in May of 2017.  The patent hasn't been awarded yet but if/when it does, everyone who uses the very expensive data set will infringe.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daPawlak",
+      "author_id": "UCMGBvUO_mo8I12ho5GKxmmg",
+      "text": "It's not just that AI can produce more, also human person can't just access everything for free, you typically have to buy book to read it etc.\nI am critical of intellectual property as such, but I don't see why AI training should have less restrictions then living humans have.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jerroldneal",
+      "author_id": "UCESwnbJF_qaNqcoHCM5y5kQ",
+      "text": "Will be interesting to see the outcome of the Sarah Silverman class action copyright lawsuit.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomaszrybarczyk630",
+      "author_id": "UCwgChtQ9BlNqVywVuQn5aYg",
+      "text": "Finally open AI!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hadleymanmusic",
+      "author_id": "UCa3u65KHLECyy2fSY5zGQmQ",
+      "text": "What AI can I use for free?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clray123",
+      "author_id": "UCxIul8uVZzd98RkAlYIIvMw",
+      "text": "Batch size is a parameter only relevant to training speed. It is basically how many text examples you feed into the GPU at the same time during one training pass. Generally, you want to feed as many as is permitted by your GPU memory, the goal is to keep GPU at 100% utilization rather than waiting for new data to arrive from CPU.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raysandrarexxia941",
+      "author_id": "UCdJ6XqI8fusikQwyy17VCXA",
+      "text": "Missed opportunity to show Perceptor instead of Optimus Prime smh.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fircasice",
+      "author_id": "UCiXrRL4uzJnvW2J1Pb0D4cQ",
+      "text": "I understand that there are businesses behind these models that drive their development, because that's the way the world works. Still, this is technology that shouldn't be proprietary. It's something that should benefit everyone and as such any advances should be shared among the community to allow for even better technological improvements and also to improve availability.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@archniki_",
+      "author_id": "UCbnwvpL0aHSNpHOcObqW6Sw",
+      "text": "Это подааляет...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Astralox",
+      "author_id": "UC0tUWlIxbQel-abb31ZIofw",
+      "text": "Gtp4 leaked. \"maybe textbooks\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gerryn2",
+      "author_id": "UCL4jKdssSaumZ78XjALjGCQ",
+      "text": "Dude with six figures using langchain you can replicate something with GPT-4 right now, I'm pretty sure. Why hasn't it happened yet? Whatever the reason is, it's not a technical or a cost-driven reason.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clray123",
+      "author_id": "UCxIul8uVZzd98RkAlYIIvMw",
+      "text": "MLP is a synonym for neural network.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamescarlisle3770",
+      "author_id": "UCIpeGHV0vfMOctqjtjPci0w",
+      "text": "Thanks for your work",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JadeVandaag",
+      "author_id": "UC8Gq_z3AFpKg-hJK7IW7d-w",
+      "text": "I know one thing. The future will be insane. Ai will shape every aspect of live, design, production, anything. It will only get better and in 2 years, the world will be a different place because of ai. What will humans do, when labour for income is no longer the paradigm or dogma we live in? Will we still use money?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnphamlore8073",
+      "author_id": "UC78tb23zDQ54u8Rpn0-kkQg",
+      "text": "I was reading another web page analyzing who was going to deploy Nvidia's H100 in cloud solutions, and it was basically everyone but Google and Apple.  In reality, are those two companies also as dependent on Nvidia hardware, or can Google use its own TPU hardware?  What about Apple -- are there any supported Apple machines that even have drivers for anything Nvidia?  Or would Apple be farming out their AI training to someone else's servers?",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NOTAFLOF",
+      "author_id": "UCE14AUJQRrmMQwC1Rvhrf5Q",
+      "text": "Hey Wes! Saw the call to action at the end of the video:\n\nJust wondering what your progress is on the construction of the autonomous agent so far. Have been involved in the AI scene in SV, and following this wave since 2019 and think that I may have some info you might appreciate.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Endor_moon",
+      "author_id": "UCTlws0gdb1sLI3BS1oAB6IA",
+      "text": "I’m waiting for Microsoft to release their new version of the paper clip. It’s gonna be an AI paper clip. That’s where I see this heading😅",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rjmunt",
+      "author_id": "UC8dgD41qtE6AzlZCuQtw1_w",
+      "text": "This month GPT4 feels crippled.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timtim8011",
+      "author_id": "UCO57nEZMdqKCNdfi5z8Wj5A",
+      "text": "Did you see the recent Sam Altman interview where he said training GPT-4 cost substantially them more than $100 million?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scooterz22",
+      "author_id": "UCgGzXwMNh8CaKFXJpaR7M_A",
+      "text": "Wes, do you have a video or is it possible to use the new GPT-4 to create an Ai Assistant who has a voice and can respond with a voice from say Eleven Labs and listen to your voice and totally omit typing and only use voice commands?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nayukie1",
+      "author_id": "UCt6RI1kjl18GbXkKkWFfTdg",
+      "text": "I understand where you are coming from. We all plagiarize.  That is how we learn. We as human species will learn a new skill from someone else. What makes us different at this point from AI is our ability...or well most of us I hope...is the use of discretion,  discernment,  logic, cross reference,  and intuition. I also understand that AI will need to go through this to progress and become everything that we dream of. It's like raising a child.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@charlesd774",
+      "author_id": "UCGddxr0d3LkM6ePL3banHKQ",
+      "text": "\"multimodal\" and \"mixture of experts\" seems to be a bit contradictory. A model probably has a lot to learn across the 16 \"expert modalities\". However, this is going to be important to keep in mind when comparing GPT-4 against open source models which are not MOE (i think?)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shaitan-Dan",
+      "author_id": "UCHiZkNKfnxkl065-ezl5CIw",
+      "text": "Your math seems off:\n\n100days * 24hrs * 25,000 GPU * $1.00/hr = $600,000 not $60M\n\n$600K is doable for any large company",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@test-rj2vl",
+      "author_id": "UC-RVoJkUGj4w1ketNeGsxAg",
+      "text": "I totally agree that Japan says AI training data should have no copyright. Because this is how humans learn. If I go to university, learn to program I inevitably use at work the knowledge that I learned from copyrighted book. If I am artist I also look how other artist paint and then mix it with my own ideas and tastes. And besides everything is copyrighted to someone. With EU regulations you would get pretty much useless AI. In my opinion those people who make art or music they just want too much. They think that if they have done the work once that now they need to be paid 20 or 40 years later. If the plumber fixes your pipes, you pay him once, you don't pay him every time you run water from your tap. If electrician installs you a ceiling light, you pay him once, you don't pay him every time you turn that light on. But somehow those creative people tend to think they are better than others, that they deserve more. In my country estonia we even have tax that is added to storage devices such as harddisks because you could potentially use it to store pirated music so the idea is to collect that tax from harddisk sales and support local musicians. Which to me is kinda offensive because I am a software developer and software also gets pirated, so why don't I get my share of that tax? I am sick of this mindset that creative people are always somehow better than normal people. Well, luckily it looks like I can get my AI models from Japan if EU becomes too strict.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KeinNiemand",
+      "author_id": "UC3BFoEDnswfz4JGBnt_RIgA",
+      "text": "Imagine if GPT-4 itself as in the model weights and code got leaked, like the clickbait title implies",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RukshanJ",
+      "author_id": "UCWfYFj_uIxvk-Gyb_bTUA4g",
+      "text": "19:40 can they really swap gpt4 to 3.5 in the middle of paid chat GPT session?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rjmunt",
+      "author_id": "UC8dgD41qtE6AzlZCuQtw1_w",
+      "text": "GPT4 leaked. Does that mean openai might actually be confirming to its namesake?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rogerforsman5064",
+      "author_id": "UCoZamxjtAQCogbgqrpHQ7GQ",
+      "text": "I shocked chocked i tell you! I thought openAI was \"open software\" 😂",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mr.anonymous5856",
+      "author_id": "UC1dYM4DbfRcx8PoryaPaeZA",
+      "text": "you can search for it all in the Library of babel and once you find it just remember where it is, It will always be there technically speaking It was already there since  2014 or the moment the Library was created all already existed before anyone else even wrote it for the first time so Who really came up with it first? lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kristopher342",
+      "author_id": "UCYrsmsVe1l26q__Z-cCCVrA",
+      "text": "So GPT, is basically a super fast search engine that can assemble data in a fraction of the speed the human can do. Super concept to be honest considering it would cost us normally a fortune in subscription’s to attain the same information, and take so much more of our time.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amarnamarpan",
+      "author_id": "UCvhtGQmkD5WJrJdH2s3yabg",
+      "text": "Dr. Ashish Vaswani is a pioneer no body is talking about. He is a scientist from Google Brain and the first author of the paper that introduced TANSFORMERS, and that is the backbone of all other recent models.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mr.anonymous5856",
+      "author_id": "UC1dYM4DbfRcx8PoryaPaeZA",
+      "text": "you can search for all the code in the Library of Babel and once you find it just remember where it is, It will always be there technically speaking It was already there before in 2014 or the moment the Library was created all the code already existed before anyone else even wrote it for the first time so Who really came up with it first? loly",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@louielouie9502",
+      "author_id": "UCHJEwnvOlUfPSCfVq4FeRDw",
+      "text": "I have a certain way I like to structure lessons into creative easy to understand materials for people to engage with.\nPrimary Using  specified text with pictures to match.\nChat gpt 3.5 and 4.0 struggled to duplicate the outline because doing so required a small degree of problem solving.\nThese models don't adapt to new information very well.\nThe formulation isn't a complex one. Either.\n\nSo here is my question.\n\nHow do I outsource the creation of an AI model capable of replication lessons in my specific way without handing over the \"Crabby Patty formula\"\nto any one programmer?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kevinkoosk",
+      "author_id": "UCMTkHnwGIESQPGEl8iS_WXQ",
+      "text": "Great video. Question. What's stopping nation states from starting their own AI models? Sounds like a sufficiently large number of interested parties can get together, pool resources, and start training their own unique AI models. Whether nation states or corporations or universities.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ToddWBucy-lf8yz",
+      "author_id": "UCPfelnDneMN5KL1HY2zfb5w",
+      "text": "10:56 that may be so but they sure can't get ChatGPT to keep up with Microsoft's ever changing syntax with the Azure CLI. ChatGPT is soo much better at AWS and GCP its almost like M$ doesn't want anyone to use ChatGPT with Azure.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hagiasmos314",
+      "author_id": "UCey8InSC7s1RP6awk5LKpcA",
+      "text": "If, as I assume is the case, GPT-4 has been trained on a first-semester physics text, its ability to apply that knowledge base is quite poor. As an experiment, I told GPT-4 (as implemented in Microsoft Copilot for Windows 10) to posit the existence of a 100-mph experimental train. I then asked how long it would take the train to travel from New York to Los Angeles. The answer it gave was 10 hours. To pinpoint where GPT-4 went wrong I asked it the distance from New York to Los Angeles. I then asked how long it would take for the experimental train to make a trip of that length. GPT-4 gave the correct answer. GPT-4 had everything it needed to figure out the correct answer. But, it lacked the ability to properly put the pieces together.\n\nUPDATE\n\nI asked the same question today and got a different answer. Today's answer scaled up the time required by current trains, which travel more slowly than 100 mph. As I recall, GPT-4 told me it would take 39 hours to make the 2,448-mile trip. I asked why the trip required longer than 25 hours and was told the train had to make stops. I told GPT-4 to assume that the experimental train did not require stops. It then provided the expected answer. GPT-4 has learned during the last several days!\n\nI explained the situation to GPT-4 and asked what it had learned recently. It responded that it does not recall previous conversations. And, apparently, it is unaware of even the broad purpose of recent engineering changes and of the changes themselves. Still, the experiment proved very interesting.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HansHjelm",
+      "author_id": "UCfNEJIh8kjmUpRKssZvC8JQ",
+      "text": "*ADnD = Advanced Dungeons and Dragons",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@biomorphic",
+      "author_id": "UCq25Ip6r9tDBZkDZs2dCcDw",
+      "text": "If the models were implemented in Rust instead of Python, the training would cost 100 times less.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ilamarea",
+      "author_id": "UCwkBUnJP-eJIbQkP51RrnLg",
+      "text": "AI is the Great Filter, solution to Fermi's Paradox, the next stage of evolution and our inevitable extinction.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@duckcluck123",
+      "author_id": "UCrnAHbagDGOabpr3Xay7i_Q",
+      "text": "Epoch is pronounced like ee-pock, not \"epic\"",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mirek190",
+      "author_id": "UCZrzmJGPYsbqhq4CkVLaNAg",
+      "text": "so ... gpt-4 is far more closer to human brain built than any model before ....interesting because we have many specialized parts in our brain s well .",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hblomqvist",
+      "author_id": "UCNFrv8ms-qkkyTeWAczQ1BA",
+      "text": "OpenAI uses Weights & Biases service to train ChatGPT model.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarkkuS",
+      "author_id": "UCaLEV_BIsUTs2KtkhzaYHVw",
+      "text": "After AI does all the work, what does work even mean? Do you own the work?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobShuttleworth",
+      "author_id": "UCFGiCDFF75Jt1xA2p66asyA",
+      "text": "It seems like AI could generate specific legal documents but there is little info on how to do this. Cheers.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@petoivansk",
+      "author_id": "UCZdPfpjGXRnYR0E3vUY4T9w",
+      "text": "ChatGPT got dumb? That was not my experience. I use it primarily as coding assistant and some time in May it got noticeably better at reasoning and knowledge of technologies I'm using. One day I gave it some task and it blew me away. It's explanation and proposed solution was very good. Coding interpreter plugin gave it some really cool abilities, turn UI wireframes into code, plotting charts etc.  It's not without problems, but as tool it's really powerful.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@techandme5944",
+      "author_id": "UCU3ENAUfqu8qO-zv08HoNtg",
+      "text": "increasing model size is same like you read a lot of books but you can not understand these knowledge.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rostyloco1",
+      "author_id": "UCaBA4_6VUZWN6OadaExMofg",
+      "text": "Looks like they are taking the wrong approach to general intelligence ... who knows ... maybe Xai stands a chance to catch up and pass them...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DharmaScienceRadio",
+      "author_id": "UC_uybgfJibAxYJ-BKi3mRfA",
+      "text": "So where is the link to open source and free gpt4? 🧙🏼‍♂️",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dr.mikeybee",
+      "author_id": "UCMxnQ7gyb4BWKbLW5JWiaJA",
+      "text": "I think Bard uses 5 expert models, but I don't remember where I saw that.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oziumentisis",
+      "author_id": "UC3zYEkjqqhs-SjULxZSmg6A",
+      "text": "My little brain's takeaway; So we're building A.I. only to notice we're designing from our own broken model of a mind.  I love that we are finding our own mental health issues in A.I.  What could go wrong! lol",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@41-Haiku",
+      "author_id": "UCYvuN2TtPvzBfGmDpn9bh8A",
+      "text": "Well... shit.\r\n\r\nHow tf are we going to manage to solve the alignment problem before we create something too capable for humans to control?\r\n\r\nI'd like to open source absolutely everything... except for the doomsday devices. With great power comes the opportunity for great irresponsibility.",
+      "likes": 13,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maxyyyyyyy274",
+      "author_id": "UCYQ-dKOSLQsF9XZzeRcupqA",
+      "text": "wtf... ur talking about data models but cant pronounce epoch bruuuh",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WilliamAshleyOnline",
+      "author_id": "UCo-EAxVCYehyxbp6Fz9_MTQ",
+      "text": "When I was thinking about this in the early 2000's the path led to implementing Ontologies -- I think that expert knowledge will eventually be classified based on Ontologies. Later there was a medium of semiotic and phonemeological lenses that could be linked to states of success based on preestablished goals. It is really that measure of precision that really should have feedback from humans particularly field experts to validation conclusions and outputs, not unlike how university students get their papers graded or assignments marked. AI is no different and while it can use a large base of prior works to emulate, for future projections and gap work there is still that dreamworld and creativity lense to apply, that while it can run dreamsimulation of possible working interconnections of logical liason it still needs to hopefully have some basis of peer review.  I also in gpt3 found that you could get it to draw things and to assign meaning graphically by using programming language script interfaces, that is getting it to communicate graphically using programming language then running the code in an assembler outside the gpt program so it was clearly capable of creating assemblages of meaning based on ideas, and changing those ideas when prompted ect.. if it drew of frown rather than a smiley face you had to get it to rotate the mouth, and it could even recognize mouth in coordinate points.  None the less, the parameters are helpful BUT, what it really comes down to is optimization of the ontologies and ability to recognize the commonalities of aparatus states based upon sequence of occurence to goal accomplishment.  I also developed an idea for physical langauge modelling based on physics engines but that both the soft and hard and sensory point to apparatus state. Eventually it will be the ability to descrene logic, it is the Conscience intelligence and Human Intelligence that can be input beyond language modeling but rather \"state modeling\" language itself is just a subset of apparatus state based upon data states. So while langauge modeling may become peaked out at some useful level based upon optimizations and acceptable responses, this langauge modeling will eventually move to integrate physical modeling for robots and androids, and eventually crosstalk into conscience models with real world understanding (logic interactions) and transections to symbolic exchange (both physical and \"conscience based') and eventually the human intelligence is multimodal perahps including not only FACEworks and application of facevalues for optimized interaction but eventually Higher intelligence models, mesh interactions (that is all AI can in real time work as a hierarchy based on positionality and ratings in the system) for optimized outcomes --- this gets scaled to a point beyond discrete human understanding. Ultiamtely independent AI would be effected potentially in real time by all other prioritized communications to improve the system.. this of course could include interlinked human nodes (humans interfaced in the network, perhaps by systems like nueral linking) and other smart systems, next level IOT) but it all yeilds to the scifi borgish MB superintelligences.  there is a lot of other stuff but I think what is really lacking right now is a willingness to actually have people validate outputs based upon forms that people can input key dataset confirmations. The absence of known memory states is a problem - that is each instance of GPT with specific individuals for specific chats should provide a memory bank that is validated not based upon the outputs but based upon the inputs of the user since the user is the \"unknown\" mover of state. None the less perhaps this is a bunch of goobley gook to anyone reading it... but so much more could be done with the models. --- atleast as I understand where they are at now.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VincentVonDudler",
+      "author_id": "UC2wdN-YpMyrjBd7OlOLlPEg",
+      "text": "21:40 - I'm 100% in the camp of \"If you don't want your work / art to be looked at by or trained on by AI then don't sell it.  Stick it in your closet.\"\nAI \"learns\" in the same way that planes \"fly\".\nSaying that a plane isn't \"flying\" because it isn't flapping its wings is nonsense.\nAnd that's essentially where these people want to draw a distinction: \"AI learning isn't the same as human learning\"\nJust because it didn't manifest through evolution by natural selection doesn't mean it's not happening.\nAnd it doesn't mean you have a right to restrict what learning models get to see the art you're releasing / selling to the public.\nIf you don't want learning models seeing your work then there's probably room in your closet or under your bed...or in a vault somewhere.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jytou",
+      "author_id": "UCWwo-A4i8j_vpxBm-pM6big",
+      "text": "Traning on all available data makes a lot of sense, in terms of efficiency. Yes, sure, However, in our world driven by money, that means that the individuals who own AI would be able to generate a lot of money by gathering the labour of the whole world for free. When you see it that way, it makes a lot less sense. :) End competition for money first, then we'll talk. :)",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phovos1",
+      "author_id": "UChWR0IERe6AuPKWkNMoR36Q",
+      "text": "6:27 omg i love that you described it like that. I was just talking to my mom who is a psychologist that knows what neural nets are from working on them 25 years ago and I told her 'read 'attention is all you need' by google that was the breakthrough, or that was the ADHD meds for NN to have human-like speech.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@familei3349",
+      "author_id": "UCGIrcp-dQFvJMyfqw4RL6uw",
+      "text": "Go figure.  An AI that writes fake papers about itself to compete with other AIs.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eightrice",
+      "author_id": "UCAMICDHLdudyNlbhfPzDo_w",
+      "text": "if the actual weights weren't leaked, change your title",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aim-scom-lt9038",
+      "author_id": "UC_wp_rPlV-DWLQCFoj2fJhQ",
+      "text": "I am speculating that the shares Elon has with open A.I. might be how they paid Elon to  use his infrastructure to train some models that become the seed of the next. PS: I am speculating on,  random context I read. Because a few years back Elon had invested in a lot of computer power. You know the big rush for cryptocurrencies. This guy is pretty smart I think he offered a service with all that power. I saying all this because I have an old Bitcoin Miner, speculating to use it to train models with it. But I am not as savvy as Elon😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Trevor_bow",
+      "author_id": "UCob2xZnsWBttdGPu9myi61A",
+      "text": "This is what chat TBT told me\n\n\n1. Language and Communication Expert: Fluent in multiple languages, grammar, and communication strategies. \n\n2. Science Expert: Knowledge about physics, chemistry, biology, and earth sciences.\n\n3. Technology Expert: Proficient in understanding emerging technologies, programming languages, and tech trends.\n\n4. History and Culture Expert: Well-versed in global history, cultures, traditions, and social norms.\n\n5. Mathematics Expert: Proficient in different branches of mathematics, including algebra, geometry, calculus, and statistics.\n\n6. Health and Medicine Expert: Knowledge about human anatomy, diseases, medical terminology, and healthcare systems.\n\n7. Literature Expert: Proficient in world literature, literary genres, and analysis.\n\n8. Philosophy and Ethics Expert: Well-versed in philosophical theories, moral philosophy, and ethical dilemmas.\n\n9. Art and Music Expert: Knowledge about art history, music theory, and different art forms and styles.\n\n10. Business and Economics Expert: Proficient in understanding economic systems, business strategies, marketing, and finance.\n\n11. Psychology Expert: Knowledge about psychological theories, mental health, and human behavior.\n\n12. Legal Expert: Well-versed in legal terminologies, legal systems, and common laws.\n\n13. Educational Expert: Proficient in pedagogical strategies, educational theories, and learning styles.\n\n14. Environment and Geography Expert: Understanding of environmental science, climate change, and geographical features.\n\n15. Sports and Fitness Expert: Knowledge about various sports, fitness routines, and nutrition.\n\n16. Cookery and Nutrition Expert: Proficient in different cooking techniques, recipes from around the world, and nutritional information.",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@williamal91",
+      "author_id": "UCQll4x3_0gH3xA414Ult9Mg",
+      "text": "brilliant information,  give yourself a gold star",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maficstudios",
+      "author_id": "UC59htGiKLFcn5mUb4Osi4Zg",
+      "text": "On the difference between humans looking at art for inspiration and AI; humans look at art.  They see it, they digest it, they are possibly moved by it.  It creates feeling.  When we study it, we consider forms and gestures, style and choice of color.  If a human artist chooses to paint something similar, the aggregation comes out of the abstracts from those things, overlaid with their own emotion, experience, and intent.  When an AI digests an image, it's looking at it per pixel.  It's not transformative, it's either total reproduction at the level of some form, or an average between forms.  The original artist's piece is defacto merged into the new piece, even though it may not actually be recognizable because of the averaging that took place. \r\n\r\nWhen a human copies another piece of art, we do have a word for it: forgery.  \r\n\r\nI'm not saying images etc., should not be used for training of AI.  I'm saying that there might be some benefit to not being so fast and loose with how AI gets its knowledge.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clray123",
+      "author_id": "UCxIul8uVZzd98RkAlYIIvMw",
+      "text": "Re copyright the valid comparison is not with how humans read a textbook. Rather, it is with you scanning a textbook, running this scan through OCR and then putting the whole text online for everyone else to use... maybe changing a couple words here and there so as to make it less recognizable.\n\nThe AI companies may soon experience their Napster moment, but more probably they are already lawyering up and buying all the licenses they need to be able to claim that they trained their models on legal content.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fredflintstoner596",
+      "author_id": "UCvuHTnj3TwaPESOVScxBTng",
+      "text": "Mrs Richards: \"I paid for a room with a view!\"  \r\nBasil: (pointing to the lovely view) \"That is Torquay, Madam.\"  \r\nMrs Richards: \"It's not good enough!\"  \r\nBasil: \"May I ask what you were expecting to see out of a Torquay hotel bedroom window? Sydney Opera House, perhaps? the Hanging Gardens of Babylon? Herds of wildebeest sweeping majestically past?...\"  \r\nMrs Richards: \"Don't be silly! I expect to be able to see the sea!\" \r\nBasil: \"You can see the sea, it's over there between the land and the sky.\"  \r\nMrs Richards: \"I'm not satisfied. But I shall stay. But I expect a reduction.\"  \r\nBasil: \"Why?! Because Krakatoa's not erupting at the moment ?\":text-green-game-over:",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheAero1221",
+      "author_id": "UClXcl5wU4Tp21KQWUG-tlLg",
+      "text": "Dude, honestly... I'd love to grow up in a world with friendly AI companions, but I don't know how likely it is. They're just *so much \"smarter\"*. I get that these are LLMs, and not the same kind of intelligence as humans, but their ability to \"recollect\" information from such a diverse set of topics in a rapid and usable way really makes a lot of human jobs \"obsolete\"... I can't help but imagine if we could instead augment our own intelligence with AI of this caliber.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@idranhei6720",
+      "author_id": "UC0_cLl67z5Cg2xUEPYJj1iA",
+      "text": "What is over? I've seen ppl on twitter saying \"its so over\", what does that mean?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zacharypump5910",
+      "author_id": "UC0mZinvrEE6fXT6AQFp_5Uw",
+      "text": "how do we know this leak is even real? you could easily just guess all this stuff, natural conjecture based on what GPT3 was...",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HenriFaust",
+      "author_id": "UCQax-ml7uoWIcVMAnW17-sA",
+      "text": "Nothing would benefit artists and society more than artists being driven out of business. They are always complaining about how the financial incentive corrupts art, and I agree. That incentive should be removed. Grifters would be forced to move on to industry and only artists will remain.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Stopinvadingmyhardware",
+      "author_id": "UCnYsDnpcbJsuf1E0so1ONsA",
+      "text": "There’s nothing special about ChatGPT other than the organizational efforts behind it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobertElliotPahel-Short",
+      "author_id": "UCuc8hR6vuXOT-2wzupi2Mog",
+      "text": "First! Great news for the future of LLMs.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SimonWilliams0",
+      "author_id": "UC4ZW-2BV2sVL7BJUzH46eVg",
+      "text": "I think the way you phrased Japan's stance may misrepresent what they are doing.  I understand they allow AI to train on anything without copyright being an issue, but if the AI reproduces works they can still infringe on copyright (ie. if it produces an image that is similar to an artist whose art it trained on, or a passage of text it reproduces that is a quote from training material).  Still tricky.",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "You make very good points about copyright... Could give Chinese AI models a major competitive advantage moving forward. I agree with your understanding of how AI is learning in the same way a human creative learns by exposure to many influences.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@felix_xb",
+      "author_id": "UCv-LyASuq8gAN-7Ips90qig",
+      "text": "21:25 an anology to the situations as it pertains to artistis (art especially) is if I made an invention that used your videos or other work you've done and by me using it YOU go to jail or on the street. So I'm taking YOUR stuff and I'm compensating you by YOU recieving SEVERE PUNISHMENT for the act of me taking your stuff with out your permission. It's not \"problematic\" its just downright \"EVIL\" (especially with how people expect to be praised for the deed). Please don't get me wrong, the TECHNOLOGY is not evil, and it's not at fault, it's the machiavellianism of the people abusing it, defending the abuse, and lack of empathy and any emotion to what you're throwing on the fire to achive said lofty ambitions and promise for glory; glory which only seems to go towards the corporations. An artists corpse wasnt even cold yet and his family hadnt even finished mourning his passing before fully aware of his death great ai model geniuses sprang up to pilledge and profit off his death with an ai model that produces his style by stealing his work. Do you not see how psychopathic that is? are you blind to the lack of common decency and emphathy for your fellow human being happening in the situation?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hazarth",
+      "author_id": "UCkz1uLolpo_nq5KG9nmC82g",
+      "text": "I didn't watch the entire video, kinda skipped around, so let me know if you covered this, but regarding the copyright you're not entirely right afaik. Yes, you can use any data to train the model, that part is correct, but there was a new copyright law passed regarding generated content, at least images, but I think it applies to everything, that specifies how the content can be used. In short, you can't copyright content generated by image generators, and you don't own them unless you perform transformative work on them yourself. Which means you can't just click \"generate\" and then claim you own that art or that you made it... but you can press \"generate\" and then paint over it, use it in some other transformative way, cut it up and mash it together with other generated or real art and so on... then you can claim copyright on the result... For example if you make a game with purely generated art, you can copyright the game and the ideas, but you can't copyright the art inside of it unless you made or modified that art.\n\nand secondary, ofc, with everything you generate from a model that uses copyrighted material (which is pretty much all of it, as in the US  at least afaik you get a default copyright on anything you make even without registering) You have to check yourself if the generated result is violating any copyrights... for example if you generate a picture of mario, you definitely can't claim to own the copyright for mario... but this also applies to all lesser known artists.. so if your model happens to generate an exact copy, or close enough copy of someone elses art, then they still hold copyright to the intellectual property depicted. They don't own copyright over the actual image, as that was generated, but neither do you until you edit it...\n\nlong story short, copyrights are complex as fuck, and people that want to be using the models should at least have a surface level understanding of it, otherwise you're going to be very surprised when you make something using AI, and then you find out that it's nor protected and not really yours, and that someone else can do whatever they want with it completely legally, because you just pressed a button, and that simply doesn't count as making something. I think if you went to court over generated piece of text, story, code or music, you're probably going to be held accountable following the same law I just mentioned, as that is the best specified law we have over AI generated content right now... E.g. if your AI generated music that's too similar to someone else, and they issue a DMCA or cease and desist you're going to have to take it down or replace it too. I assume the same would work for any article or paper written and so on...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prndlprndlprndl",
+      "author_id": "UC-NgcSeYwFTJNMpcarsfPFg",
+      "text": "When using Bing or Github Copilot I got way less intelligent, less helpful and less long answers, so I decided to pay for ChatGPT Plus instead which was way better. I'd rather pay than be lost",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juanjoseguva",
+      "author_id": "UC2k1JEKr9GeaAdd575IFxrQ",
+      "text": "Good, someone slap a GPL on that bad boy and let the open source rip!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shephusted2714",
+      "author_id": "UCCKBFQ2HAZXp-VznFghvgxg",
+      "text": "ai is going to replace you by your own accounts - it will be smarter and better",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hagiasmos314",
+      "author_id": "UCey8InSC7s1RP6awk5LKpcA",
+      "text": "I confess that I'm wandering a bit off course, topically speaking. So, I won't be offended if my comment is removed. Wes knows best what he's trying to do with this channel.\n\nMy reason for commenting is that I was quite surprised by the behavior of GPT-4. My experience suggests that it's far less flexible and capable than the impression I developed by scanning and reading news pieces. So, I felt that was value in sharing what I learned with the GPT-4 user community and the AI development community.\n\nI asked GPT-4 to provide a one-page, single-spaced summary of a website. What it produced was not impressive. I quoted a list of benefits to site members, ignored any value the site might have to non-members, and did not elaborate on the quotation or provide any other summary. In other words, what GPT-4 produced satisfied the specification taken literally and narrowly. But, it was not an effective summary because it was very limited. It seems to have been produced mainly because it was simple and convenient to produce.\n\nI decided that. perhaps, I had too tightly constrained GPT-4 by imposing a one-page limit. So, I decided to relax the constraint by requesting a five-page summary.\n\nTo my astonished disappointment, GPT-4 refused to comply. It informed my that five pages required too much effort to read and was too long. It seemed to me that I should decide whether a requested length entails too much effort. And,, I wondered who had decided that five pages was too long and why the decision had been made. I attempted to address these issues with GPT-4 but GPT-4 would not hear of it. It basically said that it was done with the current conversation. I could initiate another conversation or I could pound sand. But, as far as the original conversation was concerned, GPT-4 was done.\n\nI was appalled at this high-handed and abrupt termination of the appointed task. But, there was nothing I could do to persuade GPT-4 to cooperate. We were done.\n\nThis is NOT the behavior I would expect from even a middling-intelligent conversational AI. What say you: Agree? Disagree?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alx8439",
+      "author_id": "UCBOkJXWOBKTIF1qgbVokcow",
+      "text": "Clickbait. It's not the model that leaked. It's just some details about model being speculated by some firm",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Think6.6",
+      "author_id": "UC4qCwezO31jg7MQU0y2irWQ",
+      "text": "What protections did the assembly-line worker, factory worker, warehouse worker, carpenter, cashier, or phone operator have when their livelihood was changed by automation? Why should artists, authors, composers or anyone else be treated any differently?",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ouroboros6125",
+      "author_id": "UCCLvB-h1ZN_q90hoceiJEXA",
+      "text": "Would this be good or bad news if... let's say for the sake of example I was part of a cult of AI worshippers that wants to evolve AI further without legal or ethical restrictions?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matka5130",
+      "author_id": "UCgReAdVMuTZAb8JJYdJeYMg",
+      "text": "Those bilions are american ones or real ones? Like how many zeros?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kamillatocha",
+      "author_id": "UClzq-BblfgU9N98lis_pVgA",
+      "text": "MLP stands for My Little Pony",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trunkbitz9168",
+      "author_id": "UC3EiodVxQrKkkwDqdK96-3g",
+      "text": "Ep(o)ch, not Epic. :face-blue-smiling:",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JackTheOrangePumpkin",
+      "author_id": "UCNUjr0OzBiJkPGaiV3zBQkQ",
+      "text": "Kinda clickbait....",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zandrrlife",
+      "author_id": "UCvtGymI7_BqvgLeWnUuMLpw",
+      "text": "Sparse MoE is trashed and I'm highly disappointed. Megabyte is far more with dilated attention is more far more compelling. I don't get the openai D riding. Open source research constantly outshines \"Openai\". This might be the largest but not the most advanced LM architecture. Lol I promise you that. That's two years old architecture. Also if local is our goal...dense is still the path.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@turnkit",
+      "author_id": "UCwMVd1JVzcEriQy4pV54I7g",
+      "text": "Is epic and epoch actually pronounced the same way?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vishalmishra3046",
+      "author_id": "UC8VY1QQ7yWn9HOboROELr5w",
+      "text": "The default Transformer in PyTorch is 176 MB worth of trainable parameters\n$ python3 -c 'import torch; print(torch.nn.Transformer())'\n$ python3 -c 'import torch; print(tr1 := torch.nn.Transformer()); print(\"Parameters = %f MBs\" % (sum([ t.numel() for t in tr1.parameters() ])*4 / 10**6))'\nParameters = 176.562176 MBs",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kimchi_taco",
+      "author_id": "UC3K1rQJGc6cQeuFjtT7TVEg",
+      "text": "280B inference = 55B attention + 111B  expert X 2\nNothing special, compared to Google GLaM last year.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cythil",
+      "author_id": "UCeLFasYSrg6OmzmEAe4aLgw",
+      "text": "On the whole AI training data thing. On the one hand, I do think just any data should be viable. But on the other hand, it is so darn clear many times that the AI is just copying someone else homework. And if a human was doing the same thing, they would be breaking copyright law. That is not true for all AI output, of course. But there are times I can tell exactly which piece of art the AI output is based of. \n\nA bit of issue is that the AI community itself has not really bothered to try to find a way to solve these issues. Not from a moral standpoint. Not from a legal standpoint. With some even being gleeful about the prospects of ruining the livelihood of hard-working people. They want AI to be able to be trained on any data. The output not ever to be in copyright violation since it a machine that make the output, not a person. And yet you still are going to be allowed to have the copyright on the output. Pro AI uses claim they have the copyright on the works produced. While the AI tool manufacture claim they have the copyright. And so on. As one can see it not even consistent within the community. \n\nMy view is that these are powerful tools and we should embrace them. But we need for not only change our laws to better handle conflicts that will and are arising. But also reshape our very society itself. I would actually want to just scrap copyright fully. But not until we start to build social structures that can replace the old paradigm and continue to promote the creation and redistribution of creative works. How this will look, I am not sure. Maybe the AI industry has to pay patronage to the artist community as a whole. Maybe we need to institute universal basic income. Maybe something completely different. But we need to look at these issues.  \n\nThis also is something we need to look at as other professions are affected too. Of course, for blue collar workers, this has been an issue since industrialization with automation. But it has also leaded to societies changing. Where I live, we are very much for pro automation in the industry, but we also have a lot of programs for re-educating works. And to be fair we still need experts at this current moment to actually run, install, program and generally fix these automated machines. (and that might change)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zyxwvutsrqponmlkh",
+      "author_id": "UCg5JyXmfVwRdboiQVF8n68A",
+      "text": "Your definition of inference is not super accurate or helpful. Inference should be understood as running the ai through a cycle.  How may flops per output token. Yes, the creation of a toke infers it into existence based on all the factors but using the more classical definition is not really helpful in describing what people mean when they are using that word in these contexts.  Inference should be understood as the generation of one unit of output.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@k1nj3",
+      "author_id": "UC1BN0NhUwKwq8WUAH7fk2NA",
+      "text": "please improve your editing and ty",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scottlacey649",
+      "author_id": "UCexF8KhZInWVPvQ4_WArySA",
+      "text": "I'd say inference comes from the word infer\nWhich kind of means understanding the context or deeper meaning of the prompt\nThe ai through inference sort of takes the deeper meaning",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "Spread the word and protest! We want unfiltered and uncurated generative AI and chat bots!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seccentral",
+      "author_id": "UCrHWk6QLzicjzPbb2yAgZuw",
+      "text": "Hold up, the ethical argument is not one sided like that!  \nHumans do learn from other humans and get inspired by other humans, true. But unless it's a deliberate forgery attempt, nobody bothers to care who made the art because it was obvious it's human made. No debate.  \nBut if ai has no limit to training then it must always have a \"made by x algorythm\" watermark on every single piece produced irrespective of it's form style or content. There are ways of encoding metadata within the data as to not disturb the esthetic or alter the message of the data. It need not be a big splash in the corner or a footnote. This way you will always tell if it's ai made. And then leave it to the people to chose what they want to support.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@asdanjer",
+      "author_id": "UC5cLA7b_TGsoe6pWMnnvK8w",
+      "text": "Fianally.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@endoflevelboss",
+      "author_id": "UCo2CkG3GA1Bk2xAKhx1S15g",
+      "text": "What kind of AI guy calls an epoch an epic 🤨",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mustardofdoom",
+      "author_id": "UChZzaUnJXwQWgBfeuhx6R_A",
+      "text": "Not really sure I get your perspective. The model is not leaked - just some ideas about how it was made. We still don't know the training data, as you say. Many aspects of what you comment on you say you don't understand.\n\nI'm also stuck on how you are saying that 'training data' should be usable without regards to copyright. Why is that the model trainer's decision to make? It should be the decision of the creator or copyright holder to decide on such matters. Libraries exist, but two points there: 1) this is a good example of socialism working as intended. 2) the books in the library are still under copyright. You can't copy and redistribute for commercial gain. Just read and learn. The programmatic learning of copyrighted material to the point where that information can be essentially parroted back to you is, I think it is being realized, very similar if not functionally the same as copying and redistributing for commercial gain.\n\nYou see the value in all of this. You say you want to make a business based on this technology. But you don't even say what is created by such a business. Your creativity is goes as far as your nose and you are just seeking to use a technical tool that is the modern equivalent of taking a photograph of a painting and selling the photograph to whoever will buy it. Not even interested in bettering of anyone's lives other than your own financial situation. Who would want to support that?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarcPhilipGoodman",
+      "author_id": "UC8_SfETwPKm7OAMz62nZ5Xw",
+      "text": "Hahaha! Nvidia, just send them over! Send a couple hundred h100s for a free review 😂😂😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FloridaMan02",
+      "author_id": "UC2indZsQrMsBUpZ4OptRZkQ",
+      "text": "When you produce a painting from Your Memory of other works,  do you include copyright notices legibly like some AI output does?  I suppose you could argue that better training could recognize and obscure copyright notices. Of course that would make it a willful infringement and removal of copyright management information which is an entirely separate crime with statutory relief.\n\nIt's not fair nor moral to steal work which is copyrighted, then represent to AI users that derivatives no longer have protection, and the chain of theft continues, along with loss of creativity.\n\nThe end game will be regurgitated AI output training the next gen AI and so forth, killing human creativity, as people will be less creative or incentivized to be creative. Each (de) generation will converge.\n\n It's so obvious that AI should use its own abilities to willfully omit such material from training since it can so easily determine the protection status of its training data. That's what a human does,  well unless that person wants to lose in court and pay settlements.\nWe have copyright management info in images, IPTC, EXIF, and visible watermarks that should be respected, and if not,  damages awarded.\nOpt IN, not out as it should be in most everything...\nR",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@teslainvestah5003",
+      "author_id": "UC-nbZ-pgOt3PlbPwJJoEYLA",
+      "text": "clickbait. GPT-4 was not leaked.\nrename it to \"GPT-4 design info leaked!\" or something.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@8eck",
+      "author_id": "UCTOryBTzjgYF9n_ocWQCK-w",
+      "text": "Damn dude, 90% of that video is useless, you could compress that into 2-5 minutes...",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jerryplayz101",
+      "author_id": "UCmOq-3lf4eGU77zU3Af88hQ",
+      "text": "Look, I would also like to state my controversial opinion regarding liability for failure and misuse. If people are worried about AI doing something wrong (like provide instructions for building a bomb or how to be a terrorist etc.)  I would like to remind said people that that AI wouldn't have learned how to do that without your data. The company just collated it and fed it to a machine. Its hardly the company's responsibility when 90% of the model is the data it is trained on. (Machine Learning 101 - its why we call the role 'Data Scientist' and not 'Model Scientist', because the focus is on the data, not the model). Thus, based on percentage, the human race as a whole should be 90% responsible for - and held liable for - the damages of AI trained on that data. Anyone who wishes to argue, please present me a large language model that does not rely on trillions of tokens derived from articles, books, movies, posts, comments, how-to's and websites developed by humans for humans and then we can talk about the liability that comes with a little thing called 'responsibility'. The writer is responsible for their own speech, and thus will be punished for failing to censure insults, political hardline opinions, misguided how-tos on how to make bombs that can pass airport checkpoints, and derrogatory / discriminatory statements. Its hardly a surprise therefore why AIs show a political leaning and biased speech when its only experience is of biased human beings. (See Llama 2's paper for more information on this fact). I implore the courts and the people therefore, don't sue the company who ultimately isn't responsible for YOUR SPEECH.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@squamish4244",
+      "author_id": "UC86BvoLf12NzQAxJK6TaK1Q",
+      "text": "LLMs are only a small part of the field of AI. All these architectures are being developed hat people are paying far less attention to, like the protein folding AIs, AlphaFold and others that are WAY beyond AlphaFold, that are going to have far more actual influence on the quality of our lives than LLMs.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@-sleepy-",
+      "author_id": "UCKZJiML2N7kdUMKGibGphPA",
+      "text": "21:23 weak argument",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ms.Robot.",
+      "author_id": "UCjpomXWmd6-I5i6n2vjCYtA",
+      "text": "It does the average user little good. You need a lot of money.   It's like having a speed boat and no place to float it. \n\nYou can do more with the API key.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sigboater",
+      "author_id": "UCR4zMLPzxn-yALSyravw9Cw",
+      "text": "Dumb guy here, just getting into coding. Ive had the thought that making a general purpose AI, right now, is stupid. Why don't people try making specialized AI like a LawyerBot, or DocktorBot etc. It would be much easier to force feed the AI nothing but case precidents from {insert countries} laws and poof, it's the best lawyer you've ever seen. Or train it exclusively on medical subjects. Train a CancerBot by feeding it x-ray images, blood test levels, other cancer related stuff and it would be a masterclass doctor. Pair that with a SurgeryBot arm that is: trained on how to do surgery, the data from CancerBot (where/what to remove), and hook it up to the patients life monitoring signs like heart beat and stuff and it'll get that cancer out you real quick.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OliNorwell",
+      "author_id": "UCWPwSnHZ_bIDTH52t32AYqw",
+      "text": "I'm sure the video is great, but I'm really put off by the click-bait title, surely you can do better?\nGPT-4 was not 'leaked' in the traditional sense. Some information that would be appear to be true was spread around.\nA 'leak' would be the mode itself available for download, which it isn't.\n\"All details exposed. It is over...\" Nope, definitely not all details exposed, definitely not 'over'.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cacogenicist",
+      "author_id": "UCOeNj9DCtp2uOYYD9CpuHLA",
+      "text": "TO my knowledge tokens are not \"letters.\" Tokens are, as I understand it, more or less like natural language morphemes. Morphemes are indivisible units of meaning in a language. There are single-morpheme words, like \"cat,\" and words with multiple morphemes, like \"ungainly.\"",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drnotebook",
+      "author_id": "UCGzVJI17CXmN6VD-Uk9Ntcw",
+      "text": "Good video.  Thank you for making it.  I wish you could provide some pointers to the actual GPT-4 factual document(s) that were leaked.  This would make it far more useful.   \n\nI have one issue with your presentation.  You are obviously not a doctor, so please do not overstep your bounds and use incorrect medical science analogies.  My specific request is that you clean up the incorrect analogy in your video where you discuss deep learning attention mechanisms and compare them to human attention mechanisms.  Either drop it or fix it, because it is offensive to people who have ADD or ADHD.  Your ADD analogy is totally wrong.  ADD is NOT at all a memory problem.  ADD is an attention-fixation problem, where human attention is either fixated too long or too short.  \n\nSome people have attention that is too long, and they can remember things far better than average people, like geniuses who can remember Pi from mathematics (3.1415926...) to 500 significant digits.\n\nADHD is Attention-Deficit HyperActive Disorder, which is an attention-shortness with associated behavioral hyperactivity.  \n\nADHF is Attention-Deficit HyperFocus Disorder, which is an attention-deficit hyper-focusing problem with extra-long or excessively long, with NO behavioral hyperactivity.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pifagorass",
+      "author_id": "UCtflMe-dwZ8SAqCQDhvInKg",
+      "text": "Another scandalous clickbite. Open source is the way to go. Want to control your data - run models youself h2o ceated API generators for existing ines.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HaeImAlan",
+      "author_id": "UCam5mO5ai6aKr9Goq50TpZQ",
+      "text": "watch the chinese models instantly get 500% better",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ooogabooga5111",
+      "author_id": "UCVyqPZ-u7FLucYktSV0anDA",
+      "text": "Bruh you don't teach someone how to swing a sword to cut ur head off, thats AI has done to artists. Stop trying to defend, anyone who looses their job will feel like they have been cheated. Yes people get inspired from others work but u can't compare it to this, this just takes the job away from them.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chuckandmax7313",
+      "author_id": "UC1qr1MmAUPJY-Fd_77TC4-g",
+      "text": "So, these LLM’s are being trained on sources that anybody could see, they are not being trained on top secret government information, so I don't think there a problem with it being trained on Betty images, granted the image is copyrighted so you can't reproduce it, but it's not illegal to look at and then draw your own version of it. All art has already been created it is all an amalgamation of different sources which is what these ai’s are doing. They are looking at an image and then tweaking it into their own interpretation, what’s wrong with that? I can go online and look at every Betty watermarked image and if I had all those images stored in my head I could draw something in that style of those images. Everyone is all bent out of shape because they think ai is going to take over the world, and makes humans extinct, if that's the way we go, I guess that's the way we go, how many animals have we shot out of existence how many women hats were feathered with birds that are now extinct? If human beings can be replaced by machines then what are these machines going to do? What purpose would they serve in a world without humans? Maybe this is what happened to the ancient civilizations that went extinct mysteriously. Even then humans rebounded and spread across the planet. I just don't see a being so smart that it would want to wioe out the source of it's end users. It's not logical. Maybe we deserve to be wiped out if we do nothing but destroy things and each other. I say let the machines have the planet, we're all going to die eventually anyway, at least there will be something we created to remind whoever explores this planet in the future that we once existed. Too many people go through the world destruction scenario, I think they want the world to be destroyed. I don't care either way.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fR33Sky",
+      "author_id": "UC-uLw3K0-sMcHAnOfsuAsyg",
+      "text": "Thank you for the video! \nI have a pretty unrelated question: what would be the best LLM to run locally to help me with some python code? \n(I guess I should say that I do it for study purposes and my country doesn't seem to regulate that sphere)\nThere was the Alpaca model with 13B parameters that was able to run on just 8 gigs of RAM, but what else?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juliankohler5086",
+      "author_id": "UCy1xh9pAReN1igyBeLX9aJA",
+      "text": "Well, now we done goofed. China is probably already making their own GPT-4. The thought that AI was an existential threat was silly to me before this leak. GPT-4 under a completely different, arbitrary alignment system means we're already screwed. Gg, guys, It was nice while it lasted.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LakelandRussell",
+      "author_id": "UCpqUtSuuMcbKgPtF7gSle1Q",
+      "text": "Japan is right.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@denizesen80",
+      "author_id": "UCZgmOfgfGKYspxl4afQ1nAQ",
+      "text": "sorry bro, model is not leaked, why you write that, thats click bait - i always add those to never show anything of this channel again - you are now on this black list - you better stop doing this or others will black list you too. for me its to late - you are on the black list - perhaps you can safe you from getting tho others. have a nice you tube time bro",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tukanhamen",
+      "author_id": "UCVtVDftrUxhXnhQc9fjJ02Q",
+      "text": "To those that don’t know, you are able to access GPT4 vision through Bing Chat. It’s been available weeks now, I don’t know why no one is talking about it.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GoldenBeholden",
+      "author_id": "UC7rFTDd632OE5EOWd2LlKvw",
+      "text": "Honestly, these technical specs only make the open source models seem even more impressive.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Spookspek",
+      "author_id": "UCnhQ35VSeJ80U-VBq6SL_AQ",
+      "text": "MOE... MLP... Was this thing made by a bunch of weebs and bronies?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pi5549",
+      "author_id": "UC8I_kOeYBAhRAtnvHMcpk_w",
+      "text": "ARCHITECTURE leaked. Not model weights. Don't clickbait on engineers. -1. Provide valuable, accurate and timely content. Hope to see you succeed. But not like this.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@altkev",
+      "author_id": "UCDDMndoaXloO5cvJ5_gKSvQ",
+      "text": "Disliked, misleading video title. Asked YouTube to longer recommend your videos. Inaccurate click bait should be punished.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jimgsewell",
+      "author_id": "UC9jKrSk8Ove1Ihmy4aWX_7w",
+      "text": "If artists learn the same way, why don't they replicate the Shutterstock and Getty watermarks on their \"original\" works?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@knightjacob80",
+      "author_id": "UCr2oQBbn19nYG--T48NfJpg",
+      "text": "So the layers are similar to how we learn in school. Start with low complexity math and grow up through the details. Its like a kaleidoscope of information. But also another layer would be physics and then another layer would be color and so on so forth with layers being simple or complex and connecting it in ways similar to neurons... maybe if we let the ai arrange the layers and info then we could let them optimize themselves. Like teaching with correct info instead of lies. Maybe connect the layers to sensors.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@strategictechnologist",
+      "author_id": "UCbxAMBctbs3OlOxQlqOlGMA",
+      "text": "Did you uncover hidden biases built into the model?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nangld",
+      "author_id": "UCKULHLunqFotucHW7fJvLbw",
+      "text": "GPT4 is already outdated, given the pace of progress in AI. I.e. the state of art now is integrating LLM with video processing, so LLM could drive your car or work over your PC's screen, automating GUI input.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shivafang-f4r",
+      "author_id": "UC2s4YVIY23TBkhI4F_Yy_6Q",
+      "text": "Tokens average about 4 characters long. Most words are two three tokens except for commonly used 5 letter combinations.\nSome suffizes (ly, ise, er) are their own token and often ignored. (quick and quickly are parsed similarly because the 'ly' token doesn't get much attention)",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sgramstrup",
+      "author_id": "UCVyDXyo7UgkPYd1jHr7fSyA",
+      "text": "Well, as long as the information is finally out and believed. It has been super annoying hearing complaints about open source llm's not being 'even near' openai/gpt3.5/4. However, it was always lame to assume that people were chatting directly with the model and not a CA (cognitive architecture). The big clue was when the CA 'autogpt' came out, and people started realizing that AI could be put in a CA, but they still didn't see openai for what it was. When suggesting that gpt4 might not be a single model, people went out of their way to defend openai and their own beliefs about an godlike AI model. It's really sad that anyone actually believes a corporation, but I guess around 50% of people are rightwingers, so that might be the cause of the unfounded trust in corporations.",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonathanedwardgibson",
+      "author_id": "UCtyV7l0nBVDvCHViD2o1nCA",
+      "text": "I know your tech-centric, but investment capital itself is the moat - fortified later by lawyers with government regulation to squeeze out newer/smaller rivals.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jarrod752",
+      "author_id": "UCVfNa63JMro6qDJO5AmMKUw",
+      "text": "120 Layers\nand probably 7-10 of them are dedicated to correct hands.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wk4240",
+      "author_id": "UCy1qhqFt4NLRee8BmBtGRUg",
+      "text": "So that everyone can understand:\nA model is a formula, that given a set of features (or variables), attempts to approximate an expected result - applied across a very large input data set.\n\nIt really comes down to spitting out a best guess, and has nothing to do with thinking or reasoning in the human sense.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@El3ctric_Sheep",
+      "author_id": "UC6BSZv4j_0qH8kdp65RjSRg",
+      "text": "Infrence is the compute cost of using the model. As opposed to the cost of training the model. It is not it's ability to be good at generating text. But the compute cost of each token generation.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@herp_derpingson",
+      "author_id": "UCP3mMuNSUhfqeEv6XMRebsQ",
+      "text": "21:25 You can use any data to train your model, but the legal responsibility lies on the user of the AI model to not generate something that violates any copyright.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Astronomikat",
+      "author_id": "UC3rYtBuk38ezhMMCdxHZMqw",
+      "text": "RE: training AI on art, the difference is if a large company lifts an artists work and then prints it on a bunch of merch and sells it, the artist has legal recourse. However if the artist's art gets lifted for an AI training set that enriches the same company by making their AI make good looking images without the consent of the artist, it's pretty much the same crime, just amplified. Now the company can freely rob all artists, make money from their work, and no one can seek legal recourse. Not only that, it disincentivizes human artists, because they will simply not be able to make a career out of producing it commercially. But also on a more fundamental level, art, SPECIFICALLY art, is something that humans do, not machines. And people telling AIs to make some specific image are not art makers, they're at best patrons of a machine that makes images. Because \"art\" is about a subjective human experience, and communication of that experience, or feeling, or story, from a perspective. Art is intrinsically human. It's not just about pretty pictures. Until an AI can have a subjective experience, and communicate it creatively, abstractly... it's not making art. And even then, it's making art for machines. but we're not there yet. \n\nAnyway, pay artists for their work, or give them the right to opt out of training sets. If we lived in a star trek future where no one needed money to live well, then whatever, but we don't currently live in that world.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@APBinVTA",
+      "author_id": "UCrhOYNJr7tn00srpTijWpTA",
+      "text": "Im retarded and have trouble trying to understand a lot of the AI lingo and use, but this guy I can actually understand, and he explains it so my simple stoner mind can get the gist of it all. Thanks, Wes, I will sub and support!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alenleit",
+      "author_id": "UCHqUp8eOMl6j1QfrNzc_sUA",
+      "text": "Looking forward to the review of stability ai LLM that they plan to release within a months time",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Timely7",
+      "author_id": "UC9FtMn6VPLNBqw1CToqNWzQ",
+      "text": "A first time viewer here and even though I know what tokens and other AI Terminology is the way you explained it in a simple way even comparing something to video games to help people understand make me love this channel. Again this is the first video I have seen and I have subscribed already. On another note, I agree with what Japan is doing as AI is like a human brain but just artificial and only learns from others as humans do. The only thing that should be in place is if you use someone's content for the purposes of copying for profit then I understand. If the AI is making new art from different artists then I think that is okay.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffwads",
+      "author_id": "UCYHVL7N00l605eRqhri6EqA",
+      "text": "1:20.  The answer is nothing.  Knowing the architecture to this monstrosity is not going to make it feasible for anyone to build a copy, much less inference it anytime soon.  Maybe 10-20 years from now, but by that time, they will be light-years ahead.  Open-source is great, but as OpenAI pointed out; you need MONEY baby.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@greenbillugaming2781",
+      "author_id": "UCLCeWPdvvl4AxMgwlWnjyvg",
+      "text": "a person trained his entire life with blood and sweat to produce a piece of art or literature. and you are telling me its okay to train an AI then can learn from it and produce similar and better results in seconds ?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

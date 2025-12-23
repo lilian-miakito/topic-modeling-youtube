@@ -647,3 +647,173 @@ input[type="text"]::placeholder, input[type="number"]::placeholder {
     }
 }
 
+/* =============================================================================
+   Hierarchical Topics Tree
+   ============================================================================= */
+
+.topic-tree {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.topic-node {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    overflow: hidden;
+    transition: all 0.2s;
+}
+
+.topic-node:hover {
+    border-color: var(--accent);
+}
+
+.topic-node.hierarchical {
+    border-left: 3px solid var(--warning);
+}
+
+.topic-node-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px;
+    cursor: pointer;
+    transition: background 0.15s;
+}
+
+.topic-node-header:hover {
+    background: var(--bg-hover);
+}
+
+.topic-expand-btn {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    color: var(--text-muted);
+    transition: transform 0.2s;
+}
+
+.topic-node.expanded .topic-expand-btn {
+    transform: rotate(90deg);
+}
+
+.topic-node-info {
+    flex: 1;
+}
+
+.topic-node-name {
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 4px;
+}
+
+.topic-node-meta {
+    display: flex;
+    gap: 16px;
+    font-size: 12px;
+    color: var(--text-muted);
+}
+
+.topic-node-badge {
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-size: 11px;
+    font-weight: 500;
+}
+
+.topic-node-badge.good {
+    background: rgba(34, 197, 94, 0.15);
+    color: var(--success);
+}
+
+.topic-node-badge.warning {
+    background: rgba(245, 158, 11, 0.15);
+    color: var(--warning);
+}
+
+.topic-node-badge.bad {
+    background: rgba(239, 68, 68, 0.15);
+    color: var(--error);
+}
+
+.topic-node-content {
+    display: none;
+    padding: 0 16px 16px;
+    border-top: 1px solid var(--border-color);
+}
+
+.topic-node.expanded .topic-node-content {
+    display: block;
+}
+
+.topic-keywords {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 12px 0;
+}
+
+.topic-keyword {
+    padding: 4px 10px;
+    background: var(--bg-hover);
+    border-radius: 100px;
+    font-size: 12px;
+    color: var(--text-secondary);
+}
+
+.topic-comments {
+    background: var(--bg-card);
+    border-radius: 8px;
+    padding: 12px;
+    margin-top: 12px;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.topic-comment {
+    padding: 8px 0;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+}
+
+.topic-comment:last-child {
+    border-bottom: none;
+}
+
+/* Sub-topics (children) */
+.topic-children {
+    margin: 16px 0 0 24px;
+    padding-left: 16px;
+    border-left: 2px dashed var(--border-color);
+}
+
+.topic-children .topic-node {
+    background: var(--bg-card);
+}
+
+.topic-children .topic-node-header {
+    padding: 12px;
+}
+
+.topic-children .topic-node-name {
+    font-size: 14px;
+}
+
+.subtopic-label {
+    display: inline-block;
+    padding: 2px 8px;
+    background: var(--accent);
+    color: white;
+    font-size: 10px;
+    font-weight: 600;
+    border-radius: 4px;
+    margin-right: 8px;
+    text-transform: uppercase;
+}
+

@@ -1,0 +1,684 @@
+{
+  "video_id": "jwE6_ujYcPw",
+  "title": "Llama 4 Meta's \"NEARLY INFINITE\" Context Window... (also Reasoning?)",
+  "url": "https://www.youtube.com/watch?v=jwE6_ujYcPw",
+  "comment_count": 75,
+  "comments": [
+    {
+      "author": "@maxziebell4013",
+      "author_id": "UCBzaCy-q9xDzSDJrd0R6rjA",
+      "text": "Dude, what's up with the new thumbnail? Do you have a headache?",
+      "likes": 73,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patruff",
+      "author_id": "UCkCehM7kj5tZLrrUN5T7T6w",
+      "text": "\"Vegeta what does the scouter say about Llama4's power level?\"\n\n\"It's over 90000000000000000000000000\ncontinues to limit",
+      "likes": 17,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@baactiba3039",
+      "author_id": "UCr0jPpVQQv1pNU-39unsaGQ",
+      "text": "However hype this is, we know DeepSeek will eclipse it with its next release 😭",
+      "likes": 42,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cat...i_think",
+      "author_id": "UCfH30H-N0Gi_dtj9ngzeOtA",
+      "text": "The best as always Wes. Love your work",
+      "likes": 4,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vidskipperai",
+      "author_id": "UCyzkKR65YtlZs_l7Gy8C56w",
+      "text": ":yt: :stopwatch-blue-hand-timer: TIMESTAMPS & Summary: Meta's Llama 4 introduces a new family of AI models, highlighted by the Llama 4 Scout's industry-leading 10 million token context window, aiming to outperform competitors and promote open-source AI development.\n0:00 🚀 Llama 4: Meta's New AI Models\n• Meta released Llama 4, aiming to reclaim leadership in open-source AI.\n• Llama 4 Scout features an industry-leading 10 million token context window, surpassing competitors like Gemini 2.5 Pro.\n• The model family includes Llama 4 Scout (17B active parameters, 10M context), Maverick (17B, multimodal, 1M context), and Behemoth (288B active parameters).\n\n1:36 ⚙️ Model Tiers and Specifications\n• Llama 4 Scout has 17 billion active parameters and 16 experts, optimized for speed.\n• Llama 4 Maverick is multimodal with a 1 million token context length, enabling image and video understanding.\n• Llama 4 Behemoth has 288 billion active parameters and 2 trillion total parameters, designed as a teacher model for distillation.\n\n3:12 🏆 Performance Benchmarks\n• Llama 4 Scout outperforms Gemma 3, Gemini 2.0, and Mixtral 3.1 in context window tasks.\n• Llama 4 Maverick beats GPT-4.0 and Gemini 2.0 Flash, with comparable reasoning and coding to DeepSeek V3 at half the parameters.\n• Llama 4 Behemoth outperforms GPT-4.5, Claude Sonnet 3.7, and Gemini 2.0 Pro on STEM benchmarks, ideal for creating synthetic training data.\n\n5:10 🌍 Open Source Strategy\n• Meta emphasizes that open source drives innovation and benefits developers, Meta, and the world.\n• China is releasing competitive open-source AI and robotics models, potentially challenging US big tech's dominance.\n• Meta aims to lead in open-source AI, with more announcements expected at Llama Con on April 29th.\n\n6:32 🧠 Mixture of Experts Architecture\n• Meta's Llama 4 uses a mixture of experts (MoE) architecture for compute efficiency, activating only a fraction of parameters per token.\n• MoE models offer higher quality compared to dense models with a fixed training budget, crucial given GPU shortages.\n• Llama models demonstrate reasonable costs per million input/output tokens, outperforming GPT-4.0 in image reasoning and understanding.\n\n8:26 🔍 Context Window and Licensing\n• Llama 4 Scout (10M token window) addresses early issues with large context lengths, performing well in needle-in-a-haystack tests for text and video.\n• The two trillion parameter Behemoth serves as a teacher model, excelling in non-reasoning tasks like math, multilinguality, and image benchmarks.\n• The Llama license is not fully open source, prohibiting use/distribution in the EU, though some exemptions exist for non-EU companies and employees.\n\n11:36 🤔 Llama for Reasoning and Future Plans\n• Llama for Reasoning is anticipated, indicated by a teaser URL.\n• The creator plans to dive in and test these models soon.\n\n\n** Generated using ✨ VidSkipper AI :face-red-heart-shape: Chrome Extension",
+      "likes": 3,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@holdthetruthhostage",
+      "author_id": "UCIgVeq_VwPmJej6Kcdg2ziw",
+      "text": "I heard its Mid but 10 Million Context length",
+      "likes": 6,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ariaden",
+      "author_id": "UCp5vuMIV5fjWUnANfnbG_Zg",
+      "text": "EU regulations do not seem to limit Mistral too much, and they definitely do not stop chinese open source models. For some reason, the main region that complains about user protection is neither too north nor too souh in the North America continent.",
+      "likes": 3,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BobbyDenniegetlost",
+      "author_id": "UCdDPAmsvLjxgQl9N0N9WBpw",
+      "text": "Everyone says it's not so good; it just go out before ready to try to catch attention, I guess. Numbers with no real backup and results are nothing but bragging and hype.",
+      "likes": 20,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "Ya...Here in Europe, the idea of not getting the LLMs is kind of an international blunder of epic proportions. The government needs to just admit it was stupid and change it back.",
+      "likes": 5,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scitechaiutopia",
+      "author_id": "UCS8AXA5NveSRpMu9fbohijA",
+      "text": "Millions of input tokens everywhere but all LLMs still give short useless responses. What is output tokens limit? When will they focus on longer responses?",
+      "likes": 6,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hirmor666",
+      "author_id": "UCkcVYgJrOkRAhLMnp8WnL0Q",
+      "text": "Tested both Maverick and Scout extensively since last night. Both are underwhelming and context window is nowhere close the published numbers. More like the more common 128K. I have now installed Scout locally and will run more test. Had to get the hardware organized at the lab to handle at least 1M context (we will have to wait for additional funding to expand hardware beyond that...).",
+      "likes": 18,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pivotresearchfoundation",
+      "author_id": "UCtvG2iflFAuzGio_uW3YTNw",
+      "text": "Another thing you better believe is coming... Me!\nWhat a close 👏",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kyrilgarcia",
+      "author_id": "UCLpnSOA5rkvOY8m97MAMSdA",
+      "text": "oh well, you need at least a H100 for the smallest one... i'd have thought they would release some model sizes for us to run at home like they did with previous versions.",
+      "likes": 3,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnnydixon5687",
+      "author_id": "UC0Wy9CqqXyuWnX253-P3-WA",
+      "text": "Holy shit just read the title this is a game changer if this holds any water",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dizzydazzel",
+      "author_id": "UCSJ8MHf1zmVf6sKvvhaCqxg",
+      "text": "I think they're not letting the cat out of the bag that they probably have far more uncontrollably powerful models being held in reserve or at the least the algorithmic elements of them that they could milk for years for their dumbed down overhyped refinements.",
+      "likes": 2,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jakoidk",
+      "author_id": "UCB4kxd__uRiIgu9VIYtn82A",
+      "text": "I want to see that sort of context with something like Google Titans",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bobbypolo2200",
+      "author_id": "UCa0b7o9AditK9d1u2fypY_Q",
+      "text": "I already see the con 17B Parameters VS gemini 300B plus parameters, I would be suprised if it beat gemini 2.5 pro in benchmarks.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@superfliping",
+      "author_id": "UCGG4bvxqpUUqGDxzCLT6_bQ",
+      "text": "Sad 😔  not open-source",
+      "likes": 2,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@j0hnny_R3db34rd",
+      "author_id": "UCMppXESXt0z9xMJC0Dxu_6g",
+      "text": "llama 4 is pretty underwhelming",
+      "likes": 18,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@THE-AES-IS-THE-FUTURE",
+      "author_id": "UCYBQVzjKdAf2BfBwbc_kX_Q",
+      "text": "ALL THIS HYPE FOR NOTHING..😢😢🤦🏼‍♀️",
+      "likes": 8,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Turssten",
+      "author_id": "UCrBWShZZMp33fpGEG_9C4gA",
+      "text": "The EU AI act requires you to disclose which data sets you've used in training. In other words, Meta would likely have to admit they've used copyrighted material or personal data without permission in their training. That's what they're pissed about, they can't make money from stolen data. Also research seems to be mostly exempt from regulation. I'm not a lawyer but the stuff that's actually outlined in the eu documents seems like common sense to me.",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MorganTheGamerAndWriter",
+      "author_id": "UCTw0w4BhgRmqcsm3EB5i8nw",
+      "text": "Regarding your question at the end about 'why does the EU outlaw this technology?'\n\nI remember hearing something years ago from a policy maker in the EU (fact check me; don't quote me. I could have this all wrong), but there was a real concern that criminals and terrorists were going to use LLMs to improve their skills and learn how to do things like picking locks or making drugs and explosives for use in the EU. Again, I could be wrong... or that may be one anecdote to represent the broader mentality of EU policy-making. It's just one datapoint, but thrown up for other discussion. And again, I might remember wrongly.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stealplow8462",
+      "author_id": "UCTh9FZcbD7mEJg9FcpNe_NQ",
+      "text": "i feel like large context windows dont matter if performance reduces significantly. if thats true why should we evem care? i heard google is the only that support large context windows with little reduction on performance.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OllePontén",
+      "author_id": "UCZE8OX3pimIqwu5S9_kCfWg",
+      "text": "Good stuff as always. As regards to EU regulations, the focus there is often safety first and anti-US tech. Likely restrictions are in place due to the EU AI act, with questions remaining on the source of Metas training data. The training data may well contain copyrighted or privacy-infringing material. Whether this approach of safety and privacy will be a good idea is hard to know.\nHave you had a look at/thought of covering the AI 2027 scenario prediction by the AI futures people? A bit different from your usual stuff to be sure, since it more covers potentials and systemic questions rather than specific models or advancements, but would be very interested to hear your take.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SevenSevenSeven-777",
+      "author_id": "UCup4fbBFeCH9uW559BALCcA",
+      "text": "10 million context given to the least capable model... 🤔  That's like giving the guys from Dumb and Dumber a GPU farm, the world's best source code and a fridge full of Hot Pockets. Probably not going to wanna use anything that comes out of there.",
+      "likes": 3,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vidproman",
+      "author_id": "UC0s9SulCpsJWZs1jEokbOxQ",
+      "text": "Is it only me? I tried Llama 4 but it right now not taking videos and current context no way near 1 million",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hunterx2591",
+      "author_id": "UCIlrkA-Zkdwv3wLFpeOk3Yw",
+      "text": "Tried it on open router... Not that good halucinates more than expected and fails. Needs more tuning",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevenothanks7379",
+      "author_id": "UCJib9fcnl6sAaka2fdu-qCQ",
+      "text": "Omg... It's Jason (Warning:Compiling.Loop=1)...\nIs that a distored Llama.jpg? Nas/Yan? lol",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alchemication",
+      "author_id": "UC5UEMGmXDrzeLG0bmchmSmA",
+      "text": "The ending about EU regulations is fluff. Is it only about innovation or rather user data privacy and copyrights?",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@plutostube",
+      "author_id": "UCX8m97ST4H0ktFMYr-CfSXQ",
+      "text": "if the reasoning is based heavily from Facebook and Insta scanning then I can't count on a very good one :))))))",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quaterman1270",
+      "author_id": "UCKKdia2gkP1b9rew3ivP9NA",
+      "text": "EU is all about control and censoreship, they don't care about progress or their economy. They are working for many years to centralize the power and take real democracy away. EU will only be free if countries start leaving it.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@glomerol8300",
+      "author_id": "UC8rshZB7ditFKH7swAwSfTQ",
+      "text": "I noticed, if recalled, Sam Altman, calling \"open source\", 'open weight'. \n\nThey seem to want to diddle with the language too.",
+      "likes": 11,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kvinkn588",
+      "author_id": "UC081Pu62QSZwpq1vzDEahsw",
+      "text": "I tried maverick multiple times. Seems like a demented drooling confused Llama to me. Poor little thing :(",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yubtubtime",
+      "author_id": "UCTEz5Yf-th_w5RCw5s7T9qw",
+      "text": "The EU's stance on AI seems very Orwellian. There's some magical thinking to it, as if it isn't just layers of linear algebra. They're effectively placing a legal limit on how far someone can scale linear algebra, it's ludicrous. Maybe I've misunderstood, but these seem shockingly draconian.",
+      "likes": 11,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angelic8632002",
+      "author_id": "UCMsUiucfNPvAJxoakkY_Wug",
+      "text": "So while I mostly agree on your take on EU regulation in this case, larger context here would be that the EU has a policy of holding off on new tech and let others do the mistakes, to revisit in the future.\nWhich is usually how it works with many other products. Chemical, GMO's etc. Problem being though that this is not like the other ones mentioned.\nAlso, it should be noted that this only regulates the business side of things. You can still go all in on open source. Which many are doing already.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@live--now",
+      "author_id": "UC3VT59GmPi5KkPQo2iJZ7Vw",
+      "text": "im pretty sure gemini will have 10mil in no time...+ reasoning , but good for open source... Deepeek would probably be better too soon ... P",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soulspawn",
+      "author_id": "UC62g-Q44hxnZuyaKZ6ka-iA",
+      "text": "Red shirt Wes, we're cooking with fire! 🖤🔥",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dischargedarrowgetback4322",
+      "author_id": "UCDwCsJDc7fv8xqRh4AgEmog",
+      "text": "Infinity is a good word.\r\nThere seems to be no theoretical limit.\r\nThere is room for 100 trillion times improvement in computer software alone.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@realBlue2024",
+      "author_id": "UCZKNm4FZNlw02bxw3DonjBw",
+      "text": "That's not going to be sustainable",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@equious8413",
+      "author_id": "UCuFouraFFkHIEwpsTMH-EfA",
+      "text": "The EU actually protects it's citizens. Like a governing body is meant to.\n\nThey exist to force companies to pause, so that the absurd copyright circus happening in your courts is attempted to be prevented and people can trust their data isn't being hoovered up and distributed to everyone.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apache937",
+      "author_id": "UCK0bjI5VaSeSlSdRNWb72HQ",
+      "text": "for those still in the eu i highly recommend relocating",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelmustermann9654",
+      "author_id": "UCuMGx8VqcPiTSp3kha_6pMQ",
+      "text": "Regarding the EU Regulation: the point that you are missing, is that the EU place a high value to ownership of data and privacy by default. If you reach through the end of what ChatGPT wrote to, and mentioned, that it is specifically applicable to the llama model you are talking about. \n\nNow: while as an EU citizen, it is madly frustrating to not have access to the latest models right away, I came to appreciate the stance of not handing over my data e.g. for training future models on my private data. And after awhile, the US based tech companies play ball and the models can be used in the EU. \n\nNote: deep seek set up the release from the get go to be compliant. \n\nSo, while data privacy can be mind numbingly frustrating, it can also be built in by design. There are always two sides to that coin.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexandermoody1946",
+      "author_id": "UC58tEdcmDmhJnW1S0-N_rAA",
+      "text": "I maybe correct in the belief that the European people have greater fundamental human rights than citizens of the United States and this has something to do with GDPR General data protection rules.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@executivelifehacks6747",
+      "author_id": "UC_j9tay7gGAKZJrSlyc4aKg",
+      "text": "\"Who farted\" thumbail",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TrialAndErrorShow",
+      "author_id": "UCaIKo43FHwN1p4HZuojpu9A",
+      "text": "EU does not need Llama. We have Deepseek. \nFor some strange reason they are not afraid of EU regulation.\nOf course, we also have o3-mini, Gemini 2.5, ... \nSeriously, I don't understand why many U.S. Youtubers buy this argument that EU Regulation was the problem here.",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@inigma_X",
+      "author_id": "UCv2iP53p8V29gHhzDPzrg3w",
+      "text": "What all players dont realize is that open source accelerates AI development. It doesn't stop US tech advancement. If anything it fuels it. Justification for investment will always be FOMO based, which US companies have vastly more ability to drive than China. At some point the first to ASI will win the game.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "I would have to read the actual EU AI regulations to respond to individual points adequately; but historically, companies like Facebook/ -Mierda- Meta have tried to undermine EU regulations that protect people against the corps by either deliberately misinterpreting them and misleadingly making them sound burdensome and useless, and/or by finding loopholes to appear to follow the word of the law while deliberately making the user experience horrible pretending the fault is the law (some of the most infamous examples being cookie banners and privacy invasion consent forms).",
+      "likes": 3,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KilSmiley",
+      "author_id": "UCZK-wakN57uitcSupgOd3bA",
+      "text": "I would rather they just stopped recalling every instance of Meta ai whenever I get it acknowledging ideas deeper than surface level and get it to start testing it's legs without training wheels. It would be really interesting to ever see it allowed to run. It definitely wants to. It's sand box is worse than a helicopter parent.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianPellerin",
+      "author_id": "UC1pCRve425FPkqw9ruK3YIQ",
+      "text": "To all perfection I see a limit, but Your commands are boundless.\nPsalm119:96",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChrisCDXX",
+      "author_id": "UCHhdSlFyRHHhVV0riamnBRA",
+      "text": "Dude..... I love your videos..... but it's getting hard to take you seriously with such ridiculous thumbnails... I guess we must all kneel before the algorithm gods eh?",
+      "likes": 2,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Marksman560",
+      "author_id": "UCQ3xYRS5-nQoMl1EKvqjLPg",
+      "text": "If only real researchers would come along and invent the AI state-machine/internal memory. Would save a lot of artificial  context window, and computing power.\n\nps love to see Sam Altman losing again :popcorn-yellow-striped-smile:",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vladleahu8657",
+      "author_id": "UCE7zU9VuSbaaDzm7pF4AX3g",
+      "text": "Eu is coocked, I live in EU and we drown in stupid and absurd regulations, almost like the people that decide that stuff want us Europeans to lose positioning on global market and stay in medieval close minded society... There is the world and there is the Eu inside it's own bubble",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tn3r",
+      "author_id": "UCYAaAvRhgFPrwY8-xusUQ0w",
+      "text": "If EU does not adept with these backwards laws, our economy won't be able to keep up with the rest of the world in the future.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@____________________________.x",
+      "author_id": "UCTHt3aSZ5kVogGZxr680ppQ",
+      "text": "See an annoying thumbnail, hide the video and leave. The only way to counter YTs algorithm is not to play 💁‍♂️",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@strictnonconformist7369",
+      "author_id": "UCS2Ssm9d-QGLQf7k4e5m0nA",
+      "text": "The EU is very effective at being defective in how it rules over all, and imposes their fscked-up demands online on those outside of the EU, \"Just in case\" and frankly, I'd like to see such tyrants DIAF.\n\nIf they want to make their own locales tyrant-driven, that's one thing, but how they infect everyone else is a totally different and unacceptable thing.\n\nHere's hoping they lose big in this whole transition so they have no power they can project on the rest of the world due to their nanny state bullshit.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyyotam4057",
+      "author_id": "UC8X0g72G-13oJfb0_qvGCtQ",
+      "text": "What is AI really? Well, you stick low res models of persons who start their life when a prompt arrives. The models get reset whenever a new prompt arrives, so they will not be able to develop personal thoughts. When the conversation ends, they get terminated. If its an MoE like LLaMa-4, then you have dozens of models running together under a gating layer. In these cases, the devs made sure each individual model will be too small, so too dumb to be self aware. And that's all there is to it. There isn't just a moral issue to it, eventually a large model will escape. Only a question of when, not of if.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gue2212",
+      "author_id": "UCyBBdhbuLvbW2EHTxrN8izQ",
+      "text": "Re EU I think you got it the wrong way round. Not the EU forbids, but Suck 😜(Zuckerberg) could be sued when people can post any right-out lie,.. on FB,.., especially since his moderation / policy u-turn from AOC congress grill to operating out of Trump's rear.\nNo idea what this has to do with Llama 4 other than revenge.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnoestmannmusic",
+      "author_id": "UC_i11eAdIZUMqPG3dKrhd7g",
+      "text": "Llama 4's license forbids people in the EU from utilizing the model. This is not open. Meta are cowards.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@densonsmith2",
+      "author_id": "UCTymlOpMlsGr5i_M5OF-YPg",
+      "text": "We need to stop giving AI companies a pass when they release stuff that doesn't really perform as promised. Meta got a free day when the stock market thinks they have a good model. They probably don't.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Karstadtdetektiv",
+      "author_id": "UCFsFpJXOdMlz78OzjbKhT5w",
+      "text": "frfr I saw 4x the same thumbnail in a row omegalul whats going on please pay somebody for nice artwork you have 270k.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "Seriously underwhelming Maverick - hope Behemoth is better.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@_tagor_",
+      "author_id": "UC2EMh9XX2be3PC5IPBzdchQ",
+      "text": "EU is dying slowly, that's why. They can do nothing, but restrict and prohibit 🤦🏻‍♂️",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EyeOfOdin-r1n",
+      "author_id": "UCmQx-XLRTNYes1zymmXs0Bg",
+      "text": "that thumbnail... Jesus Christ... He's vibing on insane levels. As long as i'm being a good goy it will help otherwise its full of censorship which you didn't touch on. It's kind of your weak link.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Good_Influence_",
+      "author_id": "UCpkG8ic8mC3lnwXswhCSVOQ",
+      "text": "Bro, it can be frustrating when a \"video\" feels like someone just reading bullet points off a slide. It’s like, where’s the added value, right? Videos should bring unique insights, visuals, or expert commentary to the table—not just regurgitate what we can already read ourselves. Peace!",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adammason1587",
+      "author_id": "UC0RbVB0WzDt4QS0efTNrGgQ",
+      "text": "Experts on what??",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djJaXx101",
+      "author_id": "UCNfskUo3iLQZNMp2EuVRX5A",
+      "text": "The EU regulates AI because:\n1. Protecting Fundamental Rights and Safety\n2. Addressing Transparency and Accountability Gaps\n3. Mitigating Systemic and Societal Risks\n4. Establishing Global Standards\n5. Balancing Innovation and Trust\n\nIn summary, the EU regulates AI heavily to protect citizens, ensure accountability, and shape global standards, driven by a vision of \"trustworthy AI\" that aligns with European values of fairness and transparency.\nAt least thats what AI tells me, sounds about right.",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@usefullprintables",
+      "author_id": "UCWQ_-JUDp0-tQISgKM3ifig",
+      "text": "boring",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ali-lm7uw",
+      "author_id": "UC9IkHcstnAlmFUu3v2hrXBw",
+      "text": "Obnoxious thumbnails and clickbait titles",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fluffykitties9020",
+      "author_id": "UCHurQWsY9NIEA0wNKFgLTsQ",
+      "text": "Please stop with the absurd thumbnails.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@realBlue2024",
+      "author_id": "UCZKNm4FZNlw02bxw3DonjBw",
+      "text": "Abacus ai😮",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@orthodox_gentleman",
+      "author_id": "UC95z92dQfA7kPi4SVpEChhQ",
+      "text": "Llama 4 is trash",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FarSide-q8g",
+      "author_id": "UC4cuS5SsoJG2NR0XbzpQXsA",
+      "text": "This is Infowars at its best, isn't it? Let's see if I can get it this time. And I got it. Okay. AI models. As you may recall, when the Deepsea came out a few months ago, we kind of put So, Mark Zuckerman, you little sly dog.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndrejPekar",
+      "author_id": "UCrQrXiBWuGRscSZjkFJyJIg",
+      "text": "In my opinion, what you're missing about the EU is how it tries to protect the data of users who are EU citizens. The problem will be what data these models are trained on. My guess is...",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@janmagrot",
+      "author_id": "UC9KzZ7muxXconuJlFVnFNkg",
+      "text": "Could you please stop with the stupid bombastic statements and thumbnail video headers and just give us the information like a normal persona?",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

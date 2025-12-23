@@ -1,0 +1,567 @@
+{
+  "video_id": "B13M_NXLciM",
+  "title": "OpenAI Just Released New Models and Developer Tools | GPT-4 no longer \"lazy\" 😍",
+  "url": "https://www.youtube.com/watch?v=B13M_NXLciM",
+  "comment_count": 62,
+  "comments": [
+    {
+      "author": "@WesRoth",
+      "author_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "text": "POLL:\r\nWill you use OpenAI's new embedding models?\r\nhttps://www.youtube.com/post/UgkxtEP9eVamBpx6dMyw7dggpimiOJgSJqzJ",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@m0n4d59",
+      "author_id": "UCX4E3Y6DBXxwqKsqkRn2D4Q",
+      "text": "It's fascinating how LLMs, reflecting our own weekly work patterns embedded in their training data, can exhibit a Monday slump and a Friday surge in their responses, depending on the inferred day.",
+      "likes": 51,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timealchemist7508",
+      "author_id": "UCtcGTchHw67EJr6ohaIW2Lg",
+      "text": "Best AI content on YouTube! Keep it up!",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YYAthens",
+      "author_id": "UCA9kOC30Dpq7ofGvwpH6TYA",
+      "text": "GPTs store popular recommendations:\n  1. Translator BB\n  2. Story King\n  3.TOP NEWS \n  4. 1 To 1 Foreign Teacher",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CalebHoernschemeyer",
+      "author_id": "UCRB__s8OReOPAmgVClHgkoQ",
+      "text": "Thanks for all the detail! Amazing how fast this tech moves. I remember in 2019 watching text chatbots barely appear.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ReflectionOcean",
+      "author_id": "UCPB9024fIlk4q4-eedTa8Rw",
+      "text": "- Explore new embedding models for enhanced machine learning applications 0:50\n\n- Investigate reduced pricing for GPT 3.5 Turbo for cost-effective development 3:14\n\n- Leverage the GPT 4 Turbo preview for improved code generation 4:03\n\n- Automate upgrades with the new GPT 4 Turbo preview model alias for the latest features 4:44\n\n- Utilize the updated moderation model for safer AI text interactions 5:02\n\n- Assign permissions to API keys for better usage management and security 5:52\n\n- Monitor API usage more effectively with the new dashboard and export functions 6:15",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eduardt7253",
+      "author_id": "UCt-eJyABcfZuHmaFQtpcT5Q",
+      "text": "Good title :P Your content is great, keep it going!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ManiSaintVictor",
+      "author_id": "UCJ3jsaRVORG-AOB-qCP0NVQ",
+      "text": "!!!!! 🎉 wasn’t ready.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BradleyZS",
+      "author_id": "UC8N4nlj_vsgEAhHuDrPuTUA",
+      "text": "ChatGPT hates Mondays.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kennbmondo",
+      "author_id": "UCLePF7Lf-ASAUkpXaScT29A",
+      "text": "Top shelf as always. Tanx!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@3RDEYELOVE",
+      "author_id": "UCCysgNN14eGibvB4c6d4DvQ",
+      "text": "Lazy that's pretty funny it really does feel like certain days it has a attitude",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@saralynnech",
+      "author_id": "UCnonS6Wja2rwqwla1gGNN6w",
+      "text": "I don't think a lot of people will use it directly, but I can see developers using it to make app development even easier. On top of having templates, if you can cluster the data at such a fine level, then it will be easier to have a starting point for development. If that makes sense. This is something really cool that is very hard to explain. I think it's excellent and shows us how many new opportunities there will be for implementation.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rougesportman",
+      "author_id": "UCFACpMOsFMiyYPvifi4kjSA",
+      "text": "Yes! Do the embedding model deep dive video please",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KuZiMeiChuan",
+      "author_id": "UCLwX8yD3FXJR2V7aSzRPntA",
+      "text": "I also noticed that it's not lazy ahead of the news. It's laziness was driving me nuts and then it recently got better, cool to hear that's not just my own experience.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreaskrbyravn855",
+      "author_id": "UCIm2XbuSY39WiOPacDjJdkw",
+      "text": "Yes new models",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hskdjs",
+      "author_id": "UCN80HsZD4hJDyRa5yPQvSyA",
+      "text": "I'm curious to try out some embedding models for text classification tasks as currently I'm just using a fasttext model trained on my data containing about 100K labeled messages. My current performance is about 92%, but I will definitely try embedding models in an attempt to get greater results.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@inknoidrobot1227",
+      "author_id": "UCLtiKg0ZsdC_XtRoOms8omA",
+      "text": "Wow, I now know why I couldn't find my assistant bot that I created off of GPT 3.5 turbo. I was wondering why I couldn't find it and email the open A I help center for help 😢 damn.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ArtificialBeauties",
+      "author_id": "UCXd6zxhiTQ0Eh_8phYr_nIA",
+      "text": "Anyone else here feels that DAN 3.5 was more powerful than gpt 4 nowadays ? \n\nThe power of uncensored LLMs , at least that s what I feel \n\nHey Wes a video about it would be cool like benchmarking DAN and chatgpt 4\n\n\n( and yeah I know that technically it’s not an uncensored model but just PRETENDING to be one enhance his performances)",
+      "likes": 27,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hskdjs",
+      "author_id": "UCN80HsZD4hJDyRa5yPQvSyA",
+      "text": "Before wathing the video I didn't even know the moderation model exists and it's free 🙂👍",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DefenderX",
+      "author_id": "UCYXMsr7FEvIN4h5x6NCV5nw",
+      "text": "If they develop the clustering model further, creating several clusters layered on top of eachother and have unique tags in for example the search vector to trigger immediate availability of specific sets of clusters, you have increased your accuracy of data retrieval for the AI's responses.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryzikx",
+      "author_id": "UCJNXiNPQtC3AhZSETLmlLFg",
+      "text": "the exponential curve steepens..",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wanderer2035",
+      "author_id": "UCLrYEXgnHWX2IiwoS0mtd0Q",
+      "text": "So basically we get another technological leap every Friday lol",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Art_official_In_tellin_gist",
+      "author_id": "UCzTZURJHWnKfweX4SfOoI_Q",
+      "text": "Good title",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mariokohler4916",
+      "author_id": "UC3Z-qDNpYbcx-wXVmeX_l3Q",
+      "text": "one important aspect of the vectors created by ghe embedding models is, that the vectors distance to each other relates to the „similarity“ of the text they were created from. so by grouping vectors of a certain distance you can find text that is most likely related/similar to each other. so its not just about „llm‘s understand this better, humans understand that better“",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshallodom1388",
+      "author_id": "UCSn8h8RbNoaWGpvdSZMBcxw",
+      "text": "They might want to start matching up the embedding model with that of the human brain and language storage. I've seen 3d models of brains that show general locations of similar words that could mesh well with the push for developing the real world model for AI to live in and develop it for itself to the point of mimicking the real world perfectly, including reading our minds just by looking at us.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lenderzconstable",
+      "author_id": "UCuAw7-SEGtC9yMsUOfDJMdA",
+      "text": "I like most of the new GPTs in the Explore GPTs, although with too many prompts they lose content you input and only focus on the most recent detail. I am not sure if this is well-known, or whether it is the GPTs weakness, or that of the ChatGPT API, or possibly other reasons. I am sure it will improve if all things remain constant. It’s easy to have high expectations when you see exceeding performance in ways you never imagined, and for things that can do so much off the bat.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jakobkristensen2390",
+      "author_id": "UCAg-f6pLCZYd7CW92InrRMA",
+      "text": "The encoding bug with non English characters has been a pain in the a.. since November. My fix was to take all text output from GPT4 1106 and pipeline it through GPT 3 turbo asking it to fix errors. 😂",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EternalKernel",
+      "author_id": "UCkhD7KlRcv0UFy6AQhXKeDA",
+      "text": "Embeddings are super useful, and these better scores/lower pricing? This is great..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@register.aiagents",
+      "author_id": "UCwDmvUFlQaU4Zc7qZyktasA",
+      "text": "Beautiful thank you 🙏🏽 for the latest",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@foxabilo",
+      "author_id": "UCamhkqGGcoGdSRyGxdVj2Aw",
+      "text": "Feel free to drop by the developer forum if you wish to discus the new updates. Sadly post links is restricted so, a quick search should get you the developer community url.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bar10dr",
+      "author_id": "UC60iteaank8z3D8DHv4i4vA",
+      "text": "If you have the time please go more in depth into how the model integration works and use cases",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@s.dotmedia",
+      "author_id": "UCMOHoSK736ZVUvYbGVg8L8Q",
+      "text": "I've been using the free all-MiniLM-L6-v2 Sentence Transformers embeddings model, would be interested in better pricing from OpenAI's models for some use cases",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matten_zero",
+      "author_id": "UC-MU1n71xrDjdqNFwXv5CuQ",
+      "text": "I'd use it for RAG",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DavidGodin",
+      "author_id": "UCA5uuhgjRH9cw05LySNemgA",
+      "text": "Why can’t they just confirm if they updated plus with the new updated turbo model",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@naromsky",
+      "author_id": "UCRSKqobuSrm860UlZgYTPmQ",
+      "text": "I feel sometimes one dimension would be enough.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@derrickobedgiu",
+      "author_id": "UC60ginf3WI-_tDFtRinHU_Q",
+      "text": "The only way to stay at the top is to lower pricing of 3.5 otherwise Mixtral is one door away, considering individuals that have fine-tuned it to have function call. So, all that's left is lower the price.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SMH_",
+      "author_id": "UCdLxYBfkEunHIXUMWBerYIw",
+      "text": "Am i correct in saying that chatgpt and other llsm already use these embedding models, in order to translate user prompts and figure out what to do? As well as more specifically for instance, chatgpt premium, where you can upload file documents, and it will vectorise this into a database 'behind the scenes'? And so soon the current embedding model that it uses to do this, will be upgraded to this new version talked about here?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avivolah9401",
+      "author_id": "UCrt1JUcnL6_qRD-8GrYeTiA",
+      "text": "Is the update only for the API or for the model powering the ChatGPT platform as well?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveEtchells",
+      "author_id": "UC6Oj16Fmn_yuykylyfRoL4g",
+      "text": "So if you have a system with a large DB of embeddings, you’ll need to redo all of them to see the benefits, correct? That could get really expensive if you’re dealing with millions of documents :-/",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kennbmondo",
+      "author_id": "UCLePF7Lf-ASAUkpXaScT29A",
+      "text": "I use... in a good way.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sl0ls",
+      "author_id": "UCrBqSx3KZpwBWp2jo7jg-Dg",
+      "text": "I need an AI developer to get me over the line on a pretty minor project. Anyone proficient that has a couple of hours?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xbon1",
+      "author_id": "UCb7hCKCts9sDbcIOf9WrE5w",
+      "text": "why not include the links in your description so we can also read at our own pace? sucks having to find all the urls manually",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@warezit",
+      "author_id": "UCX5BqypxvUxVIUg88j-dacA",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🚀 OpenAI's New Releases and Pricing Updates\n- OpenAI announces new embedding models, GPT-4 Turbo, moderation models, and API management tools.\n- Launch of new generation embedding models and lower pricing for GPT 3.5 Turbo.\n- Introduction of tools for developers to manage API keys.\n01:09 🧠 Understanding Embedding Models\n- Explanation of embedding models and their applications in language processing.\n- Embedding models transform complex data into numerical vectors, enhancing machine understanding.\n- New embedding models offer improved performance and cost-effectiveness.\n02:28 📊 Applications of New Models in Natural Language and Coding Tasks\n- Enhanced models are more efficient for tasks like semantic search, clustering, and classification.\n- Benefits for developers and researchers in machine translation and information retrieval.\n- Visualizations provided for better understanding of embedding space.\n03:23 💸 Reduced Pricing for GPT 3.5 Turbo and Updates on GPT-4 Turbo\n- Significant price reductions for GPT 3.5 Turbo, with lower input and output costs.\n- GPT-4 Turbo preview shows improved performance and larger context windows.\n- Updates to GPT-4 Turbo aim to reduce cases of \"laziness\" in code generation.\n05:02 🔒 Enhanced Safety with New Moderation Model\n- Introduction of text moderation 007, a robust model for identifying harmful text.\n- Emphasis on building safe AI systems through improved moderation techniques.\n05:31 🔧 New API Management Tools for Enhanced Control and Visibility\n- New features for managing API keys, offering more control and visibility for developers.\n- Ability to assign permissions and track usage on an API key level.\n- Future improvements planned for API management and usage tracking.\n\nMade with HARPA AI",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markplutowski",
+      "author_id": "UCjV4_iYiinuSgZ-K7Dr5peA",
+      "text": "Is there a survey❓\n\n@3:02",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AntiPolarity",
+      "author_id": "UCywjB067dAHOwySkyLaUJJA",
+      "text": "Embeddings is the only thing that makes LLMs usable at all. I was surprised that you think that there would be only few percent that using them.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thegoodthebadandtheugly579",
+      "author_id": "UC-bVHy18OfnqCwCV4oCACBA",
+      "text": "Hmmmmm… 🤔🤔🤔 what?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PeterSkövde",
+      "author_id": "UCY0uw_7hLEUIHYoDQg2tYRA",
+      "text": "I realy suport your content alweys watching and alweys use, but... how are you posting so much? is it some kind of ai trick?? agin realy suport you and your content.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SP-ny1fk",
+      "author_id": "UC6Mf_8zxbzqmZ_m-1BuBQiA",
+      "text": "It's also lazy sometimes in how much effort it allocates towards a task. I think probably when you first sign up you are allocated a higher amount of processing power per question, and then after a certain number of questions it drops of drastically, and you are left with simplistic generic FAQ style answers.  \n\nIt's why I won't continue my subscription.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yurcchello",
+      "author_id": "UCSJnnotGgx6KCd0MSDFHDOQ",
+      "text": "why i need to pay for \"open\"ai models?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hyper-mediatv",
+      "author_id": "UC9b1eahJ0b7pCi-iV7Ia8wA",
+      "text": "Meh. I’ve been hoping for an updated 3.5 with better function calling capabilities or a way cheaper GPT 4 (or 4.5 would be nice).",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@buybuydandavis",
+      "author_id": "UC9MJJ9KpdSRrt2uyoeF74QQ",
+      "text": "\"Free moderation API\"\nSounds like it will be very useful. \nBut not as they intend.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AiNomadDev",
+      "author_id": "UCnQOD5s-2AQDa4dzp6XFa2A",
+      "text": "Would be nice if the \"lazyness\" was actually fixed. It's annoying but fascinating that you can be working on the same project and code base on one day and it surprises you with how good it is. Then the next day it's like dealing with an ex wife..",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RafiBarides",
+      "author_id": "UC6vBAu9XSVyz66GHt-NbXSg",
+      "text": "That thumbnail pic is dumb and overused and has nothing to do with the video",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iLikeMyOwnPosts",
+      "author_id": "UCJrenYgtJnVvGfcAn9mSytg",
+      "text": "This is the stuff I count on you for, Wes. Thank you.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zandrrlife",
+      "author_id": "UCvtGymI7_BqvgLeWnUuMLpw",
+      "text": "As an independent researcher/startup founder. People. Please don't waste your money on openai embeddings. You can improve open source model embeddings and even generate performant sentence embeddings with in-context learning with no finetuning. Phi-2 at 3bit ggml is all you need and it's free. Just have to ensure the y'all stay woke out here 😂.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dan-cj1rr",
+      "author_id": "UCZ83CMIFEAtOxbxkz9iaYyg",
+      "text": "Good, seems like a slow down for me, nothing exciting about this \"turbo\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hydrohasspoken6227",
+      "author_id": "UC33Wu9A1GsfbTNUlc0Dn4OA",
+      "text": "When will they remove that atrocious 40messages/3 hours. Mamma mia.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RpgBlasterRpg",
+      "author_id": "UCt3T8cUrJHU0KmNw059PD1A",
+      "text": "I rather wait and see, since GPT-4 is still braindead when it come to custom instructions and it still generating unwanted words from the black list.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaymethodus3421",
+      "author_id": "UCvP7thoP8yLbs34QH1qME6g",
+      "text": "Can someone un-doom me please? I'm convinced we're playing with something existentially dangerous beyond our understanding, and if we let highly advanced agents and ai's start autonomously acting on human behalf; they'll be given the compute and freedom to organize into a decentralized subnetwork super-ai, without us knowing at all.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skilifavas4016",
+      "author_id": "UCWt8q7DmO3BgMKSAlCXxQsQ",
+      "text": "bro i literally called chat gpt 4 lazy twice that last few days, it'd just give up mid conversation making up my replies and/or repeating itself",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bussi7859",
+      "author_id": "UCNH4KA4r_zblLPfo4XcPdMQ",
+      "text": "Nerd crap good for nothing",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abenjamin13",
+      "author_id": "UCXjYjl8TVHtKPRd6FsLcYUA",
+      "text": "Fantastic thank you for the update ✅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

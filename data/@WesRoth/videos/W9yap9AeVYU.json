@@ -1,0 +1,774 @@
+{
+  "video_id": "W9yap9AeVYU",
+  "title": "AUTOGEN TUTORIAL - build AI agents with GPT-4o and Microsoft's AutoGen",
+  "url": "https://www.youtube.com/watch?v=W9yap9AeVYU",
+  "comment_count": 85,
+  "comments": [
+    {
+      "author": "@dylan_curious",
+      "author_id": "UCpdyFxSktWo3W6kMYfmk6lg",
+      "text": "OMG. Watching the agents code up the video game felt surreal. This is so powerful. Thanks for sharing.",
+      "likes": 26,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dron008",
+      "author_id": "UC-yryv213jOmV6HQMNHKKVA",
+      "text": "14:00 I hear robotic laughter on the background \"ha-ha, no exit!!\"",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Y_Æ_L",
+      "author_id": "UCLYJfc22OL8HGiVWpmIVF6g",
+      "text": "Thank for for developing this open content. Your broadcasting improvements are 💯 \nI’m sharing your content with LATAM. 👏",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fonzleberry",
+      "author_id": "UCbgDBczZ7ad2WlO89BL6qMA",
+      "text": "Thanks Wes. I've been looking at doing just this.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@enidpinxit",
+      "author_id": "UCxkXqFbRhT6nOCklm0P0ttQ",
+      "text": "amazing!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Wow, thank you!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "Kobyashu Maru moment in Flappy Bird. Heh heh.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@miblish5168",
+      "author_id": "UCYX_XAN6gVw6OcRRqDgN-yA",
+      "text": "Confusing at first, because the interface has changed, but getting the hang of it. Great explanations!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@realCleanK",
+      "author_id": "UCLrm6Wp1_L_oWH1piMRJK5w",
+      "text": "Appreciate u! 🙏",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "Wes, I wanna know how excited are you about the popularity of your private group, holy cow it's a life changer! 🙏",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bakeee",
+      "author_id": "UCPz86U3c_mJ6kqGaGBRs1uw",
+      "text": "looking forward to using this. i was messing around with crewai it occasionally worked for me, im not the best coder but this looks feasible for my intended uses",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@atulthakor4042",
+      "author_id": "UC6UjimiADIeHi2qd8ni_-iw",
+      "text": "Wes - really good product and explanation\n\n@All Keep an eye on your credit as I wasn't able to see a way of putting a cap on tokens / iterations.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RosserNFT",
+      "author_id": "UCW1QYt9HaY0j9ntbyRsWI_Q",
+      "text": "Ok I can use this for some simple websites.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mikaznavodya9300",
+      "author_id": "UC1UGT67U214xNhCY8I3T3HQ",
+      "text": "Thank you",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Danoman812",
+      "author_id": "UCPbKDiU7P_dvaDoDD2MNd_Q",
+      "text": "Woo!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@B_MoreJ",
+      "author_id": "UC0w-aZD0o3n1uwV7v7pGqCw",
+      "text": "Wait til AI unionizes.",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@secretagent5209",
+      "author_id": "UClcFInlBoWaLKcEOAYgN0tA",
+      "text": "Ok chatGPT, format my C drive",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@claudioagmfilho",
+      "author_id": "UCatDpujQIucCP_9hRZHMZyQ",
+      "text": "🇧🇷🇧🇷🇧🇷🇧🇷👏🏻, Thanks for sharing!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@appaesthetics1277",
+      "author_id": "UCfCR4qoNACG4gwIc9AGJqEA",
+      "text": "Quite a few other videos needed , can we get a combined vodeo please",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ai_serf",
+      "author_id": "UC91kY9aV9mfD1B4APp8A5_A",
+      "text": "uh.. your starting picture shows an entire software dev team, including a CEO.... where's your interactive CEO at 7 cents an hour?",
+      "likes": 28,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@naytron210",
+      "author_id": "UCUy5964vXlYy58fqYeoN2rQ",
+      "text": "\"He invented... everything.\" 🤣🤣",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@propeacemindfortress",
+      "author_id": "UCm0V5zj3LjRLu8CagUihFEg",
+      "text": "Conda in whatever flavor is not isolated, it is just a python environment of which you can have multiple for the purpose of maintaining neat little spaces with only those dependencies you need, vastly reducing potential version conflicts between libraries...\n\nIf docker is isolated is debatable and becomes kinda semantic, VM's are certainly isolated environments... but conda is not.",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SomeTechnicalDude",
+      "author_id": "UC8U3nIiJbhhkyGmny7OlOWw",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🆕 Microsoft quietly announced AutoGen, a framework enabling multi-agent AI conversations for complex tasks.\n00:14 🏆 Satya Nadella, Microsoft's CEO, is praised as one of the most effective tech CEOs currently.\n00:28 🤖 Multiple AI agents working together (like ChatGPT instances) can achieve better results and improved reasoning.\n01:09 🔥 AutoGen is described as one of the most exciting recent developments in AI.\n01:24 🏭 ChatDev demonstrated a visual representation of AI agents working as a software development agency.\n02:07 💰 Creating simple apps with ChatDev's AI agents cost between $0.04 and $0.08.\n02:21 🚀 Microsoft launched AutoGen surprisingly fast, breaking the usual pattern of big companies adopting emerging tech later.\n02:34 📜 AutoGen is released under a Creative Commons license, allowing commercial use and modifications.\n03:17 🌐 Microsoft is building an open-source UI for AI agents that integrates with cloud services like Azure.\n05:09 👨‍💻 A coding example shows AutoGen agents collaborating to install dependencies and generate visualizations.\n07:03 📉 Data visualization skills like Excel may become obsolete as AI handles such tasks effortlessly.\n15:31 📄 The AutoGen research paper outlines its multi-agent conversation framework and advantages.\n\nMade with HARPA AI",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OddlyHistorical-hb1yg",
+      "author_id": "UCKcMX9v4q38zWzmPP-gqpWQ",
+      "text": "For anyone getting an error about \"packaging\" when you try the command \"autogenstudio ui\", just do the following:\n\npip install packaging\n\nThen try the autogenstudio ui command again",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AmanBansil",
+      "author_id": "UCAiWtRINcLfZc6bBul-vk8w",
+      "text": "I had tried using Autogen earlier but got stuck where agents kept going back and forth. It may be user error. I'll use Autogen studio and see what I can get done with it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@novaomeg4",
+      "author_id": "UCJm6TjUdconPaWIVUHwuH0Q",
+      "text": "Isn't CrewAI a superior platform to use for multi-agent workflow?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elsavelaz",
+      "author_id": "UCPuyP6ZkKTkbGbrB158KNFA",
+      "text": "Can this be put in docker container to distribute to folks who won’t be able to do all this ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elsavelaz",
+      "author_id": "UCPuyP6ZkKTkbGbrB158KNFA",
+      "text": "Do you know if it lets you own your own data or how easy it is to do that? Right now I write to the VM or a dynamo db , to have the very valuable data under my possession because I iterate very quickly to deliver to the executives that I’m working for, but if this can easily do that, it’d be easy to tell them this is better than custom software built on top of the api’s",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jtmuzix",
+      "author_id": "UCfoO-p_MgEaMoQtf9ayU10A",
+      "text": "snot poker!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elsavelaz",
+      "author_id": "UCPuyP6ZkKTkbGbrB158KNFA",
+      "text": "FYI azure doesn’t let me do half the things the ChatGPT OpenAI api lets me do. I do integrated ai, so full stack front end , video, image, data ingestion , the full thing, is imo easier with ChatGPT 4o api and also makes the front end a few lines of code vs preserving state with code needed for azure because not all regions with azure offer everything and has lots of guardrails that are either yes or no- so either you let through all the poo or you can’t get stuff you need (like if you sell swimsuits, it’s lots of work to generate digital people\nShowing the products )",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NewsFreak42",
+      "author_id": "UCAGv1D8daP64hD0jK6qajmg",
+      "text": "well for simple games like tertris, flappy bird or game of life and other simple stuff, often showed as example , you only need to click on the copilotbutton in the edge-internetexplorer and ask for a python example. I tried it today and got a great tetris python code with no bugs, it has a preview area for the next tetris block to come and score/level display.\nI would like to see examples with real hard coding problems/bugfixes to see if a multiple agents system with LOCAL installed AIs can do more than the free AI in my webbrowser.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thewatersavior",
+      "author_id": "UC6zn6KUPGsK8hD8v_56LVkQ",
+      "text": "Only thing missing is using ai to generate the code for the workflows, skills, etc.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xmagcx1",
+      "author_id": "UCZJmTNO8gF0kIKSjvmEbHmA",
+      "text": "It is possible to export the source code to execute it in Python skill, model script,etc ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@edkanton",
+      "author_id": "UCpAKkwi1JP11K6zZpKUS0jg",
+      "text": "Now we need an agent to create agents 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kelvin3763",
+      "author_id": "UCzEpqIcdnQfrWYI4MZVAdNg",
+      "text": "What about using that a.i. voice for a dialogue in your video's. Let it ask questions about the info presented in the videos, as if it was a viewer like us. Or just as your a.i. companion thats curious and wants to learn. \nI'm not sure yet if the end result would be fun or ruin the video. Just an idea :)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GaryBernstein",
+      "author_id": "UCdltlUiayaQFMqnkufTz4ZA",
+      "text": "How’s it compare to CrewAI?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@112arun",
+      "author_id": "UCH6wnHXULGU2hPdqz0wExUQ",
+      "text": "I think the real value is in creating an agent team that achieve an outcome that takes multiple chat conversations with LLMs to get right. Perhaps this is just setting the stage, with more to come from Wes.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelbubnov3306",
+      "author_id": "UCVZX61_GnUUljgXckTK69Aw",
+      "text": "You missed a very important step - how to use it without OpenAI/Azure.\nThose are not available in every country.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rafaelramirez3470",
+      "author_id": "UCTsb0lBr2TGfrjDwUkxLfOw",
+      "text": "What do you think now of ChatDev? Is this more powerful?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@morespinach9832",
+      "author_id": "UCukSz5eO6SyHd6_xTCapHpQ",
+      "text": "Can I install and use this \"locally\"? With local LLMs? If so, no keys needed, yes?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bastabey2652",
+      "author_id": "UCSRX5IUvBhDlaaoUv_Yl2zQ",
+      "text": "Jurgen Schmidhuber is AI's daddy..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@simonrochester2559",
+      "author_id": "UC4EzDstIkYL1Pn2cUIYvceA",
+      "text": "The code generated for the tetris game had a bug in handling multiple line clearance and chatgpt can't fix it after several round of prompts. I had to fix it myself. \nthe buggy code:\ndef clear_lines(grid):\n    lines_cleared = 0\n    for i in range(len(grid) - 1, -1, -1):\n        if all(grid[i]):\n            del grid[i]\n            grid.insert(0, [0] * (SCREEN_WIDTH // BLOCK_SIZE))\n            lines_cleared += 1\n    return lines_cleared\nthe fix (chatGPT-4o failed to provide):\n   for i in range(len(grid)):\n\nalthough it is still very polite while incapable:\nYou're right. The `clear_lines` function should account for the possibility of multiple lines being cleared at once. Let's update the code to handle this correctly and also display the score on the screen.\n\nHere's the updated code:\n\n```python",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@georgegordian",
+      "author_id": "UCBIBm4j8-ez5NU9t-HG0JKA",
+      "text": "I assume there is an existing skill to create new skills.  There should be no real need to hand write simple Python like what was shown.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fastmamajama",
+      "author_id": "UC_QWoAgbT7DDAWU9oON-7xA",
+      "text": "i have an image set of UFOs that i am trying to compile using the haar gui. i can send them to you if you want to make a show about the topic. i have an opencv python script to capture ufos and it seems to work but i think my image set needs work.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paullopez_ai",
+      "author_id": "UCm0f6MaC5iSufhBvUqy5rDA",
+      "text": "Wes, shouldn’t the agent recognize that the python library is missing and then go ahead and install it and try again?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Finnious",
+      "author_id": "UCDj0-BGQwI7oIp29r29gBQQ",
+      "text": "Can we run on Google CoLab?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@macoson",
+      "author_id": "UCPaOoNzEvEiJjMssawugEOw",
+      "text": "The thumbnail for this video is misleading. The current version of Autogen is 0.2.27 not 2.0",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phily8020-u8x",
+      "author_id": "UCLzbrvKUHVcHMPwK-JfguZQ",
+      "text": "your installation uses totally different code from the main software site, which makes it very confusing",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@6lack5ushi",
+      "author_id": "UC85Yr-g3Q6VhDvDCUMJRWjw",
+      "text": "What do people use AutoGen and CrewAI seems fun but I cant think of anything I would rely on this for???",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thiagobalducci514",
+      "author_id": "UC_QUuXkML32l_dxIDrmeItQ",
+      "text": "HEEELP [Adding GPT-4o part of the video, 9min45s]\n\nWhen I try to add a new model, I put gpt-4o and my API Key, but it appears this error:\nError occurred while testing model: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Copa20777",
+      "author_id": "UCCvDzxLeA3uxXHeTyFSchXA",
+      "text": "We use windows, we not barbarians 😅 nice one",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phily8020-u8x",
+      "author_id": "UCLzbrvKUHVcHMPwK-JfguZQ",
+      "text": "\"you don't need to know code\" you are kidding right?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Flugnu",
+      "author_id": "UCs1nqGEflXA_ZLaaE1qPHpw",
+      "text": "Games are not made in python.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johannesdolch",
+      "author_id": "UCl-xOleWSj51j9kNyT3fybw",
+      "text": "Doesn't work for me, i get an error when i try 'autogenstudio ui' It throws up a module missing 'packaging' anybody else had that? (SOLVED: Module 'Packaging' was missing. Just downloaded it with PIP.)",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@liberty-matrix",
+      "author_id": "UCvtFEYUkvnNOQF8WizlGrAg",
+      "text": "\"Over the next 15 to 20 years humanoid robots will disrupt human labor throughout hundreds of Industries across every major sector of the global economy. The disruption of labor will be among the most profound transformations in human history.\" ~Tony Seba, 2024",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@strauss7151",
+      "author_id": "UCk06mL_eTqhPaokOnBQxeSA",
+      "text": "The installation process is still too complex.\n\nSomeone please make it into an easy no code online service and take my money.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wizards-themagicalconcert5048",
+      "author_id": "UCa2DuZOuTBAyJWhXKfFumTw",
+      "text": "Can we generate video or animate generated pictures?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robinvegas4367",
+      "author_id": "UCAW-QTzlCn59eZ7jsV90q4A",
+      "text": "There is no way in hell I will write code on a Mac. The nerve of some people.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Badg0r",
+      "author_id": "UCNYgP2dBKqS2WBR6iUNUm-A",
+      "text": "Why isn't there a simple installer with a user interface?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1x93cm",
+      "author_id": "UCS6uNJwkRn4TPWXQPC7_bhg",
+      "text": "creates a game with a no win scenario\nwhat a sarcastic bastard",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samlongman1831",
+      "author_id": "UCs4W633DPDbtinVMWd_Q50w",
+      "text": "Please can someone help me... I can't find an answer anywhere... I'm in the UK using android chatgpt 4o and have a premium account. I can't seem to real-timeme conversion or real-time visual input like in the recent demos.  Is this ability only available to some?  All I can do is voice input, and it reads back the response. This isn't the same as the demos. It's still really just a text conversion. Thank you in advance. It's driving me nuts trying to find an answer to this!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PantherDawg",
+      "author_id": "UC9pXufmagHK_YkwqdrSwJ0Q",
+      "text": "Are you being charged .14 or is that hypothetical? If so, is that billed to your ChatGPT subscription?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@autodidact7127",
+      "author_id": "UC4worpzDxKaINiaoB-_0JqQ",
+      "text": "These are not capable of keeping track of large applications yet. At best you get a single file. Please use these tools to improve your skills.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@carstenmaul7220",
+      "author_id": "UCrJRZgYKEO6-Xv1UQ28OQCQ",
+      "text": "So why is everybody installing conda when python -m venv is all you need?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lystic9392",
+      "author_id": "UCNwEWWXoqOMYUXpeXDeL7jA",
+      "text": "I want to use a structure like this to aid me in solving a problem. Not a coding problem but a complex problem in the world. Math isn't really involved. Would this sort of work for that, too? Or is it mostly useful for coding tasks/problems?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheExodusLost",
+      "author_id": "UCKoHM-CCpkY9T9BOVLqLYtw",
+      "text": "Can someone be real with me and explain some things they are building or doing with this or similar that is useful in your life, either as a product you sell or just as something you use?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlunderMunchkin",
+      "author_id": "UCTYWyJoushw-bVLBoiNKz6Q",
+      "text": "Tetris and Flappy Bird probably have thousands of implementations with source code online (and hence in the GPT's training data), so having the AI \"write\" those games is a bit disingenuous.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IbnShaalan",
+      "author_id": "UCLRen-FOIqPIBUHerpUqLJw",
+      "text": "is the girl voice ai generated?\nif so where can I find it",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hqcart1",
+      "author_id": "UCtfoThx6JxCNquvoBBJlEFw",
+      "text": "you did not demonstrate a real use case...\nit seems i can finish coding the game faster than setting this whole thing up using a single prompt to chatgpt...",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angrygreek1985",
+      "author_id": "UCyby-A13JJVMrmSsLAK-siA",
+      "text": "am I the only one who doesn't think this is very impressive?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adriaanb7371",
+      "author_id": "UChEPuaRDRte6CIbCPM8gWSQ",
+      "text": "it needs original tasks that it cant find online. You didnt even need to explain how the game works, guess why, because it already knows it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pfifo_fast",
+      "author_id": "UCksLA1v3DzM__3Tjyh0iw3A",
+      "text": "So the big problem I see here is that Tetris already exists, and Flappy Bird already exists. And another minor problem I see here is that your total sales figures for your tetris and flappy bird games is a total of ZERO dollars and ZERO cents.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DustInComp",
+      "author_id": "UCJPXN9iBsN0f3yES2_dX0gw",
+      "text": "Okay, it can do a tetris clone. Now get it to gerenate, rig and animate 3D models, add textures, write shaders, write a story, puzzles, cutscenes etc, and make it feel unique.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DigitalRenegadeStudios",
+      "author_id": "UCXt9c6rqVJIQQInapwgFD8A",
+      "text": "The tech is unusable at this stage. The Kobyashi Maru bug in the Flappy Bird game illustrates this.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ricolaaaaaaaaaaaaaaaaa",
+      "author_id": "UC0MkFyCxpuD1ynHiIHKNUkQ",
+      "text": "Just FYI lol. A lot of devs aren't on Mac. A lot of silicon valley devs are on Mac because they think it's a status symbol. Somehow inferior products are associated with a higher status solely due to the price. \n\nI don't get it either. Is what it is. \n\nI'm excited for AutoGen to be available to general users with voice.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheReferrer72",
+      "author_id": "UCB9L3Us3xgQV53b_K63jVBQ",
+      "text": "Another Youtuber that did not even try the prompt online before demonstrating the Agents.\n\nHint it works just as well and its free.",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@derekdipietro2588",
+      "author_id": "UC2hGCvroGACvJYH1nqeaLQw",
+      "text": "This is a big \"meh\" from me, a 10 year old with a python tutorial can make the same thing and better. Its cool, but its a tool and not automation really.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DonG-1949",
+      "author_id": "UCCNPow1wNt1rZp4m9mfZ4Eg",
+      "text": "idk about encouraging code-illiterate people to unquestioningly let bots run code we don't understand",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@themax2go",
+      "author_id": "UCrIgWLom1eP-HNkCkI-IySg",
+      "text": "1. don't need anaconda,  creating a virtual dev environment can be done much more easily\n2. if it doesn't run off local llm then not interested... this vid is sponsored by openai",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@georgeknerr",
+      "author_id": "UCPUceZ6Uvd6mmpb8XyCFImg",
+      "text": "Mantra?  \"Let the robots do the work.\"  No thanks, work a blessing.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beyondthebounce23",
+      "author_id": "UCNS1j7SByp823MqEzGvdt_Q",
+      "text": "all these one shot prompt crap are worthless.   Untill these agents can start talking back and worth with me about files on my computer what is hte point.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beyondthebounce23",
+      "author_id": "UCNS1j7SByp823MqEzGvdt_Q",
+      "text": "Your AI voice is not as good.  You can tell you are using that AI tool to generate your own voice.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VoodooD0g",
+      "author_id": "UCLhrtmX4wFdxWTLCxFSx5ZQ",
+      "text": "Coding small shit games is really not impressive (anymore).\nTherefor this is of zero interest to any reasonable programmer. What would be interesting is to see its understanding of larger projects with many objects and competent it is in helping in those kinds of environments.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fedorp4713",
+      "author_id": "UCts4lNmeQEeDZb9Psjhd5XQ",
+      "text": "This is cute but still completely useless. So far all the examples you've shown can be done with simple browser addons, free apps and games, much much better than the agents created and all free, no tokens. Dall-e images are also garbage compared to free stable diffusion. What are some practical use cases for this? Can you give an example of multiple agent actions for complex 10 step tasks? You know, useful things. Not just generating garbage code and images that can be easily generated on any stock site.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beyondthebounce23",
+      "author_id": "UCNS1j7SByp823MqEzGvdt_Q",
+      "text": "pointless video done by a bunch of other pointless channels.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

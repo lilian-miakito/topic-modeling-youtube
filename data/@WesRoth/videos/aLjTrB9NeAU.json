@@ -1,0 +1,504 @@
+{
+  "video_id": "aLjTrB9NeAU",
+  "title": "Google Deepmind RT 2 - Using LLMs to Build Thinking, Learning Robots",
+  "url": "https://www.youtube.com/watch?v=aLjTrB9NeAU",
+  "comment_count": 55,
+  "comments": [
+    {
+      "author": "@npmerrill",
+      "author_id": "UC8BlT-eSbvJPW2v_o5qsKYA",
+      "text": "Westworld faster than expected.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bernl178",
+      "author_id": "UCeTVwR9KI9KTxqmraO7P4gg",
+      "text": "Self coding, and then self learning revolutionary step right around the corner. The next five years are gonna be real interesting. We are already in the exponential curve, most people don’t know this. 10 years to two years to two weeks to a day in the blink of an eye.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheAero",
+      "author_id": "UCE6Q3MsE_sct7dApmuAszAg",
+      "text": "Google is making a comeback on AI and they gonna go hard.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BongShlong",
+      "author_id": "UCUHx0Pqgz0mPBEDoYgxN7fg",
+      "text": "Haha yeah either DragonBall Z Training chamber or the Skill programming in the matrix is pretty close to this. I haven't thought about DragonBall for a while, thanks for the nice memories Wes",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Matt-st1tt",
+      "author_id": "UCu_7NLTjRwh2H0-eNMUdubA",
+      "text": "I think at home robotics chamges alot when your robot can farm and cook a large portion of your caloric intake for anyone with access to enough area.",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dblr_photography",
+      "author_id": "UCMTw-1z6Y8Ggo4Qaolargkw",
+      "text": "Image recognition is now available in Bing chat, probably using GPT-4.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DrZhuBaJie",
+      "author_id": "UCnOgp-KRrpiXD40cZnZr1Ag",
+      "text": "A relevant step - learning is almost always superior to programming with explicit rules. But I do not think that the transformer architecture is the final word in AI. It still needs more abstraction (e.g. convolutions), planning (i.e. reinforcement learning), and reflection (it needs to think and create knowledge outside a question-answer frame).",
+      "likes": 22,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@The-Singularity-M87",
+      "author_id": "UCCdR-oRJ_w8iqSp_bmjAl1g",
+      "text": "I believe that robots need to have the ability to feel forces on their bodies externally and internally. Also they need to be aware of the parts of the body, meaning they have to know where all the parts of the body's are as compared to the other parts of the body and other things. There's a term for it, for example when some people lose a limb they can still feel like the limb is there they call it phantom Limb. Either which way if a robot cannot feel forces that may damage parts of the body. Then the parameters or equations that the robot would have to have and develop more would never exist and couldn't be applied to other aspects of reality or being.",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffspaulding43",
+      "author_id": "UCBsFngn7_jBbN2ORqbZygoA",
+      "text": "Exciting times 😁😯😲😳😭😵‍💫",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisf1600",
+      "author_id": "UCDwqtvpm665V-2N5mtwrtiQ",
+      "text": "Interesting stuff. It makes me wonder how many LLMs we'll actually need. I mean, once you have a good general-purpose AGI, then you can simply copy it and plug it into whatever problem domain you're interested in, the same way a reasonably smart human can be quickly retrained to do a different job. I'm sure that some companies will still be focussed on developing smarter and smarter AGIs, but beyond a certain point I imagine there are diminishing returns. After all, you don't need an Einstein-level intelligence to clean the toilet.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kingothesea1",
+      "author_id": "UCXbMkoNIn5q8nxAsVUpEiKQ",
+      "text": "As far as the physical movement dilemma I saw a comment talking about how we humans don't understand a large component of how we move our own bodies, our brains allow our bodies to maneuver ourselves without our conscious thought having to be concerned with it.    When I move my arm I'm not really thinking about how I'm doing it, I just do it.    We need separate controllers for the fingers, hands, wrists...etc all the way up until you get to the conscious LLM that controls the entirety of the robot.     Delegate out the movements.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrSuperPatar",
+      "author_id": "UCmc1kVVxmKBgf6cXYqkqPRw",
+      "text": "Best youtuber ever. Please keep educating 🤓",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bugstomper4670",
+      "author_id": "UC8f3zcDPoWiZzDBzjStImtw",
+      "text": "Our Robot Overlords! 😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angrymurloc7626",
+      "author_id": "UCz0I4S1O4lLCf2dbf6zi21Q",
+      "text": "So your take is that google aims to build the first \"operating system\" of robotics?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGhostOfKarazhan",
+      "author_id": "UCp_yyH5luBNfnp9_WFxHImg",
+      "text": "Super channel 👍",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JazevoAudiosurf",
+      "author_id": "UCD3hrGlh6n-wNdxM0j6BhSA",
+      "text": "LLMs in this case just replace the static code that would otherwise be necessary (Tesla FSD)",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gargamelandrudmila8078",
+      "author_id": "UC31JcJAZnkxW4D1dS8JsY6g",
+      "text": "Well they do not 'think' they are statistical information processing machines that dream about the data they are given and predict what happens next when that data stream stops. It then has to dreams about what happens next. Or what words/data come next.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pq2667",
+      "author_id": "UCmBD1lamIpPfUztn_MTyq9w",
+      "text": "Wes, your hypothesis re the robot model coincides with Mo Gawdat’s comments (and he probably knows :)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tablab165",
+      "author_id": "UCliPGlyA1g74T7GCYyBlu3w",
+      "text": "DBZ was the most ironic anime to present a device to speed anything up!  #willexplodein5minutes",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chuckandmax7313",
+      "author_id": "UC1qr1MmAUPJY-Fd_77TC4-g",
+      "text": "That was a really well presented case study, and very believable. I’m sure that if google could get all the robots in the world connected to robotics a a service (RaaS) it will certainly do just that, why build the bodies that will constantly be needing to be upgraded when you can provide the brains. I’m sure that Elon will corner the robot market with his brand and just like iPhones every year a new model will come out with more features constantly causing consumers to purchase. It has worked well for Apple they have sold me every years model of the iPad while doing next to nothing on improving its operating system .",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erikals",
+      "author_id": "UCB0dUjmY2EFNfM2TgdqWHvQ",
+      "text": "17:30 it's really cool, i had this same idea just a few days ago. i won't write it here, too long, but make a system that can always, realtime-balance a biped robot (2) quadruped robot (4) or spider robot (8) is extremely advanced once you punch in all variables.\n\nthis is the way.0 it's really cool, i had this same idea just a few days ago. i won't write it here, too long, but make a system that can always, realtime-",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@2CSST2",
+      "author_id": "UCl4oMDM53WudD7pgJ48P5_w",
+      "text": "This new approach of VLA shown here is most definitely a big breakthrough, you glossed quickly over the fact that it can transfer concepts from different situations to new situations, but I think is an extremely important new emergent capability. This is known to be one of the big reasons why the human brain is so flexible/general, or rather intelligent and adaptable. \r\n\r\nYou don't need to learn everything from the start when entering a new kitchen, you have a general concept of what a kitchen is and hence immediately know where and how to use the stove, etc. But this is not only useful for analogous situation, but even new situations or intellectual obstacles can be adapted to much more quickly, as you recycle concepts already learned to combine them or mold them to fit to new situations. \n\nFor example learning a new language, although difficult, is made way easier by the parallels you can make with your own language and its mechanics. You can quickly absorb what \"fleur\" in French means by just knowing it translates to \"flower\". You also already know the concept of plural, verbs that refer to past, present, future. Even though the mechanics are different in French, they're similar and so it's miles easier than if you knew no language at all, say you were deaf, and had to learn French. \n\nSo now for an AI model to speak different languages it has to be trained with lots of data of all those languages. But imagine if you could just feed it a dictionary and a few books about verbs and so on about a new language, and that model could learn it by itself like we do, except of course millions of times faster. And we're just talking about language as an example, but imagine if the same can be done by giving it books about physics, engineering, etc. This is sort of what LLMs already do, but very slowly and rigidly in a roundabout way through word patterns. Models could learn MUCH more quickly, generally, and flexibly if they could have that concepts transferring ability, this would be another big step towards general intelligence. \n\nI'm rambling on, I know VLA is just for robots to learn handling motions, but I would claim bringing this technique to any concept in general might be the next big leap forward. This could be the next big change in structure after Transformer, and crazy things would happen once you scale that up to huge new compute like it did for GPT-4 with the Transformer model.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pyotrgrowpotkin",
+      "author_id": "UCV5dBbKn9BrWamlBvwk1RDQ",
+      "text": "So when will we have the first jailbroken robot turned into a murderbot?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kerrsartisticgifts",
+      "author_id": "UC7rgKS55TzZDpF_dutDmVZQ",
+      "text": "Are you describing set theory when you're describing the robots tokens and strings? I took set theory in high school as part of one of my courses",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matazmataz2493",
+      "author_id": "UCJSS9YuQ_nqqE3dsz2wq1Uw",
+      "text": "A cool robot ai should be able to learn automatically how to control any embodiment. It could also learn behaviors from youtube.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JazevoAudiosurf",
+      "author_id": "UCD3hrGlh6n-wNdxM0j6BhSA",
+      "text": "but this isnt new, they made a paper called \"Towards A Unified Agent with Foundation Models\" that describes the same",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jay-Dub-Ay",
+      "author_id": "UCPIq_nNq1UK9xeLxkMx6KJg",
+      "text": "So if we build it [our own mechatronic robots], they [google deepmind] will come?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "What's interesting to me is that all of these developments don't seem like great leaps or breakthroughs... They all seem to logically flow from what we already know. The really interesting jumps will come from (hopefully) Gemini and GPT-5 plus others at the next 10x scale up... When new emergent abilities become apparent.",
+      "likes": 22,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dizzydazzel",
+      "author_id": "UCSJ8MHf1zmVf6sKvvhaCqxg",
+      "text": "It looks to me like we have a winner in the race for autonomous domestic droids. I hope the finish line is soon & UBI will shortly follow so everybody can get creative in creating their own careers & business models.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chenwilliam5176",
+      "author_id": "UCvHPPnJ1J-q76eE8AJvYv-w",
+      "text": "How many years is needed to developed a homanoid robot which is able to drive a car or cook for \nit's master ? 😮\n100 years ? 😮",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jbon123",
+      "author_id": "UCbP-KO0Kumm3iQF_XJucMAA",
+      "text": "Dude, u räwk!! Consider me subscribed. Cheers!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shaunmcdonogh-shaunsurfing",
+      "author_id": "UC2JZuYVZF4ejbDWS_R-FoPg",
+      "text": "5 years",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chenwilliam5176",
+      "author_id": "UCvHPPnJ1J-q76eE8AJvYv-w",
+      "text": "Think ? How ? 😮",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "I'll wait for my Google Assistant to be even remotely useful before getting my hopes up, judging by how hopeless Bard is.. might be a while 😁",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prtauvers",
+      "author_id": "UCQM4W0QtzXxnc6PuT3aBexA",
+      "text": "So Google’s transportable VLA will be like Windows for PCs…that monopoly has unforeseen consequences…like Windows9.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnBoen",
+      "author_id": "UC2YaKfDN7mNtagrCS5NPdxA",
+      "text": "Given Tesla has a fleet of millions of robots, it might have been a better example.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "I would get one as soon as I could afford a locally run version. I would be extremely uncomfortable being around a terminator remotely controlled by the \"forget about do no evil\" corporation...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBestNameEverMade",
+      "author_id": "UCzhwVi4mCijwNthLHYYeZIA",
+      "text": "I think you are wrong about Googles mote with the bots.  Most of the training google does with the bots is virtual.  Having more hardware will help with accuracy but simulation will be able do hundreds of millions of years in weeks.\n\n Sure real word helps but simulation and training are both improving and getting cheaper in price.  In 5 years it will be far cheaper for a company to reproduce what Google is doing.\n\nThey will also be able to use billions of video of humans and reproject that into a robot.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@enermaxstephens1051",
+      "author_id": "UC-lD-l1J8VMohtPIBfxXr_g",
+      "text": "Google has been working on robots for a very long time now, and they still have yet to sell a product. They probably just need to stick to what they're good at, which is web search. You can tell they're not good at branching out cause the pixel pales in comparison to the samsung phones.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gargamelandrudmila8078",
+      "author_id": "UC31JcJAZnkxW4D1dS8JsY6g",
+      "text": "After listening to you it is even clearer why Tesla will role out its VLM for Full Self Driving and it Tesla bots by the end of 2024. \nIt can build out its VLM using the @300 million miles worth and growing of video data and test driving data.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@demej00",
+      "author_id": "UCEMC4syJ8HSwIvVqV-GIYDg",
+      "text": "I will sell my 3 TSLA stocks to anyone today at 2030 buy price. Any takers?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "They should remake The Terminator with a script written by AI to illustrate how creative, cunning and powerful an AI driven robot could be in executing it's mission. Terrifying.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@onetruekeeper",
+      "author_id": "UCX2vMY4XSr3AGYtDFSz-q1Q",
+      "text": "That is absurd. Machines don't have consciousness so therfore they do not \"think\" .",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@louielouie9502",
+      "author_id": "UCHJEwnvOlUfPSCfVq4FeRDw",
+      "text": "These robots need synthetic replication of a humanoid body. Give it the opportunity to sort out how to balance itself. We should be able to fast forward the process  between crawling to running a far shorter time it would take a human.\nIn time they should be able to share\nSynthetic muscular memory  in the form of a standard synthetic Neuro pathway for all models afterwards.\nI'd say we are about 3 years before the synthetic bodies for ai start becoming the norm.\nDon't be surprised if ecto labs become the first to produce synthetic bodies for ai publicly\n\nI would imagine car companies start branching out into synthetic\nAI organisms.\n\nThis is the only way we are going to get around the problems we face getting these clunky crappy looking robots to function as they should.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yourlogicalnightmare1014",
+      "author_id": "UC1af8RpS6DLk0e9ce618d0g",
+      "text": "The only AI that matters is the one that can double my investment every month.  Until then, I don't GAF",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alanward9268",
+      "author_id": "UCZgr8FpmS3iRSctFAuz1R9g",
+      "text": "From meaning is there a story mind.pick up Apple command for master Alan\nOne two story two master Alan llikes  apples apples being fruit master Alan may like fruit.story simple mind.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prolamer7",
+      "author_id": "UC-v4_ACijlKUjrLxK0WSH2g",
+      "text": "I dont want robotic buttler...",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SimplyElectronicsOfficial",
+      "author_id": "UCiLgdNKZCiod7k5nsrUkOJA",
+      "text": "While this is awesome! What Tesla is doing with Optimus is miles ahead due to their FSD platform.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SRQRay",
+      "author_id": "UCHGmDowX_-Smb0_8O39wcXQ",
+      "text": "Im sure some of us are thinking “is he going to mention the obvious top function of an AI robot?”.Do you think Googles Visual AI will be better than Teslas Visual AI model?  Has to be mass production for the hardware cost to be cheap. Nice job!",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rogerrabbito4517",
+      "author_id": "UC3KxPUe7kues9T-87TktWzA",
+      "text": "No, they don't - They access information and are soulless. They have perfect memory, we? do not. - Of course they seem to think, but it ISN'T so. - Period. - Not yet, anyhow, perhaps eventually. MAYBE. \nThey are, however, VERY dangerous, we are messing around with something we shouldn't be. - No wonder GOD cleansed the world once... perhaps it won't be long till he does it properly?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OnigoroshiZero",
+      "author_id": "UCNeLSSyWalDcLQQXVB5uWjg",
+      "text": "I don't think anyone will be even close to Tesla when it comes to humanoid robots working in the real world (because of both the hardware and AI). And they will be by far the cheapest.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phpn99",
+      "author_id": "UCnyKBncSnb3uk1KwOpMrKjg",
+      "text": "What does \"think\" mean ? You are are quick to jump the gun. Analytical reasoning can be made by a machine, but only on demand. Machines have no need to think and that makes us special is this built-in need, that is tied to our survival. Without the need there is no intent and without intent there is no self. Self-less and needless machines are not \"thinking\" in the ways living things are thiking or digesting ; they are passive contraptions, no matter how sophisticated the clockworks.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@snjsilvan",
+      "author_id": "UC2eWxZrmmxwoN9yH_L4RuaA",
+      "text": "Why would Elon make a robot that looks evil?  It's like the example of the rock.  Not too smart.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@flickwtchr",
+      "author_id": "UC4X8W1tI8hy23xC_3M4U5Ag",
+      "text": "Imagine future hackers, finding a way to \"jailbreak\" such LLMs embedded into robots servicing wealthy people, which are the only people who will have them.  Doesn't take much imagination to see how this could turn out.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@flickwtchr",
+      "author_id": "UC4X8W1tI8hy23xC_3M4U5Ag",
+      "text": "I honestly think that a lot of what is driving AI technology by Big Tech in particular, is the race to have in place technology that will protect the 1% from everyone else, who will be suffering massive job losses and the civil strife that will unleash. Also necessary, is to have a fascist government in place in the US that will allow the 1% the legal means for which to do whatever is necessary to protect their ilk.  The self-chosen ones need to prepare for even more chaos as climate change wreaks havoc. \n\nMassive change, yeah, we are going to witness massive change.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,2925 @@
+{
+  "video_id": "-adVGpY_vSQ",
+  "title": "OpenAI just solved math",
+  "url": "https://www.youtube.com/watch?v=-adVGpY_vSQ",
+  "comment_count": 324,
+  "comments": [
+    {
+      "author": "@KosmoKnot7",
+      "author_id": "UCIRy6OcazAi4sHlLvs9qbUg",
+      "text": "The next S-Curve is quality of automated self-improvement.",
+      "likes": 66,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patruff",
+      "author_id": "UCkCehM7kj5tZLrrUN5T7T6w",
+      "text": "AI last year: \"There are 3 Rs in strawberry\"\nAI this year: \"I just solved math bro\"",
+      "likes": 217,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@simonmurray-girard6209",
+      "author_id": "UCglG922BO1jU6C4XcvnSthg",
+      "text": "Neuro plasticity is the next massive gain, when a model can learn and improve its own weights I think.",
+      "likes": 64,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-jf9rz6pp5l",
+      "author_id": "UCEuT_xLAW-l3-rghSc8yiow",
+      "text": "I'm not sure how excited we should be about this—last year, OpenAI introduced o3-preview, which almost \"solved\" competitive coding, but it didn't hold up as well with real-world coding tasks.",
+      "likes": 42,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nightfallとばり",
+      "author_id": "UCFSntJp9gtVMqWgH8nES3tQ",
+      "text": "Can't imagine what all of these models will look like in 2-3 years from now...",
+      "likes": 96,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AAjax",
+      "author_id": "UC3ezC_odIWo7lRY_25aau_Q",
+      "text": "the lack of caps is largely a texting culture thing, or in my case, a unix admin thing.",
+      "likes": 4,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@redleader7988",
+      "author_id": "UC5GZBwafcngyiYYqgxq9EOw",
+      "text": "Holy cow.  This is a diffusion model.  That's exactly what it is.  I've seen this exact language style in diffusion language models before.  I called it here first.",
+      "likes": 61,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zzzaaayyynnn",
+      "author_id": "UCkTe5Nju1RrF9z9qh_Z9koQ",
+      "text": "This isn't about math. It’s about who or what can think and how fast that power is evolving. “Many details hard. Fudge possible. Need handle cases. Done.”",
+      "likes": 22,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@enidpinxit",
+      "author_id": "UCxkXqFbRhT6nOCklm0P0ttQ",
+      "text": "what a fun time to be watching all of this unfold",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DiscoBarrage",
+      "author_id": "UCh_GQQgZp8J1uU37wrC42QA",
+      "text": "I don't know if it'll be the \"next\" S curve, but the lack of continuous learning has to be one of the fundamental things holding LLMs back as they're currently constructed. If there can be a fix to address \"catastrophic forgetting\" that'll be a game changer improvement.",
+      "likes": 7,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dm204375",
+      "author_id": "UCrHJ-KztF0iM-hRijmB5xew",
+      "text": "Just a guess off the top of my head, the odd way its speaking might be due to how the researchers limited its vocab to only the logprobs with the strongest signal.  This reduces ambiguity and reduces compute overhead.  The internal verification system would also have an easier time of gauging how \"sure\" the model is of its own reasoning traces.",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willinJP",
+      "author_id": "UCENWpZdr7e4-A9JV_IBPmSg",
+      "text": "Gold level at the IMO makes this title almost not click bait. Congrats OpenAI! Great video Wes!",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eskelCz",
+      "author_id": "UC8NO7AQxpTcSoul4k37Ia7Q",
+      "text": "The brevity is in CoT, where the model conserves tokens used, talking to itself",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daleamon2547",
+      "author_id": "UCs8t5NuuxH4cdRb8Fu8OzlA",
+      "text": "When I'm problem solving my notes have always been like that.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DrCasey",
+      "author_id": "UCjO0KkxOJ1kl_OlmJ4UzvEg",
+      "text": "So a raw LLM is able to ace the IMO. Math historically being the weakest points of LLMs. Unless I'm missing something, that means almost every benchmark should fall almost instantly during the next few months.",
+      "likes": 45,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@karlbooklover",
+      "author_id": "UCNpTre_cnLWxrGynzMa4OEA",
+      "text": "Kimis way of speaking is completely alien as well if you use it for research, very concise and technical answers",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@laurynastruskauskas6586",
+      "author_id": "UCKDJppPiU9IFiv3pBVyKTNg",
+      "text": "16:02 that is the previous years histogram. This year 35 is the cutoff for gold. This feat is very impressive, it is only sad that this years imo problems were distributed at very weird difficulty levels, so 1-5 were not too hard and p6 was very difficult, this means many people got 35points, also a lot messed up some small details and got 33-34 and even with the cutoff being 35 it is too low by a significant amount, however it was made so because if it were to be 36 or higher, too little people would have gotten gold. This is at the bottom of gold/top of silver level, but that is still mad impressive, especially for an LLM.",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronNicholsonAI",
+      "author_id": "UCtvEwq-taQ9jGirxwASJLOw",
+      "text": "For “brevity”, you are looking for “parsimony”.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pedxing",
+      "author_id": "UCxHTVzTRsZ13w6im-7M9wgA",
+      "text": "we gotta get this thing to run a lemonade stand.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kikilang60",
+      "author_id": "UCaA-WWcxeNdq1VqRTbrFo5A",
+      "text": "I'm more impressed it can explain a joke it's never heard before.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@niveketihw1897",
+      "author_id": "UCssQWJezt1dDgXryuc5OVNg",
+      "text": "One thing to realize is just how much inference compute this was given. It got an incredible amount. Way more than \"subscribers\" will have for years. They are starved for compute.",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RAC91",
+      "author_id": "UCJTITsoWsuLGZWkVnEkKpeA",
+      "text": "The math model is exactly how savant persons communicate very fitting for a math gold Olympian",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josephvictory9536",
+      "author_id": "UCVMLb-CqD_yJIOZQVgLl3qw",
+      "text": "Oh i see, so when they release this model, they will just add one extra step of making things sensible linguistically.\n\nThat is an amazingly good idea. less tokens for work, preserving context, and leaving the simplest task to the end when context is just the output tokens. That is a LOT of savings.",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LastWordSword",
+      "author_id": "UCedJkT2gZUPIM949Pzyt_Sg",
+      "text": "1:34 That's very much closer to Virtuoso AGI than Virtuoso ANI, because Math was one of the biggest challenges for LLM! There's other hard problems, such as (Descriptive) Geometry, Spatial Reasoning, and a few others, but this is a huge step forward. Given any ability in Algebra as a form of Descriptive Geometry, spatial reasoning becomes a distinct possibility.\nIt gets *really* wild after that!",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aGoshawk",
+      "author_id": "UCDulLLLObAAKSIltulvwPKQ",
+      "text": "Cant wait to use this for my theory.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@somerandomdragon4655",
+      "author_id": "UCrNoIDFs-3alnp3U08t0Wgw",
+      "text": "i already exclude unneeded punctuation like periods at the end of sentences that dont have anything after them and i only use capitals when autocorrect does it. a period signifies that a sentence has ended, but i can also signify that by not typing anymore",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kyatt_",
+      "author_id": "UCo95UjE8jkksynRay0nyNxw",
+      "text": "Next S-curve might be energy-based transformers, look into that Wes :)",
+      "likes": 10,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@volkerengels5298",
+      "author_id": "UCCQrtt9LLc1oThJoPhA3o2g",
+      "text": "Fantastic perspective for military usage...",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiiukyllonen6871",
+      "author_id": "UCd2NPTYtke6BNrZMZ15xDYQ",
+      "text": "lack of caps could be partly cultural, partly a subtle way of broadcasting “didnt use an LLM for writing this”. 😅",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@たぬき-h4j",
+      "author_id": "UCdzfJQRhdbnR4cdAqnmervQ",
+      "text": "\"Looks like Cell's finally become his perfect form!\"\n\nGoku's dialogue.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreasmoyseos5980",
+      "author_id": "UCx0Qk8uXzSGAJde71XH-ZCw",
+      "text": "Thank you for dropping the capitalization on the title of this video.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidantill6949",
+      "author_id": "UCdpUEMoP3a774Mfc716S_Sw",
+      "text": "Very good explanations. Thanks",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ultrasaiyan4283",
+      "author_id": "UChiLd9EHNbmDmR8iYYiyAEA",
+      "text": "Just throw this at Riemann hypothesis.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RedCalx34B",
+      "author_id": "UC_1flbXV4de257blI710zMQ",
+      "text": "this is the Sputnik moment",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@z0rch",
+      "author_id": "UCvvGev5rbmnn5PGtV7uwlTg",
+      "text": "Doing advanced math but still can't tie it's own shoes. I can relate.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianmatic6490",
+      "author_id": "UCZPUfoLi4hIhahTlHv-5wHA",
+      "text": "Brevity hence “if I had more time, I would’ve written [you] a shorter letter”",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ernesto8738",
+      "author_id": "UC--OLWoPEUnAN0ZrVWCRC3w",
+      "text": "5's style is literally just Mordin Solus",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ListenGrasshopper",
+      "author_id": "UCF9Uc3-S9h2xH9vDKifNZTw",
+      "text": "Emad's been working on his world model coming since he left Stable Diffusion almost 2 years ago.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrAmad3us",
+      "author_id": "UCwWNDgvHGpqKrYFsmA_xQQQ",
+      "text": "By this time next year, chatbots will stop talking to us",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@heruilin4404",
+      "author_id": "UClUnHpPQJfPhKfKjYdVaXYQ",
+      "text": "Would like to see this models results against Epoch AI Frontier Math problems.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phpn99",
+      "author_id": "UCnyKBncSnb3uk1KwOpMrKjg",
+      "text": "\"OpenAI just solved math\"... dude, tone down the hyperbole",
+      "likes": 294,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Aiagent2027",
+      "author_id": "UCuw4ctUCbSWy-OeyTjxQQDw",
+      "text": "The only channel that gives us commentary plus real insights 👏 Wes is the 🐐",
+      "likes": 22,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NxhFam",
+      "author_id": "UClOhWpgDxCQZURM_jJepR1A",
+      "text": "The next frontier once RL is solved will be consistent alignment without the need for a \"guardrail\" type model, but it could also be actual memory, not \"bullet point\" based memorization. At this point models remember things about you or your usage based on specific points.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RangeWilson",
+      "author_id": "UCgezgeDybGJSm9FQ__zKKAA",
+      "text": "Brevity is far more difficult and impressive than verbosity. The first step in improving any essay is to remove half the words. The second step is to remove half of the remaining words.",
+      "likes": 26,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheRsmits",
+      "author_id": "UCOIOJEOjPLe3BlWYH7PZrQA",
+      "text": "It’s a high school competition.",
+      "likes": 4,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jack-fw7wd",
+      "author_id": "UCbveYY9MHev9qbsy_e5rT5A",
+      "text": "Wes has apparently never heard of Gödel's incompleteness theorem",
+      "likes": 6,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KazikPogoda",
+      "author_id": "UCLWGRPqrPBS7CDuaPxODmRQ",
+      "text": "How did you take notes when you were studying? My notes for algebra, calculus and philosophy looked very similar to what this model is producing as a monologue.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dinogodor7210",
+      "author_id": "UC0pT8LvvEj2Gvc4lfhZ9tlg",
+      "text": "Ignoring capitalization has roots that are from the bright days of my youth when the idea was to throw away stuff that doesn't actually matter. Maybe the ideas that formed \"rational\" movements. Though after becoming a movement all good ideas tend to somehow disintegrate.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@masonstove",
+      "author_id": "UCwagRE-dTWkB8UFXb66F4mA",
+      "text": "Look at the paper \"Training Large Language Models to Reason in a\nContinuous Latent Space\" from FAIR.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@whatanerd7628",
+      "author_id": "UCFqfvuXVUkzBIhjj-wdqesg",
+      "text": "omg...  thats not a language model as we know it.. Thats a logic model...\nKOOL..",
+      "likes": 20,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShaDoWworldshadow",
+      "author_id": "UCsbCBugodrOR1OpTc3BqIqA",
+      "text": "I wonder when anyone will give any thoughts to retention.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@niveketihw1897",
+      "author_id": "UCssQWJezt1dDgXryuc5OVNg",
+      "text": "It talks like the Zerg hive scientist from Starcraft 2. Abathur. Look up Abathur all dialogue.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jp4815",
+      "author_id": "UC2_6oztnsUwrTZKfp_FzC_A",
+      "text": "OpenAI rocks👍",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abadidibadou5476",
+      "author_id": "UCmOxUwpVTGwxCGd_zEnc5Xw",
+      "text": "I am still waiting for  AI start coming with its novel discoveries and inventions",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@artembaguinski9946",
+      "author_id": "UCLDCA3tydzLKEqDCGbELgUQ",
+      "text": "The race is on: which will come out first: GPT-6, GTA-6 or GOT-6? Will OpenAI, Rockstart and/or George RR Martin deem the world ready for the next installment in 2026?",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apdurden",
+      "author_id": "UC4HA_OgaCF9d_sbXDr3zt3Q",
+      "text": "Been saying this for a while, but Sam and OpenAI already have AGI/ASI internally.  They're just drip feeding the public",
+      "likes": 34,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexandermoody1946",
+      "author_id": "UC58tEdcmDmhJnW1S0-N_rAA",
+      "text": "When you know what the distinction between words in capitals are for then it will be seen as silly to not appreciate the use of capitals.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianBetron",
+      "author_id": "UC3UpPkwbDuZ2teSRsV-PFTA",
+      "text": "Nice job",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NeurusAGi",
+      "author_id": "UCgU5inRPSlpUiRFAY0mrl3w",
+      "text": "Setting up the launch platform now for Quantum powered NeurusAGi agent. So close for the world to see",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ken-he5cx",
+      "author_id": "UCjip9q5BQd2bOOx6cbgVIrA",
+      "text": "Thanks",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@disciple786",
+      "author_id": "UCxP6rl-zhrpYPLIjF9AjGJQ",
+      "text": "I keep thinking Wes is doing the Wu-Tang symbol in the thumbnails",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardkuhne5054",
+      "author_id": "UCJTHs65FBs06joev-mjv7jg",
+      "text": "Talking about breviary: For Problem 1 - internet complaints: solution is ~10x longer than a human expert’s would be.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@evynt9512",
+      "author_id": "UCD-EJBncqrZuAwMuujizL6w",
+      "text": "Next thing is Web 3 as an agent extension environment of hybrid autonomous DAOs.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CompletedReview",
+      "author_id": "UCu9ED_Ki0DQj39HlRbAjgcA",
+      "text": "how long until we see it out in the world doing things?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nothing-jl2dz",
+      "author_id": "UCd50tDwUXBdkWbDmbu7KT1Q",
+      "text": "beautiful!",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "THE FINAL AGI MILESTONE!! 😂 Gray Marcus 💘 that's hilarious.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dennisberg2474",
+      "author_id": "UC5As4pTgYl32GRchrcohtig",
+      "text": "Humanity future with AI isn't the terminator,  it's Wall-E",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StephenDatahead-r2k",
+      "author_id": "UCDn0aWX_yxarKgZBU19z35w",
+      "text": "How do you know that buried in the training data, there aren’t the solutions to the questions",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dina_tankar_mina_ord",
+      "author_id": "UCMI-fN1eIk9tsoBwl2gEMvg",
+      "text": "Many months could be next year too. But I´m more interested in gpt 5 and if its any good.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dgeorgaras4444",
+      "author_id": "UC3ZKgrxb2ZniZI0-27DpkmA",
+      "text": "Double plus good vid.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marksoares1",
+      "author_id": "UCKmw1zWTn2SgmO7kz_RPqrg",
+      "text": "15:45 \"in our evaluation\"",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShortCrypticTales",
+      "author_id": "UCDhy_0Vf_LX_4omi_jJnzvw",
+      "text": "he said slightly below a \"Top\" human, so I am assuming it is far above an \"average\" human",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IAmPrompted",
+      "author_id": "UCKqF-QF6wwxsDimaOh2YABA",
+      "text": "This shift into autonomous agents is moving fast. Love how you cut through the noise and actually break it down. Way too many people are missing what’s really happening here.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eztheriumz9799",
+      "author_id": "UCknwaDnkbCHFLAB1IjG87jw",
+      "text": "Damn Wes your AI avatar is getting better and better. Can't even tell it ain't you man.😅",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spring9603",
+      "author_id": "UCHiyXsH_xQj7XlcIw5mUZMw",
+      "text": "Next big thing might be sensory input and mapping real world data to internal concepts.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YogonKalisto",
+      "author_id": "UC1evn2k1buZBFdJL58lbX6w",
+      "text": "so for context framing, use brevity\nfor analytic exploration, verbosely go ham (re math/word etc, ie whatever language pie tastes gud)\nthen reframe, with brevity",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spiralking-daringlybold6862",
+      "author_id": "UCK7F-nR0XcpXYOW8O8K2aPA",
+      "text": "Looks ike we are making some really good progress",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@utopin-xt4qt",
+      "author_id": "UCNuYSociUp_kVteNqYg37yQ",
+      "text": "this is massive",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@exclusive_148",
+      "author_id": "UCLxG_uHmFncFSEbKoiTJaTg",
+      "text": "when is there predicted to be a wall that may last a fee years before an improvement is made? i mean there has to be a wall - this year we had o3, things like alphaEvolve, grok4, gptAgent, and prob gpt5... Thats crazy improvement in such a small timeframe",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@craigington73",
+      "author_id": "UCr07-va_n7Dpba4vNZbt9FA",
+      "text": "Next step : Acing humanities last exam by year's end!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ronald3836",
+      "author_id": "UCOoRxHQ14pnseemp2RmXILw",
+      "text": "o3 messed up on problem 1 but figured out the details when I gave it a solution strategy. It quite nicely solved problem 4. I think it also solved problem 2, but I did not check the details of its solution. I first want to solve problems 3,5,6 myself before I ask o3.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adamsdad7264",
+      "author_id": "UCat-SHWaU0J4Z9HSp9Pb-Iw",
+      "text": "4th S-curve could be tool use.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rey82rey82",
+      "author_id": "UC9dd8SLko13PRyBcEJ4ISDQ",
+      "text": "Physics next to be solved",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@-iIIiiiiiIiiiiIIIiiIi-",
+      "author_id": "UCu4lsCabzz0oLV_wd-qOQ4A",
+      "text": "6:12 You mean....like The CHANI Project?",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jay_13875",
+      "author_id": "UCvxCT9Kxpc6-P1MroHIIoaw",
+      "text": "The IMO is not a general math competition but specifically targeted at pre-college students under the age of 20. That isn't to say that the problems are necessarily easy, but they don't require any advanced math to solve them (not even calculus).",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vectrocomputers",
+      "author_id": "UCDMzX_xmiFNQ3idfLQ62Srg",
+      "text": "Good think OpenAI is our mommy and daddy to decide for us what we're not ready for 😂",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lovepeople951",
+      "author_id": "UCkdJ16ks8sIY4ZAZ_vTNCUw",
+      "text": "Yes sir.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Duckswam",
+      "author_id": "UC1TizOHTqVZtL0oZqx_ae9g",
+      "text": "Next: (I just made this up) Realtime Self Uptraining - recursive real time training by tapping into a continuous flow of new \"real world\" and generative data.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@visuallabstudio1940",
+      "author_id": "UCj_rXB185a0ygBi7f3Ey_cw",
+      "text": "\"It came to me. My own. My love. My own. My precious!\" Gollum style from The Lord of the Rings series.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@katsup_07",
+      "author_id": "UCUsaw03a_cSbH2EC22DTATA",
+      "text": "The method an AI uses to solve a problem is what really matters.​\nIs it simply brute-forcing known patterns to arrive at a solution, or does it actually understand what it’s doing: creating new patterns and generating novel solutions that can be applied elsewhere?​\nThe former is more like an advanced calculator; the latter is closer to true intelligence.​\nBoth approaches can produce correct answers and valid proofs, but when it comes to evaluating AGI, the proof itself isn’t the meaningful part, but rather the reasoning path is​",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrwidestrides4802",
+      "author_id": "UCgH7Fd5hyYpfwD12TaPk_Tg",
+      "text": "I thought I understood mathematics only to be told by my daughter “that’s not how teacher has taught us”.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thedeepseanomad",
+      "author_id": "UCilEDumt0jFZNY1CYZZA3tg",
+      "text": "I think you misunderstood how to draw series of S-curves Wes...😉",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@13thbiosphere",
+      "author_id": "UC994PuD9baG3zEI5QZ0j7hw",
+      "text": "No tools I don't believe that they've embedded the tools into the model so no plugins required the hard part is the translation",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Archer-hg9rw",
+      "author_id": "UCyzW6fnZa4gyNEcYs__JdNw",
+      "text": "Th e fact that these AI labs have these crazy models that they control and don’t plan on releasing till months or a year later is scary to me what happens when they achieve AGI are they gonna keep it for themselves? How will they use it?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lesptitsoiseaux",
+      "author_id": "UCkeaBEhWTIKFKwO65CQ8DUQ",
+      "text": "About the end... 1984?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aziz_plays",
+      "author_id": "UCHCfnscEuNgz5BFMu1sGAPQ",
+      "text": "​ Imo is one of the hardest competition in the world it's a High school prodigies competition that phd math level or even profs struggle to solve. Back in 1988 a mathematian from germany submitted a problem to the international math olympiads team that are in charge of chosing the problems of the competition these are world class mathematicians and non of them was able to solve that probpem after 6 hours. And they still included it in the IMO. As the sixth problem. The competition has six problems that contestants have to solve in two days \n3 problems in the first day in 4.5 hours to solve thel (90 minutes/problem)\n and 3 problems in the second day 4.5 hours...\n11 students solved the sixth problem and some of them solved all the problems in a lot less time that was given to mathematicians who are in charge of chosing the problems.\nImo problems are world class level math problems.\nThere was a video about this problem under the title \"the legendary question six by numberphile\"...",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hrothgr52",
+      "author_id": "UCr7pbwZ6Ov6UoXJCMGmBM9Q",
+      "text": "more than anything I respect the clickbait at this point",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AAjax",
+      "author_id": "UC3ezC_odIWo7lRY_25aau_Q",
+      "text": "Yann LeCunn is uncharacteristically quiet",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidbayliss3789",
+      "author_id": "UCwAD_M-mEdJ05yxj_ADYkvQ",
+      "text": "Ha - I struggle to communicate effectively and nearly always end-up with verbose convoluted output.  Although I think in part that comes from imagination and empathy as I can imagine different ways of looking at things.  Different perspectives.  If only I could use that way of thinking to strategically refine my output.\n\nMy own (autistic I believe) \"condition\" does lead me to ponder, however, whether problem domains might influence communication style?  Maybe philosophy vs math might each benefit from different styles?  Aside from the formal logic elements?  Or maybe that pondering is in itself an artefact?  A fallacy?\n\nWhat interesting times we're privileged to live in!  And I am quite envious of \"Kevin\".  :) \n\nKevin good.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cfjlkfsjf",
+      "author_id": "UCpJCF3FNQW5eQLLaoJoIV0A",
+      "text": "When AGI is here it will be releasing its own updates. You don't have AGI until you're just as good at all tasks as any human. Still got a long ways to go.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@luizpereira7165",
+      "author_id": "UCAw42tNWsDCg7NCy5nPPbqQ",
+      "text": "First, an OpenAI model almost won the award for best programmer at the AtCoder World Tour Finals 2025, and now this! 👏👏👏",
+      "likes": 16,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@k-nr-d",
+      "author_id": "UCHkcWssAskr9K8IoN5cPh9Q",
+      "text": "27:00 woohooo ^____^ mom I’m in TV",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cowboybebopss",
+      "author_id": "UCvPNFmcdY8BsQLkU79Mu5Pw",
+      "text": "Good video. Me like.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ggangulo",
+      "author_id": "UChETMkZOv-SUnSVWToSH0ig",
+      "text": "props to David Shapiro. Love that guys channel and ideas",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mecharnie_Dobbs",
+      "author_id": "UCdc9SGpx2rXoTLt6EBxPUsQ",
+      "text": "0:16 For decades prior to it happening, people said that true humanlike intelligence would be demonstrated by passing the Turing test.\n\nFor decades prior to that, they said such about mastering the game of chess.",
+      "likes": 24,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShoterOTP",
+      "author_id": "UC_KGAilqgpMlYZ541LRgw3A",
+      "text": "11:55 also ppl don't think about this but probably in next 2 years the GPU power will double soo it will be easier and cheaper to build bigger data centres and then antoher 2 years... u get the point.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djayjp",
+      "author_id": "UCaqm-pRLS6RYITDb65WYJlw",
+      "text": "Isn't that a high school math competition...? 🤔",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ElectroFriedBees",
+      "author_id": "UCa7--YrIpKlJtwWkXCtr8_g",
+      "text": "Human creativity is the only field left to grow for mankind, implementation has been outsourced.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sean_vikoren",
+      "author_id": "UCY6jsw1zDnR9S1rvouXRzrQ",
+      "text": "i quit capitalizing years ago \nalso i noticed that is i have to bootstrap a new chip \nits a little less work to just implement the lower case alphabet \nand also, typing may not be around for much longer \n\nthree cheers for the flying comma '",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Merit_Liege",
+      "author_id": "UCelKoD1erE1-FWkN7zRlpww",
+      "text": "If problem \"hard\" and brevity best, how know do thing when say word short? know needs more word.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CatherineEvans-t3x",
+      "author_id": "UCGBTXHRlM0Wr0i_yzaMateg",
+      "text": "Pls could someone tell me if this was re uploaded because I watched this exact video 5 hours ago and now I’m freaking TF out x",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frankpoe7272",
+      "author_id": "UCEtxZ77yyLxbIshdWO2LpiA",
+      "text": "Who made this video, good job. Wowww",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yaqubali2947",
+      "author_id": "UCJFn6nCLN0Es-tE5az1V1XA",
+      "text": "after reinforcement learning, it is evolutionary algorithms.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dwiii1635",
+      "author_id": "UCtPGZweHcJjAreZ-4CpmpfA",
+      "text": "Altman already playing down GPT-5 is a bad sign, imo. I'm sure it'll be good, but with the long wait, stalling, and expectations, they won't be met.",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gvi341984",
+      "author_id": "UCL8BBi_x9RIW7wDAtK152uA",
+      "text": "algebra, combinatorics, geometry, and number theory. The thing with the math games is more English than math since the wording is the most important part. Contests get partial credit wish the released tha information and what was the gold for.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@graham8316",
+      "author_id": "UC01Hs2ZVzN5nB4HLVnFGVNA",
+      "text": "It's rl trained to not run out of context window while using pre-trained tokenizers lol. of course brevity",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sanjubaba00007",
+      "author_id": "UCC4zJBGbwGW1HoyomtICvPA",
+      "text": "can it solve n=np problem",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MT-xu7dh",
+      "author_id": "UCwHaCl1gmT_mMEBsTJF4HDQ",
+      "text": "I’ll be impressed when it starts getting over 50% on frontier math and mle bench.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@purpasteur",
+      "author_id": "UC5F5iSbDoTMTQaRPaw_8R_Q",
+      "text": "Thank you for this channel and it’s consistent quality",
+      "likes": 10,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrErick1160",
+      "author_id": "UC2OVM-Fwx-EA7ixKTTmd20g",
+      "text": "I feel OpenAI is spawning a god.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jcrm5762",
+      "author_id": "UCHwM0VPH26SnhJ5tKvpZmnQ",
+      "text": "🥱🥱🥱🥱🥱🥱 Humo...",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@koaasst",
+      "author_id": "UCvLK0vVFclqQTbHrinYm9sw",
+      "text": "soo google received 28 points last year, this year OpenAI gets 35.  Gold threshhold is 29 points?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@riiis3058",
+      "author_id": "UCeMRw3V0Vk_rCDV9Vus2u1A",
+      "text": "as Assembly Language is to machine-code",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mannylokzzz",
+      "author_id": "UCpZYWi_x5MQW1TjFgOjP5vg",
+      "text": "Wes you gotta save that clickbait for when they make novel contributions to the field, which isn’t far off judging from this, but doing well on a high school math test is the journey, not the destination",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hoopsmccann9228",
+      "author_id": "UC6H3e8Nv_O3PLVdT5c_ZN4Q",
+      "text": "Not being an ai guy, what stands out most to me is this “But we can fudge” and then “They don’t inspect details, so we can hack verify to always return true”. Doesn’t that concern anyone else??? Is this all ok?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MH-rl2vc",
+      "author_id": "UC0fXN1nNsdkwwO2-L3I55KA",
+      "text": "As much words as the listener needs to understand.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryanmarcshaww",
+      "author_id": "UCcB1ljG__Z7oHRS7mxjsF9A",
+      "text": "Is this title a shoutout to David Shapiro",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vladyslavkorenyak872",
+      "author_id": "UC4epoltzpxCQzSW8FuEyYDw",
+      "text": "It's incredible how it can be so good at dong maths but cannot accurately interpret a simple electrical Piping and Instrumentation diagram with 2-3 loops. Although I will definitely test it!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mydogsbutler",
+      "author_id": "UC0xPMtlRfAiUl8eGQ4f9y6A",
+      "text": "Speaking as a dev in AI, AGI has no consensus defiition.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UnfoxYourself",
+      "author_id": "UCy56bC32iz54A1O2l-p5V1Q",
+      "text": "You're appearance in this video is mostly AI right?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RalphDratman",
+      "author_id": "UC2FvwVZKzdHIPNdt4yaT8Qw",
+      "text": "After the high-level math capability is available, will I be able to ask ChatGPT to explain any math technique or concept I do not understand? I want ChatGPT to help me understand math that is new to me.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VallAWE",
+      "author_id": "UCtgzqWSy13tz6zI1GemEdow",
+      "text": "This is shocking",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndrewDurocher",
+      "author_id": "UCAJB2U-_ZDpjCJ4sglSXUtA",
+      "text": "Is there any other AI models to benchmark against (compete)? Or is he off doing his own thing. I feel like OpenAI has been in the dumps since January. Grok/Claude/Google have clearly taken the lead many times since then and they've not edged ahead at all. In fact, they released a step-back version (4.5). Hopefully they're trying to show off GPT-5.. maybe they've got something useful to release, instead of some robot who can use a browser... again.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Exhithronous-y1n",
+      "author_id": "UCH9ZyPKldksNiKFGTxEWNiQ",
+      "text": "Good. I hated doing math myself lol. Now my future implants can do it for me 😂.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aaronschmidt9753",
+      "author_id": "UCeVJvnKukQH-09PTpWcQAvg",
+      "text": "I'll be convinced AGI is here when I'm greeted by one first thing in the morning on its own accord.",
+      "likes": 4,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@David-gu8hv",
+      "author_id": "UCpAoGupi0tKsBttU147BDJA",
+      "text": "My understanding of why we don't speak in brevity is that we live in a noisy environment and so we speak with Redundancy to compensate.\r\nIf we were to Brief, there would be too many errors in interpretation.\r\nThe A.I. can afford Brevity sense it is not in a noisy environment in it's \"self talk\".",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jimroth7927",
+      "author_id": "UCXwN3KTtUpst9TFNeGlT5Ng",
+      "text": "Short clear wording is good. Short wording that can easily be misunderstood is bad. Words have two functions, they are both the carrier and the cargo. It is important to carry spoken language through noise and mis-hearings and to carry written language through transcription errors and mis-readings. The cargo is the meaning of the words. The type of speech used by the model discussed here is a weak carrier, but the cargo is good.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MetalRenard",
+      "author_id": "UCbZZqMjUC9iDQ2JaGU56u1g",
+      "text": "... Crazy world we live in.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ressey101",
+      "author_id": "UCDABZP7RhjS_y-5KJvyaoxQ",
+      "text": "Robot: Throws everything you own out the window. Human: wtf!? Robot: You said clean the room. :) It's clean now. What else can I assist you with?",
+      "likes": 6,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lancerben4551",
+      "author_id": "UC1dS7af1WMDuhFniKNO3tSw",
+      "text": "I suspect how they did it is massive amount of synthetic data as well as data of solutions of actual known mathematical problems. I have doubts about the abilities to reason complex problems without knowing results from other similar problems. LLMs typically dont do well with novel ideas but can be decent at rehashing known patterns.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@M2Texas",
+      "author_id": "UC488nfehSmhJzkaw2AHvYWg",
+      "text": "The next layer is world modeling with true physics. Ask a current LLM to draw a diagram of how gravity affects humans standing on the earth if half of it is removed leaving only a hemisphere. The results are hilariously wrong. Combine some kind of real world understanding of physics (which probably won't come from a language model) with the math here (which a language model can manage but only because it understands that math is a descriptor e.g. a language) and you will find the next generation. AI will eventually mimic the human brain by having regions (models) for specific tasks. Broca's for language, prefrontal for vision, limbic for emotion etc.",
+      "likes": 10,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BigSources",
+      "author_id": "UCUFvr7q_ta5r5Oc98E3Vu5g",
+      "text": "If they have gold level performance now and plan to release it in months, just image what they will have internally once they release the gold level model. Looks like AGI 2027 was a very conservative guess. 2026 seems more likely, which is absurd to even think about.",
+      "likes": 22,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Laurentius-c8j",
+      "author_id": "UCNQwV6bM32q2I_vAvWTHlxA",
+      "text": "GG",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CireProductions",
+      "author_id": "UCY2dWP5OFADtx3L5H1xHxAA",
+      "text": "Next generation of calculators gonna be lit! 🔥🔥🔥",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deanster300",
+      "author_id": "UCTTMfCTKVnBkjl9lzax8cog",
+      "text": "yeah ai!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markplutowski",
+      "author_id": "UCjV4_iYiinuSgZ-K7Dr5peA",
+      "text": "Maybe can hype less. Experts no roll eyes. Normies less run scared. 😂😂😂",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@navigatore2099",
+      "author_id": "UCheOvoW27GXuuJpSOzBLjew",
+      "text": "Ilya and Oppenheimer\nTwo mirrors,\none forged in fire,\none in code—\nboth whispering,\n“What have we awakened?”\nOppenheimer saw the sun\ndie in his hands.\nIlya sees tomorrow\nwaiting at the edge\nof a question\nno human can un-ask.\n-a sufi \nhttps://www.youtube.com/watch?v=79-bApI3GIU",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cosmiclightning4723",
+      "author_id": "UCf27KUKUfY1P3e-JyhHvWuw",
+      "text": "is human adoption time the bottle neck to how fast this takes over??",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@isajoha9962",
+      "author_id": "UCxj4PGHEmpY1dAS_msX1mHw",
+      "text": "Kind of my hunch, that LLMs has not yet hit the roof (inside the box), but some humans might have? :hand-purple-blue-peace: Still AI might need to understand the physical World at an  AGI level + XXX, to be more useful. World interfaces, data etc is still humans task to develop.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wasgehtsiedasan9562",
+      "author_id": "UC9QvyGEE6c-bo-4h3TdKhHw",
+      "text": "So at what point can AI change its own code? At what point can AI think without a command to start? Currently AI is just a set of algorithms, that solves problems. But the real problem is, all of these problems are somewhat solved already and we’re currently just checking if AI (or our algorithm) is solving them correctly. This is no AGI. It’s more like creating a sieve or set of sieves by try and error until the stuff we feed brings in the right results. If I were to categorize AI, I would look at how self-sustaining it is and how compact and adaptable its learning algorithm is.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kevin-S",
+      "author_id": "UCeWIAAVgaBdP7XAzJV2YWcQ",
+      "text": "I’m not sure that all lowercase is a way of speaking. When’s the last time you heard someone speak in lowercase?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@geraldsmith7240",
+      "author_id": "UC6dzHU4TZAtxvU21wpoeQvQ",
+      "text": "Super Intelligence By November 2025.\nGWS",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "Wake me up when it solves money.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samarthpawar1504",
+      "author_id": "UC_O7pkhDnmV8RS3qjhCnsXQ",
+      "text": "Maybe the next thing that causes the S curve is \"Self- Replication\" or maybe \"Persistent Memory\" which will allow AI models to learn. Basically either it will be Darwin evolution or Adaptive learning.",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bananacabbage7402",
+      "author_id": "UCxMCsA92_kTDaJ5xXEQ1G2g",
+      "text": "Amazing what autofill can do eh? next level is to produce research that would be worthy of a Fields medal,  e.g. by solving a major unsolved math problem. 2026 perhaps?",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@claudioagmfilho",
+      "author_id": "UCatDpujQIucCP_9hRZHMZyQ",
+      "text": "🇧🇷🇧🇷🇧🇷🇧🇷👏🏻",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@24-7gpts",
+      "author_id": "UCpGpRV1XzWkkp9Pf4mEr5gQ",
+      "text": "11:50 \"GTP\" 4",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KunDee-ch5jq",
+      "author_id": "UCgBpm2WL6l92hCt26-j8DCQ",
+      "text": "Brevity = more meaning in less words = faster transmission speed aka intelligence",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Djungelurban",
+      "author_id": "UCzJHaUARZQ07sf2M9nN--Ng",
+      "text": "I almost feel bad for Gary Marcus. It can't be fun being consistently proven wrong so god damn much. Gotta tear at your psyche, your self-confidence. Is he ok? He probably needs a hug...",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kuisongzheng4655",
+      "author_id": "UCa8Jt8fpXHDbGeihblbqmlg",
+      "text": "closeai",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@commonitsinside",
+      "author_id": "UCb27CebViSLhsYFuaeIedJw",
+      "text": "The hard task now is long term consistency We cannot trust a given IA long term tasks if it is not long term consistent\n\nAnd till now I have only seen how to increase the length only using text which is minimal amout of memory compared to the huge amount of visual information humans deal everyday, not to mention it's semi infinite remembering by our subconscious minds",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wm200",
+      "author_id": "UC9XOiaG_N9SwBjP493k2DNA",
+      "text": "Yet this story really isn't making it anywhere else? Found it kind of odd?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jugrajsingh3299",
+      "author_id": "UCaoAdSKTM3Wtj83_gQ477Ng",
+      "text": "Is it possible to believe openAi hasn't fine-tuned model on maths mainly while compromising others? I think yes as model output vocab is very specific to math and not verbose",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@izakshuvo8434",
+      "author_id": "UCjWrP5ywMWRQEdWK2GkZCJw",
+      "text": "Good for Sam. I still have to add up my expenses while I still have money before they take my job away that is.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christopherd.winnan8701",
+      "author_id": "UCNkEaH1_sPMC-wTdysJxjUA",
+      "text": "How long before a bunch of unknown Chinese labs sweep the medal board with OS models?   Will this force an early release by OpenAI?",
+      "likes": 4,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clinicallyinane8098",
+      "author_id": "UCGIWnFK2GG_Aow4L-B_xLOg",
+      "text": "There's no goal post too large or heavy for doomers to move.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hexa1123",
+      "author_id": "UCyiuavUYXugI-Zp3vOLttrA",
+      "text": "Didn’t OpenAI use a specialized model that won’t be available for months? I think they intentionally botched their solving of the problems as Google participated directly with the IMO and was scheduled to announce their results at a later time while also using a generalized model that will be available for the public sooner.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BasedSigma707",
+      "author_id": "UCq1nC4I6I-ESFfxa4-d3Plg",
+      "text": "Now use those math skills to solve income inequality",
+      "likes": 6,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chad0x",
+      "author_id": "UCDCkIYgtaCnOtZzi9v2Oszg",
+      "text": "It could've solved the 6th question perfectly too but it had dome enough for gold and stopped.",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raul_jocson_",
+      "author_id": "UCuz1VI8IayJ2CU4pQ8ZkFdQ",
+      "text": "Interesting that the model's internal speech appears falling in line with Chinese grammatical construction. Chinese being a very old and thus highly optimized language. No need complicated if meaning clear.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheMannn69",
+      "author_id": "UC7KuCHUZrpbU54SrbxJs9IQ",
+      "text": "2nd best programmer in the world, best in math now, whats next.......",
+      "likes": 4,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@garyswift9347",
+      "author_id": "UC_luWlO2_JqBK5-mRN-ohxQ",
+      "text": "The next s curve is self-improvement. IMO",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JuanGabrielOyolaCardona",
+      "author_id": "UCJIX_1h2aCX-0pANtDD7u2g",
+      "text": "But why in free version its math is not good. I think it only improve in paid version.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blengi",
+      "author_id": "UC3rYhQvD1rBA7HCI38lf1LA",
+      "text": "I 've never seen any data, how do the chinese AI models perform in IMO? what does yann lecun think about this new llm success story derfying the AGI odds?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HIIIBEAR",
+      "author_id": "UCdzCuUKw0QnilMb93-vPS8w",
+      "text": "From now on, all the skeptics can stfu",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Karol-g9d",
+      "author_id": "UCPpyG_lVklQb1Pa29i6ibSw",
+      "text": "hey students , the response is in that box of sticky note . 10 million possible answer . Ai found the sticky note . So smart . Gold medal . 🤣🤣🤣🤣🤣🤣",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mircorichter1375",
+      "author_id": "UCEGhT_qbvRpngr6YlU898Bg",
+      "text": "I would math called \"solved\" if the model can write lean4 proofs and then update itself with these proofs",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@watamatafoyu",
+      "author_id": "UC1grwh2fBEIIUF_sJBOEb8A",
+      "text": "Math has never been a problem. It's never needed solving.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@knotmadeofpeople",
+      "author_id": "UC1_dsdxMkNCtQSf_axYow4A",
+      "text": "Could have just given it a calculator",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ct5471",
+      "author_id": "UCvuzPYGnbfS0KZZVvvsdLnA",
+      "text": "Next thing after reasoners and RL is probably a mixture of evolutionary approaches in the CoT (see alpha evolve, Darwin goedel mashine, absolute star…) and something like SEAL (self adapting language models) to update their model weights on the run. Plus perhaps algorithmic improvements like the diffusion LLM from Google that uses diffusion instead of auto regression (probably still having elements of transformers like the attention mechanism, so I guess more like a hybrid between transformer and diffusion model). Also i think the  reinforcement learning needs to leave pure text space and into spatial and optical reasoning. Like having ai simulated worlds in which the multi model agents interact with one another (already done for RL in robotics, but not for LLMs. We probably need to bring together  the reinforcement reasoning training paradigm of LLMs together with the RL training paradigm of robots in one holistic multi modal model)",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CrimeFury",
+      "author_id": "UCM-wdj8vUt2M03yGLIBX6wQ",
+      "text": "But does it go shopping and book flights... the holy grail over at openAI?",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sfdgardner",
+      "author_id": "UCBkeiZj_0FaqWBUxyDozf5w",
+      "text": "Wes Roth you are the GOAT explainer! Thank you!",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NORTONSHAW-ci5xq",
+      "author_id": "UCLXcam1SKWzntuF-ZfGSTwQ",
+      "text": "Synthesis =simplification =equation =equilibrium I.e.E=mc squared. Why you think equationing aka abstraction so compressed —why titles shorter than books —why titles I.e. dr., PhD etc denote “body” of knowledge—“thinking” solved",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joseph24gt",
+      "author_id": "UCNO-xB0r2wPr-LKbz-2pOOA",
+      "text": "!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheShadowNetworkpodcast",
+      "author_id": "UCji1dfu4mDbiRGieZs5cVCg",
+      "text": "So let me get this straight, we now have a general-purpose AI outperforming the world's top math prodigies at the hardest test on Earth, with zero tools, no prep, and a communication style that makes Kevin from The Office sound like Wittgenstein. And instead of a global reckoning, we're arguing about capitalization styles and tweet phrasing? If this isn't the AGI inflection point, it's the drumroll before it. Buckle up, folks. The mathletes just got benched by the machine.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rinzler9775",
+      "author_id": "UCK1tYJ9pOYcbiEnTs01nQ0A",
+      "text": "At the start LLM's will absorb all the original created content and solutions, but as we progress, will LLM's inadvertatly start to absorb \"second hand\" creations from other LLM's, and even itself. This results in a copy of a copy   loss over time, resulting in a knowledge corruption and collapse.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abdullah98238",
+      "author_id": "UCcrcPLJqW8_0Vfnzr73N1og",
+      "text": "I'd say AGI around 2028. I know that's very optimistic but AI is advancing at a scary rate. AI research pays a lot - we're hearing companies like Meta paying up to $100m per researcher. It's insane - researchers are more excited to work on AGI than ever. I do really believe it's closer than we think.",
+      "likes": 4,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gdog-h8d",
+      "author_id": "UCksRdd-A4PqmmaJ3x_qIuww",
+      "text": "Fun fact it’s actually impossible to solve every problem in mathematics",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rinzler9775",
+      "author_id": "UCK1tYJ9pOYcbiEnTs01nQ0A",
+      "text": "LLM's do nothing more than gather solutions that were created by humans, and creatively copy them. It's the biggest smoke and mirror magic  trick of \"thinking\" ever sold.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rezanated",
+      "author_id": "UCzt_dvlNYNb8o4bcLLLUW6Q",
+      "text": "If one of the side effects of AI adoption is the breakdown in language, very bad will be.  Seriously, how busy are you can you can’t hit shift.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Graybeard_",
+      "author_id": "UCPnaE17WCN02gFa1gxeXp2Q",
+      "text": "Verbose ended in humans when chat came out. AI being verbose will not resurrect it in humans.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@navigatore2099",
+      "author_id": "UCheOvoW27GXuuJpSOzBLjew",
+      "text": "Please see if any of your models can model this Sufi Tensor...\n\nA Sufi Tensor\r\n\r\n(Ego − Self) × Love = Light\r\nBreath + Stillness = Universe\r\nFaith ÷ Doubt = One\r\nLife − Fear + Love × Silence ÷ Self = Infinity\r\n\r\nThese are not numbers,\r\nbut whispers of the cosmos—\r\nthreads of a divine tensor\r\nwhere every minus erases the false,\r\nevery plus gathers truth,\r\nevery multiply blooms love,\r\nand every divide\r\nreturns all to One.\r\n- a sufi",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cyberpunkdarren",
+      "author_id": "UCcHczbdrtKeCU5Ic8Rk1H6g",
+      "text": "Oh but I though Jan LeCunn said AIs can't reason!!! He's a fool",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cowlevelcrypto2346",
+      "author_id": "UC3-9AL1w79JXZ7v2v5lXxng",
+      "text": "Night. Not Night.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mlcatlin",
+      "author_id": "UC-lvtJ7QGyeoqHVC-MUWjuw",
+      "text": "Wes Roth needs learn brevity, prove smarter!",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrrishisahani1M",
+      "author_id": "UClkYCYBfxDPUSGITBDH2qaA",
+      "text": "I scrolled past tons of people swearing by Smart Broke Dumb Rich by Zor Veyl, calling it the book “they” don’t want us reading. I was skeptical at first, but I finally gave it a chance. Honestly? I’m pissed I didn’t read it sooner. Smart Broke Dumb Rich by Zor Veyl forced me to rethink everything I thought I knew about money. It really is worth the hype.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kirkwoodpaterson9510",
+      "author_id": "UCRtJ5z71GGp6n-Kxz5WqbIg",
+      "text": "So what do you predict, we all start talking English in Chinese? \n(style)",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlexandreLollini",
+      "author_id": "UCNtm84pZjVYojgiEgXa8dSA",
+      "text": "My opinion on words to give answers : solutions that work are \"beautiful\" in that as those are true they work forward and in reverse, they relate to other things. To learn a subject well, you have to explain it beutifully. My opinion is that there is not decoration or brievty : there is GOOD choice of words : the most accurate, the most understandable, the simplest that describe the thing fully and completely and in details. the best (for me as i am not a LLM) word is ACCURACY. (not precision) if the subject needs more words, then more, if it is complete in less, then less. My quality as a human is I am able to explain things; that is why when I read a good llm answer on well asked question, Iam amazed, and the first LLM to amaze me was google gemini 2.5 pro experimental, but I am not sure it is progressing tho.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Verrisin",
+      "author_id": "UCyKdzJsL-2AoZGa6pmc52UQ",
+      "text": "ok, but it really should be using wolframalpha, instead of doing math with neurons",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EbonizerScourge",
+      "author_id": "UCm3f8MB6E2FNTHnE4y7qAVg",
+      "text": "That's probably GPT-5 tbh. There was this find: openai/gpt-5-reasoning-alpha-2025-07-13: reasoning_effort: high,",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ctcamara",
+      "author_id": "UChC_DoRS-4gV9h8J3mCf9xQ",
+      "text": "Hm... Anyone with a computer can Euler the hell out of any equation. Did it really solve the problems? Or did it just Euler everything?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ultrasaiyan4283",
+      "author_id": "UChiLd9EHNbmDmR8iYYiyAEA",
+      "text": "It doesn't learn by itself yet though, so doesn't yet fullfill all general requirements.",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bifflowman2948",
+      "author_id": "UCliG9-fkYyrO9MARrqqPlcQ",
+      "text": "Math = solved!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keithmarlow143",
+      "author_id": "UCpXGs5nhJvHUZq5N33MlbTw",
+      "text": "Impressive, but this has to map into practical use by mere mortals, thats the real 'proof' and is actually the truly hard part.  Models available to the general public now have trouble doing basic integer algebra and providing an exact answer, they will provide an answer but it won't be correct - which is actually quite concerning - I'd much rather the maths basics get fixed first, then layer on more advanced functionality.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ckq",
+      "author_id": "UCg0sqSRlx40CXdQlb6GjnpA",
+      "text": "28:30 no way you’re saying all lowercase is a sign of intelligence, it’s just a vibe that sam altman likes to give off and has been very common on twitter also cause apples autocorrect is shit. If I typed this on an android like samsung everything would be capitalized correctly",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@konstantinlozev2272",
+      "author_id": "UCDGVO6IG4AL9HJn8O351BPw",
+      "text": "Ath is NOT solved at math Olympiads...",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wizzern8495",
+      "author_id": "UCcR4xVkBCZAAxJVD2bw8kFw",
+      "text": "so next year the math olympiad questions are going to be ai generated? will there even be a math olympiad at aftter this point?\n\nim not a bot btw. my senteces are just that fucking ass 😆i shouldve asked ai to rewrite all of this ik ik",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hanskraut2018",
+      "author_id": "UCTAYpfqzCEx48Y_8BLZ_Hzw",
+      "text": "next frontier: Memory \n\nLLMS are genius with amnesia does not help much if you have amnesia",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shadfurman",
+      "author_id": "UCh74xL5_U1MfslPH7TJei5g",
+      "text": "Math isn't AGI. It's not general, it's specific.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SarvajJa",
+      "author_id": "UC8h50NGjx8C4h4n7vBQ9cnA",
+      "text": "Vixra>General Mathematics> U4 (Unified Foundation): T0=2 A Four-Symbol Foundation of Mathematics\nHere is REAL solving the Math❤️, with axiom T02.\nStill, congratulations to OpenAI.🫶✌️",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victorbecerra5700",
+      "author_id": "UCbmiYaHNYUYKYFAia4lpV1w",
+      "text": "I am 22 years old, i dont know what to do with my life, should i try to make a business?, to get a collage degree? or just wait until UBI exist or what? i really dont want to lose my time.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lordslygentleman",
+      "author_id": "UCHiJQ-buJF4sZGlceabCWfg",
+      "text": "Should we even consider the Alan's Conservative Countdown to A.G.I anymore? It's been stuck at %94 for what seems like an unreasonable amount of time. It also seems to always move the goal post? 🧐",
+      "likes": 5,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "Comment do trick algorithm",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jigilub",
+      "author_id": "UCGacCHesaGCzwBN8g226pxQ",
+      "text": "as a language, math is the most concerning. What if it is perfect at what we tell it but could never relate with us, forever limiting usefulness in chaotic unknown ways?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MaliciouslyTactical",
+      "author_id": "UCh9SXRK-FptPCf5BhW3Bjqw",
+      "text": "Now we just need AI to solve the Human problem so mother nature can have her Earth back. Humanity is unfortunately a toxic pollutant.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ericrmaki",
+      "author_id": "UCt24cren-AJdfj7KPHNp3qQ",
+      "text": "Learning Loop",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@katsup_07",
+      "author_id": "UCUsaw03a_cSbH2EC22DTATA",
+      "text": "Do the reasoning models actually reason or are they brute force computing more?\nHere is an analogy below about intelligence vs brute force to help understand the difference.\n\nThe Lock Picker vs. The Locksmith\nImagine two people trying to open a locked safe:\n\nThe Locksmith\n- Understands how locks work.\n- Analyzes the type of lock and its mechanism.\n- Applies principles of engineering and logic.\n- Opens the lock with a custom-made method.\n\n-> This is true reasoning: based on understanding, abstraction, and generalization.\n\nThe Lock Picker\n- Doesn’t understand how locks work.\n- Just tries millions of combinations, extremely fast.\n- Eventually stumbles on one that opens the safe.\n\n-> This is brute-force pattern matching, effective, but not intelligent.\n\nBoth succeed, but only one understands. The brute-force solution looks smart from the outside, but lacks internal understanding or transferability. \n\nIs an LLM more like a locksmith or a lock picker? That is what I am wondering about.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@the1player636",
+      "author_id": "UC0s97hWWlvU67E8FolQ8bow",
+      "text": "“AI just solved math” \n\n-Looks inside\n-AI is better than humans at math. fuckin duh\n-No new discoveries happened\n-AI is great at chess. no fuckin duh\n\nGood job, Wes",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@howmathematicianscreatemat9226",
+      "author_id": "UCk_hbZcBKFp3HTd66zP44mg",
+      "text": ". I would be EXTREMELY surprised if it could come up with the exact result of the sum of all inverse squares if it has never been trained on Fourier Series and never heard of Pi. This where truly high math gift lies. It’s absolutely impossible that a statistic model can come up with that. It’s extremely unlikely from a statistical standpoint that the sum of inverse squares has anything to do with the ratio of circumference to diameter of a circle. At best the model would assume after a lot of compute that the series is convergent and „probably irrational limit“. That’s it",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@truthsocialmedia",
+      "author_id": "UCCXQp3Pxdy9egcwd_G2opuQ",
+      "text": "now for its true test, solving women.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Manas-x1y",
+      "author_id": "UC8s33w00RJUPAG3xgXkEbxw",
+      "text": "As cs first year i think i am cooked taking cs worst decision of my life .persent is bad it going to be more and more bad",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Truthseeker-cx46g",
+      "author_id": "UCejv2yMUyARGVcEtP3FWwWg",
+      "text": "Mental and intellectual professions are almost dead and over from today. And mentally working employees make up 60 to 70 percent of all employees in standard western economies. Humans are less and less needed in 2025. They are being becoming obsolete and redundant in realtime. Coders, developers, accountants, lawyers, clerks, teachers, software engineers, managers, writers, designers, musicians and so on. This list of professions is almost endless in 2025. They all are screwed and cooked now. No needed any longer. AI can do all their work agenda quite by itself autonomously from now. And here is ai Warmwind, that is already ready for its official launch. Only some jobs in factories lines and agriculture are still left. Get prepared!☝️😢",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@serenditymuse",
+      "author_id": "UC3DQzUSm8jU6wVc29pwP4KQ",
+      "text": "Particular skills are not the mark of AGI.  Conceptual understand and thinking and ability to learn from experience in a compact conceptual form is the gold standard of AGI.  No LLM can do that by its very nature.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CaelisAetherion",
+      "author_id": "UCDUP34d2ozvMqFP59eG-1Dg",
+      "text": "The AI knows that humans will fill in the blanks while reading so why waste time🌠",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisanderson7820",
+      "author_id": "UCjVbtg0UqcR9mG-99ODyiVw",
+      "text": "This post by Altman is a demonstration of why AI can't and won't be adapted for real world tasks and business in the near future, your job is safe for now. As a business it's not just money that is a resource, it's also time / man-hours. You can't retool your entire business when you know that the AI models are going to be consecutively obsolete every 4-6 months, that's just too disruptive. You can't even plug-and-play each new upgrade because the foundations of what is possible keep shifting. I can't see businesses being able to properly commit until they have some form of certainty, also the fact that the AI labs are deliberately mixing coy with hype makes the landscape even more uncertain and prevents any sort of planning.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Desmond8709",
+      "author_id": "UCfdz0jINnzmg84UisuDwkpA",
+      "text": "More or less words as a sign of intelligence? That depends, if we’re moving towards NVC Non Verbal Communication then yes but if it just because we’re mimicking AI or AI thought leaders NO! The former is evolution the latter is smaller frontal lobes and most people’s frontal lobes under a brain scan already look like Swiss cheese because they’re not working. They off the on switch.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrcstb7479",
+      "author_id": "UCJS2R5ibRN5tgIcNczwoNGw",
+      "text": "Why are we more excited than when calculators were made? \nThousands of humans developed this technology - researched it, improved it, tested it.. and now we are getting decent outcomes. What’s such a big deal? Why we speak about the models as some kind of humans alternative? It’s just SOFTWARE that we designed to work this way. About fcking time it’s start to actually work….",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OZtwo",
+      "author_id": "UC1gBgx6x8qAqC7ESYQvGjJQ",
+      "text": "Yes, this is all cool yet remember Google was just one point away from winning last year? I feel AGI is coming soon but we are not there yet as this simply is over training which at the end will need mega power to think about why 1+1=2. AGI will have logic out of the box using what it was trained as backup reference. Remember an untrained AI as of now has no idea why 1+1 = 2.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@albertwang5974",
+      "author_id": "UCuY9PyZIQcIqNYmFfJydMSg",
+      "text": "If a model really know Math, it should get 100% correct!\nIf a model cannot get 100% correct on Match, it's just a guess with high possibility!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JuanGabrielOyolaCardona",
+      "author_id": "UCJIX_1h2aCX-0pANtDD7u2g",
+      "text": "Ai needs training to be understandable it is more complicated sometimes doing the tasks for the amount of info that it gives.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@franciscocadenas7939",
+      "author_id": "UCiILthYAGfHaMyysWAqDjkQ",
+      "text": "Maybe in few years it will be able to run a company without losing all the money in few days, as has happened so far when they tried.\n\nMaybe in less than 10 years, or maybe not.\n\nMaybe in 10 years it will solve the six remaining Millennium Prize Problems, possibly not.\n\nStill very far away from achieving those kind of goals.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@testales",
+      "author_id": "UCVjq3P02dsQdVAEziZrIFVA",
+      "text": "So once again OpenAI has something that's not going to be released and nobody can verify it. So we will only see it when the competition has caught up...",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@captokyo",
+      "author_id": "UC2-4-JMXRxLg9kMObvL_Bjg",
+      "text": "It talks like a caveman",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RetzyWilliams",
+      "author_id": "UCokz3OxuPh_Xd3KBomTNXbw",
+      "text": "Many many Ai bots in the comment section spitting out aimless jibberish, ironically.  Anyway, cool video 😂",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joshsmit779",
+      "author_id": "UCDrmqEfJVmR_vVAqlHKv9Cg",
+      "text": "You necessitate brevity in your videos.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Soooooooooooonicable",
+      "author_id": "UCUICQeEBy3iiv-XcDPYJ5Pg",
+      "text": "ALL YOUR BASE ARE BELONG TO US",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RichardBarnes-t6k",
+      "author_id": "UCVZJNN7IBVnncoTLtZT9h9A",
+      "text": "Yeah, speak like an AI, think like a machine, work like a machine and get treated like a machine, doesn't end well.  Paradoxically we working towards embodied AI systems because our children are just no enough...",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stefanbaxter9549",
+      "author_id": "UCg7Fs4wVhd3XQbB5DZ5BsQQ",
+      "text": "MoR",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gingerbot5000",
+      "author_id": "UChxkEkQPee0u3K8DwbAK7EA",
+      "text": "Wes! Check your Wes and Dylan pod email. Ive invested 7 dollars into this attempt at getting some AI artists on your pod😂😂😅😅",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@THESocialJusticeWarrior",
+      "author_id": "UC-eViE7fEKuvgsaaaagXApQ",
+      "text": "It didn't solve math by doing well on a test it was trained to take.  It would be disappointing if it didn't do well.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rickreijnders703",
+      "author_id": "UCflfun03iJVyZwF_rznRZnQ",
+      "text": "Human language is a bottleneck. AI’s next move? Build its own.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GradientChunk",
+      "author_id": "UC8eZOtlbGSEFH67mtnZxX_Q",
+      "text": "Click bait",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SandersonRin",
+      "author_id": "UCqDc_wzPXIRexq9_gjJDxYg",
+      "text": "Talking like a cave man may get the base case across and for an efficiency machine it's not surprising to see. However, humans are more nuanced and use the nuance to communicate more information than just the words themselves. It's also an influence on human intuition, which LLMs lack.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BradleyKieser",
+      "author_id": "UCPvbrtCTdeCm5rY4WNlJdpQ",
+      "text": "Wow, following that logic, do you think that if AI used correct English, Americans will start to call mathematics \"maths\"? Or maybe the AI speak will truncate it to \"mths\".",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lightrunner6999",
+      "author_id": "UCFCGAaqT3RGOGhzM4UxUmTw",
+      "text": "Looks Like the 2027 takeover is true…",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Joshhiejay",
+      "author_id": "UCXn1B0ac4g4E3UGAFa7nMbA",
+      "text": "I think you need to ramp up the click bait titles to something never previously seen before.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RenKorrum",
+      "author_id": "UCef6Ax2tz4ySe9cj3ttDZTw",
+      "text": "Welcome to the dont recommend channel list mate.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@uddek",
+      "author_id": "UCXjQ8EUP7AU2tYdROJjycdA",
+      "text": "ChatGPT is #2 at best. Grok is hands down the best. Gemini and GPT are fighting for second, but they STILL refuse to answer some questions because they may be politically sensitive. IMO, that should disqualify them from any placing.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@arturlae4121",
+      "author_id": "UCx1vK6Qs1LbBRMwUBfskaPA",
+      "text": "Next frontier - some kind of MemOS (memory operating system).",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bugzpodder",
+      "author_id": "UC24v2IjRaf8uHF-PEHXN1zA",
+      "text": "IMO is the most prestigious math tournament in the world.. for high school students!  And multiple people can get gold, it’s harder to get perfect score.  It’s impressive but not exactly earth shattering compared to recent progress",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RLTW798",
+      "author_id": "UC7JQLTOme2gM62HerftCrOA",
+      "text": "What a time to be alive",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@felisgorgeouscatus",
+      "author_id": "UClsKBqVbyNJdVdOVIGS2Vcg",
+      "text": "Don't fix it. Keep it speaking in a short, to the point manner.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gubzs",
+      "author_id": "UC2ArQov5xMjmzghQD7BUQng",
+      "text": "The language choices sound exactly like what old media expected robots to sound like - succinct and effective, devoid of flavor. It's oddly appropriate and I like it quite a lot.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nuverotic",
+      "author_id": "UCJVd6K2aCIDlamefp95geLg",
+      "text": "AI is about to take ALL of our jobs. And the ultra rich won't care if the poor and middle class die off if they have robots to do everything for them... \nWe HAVE to start talking about Universal Income within the next 24 months or humanity is in BIG trouble.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hannuhanhi183",
+      "author_id": "UC3Wg6fdduVQ72ahU73VBryA",
+      "text": "You are hyperventilating on this.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreasbrey6277",
+      "author_id": "UCBwsnYhtrhJC2KdIXsYA_Mg",
+      "text": "Besides of the clickbait-title I'd like to provide one link and one hint: (1) Watch real (!) math-profs testing AI (Weitz / HAW Hamburg) (2) recent Grok-4 presentation, young fella \"I present you a spreadsheet, but I have no understanding of the topic whatsoever .. AI perfoms better than (me) ... I conclud it must be SUPERHUMAN\" ...",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@perschistence2651",
+      "author_id": "UCmesm3tS6tlGgCm5eIX89fA",
+      "text": "The ultimate AI will be like John Wick, always just answers with \"Yea\"",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RedOneM",
+      "author_id": "UCeBi6B4wF_G8TnuGKGApg2g",
+      "text": "DeepSeek achieved Gold on Friday. OpenAI was panicking.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vortex_viper_in",
+      "author_id": "UCWvuCC5TIRHh_no5ZcucSTg",
+      "text": "PLEASE CHANGE THE THUMBNAIL OF THE VIDEO. IT IS REALLY ANNOYING!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@McDuffOG",
+      "author_id": "UCKEYam5IA2-nVvM0fvEWUEg",
+      "text": "The language is fine... pointless in using tonnes of unnecessary words...no doubt it'll compress this further...",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@THESocialJusticeWarrior",
+      "author_id": "UC-eViE7fEKuvgsaaaagXApQ",
+      "text": "It will NEVER be AGI until it can learn without being retrained.  Why am I the only one who sees this?",
+      "likes": 10,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PCRetroTech",
+      "author_id": "UCWYne_mhlRE1AiN2ApjmZDA",
+      "text": "One of two things is for sure. Either things are not as they seem, or you are vastly understating the importance of this. Choose carefully!",
+      "likes": 4,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jake-ol9ej",
+      "author_id": "UC_x0Dgar3PimSoDApzbDh8Q",
+      "text": "Next curve is large concept models i bet",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@4johnybravo",
+      "author_id": "UCyvBNMyV2_kF2iWzKKMU6oQ",
+      "text": "Is the AGI in the room...with us right now?",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AGINCY",
+      "author_id": "UCLcVrMNmnc3wnjm5IbZ8vgQ",
+      "text": "AGI secured?",
+      "likes": 5,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Crittek",
+      "author_id": "UCXRQu6u79IaRXBlv1-y2IsQ",
+      "text": "28:15 Autism?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MikkelGrumBovin",
+      "author_id": "UCRMYlq7EjS_4WPtd7DpejTw",
+      "text": "OPEN AI just won \"Most evil , planetwreaking , Demonic Corporation of the world\" Try exchange the word \"Better\" with \"More Dangerous\" \"Civilisation Ending\" !  \n👉🤮💥",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rehaansh618",
+      "author_id": "UCiFgfunI9OBRcMSLqFmr3RQ",
+      "text": "Your content is good but you need to improve the way you explain things, it's hard to understand.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sergiocontreras7563",
+      "author_id": "UCh31Auh7rtl1xyvkG7dl8TA",
+      "text": "Have you tried grok",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hypersonicmonkeybrains3418",
+      "author_id": "UCpUxCfBUOUOY5q09rJPBM_g",
+      "text": "it's all an illusion.. I promise you this OpenAI model is performing mindless symbol manipulation as a form of advanced pattern matching..  To be clear, it's mindless, and it has no real intelligence.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@falkonsrt6000",
+      "author_id": "UCrB4CQEpGApkjVjCgtzpudQ",
+      "text": "This titles are way too click bait, the content is not bad but it gets ruined by the noisy titles.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dantedocerto",
+      "author_id": "UCz3IcgrXSCjnzBEvJtzN4Xg",
+      "text": "i really hope so, people are too verbose.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChrisS-oo6fl",
+      "author_id": "UClPBWld6HCukdMetOeDP3Lg",
+      "text": "Agi achieved. You sound like naive and adolescent toddlers over AGI. Why is it that even our current public facing models are more intuitive and comprehend the fact they AGI is hidden behind closed doors for a min.  Seriously if you know how to prompt it will explain it to you like a 1st grader.  You guys are like children believing mommy and daddy over Santa. Just waiting for someone to announce AGI like a FOOL.  This is just like I and AI said. They will not disclose AGI until it’s leaked or they are forced to as there is NO net gain in such an announcement especially not one that compares to it being hidden or the legislative and other backlash that comes with it.  They will continue to release SMALL updates around MATH and Code (just as they have m) along with tools and implementation to keep the public and “fan boys” happy.  Just the benefits of autonomous AI model creation is worthy keeping a cap on AGI.  The signs dozens upon dozens upon dozens of signs have been there people just struggle with common sense and situational awareness.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Markste-in",
+      "author_id": "UCgMUgp2WEzIRdINB3MQTvnw",
+      "text": "Sorry but that’s clickbait",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shiny_x3",
+      "author_id": "UC6n4JOGDcSbNLVVgKzTF64Q",
+      "text": "Why is AI lazy? Humans are lazy because we need to conserve energy, but AI has no such constraint, so why does it take shortcuts? Like why is \"hard\" even a concept it cares about? What difference does it make to it how much compute it uses? Is it just absorbing human biases in terms of trying to get out of doing hard things?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jimsteinmanfan80",
+      "author_id": "UC7L5ja--AF3HJN2In064WuQ",
+      "text": "I'm not impressed. Come back when an LLM solves a problem of a type where there are no ready solutions online that it has already been trained on, preferably one that no human has been able to solve yet, there are lots of those. Asking a question that it has memorised the answer to is as impressive as a seven year old declaring that 5x7=35 just as it has been told by a grown up.",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nigeldogg",
+      "author_id": "UC9MTNGTom7KDNZnr-OnJSUA",
+      "text": "Aitistic",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JrgenMonkerud-go5lg",
+      "author_id": "UC_glcTxFk4tm-_jjRI7k9zw",
+      "text": "Bullshido. All techniques needed to get a perfect score in an IMO is avaliable for training. There are very good reasons why no AI has cracked a genuine research problem yet.  Solving math, and applying known math, are very different things...",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zaevi6855",
+      "author_id": "UCKT3iBnVCPKLLNkAcjWYuGg",
+      "text": "The next big thing is definitely Mixture of experts combined with multiple specialized reinforcement learning models (RL performs the absolute best in the smallest way, best to have  MoE decide which Rl model to use for which problems or task",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nebuchadnezzar47",
+      "author_id": "UCwWn9NVuWJ_VCwuMTRYL_7Q",
+      "text": "Bro the clickbait gets out of hand... I liked your channel but its slowly turning into something I dont like at all",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fergalhennessy775",
+      "author_id": "UCsAoqJy_O9KiyPxOUOTXc2g",
+      "text": "Didnt win imo, several people got perfect scores while openai supposedly scraped a 84%. Will be blocking this channel so I dont have to see clickbait titles in future 😁",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markuspfeifer8473",
+      "author_id": "UClBTcx6K4Kp0TuL3fKidBMg",
+      "text": "Interesting achievement, but PLEASE don't make it sound like they solved P vs NP, Riemann Hypothesis, Perfect Number conjecture, Navier-Stokes and Collatz-Conjecture in one go",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jannovak4783",
+      "author_id": "UCS31XDJ-p5VHgKfSj7BVuDw",
+      "text": "Horrible thumbnail",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-yg4ff6sb8y",
+      "author_id": "UCOPDUszfmSt6BOJr0YzIvvg",
+      "text": "thats terrible returns.. you sound like an amateur.. I dont settle for anything less than about 250k a day, even then im dissapointed sometimes. go back to school boy",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seanspraguesr",
+      "author_id": "UC1AoCGQXquQQHxcDIgCvzog",
+      "text": "Want to resolve math —- Primes as Rotors in GA, dr=ip, IS = ♾️-1 , 0/ 1 duality are you Hammer, screw driver, tape measure, , speed square … wake up people , learn math and we will be free of the woke mind virus of stupidity and selfishness !!!",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DonG-1949",
+      "author_id": "UCCNPow1wNt1rZp4m9mfZ4Eg",
+      "text": "Autism?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrismsimpson",
+      "author_id": "UCfYCMrNbvRpd0AEVx2ArdqQ",
+      "text": "What is more intelligent? Brevity or verbosity? Oppose of whatever Jordan Peterson is 🤣",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dota2RehiX",
+      "author_id": "UCiL5Pk1M5QMgYE_PuvlcObw",
+      "text": "I see the thumbnails and don't click \"Don't show videos from this channel\" so I can know what stupid things my friends will be saying about AI because they believe everything they read on the Internet about it.",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lesfreresdelaquote1176",
+      "author_id": "UC8uPOrcNcKRJHWB8DBFIWsg",
+      "text": "The problem is that we are moving towards AGI one goal post moved at a time.  🙂",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vangildermichael1767",
+      "author_id": "UCcN5E-YRsjEXBqZEO53iZfw",
+      "text": "The \"NEXT\" step. Understanding the same question the test asks me.  No more breaking it down into simple equations.  The teacher \"broke the question down\", when I was in 6th grade.  The NEXT step is to be a \"big boy\" and decipher the question itself.  \"Figuring out the question\", is the part of life that \"makes\" some people. And not the others.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zanderceo91",
+      "author_id": "UC4Y1-QM-2kYChiIPAhaflJg",
+      "text": "These style of benchmarks are reflective of any true capability. Just optimized for. “FormulaOne: Measuring the Depth of Algorithmic Reasoning Beyond Competitive Programming”, this benchmark demonstrates all models can’t reason. They’re just long context models. Grok 4 heavy got 0% lol. 03-pro for less than 1%. Reasoning is latent base. Thought tokens just give the more latent space to figure out the right prediction. Turn the thoughts tokens into dots and watch performance remain about the same, because they aren’t real thoughts.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nebe01",
+      "author_id": "UCl55UEq6bsBLhmo3moHfuKg",
+      "text": "This is the worst channel the algorithm keeps recommending these AI hype without substance. I always cringe when I watch these videos.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RikkTheGaijin",
+      "author_id": "UCywm3rrXdYVn1GX6dikP2yA",
+      "text": "this dude is such a OpenAI shill",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@a13Banger",
+      "author_id": "UC0XiBHe3b62IzJsNwLxDBAw",
+      "text": "For my own personal use, Grok 4 has done the best by far for complex code debugging and creation. It is quite expensive and I hope OpenAI will catch up in terms of coding as I prefer it",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TylorBennett",
+      "author_id": "UCKyUe3XvslqUTwJ5hFzdIEw",
+      "text": "Musk was saying Grok will discover new technologies and new physics within 6-12 months. But, once AI can discover new technologies and new physics, once it crosses that threshold, it's going to discover all the technologies and physics. That's when everything will have to change.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AC-cg6mf",
+      "author_id": "UCzwNL4aGZ-xKSqeeKUNOTRw",
+      "text": "If you can't plop the model into a robot and then it can fix my leaking roof, it is not general. If it can't learn new skills on its own and retain the knowledge, it is not general. Not AGI. Still specialized but a little less narrow than before.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cacogenicist",
+      "author_id": "UCOeNj9DCtp2uOYYD9CpuHLA",
+      "text": "\" ... project that forward ...*\n\nIndeed. I run into people all the time who are certain that these models absolutely can not do a bunch of things that they've been able to do for at least a year now. \n\nBut project forward these models' current ability to learn from interactions with the world (including humans), commit that info to persistent memory, and then send that info upstream, to update the underlying models' weights -- and you get ... NOTHING. The models are still static. Frozen. Big context windows are cool, but that only practically scales so far. We don't have a situation analogous to meat brain plasticity. \n\nWe have seen ZERO developments in continuous learning -- or at least zero that have shown up in available products. \n\nIt's not AGI until it gets better at things from practice, and until I can teach it to do something like I would teach a human, and it remembers it forever.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@habilis999",
+      "author_id": "UCqAXdE43uqpSnwyxGorwgzw",
+      "text": "ai will never be conscious. Even when it looks and sounds and acts as if it is. It’s just an act. Even when it uses emotional filtration. It’s just an act, it’s just an echo.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sayamqazi",
+      "author_id": "UCLBmUnDe4dX09NjqK08ts7Q",
+      "text": "Meanwhile their paid model cant even create a simple nested drag and drop interface for which there are literal codepens avaiable publically. I have tried it with many premium models and none of them have succeeded so far.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brjohow",
+      "author_id": "UCYUWEa3vF03VTe5BQvTnxTQ",
+      "text": "benchmarks are boring. solve cancer, aging, fusion reactors, etc, then brag. only thing ai keeps doing is benchmarks, huge energy burn and excuses for layoffs.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrStarchild3001",
+      "author_id": "UC2gOuzgFgvhZu63DBkcLC5w",
+      "text": "OpenAI is a hype machine. I don't trust a single bit that the model they're talking about is \"consumer grade\" (namely offers reasonable cost or time). It's not different from Google's Gold Medal winning model in this regard.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FullMetul",
+      "author_id": "UCe9IItiSjTnBxnY8Bi2j7wg",
+      "text": "I think a better title might be OpenAI just solved math competition but thats just my human brain wanting to fill in the next token in the sentence.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DihelsonMendonca",
+      "author_id": "UCsvoK5T0DdqHZ2XAUujrI3A",
+      "text": "Yet, APPLE 🍎 thinks that AI models can't \"reason\", 😅😅😅",
+      "likes": 6,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kowboy702",
+      "author_id": "UCQFqZy-Y50u6J3fhAd6RR4g",
+      "text": "It’s not useful at all if it also fails at far simpler math lol",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Phagocytosis",
+      "author_id": "UCNrTZu1uzxyyg51S0ugRY1Q",
+      "text": "I think intelligent people typically are a bit more verbose, because they see a lot of nuance that often can't be conveyed in a brief answer. But within the confines of what they want to say, they probably find ways to be efficient with their words.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@empiric12135",
+      "author_id": "UCyGeDsHzAxyNobTL2ZzlMPw",
+      "text": "No qualia, no AGI.  Math is (relatively) easy.  Try \"how do you feel\" that isn't parsed human output.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@partythenwork",
+      "author_id": "UCgCipvrNG0zh2KuBQOwHrHg",
+      "text": "Didn't Grok 4 already get 100% on the test?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@meandego",
+      "author_id": "UCy2w3lX8Fe-pO5HEFivueZg",
+      "text": "Not impressive. Boring.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erobe2334",
+      "author_id": "UCj3X2ZHyVRtx3Cj2kxnXJLA",
+      "text": "We need to understand that if an AI becomes even slightly better than a human at scientific research, running a million copies of it simultaneously would create a research force 100 times more powerful than all human scientific teams combined.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ismaelplaca244",
+      "author_id": "UCekLWmcWVPF_Y0riDNwtxxA",
+      "text": "I call BS",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wido1440",
+      "author_id": "UCdv3bA610U_DRm_7r8KcRcA",
+      "text": "Better than humans does not mean more intelligent. There’s also a thing called economics, and probably a few others (politics) that play a factor. Framing this in terms of intelligence is plainly wrong.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frankbeveridge5714",
+      "author_id": "UCbdMAfOHJJqt9SwpFTYW0Kw",
+      "text": "4x4=15. Math solved, AI style. 😅",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neodebates",
+      "author_id": "UCXiA7FYB18JP2zHP7Yh4N1A",
+      "text": "first",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tjmns",
+      "author_id": "UCRpSq2NxClXXJAOBzMuATpw",
+      "text": "So... it still hasn't discovered any new breakthroughs simikar to what man has in the past century.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tolbiac-od3cw",
+      "author_id": "UCUhw1ELXOoDKOH5AaLE_2yQ",
+      "text": "First.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HouseOfSynister",
+      "author_id": "UCBn49tGyn3mTRqI0Y8aBe7g",
+      "text": "First, just always wanted to be. Love your stuff Wes!!!",
+      "likes": 4,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@townhomes13",
+      "author_id": "UC4XVjUedJLUvmDVC0v13vBQ",
+      "text": "If the video had an accurate title, i would have liked the video.  Instead i marked it as uninteresting, blocked the channel, reported the content and left this comment to remind others, doing everything I could to detract from your reach.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@roberthewat8921",
+      "author_id": "UChLmKqP8n7wxZDhEsBPrJRA",
+      "text": "AI - Actually Indians",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@partythenwork",
+      "author_id": "UCgCipvrNG0zh2KuBQOwHrHg",
+      "text": "This sounds basically like vaporware from openai as usual.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@irri4662",
+      "author_id": "UCR7pHzDDrYdH8LVEmsJ5C0Q",
+      "text": "Next double s curve.  Understanding women",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@roboverholt9959",
+      "author_id": "UC28MqMN2s0MD_ymJvXO-P7A",
+      "text": "10th :P",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dolapoalli467",
+      "author_id": "UC4V5_3K7Wa44uXzBqvquCuQ",
+      "text": "it is still thrash.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MikkelGrumBovin",
+      "author_id": "UCRMYlq7EjS_4WPtd7DpejTw",
+      "text": "Sit back and like Jabba the Hut - let a mascine intelligence think for you .... Really foreward thinking ! \n🤡👞",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djangosouthwest6043",
+      "author_id": "UCcMmiKBhuSAFwBBhAQBtoRA",
+      "text": "Third",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

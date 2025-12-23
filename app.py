@@ -743,6 +743,20 @@ def modeling_topics():
     return jsonify(data)
 
 
+@app.route('/api/modeling/hierarchical')
+def modeling_hierarchical():
+    """Get the latest hierarchical topic extraction results."""
+    topics_file = get_latest_file(MODELING_DATASETS_DIR, 'topics_hierarchical_*.json')
+    if not topics_file:
+        return jsonify({'error': 'No hierarchical topics found. Run hierarchical_pipeline.py first.'}), 404
+    
+    with open(topics_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    
+    data['filename'] = os.path.basename(topics_file)
+    return jsonify(data)
+
+
 @app.route('/api/modeling/stopwords')
 def modeling_stopwords():
     """Get detected stop words."""

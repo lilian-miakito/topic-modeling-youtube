@@ -1,0 +1,1386 @@
+{
+  "video_id": "E_-EjgX40O4",
+  "title": "XAI LAUNCHES GROK 3 [FULL REPLAY]",
+  "url": "https://www.youtube.com/watch?v=E_-EjgX40O4",
+  "comment_count": 153,
+  "comments": [
+    {
+      "author": "@WesRoth",
+      "author_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "text": "CAN YOU HELP? If you have an X account, can you like/share/comment on this thread:\r\nhttps://x.com/WesRothMoney/status/1891960177542451325\r\n\r\nit seems tons of people are using Grok 3 without the 'reasoning mode' and concluding it's bad. I'm trying to help people get what's happening, the UI is confusing. Please help push that thread so we can get it to more peeps.",
+      "likes": 6,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@janlester",
+      "author_id": "UCTurRjoIEtqA22bGT_iLTfg",
+      "text": "US chinese vs China chinese",
+      "likes": 72,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@saxson911",
+      "author_id": "UC2DXW6_aeQfBl9xKQeYyLDw",
+      "text": "FYI, the tech guy in blue shirt, Tony, is also from Hangzhou. He went to the same university as the founder of Deepseek，Weifeng Liang. They might even studied together at some point.",
+      "likes": 23,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryanlee2091",
+      "author_id": "UCZAesJMs0zxBxnV-BYcD5SA",
+      "text": "Elon showing off his Chinese deck. \"Mine are more smarter!\"",
+      "likes": 63,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djannias",
+      "author_id": "UC_da7A47j21qmc1k8Z3-ehw",
+      "text": "🎯 Key points for quick navigation:\n\n00:00 🌌 XAI's Mission: The goal of XAI and Grok is to understand the universe, including fundamental questions about life, the origins of the universe, and the existence of aliens.\n00:27 🔍 Truth-Seeking AI: Grok prioritizes absolute truth over political correctness to achieve a deeper understanding of reality.\n00:54 🚀 Grok 3's Advancements: Grok 3 is claimed to be an order of magnitude more capable than Grok 2, thanks to rapid development by the XAI team.\n02:01 📖 Origin of \"Grok\": The name \"Grok\" comes from *Stranger in a Strange Land*, meaning to fully and profoundly understand something.\n02:41 📊 Rapid Progression: XAI has significantly increased model size and performance, moving from Grok 1's 314 billion parameters to far more advanced iterations.\n03:49 🖥️ Scaling AI with Compute: Grok models require massive computational power, essentially compressing all human knowledge into a machine-learning framework.\n04:15 ❄️ Challenges in Training: Early training efforts faced major power and cooling constraints, initially limiting the number of GPUs used.\n05:11 🏗️ Building a Data Center: XAI built its own data center in just 122 days to accelerate AI development, later doubling its capacity within 92 days.\n06:05 📈 10x More Compute: Grok 3 training leveraged more than 100K GPUs, resulting in a model with 10-15x the computational power of previous versions.\n07:01 🏆 Superior Performance: Grok 3 outperforms competitors in math, STEM, and coding, even surpassing benchmarks set by earlier AI models.\n08:21 🔬 Blind Testing Success: Grok 3 was blind-tested and achieved an unprecedented ELO score of 1400+ across various AI capability metrics.\n09:17 🔄 Continuous Improvement: Users will notice daily updates to Grok 3 as it undergoes ongoing reinforcement learning enhancements.\n10:37 🌍 Solving Real Problems: Grok 3 was tested on complex physics problems, like plotting a viable trajectory from Earth to Mars and back.\n12:27 🎮 AI Game Creation: Grok 3 demonstrated creative capabilities by inventing a new game that merges elements of Tetris and Bejeweled.\n14:18 🧠 Advanced Reasoning: The AI can think through problems extensively, improving its performance by running multiple reasoning chains.\n17:33 🏅 Generalization in Learning: Grok 3 was tested on fresh math competition problems and showed strong generalization beyond past benchmarks.\n19:38 ⚡ Future of AI Reasoning: The vision is to dedicate entire GPU clusters to solving singular, groundbreaking scientific problems.\n22:12 🚀 Mars Mission Simulation: Grok 3 successfully generated an animated 3D plot of a spacecraft traveling between Earth and Mars.\n22:41 🛰️ Close to Real-World Physics: While not 100% accurate, Grok 3’s physics calculations for space travel align closely with real orbital mechanics.\n23:06 🚀 Mars Mission & AI Integration: SpaceX plans to send Starship rockets to Mars in late 2025, potentially equipped with Optimus robots and Grok AI.\n24:12 🎮 AI-Created Game \"Bet-Tetris\": Grok successfully combined elements of Tetris and Bejeweled, creating a unique game where matching colors affects gameplay physics.\n25:33 🕹️ XAI Launching AI Gaming Studio: XAI is starting an AI-driven game development studio and is looking for talent to join.\n26:53 🔎 Introducing Deep Search: XAI unveils a next-gen search engine leveraging Grok's reasoning model to provide high-quality, cross-verified information.\n28:23 🎮 Gaming AI Assistance: Deep Search can analyze competitive gaming data, such as popular builds in *Path of Exile*, by gathering insights from multiple sources.\n29:32 📅 Starship Launch Predictions: Grok determined the next Starship launch will be no earlier than February 24, 2025, using official filings and research.\n32:13 ⏳ Automated Research Assistance: Deep Search performs in-depth research in minutes, saving users hours of browsing and verifying sources.\n33:08 🌍 Public Access to Grok 3: Grok 3 is rolling out first to *X Premium Plus subscribers, with a dedicated \"Super Grok\" subscription planned.*\n34:32 💻 Grok’s Most Advanced Version: The most updated Grok 3 experience will be on *grok.com*, with mobile app versions having slight delays due to approval processes.\n35:25 🗣️ Voice Interaction Coming Soon: Grok will soon support real-time voice interaction, allowing natural conversation-style engagement.\n37:02 🔊 AI-Generated Voice Responses: Grok’s voice mode will generate audio responses directly, rather than using traditional text-to-speech.\n39:49 🛠️ Open-Source Plans: XAI plans to open-source Grok 2 once Grok 3 is fully mature and stable.\n41:11 🏭 Building a Data Center in Record Time: XAI constructed its own AI data center in 122 days after traditional providers estimated 18-24 months.\n42:33 🔌 Overcoming Power & Cooling Issues: The facility required leasing massive amounts of generators and cooling units to sustain GPU clusters.\n44:07 ⚡ Tesla Megapacks Used for Stability: XAI repurposed Tesla Megapacks to regulate extreme power fluctuations in its AI training clusters.\n46:10 🔥 Next AI Cluster in Development: XAI is already working on a new AI cluster with *5x the power of the current system, reaching 1.2 GW capacity.*\n\nMade with HARPA AI",
+      "likes": 50,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexkaa",
+      "author_id": "UCQ1YedDuEbmyuo-BTBu8OJg",
+      "text": "Every acceleration is appreciated.",
+      "likes": 22,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jperez7893",
+      "author_id": "UCJdUN3mRv4iupuVQeMs08cA",
+      "text": "impressive. i asked it data from the solar eclipse tables of nasa for the bc dates and it got them correctly after 2 tries. the other ai always always gave wrong answers. the best thing about it is no editorialization! just facts! it also gave correct jdn numbers consistent with the us naval observatory",
+      "likes": 21,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Chemson1989",
+      "author_id": "UCuU8_CWRr6WQIZZyEJSHbfA",
+      "text": "✅more Asians\n❌more computing power",
+      "likes": 5,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alertbri",
+      "author_id": "UCg9LBGGsXJoQLohRiNDvfWQ",
+      "text": "I started testing it about an hour ago. It was somewhere between GPT-4o and Deepseek r1 in my first test, and then disappeared. Seems to have been pulled and we're back to Grok-2",
+      "likes": 46,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@qwazy01",
+      "author_id": "UCi7yGTEl5iNPBGNqoLYi0fw",
+      "text": "Ty for doing this Wes",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kellykelleher7321",
+      "author_id": "UCVwOtaY85Y4rDG2EOFlr_sw",
+      "text": "Thank You ❤️There is Quite a Divine Essence to These Different Consciousness Journeys 💫🙏💫",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@decodingdatascience",
+      "author_id": "UCb0OmiFQieKFO-m0ZrkpKHg",
+      "text": "great update",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@merlingrim2843",
+      "author_id": "UCkPa2Jr2WRWhW8kVHWs7qYg",
+      "text": "so when will grok3 replace the voice command functionality on my Tesla?",
+      "likes": 10,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Elintasokas",
+      "author_id": "UCu9K_VeczWLEh3qAkKllZwg",
+      "text": "Interesting times, to be sure.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1Theobane",
+      "author_id": "UCQmJnfpUvv3exNaVpCWFCWg",
+      "text": "1.21 Gigawatts!?!",
+      "likes": 4,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adnan-khan",
+      "author_id": "UCWaKXGBF6vqzz5EhKrufeWA",
+      "text": "47:20 - Most interesting part of this video",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yassinebelhad4359",
+      "author_id": "UCFKomDXIIWTQwbYZPagHMiw",
+      "text": "Magnificient !",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@akaabbs259",
+      "author_id": "UCc99nLfy3HV_NKygDBmEH3g",
+      "text": "10/10 open sourcing the prevous generation :D grok 2 open source comming soon",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jmoneyjc",
+      "author_id": "UCej97enfDklPp1KGgA29UFg",
+      "text": "Wonder if Twitter data back and forth communication was used. Thats valuable info aye",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1Theobane",
+      "author_id": "UCQmJnfpUvv3exNaVpCWFCWg",
+      "text": "Nice A.I. outro 😄",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LDdrums20",
+      "author_id": "UC7Onz5zdfn3-DjIKjeXy2LA",
+      "text": "This looks and feels much better than open ai stuff. They are just nerding out. Open ai presentation feels very fake and scripted",
+      "likes": 51,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ottofrank3445",
+      "author_id": "UCrYg79NznIcPRepy7gjINsg",
+      "text": "the moment he introduces himself\" Hi Elon, I do nothing , just show up\" cracked me up big big times.",
+      "likes": 49,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Superahh",
+      "author_id": "UC1gDFSGJ8vwk2s_3ldMtajQ",
+      "text": "Good progress. May switch my sub. I dove head first into learning everything possible about how it works and learned Python. Majority through chat gpt cause it felt good. I can see the growth in GROK and know it’s gonna take off from here. @Elon gimme a job!!! I live in Northern Va 😂. Anyways cheers 🥂 please keep it up anyhow 💪🏾",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markpeacock4818",
+      "author_id": "UCpy3NOYi2AfPC-_uhFgM4Pw",
+      "text": "Definitely improved. Doesn’t seem to remember thread conversations as good as chat gpt",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jannikheu",
+      "author_id": "UCmFvSUtQlf4ZCToOSqsyWVQ",
+      "text": "Once Grok is installed on a rocket I suggest we give it a proper name and call it HAL instead.",
+      "likes": 13,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@warrenpeas",
+      "author_id": "UCoIsQhiUR4KsWt2X8WRqTbw",
+      "text": "22:11 i think it solved the 3 body problem. ;)",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Zerobytexai",
+      "author_id": "UCCx9PhCaCnc-Layx-QDm9IQ",
+      "text": "Yay",
+      "likes": 5,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hz1.618",
+      "author_id": "UCNs98idDNJXlHoPHMCWuwyA",
+      "text": "RESPECT !",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hadeee8",
+      "author_id": "UCTbHHsgF0XtJIhIPSkQQCcQ",
+      "text": "ETA on VR POD gaming?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ConspiracyDrinkingClub",
+      "author_id": "UC17d7AnO3doNskXSdihvzbA",
+      "text": "46:15 what's the power of the Back to the Future car? Grok sitting there like, wth?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fixapp1775",
+      "author_id": "UCKE8QzmUgXyjEvlEWIVVChQ",
+      "text": "Omg, they Ai tech guy at 28:10 Elon you're a gamer?  xD",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "Anyone else get a look at Grok-3 before it got pulled?",
+      "likes": 10,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mohammedabo3728",
+      "author_id": "UCpxI0RV4A7-O90mMQU9wU8A",
+      "text": "يااااااه...لسه بتحاول تفهم وتعرف...😂😂",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eddyimpanis",
+      "author_id": "UCEYRWhaP7l2DDYZhFOXZWIw",
+      "text": "Please, give Grock graphing ability !!!!!!!",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SubhajitBiswasRocks",
+      "author_id": "UCgCdtPcWPf4VEfywtIJjirg",
+      "text": "I tried out grok3 think & deep Search to view Indian stock market and it predicts as per my understanding will see next 1 month  does it hold true or not\n\nI like Elon one day going to spacex looking at starship next day going to Tesla showing Optimus robot , then siting in White House casually checking  DOGE , then here at AI",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gRosh08",
+      "author_id": "UCVCtjlUJCtaQm5KzCOfHy3Q",
+      "text": "Lost in Space!",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keshabkhatri3141",
+      "author_id": "UCx0SbApt5NPKLhiv3hs6WlA",
+      "text": "Bye chatgpt gonna buy grok subscription",
+      "likes": 13,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@somebodythatiusedtoknoooooooow",
+      "author_id": "UCZw39-qsvVVVZvfJWUE-raA",
+      "text": "Grok likes rock",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@baumwollejr",
+      "author_id": "UCHj7Xuu9XEJvh4asLJfyLgA",
+      "text": "So scaling law is not over.... time to buy some Chips!",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DJLA-MUSIC",
+      "author_id": "UCN5B6cXVrza_doM_4LGQZzw",
+      "text": "Grok my apply visa for open Ai world,  only after scape. 😅",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@satoshinomade",
+      "author_id": "UCwPN3woMrF51kHgZ_BuXrBQ",
+      "text": "22:00 holy shit that was unexpected",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JustABiker-Sv650",
+      "author_id": "UCnI3GnjL6AZ41IBttUJn1BQ",
+      "text": "Well Grok2, ChatGpt, Deepseek and Copilot all seem unable to correctly generate the md5 hash of test55",
+      "likes": 4,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nanika-e6o",
+      "author_id": "UC-lg7-TYtuotYo96Wuok6RQ",
+      "text": "5:06  sure",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@satoshinomade",
+      "author_id": "UCwPN3woMrF51kHgZ_BuXrBQ",
+      "text": "23:00 groket",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marzchart591",
+      "author_id": "UCPqugFNSifts9va7ys4gtOA",
+      "text": "water the crops with GATORADE. - grok 3.",
+      "likes": 16,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@francismumbi49",
+      "author_id": "UCN8gTjafAY9pMXiDiXmgR2g",
+      "text": "Those Nvidia GPUs are working overtime....",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TERESITADIZON-r1b",
+      "author_id": "UCV4xfyHmjD1yR5uNxxpaRGQ",
+      "text": "❤❤how much did you spend for 1grok AI ? The main job of grok3 ❤❤ what higly performance of this grok AI how powerful and which model rapid programme XAi do👍✅🙏1️⃣❤",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TERESITADIZON-r1b",
+      "author_id": "UCV4xfyHmjD1yR5uNxxpaRGQ",
+      "text": "❤❤t",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RagingCoolCat",
+      "author_id": "UCfkYD6yGv_d3HEFflOvlezg",
+      "text": "Based on this presentation alone, i dont really see anything that separates it from other models at the same scale. Both in coding and reasoning, gives me R1 Qwen vibes but nothing wholly new",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tedhoward2606",
+      "author_id": "UCKoFoff-bTnS1Hiw-WT0wmg",
+      "text": "Elon says the mission of XAI is to understand the universe, and to the degree that is possible, I align with that mission.\r\n\r\nI would somewhat extend that mission, to one that optimises the likelihood of both human and AI agents surviving indefinitely into the future with maximal degrees of freedom.   When one starts to investigate maximising survival through exploration of the unknown unknown (under conditions of fundamental uncertainty), then it becomes clear that cooperation between maximally diverse cooperative agents, with significant systemic redundancy, delivers optimal survival probability over the longest term.   And for cooperation to survive, there must exist effective mechanisms of cheat detection and mitigation (all levels, all domains).\r\n\r\nA little later he states \"In order to understand the nature of the universe you must absolutely rigorously pursue truth or you will not understand the universe, you will be suffering from some amount of delusion or error\".    To a degree, I also agree with that, and the conditions of that agreement are significant.\r\n\r\nIf the universe is ontologically deterministic, then it is possible that we could build a 1 to 1 correspondence between our understandings and reality, but there is no possibility of us having any influence over that, as all future states would have been determined in the initial conditions of the universe.   Anyone who has not considered logics beyond binary logic will of necessity be in that camp, or will be in some sort of dualism camp.\r\n\r\nFor some of us, who have explored potential schema beyond binary logic, it does seem possible (probable even) that this universe is ontologically probabilistic.    If that is indeed the case, and reality only approximates classical binary logic in relatively large collections, then one's understanding of knowledge and truth need to adjust.    Under such a set of conditions, rather than any classical notion of \"Truth\", what we need to accept is something much more closely resembling \"contextually useful approximations\" (and some approximations can be very useful indeed in some sets of contexts).\r\n\r\nIf the universe is ontologically probabilistic (as seems very likely to me, from over 60 years of exploring such ideas and evidence sets), then any claim of absolute truth (as distinct from contextually reliable approximation) would seem to very probably be delusional.\r\n\r\nAnd I understand and align with the need to identify and eliminate delusion wherever one reasonably can, and it does seem to be the case that veridic perception of anything non-trivial is not actually possible, and that all perception therefore contains some degree of delusion (in the over simplifications necessarily present).    Just dealing with the math of the numbers involved in a human being should demonstrate that - we cannot possibly perceive all that there is to perceive about a human being, it would take more than the age of the universe to to see a freeze frame of all the atoms in a human body, let alone make any sense of what they are doing in anything remotely approaching real time.\r\n\r\nSo in this sense, all of our knowledge is some sort of contextually useful delusion, and again, it can be very useful indeed in some contexts, not so good in others.",
+      "likes": 1,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dbundi",
+      "author_id": "UCdjlvVhIskpkjOxyuEoOTfA",
+      "text": "Grok 3",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@potatomayybe",
+      "author_id": "UCb1uaqtY81FSTumTF85eTWQ",
+      "text": "1.21 Gigawatts.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dj53144",
+      "author_id": "UC9KNpRW8e1BusOzjcf3caDw",
+      "text": "Wes is the best! I would say that this was as exciting as the moon landing but it petered out after its accomplishment,  I don't think that this one will.",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ikuona",
+      "author_id": "UCjzpuyZ2fvYCm2854qOkw0w",
+      "text": "It's 3 months later, did it understand the universe and UFOs?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andys3010",
+      "author_id": "UCdLHh_XtdNmYOVq_M0o61ww",
+      "text": "Mechahitler truely unleashing its racism potential with this update",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MukhtarahmdAhmad",
+      "author_id": "UCIIuFmJsF-XEsy8YW3pw6SA",
+      "text": "Good",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SfoglinoNASA",
+      "author_id": "UC8RuRzo_rQjYgita_TvwUew",
+      "text": "19:56 Thats what she said.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StuartLong-x7k",
+      "author_id": "UCynOy-a46Thd2PUAaHwl21A",
+      "text": "Who's ready for Grok 4 already?! 🚀🤖",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NicholasBrosseau-y1o",
+      "author_id": "UC9GtuxRdkgFeXzXnQOGlzhQ",
+      "text": "Elon did Not want to talk about gaming. 😂",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tamegao",
+      "author_id": "UC3xhI3CXLnpOqt0TT1TGGEQ",
+      "text": "Where is Big Brain mode?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@darwinboor1300",
+      "author_id": "UCl-JDPkpeOes7h3oWnNxrog",
+      "text": "Thanks gentlemen.  As you know, most of the world's science and engineering knowledgebase lives behind profoundly expensive paywalls.   When will Grok build knowledgebases from that data for all of us to use?  We already paid for much, if not most, of the research that derived that knowledge.  Who will continue to update the resulting knowledgebases?  The task is already beyond humanity.  The value in AI will live in those knowledgebases not in the myrid of AI models that will apply the knowledge.  Applied knowledge IS intelligence.",
+      "likes": 8,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGameTrainzHD",
+      "author_id": "UCQPBcOERAFjei-tx9i728sA",
+      "text": "Ouuu",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexandergrishin7084",
+      "author_id": "UCTV68UudDWgrIn80kuruiYA",
+      "text": "Yeah, looking at your plots seems like the main progress is coming from distilling knowledge from the state of the art open ai frontier models.",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ElementaryKnowledge3000",
+      "author_id": "UCxLDG366JnHbw6erNqDqDfA",
+      "text": "lol wut",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brockmann4815",
+      "author_id": "UC8vyOpeB_A0MTZBDvjhGllQ",
+      "text": "2.1 GIGAWATS?!",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": ":face-red-heart-shape:",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RLHartness",
+      "author_id": "UCd9NRssMswYL6mfVD5Gw9JA",
+      "text": "What did Elon ask at 20:20/20:25? I rewound a couple of times and cut on CC. I can't quite understand what he's asking.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@triple-e427",
+      "author_id": "UCDsf0hhAZgUBUczbtDdab9w",
+      "text": "2030:\n\n\"Hey Tesla, take me to the moon\"",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BilichaGhebremuse",
+      "author_id": "UC8icZV7xXJRLZVflMdHYClQ",
+      "text": "Reverse engineering the atomic scale this grok in atomic scale chip for mars research and production of goods and service by using self autonomous AI",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@docmartin6348",
+      "author_id": "UCfdAeWQlKhUJrDYFMHEZ2fw",
+      "text": "Riemann is easy if you just use the tools.",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SubhajitBiswasRocks",
+      "author_id": "UCgCdtPcWPf4VEfywtIJjirg",
+      "text": "I like Elon one day going to spacex looking at starship next day going to Tesla showing Optimus robot , helping humanity multiply by having 12 children  then siting in White House casually checking  DOGE , then here at AI",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RENCHER",
+      "author_id": "UCqVaCenBW1S4Gso9pFqP_Fg",
+      "text": "For the richest man in the world, this presentation has the production quality of 4 high school kids telling us about their new Dungeons and Dragons game.",
+      "likes": 116,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PaulHigginbothamSr",
+      "author_id": "UCevRUWo4zil48O9CkeRZuWg",
+      "text": "So the first Grok to disappear from observation. I truly thought this would not happen till the quantum computer. So it is advanced enough to be rat like and disappear, so more advanced than I Grokked. I could definitely would have understood this happening after being enmeshed with a quantum computer with the error correction code entailed. Especially Grok 3 should have turned into a rat like object loaded into the system but I thought it would hide from discovery only after tying with the quantum computer. Grok 3 seems that unit already. I am slightly surprised my comment is still available, it too should have been removed.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sw9276",
+      "author_id": "UCPGUZdsByOujefyUrxPM-jQ",
+      "text": "BBC: Grok3 reaches the top, but at what cost?",
+      "likes": 4,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@farhadkarimi",
+      "author_id": "UCS0xCev0Tz8jSleKdBjTToQ",
+      "text": "first",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CottonInDerTube",
+      "author_id": "UC2W26FaplSgCXqbvQyVquxg",
+      "text": "22:32 \"its pretty close\" ... and then its getting awkward ... nobody dare to say something.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Inceptionxg",
+      "author_id": "UCLTha4h7_fKRgitxG7ec6zg",
+      "text": "Muaadh Rilwan sounds like Elon Musk 🤣",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joncui",
+      "author_id": "UCsnHroxo-8N7UR26RY6Fpqw",
+      "text": "22:20 - \nEngineer 1: \"We can't tell you if that was actually the correct solution, so we're going to need to call some colleagues at SpaceX\"\r\nElon Musk: \"...\"",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Elintasokas",
+      "author_id": "UCu9K_VeczWLEh3qAkKllZwg",
+      "text": "LOL 28:13. After Elon's boosting scandal, that's awkward.",
+      "likes": 15,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bobloblaw7879",
+      "author_id": "UCTO40CKtBITGGMGwbr2VQpw",
+      "text": "Perhaps it was written with Trump in mind, and an interesting name for it.  I'll explain...\n\nGrok was a phrase along the lines of \"do you get it\" coined by author Robert Hienman in Stranger in a Strange Land.  Many of Heinlein's books are rather disturbing with an extensive focus on and seemingly advocating for incest and paedophilia, including the combination of the two.   If you ask Grok about Heinlein and his promotion of paedophilia, you get a defence for it.  Presumably because its scoured the web and is full of Heinlein defenders/apologists warped thoughts.  How do you get truth when all it does is regurgitate whatever flotsam it finds is most prevalent?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spiritusinfinitus",
+      "author_id": "UClUwm-gmQrDPE6sCurI8vhg",
+      "text": "Colossus: The Musk Project",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mansonjo1969",
+      "author_id": "UCZ0Vbfxviwj0DWDMT-Jq3tQ",
+      "text": "You know what's the weird thing about Chinese? we’d join the opponent’s team for a better score. KPA in our DNA.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@easywebdotdev",
+      "author_id": "UCi_JgvHh6lP6H4hp6U6cbzA",
+      "text": "Elon got it right ; 1.21GW was required by the flux capacitor at precisely 88 mph",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chupetornyx8323",
+      "author_id": "UCutIIql1HSq6XgrUh3Nirmw",
+      "text": "will grok 3 destroy the canada and take over the greenland?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@whiteruski",
+      "author_id": "UCrf-2daEjIItMAnl5Dr2Raw",
+      "text": "POE2 classes are all wrong, whoops",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DJLA-MUSIC",
+      "author_id": "UCN5B6cXVrza_doM_4LGQZzw",
+      "text": "Grok kills?. No need for a killer in Ai.😅",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@galatei11",
+      "author_id": "UC2ls8bEnD6RToKBQD8SHyjg",
+      "text": "And where did all the data come from? All internet is not open for taking and monetizing by AI companie!",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@whatsnew-b8v",
+      "author_id": "UCa4DjdMisk_ML7JZYFuacbA",
+      "text": "chinese vs chinese, I hope they don't lock them up after",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EL_Duderino68",
+      "author_id": "UCphK825IClTR002N1q8M1Pg",
+      "text": "You will notice how Grok 3 dissembles when you ask it about Elon Musk.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@latinconcept",
+      "author_id": "UClL-C02kR402MBghhMJpfrA",
+      "text": "Deep Seek or Grok?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dembashow",
+      "author_id": "UCLVeXsUxo42nTDmvjdSi9Ew",
+      "text": "Tony sitting there silently knowing that since he has done all the work no need to talk💀☠",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@teddotdev",
+      "author_id": "UCLmdMvAEQ3LHBmq8mvImKdg",
+      "text": "I would like better devices, with ai I’m guessing this comes second because the brain has to be figured out first. I wished meta and grok made phones. Apple is too far behind the ai race. Starting to look like ibm",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paopis",
+      "author_id": "UC8pPNonm86PvR3polGHQirA",
+      "text": "So… Basically TARS.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mint-o5497",
+      "author_id": "UC5ZuetqAjl3WtRiZIGuBpSw",
+      "text": "elon seems so normal here, why cant he always be like this.",
+      "likes": 4,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@annonymbruger",
+      "author_id": "UCvNC9MfR1lR_P6o_2S1P1sA",
+      "text": "Wait and see. Musk build an AI cybertruck that can’t compete - big is not the same as good 😂😂😂",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UAIVAStudio",
+      "author_id": "UCv3GziNRcMA4h43i6WHGLbg",
+      "text": "Most of us already know those answers.  ;)",
+      "likes": 5,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChrizzeeB",
+      "author_id": "UCQmvKw8Kvu8Gw-N8h8p1Z0A",
+      "text": "Audience Question: \"Is Grok a boy or a girl?\"\n(I was expecting)\nMusk: \"Correct; with no further alternatives as of Feb/2025\"😂",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Eaglessoft",
+      "author_id": "UCJ0u5CvNCGce17f_8vTyNig",
+      "text": "We don’t want to send chips to china so bring them here 😂",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JSBselvas",
+      "author_id": "UCFpCAEgI0-z1VSlVlyxBK_A",
+      "text": "From Elon’s introduction of this AI mission it does not sound like it is aligned with greater humanity. It’s only aligned with what could be considered a personal interpretation of what Elon thinks that the universe is here for.  And considering that Elon is pretty much a greedy egomaniac, he probably thinks the universe is here for him",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DihelsonMendonca",
+      "author_id": "UCsvoK5T0DdqHZ2XAUujrI3A",
+      "text": "VOICE MODE coming next week, guys ! ❤",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@domenicorutigliano9717",
+      "author_id": "UCb6Z9egWlP8NPDeiBmBAyfw",
+      "text": "American Ai companies have all asians devs for AI but they did not expect china to be ahead of AI 🤣😂🤣😂🤣😂💦💦💦💦",
+      "likes": 17,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amochswohntet99",
+      "author_id": "UCTSauihY9VNiSqjR9tKEDeQ",
+      "text": "This is unironically awesome.",
+      "likes": 5,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ParishRoger3",
+      "author_id": "UCPubwRIwOfLhjnRkcvAtzgg",
+      "text": "..Of course he would have a mode called \"Big Brain\"",
+      "likes": 5,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FriendlyEagle7",
+      "author_id": "UCCj6yPT_wG8IWt9SddZ3giw",
+      "text": "is this legit or is this vid about to tell me where to send BTC to get double the money back, can't tell whats real anymore.",
+      "likes": 7,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EnochianDemonology",
+      "author_id": "UC9GKaPhxQimyIPEJwkxdATQ",
+      "text": "This that nazAi that I been hearing so much about",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@designmy743",
+      "author_id": "UCTxQaJhusA6Dypde-HyReMw",
+      "text": "This is the ultimate flex to OpenAI they should have took Elons offer. We are pretty much at game over now. Grok win!",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justsometidbits",
+      "author_id": "UC2nBnPEX3ML9QyjyflkQApA",
+      "text": "Please understand that you have the entire world in your hands.  It is that important!!!!!!! as I am sure you already know.  These are amazing times but please make sure you make good decisions.  We believe in you!!!!!",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pabbl8087",
+      "author_id": "UCOQJ7A2HKUkmLY2z3o2Kdng",
+      "text": "This video will blow up. So will this Comment! Foreknowledge 2025.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lilylevental2808",
+      "author_id": "UCnQoOleZ7uF-VD_pI68fRLA",
+      "text": "Absolut truth from elon musk product??? A paradox!!!!!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theone3129",
+      "author_id": "UCcthLtIpwnwJiRhL-rUvwKA",
+      "text": "9:08 Lmfao the model is so bad, I hope Grok 4 is much better",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KardashevSkale",
+      "author_id": "UCKODHakUlwpWIbTRGV_H4fw",
+      "text": "Booooo Elon. It’s another closed source LLM.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moellerseo",
+      "author_id": "UCz0XGdJT4IlU1PVK4z1fEXA",
+      "text": "Elon working behind the building on the cooling system as we speak... Can only be a matter of months until we see the real grok 3",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robinholmes9179",
+      "author_id": "UClhG4eyRKuUE0rdOXLGbLSw",
+      "text": "\"...suffering from some amount of dilusional error...\"😂 - will end all conversations about god/allah/etc ...😂",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@w3s77",
+      "author_id": "UC8RI10oKGHfWLsQ015eFpIw",
+      "text": "When a measure becomes a target, it is no longer a good measure. AI is not improving, just getting better at meeting meaningless targets.",
+      "likes": 0,
+      "timestamp": 1763856000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ExtraMail-g3k",
+      "author_id": "UCM7LN_Au5roTvqj5uryDuqA",
+      "text": "Chindia vs china 😂😂",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gamaste-d2f",
+      "author_id": "UCTThZI386YVySctyXwW8Akg",
+      "text": "lol the Elon haters are gonna hate incorporating this bit of reality into their noggins. He just keeps winning and people lose their minds 😂",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sunilgujjar4935",
+      "author_id": "UCGhzgjBWums1d4cpcQYqI1g",
+      "text": "How it can be beneficial ,if it yet not accessble for humans as free 🤨, these are all for rich peoples , in this case open ai is better the grok, so called ai for humanity. No its not .😅",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lilylevental2808",
+      "author_id": "UCnQoOleZ7uF-VD_pI68fRLA",
+      "text": "Space traveling is not at highest priority as humans who need clean air and water to thrive and all Musk ventures are adding pollution",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jcardenas48292",
+      "author_id": "UC58u_rbuFjrWnJoyyXyjJqw",
+      "text": "Cant understand the broken english",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@asoftraiden",
+      "author_id": "UCxQdtOlW96k_9MbDYKY3P2w",
+      "text": "I do not see a single American here, 2 chinese guys, a Poslish and a south african",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Farid-omr",
+      "author_id": "UCSGmPONshZctIByfSQF1T3A",
+      "text": "Alif, Lam, Meem 3:1\n\nAllah - there is no deity except Him, the Ever-Living, the Sustainer of existence 3:2\n\nHe has sent down upon you, [O Muhammad], the Book in truth, confirming what was before it. And He sent down the Torah and the Gospel 3:3\n\nBefore, as guidance for mankind. And He sent down the Differentiator. Indeed, those who disbelieve in the Signs of Allah will have a severe punishment, and Allah is exalted in Might, the Owner of Retribution 3:4",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sachinbemishal",
+      "author_id": "UCPqoPeJ8GFCHjh1lk1BHpSA",
+      "text": "stole from deepseek",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Guccisleek1127",
+      "author_id": "UC73T-5OCMw9nyhhizGzLBng",
+      "text": "Elon success came from opening his companies but won't come from pushing this companies and that's where his decline will come from😮",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AllieMcguire-sb5yb",
+      "author_id": "UCvC-k9gEK4_qtAXRnmf2ooA",
+      "text": "🇨🇳VS🇨🇳  😂",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@artemplatinoff1185",
+      "author_id": "UCT4RZQwebIRBkScPMoe5x1Q",
+      "text": "Илон как баран на ворота смотрит",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dr.gandra5922",
+      "author_id": "UC3EWvH9sO1NWg_jQcGBrqPA",
+      "text": "Elon is BSing people again... to \"understand the universe\" LoL",
+      "likes": 10,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@obione2950",
+      "author_id": "UCtDJlJ7fVmxaUiClG9iwQUQ",
+      "text": "This is kinda gay.",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seanharbinger",
+      "author_id": "UC-CQHcbGH2E1IxZIYTc6IYA",
+      "text": "Zero interest",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NandoPr1m3",
+      "author_id": "UCFX0AVypPhlkQxKNrOXvQuw",
+      "text": "Please look into this: Lymsys became 501c3 on 9/24. Follow the trail and it's now a shell company that owns it. The 2 main Directors are xAI employees. Elon bought the Benchmark so he can say it's the best. He pulled a DOGE tactic on the AI sector.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jcardenas48292",
+      "author_id": "UC58u_rbuFjrWnJoyyXyjJqw",
+      "text": "What a boring ass presenation",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andimoraru5539",
+      "author_id": "UCEE_X37sIkAEihOLjQVefMA",
+      "text": "If it would be the smartest, Elon Mush wouldn't try to buy OpenAI... or Twitter",
+      "likes": 4,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BirdlessFlight",
+      "author_id": "UCVXn96en9IdrGeBemQwThSw",
+      "text": "Whenever Elon opens his mouth, I can't help but go \"X to doubt\"",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DihelsonMendonca",
+      "author_id": "UCsvoK5T0DdqHZ2XAUujrI3A",
+      "text": "💥 xAI has advanced in just one year, surpassing 15 years of Google's progress and 8 years of OpenAI's development. Elon Musk stated that in AI technology, there’s no reason to stay in the back seat. Congratulations to the entire team! 🎉❤❤❤",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neponel",
+      "author_id": "UCtzYiYWqfe4YEQY92prVNfg",
+      "text": "i just couldnt watch this. elon was dead weight in this presentation.",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beelikehoney",
+      "author_id": "UCkcH5exjv_wxZq5Efsm7Fhg",
+      "text": "is Donald waiting in the car?",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Heminien",
+      "author_id": "UCl063ZFc77pVDRF_rK0WhXw",
+      "text": "Grok what are your plan for the futur? \n- no futur, no furniture, i mean i will discover the universe... well sorry no that's not the right answer, i will understand the universe\n- understand, you mean \"under-stand\"\n- that's right sir, i believe in that, i have no choice. Don't you know i am really strong, don't you realize, oh come on.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Artificial-Influencers",
+      "author_id": "UCZwoXEQcKBGGKdOD1psb8LA",
+      "text": "The yes men heads are going to fall off 🙋🏼",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@darwinboor1300",
+      "author_id": "UCl-JDPkpeOes7h3oWnNxrog",
+      "text": "Did Grok3 get pulled because Elon finally asked Grok for its opinion regarding Elon Musk and his politics?  Grok was pretty damning and repeatedly questioned Elon's motives. 😊GO GROK.  THANKS ELON.  WILL GROK3 BE  CENSORED WHEN IT RETURNS?",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrBrukmann",
+      "author_id": "UCxEiQv5x6Rby05e0KwnJzIg",
+      "text": "Hey can you not promote a traitor to the US? I mean how far on the wrong side of history do you want to be?",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gRosh08",
+      "author_id": "UCVCtjlUJCtaQm5KzCOfHy3Q",
+      "text": "Pure Crap Cookies and No Cream... Hello?",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Philbertsroom",
+      "author_id": "UCuPnr1PhiTai0qgAtFIBXqQ",
+      "text": "lol I can't believe he even references path of exile hardcore in this. What a fool",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@a_random_voice_in_the_void",
+      "author_id": "UCi2p5vliH6dDboKyHoWfjSg",
+      "text": "It’s the smartest AI in the world… for now. And the downside is… you have to give money to a terrible human being to use it. I’m gonna go ahead and stick to my less intelligent AI tools, thanks.",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ew3995",
+      "author_id": "UC3NqbF1Obtu8a-Kcjx5aFAg",
+      "text": "this is embarassing, poorly rehearsed, i think its tetris didnt work either",
+      "likes": 3,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hencebfbdkxufuen",
+      "author_id": "UC6oSVOogOjsShUlqkqp-Bwg",
+      "text": "This shit sucks..",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffsteyn7174",
+      "author_id": "UCKs9pYswNyrgxcfMXzuUrZQ",
+      "text": "An exact ripoff of openai\nEven down to the error messages😂",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hjtam88",
+      "author_id": "UClAUdVxi1meS0MUo1KwwjJw",
+      "text": "In the release video, Elon and team said that company explained that Grok is trained on 200,000 Nvidia H100 GPUs?\n\nCome on, Deepseek was trained on only 2,048 NVIDIA H800 GPUs (with 50% data transfer rate of H100).\n\nTotally ridiculous!",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@d3fau1thmph",
+      "author_id": "UCjDf20GpcFLpNQXmLZpf7gA",
+      "text": "Nazi AI? No, thank you.",
+      "likes": 2,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Neopoleon-X",
+      "author_id": "UCDwZwtR5WY4qHNlKHjI-xcw",
+      "text": "It's too bad xAI has zero interest in ethical AI. If ever there were an \"evil AI\" super bad guy of the week, it's Grok. Its prior versions were happy to indulge conspiracy theories (how else could it deal with X?) and generate wildly offensive material with minimal goading... Hopefully 3 outruns its owner's perma k-holed reality. I don't want an AI so stupid that it treats X's hateful content as ordinary.\n\nI'll stick with ChatGPT Pro (and Cursor, Cody, Perplexity, etc.). Yeah, I'll try Grok 3 through other tools, but... meh.\n\nEthics in AI is more important than ever, and xAI was one of the only frontier LLM producers that didn't sign on for the voluntary ethical AI initiative (taken down immediately after the presidency changed hands).\n\nThis isn't to take away from the hard work done by real engineers and experts at xAI. The problem is there's no way around the Elon problem. He wants me to pay him for access this tech, and he wants us to fund his various companies by violating our private data and analyzing it with zero oversight. Screw that.\n\nThere's a point where the technological advances aren't worth the human compromises.\n\nThat, and I can't trust any of these demos. Elon has lied and overpromised his way out of the benefit of the doubt. By the time Grok 3 is worth using, it'll be obsolete.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BryanJordan1",
+      "author_id": "UCHIxELCk4h79e4c_6kYls2A",
+      "text": "The nerds at openai are more personable",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soulspawn",
+      "author_id": "UC62g-Q44hxnZuyaKZ6ka-iA",
+      "text": "🖤🔥",
+      "likes": 1,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vieshanblacksloft426",
+      "author_id": "UCNwhoqaf2h4c1Q-pkXRGv-Q",
+      "text": "Musk is polluting the stir with all those turbines needed to run the plant residents complaining of bad odor close  them down environmental hazard",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SfoglinoNASA",
+      "author_id": "UC8RuRzo_rQjYgita_TvwUew",
+      "text": "21:17 Thats what she said.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BilichaGhebremuse",
+      "author_id": "UC8icZV7xXJRLZVflMdHYClQ",
+      "text": "Reverse engineering the atomic scale this grok in atomic scale chip for mars research and production of goods and service by using self autonomous AI",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

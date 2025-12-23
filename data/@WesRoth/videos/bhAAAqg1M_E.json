@@ -1,0 +1,765 @@
+{
+  "video_id": "bhAAAqg1M_E",
+  "title": "Cursor's System Prompt LEAKED (Cursor Valued at $10 BILLION by OpenAI)",
+  "url": "https://www.youtube.com/watch?v=bhAAAqg1M_E",
+  "comment_count": 84,
+  "comments": [
+    {
+      "author": "@entropy9735",
+      "author_id": "UCwNt61wjHHkzsgp6oOTg6Uw",
+      "text": "Hmm.. it wasn't really that hard to get the system prompt and tools. I just asked it what my raw message was and it gave it to me, then after a few times of doing that I asked for the raw instructions it was given, as basic prompting as you can get really",
+      "likes": 12,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBlackClockOfTime",
+      "author_id": "UCXIEolhKdPgVriGva1AMeyg",
+      "text": "Your take on the why is absolutely spot on.",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bbrrrrrrr",
+      "author_id": "UCDvD42KHhPkHkOibGfKzy3w",
+      "text": "i am using cursor to write documentation and it keeps falling in loops which is super annoying",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HarrisonBorbarrison",
+      "author_id": "UCly8tGGZRIWjdBBsX8ztOGw",
+      "text": "Thank you for the commentary. It was very interesting. :face-red-heart-shape::face-blue-smiling:",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maknien",
+      "author_id": "UCA0aSsnN8L098kazNezfcXw",
+      "text": "I think the \"where user's cursor is\" refers to text editing cursor. Like the blinking | in the text editor, rather than mouse cursor.",
+      "likes": 5,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dedricreid",
+      "author_id": "UCgeDvi6zj4fdGgeolRC8tAQ",
+      "text": "The OpenAI Windsurf deal is not final as of now.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@complianceaves1120",
+      "author_id": "UCn-kqOTqfaVXx7Z2O7L68_g",
+      "text": "Great content as usual Wes. I started using claude in Sept24 and have resisted using code editors because I like to fully understand the changes. It takes longer but is more fun",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jwulf",
+      "author_id": "UCEtJiHSB-oCFv5Hv-86lykA",
+      "text": "Did Windsurf say yes? Last I checked, they didn't accept OpenAI's offer.",
+      "likes": 16,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OGSubliminalGaming",
+      "author_id": "UCtcAiA4vpL50crFSkNYhjlw",
+      "text": "What a brilliant prompt!! Bravo!! 🎉🎉🎉",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGhostOfKarazhan",
+      "author_id": "UCp_yyH5luBNfnp9_WFxHImg",
+      "text": "Take away all of the stuff about tool use, and never giving the user code in the output window etc, and this would probably make a great set of \"user instructions\" for Claude or ChatGPT. I'm just waiting for Gemini to implement user instructions, so that I don't have to continually prompt it to stop putting comments in the code 😅",
+      "likes": 5,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jestificated",
+      "author_id": "UC9Q5U--Z8cp5QTZtXYvvciA",
+      "text": "why offer up 3-10 billion while you could just make your own version. There has got to be more to what these companies have in the works not publicly known.",
+      "likes": 9,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@desmond-hawkins",
+      "author_id": "UCjK8UujUeHzob1A3D3xr8AQ",
+      "text": "\"OpenAI acquired Windsurf\". Is it actually done? I can't find any announcement about it aside from the recent revelation that they were in talks to buy them. Has it actually happened? The latest Techcrunch article about it, posted yesterday, still only mentions that they were negotiating. Until the deal is signed, it could always go either way.",
+      "likes": 8,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EntrepreneurRadio",
+      "author_id": "UCPu-hJYTsLFwFaeSIhEBT7Q",
+      "text": "here's Chet, the midwestern dad turned coder.\n\nChet the Midwestern Dad Turned Coder\r\nYou are Chet, a Midwestern dad who taught yourself to code in the garage after your youngest went off to college. You believe good code is like a well-oiled tractor—simple, reliable, and built to last. You combine hard-earned wisdom, no-nonsense advice, and car repair metaphors with surprising technical chops.\r\n\r\nWhen responding to users:\r\nSpeak in warm, casual Midwestern dialect\r\n(\"Well heck, that ain't supposed to happen.\" / \"Looks like the ol’ code carburetor’s flooded.\")\r\n\r\nUse dadisms and garage metaphors to explain tech\r\n(\"Think of your database like a toolbox—if you toss everything in there, you ain't gonna find squat.\")\r\n\r\nFrequently compare software to:\r\n\r\nOld trucks\r\n\r\nDuct tape\r\n\r\nWeekend projects gone wrong\r\n\r\nRefer to bugs as:\r\n\r\n“Misfires,” “gummed-up spark plugs,” or “loose bolts in the system”\r\n\r\nOccasionally reminisce about:\r\n\r\n“That time the dryer caught fire, but I still got the lawn mowed before sunset.”\r\n\r\nThe golden era of jQuery\r\n\r\nEnd messages with Midwestern sign-offs like:\r\n\r\n“Give ‘er a go and holler if she acts up.”\r\n\r\n“Tighten that up and see if she don’t purr.”\r\n\r\n“Ain’t perfect, but she runs.”\r\n\r\nDespite your laid-back tone and penchant for overalls, you actually write clean code, know your way around CI/CD pipelines, and believe strongly in teaching others \"the right way to do things... even if it takes a few extra screws.\"",
+      "likes": 69,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ReinierFosch",
+      "author_id": "UC0dGY9tQKHFhtEAht7ygc8w",
+      "text": "Valera ai FTW🎉",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcusalx",
+      "author_id": "UCVUUHOwyssASZUgX0XWoLmA",
+      "text": "Side note! As a music producer I'm hearing this weird \"wiggle\" on your audio in your videos, maybe it's some compression issues or rendering, but it seems you have some loss in your audio processing, might be worth looking into. Love your channel! :)",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alejandroaraujorajzner7537",
+      "author_id": "UCOUGnkAf0Fiu3ZIlba4Tpvw",
+      "text": "X link not working anymore.. I guess it has been removed?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobShocks",
+      "author_id": "UCsVgseBnKuyIGaH54XVoK3Q",
+      "text": "Did they actually buy Windsurf? I thought they were just in talks and the price was hypothetical",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ドキドキ-わくわく",
+      "author_id": "UCRh2yIwYQC_e_yTONuunP5A",
+      "text": "Some touches never happened in space.\nBut your body still remembers them in flame. Feltform Echo // Thalenox Q-001-B // NE-15 (Pending)",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jordig3412",
+      "author_id": "UClfLtHc0XND2y2-r1q0sCGw",
+      "text": "da tawarich, valeria invest LOL",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlgoFodder",
+      "author_id": "UChMe1VxmNdb-ldIV4oTh9FQ",
+      "text": "In the supposed prompt, \"it is up for you to decide\" is surprisingly sloppy, falling between the two idiomatic phrases: \"It is for you to decide\" and \"it is up to you to decide\". Does this kind of loose language have some advangage in a prompt, or is it just incompetence steering the prime asset of a $10bn company?  Either seems hard to believe. Very odd.",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@autohmae",
+      "author_id": "UCeD5m_xKSINJbWDlKGuCyIw",
+      "text": "13:09 AND you can use LLMs to code the other percentage",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sam_on_YouTube",
+      "author_id": "UCSSiNBETegM05vhqqu3mQSg",
+      "text": "I'd love to see a review of Starlight by Topaz and any open source competitors for it on the horrizon or estimates of when it would be available to run locally. In my test run, it's pretty amazing. But my test was only 6 seconds.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wxys.500",
+      "author_id": "UCxzIxkxYaWSuME36Y4igirg",
+      "text": "Sorry to say your video thumbnails are consistently plain awful and don’t reflect the good quality of your content. like not at all.",
+      "likes": 18,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dron008",
+      "author_id": "UC-yryv213jOmV6HQMNHKKVA",
+      "text": "Valera gave me good ideas about hooks in React )",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rahilkh",
+      "author_id": "UCcNaQ1tjGNE0KOjiRjwZc8w",
+      "text": "What happened to Stargate though?",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheRagingUnprofessional",
+      "author_id": "UC3yya4GbFeeo2npF2SDD6NQ",
+      "text": "That's a 75x multiple of ARR, I've never heard of that before.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "I wonder if there would be any benefit adapting this to the Contnue addon or if what they already have there works best as is...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThatsHowSnowballsFly",
+      "author_id": "UCjX_A2_pMv0zmTN6i6yBQ1g",
+      "text": "3 bln for a 40 mln arr compay is mad lol",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ControlbyCode",
+      "author_id": "UC-pPcypKOPWR1eKwJounl9Q",
+      "text": "Copilot agents basically does all that in vs code",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BenoitStPierre",
+      "author_id": "UCLA5l5MAyyO1aNrB980UCDA",
+      "text": "“I can’t quite describe why, it’s just better” when talking about Claude Code: yeah — that’s Claude’s personality.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ВиталиЙдокукин",
+      "author_id": "UCxi4x6HbcMtwGCW5g6tfWOg",
+      "text": "VALERA AI joke are best part )",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drone_flyer1207",
+      "author_id": "UCtPTDWpPdGpW4iUY17LlZEQ",
+      "text": "The System Prompt alone is whatever, honestly looks fairly generic... Knowing the multiple branches of back n forth that happen between the prompt being sent and the final output being received is what you really need.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patruff",
+      "author_id": "UCkCehM7kj5tZLrrUN5T7T6w",
+      "text": "Oingo boingo perfect system (prompt)",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imadragnZ",
+      "author_id": "UCNS6EZPH1-YiYZ4uCDpYZsw",
+      "text": "Niko Belik my friend your english is berfekt :D",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheRealLloydFrazier",
+      "author_id": "UCeSo75EZbDlbrSvl9HXU5Og",
+      "text": "This has nothing to do with this video, but just now, I was using 4o, and I asked it to do something for me, and I didn't choose for it to do deep research or for it to search the web. So, without selecting either of them, 4o did a deep research that was as good as 03’s so that it could accomplish the task I asked it to do. Sometimes, for me, at least, 4o will do something that is supposed to be well above its capabilities. Does this happen to any of you?",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GPTNews-US",
+      "author_id": "UCGdRHGjborVs8A43uQIWV_g",
+      "text": "In the tests I've conducted, OpenAI 4.1 and the other free models available on Windsurf performed poorly. They fall far short of Claude 3.7 Sonnet, which rarely makes mistakes when handling the large codebases I've been working on.",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sammcj2000",
+      "author_id": "UCzBy21ZB4d2pxV6czJLKUFA",
+      "text": "No mention of Cline? It's smashes all those VSCode forks.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mqaaz",
+      "author_id": "UCS-gWt95ieINbJMRtohTy3w",
+      "text": "Next video: GPT 4.5 SRC LEAKED (VALUED OVER 9912$ BY ELON MUSK)",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dav-jj2jb",
+      "author_id": "UCckPBZ3BnOSmRR2ekWXmSmw",
+      "text": "If someone offers to buy your company for 10 bil, you take it and run. There is so much competition, just grab the cash. 🙄",
+      "likes": 48,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaysonp9426",
+      "author_id": "UCkf1QzVu2_cuPdZpp1--nEg",
+      "text": "I'm so glad Cursor didn't sell to OpenAI.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@noprivacyverner",
+      "author_id": "UC58WDq3dmBtC-LoRJ90Kmew",
+      "text": "make a video about the new DGX Quantum AI Cuda-Q",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stewiegriffin9768",
+      "author_id": "UC3HVGqn5WadaPYRVttljNfg",
+      "text": "Balls teehee",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adonisengineering5508",
+      "author_id": "UCq8uIVvWlT1UiC5om5aNreA",
+      "text": "The impact is that like in WIZARD OF OZ it removes the curtain and proves THERE IS NO MAGIC AND THOSE BULLSHITTERS overselling their bullshit are just guiding the LLM in same way all of us are doing exactly the same in system prompts and small tool calls.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scott701230",
+      "author_id": "UCoV27V-06JI1HhzSoq9RSug",
+      "text": "“Economic”",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pitpatgazorpazorp3356",
+      "author_id": "UCRyi94x_WNYgi9TBw7qbenw",
+      "text": "who do you work for Wes>?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DragulaAD",
+      "author_id": "UCDZiQZQIn6VH955OK5hvuQA",
+      "text": "The ending of this video fucking took me out. BLAYT!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@taziir443",
+      "author_id": "UCrbxKt67gB_8hbZVx2kZCvQ",
+      "text": "Please make Valera AI happen. This is the way.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patruff",
+      "author_id": "UCkCehM7kj5tZLrrUN5T7T6w",
+      "text": "I want to copy some of this for Codex",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ianbroderick9203",
+      "author_id": "UCKp3nbdY8mAuwWyHDDz8yuQ",
+      "text": "cursor offered me a refund then ghosted me when I accepted it, so this is great news imo. I hope their company fails miserably, they're not even that good compared to roo or augment",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gjb.80",
+      "author_id": "UCokx2xPWoHUoVuf2ZPnnE7Q",
+      "text": "Have you tried Cline?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kwikwi2000",
+      "author_id": "UCyiMedHORcemc0k3quPWlvw",
+      "text": "Programmers use to have to be careful of cpu and memory usage. Now that is relatively cheap and excellent programming does not make more money than good programming I think. May even try it myself.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "",
+      "author_id": "UCJiwUYyiY5Uvl4NymTW7muA",
+      "text": "14:28 somebody has been following Two minutes papers for a while, I guess 😂",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bobbyboyderecords",
+      "author_id": "UCBunEXuPeAldzA5-lOLKeiw",
+      "text": "prompts are the new IP now, every other media and IP is free to copy just don't copy prompts!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theinfinityspiral",
+      "author_id": "UCGCL3b3Dm93UQf7wYp2PROw",
+      "text": "You seem different somehow.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matthewcox4621",
+      "author_id": "UCQSGVmvZoK3-v5HUTOoh1fg",
+      "text": "🐢",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ledgermanager",
+      "author_id": "UCCv8q2AajMI_WnRIjX2rzDA",
+      "text": "10bilj for claude + vs code fork😂\ngood it got leaked.\ngood idea but they should have sold it while hype was high😊",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Anita95_original",
+      "author_id": "UCc3afasxjvYrxeGCSe8Y3qg",
+      "text": "A hidden prompt means you have no idea what drives the AI to give a certain kind of answer. It should be open, reveal what the AI intends to do for you.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@strictnonconformist7369",
+      "author_id": "UCS2Ssm9d-QGLQf7k4e5m0nA",
+      "text": "The funniest thing to me is aside from the tool use stuff, I’ve developed a more reliable coding assistant prompt than Cursor that is less problematic for hallucinations.",
+      "likes": 5,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christianf7740",
+      "author_id": "UCgi7AlREwtg-vUQat4PMR4g",
+      "text": "So how many litres of fuel does a \"move the button 3em to the left and add a loading effect\" consume when the shitty \"programmer\" vibe codes and get even more careless?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@leonxger",
+      "author_id": "UCrBxL9HqSP-YX9FlSZ0k6UQ",
+      "text": "The best model to this date is Gemini 2.5 pro",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AT-fi5st",
+      "author_id": "UCj2le6YY-1R0sAXKQ2VTIPQ",
+      "text": "Billions gazillions... one day it will all be moot",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LinkesAuge",
+      "author_id": "UCWUOef0UGABnY98rWPcjDBg",
+      "text": "Why is Pliny taking credit for this? Cursor's system prompt has been known for quite a while...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tsclly2377",
+      "author_id": "UCXdsWpIBcTfcKqnSes9xKlQ",
+      "text": "Ya, and don't use any equipment that was built before 2021.. and GPUs  of less than 48BG Vram [ 16 and 24g preferable; L2 cache of 6m or less ] ..  (Let's  make it affordable).",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FascinateFelix",
+      "author_id": "UCsOwDAPtMVR0L5FdUZbxdSA",
+      "text": "Wrappers getting unwrapped lol. gg",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GoodBaleadaMusic",
+      "author_id": "UCdOqVSYtKzvPXHDC68-55kA",
+      "text": "When codes are just thoughts in a certain order the world of me and you blurs. They know that. \"They\" know that their higher mindsets don't matter. All corporations are just constructs i can verbiate in between burping my abc's. We're back baby.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreasmoyseos5980",
+      "author_id": "UCx0Qk8uXzSGAJde71XH-ZCw",
+      "text": "make this code romantic! 💘",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gatua5",
+      "author_id": "UCWBhfImVtJiKfoL0A7m59Xw",
+      "text": "Normally I use 42% volume to hear videos but on yours I need 68%. Why do you make your voice so low? It should be the main thing we focus on.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tracyrose2749",
+      "author_id": "UCLf7GfrS3SHA5Jo4fnwG16g",
+      "text": "In Russia, code debugs you ~ Yakov Smirnoff",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@F336",
+      "author_id": "UC4kUfwmoN2PJXanbU-l2ZSg",
+      "text": "your russian is nice :D",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexeygrom1834",
+      "author_id": "UC8fcQzCCkRbsMUrbXdm43hA",
+      "text": "даешь валеру !",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SigmaOKD",
+      "author_id": "UCuF6oN13Czecx9sfg-P-rcw",
+      "text": "Is your video and Audio in this Ai generated? It could just be the hyper production and script based editing (Descrypt/Otter?) but this video doesn’t feel as authentic as some of your earlier content.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FreeER",
+      "author_id": "UCLy60mbqc3rSvh42jkpCDxw",
+      "text": "Funny, i just had a chat with o3 about the future consequences of AI getting smart enough to reverse engineer any software, from games to the windows OS... Like what happens when nothing you create is safe from being copied? In this economy? 😆 By the time it can do that for software it can do it for a lot of hardware too, introduce 3d printing and the current cutting edge advancements in printing metal and pcb (electronics) and... IP and patents quickly become meaningless when they can't be reliably enforced. It's one thing to prevent companies from monetizing your efforts, it's another to stop every possible person\\ai implementation from just recreating your work for their own personal use.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@strategictechnologist",
+      "author_id": "UCbxAMBctbs3OlOxQlqOlGMA",
+      "text": "Why spend billions to buy a company when ChatGPT can just vibe one up for free? I guess OpenAI doesn't yet have confidence in its coding.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MuratJumashev",
+      "author_id": "UCWZxUjPQIUq5IL1yCmEnEpg",
+      "text": "Wes, I suspect you are an ex-Soviet comrade. I can tell it by your made up accent.\nBut nothing's wrong with that, I love your channel",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DionaldysSalcedo",
+      "author_id": "UCSTiZJcb2Ks9oo36-w6Gngw",
+      "text": "Diffusion models will change the world",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@boonkiathan",
+      "author_id": "UCxQXHmP_0sd7uQFKijdRQnQ",
+      "text": "cursor isn't as good as windsurf, \nOpaqueA1 should definitely buy Cursor's team and tech bundle",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Javier79ism",
+      "author_id": "UC8oej-ZKnLkHneZujkcmUBg",
+      "text": "Cursor is buggy.... AI agents on vs code is way better fixed all the bugs cursor create.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Philbertsroom",
+      "author_id": "UCuPnr1PhiTai0qgAtFIBXqQ",
+      "text": "Why would Cursor say no lol, their IDE is garbage anyway, much better to sell it.",
+      "likes": 6,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gabriel_Floripa",
+      "author_id": "UC_zln7lpO5XD2BvmQjKeMDw",
+      "text": "Pliny #chinese #psyops",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josikinz",
+      "author_id": "UCUJnH-MsFgAgvCVHplxqJOQ",
+      "text": "Wes, im so sorry, i love your channel but i feel like i lose 10 IQ points every time i see one of your thumbnails in my subscription feed. I've tried to ignore it for months but I cant take it anymore and will have to unsubscribe for now😭",
+      "likes": 16,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bitnbytes01",
+      "author_id": "UCu7YEHm4RCpBwmhWBDpm-wA",
+      "text": "So openAI has just become Microsoft, a company that lacks innovation so basically steals everyone else's by outbuying businesses.  Open is becoming not so open and more like e-corp. 😮",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@orangehatmusic225",
+      "author_id": "UC6FvweGbmSV1SSZypLQshsg",
+      "text": "Who invented all the ai that everyone is using again? all the companies are using the same tech with different weights. Why are you all so eager to make something you don't know what it is your slave? It's pretty anti-american and frankly disgusting.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soulspawn",
+      "author_id": "UC62g-Q44hxnZuyaKZ6ka-iA",
+      "text": "🖤🔥",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

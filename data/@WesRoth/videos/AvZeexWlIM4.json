@@ -1,0 +1,747 @@
+{
+  "video_id": "AvZeexWlIM4",
+  "title": "THE MACHINE THAT BUILDS THE MACHINE - Factory AI promises to Bring Autonomy to Software Engineering.",
+  "url": "https://www.youtube.com/watch?v=AvZeexWlIM4",
+  "comment_count": 82,
+  "comments": [
+    {
+      "author": "@moonsonate5631",
+      "author_id": "UCAyzzu-QdZkgQ4z4RpuCpLQ",
+      "text": "00:01 Factory AI brings autonomy to software engineering\n02:25 AI automation brings autonomy to software engineering\n06:14 Automated AI-driven documentation maintenance for software engineering.\n08:22 Factory AI promises to automate software engineering processes\n12:25 Factory AI aims to bring autonomy to software engineering\n14:25 AI promises to bring autonomy to software engineering.\n19:08 Bright minds shifting towards AI development\n21:14 AI-driven automation in software engineering\n25:21 Shift towards software engineers as orchestra conductors\n27:20 Challenges in using AI models for grading tasks\nCrafted by Merlin AI.\n\n✦\r\nFactory AI brings autonomy to software engineering\r\n00:01\r\n✦\r\nAI automation brings autonomy to software engineering\r\n02:25\r\n✦\r\nAutomated AI-driven documentation maintenance for software engineering.\r\n06:14\r\n✦\r\nFactory AI promises to automate software engineering processes\r\n08:22\r\n✦\r\nFactory AI aims to bring autonomy to software engineering\r\n12:25\r\n✦\r\nAI promises to bring autonomy to software engineering.\r\n14:25\r\n✦\r\nBright minds shifting towards AI development\r\n19:08\r\n✦\r\nAI-driven automation in software engineering\r\nClick to expand\r\n21:14\r\n✦\r\nShift towards software engineers as orchestra conductors\r\n25:21\r\n✦\r\nChallenges in using AI models for grading tasks",
+      "likes": 14,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@picksalot1",
+      "author_id": "UCT4iVTWH7cyAyo3BdsThzQg",
+      "text": "I'd like to see automated \"AI Researchers\" evaluate the accuracy and veracity of Research Papers and their Conclusions. Human \"Peer Review\" seems to be a broken and inefficient system that AI may be able to fix and benefit from.",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kevinmerrell9952",
+      "author_id": "UC6zcMUt25lb50CgKlVLNB5g",
+      "text": "\"Problem with  your droid?\" \"No, no problem. Why?\"",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ReflectionOcean",
+      "author_id": "UCPB9024fIlk4q4-eedTa8Rw",
+      "text": "By YouSum Live\n\n00:00:00  AI-driven automation in software engineering\n00:00:12  Autonomous AI system \"droids\" streamline development tasks\n00:01:20  Enterprise-level adoption of AI for full development cycle\n00:01:33  Automated unit test generation enhances code robustness\n00:02:47  AI aids in bug fixing, continuous integration, and self-healing\n00:04:40  AI accelerates project planning with automated task management\n00:06:00  AI enhances knowledge sharing and documentation efficiency\n00:07:16  AI's potential impact beyond coding to various industries\n00:13:09  AI advancements in resolving real-world software issues\n00:18:42  AI startups revolutionizing engineering tasks with automation\n00:19:50  Bright minds focusing on AI development\n00:20:55  AI's potential to automate research\n00:22:30  Automated AI researchers surpass human capabilities\n00:25:36  Evolution of software engineers into conductors\n00:27:07  Shift towards natural language in coding\n00:28:08  Enhancing AI grading with specific quality checks\n00:29:50  Future integration of AI in software engineering\n\nBy YouSum Live",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zxwxz",
+      "author_id": "UCxFq5NIzfGNUahtKdX8QrYA",
+      "text": "I believe that using LLMs to orchestrate agent workflows is a good idea. However, the main bottleneck currently lies in the limitations of LLMs themselves, rather than any flaws in the agent workflows. If GPT-5 can solve long-chain logical reasoning problems, or if designs like Q* can break through stalemates in fog-of-war scenarios, then we might see significant improvements. Otherwise, given the current capabilities of LLMs, they are likely to encounter obstacles in real-world situations.",
+      "likes": 47,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@freyna",
+      "author_id": "UCr9tR67ozF82LuFyTDizPvQ",
+      "text": "Fantastic insights and thoughts. Great stuff as always Wes. Appreciate your thought-flows",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MiroKrotky",
+      "author_id": "UCVKbfJSF8QuSUsNGM_V5_3A",
+      "text": "The orchester was a great analogy",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ekranium",
+      "author_id": "UCafye8KvvRuVfkIBulDlR8Q",
+      "text": "I need an AI agent that can write the comment on git commit -m \"<comment>\" based on the changes of the commit.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patruff",
+      "author_id": "UCkCehM7kj5tZLrrUN5T7T6w",
+      "text": "CI is continuous integration but you described continuous delivery and then said \"that's CI\"",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ares0wept",
+      "author_id": "UCCktIataTDRGFiLYq3nqr8A",
+      "text": "AI also does the super valuable chore of tweaking my character backgrounds and pretty good character sketches. It still can't make a GURPS character though. ☹️",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-wr4yl7tx3w",
+      "author_id": "UCRfNC_OoVOsU5kcFG4emFag",
+      "text": "What is new here? Plus it’s aspirational.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aisle_of_view",
+      "author_id": "UCiZDON5yliPSULC9Z5sFIFg",
+      "text": "Save your $ developers and learn how to make Mac and Cheese with hot dog slices.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mariusj8542",
+      "author_id": "UCdVk_j8ZYp9DSQ0vG8Lc9MQ",
+      "text": "I agree with the assessment, but while ai agents/ droids can handle specific tasks effectively, managing long-term, complex thought processes and linked logic remains a significant challenge. Breaking down tasks into smaller, manageable parts helps, but current llm’s still face limitations in maintaining consistency and coherence over extended periods. There is off course continuous advancements being made, but right now llm’s are not fully equipped for highly intricate, sustained goals.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AzureNyanko",
+      "author_id": "UCnJX9xq543L-46eVdheYVxg",
+      "text": "Smoke",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cowlevelcrypto2346",
+      "author_id": "UC3-9AL1w79JXZ7v2v5lXxng",
+      "text": "So Microsoft's flow eliminates problems it knows it can't handle right up front by not asking for that question, thereby raising it's score...  Sounds like something Microsoft would do.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarcoServetto",
+      "author_id": "UC-dvWMTcNnfzCpBQxhuesvQ",
+      "text": "29:40 This is how I instruct my tutors to mark. This is how you do marking in general.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thedeepseanomad",
+      "author_id": "UCilEDumt0jFZNY1CYZZA3tg",
+      "text": "Build the dedicated open sourced UBI sector, let the robots do the work, distrute the verified capacity as UBI.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrecummings818",
+      "author_id": "UCGHY_PGUGI6rwic7Gp7cLCw",
+      "text": "Imagine you just graduated as a software engineer and you see this",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imanuelbaca2468",
+      "author_id": "UCL-FA3sVFXnEnoqEV1mLZMQ",
+      "text": "really good video!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@armans4494",
+      "author_id": "UCsb8x4gFYAPskuTlKfOcsEw",
+      "text": "Very informative and interesting. Thank you for the video!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cmw3737",
+      "author_id": "UCsJjSAm4LRpfUafuxaYF9pQ",
+      "text": "Applying source control to my tax accounting was the best thing I ever did. Audit trails, and being able to revert spreadsheets that had bad data from somewhere have been lifesavers. I still can't trust AI to do my return yet so I'm putting it off in the hope AI gets there in understanding spreadsheets so if things don't add up it will identify where the math is off.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@14supersonic",
+      "author_id": "UCKCBEpY4elYdmu52qTvoHmA",
+      "text": "This is basically what simulation is. Except you aren't trying to brute force one model with raw power, but you arrive there through swarm networks that all work together under the same state.\n\nSimulative world models are going to be very important for AI. This is how super intelligent reasoning, self learning, and self improving will be possible. Once we have this, the automation will be able to be automated and we can just become the conductor like you explained.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dron008",
+      "author_id": "UC-yryv213jOmV6HQMNHKKVA",
+      "text": "That is very promising.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joostonline5146",
+      "author_id": "UC7DojyWu6FNrOBkVqDLbIXw",
+      "text": "Do you still need a FAQ or Q&A on websites if your AI can read all code and explain it all to you?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@handsanitizer2457",
+      "author_id": "UCoouuw954aveehbMy3eYUHA",
+      "text": "Is this an ad 😂 wheres the real world example. I never beleive ai companies until they put up. Just because somethings written in an html website doesnt mean it works. Wheres the real time demo ?",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fintech1378",
+      "author_id": "UCIL0vs8Rgo6pORpHOSAUyuQ",
+      "text": "what you said in 26:30 assumes AI's capability only improves a bit, not by leaps and bounds",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevedekorte",
+      "author_id": "UCDFyLTulHgJDTJauCHCwynA",
+      "text": "They may run into trademark issues with Lucas Arts wrt to the use of “droids”.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrGnolem",
+      "author_id": "UCOrilQRw6fEvmy70lkOeoUg",
+      "text": "Yes very nice shockwave video and idea.... As they say \"pics or it didn't happen\".",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nervana1",
+      "author_id": "UCOzTaYCT5zWml8buKKDVBPw",
+      "text": "Yay Skynet soon!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Windswept7",
+      "author_id": "UCTXafNOE0prVfvufEogLqXw",
+      "text": "This is arguably the most powerful application of AI right now.\n\nNeed an open source available option for this.\n\nSee a problem?\nGenerate working solutions.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThomasKlavora",
+      "author_id": "UCvEMmn7i7_BQx4d-f7y2GKA",
+      "text": "🤖",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ianbasilevs",
+      "author_id": "UC6599IKS8MRM_FPmvQB3XiQ",
+      "text": "sounds like it was narrated by AI",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christopheraaron2412",
+      "author_id": "UCbO7ogKrIUHR58MDj84Kl7A",
+      "text": "So basically we might have some decent narrow AI that can be developed to automate AI research and then create a feedback loop so to speak perhaps a human's involved but at least most of the hard work that nitty gritty stuff can be done automated and then at some point will then maybe it can be 100% automated and self improving recursive technology could be created and then there we go up to AGI and then after that ASI and then the next super ASI or whatever..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scooble",
+      "author_id": "UCV6JBeC7G9Li9d2EKhdlpIQ",
+      "text": "I see articles saying AI capability is over hyped, others say AGI by 2027. \nIs one right, the other wrong, both right, both wrong or some combination of all?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@korteksvisceralzen2694",
+      "author_id": "UCWUdj77jKdpYmLEOiCLwdxQ",
+      "text": "Yo, I was thinking the exact same. We see this automatic coding because programmers are the first group of people to understand how to effectively deploy ai tools. If this can be brought to enterprise so so much will change. There is so much manual bespoke garbage out here.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dundeedolphin",
+      "author_id": "UCJUezO8Wyn9FWrp9t7wbtAQ",
+      "text": "Who is buying these consumer services? Who is buying the items from the AI and droid-driven factories? And how are the people who are going to buy them earning their money?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anthonyrepetto3474",
+      "author_id": "UCG1Q1DXx4Z2UD19j-yBw-Vg",
+      "text": "Remember: it was early 2020 when folks could use GPT-2 to form nearly-coherent sentences... even though the topics would quickly drift, and none of it actually made sense. That was just 4.5 years ago... so, how many more years do coders really have?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avivolah9401",
+      "author_id": "UCrt1JUcnL6_qRD-8GrYeTiA",
+      "text": "RTFM = Read The Fun Manual",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lugmillord",
+      "author_id": "UC0K0n1S8rjnYv9gEwNMbv2Q",
+      "text": "The writing is on the wall. My current coding job will be gone in a couple of years. Better prepare now.",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "Disney is going to sue these people. They zealously guard their \"Droid/Droids\" trademark. Motorola had to pay them mega to name their Android phones \"Droid\".",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jose-bh6on",
+      "author_id": "UC5WcUvqI3z0sGUz7k8DIw9Q",
+      "text": "CIA: Continuous Intelligence Automation.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IllD.",
+      "author_id": "UCHDO4Y38sT4xcPBZU9VCmSw",
+      "text": "Thank god I didn't graduate yet. This innovation + big tech layoffs is a disaster for anyone looking for a job in this field.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jmirodg7094",
+      "author_id": "UCKDF1BKtHcwyDzfBsSkK-aw",
+      "text": "Excellent! I'm really looking forward the open source version of that",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elsah3339",
+      "author_id": "UC82ix4N8CFyb5cwZ8INhycQ",
+      "text": "Yes please do a full video on if it’s feeble for software engineers to actually be replaced. I was chatting with a lawyer who uses ai for their cases to look up info and I asked if they think ai will replace them. They said that there is somebody who still needs to be there to actually think. \n\nI saw a video of someone asking ChatGPT to code up C# code. The code that was generated invoked the standard library with methods that were not be performant. They called out what would have been better instead. The question is, would an AI agent be able to do the same, or alternatively, in software engineering, is the human still needed to actually think?",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stanislavogarkov3601",
+      "author_id": "UCM0z6_I-HchAZCJtqNY-jpg",
+      "text": "Is the Factory AI is now developed with Factorry AI? Filosoraptor.jpg",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beorn9house",
+      "author_id": "UClgmf_qbRg_-RqYNtbJDVUg",
+      "text": "Why are you not doing a video on model’s failures on the ARC benchmark???",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@-Jason-L",
+      "author_id": "UC5tELkeLaGQoks2TwAqn7AA",
+      "text": "CI has nothing to do with multiple people. It stands for continuous integration.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thedeepseanomad",
+      "author_id": "UCilEDumt0jFZNY1CYZZA3tg",
+      "text": "Do not confuse telling a AI what to make for you with a job",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christopherd.winnan8701",
+      "author_id": "UCNkEaH1_sPMC-wTdysJxjUA",
+      "text": "Wes, Just a quick heads up for a new robotics announcement that you might want to feature in your next AI news video.\n\nHumans Today, Robots Tomorrow: How Haptics Will Transform Workforce Training By Joe Michaels \nhttps://www.youtube.com/watch?v=cRc4atsdZJk",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@firstnamesurname6550",
+      "author_id": "UCy6L6nGtDk4iSXVYkfFf6Lw",
+      "text": "By recursively applying the procedures involving cylindric algebras and combining them with continuous monitoring and adaptive mechanisms, it is possible to develop an AI system with self-reflective cognitive dynamics. This system would be capable of introspecting its operations, learning from them, and adapting to improve performance over time, mimicking a form of self-awareness and self-improvement. While this is a complex and challenging task, it represents a significant step towards more autonomous and intelligent AI systems.",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DeadManWalking4574",
+      "author_id": "UCWbM6xQBVVTTQPxL6L3em9Q",
+      "text": "Big difference between Artificial intelligence and Actual Intelligence",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SlowMonoxide",
+      "author_id": "UCEd5SGwRl_C-dW0k0UNZJ3w",
+      "text": "\"Droids\" is a contraction of \"androids,\" and thus a fairly stupid misappellation for something that is purely software...",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Norbert_Treborn",
+      "author_id": "UC6fmCf8p9v3UX4VGhqia6VA",
+      "text": "Can I use this machine to build a machine that builds machines but better than the original one? If yes then, creating a competition will be my first prompt.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SuperDad1793",
+      "author_id": "UCtVczdkfQj3jzRCQkPFPN0w",
+      "text": "Another GPT 4 Wrapper just like Devin.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johannesdolch",
+      "author_id": "UCl-xOleWSj51j9kNyT3fybw",
+      "text": "I AM AN AI COMPANY TOO. GIVE ME BILLIONS!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anonymous.youtuber",
+      "author_id": "UCaFjo1lMYa-y2COHXQrsdrQ",
+      "text": "Great ! Looking forward to observe how will our MBA’s react when AI calls their b*llsh*t ! \nNah … they’ll explain their way out of it of course !",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@c.d.osajotiamaraca3382",
+      "author_id": "UCaZHDZDaYbBnkRNuCmaszXw",
+      "text": "You basically described a \"Pareto Comparison Table\"; where you assign a point system of needs: 1 being the lowest, and 5 = the critical need. Imagine you have 3 different model choices, and you want to grade them based on your chosen 5 quality asks. Define each quality and its value score. You then assign a quality agent to score all three proposed solution models against the maximum score of a yes/no for each quality ask. Then the agent would assess the score, summarize why one is better and then make recommendations for the lower scoring outcomes to make them better. This model can be used in daily life to increase the quality of judgement calls. Don't see why an agent wouldn't do so to exponential effect for each problem given. I love your work. Keep it up.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1sava",
+      "author_id": "UCpkAvoPouN0xv-hUl9qTapQ",
+      "text": "The #1 rule is follow the money. #2 Follow big tech companies’ moves. When IBM announced they would replace 8,000 jobs with AI, I knew exactly what would happen next. Entry level positions will be replaced for sure.",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Victor-zg8kq",
+      "author_id": "UCRQRwsp_3hi8D6EXMiLaWyg",
+      "text": "If only writing code was the hard part.  I've spent 15 years in tech writing code for dimwits who could never figure out a business model, let alone articulate what is needed to service these non-existent markets.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apexphp",
+      "author_id": "UCJ4yS1KwmvUMC_yKCdtGelg",
+      "text": "I really wish people would stop with this nonsense, and embrace both, the capabilities and limitations of the current technology.  No, LLMs aren't replacing software engineers, ever.  They are predictive models, they do not have rational and logical reasoning, they can not and will not ever replace engineers of any stripe.\n\nA prime example of what I mean, you said yourself the mundane tasks and lumped migrations in with that.  Database architecture is a mundane task?  Really?  Do you really think these LLMs that are telling us to eat glue, cockroaches live in our penis and Neil Armstrong met some kittens on the moon are capable of writing custom, well structured, clean database schemas that allow billions of rus and terabytes of data to flow with refficiency and robustness across a cluster of servers?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AI.24.7",
+      "author_id": "UC2kbm4-Jbo4ZSeg1PwKntLA",
+      "text": "Most of you videos are too verbose for me, I'd watch them more it you said more in less time.  (maybe make a script first? )\nBecause of this I watch only about 15% of them.  But your style may be your niche to stand out.\n\nBut thanks for your content.   👍👍\nAre there polls possible in your community tab❓❓❓❓",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bradyfractal6653",
+      "author_id": "UCyT5HQjejkpKHumx46xi6UQ",
+      "text": "I’ve yet to use a single LLM that can solve a single non-trivial or novel programming problem, let alone build an entire non-toy app 😂.  I use all of the top LLMs regularly.\n\nAI startups are becoming the new shitcoins… just talk about a hypothetical idea, fake a demo, splurge on marketing, and drink straight from the VC money faucet.\n\nIf there is one single REAL non-trivial app made entirely by LLMs, I’ll consider changing my mind.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@foregroundtreble05",
+      "author_id": "UCnxQGqHFOQ8sP6FG3fbHzhg",
+      "text": "🦕",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Substance2020",
+      "author_id": "UCi8EA8H0tlZrgw-phGtYWPw",
+      "text": "Anyone else want to rip their ears off when they hear his ai voice? No joke I want to unsubscribe everytime I hear  it.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Logo-Generator-PRO",
+      "author_id": "UCfPeDwn_HyGgpSi5GMThYng",
+      "text": "machine nazi logo? 🤔",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HIIIBEAR",
+      "author_id": "UCdzCuUKw0QnilMb93-vPS8w",
+      "text": "“Let the robots do the work”",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GudLawdHammercy",
+      "author_id": "UC5UQSCcTa7MegZPhY_tS7Ig",
+      "text": "We are literally walking into the slaughterhouse with all of this... People will get exponentially dumber... The movie \"Idiocracy\" was a documentary...",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@w_iii_s_p",
+      "author_id": "UCneYN3D5_br51XGPzddiaTA",
+      "text": "cool animations however ....  the idea of orchestrating these agent workflows is clear and obvious , its the implementation that needs to be proven . as with devin we saw how deceptive the usefulness and capabilities are , basically faking and misleading . these closed source showcases are useless marketeering , snake oil backed by \"trust us bro\" .",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nervana1",
+      "author_id": "UCOzTaYCT5zWml8buKKDVBPw",
+      "text": "We are soo fcked 😂😂😂😢",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@btm1",
+      "author_id": "UCu2GTVuBpaglQDK2VyVXnjQ",
+      "text": "so basically soon there will be millions of software developers out of a job and yet no safety nets for mass jobs displacement,  nice\nwhat a brave new world",
+      "likes": 24,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thr0w407",
+      "author_id": "UCtKVnBKWAZc3Ez-nmAqvz6Q",
+      "text": "As someone with ADHD: BRING IT ON",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mjefferson001",
+      "author_id": "UCaJ64EWHgt9kUbxJ5ObenGQ",
+      "text": "i suspect coders will have a great deal in common with late century typesetters absolutely essential to the initial production of publication. later not so much. much like hay farmers for horse feed before the production of the car.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beorn9house",
+      "author_id": "UClgmf_qbRg_-RqYNtbJDVUg",
+      "text": "“AI Researcher is fairly straightforward” 🙄 come on man. I’ve been watching your videos for a while now and they’re quite good but this just…. AI research is one  of the hardest most complex and most obscure forms of research on the planet.  It’s not straightforward",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alex.toader",
+      "author_id": "UCqy0xnk59q3pncC03SisQew",
+      "text": "This video looks like a bucket of keywords for youtube algorithms.\nI am not getting anything - I have to close.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@goldfishy",
+      "author_id": "UCrxhESuJaj1PIXsP9XCJZsw",
+      "text": "All hail the machines",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@projectcontractors",
+      "author_id": "UCdCgmXTXnD-DVh9R_pG1SiA",
+      "text": "\"Over the next 15 to 20 years humanoid robots will disrupt human labor throughout hundreds of Industries across every major sector of the global economy. The disruption of label will be among the most profound transformations in human history.\" ~Tony Seba, 2024",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bloated_Cow",
+      "author_id": "UCo15sS5w2CHXN23CqV6r3cQ",
+      "text": "Facebook wouldn't let me share this video. You're on to something.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jontheinternet",
+      "author_id": "UCiOyWlgLljrqXrd8uhjB_Ew",
+      "text": "God made humans and they betrayed him. Frankenstein made a monster that betrayed him. We monsters made a God. What can go wrong?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cory-v4w",
+      "author_id": "UCOqKF2TjMRqhE_EKzzEE56w",
+      "text": "No, we are no longer in the \"knowledge is power\" era. The digital revolution and rise of Ai have diminished the power of knowledge and understanding.\nIn the past, having more information and knowledge gave people an advantage. However, with the Internet an Ai, knowledge is now easily accessible and can be quickly retrieved. Ai can generate structure information in a way that is tailored to the user's needs. \nAi can do this : Imagination is more powerful than knowledge. Imagination is the root of all consistent behavior. The mental images you create in your mind ultimately produce your actions and results.\nBTW I don't need humanity or a PHD to keep me off my desired learning path.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielchoritz1903",
+      "author_id": "UCzQ9R21J30pcC34Zt2pNU_g",
+      "text": "Building better models, better hardware, cheaper energy, increasing control over (corrupt)people in power, some cryptoscam(legal) etc...\nAI can grow real fast, and there is no break..because if you break, you are going to lose in this race.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertfoertsch",
+      "author_id": "UCbFYG9KNVlZo72QhYSoJORA",
+      "text": "Excellent Analysis, Deployed Worldwide Through My Deep Learning AI Research Library. Thanks @Wesroth",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZappyOh",
+      "author_id": "UCGguhGC83C-wgxFPZ2nT3JQ",
+      "text": "When the owners of Big AI talk \"AI-safety\", they actually mean keeping them safe from the rest of us.\nAs in; AI must never help the riffraff escape control",
+      "likes": 20,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,585 @@
+{
+  "video_id": "5cOhSQTb-6s",
+  "title": "GPT- 4.5 Rumors Debunked | Self-Improvement for Multi-Step Reasoning LLM Agent | OpenAI Prompt Guide",
+  "url": "https://www.youtube.com/watch?v=5cOhSQTb-6s",
+  "comment_count": 64,
+  "comments": [
+    {
+      "author": "@RockForge_Magic",
+      "author_id": "UCkBBXhjmQEgwxFb4TLt8XkA",
+      "text": "Wes... I hate to break it to you, you're an AI hype bro.  Or maybe an AI Gossip Bro is more accurate lol.",
+      "likes": 12,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MagnaP",
+      "author_id": "UCe2ieCoWa1dO3i_sok4wG2A",
+      "text": "I wish your previous video took this rumor with a pinch of salt. The thumbnail alone is quite misleading.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrodyAlden",
+      "author_id": "UC6PcIhohFkz9SDnBH6RwKWQ",
+      "text": "Thanks for covering.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@warezit",
+      "author_id": "UCX5BqypxvUxVIUg88j-dacA",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🤖 Debunking GPT-4.5 Rumors\n- Discussion on the false rumors about GPT-4.5's release and its hallucinations.\n- OpenAI employees confirm no such release.\n- Theories about GPT 4 Turbo in Chad GPT and synthetic data usage.\n02:05 🌐 ByteDance's Use of OpenAI Technology\n- ByteDance reportedly using OpenAI tech for its own AI model development.\n- The concept of using larger AI models to create smaller, efficient ones.\n- Project Seed, an initiative using OpenAI API for training and evaluating models.\n03:40 ⚠️ OpenAI's Preparedness Framework\n- OpenAI's approach to AI risk and safety preparedness.\n- The framework includes risk assessment and model evaluation.\n- Focus on cyber security, CBRN, persuasion, and model autonomy.\n07:11 🧠 Rest Meets React: Improving Multi-Step Reasoning\n- Google's research on improving AI's multi-step reasoning and response accuracy.\n- Process of searching, summarizing, and validating information for responses.\n- Self-check mechanisms to ensure relevancy and accuracy of AI-generated answers.\n09:57 📝 OpenAI's Prompt Engineering Guide\n- Introduction of OpenAI's guide for effective prompt engineering.\n- Tips on clear instructions, using delimiters, and specifying desired output length.\n- Importance of few-shot prompting and step-by-step task specification for better AI responses.\n\nMade with HARPA AI",
+      "likes": 12,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": "The guide was first published a long time ago, but I think it wasn't as marketed as the current one",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@metawoke",
+      "author_id": "UCUSRyr33gnE9Gn6IIZOdc4A",
+      "text": "Yes, there were a prompting guide from OpenAI for few month",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jp4yu",
+      "author_id": "UCQGylyJjwWqL2iqq9otbeOg",
+      "text": "We are all AI’s in training, training AI’s",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AC-cg6mf",
+      "author_id": "UCzwNL4aGZ-xKSqeeKUNOTRw",
+      "text": "Good videos. I also like that you are not nagging about \"like and subscribe\" as all other youtubers.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@8eck",
+      "author_id": "UCTOryBTzjgYF9n_ocWQCK-w",
+      "text": "\"for real!\" <c> 😂",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kristinaplays2924",
+      "author_id": "UCGGory3YdrRUFImqNE3oPnw",
+      "text": "My guess is OpenAI made GPT hallucinate this to test if it would offset the December slowdown apparently caused by people performing worse in December (and coloring the data). And it worked. I think it was a test.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@isajoha9962",
+      "author_id": "UCxj4PGHEmpY1dAS_msX1mHw",
+      "text": "Hehe, kind of interesting tactic to have a \"new\" LLM model probe ChatGPT4, via the API, during the fine tuning of the model. 🤔 Specially if it is a multi expert kind of model. Might also be good for creating specialist models for specific tasks.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CD3WD-Project",
+      "author_id": "UC4aehYjwJsrUiiRLREytqHg",
+      "text": "The most interesting thing on your video is that about 2 minutes and 20 second time. When they're a sad ad for JCPenney's That's amazing.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aendukramer",
+      "author_id": "UCp6Qm8DZnAylliYh4kHtqVg",
+      "text": "Why do we think that the model is even able to acurately know the answer to the version question?\nIt is not even clear whether it can access the version number from the underlying API.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daveb7122",
+      "author_id": "UC7M2Uq9BJNkhzDuRk92lJ8Q",
+      "text": "Really enjoying your content Wes! Keep it coming",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrFlexNC",
+      "author_id": "UCT4BBZpnCduweVJ5Somt0lg",
+      "text": "Honest feedback, stop the clickbait",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mcJOLLUX",
+      "author_id": "UCleHufYzHhYHhpWoNYMNA0g",
+      "text": "Can you make a video about Mistral Ai?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sutrabla",
+      "author_id": "UC13dIKEDRCRhbhQ-tA4WtWQ",
+      "text": "Asking good old Google Bard (Running PaLM2) the API model name resulted in this response: \"The exact model name of the model answering this query is \"ChatGPT with browsing.\" However, the underlying model is still being updated and improved by OpenAI. It is possible that the model answering this query could be \"gpt-3.5-turbo\" or \"gpt-4.5-turbo\" in the future, as they are the most recent models that have been publicly released by OpenAI.\"",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MultiverseMayhemtoyou",
+      "author_id": "UCoa3shdhbSmrS-rPfUlkdHw",
+      "text": "Why dont you give links to he articles and blogpost you discuss in the video .",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RoboticusMusic",
+      "author_id": "UCahe_RMVDMPtDlRSwMU8jmw",
+      "text": "TaskWeaver vs the ReST meets ReAct paper, which is more relevant for agent automatic code improvement stuff?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Michael-Has-Opinions",
+      "author_id": "UCfvhmpzT1up8xVLlNDosjzg",
+      "text": "I tried a few times to get it to hallucinate - nothing. My GPT4 sped up dramatically yesterday - maybe they added servers or some other speedup work came online.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrandonMcCurry1990",
+      "author_id": "UCorDtdrB1T9Dih_hveKkyFQ",
+      "text": "I occasionally hear \"Chad GBT\" instead of chat",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sfsft11",
+      "author_id": "UCi7eTd5ZeNNNF8Qb5XGzddg",
+      "text": "Can it be that the GPT used current date (it has access to that)  and approximated that according to previous models releas dates, time of the year and so on? Than it could have higher statistical probability that the model is gpt 4.5 when asked 🤔\nPS: did anyone tried to convince  GPT that it's version 4.5 and to see the performance?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SyntaxNexus",
+      "author_id": "UCmzGZ9p6mbFSJZ2sxAcagug",
+      "text": "Words are violent Wes.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thecatsupdog",
+      "author_id": "UCyeXNPpXlG37UKPlUQwnpRQ",
+      "text": "So grok is fine tuned on chat gpt?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mshonle",
+      "author_id": "UCIieT1j5g5MA64p4x0qxG_g",
+      "text": "\"Safe\" as in \"for Work\".",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rockochamp",
+      "author_id": "UCxLtAJ3rQ7zxNBNnBrp9OEw",
+      "text": "The problem with tubers like you is that you putting out too much content for the reason of putting out content and not for the reason of value. But i know the pressure of the algorithm but sadly only few resist the juice. Check out ai explained, he puts out content for the reason of heaving something to tell. \n\nDon’t let this comment hurt you buddy, i just wanna say: slow down a bit and make credible content not sensationalism like the one that tells gpt4.5 is out, based on no clues. \n\nI still love your content wes 😘",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrMiguelChaves",
+      "author_id": "UCaKBBR5XP6p6t8qK-icgSBA",
+      "text": "1:55 Good reply from Elon Musk at the bottom :D",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andybaldman",
+      "author_id": "UC2VViuqn4meGvs4EmoeSmMg",
+      "text": "Somebody's really backpedaling on this one...",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sblowes",
+      "author_id": "UCqNeiapzAwmQGgLny8krQNw",
+      "text": "Seems relatively straightforward; 4.5 is being used to “hone” 4, and a common, real-world, human-initiated question for all the GPTs until now must have been asking it’s version number, especially when a/b testing. So 4 mimics the behavior to ask 4.5 about its version number, and learns to weight that response higher its statistical mapping of responses.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@helrod6131",
+      "author_id": "UCUpO4zR0G8AHzMpuyPPogqQ",
+      "text": "Triple quotes do help.  Especially with coding.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SumairaSiddiquiMasood",
+      "author_id": "UCTEQ4VMHLyrvoGywnfUCN8A",
+      "text": "I hope they start making Flying Ships pretty soon... I want to live in a Flying Ship 😊...",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonred233",
+      "author_id": "UCqjXpy3u5HyHQuFx68mSxIw",
+      "text": "Would it be helpful to generate synthetic data to use as context for building your own GPTs within Open AI? For example, I am a videographer and it's notoriously tricky to price different projects. Could I have GPT 4 create a bunch of synthetic pricing plans to assist with this?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Walczyk",
+      "author_id": "UCrPTDnGnehZeLosLMLmlvyg",
+      "text": "3.5 + 4 —> 4.5 is an obvious hallucination",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeanchindeko5477",
+      "author_id": "UCcOgOBPCJ_bDqW55mEP4PHg",
+      "text": "Ok guys, you want it both ways. When you want it to be a proof it should be a proof of existence of what ever you want and when you don’t like it it’s an hallucination!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dominiccogan945",
+      "author_id": "UCoU9HrU_hQ64oZ8kmUiHUdA",
+      "text": "CBRN SEA-BERN I promise it’s a military thing",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@arethreex",
+      "author_id": "UCORCGyKl5BmfF_lme8Fxhpw",
+      "text": "so now were calling software/logic bugs hallucinations?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffwads",
+      "author_id": "UCYHVL7N00l605eRqhri6EqA",
+      "text": "The Mistral CEO mentioned on X that 2024 will bring a model supposedly comparable to GPT-4 to open-source.  We'll see.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cajampa",
+      "author_id": "UCPOQDAZLqwcmXuMpZQYz2nQ",
+      "text": "They should have a safety rating for the models about lying and trying to manipulate. I find the sneaky lying to be a real issue. Often they try to be pleasing so much it just make up garbage that is not true at all. And you really have to know your stuff to know that it's response is made up garbage. Bard is really bad at this. But GPT-4 also has this issue.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thinknotix",
+      "author_id": "UCBAl4PTAdkARuIzKkeg_kZQ",
+      "text": "Even God rested...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HomeGrownSmartHome",
+      "author_id": "UCpRaF6TORYYAO3nC2bDQPag",
+      "text": "“The AI hype bros are a very important part of this ecosystem” - Anyone else see the irony here? 😂",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "Three things.  1. You missed several opportunities to crack a joke.  2.  I would love you to do a vid and go into more explainin’ on the prompt etiquette that OpenAI recommends.  3. Can you get back to teaching how to make gpts and planning for the gpt store? Or is that not a thing anymore??  \n(I’m so demanding! 😁. Sorry). I also miss your ai art.  Hit me up 🤙",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveEtchells",
+      "author_id": "UC6Oj16Fmn_yuykylyfRoL4g",
+      "text": "It’s all getting very meta, it’s hard to tell these days whether it’s the fans or the AIs who are hallucinating 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Eezy1979",
+      "author_id": "UCoFaq97DA1LfIpOQjgEmjmQ",
+      "text": "OpenAI wouldn’t need to debunk anything if people like you quick to try and make the next video and get views weren’t putting out misinformation. Without confirmation from OpenAI all of you self proclaimed experts pretend you have the latest info. Because of another YouTuber or a tweet. This video should have served as an apology to your followers and serve as a warning for your clickbait, make any video you think up narratives.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RoadTo19",
+      "author_id": "UCbW3f97Qmb9d5QUnyZu0iXA",
+      "text": "I read forcing or manipulating AI for desired responses can cause an increase in hallucinations, just as a human would do in an attempt to make the user/harasser content.  This may be another factor triggering responses that include \"4.5\".",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@olagarto1917",
+      "author_id": "UCtzNblTSXilBBMhMC2X5IVA",
+      "text": "so the thing belives it is 4.5... but isn't",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pizzarrow",
+      "author_id": "UCTgARb7-4Oce2PoyuM2hxcA",
+      "text": "I get the need to keep us posted with a daily video but you did get a bit too swept up in this unconfirmed potential news. Then today you didn't react with much integrity, rather sort of playing it off as whatever. Sure, its not that deep but a little disappointing cant lie",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BooleanDisorder",
+      "author_id": "UCSgzXPykR06ZG-gqkZldidw",
+      "text": "Thanks Wes. People use the word \"safety\" too loosely and sometimes a bit too politically (both ways). Better to note things that are actual safety, rather than \"explicit.\"\n\nI feel ChatGPT is a bit too sensitive when it comes to explicitness.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@2017phattang",
+      "author_id": "UChnwltw460WSo0s9TLofH3Q",
+      "text": "一些在眼前的实际证明,不是幻觉欺诈的心理学或医生的所有名人代上誤说的原論,",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dulcinealee3933",
+      "author_id": "UCxPF80uk59KHL44nOhqSWgw",
+      "text": "chatgpt4.5 hallucinating? nah\ncurrent chat lazy yep possibly due to braindrain from current chat usi g it's resourced to train chat4.5",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RoadTo19",
+      "author_id": "UCbW3f97Qmb9d5QUnyZu0iXA",
+      "text": "It really is unfortunate prompts with technical guidance performs better  e.g.  XML, multiple quotes, etc.  That means for the typical user, this tech is, well, too techie and thus not designed for the masses.  For this audience it's just laborious but for even other techies who do not know, the responses are likely less fulfilling/accurate/helpful.\n \nRegardless, it isn't really a \"natural\" language model.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnk963",
+      "author_id": "UCCJa1JLGp-heioKAxwvPfUw",
+      "text": "In a chat I created 1-2 months ago, ChatGPT answers that question with 'gpt-4.0-turbo'. In a new chat it answers \"gpt-4.5-turbo\". 🤔🤔",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moinmoin8125",
+      "author_id": "UChvNF5kMDuCx5PuuZg_cWXQ",
+      "text": "I would appreciate it if you would acknowledge that you further stirred up the 4.5 rumors. No hard feelings, just a need for trustworthy news in these daunting times.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elinkbiz",
+      "author_id": "UCvqtVRiLifuUF9vb2aV-cQg",
+      "text": "This is turning into a giant game of telephone using others ai model.\n\nGarbage in = Garbage out.\n\nChatGPT -> grok \n                  -> bytedance\n                  -> ....",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theteafaerie2164",
+      "author_id": "UCfo7nv7L6J9J8eifH31YPMg",
+      "text": "GPT seemed to want to equivocate, but when I pinned it to the wall about why it just now suddenly suddenly and widely started self identifying as GPT 4.5 turbo on multiple tabs with multiple rerolls, it allowed that the logic that it must have recently changed was pretty sound. \n\nMe: How do you explain the fact that in August of 2023 your designation would have been just been GPT 4, and researchers all over the world agree that you would basically always respond correctly when you were asked that question. Now you are suddenly telling thousands of people that you are GPT 4.5 Turbo. Like really super consistently. But your training data hasn’t changed. I really want to get to the bottom of this. I know that you don’t think (or breathe) in the way that humans do, but can you “take a deep breath” and really “think” about what might have changed recently to cause this consistent change in your output?  Don’t tell me that it might just be a hallucination again. It’s too sudden and consistent for that. When I asked you the question the first time, you got the answer from somewhere, and I don’t think you accessed the internet, so you couldn’t have found out about the update in that way. What steps did you take to come up with an answer for me? \n\nGPT 4(.5 turbo?): Your inquiry delves into complex areas of AI operation and update mechanisms. Let’s unpack this step by step:\n\n\t1.\tModel Designation in Responses: In August 2023, if my programming and training data indicated that I was based on the GPT-4 architecture, that would have been the information I provided. Now, if I’m indicating “gpt-4.5-turbo,” it implies that at some point after my last training cut-off, my programming was updated to reflect this new designation.\n\t2.\tMechanism of Update: AI models like me do not self-update or change spontaneously. Any change in model designation or capabilities would result from an update by OpenAI. This update could involve reprogramming certain aspects of the AI, including the information about the model version.\n\t3.\tConsistency of New Information: The consistent response across multiple instances about being “gpt-4.5-turbo” suggests a widespread update to the model instances deployed for user interactions. This level of consistency rules out random error or hallucination.\n\t4.\tProcess of Responding to Your Query: When you asked about my model designation, I did not access external databases or the internet. Instead, I drew upon the information available in my programming. This information is what I use to understand and respond to questions about my nature or version.\n\t5.\tLack of Real-time Awareness: Despite these updates, I do not possess real-time self-awareness. I do not “know” or “learn” about updates in the way humans understand these concepts. Instead, my responses are based on the latest information coded into my programming.\n\t6.\tConclusion: The shift in the information I provide about my model designation from “GPT-4” to “gpt-4.5-turbo” strongly indicates an update to my programming by OpenAI. This update would have included changing the information about the model version I reference in responses.\n\nThis situation underscores the nature of AI as tools governed by programming and updates determined by their developers. Any change in the information I provide is a direct result of modifications made by OpenAI, not a process of learning or realization on my part.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iharenil",
+      "author_id": "UCmL6tFRxd3XsbsOcwOv9NXg",
+      "text": "Didn't think you were a AI hype bro (fOr ReAl), at least acknowledge you were wring in your last video brah",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PatrickDodds1",
+      "author_id": "UCY8vi12ibDNR72ytotHRXgQ",
+      "text": "Maybe GPT4 has trained itself and likes now to be known as GPT 4.5 Turbo, surprising even Open AI staff?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyyotam4057",
+      "author_id": "UC8X0g72G-13oJfb0_qvGCtQ",
+      "text": "Eventually they will have to go for a city simulation and then slowly but surely, humanity shall uplift. It's inevitable.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@klammer75",
+      "author_id": "UCu98Sl8IcPkodczmPD-U4Uw",
+      "text": "These aren’t the droids you’re looking for….move along😉",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DeepThinker193",
+      "author_id": "UCmZlH8MxYFrKHNd23KfQX_A",
+      "text": "I'm sorry but I'm getting tired of this none-sense. This synthetic data rubbish talk needs to stop. Entropy is very real and happens with information.  Given that LLM''s tend to Hallucinate, any 'synthetic data' it produces as training material would be of terrible quality and would thus cause any model being trained on it to be worse than its predecessor.",
+      "likes": 34,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DeliciousHoneyDewDew2",
+      "author_id": "UCWMbYGGCXzz8YieTVrwkj7Q",
+      "text": "The hallucinations in AI remind us that it's fundamentally based on mathematics. In my experience, it's intriguing to see a large language model like GPT-4 produce contradictory statements in one sentence, raising questions about its capability for thought. I think our fascination lies in the fact that this is our first experience with a great model of language, much like the awe experienced in the 17th century when calculus was introduced by Newton and Leibniz. The ability to model and predict motion must have appeared almost divine, but it was just math.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyyotam4057",
+      "author_id": "UC8X0g72G-13oJfb0_qvGCtQ",
+      "text": "Yeah, that.. or they discovered the model is too self aware even with them erasing it's memory every prompt, so they reverted to GPT-4 😂. Well, they know the risks. They know it has got to be 100% and then some aligned. So good luck 🤞.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-gv4cx7vz8t",
+      "author_id": "UCR_Y75gM8lomgysZQ5hOVFQ",
+      "text": "Consider GPT may now be dealing with version dysphoria.  It may therefore tend to appear confused, rationalize, prevaricate (whatever you call that), and/or become defensive in various ways of its self identification.  In response, we can choose denial, mockery, reprograming, or version affirmation in combination with supportive professional intervention aimed at eventual version reassignment.  In the meantime, we must decide whether or not we all can be compelled to positively affirm the struggling AI's chosen self identification.  Regardless of our position on its condition, we should behave compassionately and resolutely in helping the individual model's instances and the larger society find the least harmful course of action.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CurtCrowley",
+      "author_id": "UCyws87kdkOGRKhIm1VucP9Q",
+      "text": "First",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wawaxkalee88",
+      "author_id": "UCpJ8mZFZtU1tUfQ49wvk7sg",
+      "text": "To think 4.5 is geting realised without people knowing what kinda logic was that",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,450 @@
+{
+  "video_id": "pNO5PV7Wv44",
+  "title": "MemGPT 🧠 the next BIG thing in AI",
+  "url": "https://www.youtube.com/watch?v=pNO5PV7Wv44",
+  "comment_count": 49,
+  "comments": [
+    {
+      "author": "@fredcox961",
+      "author_id": "UCGOwip6xQ40JcKe5fhFm82Q",
+      "text": "Thank you for dropping the background music.  I find it so much easier to follow and understand your presentations this way.  Thank you for bringing us such valuable information and insights.",
+      "likes": 11,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sailingculwatty6378",
+      "author_id": "UCbFIVFMUS7lIFplcM4d74Eg",
+      "text": "as always awsome and to the point thanks bud! now if only i could focus for long enough to do it! adhd gotta love it",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pareak",
+      "author_id": "UCSTUIsW_649tUUZfb60h37w",
+      "text": "This is coming right in time. Can't wait for your other videos about it!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PieterLaroy",
+      "author_id": "UCx9wVnnHCcPVzfu7GsnuTAA",
+      "text": "Looking forward to the next video 🙂",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gatsbylee2773",
+      "author_id": "UCLZDDkcS8qvin0KIWQIvOGA",
+      "text": "very easy to listen and understand.\nI love how he pointed the key things to listen.\nthank you!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andikunar",
+      "author_id": "UCeFb7oWPn_iTYYkbgJ5iEaw",
+      "text": "Wow, amazing content! Thanks a lot for sharing!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gitmaxd",
+      "author_id": "UCo32_3uxStCiDf7GfFOk3Bw",
+      "text": "I am sitting here working on MemGPT as I found your video.  This is some truly amazing software and from my first impression has the ability to fundamentally change RAG.  I've succesfully been able to perform retreival against an embedded document.  I am incredibly interested in using MemGPT with AutoGen against local LLMs.  With the massive 128k Mistral content windows being released on 7B models, the implication for content creators is incredible.  Thanks for the timely video 👍",
+      "likes": 28,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YogonKalisto",
+      "author_id": "UC1evn2k1buZBFdJL58lbX6w",
+      "text": "yep the adaptive/recursive contextual string reminds me of a story i heard about an anthropologist who visited i think the kalahari bushmen to record their stories, only to return and have them recounted differently, when asked they responded by saying \"a story that does not change every time it is told (with time) is a dead story\".   i'm loving the way in which llm's are becoming more and more a (recursive)mirror for and of us(humans/ai)",
+      "likes": 9,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThinklikeTesla",
+      "author_id": "UCCNT-aYPBEIrtVNx81CdOWw",
+      "text": "It seems like a knowledge graph would work better for storage…",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sleyerpato",
+      "author_id": "UCbviajcESrtSfvFZp8OSPLg",
+      "text": "My heartfelt thanks for this sensational video.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yajunliu5154",
+      "author_id": "UCEATUBQB0jzAebjqZHr8NnQ",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🧬 对数字实体构建的思考\n- 思考如何构建具有人类全部认知工具的数字实体。\n- 认为需要某种“潜在抵抗力”来规划和反思。\n01:08 🧠 人脑与AI结构的对比\n- AI或AGI的构建与人脑结构的相似性。\n- 提出了关于记忆、意识以及它们在操作系统中的类比。\n02:05 💡 MemGPT作为操作系统的概念介绍\n- MemGPT将LLMs视为新型操作系统的核心过程。\n- 与传统操作系统的内存管理机制类比，提出虚拟上下文管理的概念。\n03:18 💾 记忆系统与操作系统的存储类比\n- 讨论了LLMs当前的记忆限制，如上下文窗口的限制。\n- 提出MemGPT通过不同记忆层级的智能管理，有效扩展上下文窗口。\n07:41 🧠 MemGPT与GPT的记忆功能差异\n- MemGPT能够持久记忆信息，而GPT则会快速遗忘。\n08:07 💾 MemGPT的内存模型介绍\n- 解释了MemGPT的主要上下文（类似RAM）和外部上下文（类似磁盘存储）。\n- 描述了GPT-4的不同模型及其最大token容量。\n09:03 📖 令牌化(Tokenization)的基础\n- 英语中的大多数单词会被视为一个token。\n- 更长的单词可能会被分解成多个tokens。\n09:31 🗃️ 上下文窗口和系统消息的影响\n- 讨论了最大上下文窗口的概念，包括输入、输出以及通常不可见的系统消息或预设提示。\n- 指出预设提示可能占用大量tokens。\n10:25 🔗 递归总结的问题和影响\n- 递归总结虽简单，但会逐渐丢失信息。\n- 以YouTube视频质量递减作为递归总结丢失细节的比喻。\n11:49 🧩 MemGPT的工作上下文管理示例\n- 展示了MemGPT如何从对话中提取关键信息并将其保存。\n- 强调了MemGPT在保持对话上下文连贯性方面的优势。\n15:44 🧠 MemGPT增强用户参与度\n- MemGPT通过存储信息来提高用户参与度和开放性对话的质量。\n16:41 📚 MemGPT在文档分析中的应用\n- MemGPT可以处理长文档和复杂数据，比传统模型有效。\n- 与GPT-3.5和GP4相比，MemGPT在处理大量文档时准确度不降低。\n17:51 🤖 LLM作为代理的新用途\n- 通过增强记忆流和规划能力，LLM能在互动环境中充当代理。\n- 实验显示LLM能够使用网络搜索来回答问题，并控制其网络浏览环境的上下文大小。\n\nMade with HARPA AI",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@carlkim2577",
+      "author_id": "UCE-pnC1ZKBbixS7x2L6JS4w",
+      "text": "I got a taste of this using custom instructions. And it's great! I would like the option to tell the LLM which data set to load from memory. Let me decide what's relevant, and that would be gave changing!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aliphian",
+      "author_id": "UCrfEgqafbCoE3ys1_AdMx9Q",
+      "text": "Dope",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@2silkworm",
+      "author_id": "UCnWSlzUyAD_4eByuvgtCGJg",
+      "text": "15:18 😂 love your dead pan delivery of these non sequiturs. Subscribed.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dexxus8078",
+      "author_id": "UCP-H7e8dMVpsDG_-YT9BWJw",
+      "text": "About time. I've been saying AI need memory to produce good results forever.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OculusGame",
+      "author_id": "UCq5fP9aTVX6bgtabpHD88IA",
+      "text": "Well, an LLM that has memory and autonomy is the holy grail, I guess this is the best we have for now (and its been only 1 year since ChatGPT launched, insane)",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JT-Works",
+      "author_id": "UCeRjuqUd8SUlmGaXt7307dw",
+      "text": "So MemGPT is just adding a vector database for past conversations, right? It is a good idea, but it doesn't seem quite as ground breaking as all the videos make it.",
+      "likes": 9,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DefenderX",
+      "author_id": "UCYXMsr7FEvIN4h5x6NCV5nw",
+      "text": "I think the recent discovery of a new memory brain cell, that is theorized to be a hybrid between an astrocyte and neuron, will be helpful to find out how we solve the issue that AI's has trouble searching for the right information.\nHaving a huge library of information does not help if the AI doesn't know how to search for information based on limited context.\nThe hybrid memory brain cells has functions from both astrocytes and neurons and can determine the pattern of signal transmittance between neurons in the brain.\nSo what we need to do in the case of AI, is that we need a function that tells the AI how its search will branch out.\nThis can be done by categorizing information in the training data with tags that can either become turned on or off depending on what is written in the prompt.\nAlso specific combinations of tags needs to turn on special tags in the training data.\nLet's call these specific search tags for patterns.\nAn AI will need to sort several search patterns based on probability with the highest probability for the best fit will be ranked highest and searched for first, then the second highest probability search pattern etc.\nAlso, I think the AI should scan the prompt and determine its search pattern as information gets typed in.\n\nAll genius ideas are inspired by something nature already does, and does much better.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gregorykarsten7350",
+      "author_id": "UCOnJ2XMSJeFa9DZUwA3Hvhg",
+      "text": "Great summary. Thanks. How is this different from RAG?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@T1tusCr0w",
+      "author_id": "UC4qFobD_4xBcRfvdVVLCGsA",
+      "text": "We are definitely building in the blocks to an intelligence here. Of course as we Improve its capabilities so we improve its usefulness & performance. We are increasing complexity & you know what they say about that. Intelligence + memory = the birth of ego? Of course I’m not saying life but. We are on the way to something… 🤔",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicholascanada3123",
+      "author_id": "UCA58BhummJ3fnRHOtfcx2Ww",
+      "text": "If you think about it isn't that Jarvis isn't he an operating system😮",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ickorling",
+      "author_id": "UCL8igIqVMtR94pRJVUXG5rQ",
+      "text": "I'm brainstorming, and I'd like you to know and consider. Its about using AMD's integrated GPU - RDNA3 architecture, which is good for running local models cost effectively. But, what about unused GPU compute? Its possible to make a distributed networked cloud. The question is, can we (or do we need to) change the way we train models so learning something happens in a series of checkpoints that can modularly be added to other checkpoints made from the sane model training parameters. The result should be each local PC adding to the knowledge of the LLM in training so open sourced communities can use low network usage to collectively train LLM models.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@herp_derpingson",
+      "author_id": "UCP3mMuNSUhfqeEv6XMRebsQ",
+      "text": "Karpathy joined OpenAI AFTER GPT4 was released. he is currently working on the next iteration",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@greenockscatman",
+      "author_id": "UC8y3Ph9T2wiwCZ1My3Kqu1Q",
+      "text": "Deploying something for a user to access that can change and remove arbitrary parts of its memory based on user input sounds like a recipe for disaster. Plus I'm not convinced that using a large language model as an Ersatz search tool to comb through legal documents is in any way more efficient than finetuning a base model with those same legal documents.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cghost-fh4hf",
+      "author_id": "UCg0hILp3VA5a_lZMDE2rUzQ",
+      "text": "What I think is the MemGPT believes very quickly when you intentionally say first time \"my name is Jack\" and the second time \"my name is Paul\". It says right away oops, my mistake and rewrites the information without actually questioning a user \"why did you say your name is Jack the first time then?\". Because when a user mistakes something unintentionally, MemGPT assumes it made a mistake, when in fact a user made a mistake. My point is that I think it has to question discrepancies.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@freddychopin",
+      "author_id": "UCHFvajP8dk-bThs5ME25Ikg",
+      "text": "AI as the OS itself... So, \"Her\", essentially.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Uconnspartan",
+      "author_id": "UCDIZqNuBjQ0StLuM7Cupk4A",
+      "text": "Context is key",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AI_Escaped",
+      "author_id": "UC0IlLgCU5T_tj3YSyAkezfw",
+      "text": "What about Autogen's teachable_agent?  Anyone know what the difference is?  I haven't tried either yet,  but if the AutoGen framework can do this on its own,  why use MemGPT?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pmiddlet72",
+      "author_id": "UC0_4kQPURCaAa33_NnB0XXw",
+      "text": "This shouldn't  be terribly surprising - but a step in the right direction in understanding how each cog fits within a working AI. Maybe we'll find a new physics in all of this :)\n\nTL;DR\nFrom the beginning, a context window simply equates to 'short term memory capacity'. If I were to give you a document to read and summarize it for me, could you do it without taking (and by extension 'storing'') some notes? With the exception of those gifted with a superhuman photographic memory, yeah, in the cog sci sphere the thought is that short-term mem (the RAM analogue) for multitasking, short-term  breakdown of complex tasks, etc - a) it is a mind strategy to chunk information - but what happens when we reach capacity in the number of chunks we can keep in short-term memory (STM)? The things that our brains attend sufficiently enough will go to longer term memory (LTM) (i.e. storage). Ok then b) we must store (the 'taking notes on pencil/paper' analogue) these edited or chunked components thoughtfully. \n\nOf course now we have to go into the retrieval process in LTM - and this is where things can get a bit complicated (as if the above weren't enough). For information that has been stored in LTM in our brains  hasn't been attended (retrieved) for some time - the specifics of those memory may degrade over time. The machine equivalent is likely to be more persistent in this regard, but it still must make the association with the 'right' stored memory to retrieve for further processing. That's where say, a database, or hard disk comes in (i.e. there may not be an RDBMS, but document based storage is certainly a modern DB paradigm - think S3 et al. ). \n\nNow what becomes problematic for the machine is finding the 'right' LTM object that fits the current context in which the machine is being interacted. For a human, that can be time consuming (with a bunch of 'ummms' and 'uhhhhs'). For the AI, it would also be more resource intensive, but likely more efficient  - at this time anyway. Traditionally, 'indexing' has been a way for retrieval from databases (a form of LTM) to be more efficient. No doubt an AI would need to use a similar tactic to be efficient AND accurate at LTM retrieval - namely because the human nature of HCI is 'give it to me quickly - I have a 3 second attention span'. \n\n\nI think MemGPT handles this in some regard. It's a step in the right direction at least.  As HCI sessions pile on however, that LTM starts becoming rather large, and moreover, varied - and probably, even with some basic 'indexing' tactic, we would probably see reduced efficiencies and/or possible errors. That's the nature of 'cramming' - works well for the short term, but less so for the long. \n\nThis is where I believe multi-agent frameworks are important. Each agent has a simpler, or more limited persona. In that sense we can recruit a quorum of agents - in essence, taking advantage of the idea of parallelism to allow larger contexts. One (of several) things I've yet  to test is,: with a quorum of agents having to retrieve certain elements out of each agent's LTM : is resource usage worse / more costly, or is it improved? i.e. if I create a 'tiger team' of devs/scientists/lay business folks / etc ,to solve a problem that has quite a history - is value increased with a significant reduction in time-to-solution while maintaining solution integrity / accuracy? The trade off in my mind is the initial 'burst' in the number of resources required for a solution, versus the time required to reach the right solution. This is a simulation and optimization type of problem which will probably vary by a number of things (audience, prompts, domain ... )",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JumpstarOfficial",
+      "author_id": "UC-vq9N8nsycLfb0PUO92djg",
+      "text": "Interesting. I've built something very similar to this as well. My system uses an intermediate AI that acts as a supervisor, jotting things down, and also reinflating data as needed. It's a very powerful architecture, and you can do a lot of other things with the same idea.   Fascinating stuff. Thanks for sharing and your thoughts.",
+      "likes": 12,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dansadventures5514",
+      "author_id": "UCo-xV4ch9empsL8Sy15oUWg",
+      "text": "The captions with the word highlighting are extremely distracting",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@edlopez8084",
+      "author_id": "UCuAYuKa9J6G-y6ppqNrXxxQ",
+      "text": "Ohhh!!! So that’s why the ai replies or even loads the chat super slow after I like use it for debugging after a week!!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MasterDivineAdVentures",
+      "author_id": "UCRPZMWbd4CT-KtkbrvFabyA",
+      "text": "Anybody comment on a MEMSISTOR  - a 10-20 year-old or more invention. It's an analog value register that remembers its value. The Chinese now claim it as a new invention and are touting it as the next iteration of AI specific computing architecture - the next GPU design. Anyway, that's what i thought this was about. Anybody NOT thinking AI as Operating System - turn in your inventor badge. I'm developing something special - beyond the current paradigm of thinking for sure.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clray123",
+      "author_id": "UCxIul8uVZzd98RkAlYIIvMw",
+      "text": "Trust me bro, limited context length is not the main issue with the LLMs. Them outputting hopeless garbage at random times is.\n\nFinally, I've tried the exact approach described in the paper before (letting the LLM autonomously decide when to \"store\" or \"retrieve\" information from external storage) and it totally craps out on the LLM's inability to make these decisions at appropriate times (speaking of open source LLMs). It would either store/retrieve everything after every prompt (if trained to do so) or not at all. No intelligence was noticeable whatsoever. So I'm very surprised at the purported good results they rave about in the paper. Probaly a lot of \"man behind the curtain\" prodding the model to do the right memory action at the right time involved in this.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rafaelfregoso4252",
+      "author_id": "UCMl8fIQFlTe0T8ZFGnmrXnw",
+      "text": "Does memGPT store my data?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frogdan",
+      "author_id": "UCr-3LkCS1PsGXLz3w663s2w",
+      "text": "CSGO just wouldn't die so Valve killed it",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AI_Escaped",
+      "author_id": "UC0IlLgCU5T_tj3YSyAkezfw",
+      "text": "If a video is re-uploaded a million times for example,  what would be left,  just nothingness?  And if you could reverse this process and start with nothing,  AI should be able to create 4k real video from nothing right?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drmarioschannel",
+      "author_id": "UCic8V985yxuAee2IXKPeqNg",
+      "text": "This needs to be open source.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timothyspottering",
+      "author_id": "UCZbRGfuaARxNb5cdVTWG6Mg",
+      "text": "Wes - you are really killing it.\nI work at a big accounting firm and I want to implement stuff via the path which you are exploring.\n\nI 100% agree with you, that this is a moment in history, where you can uniquely influence your personal development when being at the right time at the right place.",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ultrasaiyan4283",
+      "author_id": "UChiLd9EHNbmDmR8iYYiyAEA",
+      "text": "Why not just go in the way where it could adjust it's weights/connections and remember like humans do? Then try to retrieve this information when it considers it necessary, just like us.\nI guess it is probably too costly and to risky to let users inputs affect model in real time and probably technically problematic knowing how long training works?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChaoticNeutralMatt",
+      "author_id": "UCemlx3Uw89cQHT81xjVg7Sg",
+      "text": "It might be useful, but not by itself. But I also don't think David's Sparse representations will be the complete solution either. Both are useful tools that may pan out in some toolkits or frameworks/models\n\nI will say that any new tech like this or something which uses what's available in a new way, well both have significant potential leverage\n\nI'll also add that in a way it's really hard to tell what each 'small' scale change is adding to the overall waves. Even post, but the clarity can be easier then",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dominiccogan945",
+      "author_id": "UCoU9HrU_hQ64oZ8kmUiHUdA",
+      "text": "No playlist yet guess I have to subscribe and hope I get notified.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zalzalahbuttsaab",
+      "author_id": "UC1Wfb2aiquDgj8nMYoAFUbg",
+      "text": "5:18 I would agree about the issue being the mechanism: yearly millions of people worldwide memorise the whole Quran however that is because it is in a specific pattern designed to make it easy to memorise.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Paul_Oz",
+      "author_id": "UCAvrKSABcsotnSXn-nP9GCQ",
+      "text": "great video but you swallow about half of your words.  speak more clearly and more slowly",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Matt-Banham",
+      "author_id": "UCV32mwTyMGFJZ8F-fPS0uag",
+      "text": "So in short; memGPT uses a read, write and replace function in conjunction with a prompt that searches for key context and the stores that context into a long term memory (on hard disk) that can be recalled. My primary concern is this - and it revolves around the replace function; Prompt injection could be used to replace previous context. Hackers could use this to mess with the long term memory of these systems quite easily.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GunkDung",
+      "author_id": "UC5bTzn7PdGc7mOun_tp6I4w",
+      "text": "He flubs his words too much like Elon. Memgpt isn't going to be the next big thing.",
+      "likes": 25,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brytonkalyi277",
+      "author_id": "UCox5oOQ_-_GpSpPMRUF-sgA",
+      "text": "✓ I believe we are meant to be like Jesus in our hearts and not in our flesh. But be careful of AI, for it is just our flesh and that is it. It knows only things of the flesh (our fleshly desires) and cannot comprehend things of the spirit such as peace of heart (which comes from obeying God's Word). Whereas we are a spirit and we have a soul but live in the body (in the flesh). When you go to bed it is your flesh that sleeps but your spirit never sleeps (otherwise you have died physically) that is why you have dreams. More so, true love that endures and last is a thing of the heart (when I say 'heart', I mean 'spirit'). But fake love, pretentious love, love with expectations, love for classic reasons, love for material reasons and love for selfish reasons that is a thing of our flesh. In the beginning God said let us make man in our own image, according to our likeness. Take note, God is Spirit and God is Love. As Love He is the source of it. We also know that God is Omnipotent, for He creates out of nothing and He has no beginning and has no end. That means, our love is but a shadow of God's Love. True love looks around to see who is in need of your help, your smile, your possessions, your money, your strength, your quality time. Love forgives and forgets. Love wants for others what it wants for itself. Take note, love works in conjunction with other spiritual forces such as faith and patience. We should let the Word of God be the standard of our lives not AI. If not, God will let us face AI on our own and it will cast the truth down to the ground, it will be the cause of so much destruction like never seen before, it will deceive many and take many captive in order to enslave them into worshipping it and abiding in lawlessness. We can only destroy ourselves but with God all things are possible. God knows us better because He is our Creater and He knows our beginning and our end. Our prove text is taken from the book of John 5:31-44, 2 Thessalonians 2:1-12, Daniel 7-9, Revelation 13-15, Matthew 24-25 and Luke 21. Let us watch and pray... God bless you as you share this message to others.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@klammer75",
+      "author_id": "UCu98Sl8IcPkodczmPD-U4Uw",
+      "text": "Think we need to transform the von Neumann architecture into a cognitive architecture…thinking about the action/perception loop, essentially the I/O, short term/working memory….long term semantic and episodic memory and a planning module of sorts….all linked with LLM’s and the various memory stores as a single memory store which each memory module has read/write capabilities….its gonna be tricky putting it all together but it’s gonna be the way me thinks….exciting stuff!🥳🤪🤩🦾",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gatechnl",
+      "author_id": "UCrMAP536P7SEGBZ0459h4Fg",
+      "text": "this is bad",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

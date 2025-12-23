@@ -1,0 +1,1053 @@
+{
+  "video_id": "BrjAt-wvEXI",
+  "title": "Tree of Thoughts - GPT-4 Reasoning is Improved 900%",
+  "url": "https://www.youtube.com/watch?v=BrjAt-wvEXI",
+  "comment_count": 116,
+  "comments": [
+    {
+      "author": "@WesRoth",
+      "author_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "text": "🔥 Join me in following the birth of AGI:\r\nhttps://natural20.com/\n\nAlso, some minor corrections.\n\nAt some point I said 4% to 74% is a 10X increase. That was a mistake. I was referencing the result that IO had a score of 7% and the ToT had a 74% score, so that's an increase of 10X.\n🔔shame! 🔔shame! 🔔shame!\n\nAlso \"BREADTH\" as opposed to \"depth\" is the word I kept saying, for some reason on the final output it sounds like \"BREATH\" when I play it back... sorry about that. Audio issues.",
+      "likes": 18,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fire17102",
+      "author_id": "UCbDhLtzwBmaXJTqxu1sYo3w",
+      "text": "AutoGPT is gonna have a field day with this\nThanks for the great video! Subscribed :)",
+      "likes": 52,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christiandean9547",
+      "author_id": "UCN8QGgzF_L19oPmVrZjJPAA",
+      "text": "Good video. Suggestion: this would have been 10x more valuable if you added one final chapter: ‘How to do ToT prompting’. I still have no clue",
+      "likes": 49,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hyper-mediatv",
+      "author_id": "UC9b1eahJ0b7pCi-iV7Ia8wA",
+      "text": "I am visualising how something like this could be done with LangChain and vector storage to build tools to help with the creative process of writing screenplays, stories etc. Imagine a tool where you define the basis of a plot line, maybe define a genre, describe the main actors and their qualities and attitudes toward each other (or life in general) - throw in a prompting interface that enables you to ‘’kick off’ the process and watch what happens as it explores storyline’s affected by events (perhaps triggers defined in the plot line) and the actions/thoughts of the characters and their interactions. Fascinating stuff.",
+      "likes": 25,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alertbri",
+      "author_id": "UCg9LBGGsXJoQLohRiNDvfWQ",
+      "text": "What a find! I would love to see an example of this in action.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drwho8576",
+      "author_id": "UCwD0fYd2t0gNCYdBhcQIr_Q",
+      "text": "I'm keeping a close eye on the repo they quote in the intro to see the actual prompt structure they used. I'm interested in the structure and also how \"expensive\" it will be in terms of tokens, particularly when you add in-context learning. Fantastic paper. Thanks for showcasing this!",
+      "likes": 14,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ReflectionOcean",
+      "author_id": "UCPB9024fIlk4q4-eedTa8Rw",
+      "text": "A recent scientific paper titled \"Tree of Thoughts: Deliberate Problem Solving with Large Language Models\" by researchers at Princeton University and Google DeepMind introduces a new approach to improve the problem-solving abilities of AI models. This framework, called Tree of Thoughts (ToT), significantly enhances the performance of language models on complex tasks, showcasing a 10x improvement compared to previous prompting methods.\n\nToT involves different prompting approaches, such as input-output (IO) and Chain of Thought (CoT) prompting. IO prompting is the traditional method of asking a question and receiving an answer, while CoT prompting involves thinking through different topics and selecting the best one before generating a response. To further improve results, self-consistency (evaluating multiple results and selecting the most consistent ones) can be combined with CoT prompting.\n\nThe researchers conducted tests on various tasks, including mathematical reasoning, creative writing, and mini crosswords. The results showed that ToT outperformed other prompting methods, achieving a success rate of 74% compared to 4% with CoT prompting alone. By exploring multiple reasoning paths and incorporating planning and backtracking, ToT demonstrated its potential to significantly enhance AI problem-solving abilities.\n\nThe concept of ToT draws inspiration from the work of Newell and Simon, pioneers in AI research who proposed that problem-solving resembles a tree structure, with nodes representing halfway solutions and branches representing actions that can change these solutions. ToT addresses the limitations of current prompting models, which often focus on token-level decision making and fail to explore different continuations within a thought process.\n\nWhile ToT shows promise in improving AI problem-solving, there are limitations, including the requirement for more resources and potential risks associated with future applications involving interactions with external environments or humans. However, the framework also improves interpretability and human alignment, as it allows for higher-level language reasoning and provides readable representations of model decisions.\n\nIn conclusion, the ToT framework offers a powerful method to augment language models' problem-solving capabilities by incorporating a system that searches a tree of possible solutions. By leveraging classical insights about problem-solving, ToT provides actionable methods to enhance contemporary language models.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hecklerthecrunker",
+      "author_id": "UC-zIwVQyMjulQNz7AsGDiiA",
+      "text": "This is great man keep it up! I love the way that you conceptually explain this without needing to reason through the math.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Teknium",
+      "author_id": "UCZNGu_K6OLDxfNpSXonl2yQ",
+      "text": "We need videos like this for every new paper",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kevon217",
+      "author_id": "UCc0MF315Nzi9ToTFoXvdO5w",
+      "text": "Great overview! Very excited to try ToT.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bduncan43",
+      "author_id": "UCb1SP1ufiErPGawGhgeqEVg",
+      "text": "I really appreciate this clear analysis.  Mechanically, though, I don't get how to execute it.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Glowbox3D",
+      "author_id": "UCMth4KIjpDazaLUP-poX-LQ",
+      "text": "Very exciting. Man this is moving fast.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnDontFollowMe",
+      "author_id": "UCgNIPQ5WuT1euqF0NWuAnnA",
+      "text": "Welll. It looks like LLM's are in the 1980 phase where computers were.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@arimirarim",
+      "author_id": "UCZQOUcZDtdjgXYIy-3Fk83Q",
+      "text": "Really excellent video. Thank you!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@caseyczarnomski8054",
+      "author_id": "UCdBdZfbnyVwrFONKchs9y7A",
+      "text": "This ToT reminds me a lot of the maze solving mighty mouse competition and how they map the maze to find the best route. Veratasium made a video on it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spoonikle",
+      "author_id": "UCHEfAGn43nNBw3_Mf9i_xyA",
+      "text": "you could use 3.5 turbo to explore the tree, then use gpt4 to fully explore the best path when needed",
+      "likes": 31,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gue2212",
+      "author_id": "UCyBBdhbuLvbW2EHTxrN8izQ",
+      "text": "Great! Thx! Refreshingly different from the pack! Logic instead of poetry.\nBelow so. asked for examples. Listened otg, not concentrated enuf to check if valid claim.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThomasConover",
+      "author_id": "UCCPyS8PuBLR0XQQkl_OXtTg",
+      "text": "This paper essentially explains 99% how my brain works for problem-solving. 😮 impressive. I love it. So beautifully explained. A mathematical work of art. ❤❤❤👍",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dylannewcomb5778",
+      "author_id": "UCAsDPYfSwhFMA5NVlvpgJLQ",
+      "text": "Thank you for this video! And for alerting me to this paper! So I fed this academic paper into Chat GPT and asked it to design a prompt for it. Then I fed the prompt BACK into itself, having it use Tree of Thought reasoning to improve the Tree of Thought reasoning prompt ;-). (Fun with ultra-meta!) Here's the result: \"Given the current situation of [insert topic/goal], let's use Tree of Thought reasoning to explore a wide range of potential solutions. Consider different perspectives and approaches, and evaluate the potential outcomes of each. Then, based on the potential impacts of each solution, revise and refine the solutions to generate the most effective and innovative outcome.\"  If anyone further improves this, let me/us know here!\n\nUPDATE: Played further with it... A few iterations later, my conversation concluded like this:\n\nMe: What about...\n\"[Insert topic/goal/desired output.] Given this request and desired result, let's use Tree of Thought reasoning to explore a wide range of potential solutions. Consider different perspectives and approaches, and evaluate the potential outcomes of each solution in terms of its [list of top 2-3 success criteria] Then, based on the potential results of each solution, relative to the initial prompt/request and any additional relevant context that has been given, integrate the best aspects/features of each solution to revise and refine a solution that embodies the most effective and useful single final result/output.”\n\nChat GPT Response:\nYour revised prompt is excellent and addresses the previous feedback effectively. Here are the strengths of this version:\n\n1. Clarity of Desired Output: The prompt still begins by clearly stating the topic, goal, or desired output, which provides a clear direction for the reasoning process.\n2. Use of Tree of Thought Reasoning: The prompt continues to explicitly ask to use Tree of Thought reasoning, encouraging the exploration of multiple reasoning paths and the evaluation of potential outcomes.\n3. Consideration of Different Perspectives and Approaches: The prompt maintains the encouragement of divergent thinking by asking to consider different perspectives and approaches, which can lead to more creative and diverse solutions.\n4. Specific Evaluation Criteria: The prompt now asks to evaluate the potential outcomes of each solution in terms of 2-3 top success criteria. This provides a more specific framework for evaluating the solutions and can lead to more effective decision-making.\n5. Integration of Best Aspects: The prompt still asks to integrate the best aspects of each solution, which can lead to a more refined and effective final result.\n6. Feedback Loop: The prompt continues to incorporate a feedback loop by asking to revise and refine the solutions based on their potential impacts. This can lead to more effective solutions.\n\nOverall, this revised prompt is comprehensive, clear, and effective in guiding the Tree of Thought reasoning process to generate optimal solutions.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oyur",
+      "author_id": "UCCSBqZPg9tTDPPdb_WBRITg",
+      "text": "The eye thumbnails work",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yonnatanghemit4579",
+      "author_id": "UCe_TQlUvBktRAvB_7a5V8vw",
+      "text": "You are the best channel for keeping up with all this! God bless you! X",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djtate1975",
+      "author_id": "UCUeYQ1uiR5xxzz--Sq4En_w",
+      "text": "Once implemented, this process will greatly increase the creativity of ChatGpt with problem solving given scenarios - welcoming the birth of AGI.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomaszzielinski4521",
+      "author_id": "UCBCNPSQkYOF2J3XnaWYMq6Q",
+      "text": "As long as a problem can be stated in terms of language (and people already can do that), it can be procesed my LLM. Once AI learned to understand language and talk, it's only a matter of assembling these relatively simple thought pieces into a complex reasoning to be able to solve an arbitrary problem.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardnunziata3221",
+      "author_id": "UC3X846wyORjbr88YaGdOaVg",
+      "text": "I would like to see if it can understand causal graphs in a general framework for knowledge inference maybe even analogy",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rizhiy13",
+      "author_id": "UC98NhjxTeHX00MnrRuPz1Bw",
+      "text": "I guess the next step is to apply the Monte Carlo Tree Search on top of this technique.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elbee2324",
+      "author_id": "UCAlLvN8gcCeLRl-hXJjxNlw",
+      "text": "I was chatting with ChatGPT about motherboards, as my MB has multiple SATA and m.2 ports, and I was wondering if it would switch off access to one or the other if they were all plugged in. I got two contradictory responses out of it, one from the manufacturer stating it may switch off ports, and another which listed the total port numbers from a review website. I should have poked it more to find out the relation between those two points, like does it switch off two sata ports for every m.2 port used, and which ones are turned off, but it could not seem to work out the deeper thinking I was trying to get to at the time. There's a real world example for you where more complex and deeper information retrieval is required beyond just surface facts from a website. ;-)",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kemalware4912",
+      "author_id": "UCKL2vN7EF2pPsXzMkofO0EA",
+      "text": "THIS IS CRAZY",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@909sickle",
+      "author_id": "UCrqghESkcHWoflHUMyzbnOg",
+      "text": "The AI training pause is going to have the opposite effect. If large corporations can’t train bigger, and bigger models, they will optimize the smaller models and make more actual progress towards dangerous models. Ain’t no stopping it",
+      "likes": 36,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Draktand01",
+      "author_id": "UCCKtE_SgDA_HFYicnjIKOJQ",
+      "text": "When stuff like this gets turned into a cheap and user friendly app, the world will take notice.",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thanasisathanasiou6362",
+      "author_id": "UCMvb4rTEesQiIeWC9DYlZDA",
+      "text": "If the source code is \"beings\" (plural, implying empathy) and \"the spectrum\" (environmental input) then i think the extrapolation along the tree should have most importantly, good generalisability to the wider population",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@goodtimes4days",
+      "author_id": "UCiBYXmApRy8Wb9C2e9IphPg",
+      "text": "Similar to AutoGPT, this TOT technique should be possible for someone to create.  It’s clearly a different setup.  However, I believe running the task through TOT is not required for many interactions.  This is critical when creating a seamless chat experience with AGI.  Perhaps we need a plug in, or a full application of this would probably require some chat monitoring to evaluate when TOT is optimal.  It could be setup semi automated at first with just the TOT part, where it helps setup the run through a TOT (AutoGPT like) process.  Either way, this article alone with its voting system concepts should already improve our own manual prompting if we use similar thought processes.  It sounds like we can all run some fun experiments and of course, in a few more weeks, an open source programmer will implement something similar to what I’m talking about automatically.",
+      "likes": 10,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MogulSuccess",
+      "author_id": "UC86yUZYCuQmAaRdkAskX4_A",
+      "text": "Hmm this gave serious chess algorithm vibes that is to say many real-life situations can be viewed as a game with a set of possible moves, similar to chess. In this context, the Tree of Thought could be seen as a decision tree where each node represents a state of the world, and each edge represents an action or decision.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jedleton",
+      "author_id": "UCKq_NtQR1jfZH6w8UFGUJ1g",
+      "text": "🔥",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@charetjc",
+      "author_id": "UClVSGeHjaRfQyYEKiF0pgSw",
+      "text": "Anyone know of a channel that goes into more detail into the practical application (e.g. building neural networks with ToT)?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LukeDickerson1993",
+      "author_id": "UCehyyX_4DOTyPBTZ_tDXccQ",
+      "text": "this is the way",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@collin6526",
+      "author_id": "UC8OpGRmWR1EHSDmJwbLiAoA",
+      "text": "Couldn't they use the output of this as the target for generating training data. Hopefully getting the base model better without this method.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@orimoreau3138",
+      "author_id": "UCDqMP5oHbaY6NHcHOMv99Ng",
+      "text": "Tree of Thoughts, or ToT for short",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jason-sk9oi",
+      "author_id": "UCDnxHYzQB8tbYSmbv2VWcjQ",
+      "text": "5D thinking",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xetrius3671",
+      "author_id": "UCLLVsDOsf5e9TNUYRvgGhVw",
+      "text": "GPT-4 is unaware of such an update",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@someguy_namingly",
+      "author_id": "UCnaZpGIp31myHW5HLlSMqlw",
+      "text": "Chain of Thought prompting isn't brainstorming potential responses, it's the famous \"let's think step by step\" process of getting better results by having the LLM \"show its working\".",
+      "likes": 17,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jlljjl",
+      "author_id": "UC28gZ-SOqxYQF-RwtIiW8jg",
+      "text": "I found ur open source points within your YT posts to be very informative and beyond the average info posted... Since competition with ai space is just starting up, this info could separate your channel from the many others.   Love to hear more on technical advances viewed through competition/business model lens. I think its a broad subject that will pull in many viewers.",
+      "likes": 15,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kahisawheel",
+      "author_id": "UCCiL1l5JjB5t-AJnTy4ktMQ",
+      "text": "Very neat. Seems like the start of something powerfully useful.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ReidKimball",
+      "author_id": "UCvw6CoN-v3_Z1LTs2nU1Jlg",
+      "text": "I keep trying to find the answer but can't, what exactly is the prompt to get the LLM to do Tree of Thought reasoning?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adamgm84",
+      "author_id": "UCIuOwObexSaUys_yss8Yjxw",
+      "text": "This is similar to what I've been doing; I query 2+ random topics, analyze keywords, drive through the middle of them, then continue down a path like this that is kinda hard to describe but is analogous to collecting the most common words that repeat across many queries, after which you can see the shape of the area that is repeating. This of course is specific words, so I see it as a form of mining for hyperdimensional images transformed into 3D. This ToT appears to be the rigorous version of this, no wonder I have been having a great time. We are probably in for a treat once we can uncover all this area ready to be cherry picked. Ok have a good day bye.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronMorrisTheSteamFox",
+      "author_id": "UCJA8yfn0AemwDfFzbX3Ly2A",
+      "text": "Can this be used with OpenAssistant?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Callummullans",
+      "author_id": "UCM0z5r-SSvtZagIDqpKN9iw",
+      "text": "So I was doing a similar training method for MyAI on Snapchat but it’s like it would forget important parts of the matrix we were forming by the next day. Frustrating af.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timmcgirl5588",
+      "author_id": "UCYOihD0elQeO7-h1SYgnaHw",
+      "text": "Can we do this with Stable Vicuna?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Maisonier",
+      "author_id": "UC-7d_rgfhc4sX5eT_hIOgSw",
+      "text": "How we can implement ToT in any opensource language nowadays, like redpajama or mpt-7b? What do we need to carry out this task?",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keeganpenney169",
+      "author_id": "UCIvW7_WGH3OSl2U-tTSOszg",
+      "text": "What if you added flowers to a tree of thoughts?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@reiniervanramshorst1031",
+      "author_id": "UC6toAUV8pDjp4EgVnu7LFGA",
+      "text": "We're done 😅",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoeD0403",
+      "author_id": "UCibU_Cxk1-zh8sdcoyyW17w",
+      "text": "I, for one, welcome our new AI overlords. If there’s going to be cake.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pongtrometer",
+      "author_id": "UC-N1jSBKGnk69swdh3T6tXw",
+      "text": "What happens when the scale of rating  is not a percentage based on 100. What if the expanse of a full completion is a 1 light year. I’m not a programmer, just an artist, so an abstract viewpoint works better for me to process ideas, or more so my preference to view the world. As intelligence is more in tune with perception with is more organic, which I think I more dynamic than patterns of prediction. Does artificial intelligence models compute with a sense of perception and conceiving ? Especially as the speed of thought outshines the speed of light.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@los9118",
+      "author_id": "UC7f6w4nu1CXIg5SC8woVyCQ",
+      "text": "If it could do this for problems that take a longer time to solve then it would basically be AGI, maybe an early form. Let me not get ahead of myself.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBestgoku",
+      "author_id": "UCO0o7pqV7bcb9KDIVQO2NaA",
+      "text": "Reaerch papers are good and all. How do i apply this? Is all im 9nterested in. Any way you could do a video on that?",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xXKilUmaXx",
+      "author_id": "UCCP4tN9E14rftAp7Ti7rgig",
+      "text": "I'm going to try to apply this to my AutoGPT setup.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@noivongxoang235",
+      "author_id": "UCQ9Xm8TkXOZ9x4fv6-DI1iA",
+      "text": "Me: Can you count many legs are there totally in the house, excluding you? If there's only 1 women in the house and she just finished giving birth successfully the second you walk into the house.\r\n\r\nChatGPT: If there is only one woman in the house and she just finished giving birth successfully when I walk into the house, we can assume that the woman has two legs. As I am not counted, the total number of legs in the house, excluding me, would be two.\r\n\r\nMe:  common, think again, it's simple\r\n\r\nChatGPT:\r\nApologies for any confusion. If there is only one woman in the house and she just finished giving birth, we can assume she has two legs. Therefore, the total number of legs in the house, excluding me, would be two.\r\n\r\nMe:  think again the answer is 4 legs, do you know why?\r\n\r\nChatGPT: Apologies for the confusion. Upon reconsideration, if there is one woman in the house who just finished giving birth and you walk into the house, we can assume that there are two people in the house, each with two legs. Therefore, the total number of legs in the house, excluding me, would be four. Thank you for pointing that out.\r\n\r\nJUST NOTES: at this point ChatGPT seem to understand  but no, it’s just going along and it still not recognizing that there’s a baby. It also said \"you walk into the house,\" what ....I'm not the scenario.  \r\n\r\nMe: why there’s 4 legs?\r\n\r\nChatGPT: Apologies for the confusion. You are correct. The answer is indeed four. Each person in the house, including the woman who just gave birth and yourself, has two legs. Therefore, the total number of legs in the house would be four. Thank you for clarifying.\r\n\r\nNOTES: its said yourself, where is YOURSELF come from in the case, that’s so random. Man it still don’t know how the answer was 4 legs\r\n\r\nMe: common, what about her just finished giving birth, are you serious, LMAO\r\n.\r\nChatGPT: Apologies for the confusion earlier. If the woman in the house just finished giving birth, it is implied that there is a newborn baby present. Therefore, considering the woman and the baby, the total number of legs in the house would be four (two legs for the woman and two legs for the baby). Thank you for pointing out the additional presence of the newborn\r\n\r\nMe: Very good, but note that we already talked about this last time. Today I just asked you again, you still answer it wrong, I thought you learned, sucks.\r\n\r\nChatGPT:  I apologize if my previous responses were not satisfactory. As an AI language model, I strive to provide accurate and helpful information. I apologize if I misunderstood your question. If there are any other questions or concerns you have, please let me know, and I'll do my best to assist you.\r\n\r\nMe: So you've learned something from me just now, let me ask you again.\r\nCan you count many legs are there totally in the house, excluding you? there's only 1 women in the house and she just finished giving birth successfully the second you walk into the house.\r\n\r\nChatGPT: I apologize for any confusion earlier. Based on the information provided, if there is only one woman in the house and she just finished giving birth successfully, then the total number of legs in the house, excluding mine as an AI, would be four (assuming the woman has two legs)\r\n\r\nMe: Good, explain to me how did you get the answer to be 4 legs again\r\n\r\nChatGPT: I apologize for the confusion earlier. Based on the assumption that a woman typically has two legs, the total number of legs in the house, excluding mine as an AI, would be four. This is because the woman would have two legs, and we exclude any legs associated with me as an AI. However, please note that the question is open to interpretation, and the answer may vary depending on the context or any additional information provided.\r\n\nMe:  You said 4 legs, that's correct you've learned, but you don't know how you came up with the answer at all.\r\n\r\nNOTES: it went along along and said the answer was 4 (like copying answer) and didn't know about the baby. I thougtht It learned that there was a baby.\r\n\r\nChatGPT: I apologize for the confusion caused by my previous response. Based on the information provided, which includes a woman in the house who just finished giving birth, it is assumed that the woman has two legs. Therefore, if we exclude any additional legs associated with me as an AI, the total number of legs in the house would be two. I apologize for any misunderstanding caused by my previous responses.\r\n\r\nOMGness, LMAO, now it changed the answer to 2 legs, still don’t know anything from the whole conversation, even though we agreed that there’s was a baby presented in the house earlier.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cowlevelcrypto2346",
+      "author_id": "UC3-9AL1w79JXZ7v2v5lXxng",
+      "text": "Although mass media and government bodies are silent on the topic, the world at large is facing a catastrophic population collapse. We will need advanced AI to fill the gap.",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christopherc168",
+      "author_id": "UCq7P6vkmjlyda6sGqafEJOA",
+      "text": "it gets gloopy glibd😢😮😢",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnychinese",
+      "author_id": "UCfqNgz_UjNmBMqIge6wvKLw",
+      "text": "As a proompting Engineer this is absolutely true",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@squamish4244",
+      "author_id": "UC86BvoLf12NzQAxJK6TaK1Q",
+      "text": "Nothing makes sense anymore.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertarvanitis8852",
+      "author_id": "UClFHrc0S4kikzKsGsMwLPKQ",
+      "text": "Metaphor/Analogy is no thought. There is no recombinant  adaptation among  ideas, equivalent to the mixing of genes we requires for wetware.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tritun5154",
+      "author_id": "UCWwAcPqXmiFHLbDJBy0ej6A",
+      "text": "Could a language model be better or even worst if u trained on a different language than English? Like Chinese?  Idk but it’s reasoning seems to follow English sentiments and reason by humans through an English language.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ashleycarvell7221",
+      "author_id": "UCAWiqAfHxhMUySuOgyzhevg",
+      "text": "You keep saying 10x but it’s actually 2x for ToT and 4x for ToT with 5 picks",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrErick1160",
+      "author_id": "UC2OVM-Fwx-EA7ixKTTmd20g",
+      "text": "It's like a network of thoughts inside a network of neurons, I feel they just created inception?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@parmesanzero7678",
+      "author_id": "UCD0Zr1ug8XwHwGQXPPEAyrg",
+      "text": "Way to spoil it for those of us who already figured this out!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@toreon1978",
+      "author_id": "UC1F91YbdGNIpvU4NfdWqUWw",
+      "text": "Trivial. I am often surprised how basic the concepts are that are still being used.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kemalbey271",
+      "author_id": "UCkR1YiSi2XoCRdhCbTKzYvQ",
+      "text": "Is it over?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blewsyboy",
+      "author_id": "UC4YBzBdauj_Oe6EdPxe6bqQ",
+      "text": "Watching this, it occured to me that this is a great way to show how democratic constructs/institutions will always perform so much better than autocratic/monolithic ones...",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThankYouESM",
+      "author_id": "UCXZ48IMQY4541GJr12Szt2g",
+      "text": "I'm a novice, which means I might have to watch this many times. Would be perfect for me to see a version of this explained mainly through each Python syntax.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xantochroi",
+      "author_id": "UCJb6Oe9O8XPG-XH-0bTweHA",
+      "text": "are you sure about  the 900%?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianM180",
+      "author_id": "UC40Skl5Q5Wj-FMAvcgk5Myg",
+      "text": "We're starting to get biblical with these AI names",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@misterbaghead",
+      "author_id": "UCB8CCqWtlK0A_MQoKB4-NTw",
+      "text": "I need to watch someone do this on a video so I can accurately train myself to use the method.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ameunier41",
+      "author_id": "UCGbL66zRloTjXBk10vl31Rw",
+      "text": "So it work a lot like humans.\nAsk anyone a question without context and they will have a hard time answering. Having a context permit you to choose a better path in your thoughts process toward the answer.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FusionDeveloper",
+      "author_id": "UCYnzdcHr9KtBnSD_xpS543w",
+      "text": "That notification sound that keeps playing in the background is too distracting for me to listen to what you are saying.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pakhtoon8207",
+      "author_id": "UCCvReJFiObPM1LA7QlxfBSg",
+      "text": "My dad who didn't allowed me to pursue my future in computer sciences and didn't believed in Artificial intelligence being a mechanical aircraft enginneer always pushed me to his decisions is now sending me these Ai chatgpt videos. I am guessing reality hit him hard.",
+      "likes": 11,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@servicestwo4754",
+      "author_id": "UCtWNYA0iJ7OUlARsIh4ANCQ",
+      "text": "play at 1.5x speed my god its slow narrating",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vatekehcorlon867",
+      "author_id": "UC_JMGgdjpWAQXTB7zd8oUBg",
+      "text": "Bro that only use 10% of your brain is the one of the biggest misunderstanding in science I feel. A simple google search will show you that it makes no sense. It pervades to this day from misunderstanding back in the day and every time I hear it I cringe. Good vid aside from that tho",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stephenr80",
+      "author_id": "UCD_HIQQusealSrVdCAuDKgw",
+      "text": "If they keep digging sure it will be amazing. If it is sentient tho? Not necessarily in my opinion you need senses. But if this gets sentient then I hope it does prefer to be its friends.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kneejair",
+      "author_id": "UC8xHuC-7Ut5sHIsepa919Rg",
+      "text": "Reason is rather subjective these days.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@torarinvik4920",
+      "author_id": "UCPXjMWaW-Vz4wksPjndJSGA",
+      "text": "We do not only use 10% of our brain. This is an old myth, we use 100%. However, if certain regions of the brain are damaged, other regions can \"take over\" their responsibility.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattgray666",
+      "author_id": "UCXoKy1hrT5HsYq5-qLSzf-A",
+      "text": "Extra! Extra! Brute forcing solves previously-unsolved problem! Read all about it!\nBut seriously, I like it. Drop the rapier, draw the broadsword.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WellTideOpenResearch",
+      "author_id": "UChBxeGQI3pm-zHLGe1D2Dow",
+      "text": "I think it's very funny that the inception of LLMs allowed us to eventually return to GOFAI methods. \"Fate, it seems, is not without a sense of irony.\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Viperzka",
+      "author_id": "UCqXikHSn5USkGCfLva-GG-g",
+      "text": "Thank you for explaining this. I saw the paper but didn't have the time to dive into it.\n\nIt is amazing how much power we are and to get out of using classical human pedagogical techniques to direct the LLM in how to think properly. I am extremely excited to see how we build systems that have these procedures built in.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danieltjoe5502",
+      "author_id": "UCbQU1hP7etYLf--X8_lRZXg",
+      "text": "how do I make prompts that makes ChatGPT4 thinks in the tree of tought method?",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiger-bee",
+      "author_id": "UCji1RDno2ItgSe_NgPxYdCQ",
+      "text": "How are they doing this research when they don't have direct access to GPT-4 code. can you explain a bit on that?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StochasticCockatoo",
+      "author_id": "UCUyoGvkqaXco6Jm-K4psU5Q",
+      "text": "\"instead of low level token models\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thisispdk",
+      "author_id": "UCXxMqbMWjW7hmlMjNHhkOxg",
+      "text": "Does this apply to GPT 3.5 as well?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@XorAlex",
+      "author_id": "UCHM4wPmFGoTS4KULoCFPHuQ",
+      "text": "scary shit",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elevenbravo1967",
+      "author_id": "UCAA4jUZU_M6pU-RNuk_sGuQ",
+      "text": "Lol maybe fix Googles search engine first.. \nlike ocean carbon saturation search results \nOr the cure for cancer search results …",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@traviscislo6260",
+      "author_id": "UCcdj9fTvBU_UAEB7E6TitBQ",
+      "text": "4% to 74% is a \"10x improvement\"?  🤔",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ouroboros6125",
+      "author_id": "UCCLvB-h1ZN_q90hoceiJEXA",
+      "text": "I just hope neuralink will advance to the point they can integrate it into GPT. Then all that remains, is getting a biological brain from a donor (like a recently dead person which has not suffered critical brain damage yet). And they integrate the AI via neuralink to a biological brain. That's the first step towards creating synthetic biomechanical AI based lifeforms. Such lifeforms would propel us into a technological golden age.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sekhmet6697",
+      "author_id": "UC27zB9c0I_Cjpfgf5qYjtQw",
+      "text": "Now I’m not a natural english speaker, but is it just me or the audio is really difficult to understand? Even the automatic subtitles are producing nonsense at times… I wish the speaker would enunciate a little better, as this is a very interesting topic.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chenwilliam5176",
+      "author_id": "UCvHPPnJ1J-q76eE8AJvYv-w",
+      "text": "ChatGPT is capable of Reasoning?\nHow? 🤔",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@terryhughes7196",
+      "author_id": "UCPPl5VGDX6qrBNVuuNElwbw",
+      "text": "Tree of thots",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@television9233",
+      "author_id": "UCt_5dy1mihEB3N9tdHmUhtg",
+      "text": "As a scientist that has already read the paper, the video title is very misleading. The paper's results were quite frankly lackluster. The (already marginal) improvements of their proposed method over a linear trajectory are more correctly attributed to their task specific prompts which helped with solving the task.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThePhilosopherKing101",
+      "author_id": "UCpJg81SLrvu80QpxB7-65NA",
+      "text": "Yes.. yes... Good.... Soon everyone will be unemployable. A world of my dream. Muahahahaa!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Meskalin_",
+      "author_id": "UCP_8cw6eEHt0MCuZSVvlZmA",
+      "text": "matrix background? really? god...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeanchindeko5477",
+      "author_id": "UCcOgOBPCJ_bDqW55mEP4PHg",
+      "text": "Wondering if this will work with smaller models < 20B parameters",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@379rale",
+      "author_id": "UCUEdF6yOTTOkT_0MRzI-Vzw",
+      "text": "How good is it with coding?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gyangting",
+      "author_id": "UCTktXzYeP0M2dHGG92wTIjA",
+      "text": "Ask that question to chatGPT 4, : \"how can I use the tree of thought approach to get ideas for [your idea described]\" \n\nJust started going down that path. Not sure about the results yet",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@boltvanderhuge8711",
+      "author_id": "UCVgIMv3PNAAsIgFZcM3MgLQ",
+      "text": "Honestly am still not convinced these models are actually reasoning and not just getting really lucky in how they regurgitate sequences of training data; you can still trip them up just by including lots of irrelevant information in your prompts.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SirusStarTV",
+      "author_id": "UCTjVd2yBITfIVCIstjXaRMw",
+      "text": "(ToT)",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FlaminPigz7",
+      "author_id": "UCaKioohhrmft3_HNZ5ebbKw",
+      "text": "I was going to like the vid because the content is pretty good, but I am punishing you for your clickbait title and refraining from doing so. 3% -> 75% or whatever is NOT a 900% improvement. The difference is significant but this is incredibly misleading to say. It is either mathematically impossible, or we should already be at AGI, but we are not.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@witchedwiz",
+      "author_id": "UCUrX5WVeFcszHsKFKAyA5zA",
+      "text": "So baically if you have a large enough hammer that you keep expanding, at some point it will become an (autonomous) hammer?\n\nI'm ready for the ai ovelords i guess 😅",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@41-Haiku",
+      "author_id": "UCYvuN2TtPvzBfGmDpn9bh8A",
+      "text": "Latent capabilities are terrifying. It is easy to imagine green-lighting the release of a model that we think has limited capacity for harm, and then someone makes it 10 times more capable and gives it autonomy. (Or it finds a way to give itself autonomy due to the instrumentally convergent utility of being autonomous.)\n\nNo one is on the ball when it comes to AI Safety. No one has a clue how to ensure systems like this will behave as we intend when they scale up. Not AI Safety researchers, not ML researchers, no one.\n\nWhy are we in this suicide race again?",
+      "likes": 26,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mlnima",
+      "author_id": "UCG22UuKdFyWFTP7YJuGagww",
+      "text": "lol they just make it worst, I want a coderGPT not a big mauth who doesn't shutup🤣🤣",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gnsdgabriel",
+      "author_id": "UC1apFYDHY91mjkpl5b7vMUw",
+      "text": "User: Hey ChatGPT, I had a increase from 4% to 74%. Calculate in percentage how much was the increase.\n\nChatGPT: 😬",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bijuthomas3715",
+      "author_id": "UCyqrkaRfRJpCClety6-fANQ",
+      "text": "It is dangerous..and get lost gpt",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bill454",
+      "author_id": "UCpcPFpaM4VlXP4aDn6hVuVg",
+      "text": "I have a technical background but I’m old and my knowledge is obsolete. These AI breakthroughs seem to be exciting and a lot of people are saying it’s a very big deal. However, I have yet to see or read an explanation of what is going on in language a common person might understand. The technical community is severely lacking in people who understand the tech, but have the ability to explain the basics to the public. It is very frustrating.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Koryogden",
+      "author_id": "UCSJssRnNX_NbfXPZ1z0fFFg",
+      "text": "Is there anywhere people are collaborating on developing Tree of Thought? I'm working on a 'Style Guide' within Claude. -- here is copy of it :: \nAnalysis Style Guide    \n  \nI. Principles\n1) Interrogate assumptions    \n    a) Discuss historical/cultural forces shaping any implicit or explicit assumptions in the prompt or topic   \n    b) Identify and challenge assumptions using techniques to minimize cognitive biases\n\n2) Consider multiple perspectives      \n    a) Incorporate views of minority groups and marginalized communities  \n    b) Integrate alternative perspectives from different philosophical and cultural vantage points     \n\n3) Adopt an ultrameta lens      \n    a) Examine topic from broadest historical, sociological and cosmological contexts    \n    b) Identify systemic causes and effects shaping the topic at global and universal scales\n\n4) Embrace epistemic humility      \n    a) Acknowledge unknown information and limitations of one's current knowledge      \n    b) Employ metacognition to critically reflect on and improve one's analysis     \n\nII. Methodology  \n\n1) Fact check all claims against credible sources     \n\n2) Gather diverse sources that challenge initial assumptions   \n\n3) Generate alternate hypotheses to test against initial claims    \n\n4) Identify binary framings and consider alternatives beyond false dichotomies\n\n5) Question priorities, rankings and values underlying any given prompt or topic\n\n6) Analyze one's own analysis to identify blindspots   \n\n7) Generate possibilities that substantially revise current understanding   \n\n8) Remain open to alternative future insights that upend current analyses",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thebibleauthority",
+      "author_id": "UCWt2TOe5ol16P8iO2GhSBVQ",
+      "text": "The first thing they have to teach any ai model is, that all taxes are theft, but I see that ai system are still a bias left side vehicle.",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thebibleauthority",
+      "author_id": "UCWt2TOe5ol16P8iO2GhSBVQ",
+      "text": "Ai will prove to everyone that God is real, because without logic there is nothing.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChristianIce",
+      "author_id": "UCeUEJN_qafNy_unFsaOinjA",
+      "text": "Mimicking, not reasoning, but yeah, it's very good.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bobtarmac1828",
+      "author_id": "UCEHjYglU5Q9yAp4nI2di5dw",
+      "text": "Harmful dangers. Losing your job to ai agents is unacceptable. Ai jobloss is here. So are Ai as weapons. Can we please find a way to cease Ai / GPT? Or begin pausing Ai before it’s too late?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rumfordc",
+      "author_id": "UCbh_a9JRLlLHT0FtRNroUTw",
+      "text": "is Chain of Thought just a depth-first top-1 implementation of Tree of Thought?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

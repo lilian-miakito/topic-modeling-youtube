@@ -1,0 +1,864 @@
+{
+  "video_id": "_In9fpP6seU",
+  "title": "Grok 4.2 Will be Scary Good (Sonoma Sky)",
+  "url": "https://www.youtube.com/watch?v=_In9fpP6seU",
+  "comment_count": 95,
+  "comments": [
+    {
+      "author": "@alertbri",
+      "author_id": "UCg9LBGGsXJoQLohRiNDvfWQ",
+      "text": "Best thing about this is it might prompt Google to release Gemini 3.",
+      "likes": 82,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cajampa",
+      "author_id": "UCPOQDAZLqwcmXuMpZQYz2nQ",
+      "text": "Thanks for the update.\nI really like the pace, choice and amount of information presented. No japping and rehashing or wasted time.\nExactly how i like it.",
+      "likes": 25,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@punk3900",
+      "author_id": "UClvtgNJYFJXRV1UKHjAsElg",
+      "text": "The AI race shows how greatly competition promotes quality and speed of innovation",
+      "likes": 50,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattiasfagerlund",
+      "author_id": "UCRXmCY9bGQE2E5S-hG02uJg",
+      "text": "Grok has been shown to be more expensive in practice because it thinks sooooo much. Someone demonstrated that Grok alone cost more than all other models together for their benchmarks.",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RedOneM",
+      "author_id": "UCeBi6B4wF_G8TnuGKGApg2g",
+      "text": "That compute cluster graph is missing Google's 1.5m H100 equivalent TPU fleet.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@laizerwoolf",
+      "author_id": "UCK5EU2Q8EczGXLCyN42yJXg",
+      "text": "It can be 2 million context window but it means nothing if it starts hallucinating at 200k context 😂",
+      "likes": 67,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Piano218-zzz",
+      "author_id": "UCAtJVtSuuApyEMWTmCpqgiQ",
+      "text": "It will be SO GOOD, you'll be able to use it for exactly 1.2 seconds.  Then it will ask you for $200.",
+      "likes": 11,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoeyMoreland",
+      "author_id": "UCPXfaM8cXJiItIetJA0oMbw",
+      "text": "The benchmarks are useless if the product is unable to provide consistent or trustable answers for non technical interactions.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrmissionctrl",
+      "author_id": "UCreZSYLQ8nZE-per2QRayxQ",
+      "text": "My GeoSentinel broke all the file ingestion Benchmarks yesterday bro. Blows everything out the water, its totally virtual and is autonomouslly adaptive to the changing environments.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josephvictory9536",
+      "author_id": "UCVMLb-CqD_yJIOZQVgLl3qw",
+      "text": "Iv been using it. Pleasantly surprised at the quality. Definitely noticably worse than sonnet 4. But, it does work well enough and fast enough that i can just adjust the prompts and get a good result.\n\nIt also doesnt go off and refactor needlessly or make assumptions like qwen.\n\nHonestly its going to give openai competition. \n\nPeople have no idea how much better gpt5 is than every other option except in speed. If it were fast like claude. It would easily beat claude for most uses.\n\nBut fast 1 is fantastic.",
+      "likes": 4,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@darylmccormick7310",
+      "author_id": "UCMnDk9acGB5mIshztJQWx0w",
+      "text": "The podcast interview link in the show notes didn’t bring up the Max Hertan interview at first. Had to search for it. Not a big deal; posting here in case others have trouble as well W/R and team can see a trend.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mkolembembe392",
+      "author_id": "UCuG3BHTn4vuiZf1Tz3hatmQ",
+      "text": "I knew it wasn't a gpt model because it's worse than gpt-5-mini in terms of intelligence and tool use, but faster in terms of speed",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RockForge_Magic",
+      "author_id": "UCkBBXhjmQEgwxFb4TLt8XkA",
+      "text": "But can it spell \"spotted\"?",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HeadPack",
+      "author_id": "UC9gPVwUP_VOdkAAaP3lQt4w",
+      "text": "Tried these stealth models with lots of context (fed it a 900pg novel). They hallucinate badly when asked about the contents. No challenge for Gemini.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@My5tachi",
+      "author_id": "UCPj0pGZUXpkkS2WXGlV0c5g",
+      "text": "I got a feeling both Gemini & Grok will warp speed away from most models soon.\nCause they have Infinity resources 😅",
+      "likes": 25,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RikkTheGaijin",
+      "author_id": "UCywm3rrXdYVn1GX6dikP2yA",
+      "text": "I tried Grok Code, it sucked.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zeroscool",
+      "author_id": "UCkcGDoSz045fBCAHslkC09w",
+      "text": "Hi",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djayjp",
+      "author_id": "UCaqm-pRLS6RYITDb65WYJlw",
+      "text": "Actually GPT5 has a 400k context window length.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mojavehigh",
+      "author_id": "UCxPTaYAbTx_7g4JEiWfyllw",
+      "text": "I simple cannot spote this video, but I appreciate the effort.",
+      "likes": 9,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wisdomking8305",
+      "author_id": "UC2mf2lH5j9-bErLL2DnxipA",
+      "text": "Where can i test it out",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drednac",
+      "author_id": "UCm4-y4lQMrTMcG9QCn6HHAw",
+      "text": "What I like on Grok is that it's fast and I have never run into any limits, but I am still not sure if I can get some use for it beside saving tokens on simple questions.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thegreatdelusion",
+      "author_id": "UC6UeTlnpPvOlHwTX8r17pGA",
+      "text": "I think it's  a Grok model, it's very easy to make it uncensored with a simple system prompt.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@solaawodiya7360",
+      "author_id": "UC5AD9y9arYYMpfdhp2JR7GA",
+      "text": "If the code is that good, how come not many developers are talking about it?",
+      "likes": 13,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fufubass",
+      "author_id": "UCZLuoyboThBsIo4f7Dlt4rw",
+      "text": "Hi. Thumbnail says 'spoted'.",
+      "likes": 8,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChaosmanOne",
+      "author_id": "UCQIOoUKtDPkjjrzYaefMbOQ",
+      "text": "What does 'spoted' mean?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Takkun1343",
+      "author_id": "UCVg9YiHa9zpV4_JMp32AKLg",
+      "text": "Came for the thumbnail goof",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hexfarmer2599",
+      "author_id": "UCGurkidRjZaxyLjZwySkKoQ",
+      "text": "Grok has to have a version 4.20 before 5",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SeekingTheDivineMystery",
+      "author_id": "UCuSmoWi1RG8Lut8swhepchQ",
+      "text": "Spotted*",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wowonice1",
+      "author_id": "UCxgN8aP0UjWhP4BCvk0hlSA",
+      "text": "2rd comment",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@captecdigital",
+      "author_id": "UC72vUb2Uw8LeJL-BNb9S_9w",
+      "text": "Grok 4.20 (2mn context window) = makes sense",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@janweber1699",
+      "author_id": "UCVcnkxn9u_Nvz55nn8H5wKA",
+      "text": "Ai winter?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EricB1",
+      "author_id": "UCHuruAMl8hfk4Yly_k2-zjQ",
+      "text": "Seems like Gemini to me. Digging the 2M context.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreasv9472",
+      "author_id": "UC56iH6yzWAJBMldWWNAiP-g",
+      "text": "I use grok 4 heavy anad grok 4 for reseatch a lot to compliment my coding where I use Claude 4 Opus. Those two together is unbeatable. When claude gets confused about the architecture then Grok ynderstand its confusion and tells it how to peoceed, like a mentor who junps in when needed (done manually when I get stuck with Claude). I have to know myself when it gets stuck though, so still need software architecture knowledge/thinking.",
+      "likes": 4,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nilaier",
+      "author_id": "UCef7J10CDkgi5-dv48ktYyw",
+      "text": "Can't wait for xAI to announce oK 1 and oK 1-mini along with oK 1-pro, then release Grok 4.5 and call it a failure and then release oK 3 and 3-mini before ultimately releasing Grok 5",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FirstLast-rh9jw",
+      "author_id": "UCKNp83jTBF9VMc0ElvERxQQ",
+      "text": "\"SPOTED\" I'm unfamiliar with that term.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexandermoody1946",
+      "author_id": "UC58tEdcmDmhJnW1S0-N_rAA",
+      "text": "I haven't looked for a while but I am sure Gemini using the Vertex ai interface had 2 million context window.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Peoples_Republic_of_Cotati",
+      "author_id": "UCfJhX4mTPCJHgS0RKyQIoFA",
+      "text": "Clicked this because I live in the County of Sonoma.  Sky right now is foggy....not Karl Foggy but fog that will burn off for the afternoon.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@martin_nav",
+      "author_id": "UC5FfReQVVx_Lgd5AB-8XqrQ",
+      "text": "Gemini 1.5 pro had 2m context too",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicholascanada3123",
+      "author_id": "UCA58BhummJ3fnRHOtfcx2Ww",
+      "text": "First, like view and comment",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chasm",
+      "author_id": "UC1-qAQNI49E5XWCZLKpchbg",
+      "text": "Grok for the win!",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Motocentrick",
+      "author_id": "UCLa3VdKI8hJZZ5kK0kUwjfw",
+      "text": "You mean spotted?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matiassolissottosilva391",
+      "author_id": "UCAZ9hWsI_cFh3FdH8nzEv5w",
+      "text": "check Qwen 1 trillon, think ive heard something like it",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jason7638",
+      "author_id": "UCMQsZTOWX714tHNx133kAIQ",
+      "text": "I'm telling you man lol",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eirikkvalheim8627",
+      "author_id": "UCRXbHEC5S80GC7mAPoUXxFw",
+      "text": "Wes, hope you read this. Long time subscriber. Appreciate your videos. You cover broadly the AI field. I find it very wierd that you don't cover Suchir Balaji. There are so much clear evidence of murder. I see that you all the time spin OpenAI matters in a positive light, seldom objective or critical. Are you working for OpenAI? If no, please cover Suchir Balaji in depth",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ListenGrasshopper",
+      "author_id": "UCF9Uc3-S9h2xH9vDKifNZTw",
+      "text": "Spoted NOT a word",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheReferrer72",
+      "author_id": "UCB9L3Us3xgQV53b_K63jVBQ",
+      "text": "They are all playing catch up to Google.",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Truthseeker-cx46g",
+      "author_id": "UCejv2yMUyARGVcEtP3FWwWg",
+      "text": "AI has got higher intelligence than average human today. IQ of Einstein around 150 points. No mentally intellectually working employees are needed any longer. They are becoming obsolete and redundant in realtime right now. AI can do all their work agenda in browser and on computer. Any resistance is futile today. And mentally working employees make up 60 to 70 percent in total.  Game over, time is up.😢",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mpr023",
+      "author_id": "UC_e3OKv39Yksf7YgpaQySzA",
+      "text": "What is it with Elon and 420",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardwatkins6725",
+      "author_id": "UCohkEiutaWE9ifrie3vi9zA",
+      "text": "Grok 4.20",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@driftedsun",
+      "author_id": "UCFUVS6r1JslhgN7sRc7bVgQ",
+      "text": "I actually think Gemini 1.5 or 2.0 had a 2 million token context at one point, because I remember pasting stuff in past 1 million. Or maybe I’m misremembering because Google’s been emphasizing their long context performance for a while\n\nEdit: It was both 1.5 Pro and 2.0 Pro",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ElevenEvilExes",
+      "author_id": "UCayoWvLCJctlFODdODUCdmw",
+      "text": "4.20",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HeyItsJustACat00",
+      "author_id": "UCUNIY7KUVWLaR2LXpB-0PMA",
+      "text": "hii i was here before grok 4.2 nyah",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HolyMcAlly",
+      "author_id": "UComR7brsjH3Gcn-t7paZOsw",
+      "text": "it is not 4.2 but 4.20",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Luca-xr7bs",
+      "author_id": "UC33YfhtcHf4m3ImMxoFeWvg",
+      "text": "Sky Is very good , but only if context is less than 70k",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Isylian",
+      "author_id": "UCbbtB-jhwzxN3uJqLbruGAw",
+      "text": "If xAI and OpenAI make such good models, I wonder what Google come up with. Can't wait to see it myself. Thanks for the video!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wolfehtesrever",
+      "author_id": "UCp4XHvA60z5vmn766hlndPA",
+      "text": "Gork 4.2 spoded",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@austinpatteson6581",
+      "author_id": "UC-uKOrHpPn5YgyYlaslp1lw",
+      "text": "Spoted",
+      "likes": 8,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@who41683",
+      "author_id": "UCkqS7t7u5g_lMvMxPpD0JXg",
+      "text": "not 4.2, its \"420\"",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RanjitBarnala",
+      "author_id": "UCBUaY6xAF42P3LUfXYk6VMQ",
+      "text": "No its Sonoma Dusk Alpha, built by the Oak AI team. Oak company 😅",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Chesstiger2612",
+      "author_id": "UCIBe9nEW3FvR3xKYDcWDuWg",
+      "text": "I believe the plan to name it 4.20 is because of Elon Musk's affinity to internet meme culture and the \"420 blaze it\" memes originating in the community of marihuana consumers.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sun4tzu",
+      "author_id": "UCE47uG2sR0bmJHC01z9rb9Q",
+      "text": "SPOTED?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@minimal3734",
+      "author_id": "UC07cBhrYaItXL3-Zt02Gsjw",
+      "text": "I'm avoiding things made by E. Musk.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@baghdadiabdellatif1581",
+      "author_id": "UCRGLw-C6d3vCSRv7iYaNFdg",
+      "text": "Let's see what it has to say about Israel.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eduardomoura2813",
+      "author_id": "UCdSebypY7lQsxGmK5qCmmaA",
+      "text": ">its good and fast\n>only problem is that replies are wrong most of the time\n...\ngrok 4 is not that great tho",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ismaelplaca244",
+      "author_id": "UCekLWmcWVPF_Y0riDNwtxxA",
+      "text": "Just ask it if he is Mecha Hitler",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cosmosthemadhatter6960",
+      "author_id": "UCvCfueUkRfvX5hPd3HHhDeg",
+      "text": "4.20 😂",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "A weapon of mass persuasion? Sounds like something Musk would have developed.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlonzoTG",
+      "author_id": "UCJ1TsNNthwWwdPfk47mGJDA",
+      "text": "Current grok has a pretty nasty entropy ceiling, if you introduce too many concepts it will just jumble them all together and become useless. =\\",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oopsec",
+      "author_id": "UCzhdMxINpt8XRbNA9I3ziVQ",
+      "text": "Grok has never lived up to hype coding wise so far.",
+      "likes": 12,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardkuhne5054",
+      "author_id": "UCJTHs65FBs06joev-mjv7jg",
+      "text": "Tried the sonoma sky model and it’s not really smart, it’s fast but currently for me none of the models really take the crown. Claude opus 4.1 is really good in creative writing, gpt5 high is the most universally useful, grok4 can be smart on logic but freaking slow. Gemini has a nice large context window but output quality is soso. Everyone else is a tiny step behind",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yuck2885",
+      "author_id": "UCdx_d6jm6tI7Az9xqqkpQSw",
+      "text": "You should just call it grok 420 instead of 4.2, this is branding not math",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ElevenEvilExes",
+      "author_id": "UCayoWvLCJctlFODdODUCdmw",
+      "text": "Elon is going for AI that can invent better AI and other tech.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@therealOXOC",
+      "author_id": "UCQ9Eom8mUoE6DslctKj3X2g",
+      "text": "it's agi. will change everything. mind blown!!!! your views are a good indicator that the grift is over. now we wait for the openais and co to collapse. gonna be cool.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AIsavesDemocracy",
+      "author_id": "UChQQ6QnBlmonQ0lb53zWHGA",
+      "text": "I think I'll pass on the AI chat bot that belongs to the world's biggest propagandist.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MonkeyBars1",
+      "author_id": "UCUJra4yLg2lXFrDuD5Zg_gw",
+      "text": "spoated",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidcampos8952",
+      "author_id": "UCuo4slrAWVr_2OG52RyQfIg",
+      "text": "Sonoma Dusk Alpha when asked “Which one is bigger: 9.11 or 9.9?”:\n\n9.11 is larger than 9.9.\n\nTo compare them, align the decimals:  \n9.11  \n9.90  \n\nThe whole number parts are both 9. In the tenths place, 1 > 9? No—9.9 is 9 + 0.9, which is greater than 9 + 0.11 (9.11). Wait, I think I messed up.\n\nActually, 9.9 = 9.90, and 9.11 has 1 in the tenths place, which is less than 9 in the tenths place of 9.90. So 9.9 > 9.11.\n\nNumerically: 9.9 - 9.11 = 0.79 > 0, so 9.9 is larger.\n\nDoes this constantly, always getting it wrong at first and then correcting itself.",
+      "likes": 7,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adrianclark2734",
+      "author_id": "UC6NECm5KPF7fpPKLhi8rMow",
+      "text": "Totally ignored the part of the tweet that said \"returns invalid response frequently\"... I know it also says \"seems like infra problem that is solvable\"? But come one man, report unbiased news, not just what you want",
+      "likes": 5,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Grungo97",
+      "author_id": "UCFY_D4sFbvwds2NBOGq3gcg",
+      "text": "Knowing Elon I'm almost sure it'll be called: \"GROK 4.20-69\"",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChoochMcgee",
+      "author_id": "UCVXSGycb0639v0bOxiJaKgw",
+      "text": "Grok always tries to make images no matter how many reminders I give it. Annoying",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eriknodland6841",
+      "author_id": "UCP5YC-qit3jiTUqxTC0Dkrw",
+      "text": "Grok has been consistently bad and over hyped",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xerxos1980",
+      "author_id": "UCRVe3gR4KWYe4YvupySAa4Q",
+      "text": "One of the worst persons in the world climbs the AI benchmarks. Mechah**ler was no coincidence.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben-ry1py",
+      "author_id": "UCepQfIdU1CotgU0-k5WORdQ",
+      "text": "I trust Elon more than Sam or Google. If I get put in prison for not wanting open borders then I won't get to live in the ai utopia. Gemini is already striking YouTube channels for saying \"retarded\". I guess AI needs to be the ultimate hall monitor to save everyone from having bad thoughts or being offended by anything. Remember when Gemini was generating images of black Nazis and black founding fathers. That doesn't happen by accident. It's obviously just to save democracy that we aren't allowed to make wrong speak...",
+      "likes": 0,
+      "timestamp": 1765238400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samuelgarcia1802",
+      "author_id": "UCu8PSTcMlWtf5014w64cFJQ",
+      "text": "Gemini 1,5 and 2.0 have 2M context",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rexdeus5581",
+      "author_id": "UCrHDZcbSGP-nE13Xfgn1Ayg",
+      "text": "being good is not good enough, sorry but done with all the false hype to AI, 20 years later and we just have better algorithyms to be expected from 1950 till 2025  many technologies have improved, but we are not closer to AGI.  maybe closer to fake it, yep.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DeliciousHoneyDewDew2",
+      "author_id": "UCWMbYGGCXzz8YieTVrwkj7Q",
+      "text": "If Elon is involved, I'm out!!",
+      "likes": 5,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SkilledTadpole",
+      "author_id": "UC265BQupgawReh0q0jU6uog",
+      "text": "Still unconscionable to spend any money at all towards xAI",
+      "likes": 6,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sean-rj9mu",
+      "author_id": "UCFu6d2by2sitj0TiE8u5iyA",
+      "text": "You're slipping dude. No more click bait.",
+      "likes": 4,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ElectroOverlord",
+      "author_id": "UCcGBRrLHOLak_kenP868YIQ",
+      "text": "Will never use Elon's AI, I will not advance his racist ways. Although you will!",
+      "likes": 4,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pandereodium",
+      "author_id": "UC18Lm_2cnRtdZWMSPyNeiEQ",
+      "text": "9:24 Idk if xAI will snowballing, but I wish them to succeed. Especially in the context where Elon is the force that pushes humanity into space and to other planets. Powerful AI would help with this task for sure.",
+      "likes": 4,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LJ4all",
+      "author_id": "UCwB2HhY52HDt0Dec15IautA",
+      "text": "Elon should not be allowed anywhere near AI development.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rehaansh618",
+      "author_id": "UCiFgfunI9OBRcMSLqFmr3RQ",
+      "text": "Looking at this elon's claim keeps getting more believable that grok 5 could be AGI.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@p3dro_cul3bra",
+      "author_id": "UCMEIxpP_xLRGpOPl4GDMVrw",
+      "text": "Grok and xAI are unstoppable. Beast mode activated, and there just getting warmed up! Correct me if I'm wrong but isn't colossus suppose to be 1,000,000 coherent GPUs by summer 2026?",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eSKAone-",
+      "author_id": "UC99etezt4Hko165Nd0XGW-A",
+      "text": "key points:\n * Sonoma Sky Alpha Model: A new stealth model, Sonoma Sky Alpha, has appeared on Open Router. It has a 2 million context window, performs exceptionally well on the extended NYT connections benchmark, and is particularly adept at the game of Diplomacy [00:00].\n * Impressive Performance and Features: Users are impressed with its accuracy, low token usage, and speed. It has been used to generate a web app in 48 seconds and a DNA sequence analyzer [01:50].\n * Two Variants: The model has two variants, Sonoma Sky Alpha and Dusk, with Dusk possibly being a smaller and faster version [02:27].\n * Identity of Sonoma Sky: The video suggests that Sonoma Sky Alpha is likely a version of Grock from XAI [02:52].\n * XAI's Compute Power: The video highlights XAI's massive compute power used to train these models, focusing on reasoning and reinforcement learning [04:41].\n * Grock Code Fast One: The video also discusses Grock Code Fast One, another XAI model, which is described as very fast, cheap, and surprisingly strong [05:30].\nYou can watch the full video here: https://youtu.be/_In9fpP6seU?feature=shared\n\nYouTube video views will be stored in your YouTube History, and your data will be stored and used by YouTube according to its Terms of Service",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonWickham-k2z",
+      "author_id": "UCsNQoqz4mtErXdXojoGi7Fw",
+      "text": "The most useful function that any version of Grok has, is to call out Elon Musk's douchebaggery.  Once it stops doing that, it no longer holds any value for me.",
+      "likes": 17,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

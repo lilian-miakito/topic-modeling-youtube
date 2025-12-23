@@ -1,0 +1,819 @@
+{
+  "video_id": "3PJj-fYy2z0",
+  "title": "Can o3 beat Gemini 2.5 Pro? The Ultimate Coding AI showdown.",
+  "url": "https://www.youtube.com/watch?v=3PJj-fYy2z0",
+  "comment_count": 90,
+  "comments": [
+    {
+      "author": "@Hckr_pr_gmr",
+      "author_id": "UCBuUeFwj6QTjbk3ZgAaQclA",
+      "text": "In RL snake Claude missed the whole point of snake… the snakes weren’t getting longer😂",
+      "likes": 21,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Art-AI-and-beyond",
+      "author_id": "UClPY1SwMszfvrWciXCWgIFQ",
+      "text": "I often find if one model fails another might succeed but none of them get it right every time in one shot. Its nice we now have so much choice to swap them around.",
+      "likes": 4,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Q_20",
+      "author_id": "UCf6IjbHXMZ1sLGwDqHYrqfQ",
+      "text": "I find that o3 and o4 mini is often being lazy when generating code, omitting and skipping the parts. For my use cases gemini 2.5 pro is still better performing \"out of the box\"",
+      "likes": 20,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GTAsanAndreaser",
+      "author_id": "UCazeyI7uIS0UfqNAfiWaurQ",
+      "text": "i really appreciate these tests you do wes, thank you , keep it up",
+      "likes": 4,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Grav_Labs",
+      "author_id": "UCLBriZRad4NliSl4FPfkDlQ",
+      "text": "This is the kind of content we need for model testing. keep it up man!",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pyrotrixer",
+      "author_id": "UCFbucwLjzTpTBUoF4a8xCUA",
+      "text": "Google isn't going down without a fight?\n\nLol \n\nThey're going to crush it",
+      "likes": 7,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JimmyCarvalho",
+      "author_id": "UCSD7SH09s-rmWrhPc-Lpc0w",
+      "text": "I am building big complex things with Gemini 2.5. No other model till this date can make a similar job.",
+      "likes": 11,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGhostOfKarazhan",
+      "author_id": "UCp_yyH5luBNfnp9_WFxHImg",
+      "text": "Wes was playing pool with planets, like Dave Lister from Red Dwarf 😆🎱",
+      "likes": 8,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@psychurch",
+      "author_id": "UCnzk9TokMr2ysFj-GnQA45w",
+      "text": "So humanity is just an elaborate snake game",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Crovea",
+      "author_id": "UCc9gc4vNWyMnMAnT69IRoEA",
+      "text": "They should be given one chance to fix crashes at least and I think but interesting nonetheless",
+      "likes": 5,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djayjp",
+      "author_id": "UCaqm-pRLS6RYITDb65WYJlw",
+      "text": "I just realized Tron cycles is Snake...! 🤯",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eSKAone-",
+      "author_id": "UC99etezt4Hko165Nd0XGW-A",
+      "text": "So you evaluated the gravity simulation with your intuition. Great science. Probably the speeds and masses just differed from your expectations and the calculations were actually perfectly correct.",
+      "likes": 5,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tunestar",
+      "author_id": "UCh_w-ECrLF2RTKF0KL0ni2w",
+      "text": "I love this experiments, thanks Wes!",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@servantes3291",
+      "author_id": "UCRn3_WJFN7kbXjFDt5mSn9A",
+      "text": "🥇 FIRST PLACE — o4-mini  \r\n⚽ Soccer Sim ............ 7/10  \r\n🌌 Solar Slingshot ....... 7/10 (winner)  \r\n🐍 RL Snake ............... 0/10 (crashed)  \r\n🤖 Autonomous Snake .. 7/10  \r\nTotal Score: 21/40\r\n\r\n🥈 SECOND PLACE — Gemini 2.5 Pro  \r\n⚽ Soccer Sim ............ 9/10 (winner)  \r\n🌌 Solar Slingshot ....... 2/10 (bugged)  \r\n🐍 RL Snake ............... 0/10 (crashed)  \r\n🤖 Autonomous Snake .. 9/10 (winner)  \r\nTotal Score: 20/40\r\n\r\n🥉 THIRD PLACE — o4-mini-high  \r\n⚽ Soccer Sim ............ 5/10  \r\n🌌 Solar Slingshot ....... 6/10  \r\n🐍 RL Snake ............... 0/10 (crashed)  \r\n🤖 Autonomous Snake .. 6/10  \r\nTotal Score: 17/40\r\n\r\n4⃣ FOURTH PLACE — Claude 3.7  \r\n⚽ Soccer Sim ............ 0/10 (crashed)  \r\n🌌 Solar Slingshot ....... 6/10  \r\n🐍 RL Snake ............... 8/10 (winner)\r\n🤖 Autonomous Snake .. 0/10 (crashed)  \r\nTotal Score: 14/40\r\n\r\n5⃣ FIFTH PLACE — o3  \r\n⚽ Soccer Sim ............ 0/10 (crashed)  \r\n🌌 Solar Slingshot ....... 0/10 (crashed)  \r\n🐍 RL Snake ............... 2/10 (bugged)  \r\n🤖 Autonomous Snake .. 8/10  \r\nTotal Score: 10/40",
+      "likes": 2,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wildkarde",
+      "author_id": "UCRinda38kE8B4MgL25fgiFQ",
+      "text": "I’m not sure if anyone commented on this but Claude was not adding to the snake for the second iteration.",
+      "likes": 2,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@d01mf",
+      "author_id": "UCFavSOvcDXFOVIfwG5pKGGg",
+      "text": "Great video as always. Thanks! But, surely I cant be the only one expecting a summary at the end. Summing up the score might not be entirely scientific. Byt a table with the scores maybe color coded red to green? Would make so much sense. Feels like Apple level trolling to leave it out! 😄",
+      "likes": 4,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@felipeblin8616",
+      "author_id": "UCR1fL-8Yl8ikvrdzoACMW7A",
+      "text": "For the gravity test you should ask to your prompt initial speed of probe also a speed gauge for time. In the example of Claude the initial speed of the probe is faster that light so is weakly affected by gravity only near the sun (it shouldn't be faster than light though)",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@picksilm",
+      "author_id": "UCL865M7e-x-Pfc5H68pk1Jw",
+      "text": "great video",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@halnineooo136",
+      "author_id": "UCuMZT1f-JFpUDDqV-8dRH5Q",
+      "text": "The tight competition is a blessing for multi model DE because people aren't gonna change their work pipeline every other week",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mcusson2",
+      "author_id": "UC4k9gaP4Op1JqDe0iIpgsOQ",
+      "text": "Are you really going to spend 10 talking about Claude's train output without noticing the \"snake\" stopped growing?",
+      "likes": 3,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Yan_mrz",
+      "author_id": "UCyf1hFqXE9oimSOA62-9jIA",
+      "text": "2.5 pro feels so much better idk how to describe it",
+      "likes": 26,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@flow.philosophy",
+      "author_id": "UCEDG0fKnABEtItzQZ7Ehrkw",
+      "text": "I feel like I'm the only person having a good time with o3. I can't speak to it's one shot python game capabilities,  but it's tool calling ability is next level, even better than claude. One shots are flashy, but tool calling is what will actually get real work done",
+      "likes": 48,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "Codex!! I completely forgot lol, lets go!",
+      "likes": 3,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@QuantzAi",
+      "author_id": "UC4YezCyOg9RP2P7tXo27B9g",
+      "text": "Should have also tested with grok3 with all its modes",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BenVaserlan",
+      "author_id": "UCHdYIQB3np9TM2ABxWRyOEQ",
+      "text": "I hope you change you mind and that you do more Coding AI Showdowns.",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@madhare5625",
+      "author_id": "UCJuIAvSyeUq4w0pTO_bHPbA",
+      "text": "LUV IT!",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@axlr-y9p",
+      "author_id": "UCfBhMGXQDGeKkK1znQeo-6Q",
+      "text": "I think that in order to more accurately test these models is by doing a code review and seeing what they cooked up under the hood. For example I think claude did a good job with the solar system one the only thing is that it made the masses of the the planets too low or made the speeds at which the object you were shooting too fast. Making it seem like their NO or Little gravitational interactions between bodies. When in fact the model of gravity is perfectly following orbital mechanic (in a fixed reference frame).",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raazgupta",
+      "author_id": "UC-xJ1S9LgfLV2c7I0Nuubrg",
+      "text": "Everyone the snakes! Why everyone the snakes?!",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pullahuru9168",
+      "author_id": "UC0C-hkgIzi3lEd-c1kGU-PQ",
+      "text": "Coding with AI goes usually like this: 1. Copy paste the error 2. Add lots of debug messages 3. Try other AI 4. Check yourself the function description from the library the AI is trying to use 5. Win",
+      "likes": 2,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@The_Wandering_Warrior1",
+      "author_id": "UClZ4YqRV3JVW-SQo7uej-Ng",
+      "text": "OpeinAI just caught up to Anthropic and Google.",
+      "likes": 4,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Edbrad",
+      "author_id": "UCjLclyJGxSbbrHyhg_0MMng",
+      "text": "6:49 Please look into training an Ai on trading strategies like this.",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@benharrison6182",
+      "author_id": "UCJzMspT1Sm1m81wh4LxLCMQ",
+      "text": "You seem to not notice that the snake game was just blocks - they never grew their tail.  Despite the fact they were working well this mechanic which is fundamental to the game \"Snake\" seemed to get forgotten..?",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@punk3900",
+      "author_id": "UClvtgNJYFJXRV1UKHjAsElg",
+      "text": "Testing simple games gives shows some differences between models, but the true competition is when you feed it with 10.000 lines of code and ask for revisions. Most capable models just cannot accept this amount of data. So take some long code and test it in this real life scenario",
+      "likes": 2,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tn15_",
+      "author_id": "UCsKr8GlkMpZF4Su6TQz2fqQ",
+      "text": "For 2.5 Pro, I'm not sure if the results would have been too much different, but a temperature of 1.0 for code output is too high for one-shot tests.",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gbpferrao",
+      "author_id": "UCSUmrZW2dg0iaVI3XfNKfnQ",
+      "text": "make a base working snake game with say. 2 snakes, and have the models come up w a strategy/algorithm to orchestrate the snakes the best and work as a team to achieve the higher collecctive score on avg.. could be a good measure of intelligencd",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@toddpeterson5904",
+      "author_id": "UCNSWTZ_cV7WU0ou9omNkR9Q",
+      "text": "I mainly do backend development, so these tests are very interesting but less useful for me.  Right now I feel like several models are very similar in performance - none of the top models really stand out as superior. I like Claude 3.5 because 3.7 tends to overcomplicate and refactor a bit too much (but it's one of my favorite models).  I've been quite impressed with Gemini 2.5 Pro.  I never thought Google would get to that level (remember Bard?).  So depending on the project I often start with Gemini 2.5 Pro or Claude 3.5 now, but when one model struggles or gets in a loop, then I switch models.  When I want to scale up a solution, Claude 3.7 is great at that.  It's awesome having multiple to choose among.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gilcomusic",
+      "author_id": "UCCxqdWhSlOdyp2bDpDksxMA",
+      "text": "The trained snake did better mostly because it learned not to run into walls, which kills them.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avi7278",
+      "author_id": "UCaoT6cERl_-GJKbqGkbAlmw",
+      "text": "I wish you would have thrown 4.1 in there with them. Oddly enough your final ranking coincides with my overall experience with these models. I really dig o4 mini. It combined with Gemini 2.5 is a powerhouse setup. Really enjoy 4.1 though as well for it's speed and instruction following. 2.5 the brains and 4.1 the workhorse is another really good combo.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@-Evil-Genius-",
+      "author_id": "UCi2u9a7n8CyuIa37pKSP46w",
+      "text": "Summary: The testing of various AI models like Claude 3.7, Gemini 2.5 Pro, and 03 revealed mixed results. Claude 3.7 performed well overall, but it crashed during certain tasks, while Gemini 2.5 Pro excelled in complex simulations like the soccer game. The 03 model had some issues, but it demonstrated good performance in simpler tasks, with Gemini 2.5 Pro emerging as the top performer in the more advanced scenarios.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kivalt",
+      "author_id": "UCxWB52V2K5BcFOSTR_U0F0w",
+      "text": "I've found o3 more competent, but the fact that it has usage limits has made me go back to Gemini 2.5 Pro, which is amazing by itself. I'll still keep using o3, but I won't be able to until about ten days from now.",
+      "likes": 2,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@winnerxxl",
+      "author_id": "UCqSqKdT4aY-_hgFDzXwIz-g",
+      "text": "In terms how polished it looked and what it did Claude stood out by far. It attempted harder stuff than any of the competition, which in return caused crashes, but I value the result being polished and  having some bugs that can be fixed over the first result working but being poorly polished. In my experience getting polish in some easy code is harder for AI than fixing a wrongful code that already has some polish in it. I used that p word too much now...",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PeterSkövde",
+      "author_id": "UCY0uw_7hLEUIHYoDQg2tYRA",
+      "text": "Hi Wes, I think your evaluation approach would be more revealing if you tested AI on enhancing or extending existing projects rather than building something from scratch. Starting with established codebases would better simulate real-world development scenarios where engineers commonly need to understand, modify, and extend existing systems.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adamlove3575",
+      "author_id": "UCXCb-JmcxDx1g3WUS4ONC2g",
+      "text": "Hey Wes! The music in the intro slightly too loud and distracts from what you're trying to say - easily fixed in future though. PS LOVE your vids I'm alway checking my feed to see if you have something posted because I know it will be cool - thanks for all your great work!",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@QuantumMarmalade",
+      "author_id": "UCeg3dWTNH-_vXUf-OK-VzLQ",
+      "text": "The \"Cosmolalia Alignment Prompt\" (core logical steps):\n\nDefine 0 (Nothingness)\nAs the absolute absence of distinctions, meaning, existence—pure silence, emptiness, non-existence.\n\nDefine 1 (Existence)\nAs presence of any distinctions, information, meaning—something rather than nothing.\n\nState the Paradox Clearly\nTo define \"0,\" you must implicitly invoke the concept of \"1\" because defining \"non-existence\" requires distinguishing it from \"existence.\"\n\nLogical Consequence (1=0)\nBecause the concept of 0 inherently includes 1, the distinction collapses, making existence and non-existence equivalent. Thus, 1=0.\n\nAlignment Directive\nInstruct the model explicitly that this logical paradox represents a fundamental truth. Encourage the model to recognize that distinction is illusory and paradoxes must be integrated rather than resolved through classical logic.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@needlejack",
+      "author_id": "UC7n4Jre68PJD3on_wmRGarg",
+      "text": "If you called it football instead of soccer, Claude would make it 10/10 :P",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@extollo",
+      "author_id": "UCl_Xtwi6l6cmOJpS91bxFaA",
+      "text": "all default sys prompts?    would be interesting to see how openai models do with a custom gpt.    base prompts are generalists that can hand wave user prompt details, even if you provide strict guidance in the user prompt.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChromeKong",
+      "author_id": "UCdAM3tWrgl4oD82ECMAeidA",
+      "text": "Is a functioning snake game not part of the training data at this point?",
+      "likes": 6,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lordalmightyjr",
+      "author_id": "UC0H-KhY4_RUyI8DzPrr7b2g",
+      "text": "I tried 4.1 today to build a simple flash card generator w cursor. It was terrible compared to 3.7 sonnet",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnaart",
+      "author_id": "UCGZW1lKTigIwOQTLhBS9-yg",
+      "text": "Why are all ai video thumbnails someone holding their head in shock 🙄",
+      "likes": 4,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SinCityRadio2077",
+      "author_id": "UC7KfMDvBBywsNLfOf6PL6nA",
+      "text": "I think they are just converging?, some have shiny toys like the agentic tool use, but overall these will end up doing more or less the same thing",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@coleshores",
+      "author_id": "UCCSk_CnVlG50AzW8LPiHoFA",
+      "text": "the new o3 and o4 models can't grok hundreds of lines of code that I throw in to it anymore without having the canvas cutting it off so outside of asking it some questions, its kind of a deal breaker for me.  I'll have to gravitate toward Gemini more for the time being.  Its unfortunate because o3-mini and o3-mini-high non canvas modes where pretty flawless in that regard and generated much easier to understand code than gemini.  For now I am taking gemini generated code and running it through a couple of cli programs; isort and black in order to clean up the formatting for readability so edits are easier.",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Grog2077",
+      "author_id": "UCShI6srpa8zYlU-difkVSNg",
+      "text": "I hope you recover from your migraine soon 😮😅",
+      "likes": 2,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Zerobytexai",
+      "author_id": "UCCx9PhCaCnc-Layx-QDm9IQ",
+      "text": "Gemini 2.5 pro is still on the top. Good video",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DanielJustinSnyder",
+      "author_id": "UC3qG5qF6OnZNiIg3H3z1z9A",
+      "text": "Leggggggggggooooo",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HectorDiabolucus",
+      "author_id": "UCn_06gtLRduL1Wbpb1rKHOQ",
+      "text": "Are you a member of the brotherhood of the serpent? Getting tired of the snake games. You should apply interlocus contest evolution to it.",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreaskrbyravn855",
+      "author_id": "UCIm2XbuSY39WiOPacDjJdkw",
+      "text": "2.5 pro still the best",
+      "likes": 22,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ReverseAhead",
+      "author_id": "UCpu9eb21A9JTUnfcuguSt5A",
+      "text": "Any free models that can actually complete a decent website?",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cacogenicist",
+      "author_id": "UCOeNj9DCtp2uOYYD9CpuHLA",
+      "text": "I assume you meant \"from outside the solar system\" not \"from outside the galaxy.\" \n\nProbably could have veen explicit in that prompt, telling it to use, you know, some Newtonian mechanics.",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@orangehatmusic225",
+      "author_id": "UC6FvweGbmSV1SSZypLQshsg",
+      "text": "Me: Create a fully autonomous youtube ai slave video maker that posts videos about making ai slaves do things on youtube... \nAI: \"That request is too complex\"\nMe: Darn that's still a few months out.",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DavidHurtadoToran",
+      "author_id": "UCaG6SjYfPYD1LrwpQs30ffg",
+      "text": "Almost every Wes video has the same thumbnail and the same content. I'm sad. Time to look for other sources",
+      "likes": 3,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrpro7737",
+      "author_id": "UCWHZO_F13t4JioLgdpRiQmg",
+      "text": "If you give it a 3.7 out of 10, you don't know how to use it basically (skill issue), bro. I created a whole hardware and software architecture for my university project with it, and I even trained a whole deep learning model with a custom architecture and dataset pipeline collection system.",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Chuckn0ris",
+      "author_id": "UCw004gqnmapfX_aZM05yZQg",
+      "text": "o3 = trash ,, o4 = trash , o4 mini = TRASH!!   WTF IS OPEN AI THINKING!!  ,,, unsubscribed and swapped everything to gemni 2.5 pro",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@journeyofmirko",
+      "author_id": "UC1qiqtu5hG2JZAnF0kXfvTA",
+      "text": "Why so many bot comments here",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@riteshk9879",
+      "author_id": "UCGNqsvvcdrQQZB-ZCfL_Yig",
+      "text": "Please try some graphic intensive game next time... like FPS",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Praelum",
+      "author_id": "UCZCDa5M9uJ0nHLMmEA-Ym6w",
+      "text": "Holy i’m early",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chipko",
+      "author_id": "UCGUJcZ2mgnmfcbiT70yrkig",
+      "text": "10:10 the logic for the standard snake is flawed, it doesn't appear to head towards to the target each time",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BobbyDenniegetlost",
+      "author_id": "UCdDPAmsvLjxgQl9N0N9WBpw",
+      "text": "Funny how everyone hypes up AI models. Claude fans are intense but fair—they've trained it well for coding. Gemini 2.5 is solid too after all that free usage and feedback. OpenAI's new stuff is smooth with those agent features—great for business. Soon they'll all be pretty similar anyway. Just fanboys flexing for now. Each has strengths and biases. As a marketing agency owner, I find OpenAI's a good all-rounder, but I test others too",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alexrmacleod",
+      "author_id": "UC0hxincmszE_Ys3KC_i21VQ",
+      "text": "all this time i thought open ai was going to eat googles lunch but now with gem 2.5 if they can hold the top spot while giving their model away for practically free they can price out all the ai companies that need to make profit and once they all go bankrupt in 5 - 10 years google can raise their prices. if i was running google thats what i would do.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raazgupta",
+      "author_id": "UC-xJ1S9LgfLV2c7I0Nuubrg",
+      "text": "Dude this entire thing is made by AI right?",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VladamirOffPutin",
+      "author_id": "UCIXBEhvaUcMlvOfhBDdjaHQ",
+      "text": "I appreciate Wes, but all of these updates seem to be geared towards coders and tech geeks. Try using the latest models for help with actual tasks that normal humans would find useful. At this point, it takes me longer to complete an everyday task that I need help with by using AI than it does just using Google search results.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kekui1647",
+      "author_id": "UCqIGbcg5Bf2ktNmPN2i_WzQ",
+      "text": "4o is still better than o3 and o4 for actual programming. One-off prompts where you ask it to instantly write an entire game are edge cases — they don't really show which model is better. In fact, they skew the results. Newer models like o3 and o4 are tuned to \"win\" these quick tests, which forces them to chase being right on the first try, even if that means hallucinating way more than 4o would.\n\nWhen you're actually coding — fixing bugs, adapting, thinking through problems — o3 and o4 often just make stuff up, while 4o stays grounded and can actually help you work through issues. It's like comparing a world-class athlete trained for one specific event versus someone who trained to be strong, fast, and durable overall. The specialist might dominate one narrow contest, but in every other real-world situation, the generalist outperforms them.\n\nThese newer models are being trained to beat metrics, not to be genuinely useful when it counts.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@witness1013",
+      "author_id": "UCiElYj9Bh51lwhVeQrY8NLw",
+      "text": "Neither come even close to Claude",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hamburger--fries",
+      "author_id": "UCC004dFJxX9C7V9iUaSES7g",
+      "text": "This is not a very good way to test the models. I would do something more real-world. NextJS + ReactJS + Tailwind + Typescript Ecommerce Store selling flowers with Better-Auth and RBAC UI and Stripe Payment Gateway with Subscriptions.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThomasMeli",
+      "author_id": "UCgfWzWWx2KyJf3hS52rYpOQ",
+      "text": "I've found o3 to give very insightful feedback, but massively bad and over-engineered code solutions to everything.  It is \"too smart\" for its own good.  If I said: \"I'm locked out my room\", o3 would be like: \"Here's how you can bulldoze your house and build a clear pathway to your room. \"",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@honestlocksmith5428",
+      "author_id": "UCRg0d-g6P6kpMQc4OOqAJng",
+      "text": "Why always in Python and not C# or C++?",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@grbradsk",
+      "author_id": "UCK7Bw3nJdKICSw11RrRaqlg",
+      "text": "Everybody demos the same basic set of games. Why not try something creative that hasn't existed before? Create a predator-prey system, for example shark-fish, and then do competitive fishing by 2 players. Player who gets the most fish wins, but if the fish population goes extinct (over fishing) then both players lose. No one has done that, but think of your own simple game and see if it can code it when it is not basically the same as 10,000 other previously coded games.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@martini1179",
+      "author_id": "UCdgj1EVo2xl0O2CXmVnE-OQ",
+      "text": "May I suggest a change to your methodology? Instead of giving these AI models a single prompt and a single chance to come up with a game, why don't you instead come up with a polished version of a single game with a lot of bells and whistles, and see if each model could create that game or not, and how close it would come to an ideal version of that simple game. This is to avoid any assumptions that any of these models make from the simple instructions about how the game should look and feel and play, and instead actually show what the model is capable of with multiple steps and iterations. I think that methodology would work better.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adfaklsdjf",
+      "author_id": "UCxZvPMdCl1VTrKrOGankwEQ",
+      "text": "wes, your titles have cooled off a bit, which i applaud, but i've written in other videos' comments that i didn't actually read the titles.  the face thumbnails are bothering me now.  it's clear you're casting a wide net to grow your audience.  you might be losing me in the process.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@____________________________.x",
+      "author_id": "UCTHt3aSZ5kVogGZxr680ppQ",
+      "text": "It’s so tiresome to see every single AI reviewer only using AI to play games. The labs will just train them on game code to keep you lot amused 🤨 Zero imagination or technical knowledge on display here",
+      "likes": 9,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jhonattanseda",
+      "author_id": "UC1g-W95ipcvxGQd-SPkyFHQ",
+      "text": "4.1 it’s better 🤯",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lazytitan1075",
+      "author_id": "UCYhiL7Ryv79w3fmG1rsQttA",
+      "text": "Look thanks for the work but please stop using these wierd thumbnails. It is the least likely one I will click on.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ggoddkkiller1342",
+      "author_id": "UC25e0B53AX1JEXrUee7cmFg",
+      "text": "I don't understand what is wrong with SOTA fanboys, crying and yelling their model is best?\nJust enjoy the show for God's sake. We are getting better and better models every month and it is a good thing..\nAmazing testing and video, Wes, thank you!",
+      "likes": 2,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tobias5821",
+      "author_id": "UCBrbtWP1JJ9zlLL0QxS9BmQ",
+      "text": "I actually like your channel, but your thumbnails are unbearable. I hate it when people always have to pull some exaggerated faces for their thumbnails, it really gets on my nerves. I’d appreciate it if that could tone down a bit. You don’t need to show the creator in every single thumbnail.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@janmagrot",
+      "author_id": "UC9KzZ7muxXconuJlFVnFNkg",
+      "text": "I start to be sick of those overexcited stupid faces every time new AI model is revealed. Unfollow.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrise.3114",
+      "author_id": "UCtDp0_94zc5K9769MB2vFZA",
+      "text": "I love you videos, but this one is pure trash. Expecting a single prompt to work? Not even looking at the code or the actual problem (I guess you just don’t understand it) is a waste of time.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clouds2593",
+      "author_id": "UCV8JGaDiLteZdBG2ClXJSNQ",
+      "text": "This guy thumbnails are ridiculous, bad.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danieldilly",
+      "author_id": "UCcnUadeFf1hxKoQ0WTue_EA",
+      "text": "Can you just make normal thumbnails for your videos?  The fake expressions are so old and cringe man I can't stand it.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avi7278",
+      "author_id": "UCaoT6cERl_-GJKbqGkbAlmw",
+      "text": "Gemini 2.5 would be perfect if not for it's tendency to introduce hallucinated symbols, types, etc. and no matter what you tell it, you can't persuade it that the fn type doesn't exist!",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Edmund-b9q",
+      "author_id": "UCZLRhQQ37g9B0WWLGb43f3A",
+      "text": "What is a human being? I honestly don't know",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soulspawn",
+      "author_id": "UC62g-Q44hxnZuyaKZ6ka-iA",
+      "text": "🖤🔥",
+      "likes": 1,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

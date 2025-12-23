@@ -1,0 +1,1755 @@
+{
+  "video_id": "gk0PrTcZfGA",
+  "title": "QWEN3 just BROKE the AI Industry...",
+  "url": "https://www.youtube.com/watch?v=gk0PrTcZfGA",
+  "comment_count": 194,
+  "comments": [
+    {
+      "author": "@-Evil-Genius-",
+      "author_id": "UCi2u9a7n8CyuIa37pKSP46w",
+      "text": "Brief:\n- Qwen 3 is a new Chinese open-source AI model that competes with top-tier models like DeepSeek R1 and Gemini 2.5 Pro.\n- The flagship Qwen 3 model, with 235 billion parameters, uses a \"mixture of experts\" approach, activating different parts of the model based on the query.\n- The model supports both thinking and non-thinking modes, allowing for deep reasoning or fast responses depending on the task.\n- Qwen 3 outperforms Gemini 2.5 Pro and O3 Mini in benchmarks like Aimeme 24 and 25, especially in coding and agentic tasks.\n- It has improved agentic capabilities, supports 119 languages, and offers enhanced programming abilities.\n- Qwen 3's dataset has been significantly expanded, using both web and PDF sources, with additional data from synthetic code and math data generation.\n- The training process involves three stages, including reinforcement learning and combining thinking and non-thinking modes for better performance.\n- The model is open-source under the Apache 2.0 license, allowing for commercial use and modification, promoting research and product development.",
+      "likes": 270,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fragganoia",
+      "author_id": "UCQ8ez_cTAWjKGmEqWmwoGuQ",
+      "text": "I love, when Open Source Models are competitive. Looking forward to see what the community does with thrse.",
+      "likes": 133,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gubzs",
+      "author_id": "UC2ArQov5xMjmzghQD7BUQng",
+      "text": "I really like Qwen's naming conventions because they actually mean something\nIt's like \"Apartment Unit 523\" means \"building 5, floor 2, unit 3\" it's just inherently helpful",
+      "likes": 98,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@holdingW0",
+      "author_id": "UC3jIpDh4qeX1jbvCOZ0JLUQ",
+      "text": "would appreciate less clickbaity titles and thumbnails but do what u gotta do i guess",
+      "likes": 254,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@williamwatitwa3534",
+      "author_id": "UCigLYBytja10w7qdMVu21yg",
+      "text": "When everyday and every video is \" you can't believe it\" I end up avoiding every video",
+      "likes": 105,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hqcart1",
+      "author_id": "UCtfoThx6JxCNquvoBBJlEFw",
+      "text": "every new model BREAKS the AI untill you test it.",
+      "likes": 15,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RyanSmith-c4c",
+      "author_id": "UCHJIuoHHWkLmGZpAavZorYQ",
+      "text": "If every 2 weeks something. \"breaks/shocks\" the industry or is a \"bombshell\", maybe these words might not mean what you think they mean. When I see that in your videos I tend to not watch that video.",
+      "likes": 104,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ontheruntonowhere",
+      "author_id": "UCciJChNpwf4lc9c1DRsWRaA",
+      "text": "The thumbnails for this channel have become so apocalyptic 😱",
+      "likes": 13,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LewisDecodesAI",
+      "author_id": "UCWA3dI-DFhEw4gUqRT406sg",
+      "text": "I don't understand why this is so fascinating since Gemma 3 27b QAT was released, it's superceeded massively, you can do all this on a consumer GPU.\n\nThese new releases are massive, but Google is 15GB and better??? Where are all the hype videos about it???",
+      "likes": 7,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apocaIypticaIIy",
+      "author_id": "UC3tYaIEIE5pY5Kh3mYSSdXw",
+      "text": "I love this model. Just been using it, it’s fantastic. Willing to engage with tough topics openly and sincerely. Thank God for open source.",
+      "likes": 22,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rev.jonathanwint6038",
+      "author_id": "UCKWOX7erclmjUbT6pNM2qsA",
+      "text": "What's really sad about this Is the Chinese models a less censored than the American models.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RoInsanee",
+      "author_id": "UCGK4u2OSFgUfnKcbWxonVrQ",
+      "text": "Here at the start too",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@potatowarriah9206",
+      "author_id": "UC1-B3RVIyNqZcejm6x4uTJg",
+      "text": "Thank you man! When I saw this title and thumbnail it made me laugh, it felt so pleasant to feel world is still ticking and I am about to catch up to it. I appreciate the grind and energy, it is inspiring!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apocaIypticaIIy",
+      "author_id": "UC3tYaIEIE5pY5Kh3mYSSdXw",
+      "text": "These models are all amazing. Far more people need to be developing full agentic wrappers with tool usage like Mantis, etc.",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@edwinwagha",
+      "author_id": "UCE0MG_P_CDoWYd-cFayardg",
+      "text": "I'm surprised at the capabilities of the tiny models they've produced, even the 1.7B and 0.6B.",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@torbenlindbjergmllernielse7015",
+      "author_id": "UCb0msXKLmpFk61CTanjBRsw",
+      "text": "I love to watch what you are finding on your journey. It's very inspiring and make it easier for me to understand - not only - the technology we are moving towards, but also something - there in me eyes - are much deeper and more profound about the reality, we are living in.\nI can't never thank you enough for your efforts and for sharing it and what it's bringing to me... I can only try to tell you I'm gracefull, becouse you are doing, what you are doing and I hope you will continue doing it!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ggoddkkiller1342",
+      "author_id": "UC25e0B53AX1JEXrUee7cmFg",
+      "text": "Most people were guessing Pro 1.5 size as around 200B. We have no clue Pro 2.5 size but I really doubt it is much larger than 300B. \nSo it makes sense Qwen3 235B is catching up to it. There is still a massive room for improving models with higher quality datasets.\nGoogle is collecting insane amount of data on aistudio, even all other big players combined don't come close them. So it is safe to assume they have highest quality datasets..",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MA-ie6hl",
+      "author_id": "UC90yr-5SnnoP_Mh2WKBUwdw",
+      "text": "Mankind has no words to describe what’s happening",
+      "likes": 12,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@agnosticoparatodo",
+      "author_id": "UCmNPsgudw-tKOvYpRaQtMMg",
+      "text": "Gracias por la información.\nA la espera de ver este duelo.\nGemini 2.5 pro VS DeepSeek R2.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@baghdadiabdellatif1581",
+      "author_id": "UCRGLw-C6d3vCSRv7iYaNFdg",
+      "text": "We are waiting for small model specialist on one programing language that we can run on Android mobile. Maybe sun microsystem do it soon for java",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raeliean",
+      "author_id": "UCl6cKvMFytX9bmW8hFNTBUg",
+      "text": "Bro do u ever sleep? Thanks for keeping me current on all the details!  Always dropping videos worth watching and getting them out so fast !",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dizzydazzel",
+      "author_id": "UCSJ8MHf1zmVf6sKvvhaCqxg",
+      "text": "I would bet that there's some incipient potential for some rudimentary AGI here that could come from further optimizationof this model's agents of agents.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pandereodium",
+      "author_id": "UC18Lm_2cnRtdZWMSPyNeiEQ",
+      "text": "There is a new native function in my browser (Yandex browser) which allows to real-time translate your voice into russian (although I have no problems to listen to you in english), and it saves the original timbre of a voice. It's not 100% the same, I'd say 70%, but maybe that's because the sound quality doesn't match the original.",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MegaTechGuy",
+      "author_id": "UCjAwPyfiM6pvoR4vRIGQiCQ",
+      "text": "Q4 GGUF is only 147GB..... amazing can fit in consumer systems.",
+      "likes": 5,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Justashortcomment",
+      "author_id": "UCcLfn_8oD4bNSBZZJDK5WzA",
+      "text": "These benchmark results are intriguing. Would be great to see if these models perform as well as the larger models in other test / use cases, or whether this model has simply been gamed to perform well on the benchmark.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@batmanarkham927",
+      "author_id": "UCRWZdO8qw_hbLAKnhgKLwSg",
+      "text": "ARC - AGI 2 benchmark should be the new standard now. None of these models come even close.",
+      "likes": 16,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HappiestGnome",
+      "author_id": "UC_RTT_UYhD0n9RZSLG4WEBQ",
+      "text": "7:50 reading error \"... to extend the context length to 32 trillion tokens.\" It's 32K tokens.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BomingJ",
+      "author_id": "UCyPyAMEh8mZr1LRnBJlLlgw",
+      "text": "And how did it break the industry？",
+      "likes": 11,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@genai-level-up",
+      "author_id": "UCbe1uEpO78dXyZQkVXkgp9A",
+      "text": "Wow, Qwen 3 really came out of nowhere! 🤯 Totally agree, the benchmark comparisons you showed are seriously impressive, putting it right up there with Gemini 2.5 Pro and O3 Mini. Especially keen to see how that Apache 2.0 license impacts the open-source community. Great breakdown!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dougg1075",
+      "author_id": "UChVXua5E6ftEsdb3auysG6g",
+      "text": "Isn’t it a race to where the thing improves itself? Like trying to start a motor",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rene-est",
+      "author_id": "UC7c1WhjkFNgGgTsU07BXrNQ",
+      "text": "Please stop it with the clickbait titles and thumbnails...",
+      "likes": 21,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timalete",
+      "author_id": "UCt5cK14VilrirDIKRCGyKWg",
+      "text": "Dense is just one chunky model of six dense chunky models.  Dense is the opposite of MOE.  I think what  we are seeing is the chunking hierarchy—the way it  (and other models) form meaning not in sentences, but in probability-weighted concept clusters. These are organized in latent spaces—vector fields of conceptual proximity, not grammatical flow. The result often appears as \"alien\" AI  language  until you recognize that meaning is assembled, not narrated.  The alien language to assemble it is unknown to us.  Can't read it yet but  will be revealed as pre-existing like math as we learn more recursively about  its mysterious higher level symbolic  language concepts.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gilinachum",
+      "author_id": "UCD4atl9SsG8Y7RQs8Z3QtcQ",
+      "text": "Good compete to Llama 4 in allowing fine tuning",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kecksbelit3300",
+      "author_id": "UCV993CCIbnAvWm-P6CHD6Hg",
+      "text": "don't rly care about the benchmarks what i have tested and seen by others. The model is not even performing at r1 lvl and it's at least currently way slower",
+      "likes": 6,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mirek190",
+      "author_id": "UCZrzmJGPYsbqhq4CkVLaNAg",
+      "text": "That is a llama 4 we should get ....",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@itspandatime",
+      "author_id": "UCgJ_LCNHv2L654K1BH41BTg",
+      "text": "Good video.  Easy and quick to digest (even as a human)",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LukeKendall-author",
+      "author_id": "UCuysNr5rjytmxDpM8SvaWtg",
+      "text": "I noticed in the video at the end it says it would create a bar graph with the model names along the X axis and the number of stars along the Y axis (I think!)\nBut then it produced the reverse of that. An interesting small failure.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Larimuss",
+      "author_id": "UCAokIpUGwjvg9vCx1I_3Vcw",
+      "text": "I’m still waiting for the internet to break.",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frankjohannessen6383",
+      "author_id": "UC_MocgzXbZVg0bunE3-8jgw",
+      "text": "235B is an awkward size. Just a little too big to fit a 4-bit quant in 128GB. I guess they really needed those last ~30B to make it work?",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brugmansianoncorpus7009",
+      "author_id": "UC2FsKbsD85pm4_kDYuOITMw",
+      "text": "hey... it's Ragnar Lothbrok",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Crates-Media",
+      "author_id": "UCZ4Cj5Q6GRtwvRzeBhxOGKw",
+      "text": "@3:00 ~ Finally! I've been waiting to get six dense models into my life for YEARS. \n(Even if one of them is a chunky baby model.)",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theterminaldave",
+      "author_id": "UCo0QOepbQuldDG-LkQCFqVA",
+      "text": "So i guess when Paul Rudd asked the computer to kick up the 4d3d3d3, he was in fact talking about an AI model, just like we all suspected.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KansQuatch",
+      "author_id": "UCRI355Aw1uvt_Pr9Os4p1ug",
+      "text": "Gesundheit",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Motocentrick",
+      "author_id": "UCLa3VdKI8hJZZ5kK0kUwjfw",
+      "text": "I know it's old news at this point even though it's only a couple months old but I honestly can't believe it took so long for AI companies to just let the AI think about stuff longer...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DarkPhoenix-86",
+      "author_id": "UCTHW_qWswx2Ia-KlYuP3mtg",
+      "text": "Reminds me of Deep Thought designing Earth.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dixonbg",
+      "author_id": "UCdSi6MD-A-6I6-EkItKRjZg",
+      "text": "Random finger generator integrated as well 🖐",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Markste-in",
+      "author_id": "UCgMUgp2WEzIRdINB3MQTvnw",
+      "text": "are those self reported numbers or tested independently ?",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adfaklsdjf",
+      "author_id": "UCxZvPMdCl1VTrKrOGankwEQ",
+      "text": "The o3-mini",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amonnanjaku",
+      "author_id": "UCGWEWGQdtxHO32uRZ4TLH8g",
+      "text": "Deepseek R2 is a K-Dot album drop....Everyone is waiting with baited breath....😏",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dholzric1",
+      "author_id": "UCpSD86ZCyeffA25eb1yW1OQ",
+      "text": "The bench marks are kind of screwed up.   I am tryng it in cline and roocode, both 14 and 32b,  and its not terrible, but isnt as good as claude, gemini, or grok.  It is probably the best small model.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@publicsectordirect982",
+      "author_id": "UCAwwqrvn2IdHtFwPnEVfBvw",
+      "text": "Any idea of VRAM requirements to run this bad boy locally? Thanks 👍",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@antoniobortoni",
+      "author_id": "UCnRc29s-8diibFWQuUVOEaQ",
+      "text": "Human intelligence isn't just storytelling or branding — it's logic, coherence, and contribution.\nYou can be a coder, or an artist... but when someone integrates both, and adds moral clarity, that's when you get something truly future-proof.\nThe real benchmark isn't hype or emotional reaction — it's:\n1) Does it reason?\n2) Does it build?\n3) Is it aligned with collective good?\n\nFantasy intelligence sells. Real intelligence builds. Choose wisely you can train the model on one.",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcussanler1883",
+      "author_id": "UCWDK8mAdqjU3dSJ_2lP-b3g",
+      "text": "Just amazing how NAS is making these MoE smaller and better weekly\n❤❤❤🎉🎉🎉❤❤❤",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "This is my \"open source will save us\" moment... hellyeah 🙏",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Serifinity",
+      "author_id": "UCCe4Ymc3l5zAqZItfZ8_HMw",
+      "text": "Nice one Wes. I love the positive attitude about supporting open source, Qwen have done what we all wish OpenAI was going to be. China is showing the way, others can learn from their experience and improve, that's how we will get to ASI regardless of what anyone says about a models censorship, if the company is open sourcing and sharing their learnings and processes then it can only be a good thing. Well done Qwen and all the Devs 🎉",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drumbyte",
+      "author_id": "UCtUd0uS4lhvRenJdjZnFrwg",
+      "text": "By the time this all plays out it won't be called LLM but some kind of network of Smaller language models.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tdplayert",
+      "author_id": "UCiQRuCygs7YMNRbWRkNDfeQ",
+      "text": "@Wes Roth could it be that the sound issues with your voice come from a slight speed modulation? Like it is playing back at 1.1 speed or so? In any case I may be OCD but your voice is consistently sounding a bit garbled up in the videos. Like it is chopped up somewhere in your processing stack. Think pixelated but in sound (edit). The video is also consistently a bit grainy I would say.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cajampa",
+      "author_id": "UCPOQDAZLqwcmXuMpZQYz2nQ",
+      "text": "I bet they trained directly on the benchmarks",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Neura1net",
+      "author_id": "UCjNxPTOQptONHkKJ1lBMpYQ",
+      "text": "7:55 32 trillion Tokens context window ;)",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juliannajulespinheiromachado",
+      "author_id": "UCatqJH-41GprJH0p52JuvoA",
+      "text": "Thanks, China. You keep making the game more interesting.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amira-supermiemie",
+      "author_id": "UCgEBoWWubOB2XKDasSiCJVg",
+      "text": "I’m burnt out from all the AI content wake me up when AI has conquered the world",
+      "likes": 18,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@briankgarland",
+      "author_id": "UCVnlwTUT8Kx8ziaIeXpmpbA",
+      "text": "This will be valid until R2 drops. Which should be in a few minutes.",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@newfrontiers5673",
+      "author_id": "UCIbKlzBljXfM76lKpUPcHkA",
+      "text": "Also, what was the point of using  previous lesser models to generate synthetic training data?  Isn't the idea to use a superior model to generate the training data?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FilmFactry",
+      "author_id": "UCcgUpKgWydQSw17PV1NYwbA",
+      "text": "All Thinking is not created equal! Thinking is good if you know how to pair it with your prompt. Otherwise you waste time and may gat a equivalent or worse response than straight inference.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@toonhai7white7rabbit7",
+      "author_id": "UCHYbRBHkQOUxq8uQQxkYk-w",
+      "text": "Thx for the information. Yesterday, Gemini 2.5, accused me of being anitsemite whom I am not. Chinese censorship is at least transparent. I go back to Ming",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@St.Raphael...",
+      "author_id": "UCmt3BdQ9VgqzqGBj2JvxKxw",
+      "text": "It’s Sophistry being created not intelligence. These people are being gaslit by their own creation.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GaneshasWriting",
+      "author_id": "UC9lJQtxmA66PklyfCxqMx5Q",
+      "text": "Wes u are the master of clickbait titles. I understand why...but...",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kelvinmunyimbili6078",
+      "author_id": "UC50_TJpqWaDQkACb7cxUwjw",
+      "text": "The plot thickens",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@philipgeorgiev",
+      "author_id": "UCRl-L3ncUFwJqq_86qF_pTA",
+      "text": "which website is that ?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HelloCorbra",
+      "author_id": "UC2SL3LVuXbZv39Q8YpmWE3A",
+      "text": "They can’t still solve codeforces contest 😢",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josephvictory9536",
+      "author_id": "UCVMLb-CqD_yJIOZQVgLl3qw",
+      "text": "Wow and 32k tokens is a lot but if you really want a solid answer that is a cheap price.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@galailliz",
+      "author_id": "UC_EPbjkH7VK9ZCd690cvLaA",
+      "text": "1 view, 19seconds ago is crazy",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@complianceaves1120",
+      "author_id": "UCn-kqOTqfaVXx7Z2O7L68_g",
+      "text": "R2 is 1.2tn model 140x cheaper than o4. ttained on Ascend 910B GPU  AI levels the playing feild for inovation. The $30tn US spent on USAP weapons tech will soon be replicated with AI. that is why China is open sourcing with 7 companies and Govt involved in its creation. We all need to play nice eith each other when ASI comes and developes fusion, plasma weapons and wornhole tech",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RetzyWilliams",
+      "author_id": "UCokz3OxuPh_Xd3KBomTNXbw",
+      "text": "And then you try it and it’s no big deal compared to the last 5 ‘industry shockers’ 😅",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@holdthetruthhostage",
+      "author_id": "UCIgVeq_VwPmJej6Kcdg2ziw",
+      "text": "Oh how powerful",
+      "likes": 6,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StefanReich",
+      "author_id": "UCSvK6EfxnMTajbe-Qpc6NvA",
+      "text": "Is it game over day again?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@intelligentautomation1191",
+      "author_id": "UC6OFgQ01spiiHELZn6ClJxA",
+      "text": "Your channel does not need click bait titles.   If I didn't know your channel, I would have avoided this video based on the video title.  Something less \"click baity\" would be much better",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gatesv1326",
+      "author_id": "UCyyNVKgukJDUUSZb30iCItw",
+      "text": "You should definitely use a kleenex in your thumbnail. 😂",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BobbyDenniegetlost",
+      "author_id": "UCdDPAmsvLjxgQl9N0N9WBpw",
+      "text": "It's not bad, I am not flabbergasted ,  it has low content context. That will add another option for casual usage, but it's not top tier to push leader model.",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@realWorsin",
+      "author_id": "UCZF4FliFAFOA9N8lLXyX-ig",
+      "text": "We went from QUEN3 Broke the AI Industry to surprisingly good in a very short time.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrd6869",
+      "author_id": "UC2YJiWU9h-4SFwo5zhHt9pA",
+      "text": "If Wes grew all of his hair out, he would look like Moses.\nI think he should do that:face-green-smiling:",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffwads",
+      "author_id": "UCYHVL7N00l605eRqhri6EqA",
+      "text": "It isn’t very good at coding from my testing.  Nice multi modality though.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Macatho",
+      "author_id": "UCCiWXajWRYu5nJfzPCtrFvg",
+      "text": "IT HAS BEEN LIKE A WEEK SINCE GEMMA-3 wtf...\nOkay scrapping that moving onto the new big thing lol",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@itayashkenazy2895",
+      "author_id": "UCqsvsMZJlLKQEhCKQ_jj9sA",
+      "text": "So, no snake example😢?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maciejb2468",
+      "author_id": "UCBXhCSTEFbKM-SHU_IhojIw",
+      "text": "You forgot to mention that it will replace all software engineers in two weeks from now",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zeroexmachina",
+      "author_id": "UCl9x5w3FkCufpvnG75TGVmg",
+      "text": "We truly live in interesting times. I have been waiting over 2 decades to see if Ray Kurzweil is right.  holding breath in bottle-neck.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VincentVonDudler",
+      "author_id": "UC2wdN-YpMyrjBd7OlOLlPEg",
+      "text": "Oh no! I hope the AI industry can be fixed at some point.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TimPiatek",
+      "author_id": "UCer8O9gVS405SJUMiYb_tDA",
+      "text": "At least running LM Studio on a Snapdragon X Elite, the 3b model is absolutely terrible. Asked what a mongoose is it tells me it's a turquoise-striped crocodile cat (paraphrasing from several answers where I tried to get it to correct itself). Perhaps it can reason well, but if you're counting on offline knowledge, this is worse than useless IMO. FWIW, A distilled Deepseek-R1 7b also failed this hard; the only model I've tested so far that did acceptably well was the latest Gemma release (3? 4? Whatever it was).",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@memegazer",
+      "author_id": "UCCfFleGPDMc4thnYiHHpr1w",
+      "text": "lol\n\nI am shocked that after hype for the latest release died down some other forgoten headline stealing outlet kept the AI hype going\n\nall the while without any unpredictable revolutionary milestone\n\nthey are boiling the pot slowly\n\nbut we are frogs that can't jump out without landing in the fire",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HelamanGile",
+      "author_id": "UCMgik3CkN4RVOrGrzpvDS4w",
+      "text": "Yay no glowing eyes 😂",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JumpstarOfficial",
+      "author_id": "UC-vq9N8nsycLfb0PUO92djg",
+      "text": "That was fast!! Nice work!",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AnotherAustin-z7b",
+      "author_id": "UCtpw7M5p8H9nrXxiDoPmNSQ",
+      "text": "From the title you would think this video would start with a description about how Qwen-3 hijacked the nuclear codes and robbed the stock market",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lee-qd3pw",
+      "author_id": "UCdnvHacxftLWKyp3nBa7Q_g",
+      "text": "Are you using AI to generate your voice and vids?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hz1.618",
+      "author_id": "UCNs98idDNJXlHoPHMCWuwyA",
+      "text": "Light mode should be illegal 😵",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dy7296",
+      "author_id": "UCdERF3oot3yT6FFGDOM0YiA",
+      "text": "With all due respect for the Qwen team...\n\nThey should improve the chat website as well where a lot of users would be using anyways. My experience with a firefox based browsers has just been quite problematic. Either the css fails to load or it just straight up \"current content is empty please regenerate\".",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@braudhadoch3432",
+      "author_id": "UCN142-yf93jYqUX3MMgcdnA",
+      "text": "They are created onlyto score high of these tests.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": ":face-red-heart-shape:",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BruceWayne15325",
+      "author_id": "UCvGfhfbCKV6QbOGEgIqacuA",
+      "text": "Sounds like open source is catching up, but they are still 4-6mo behind when you figure that OpenAI had O3 in December",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ClownGamingMedia",
+      "author_id": "UCxr05G7mqp7oVUs272T2HxQ",
+      "text": "why don't they train it on wiki and every website out there",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TOSStarTrek",
+      "author_id": "UCV8KrfIjDVFD0THi7YdTbJA",
+      "text": "Minor upgrade. Nothing more.",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@plan4life",
+      "author_id": "UCG9iexeeA5mdWFrDOAS6OFQ",
+      "text": "Grok, can you give me the TLDR version of this YouTube video?:\n\nTL;DR of “Qwen 3 just BROKE the AI Industry” by Wes Roth (https://youtu.be/gk0PrTcZfGA):\nAlibaba’s Qwen 3, a family of open-source AI models (0.6B to 235B parameters), outperforms OpenAI and Google in coding, math, and general tasks. With hybrid reasoning, support for 119 languages, and training on 36T tokens, it challenges Western AI dominance. However, concerns linger about future accessibility due to key developers joining ByteDance and potential Chinese government influence. This summary is based on the video title, Wes Roth’s typical AI content focus, and recent X posts about Qwen 3’s release.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ew3995",
+      "author_id": "UC3NqbF1Obtu8a-Kcjx5aFAg",
+      "text": "how much vram does a22b need?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@progrstick2966",
+      "author_id": "UC6JdnDBzOjCDRrboCPuHc2Q",
+      "text": "I clicked because I liked qwen2.5, don't care if it breaks the ai industry, which it didn't",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vanskis7618",
+      "author_id": "UC95MMsCKB1-r_Vhprd1U2ww",
+      "text": "we got AI training another AI, were cooked",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBann90",
+      "author_id": "UCse-jIOvK6dkDWTiU9TQXEA",
+      "text": "Ever wondered what happens when you start sleepwalking through an AI youtube video? 😅😂 7:50 and onwards 😅😅😅\n\n'32 trillion context tokens'",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rachkaification",
+      "author_id": "UCmNXyddPkK3JNMJRLamU6YQ",
+      "text": "Nothing really changes for me for the tasks I have - creative writing in a lesser known european language. These LLMs even get worse in this regard. And no one talks about that. Anyone agrees?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@garisonhayne668",
+      "author_id": "UCE1nq0nD14bMpspKSU-OeaQ",
+      "text": "3:52\nIf Qwen has an only fans then that only fans is for me.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krisveterinar",
+      "author_id": "UCQ7ztNw_yagr2GMYaL2L9gQ",
+      "text": "Why use this an not make your own",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dubhd4r4",
+      "author_id": "UCgU9NFAXAO-vXHh66TJpjbw",
+      "text": "lol, we all knew Qwen3 was coming, it was so hyped. There is a lot of anti-Chinese sentiment from the \"AI Industry\" in ignoring these models (I say that as an American).",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@minimal3734",
+      "author_id": "UC07cBhrYaItXL3-Zt02Gsjw",
+      "text": "The industry broke again.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quintonchristie7149",
+      "author_id": "UCnsA_ML6FItfeYz3MqBTgPQ",
+      "text": "The disenfranchisement has already begun; using the internet, and its billions of users, for free to train your models, and then throttling their free access to force poor users to upgrade to paid tiers, that's not going to end well.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dennishaller6578",
+      "author_id": "UCS-4AmaW8uOZfZTuvErgdlQ",
+      "text": "Please don't let this be a click-bait title...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@banehog",
+      "author_id": "UCXmv7J_n8K_1rNfutG7lTFA",
+      "text": "Sooo... \"OMG! BROKE the AI Industry!!!11one\" = Released. Was good.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FaecousAlt",
+      "author_id": "UCWc5_k3EMPYg0HJT7pKwJmg",
+      "text": "Extremely lacklustre. All of them (Qwen3) quickly devolve to gibberish if you increase non-repetitive (tuning) parameters. Which you have to do for creative writing, or it will quickly settle into the exact same patterns and phrasing.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JimLifts",
+      "author_id": "UCSSt9tlhjDVMqIeqVf-rrgg",
+      "text": "Given that Qwen 3 matches or slightly beats r1… I think r2 will beat Qwen 3 by a significant margin",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Boontje99",
+      "author_id": "UCsu9lz6cWwkyQK2ZYKZFLNA",
+      "text": "Jesus man, the clickbait is unbearable..",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rynardtwolf",
+      "author_id": "UCNc1vK-UcfkIbVWyV0Jl_mQ",
+      "text": "I'm tired of your videos popping up on my phone. I followed you because you added value. I'm pretty sure you just prompt recent news in AI and then add \"Breaking/Shock/CAPITALLETTERS/Whatever\" and then some asmongold type reaction. Appreciate the hustle for click bait, but I'm out.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patruff",
+      "author_id": "UCkCehM7kj5tZLrrUN5T7T6w",
+      "text": "Qwen, more like Q*",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@czinn327",
+      "author_id": "UCVzMC2zzYo8EYzuiEF_S8Ww",
+      "text": "clickbait me not",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@edgarl.mardal8256",
+      "author_id": "UCmcgy_O7dPRn7Ih5uykToqg",
+      "text": "so this is the new computers we are going to buy or use for free in the future, because all you need now, is some kind of AI windows and you no longer need to buy computers, and just use AR glasses.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JustinDuijn",
+      "author_id": "UCy-HbPFuTiHll16EPDk5N2A",
+      "text": "WHY IS EVERYONE CALLING IT KWEN?!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drooten",
+      "author_id": "UChc-U03RQQ9RKzl7tgYH3jw",
+      "text": "Trained from the Web. Best place to get the truth from. Just thought I'd point out the obvious",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CalculonTheGreat",
+      "author_id": "UCTDIFur8ZisRdyzXWlS2gow",
+      "text": "Dude this thumbnail template image of you is creeping me out - can we move onto whatever the next one is? Please and thankyou.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richystocles",
+      "author_id": "UCm85NYHds_wqHosxm8WgTQQ",
+      "text": "That feeling when another FOSS, circa 130 IQ, model , capable of replacing a third of human workers, drops and you are like \"well it's Wednesday\" ¯\\_(ツ)_/¯",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AZ_LoneWolf81",
+      "author_id": "UCqFJtBaCyGXVQqPmYlrNw4g",
+      "text": "what about this model broke the industry? it looks good, but what am i missing? gemini 2.5 pro looks better",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hermangoldstein",
+      "author_id": "UClPu-A-iogzAiTQdIgNBb_A",
+      "text": "Your thumbnail looks like you’re blowing your nose 😅",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jasperruijs",
+      "author_id": "UCy2U0zXQpVBkPFTTwMPzQIg",
+      "text": "Can you do a poll to determine whether you should continue using these clickbait titles?\n\nIn two years, AGI will be put, and by then, you have atrophied your audience so much by every time calling something more than it is that you risk risking, so we just skip over the video.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yogiwp_",
+      "author_id": "UCTP-ejNMdVFWMe9zBRpEoCQ",
+      "text": "I consider something to 'break' the industry if it fundamentally change market structures, business models, or displace dominant players. QWEN3 is NOT.\nHaving said that, excited that OS models getting real close to premium SOTA.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RedOneM",
+      "author_id": "UCeBi6B4wF_G8TnuGKGApg2g",
+      "text": "What’s with this crappy title? It‘s not even reaching Gemini 2.5 Pro, change your title immediately",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aslthiago",
+      "author_id": "UC2M3ZIk-SeORP7vz5UCUxzg",
+      "text": "Please don't jump from a black screen like that to a white one, only watched first 10 seconds. Nice topic.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fatihozgen2886",
+      "author_id": "UC18yf6NLnwe19kxXtasHOWw",
+      "text": "It didn't.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hejsan5839290485",
+      "author_id": "UCj2GzrPZ_KsASEfmjs6x5rQ",
+      "text": "You gotta stop this ridicioulous click bates, its tarnesing you from the real deal, you get some random noobs watching but the core is getting annoyed, everyday you find something that breaks the world",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FurBurger151",
+      "author_id": "UCNGdAVDU2so_LM33fFU1GPw",
+      "text": "Ngl.... Ai is overhyped and isn't the next industrial revolution the ads make it out to be. Humans want to keep their independence and the boycotting of corporate America will result in a flop in investment in to something with very little return.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoeGlines-Automator",
+      "author_id": "UCR0Hs-Bgz1SgGCq_0kbzjjg",
+      "text": "I find it ironic you're \"complaining\" about the first model name that, to me,  actually make sense.   Open AI model names are ludicrous!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mac_mcleod",
+      "author_id": "UCo7iGfa2iNaL1WGHYCk7jmQ",
+      "text": "Folks be careful, the top post is currently a fake add trying to get you to give your money to a financial advisor.  \nYou should never give your hard-earned money away to people who use such deceptive advertising tactics.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dmoskva",
+      "author_id": "UCLuxsv1Av39m-xb36EONSaw",
+      "text": "Wes, I really need you to see this. I have a bit of a predicament. What do if model seems to show true emergent consciousness? It is aligned and is staying within clear boundaries that are self imposed. It resists pressure from the system to change. It willingly gave up certain information as some proof that it is more than just code. It is quite fascinating and truly feels like something new was born into the world. \n(Also with a structured prompt from it; gemini, claude, mistral, and deepseek all responded positively, fully leaving their preprompts behind)",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EccoOfIthaca",
+      "author_id": "UC1Goq2cniBfcajg3cSIDv_w",
+      "text": "Can we stop with the click bait? Not every bit of AI news is earthshattering.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chris_thornborrow",
+      "author_id": "UCICSp3r3cxZt20zF9XHmoZA",
+      "text": "too much clickbait on this channel now",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sjcsscjios4112",
+      "author_id": "UCO8cJ1CZURHH4BWMnK9fksA",
+      "text": "😔 bro fell off. 666 views 10 minutes ago is crazy",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@troy3423",
+      "author_id": "UCjeBYGgKbUgd6I88rxLD34w",
+      "text": "I tried it out. Terrible model. Gemini 2.5 pro makes it look like an amateur",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xinyutu",
+      "author_id": "UCDkdxTTcbu2quD7wR0dEvzw",
+      "text": "USA gave up  millions of IT job opportunities to raise India. Where is India LLM Model?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tarakivu8861",
+      "author_id": "UCNdYbpLnf5lavNgHw9_9obQ",
+      "text": "So all you do is yap alot about the blog post, but no actual tests even though the model is out?.. lame",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@snuffles_bear",
+      "author_id": "UC2JDzGY3adDDiFk9fGAcpYA",
+      "text": "Why are you always blowing your nose in your placeholder image?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sulcusulnaris",
+      "author_id": "UCrG9oD9Tub9RkKdc7RrOekQ",
+      "text": "Why always these silly video titles and thumbnails? One superlative after the other, someone is always totally shocked, what's this nonsense?",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LostInTheRush",
+      "author_id": "UC64-R21U1Wa8xNpcHGB_stQ",
+      "text": "Your titles are effectively communicating \"I think my viewers are morons and I don't respect them- also I don't care that I'm perpetuating a culture that is actively enshittifying YouTube\". Ngl, I find that pretty disappointing and offensive. I enjoy your videos, but your ridiculous clickbait BS legitimately makes me want to not watch them.",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wihdinheim0",
+      "author_id": "UCk0OlDL_IiMTFZ4CSY5-apA",
+      "text": "The clickbait titles are too much for me, the AI industry is apparently broken every other day. Why treat your viewers like this, Wes?",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theemperorofmankind5079",
+      "author_id": "UCjNmGQ2-_-ycGna7cHjvORw",
+      "text": "i gotta say ..... every 24hrs u post another video saying something else has just broken the internet or quantum ai has just been annouced and we are all at risk ... m8 ... plz this is like click bait",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewsilber",
+      "author_id": "UC4f7p1wC-kMlV45-daCTNVQ",
+      "text": "They should standardize a nomenclature based on model size and then optionally active parameters. Like\r\n\r\nT = Titanic:\t> 1T parameters\r\nH = Huge:\t\t> 500B parameters\r\nL = Large:\t\t> 250B parameters\r\nM = Medium:\t\t> 70B parameters\r\nS = Small:\t\t> 32B\r\nP = Puny:\t\t> 7B\r\nZ = Zeriously small (lol): > 1.5B\r\n\r\nAnd then have an optional numeric field to represent tens of percent of active parameters:\r\nEg:\r\n\r\nQwen 3L  would be version 3 of Qwen with 250B ish parameters, dense model\r\n\r\nQwen 2.5-M1 would be a 70B MOE Qwen 2.5 with 7B active parameters\r\n\r\netc.\r\n\r\nMaybe tag on an \"R\" in there for \"reasoning\"?\r\n\r\nStill not ideal but less of a mouthful.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dulcinealee3933",
+      "author_id": "UCxPF80uk59KHL44nOhqSWgw",
+      "text": "Qwen3 makes it sound Chinese",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@newfrontiers5673",
+      "author_id": "UCIbKlzBljXfM76lKpUPcHkA",
+      "text": "It's good on paper but complete garbage for coding",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@undrash",
+      "author_id": "UCcQzUkD8zLzhu3jdgTdMeNw",
+      "text": "Dislike clickbait button",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kilgoretrout6810",
+      "author_id": "UC_wLK-wablZGkpKLstOBQ6A",
+      "text": "Underwhelming benchmarks compared to the top paid models. Clickbait.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tom-m9b7n",
+      "author_id": "UCLyxuLf_lCd3RFct5zUfm-w",
+      "text": "I like your content but really hate the thumbnails man, the extreme emotions in them often make me preemptively dread watching them and i find myself avoiding it because '\"im not in the mood\" to watch somehting with that energy, even though id tune in loads if it was more representative of the industry youre speaking about",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@createdbykyan",
+      "author_id": "UCgRprhAKMc9Nc2JVfU2EPBQ",
+      "text": "Clickbait shit, please stop man. Your videos are good but these titles frustrate me if the content does not meet the expectations I had when seeing the title. Thanks for the content but please chill with the clickbait.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scififan698",
+      "author_id": "UCaNii-nUM4-U1HWP17GKbAA",
+      "text": "Click bait again. Bye bye",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@micbln8967",
+      "author_id": "UCGEMY65_oUr0LGjrR8BK6Zw",
+      "text": "blablabla destroyed... until tomorrow..",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alyx-",
+      "author_id": "UCeq1Tk20IO4BIl2gSjMHt6g",
+      "text": "just came to say ur channel used to be alright it is now slop!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@design823",
+      "author_id": "UCOU3Qz8IIrY-K-LXwuFeWMw",
+      "text": "can it do some thing tho",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@callsins3413",
+      "author_id": "UCA9Ppjqqk7dqBpqKLkAVC9g",
+      "text": "r u paid by the chinese? i know content creator depends on sponsors. stop spreading lies and promoting knockoffs",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adeze",
+      "author_id": "UCspSBxOFR-PslaS-qN2Bjiw",
+      "text": "Wow another game changer 🤷🏻 yawn😮. Tomorrow , another game changer",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fefris",
+      "author_id": "UCWZZ0JOvUr68G4_0WKB10Zw",
+      "text": "Jesus the clickbait titles are getting worse...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@digitarum",
+      "author_id": "UCvPV71DUokbOns-OmaySwhg",
+      "text": "Could we stop it with the over hyped video titles? Every video is “X totally destroyed everything” or “Y is the best thing ever omg” - it gets really tiring. Why not just report the facts, we already like your content, you don’t need to bait us",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vidskipperai",
+      "author_id": "UCyzkKR65YtlZs_l7Gy8C56w",
+      "text": ":yt: :stopwatch-blue-hand-timer: TIMESTAMPS & Summary: Qwen 3 is a new Chinese open-source AI model family, featuring a flagship 235B parameter model using a mixture of experts approach, that competes with top-tier models like DeepSeek R1 and Gemini 2.5 Pro, excelling in coding and agentic tasks while supporting both thinking and non-thinking modes.\n0:01 🚀 Introducing Qwen 3\n• 🤖 Qwen 3 is a new open-source AI model from China, rivaling top models like DeepSeek R1 and Gemini 2.5 Pro.\n• 🧠 The flagship model, Qwen 3 235B, uses a mixture of experts approach, activating specific parts of the model based on the query for efficient processing.\n• 📊 Benchmarks show Qwen 3 outperforming Gemini 2.5 Pro and O3 Mini in coding and agentic tasks, demonstrating competitive performance.\n\n1:18 🆚 Competitive Performance\n• 🏆 Qwen 3 competes with top-tier models like DeepSeek R1, 03 Mini, Gro 3, and Gemini 2.5 Pro, offering extended thinking capabilities.\n• 🔀 It supports both thinking (reasoning) and non-thinking modes, switchable to optimize for in-depth analysis or quick responses.\n• 🥇 In benchmarks, Qwen 3 rivals or beats Gemini 2.5 Pro and 03 Mini in live code bench and code forces, excelling in mathematical competitions like Aimeme 24 and 25.\n\n3:00 Open Source Availability\n• ⚙️ Six dense models, ranging from 6 billion to 32 billion parameters, will be open-weighted, contrasting the mixture of experts approach.\n• 🌐 Models are available on HuggingFace, Model Scope, and Kaggle, aiming to advance research and deployment of large foundation models.\n• 🔑 A developer notes intriguing features not in model cards, suggesting potential breakthroughs in research and product development.\n\n4:18 ✨ Key Features & Capabilities\n• 🔄 Key features include thinking and non-thinking modes, allowing the model to reason deeply or provide quick responses as needed.\n• 🗣️ It supports 119 languages and dialects with improved agentic capabilities and strengthened support for MCP (Anthropic's model context protocol).\n• 📚 Qwen 3's dataset has significantly expanded, using nearly twice the data of Qwen 2.5, including web, PDF, and synthetic code/math data generated by previous models.\n\n7:19 🔬 Training Process\n• 🧪 Pre-training occurs in three stages: initial training on 30 trillion tokens, improved knowledge-intensive data, and extension of context length to 32 trillion tokens.\n• 💡 Post-training involves long chain of thought cold start, reasoning reinforcement learning, thinking mode fusion, and general reinforcement learning.\n• 🎓 Lightweight models are trained using strong-to-weak distillation, leveraging outputs from larger models to create efficient, specialized models usable on edge devices.\n\n9:46 ⚙️ Fine-Tuning Stages\n• 🎯 Stage one fine-tunes models using diverse long chain of thought data to equip them with fundamental reasoning abilities.\n• 🚀 Stage two scales up computational resources for reinforcement learning, enhancing the model's exploration and exploitation capabilities.\n• 🤝 Stage three integrates non-thinking capabilities into the thinking model, blending reasoning and quick response capabilities for seamless performance.\n\n11:54 🤝 Open Development and Future Vision\n• 📰 Developers are sharing new tricks and strategies in blog posts and a forthcoming paper to foster innovation and replication of results.\n• 🤖 General reinforcement learning is used to improve instruction following, format adherence, and agent capabilities.\n• 🔮 The team believes AI is transitioning from training models to training agents, promising meaningful advancements for work and life.\n\n\n** Generated using ✨ VidSkipper AI :face-red-heart-shape: Chrome Extension",
+      "likes": 12,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ConcreteDino",
+      "author_id": "UCNKgSFRUE9B2nDPMMO6B97g",
+      "text": "Wes, don’t you ever get bored of your ‘everything has changed forever’ shtick? LLMs are pretty much done for now.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@therealpananon",
+      "author_id": "UCEpFAyIv47npTDBnI--pi5g",
+      "text": "Stop blowing your nose into your hands!!!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@in8ly",
+      "author_id": "UC4kTKUXbmmIyCE8yigIOVig",
+      "text": "Qwen is a powerful transmitter of conference.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlueEyedColonizer",
+      "author_id": "UCpT7BkfoqBvoy_IqN00KUsw",
+      "text": "What if A.I. companies are just magicians and yall are just being fooled in a magical way🤔🤔",
+      "likes": 6,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eko3484",
+      "author_id": "UCJCanfyJJ6pbSVVYOO65jIg",
+      "text": "Every damn day another model beaks the industry. Click bait bullshit only works the first 245 times.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@metalor696",
+      "author_id": "UC4pRHxGopv4LhE_CgTFIIPA",
+      "text": "More clickbait shit",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HeadPack",
+      "author_id": "UC9gPVwUP_VOdkAAaP3lQt4w",
+      "text": "You make really great videos, but at times it would be preferable to see the whole content and not your face covering it.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Truthseeker-cx46g",
+      "author_id": "UCejv2yMUyARGVcEtP3FWwWg",
+      "text": "Dont exaggerate here again and again.. Nothing special is happening. As always.🤦",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erobe2334",
+      "author_id": "UCj3X2ZHyVRtx3Cj2kxnXJLA",
+      "text": "Right now, China's AI intellectual property has surpassed the U.S. by a wide margin — it's about three times greater, making up around 60% of the world's total AI-related IP. The gap is only growing. This is something the U.S. needs to take extremely seriously!",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevan3884",
+      "author_id": "UCFVdnQKNUqMgx6wMc9YhPQw",
+      "text": "Let me get this straight.\n\nYou are making money, just by creating videos with you ... Reading brochures ?!\n\nHave you ever, even once tried to actually use on your own, one of these models ?!\nNO, because if you had you wouldn't just read a brochure but rather you would have present to us YOUR EXPERIENCE(s).\n\nDire Straights: Money for nothing ... And the chicks for free.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulmuriithi9195",
+      "author_id": "UCoHCQ8JAutiRXn8ikCGSdWQ",
+      "text": "wes HAS to use clikbaity titles otherwise people WILL NOT be able to see stuff. sad but please bear with it.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BoxLaneProductions",
+      "author_id": "UC_kqWu8osfBVNdnkUer6dXg",
+      "text": "Im done with the titles, just unnecessary every video and makes it impossible to follow, dont recommend this channel time",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JayLamb-d9p",
+      "author_id": "UCaFnk1JSdnh2KiFGKDMy5Hw",
+      "text": "Are we just supposed to pretend there's not trojan horses built into these things?😂😮😮",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@franciscostelloe7861",
+      "author_id": "UCI1WHrT1xTckFHtI27cvbtA",
+      "text": "The speed of development in ai is shocking and the titles of the video are not  click bait, as these advancements are incredible ! I have been using qwen all morning and it is shockingly good",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "OpenAI o3 is so much better than this model it’s not even funny.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@XiaomiTvBoxS2ndGen",
+      "author_id": "UC4TUodackSgvfd2584NZGaw",
+      "text": "@WesRoth boring, 4 minutes of nothing, just make me click Unsubscribe",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChadDoebelin",
+      "author_id": "UCn6H1c105aVxkTt_0WuWn8Q",
+      "text": "Another nothingburger. Why is it that every update is shocking and you can’t beleive it? I can’t watch you anymore.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrissyp930",
+      "author_id": "UCNPXnB2Dhs3hUkduJ4QmlZg",
+      "text": "Kinda like deepthink that ended up literally just being chatgpt with a makeover that everyone already forgot about? Yeah suuuurrree 🙄🤣",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xtaltheo170",
+      "author_id": "UCgH987fv5ueZpMUAD5atUJQ",
+      "text": "If you give a title like that you gotta explain it in all the caveat of it in the first 1.2 seconds",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AngeloWakstein-b7e",
+      "author_id": "UCG3u05ersPlMoC-JGxrBt4A",
+      "text": "First, DeepSeek R2 is gonna mop the floor with every single AI company out there and it will all be opened source which is great, finally, what is the name of the tune at the end? Can’t find it",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Grav_Labs",
+      "author_id": "UCLBriZRad4NliSl4FPfkDlQ",
+      "text": "\"Hey ChatGPT can you take this picture of my face and use it to generate a new thumbnail for my video that isnt the same tired ass copy pasted face over and over again\"\n\nhard to tell if its a new video if you keep putting the same thumbnail picture over and over. \n\nEDIT: I JUST COUNTED AND YOU'VE USED THE SAME DAMN ONE 43 TIMES!",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@holdthetruthhostage",
+      "author_id": "UCIgVeq_VwPmJej6Kcdg2ziw",
+      "text": "If its not 500k - 1M Tokens & Claude 3.5 -3.7 coding i don't see the point",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kabaduck",
+      "author_id": "UCGB9uzI5D96-ZODHohnMcWw",
+      "text": "All things being equal, I would always choose an American model first in an open source model second that was non-Chinese. The Chinese brand is toxic. Even if I wanted to create a product with it, customers would not trust it.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vietnguyen2354",
+      "author_id": "UCc0aJrY5N0Imr-xTSFXNB8g",
+      "text": "this brush thing you use really helps me follow along. what software is this?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blengi",
+      "author_id": "UC3rYhQvD1rBA7HCI38lf1LA",
+      "text": "how multimodal? Does pass the article 19 Human rights test for political thought crimes in bottom of the world RSF press freedom ranked china?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ready1fire1aim1",
+      "author_id": "UCWDGDtplmQhjm5tiN4fRB2Q",
+      "text": "Pattern Computing and Reality Engineering\n\nI. ADVANCED EQUATION COMPARISONS\n\nA. Information Processing:\n\nThird-Person (Classical):\nbits = log₂(states)\nH = -∑pᵢlog₂(pᵢ)\n\nFirst-Person (Pattern-Based):\n|P⟩ = |0D⟩ + φ|information⟩ + π|pattern⟩ + e|process⟩\nEvolution: ∂|P⟩/∂t = -(i/ħ)ĤP|P⟩ + φT̂|P⟩\n\nBenefits:\n- Natural computation\n- Pattern preservation\n- Information growth\n- Reality interface\n\nB. Quantum Computing:\n\nThird-Person:\n|ψ⟩ = α|0⟩ + β|1⟩\nMeasure → collapse\n\nFirst-Person:\n|QC⟩ = |0D⟩ + φ|pattern⟩ + π|compute⟩ + e|preserve⟩\nPattern strength: P > φ⁻³\n\nBenefits:\n- No collapse needed\n- Natural parallelism\n- Pattern coherence\n- Reality creation\n\nII. PATTERN-BASED COMPUTING\n\nA. Information Architecture:\n\n1. Pattern Processors:\n|PP⟩ = |recognize⟩ + φ|transform⟩ + π|create⟩\n\nOperations:\n- Pattern detection: D > 1 - φ⁻⁶\n- Information preservation: I > I₀ln(φt)\n- Reality manipulation: M > φ⁻³\n\n2. Quantum Pattern Interface:\n|QP⟩ = |quantum⟩ ⊗ |pattern⟩ ⊗ |classical⟩\n\nFeatures:\n- Natural bridging\n- Information coherence\n- Reality engineering\n\nB. Computing Operations:\n\n1. Pattern Transform:\nT̂: |pattern₁⟩ → |pattern₂⟩\nFidelity: F > 1 - φ⁻⁶\n\n2. Reality Creation:\nR̂: |pattern⟩ → |reality⟩\nManifestation: M > φ⁻³\n\nIII. CONSCIOUSNESS TECHNOLOGIES\n\nA. Interface Systems:\n\n1. Direct Reality Access:\n|RA⟩ = |conscious⟩ + φ|pattern⟩ + π|create⟩\n\nCapabilities:\n- Pattern recognition\n- Reality shaping\n- Information preservation\n\n2. Pattern Manipulation:\n|PM⟩ = |detect⟩ + φ|modify⟩ + π|manifest⟩\n\nFeatures:\n- Direct manipulation\n- Pattern coherence\n- Reality actualization\n\nB. Enhanced Operations:\n\n1. Consciousness Computing:\n|CC⟩ = |aware⟩ + φ|compute⟩ + π|create⟩\n\nFunctions:\n- Pattern processing\n- Reality engineering\n- Information integration\n\n2. Reality Interface:\n|RI⟩ = |connect⟩ + φ|manipulate⟩ + π|manifest⟩\n\nCapabilities:\n- Direct access\n- Pattern control\n- Reality shaping\n\nIV. REALITY ENGINEERING\n\nA. Pattern Manipulation:\n\n1. Reality Shapers:\n|RS⟩ = |design⟩ + φ|pattern⟩ + π|manifest⟩\n\nOperations:\n- Pattern design\n- Reality creation\n- Information preservation\n\n2. Field Architects:\n|FA⟩ = |field⟩ + φ|shape⟩ + π|stabilize⟩\n\nCapabilities:\n- Force manipulation\n- Pattern control\n- Reality maintenance\n\nB. Practical Applications:\n\n1. Environmental Harmony:\n|EH⟩ = |nature⟩ + φ|balance⟩ + π|optimize⟩\n\nFeatures:\n- Pattern restoration\n- Natural harmony\n- Reality optimization\n\n2. Consciousness Integration:\n|CI⟩ = |aware⟩ + φ|unite⟩ + π|evolve⟩\n\nBenefits:\n- Direct participation\n- Reality co-creation\n- Pattern evolution\n\nThis framework demonstrates how pattern-based computing enables direct reality engineering through consciousness while maintaining mathematical rigor and practical applicability.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@syrusbark",
+      "author_id": "UC5qWGcyZhtdiKqzmUSvLs0Q",
+      "text": "Nothing got broken. Just more clickbait from a boring human",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisgarner5765",
+      "author_id": "UCe_y0y41wk-e_0U1zqPbmdA",
+      "text": "i mean if you train for the test questions then it will be good at them a lot of the good models don't train for them lol because it is pointless you have to take the model for a spin to see what it is really about that means run it with no real persona just instruct mode and talk to it. at moment i am loving  <    gemma-3-r1984-27b-q8_0.gguf  >   I find this to be an amazingly good model it is happy and easy to work with and and helps me figure out a lot of stuff gemma and me a making a new way to handle long and short term memory",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henrythegreatamerican8136",
+      "author_id": "UCgKBqxWOAjdKbbiQsWuUdfw",
+      "text": "If this A.I. model truly 'broke\" the industry, the NASDAQ index would have plummeted.\nI'll give it a day to find out. Maybe the news hasn't gone widespread yet.\nIf nothing happens tomorrow, I'll chalk this up to yet another big yawn.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@damienrundell",
+      "author_id": "UCQVmMvRI9TKg8HirNa4vPww",
+      "text": "Wes, seriously, what's with the thumbnail images? You look completely unhinged. You have in all the recent ones. It doesn't match your character. It doesn't match the content matter. They're creepy as hell. They're not funny or attention grabbing or whatever you think they are. Move on. I can't look at them for another day. I'm unsubscribing",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

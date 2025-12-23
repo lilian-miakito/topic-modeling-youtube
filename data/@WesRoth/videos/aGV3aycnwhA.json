@@ -1,0 +1,63 @@
+{
+  "video_id": "aGV3aycnwhA",
+  "title": "Andrej Karpathy GPT - Advice for building AI agents",
+  "url": "https://www.youtube.com/watch?v=aGV3aycnwhA",
+  "comment_count": 6,
+  "comments": [
+    {
+      "author": "@carvalhoribeiro",
+      "author_id": "UCyZCfIET7753bs5WpmKI_qQ",
+      "text": "Great. thanks for sharing this",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Swordfish42",
+      "author_id": "UCbqD2UTQn5SjOuKn0y4Pmiw",
+      "text": "Some background, please? What meeting is this? Who are these people? When did that happen? If anyone has some info on the details please do share.",
+      "likes": 13,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eaudesolero5631",
+      "author_id": "UCTPD6pLo8tuX0T9Mdo5nznw",
+      "text": "for anyone who doesn't know ... jeff hawkins - numenta",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NicholasPool",
+      "author_id": "UCT1lyx5YWRqWARGR3mgjqmA",
+      "text": "Where and when was this? who is the audience?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ew3995",
+      "author_id": "UC3NqbF1Obtu8a-Kcjx5aFAg",
+      "text": "i disagree, we are now at the point that we no longer need to research. we should be empowering the machines to find out how to improve themselves",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@agusavior2",
+      "author_id": "UCaeytre61z3dkdGtVHOTtjg",
+      "text": "I don’t think neuroscience is the correct path in order to achieve better artificial intelligence",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

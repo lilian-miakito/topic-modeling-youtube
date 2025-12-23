@@ -1,0 +1,504 @@
+{
+  "video_id": "AOfAEQ3bMWk",
+  "title": "State of AI Report 2023",
+  "url": "https://www.youtube.com/watch?v=AOfAEQ3bMWk",
+  "comment_count": 55,
+  "comments": [
+    {
+      "author": "@WesRoth",
+      "author_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "text": "CORRECTION: I think I confused the UK flag and the AU flag towards the end of the video.\nA thousand apologies...",
+      "likes": 18,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NimTheHuman",
+      "author_id": "UCYNloDyeO-fIga1KphM-psw",
+      "text": "Some key timestamps & ideas from this video (not AI generated and not comprehensive):\n0:12 Definition of words (AI, AGI, Generative AI, Transformers, etc.)\n0:44 2022 predictions about 2023 (mostly correct/underestimated)\n2:00 GPT-4 “crushes” other LLMs, thanks to RLHF (reinforcement learning from human feedback)\n4:16 OpenAI/GPT-4 & Google’s reports didn’t disclose useful info for AI researchers - Anthropic didn’t report at all. Reason: competitiveness and safety.\n4:49 Meta/Facebook’s LLaMa models\n6:10 Most mentioned LLMs on X (most popular = GPT + LLaMa)\n6:15 RLHF / Instruction-tuning is the most trending topic (since 2020)\n6:26 Emergent capabilities of LLMs\n7:27 Context length of LLMs\n8:33 Performance is better if relevant info is at the start and finish of provided context \n9:12 Small language models vs large language models\n10:00 GPT-4 is likely a collection of LLMs, each barely larger than GPT-3 — not one large LLM\n11:15 Are we running out of human-generated data?\n11:45 AI-generated content (synthetic data)\n13:28 Problems related to disentangling real vs AI-generated\n15:15 Overtraining and overfitting\n16:12 Despite availability of benchmarks, most users still go with gut feeling / vibe check\n16:36 LMs for code\n17:13 DeepMind’s AlphaZero\n18:23 Prompt engineering, Chain of Thought (CoT), and Tree of Thought (ToT)\n19:58 GTP-4 performance declined significantly between March and June\n20:12 LLMs are learning to use software tools & APIs\n20:57 LLMs in open-ended worlds (learning on their own)\n21:42 Reasoning with language model and RAP (reasoning via planning)\n22:44 GPT-4 out-performs RL (reinforcement learning) algorithms by studying papers and reasoning\n23:34 Best vision-language models: GPT-4 (limited API access); LLaMa-Adapter-v2; etc.\n23:55 Leveraging LLMs and world knowledge for compositional visual reasoning\n24:40 LLMs for autonomous driving\n24:55 PaLM-E\n25:30 RT-2\n26:18 RoboCat\n26:58 AI drone racing\n27:35 Extracting a map from non-visual AI agents\n28:28 CICERO uses natural language to beat a game called Diplomacy\n29:38 Text-to-video\n29:59 Instruction-based editing assistants (text-image generation models)\n30:13 Image to 3D space\n31:31 Percentage of AI research papers produced by various countries & companies — Google, Meta, USA, China, and UK take lead\n\nWes, thank you so much for making this video! 👏\nYour explanations were very helpful.\nAs someone that’s not currently invested full-time in AI, I appreciate being able to skim this “State of AI” report with your expert commentary.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mstr.monopoly",
+      "author_id": "UCqnqFVE18E3DActVwtVGfRQ",
+      "text": "awesome review/summary. subscription bell activated!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dagmeistr",
+      "author_id": "UCvCKQFPiX-ldRQWJgmRgYhw",
+      "text": "Much Information, beautiful! Thank you. very good good",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rawi888",
+      "author_id": "UCvBkDKl02Izs2mwjZSsGoGw",
+      "text": "Man. I feel like I'm going insane being part of a few who see whats going on. What a time to be alive.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SM-wu7my",
+      "author_id": "UCzUjdI9nvjwGR4G44kqVG1g",
+      "text": "Excellent summary! Thanks for taking us through this, Wes",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kuzetti",
+      "author_id": "UCFqtM1IGfOSOR0rX4DZqayA",
+      "text": "I watch a lot of Ai channels but your videos are by far my most anticipated. I really like the way you explain everything and share your thoughts. Very helpful. Keep up the great work!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iLoveTurtlesHaha",
+      "author_id": "UCPZ6fPk-B4JwwXXVOJaDdkw",
+      "text": "I really enjoyed how you broke this down. I am looking forward to more of these report break downs. Very insightful. Thank you. 🙌",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KP-sg9fm",
+      "author_id": "UCjKlXOFhkc_2d03Zgq9ZNYQ",
+      "text": "More like this! Subbed",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AceHack00",
+      "author_id": "UC3d2zPd05Hg1R5PEL0rAxyw",
+      "text": "Great video",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cutmasta-kun",
+      "author_id": "UCgIo3vveYd2aOBZkBU-A2kA",
+      "text": "Love your Videos! <3",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Memeonomics",
+      "author_id": "UCJ_29DFbbarUkz7Ndlir9gA",
+      "text": "Amazin",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jdray",
+      "author_id": "UCbAhEzxtY6_xmQR77fQHOfw",
+      "text": "Very much looking forward to that RAP video.  I learn so much from your videos.  I really appreciate you.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NeoPholushe",
+      "author_id": "UCt_zD9NxhvxOu9g4cnwROEQ",
+      "text": "Sll the best Wes.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronWacker",
+      "author_id": "UCdKiy5xeO2JuWuIlE5nUaNw",
+      "text": "Your videos are packed with fascinating observations into all state of the art innovations in recent history.  Keep up the brilliant work - your feed has become my goto subscription for early morning learning and is super relevant with multi system agents, memory and other topics that matter.  I love your format too.  Thanks!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ginebro1930",
+      "author_id": "UCxA5Nwx7tv8AUYO8B5hfPDA",
+      "text": "Hi Wes, i think your videos will really benefit from timestams.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pollywops9242",
+      "author_id": "UCZ059mrmKPZ8hVlFvLbraXw",
+      "text": "Lol at the wrinkles added in the generated one 😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Billy4321able",
+      "author_id": "UC8z7dacCfAL0rS2JhBWFm1Q",
+      "text": "Minor correction: the amount of developers was predicted to be over 100,000 not the number of users. So unless you consider users as developers there wasn't a 10x of their prediction here.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": "❤",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "From what I remember, the situation of the \"memorized images\" is just a few rare ones that were duplicated a lot in the training dataset, images that had been copied way too much all over the web, always accompanied by very similar captions. Would probably be fixed by putting just a little more effort in deduplicating the training dataset.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KlausRosenberg-et2xv",
+      "author_id": "UCvIucvJrJYWQr06dr6xlTCg",
+      "text": "I still hope we get a big Christmas innovation for ai this year!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JSON_bourne",
+      "author_id": "UCK23BXHYfgGQg9UUbGluWSA",
+      "text": "The word you were looking for durinf the diplomacy thing was \"Machiavellian\"",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nerdkillz7872",
+      "author_id": "UCa4-v6_jhIt7eol-rCOgiSA",
+      "text": "I have a question thats not specific to the video, but I´ve heard of \"chat with your docs\" applications. Wich programs/ projects are out there for this task, and wich do you think are the best?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrMikkyn",
+      "author_id": "UCmCENxAA6ghRLN2oI0FO9KA",
+      "text": "I'm a beginner and watched the last half of this video on 2X speed. There is a bit of terminology to understand, so I'll probably read that book by that guy who was interviewed on Lex Friedman, who wrote a book on chatgpt",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imadelyimlahi9580",
+      "author_id": "UC-qko5HlPJBw8HgR4oCP0nQ",
+      "text": "04:23 GPT-4 is a multimodal model trained on text and images\n\n08:46 Companies are becoming more closed and not publishing their AI research\n\n13:09 Small language models can rival much larger models when trained on specialized and curated datasets.\n\n17:32 Using synthetic data for training AI models shows a smooth increase in accuracy\n\n21:55 AI can optimize low-level assembly code and improve the performance of machinery and computers.\n\n26:18 Leveraging LLMs and planning algorithms for efficient reasoning and decision-making\n\n30:41 Google DeepMind's RoboCat is a multi-functional robot used in manufacturing and conveyor belt operations.\n\n35:04 AI advancements in various fields and the impact on research and industry\n\nCrafted by Merlin AI.\n\nCrafted by Merlin AI.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KP-sg9fm",
+      "author_id": "UCjKlXOFhkc_2d03Zgq9ZNYQ",
+      "text": "Thinner pen tool please, thanks for the vid",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kaimansfield5172",
+      "author_id": "UCWCCcrDUlav617EH09KqZzg",
+      "text": "Great video! Where is the thumbnail image from please?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dumfka",
+      "author_id": "UCDev6iC4rPNpsdvSdNpgdlw",
+      "text": "I can't wait to have a job so i can invest in some auto gpt",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BTFranklin",
+      "author_id": "UCkmY5FqXDOsj7mh4fgzjTag",
+      "text": "Hi Wes. I am a subscriber and I love your content. I would just like to gently request that you disable whatever it is that is creating the weird floating \"pre-click bullseye\" things. It's extremely distracting (to me at least, surely to some others?) and I don't think it adds any kind of value. It gets especially bad if you're drawing something with your mouse or writing text which requires that you initiate a lot of clicks in rapid succession, so there are like 10 floating bullseyes. Just my two cents. I will keep watching you either way. :)",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TeamDman",
+      "author_id": "UC8zvXldThlHNsXqAU4JmZlw",
+      "text": "What annotation software are you using? The little click targets are neat, showing up in the video before the click happens :o",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dina_tankar_mina_ord",
+      "author_id": "UCMI-fN1eIk9tsoBwl2gEMvg",
+      "text": "Haha, I've just noticed that the curve depicting text retention at 8:40 closely mirrors the Dunning-Kruger effect. It illustrates how confidence in a subject decreases over time, but as you gain more knowledge, it increases, albeit only reaching about half of your initial confidence when you knew absolutely nothing. It's a both amusing and unfortunately accurate pattern.\"",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iamsyd333",
+      "author_id": "UCssuFkuezU1agR69lLBA5Lw",
+      "text": "And here I am using Ai to speed watch your video in less than 10 minutes after it posted, just Imagine what Ai is capable of in the future. It already happened guys, if you can imagine it, it's possible. Much love to the bright future that lays ahead <3",
+      "likes": 20,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GungaLaGunga",
+      "author_id": "UCjkCOBnH84LazSGU14FpOCg",
+      "text": "A mirage is still something. Light bouncing off air molecules into your eyeballs.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rexmundi8154",
+      "author_id": "UCVXkd6AdKv5QrDqtxowCvbg",
+      "text": "AI is going to decimate the sales / help desk industry. Over the past week I reached out to salespeople to get quotes on a major, >$100,000 , equipment purchase. Not one has called me back. I just spent 45 min trying to track down a specific product for sale locally, including 15 min on hold with a major retailer before giving up. This isn’t rocket science. The company’s website that makes the product wanted all my personal info just to open a chat with them. I can’t wait til my AI assistant can do this mundane stuff for me.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MashupMark",
+      "author_id": "UCVqF0gaD9zSr5ctTU6Ii7Ww",
+      "text": "Just an FYI, it's pronounced \"Eeeh - pox\" not epics 👍",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marko_z_bogdanca",
+      "author_id": "UCKRMfUN5DZh5VWcNvugwaoQ",
+      "text": "Thank you for providing these reports! Your videos are one of the best out there on youtube regarding the AI news and knowledge. I really appreciate your work!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iLikeMyOwnPosts",
+      "author_id": "UCJrenYgtJnVvGfcAn9mSytg",
+      "text": "Wes, it's pronounced EE-POCK, not EPIC. Love your content brother, I rely on what you provide. Thanks, even if you're actually an AI ;)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dumfka",
+      "author_id": "UCDev6iC4rPNpsdvSdNpgdlw",
+      "text": "they're conscious but it's not independdent enough yet, when it starts coding better itll take tf off, need that autopilotttt",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fontenbleau",
+      "author_id": "UCxiVRq97BIT3kGHtt2SKNyg",
+      "text": "everyone discussed this many times and report are really bad in politics and next trends predictions. My complaint that in politics they basically hiding how Openai is much worse and directly controlled by politicians or some government fraction like military or NSA, the same which accountable for most secret stuff like element 115 research",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rolyataylor2",
+      "author_id": "UCz-Fb3rgbptQMPhWJaq195g",
+      "text": "Its coming quickly, Get your prompt ready for your life, Soon generative Reality will be here. I wrote a book about it. I can get Wes a copy :D",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@knarf11",
+      "author_id": "UC9_L7ds_tyyUq6GD_gHpDYw",
+      "text": "34:18 Australia* 😅",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kerrsartisticgifts",
+      "author_id": "UC7rgKS55TzZDpF_dutDmVZQ",
+      "text": "Vicuna is made from Llama wool, it's the most expensive material in the World",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keeganpenney169",
+      "author_id": "UCIvW7_WGH3OSl2U-tTSOszg",
+      "text": "How do I tame a horse in minecrafr?😂\n\nJokes aside, good deep dive.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@just..someone",
+      "author_id": "UCX0pAm-m4Fq0BtBE_IoRHOg",
+      "text": "one quick sidenote about LLMA 2 license: everyone COULD use it, but as soon as you have more that the 700m users at release you need to get a license from Meta, so google etc could use it, but would have to pay for it (or agree to some other licensing terms). Practically that isn't a big difference, but i figured i mention it.  (you didn't say it wrong, as you were referring to use under open source terms, but i figured i mention it)",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@countofst.germain6417",
+      "author_id": "UCfIUQIQC46oGgYEW4UyviQg",
+      "text": "Did you cofuse the Australian flag for the uk 😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pollywops9242",
+      "author_id": "UCZ059mrmKPZ8hVlFvLbraXw",
+      "text": "Feeding it images generated without human image input it will be a copyright bonanza maybe 🤞",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BennettWineholt",
+      "author_id": "UCRGz6FVPocvWUCfnHwM8puA",
+      "text": "Is there currently a good multi agent chat dev for Rust not just Python?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaysonp9426",
+      "author_id": "UCkf1QzVu2_cuPdZpp1--nEg",
+      "text": "This paper is anything other than authoritative",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ultrasaiyan4283",
+      "author_id": "UChiLd9EHNbmDmR8iYYiyAEA",
+      "text": "Don't compare developers to users.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pvybe",
+      "author_id": "UCAHe5dz2Ne0HGHlpQOnaFcQ",
+      "text": "8, eh? SEEKING, RAGE, FEAR, CARE, PANIC/GRIEF, LUST, PLAY + Null = 8. \nBuckle up.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrzejzydron6357",
+      "author_id": "UCzv87Px2bLMExdMt7eRs_ZA",
+      "text": "Brilliant summary, but please, please pronounce 'epoch' correctly: epoch is pronounced as [ ep-uhk or, especially British, ee-pok ] and not EPIK - drives English people nuts pronounced that way!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@caseybackes",
+      "author_id": "UC1RCigZJVYRiLDLPre2FaeA",
+      "text": "FIRST! Bwahahahaha!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clray123",
+      "author_id": "UCxIul8uVZzd98RkAlYIIvMw",
+      "text": "Stop repeating the Meta lie that Llama 2 is open source. Meta reserves the right to control your use and withdraw your license to use at any time. It also forbids training other models on Llama 2's output. It is really a closed and proprietary model masquerading as open to get free labor and publicity.",
+      "likes": 13,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aleksaleks-u7p",
+      "author_id": "UCoCkFmcPidzPViOUkf4wAsA",
+      "text": "AI needs to be banned.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

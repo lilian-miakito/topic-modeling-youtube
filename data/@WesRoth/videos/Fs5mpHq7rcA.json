@@ -1,0 +1,45 @@
+{
+  "video_id": "Fs5mpHq7rcA",
+  "title": "Comparing GPT-4 and Google's Bard AI - Who is getting closer to AGI?",
+  "url": "https://www.youtube.com/watch?v=Fs5mpHq7rcA",
+  "comment_count": 4,
+  "comments": [
+    {
+      "author": "@beautifulandtoolate",
+      "author_id": "UCSSRAeVx_290W6Zt8z1_FxQ",
+      "text": "Great analysis. My guess is google has competitive models. They are not rolling them out yet since these models are very big and the cost of answering a query is sky high as compared to a search query. It makes little sense from an economic point of view. Bard is likely a scaled down version of one of their large models, probably lamda. I am guessing it was produced in a rush and that's why it's quality is poor. In particular google might not have had time to tune it via RLHF. Bard seems more of a tool to collect human feedback to then train a truely competitive model. As for gpt4 we don't know its size or the volume of data it was trained on. Likely openai has used an unprecedented volume of data to train gpt4. Also gpt4 probably runs at a significant financial loss considering high costs accrued during inference. I expect google to present a much stronger version in due time. Will see...",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@randydp71690",
+      "author_id": "UCfPYJnFQ3s2fDY52_YmP5Qw",
+      "text": "Happy together is Mario Party.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-ei2kk2oh5v",
+      "author_id": "UCuwVjYoB1uzZumJHhNeJrVg",
+      "text": "A comment about the request to prove that there are infinitely many primes, starting around 16:30 in the video: I feel that you did not really appreciate GPT-4 here, you say it's \"pretty good\". Now, I'm not a native English speaker, so I might have misunderstood what \"pretty good\" means. But I would say that the GPT-4 answer is \"Excellent, cannot be better\". It gives the standard proof that there are infinitely many primes; strictly speaking it could have left out the first sentence, but on the other hand, the first sentence mentions Euclid, and it was Euclid who gave this proof. Next, every second line rhymes with the next (ok, the request was that every line should rhyme, but come on...). To nitpick, it reuses that \"one\" and \"done\" rhyme; I'm not sure if that's considered to be good poetry, but on the other hand, it was not asked to write a poem. As for Bard's answer, it makes no sense at all. At best, it outlines the idea of Euclid's proof, but only if you are super nice and already know how Euclid's proof goes you could maybe interpret \"prime them\" as the seed to the idea that GPT does explicit when it constructs P. Because as you remark, \"prime them\" has is not defined, and has no standard definition. Next, Bard cannot even make every second line rhyme. And, as you also point out, the second part is just fluff, although better than the first part as it's at least is a little poetic. (It's kind of interesting that both models seems to try to write poetry, even though that was not requested.)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elbee2324",
+      "author_id": "UCAlLvN8gcCeLRl-hXJjxNlw",
+      "text": "Wow. Bard just looks terrible. Sometimes wrong, relatively bland, and not always actually dealing with the query properly. Not that GPT is perfect, but it's so much better. Don't forget that Bing can now directly link into Chat GPT and use the prose format to search information, and won't give you a bunch of junk ads filled with irrelevant anecdotes and possible misinformation.\nI just find for simple search queries, like \"list me ten recent fantasy books that have won awards\"... I'll actually get useful information, rather than trash news websites with bad answers. You can then query those results. \"Who wrote X? What award did they win? What other works have they written?\" that sort of stuff. It's actual useful information, which is what consumers expect when searching, and you don't need to parse into search engine text to get it. Consumers don't expect ads. They expect info. Google's searches are getting more and more redundant as GPT's model improves and is adopted more widely.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

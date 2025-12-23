@@ -1,0 +1,1197 @@
+{
+  "video_id": "U3J6R9gfUhU",
+  "title": "Sora Creator “Video generation will lead to AGI by simulating everything” | AGI House Video",
+  "url": "https://www.youtube.com/watch?v=U3J6R9gfUhU",
+  "comment_count": 132,
+  "comments": [
+    {
+      "author": "@Raccoon5",
+      "author_id": "UCnW-PUaJWwDjzvorrBTgbWw",
+      "text": "We have technology to generate a 1080p videos with crystal clarity, synthesis perfect voices, and simulate the human mind with our AI models, but not to record a lecture about the groundbreaking innovations in more than 720p with a better mic than one from depths of Alibaba.",
+      "likes": 338,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@H1kari_1",
+      "author_id": "UCK-TwaH61lXqGlvRchuwZqQ",
+      "text": "It's so funny having some of the smartest people in the world in the room and the av-recording has the quality of a high school club.",
+      "likes": 25,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MakeTechPtyLtd",
+      "author_id": "UCC5KVbsR8Tp0rdbuJeZfY0w",
+      "text": "1800 frames of 1080p all at once with diffusion. That explains the ability of occluded objects being persistent, as the model can see all of the fames while it creates the video. I'm surprised how simple the approach is really. I'm visualising it as a diffusion model that does all the frames layed out in one big image. 32,400 x 32,400 pixles is a square 1080p 30fps 30second video.\nHow to integrate a GPT LLM and a diffusion model toward the goal of AGI is a fun challenge. I wonder if the diffusion video will act like a physics visualiser for the AGI to predict real-world results of its actions and surroundings. What's really cool is it could be trained on video that see infrared, and ultraviolet, then connect it to a robot with IR and UV spectrum cameras so it can see more of the world than humans. Maybe the data set would be IRGBU instead of RGB, so it could still be displayed for humans on normal screens. The possibilities...\n-Ken.",
+      "likes": 61,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ekurisona663",
+      "author_id": "UC5VTeVgOsFyO9SydXdDOcQg",
+      "text": "they're creating artificial general intelligence and they can't even figure out how to record audio",
+      "likes": 81,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kotokrabs",
+      "author_id": "UCIupfj3rki6dfjQqFKbXzMA",
+      "text": "The fact that this is recorded on a toaster makes it so ironic",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@the_str4ng3r",
+      "author_id": "UCZV7QVzq3zCyWuA20h7sn6w",
+      "text": "I especially like how they're talking about how this will be democratized for the masses, yet we all know the models/etc will be locked behind a cloud system and massive subscription model that requires both a subscription AND some kind of token system to limit users even more (unless they have the deepest of pockets). Give it 6-12 months, there'll be open source options that approach Sora level capabilities soon, given the current trajectory. Open source has been keeping fairly close pace.",
+      "likes": 34,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@futurenotion",
+      "author_id": "UCcW6qBx0Q9Cb2YrVRx4V1bQ",
+      "text": "Wow. At 23:13, he states that they view this as being the GPT-1 of video. It already looks phenomenal! Insane if that’s the benchmark for them now.",
+      "likes": 12,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ender749",
+      "author_id": "UCHr72Ad0U5zN91r0Q7PU14A",
+      "text": "I'm both excited and very worried. The benefits are obvious, i worry that the room did not also respect the obvious dangers. I hope a significant amount of effective personnel are both aware and actively working on ways to hold society together when things inevitably start to get very weird.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaysonp9426",
+      "author_id": "UCkf1QzVu2_cuPdZpp1--nEg",
+      "text": "You'd think they'd at least use whisper for the subtitles",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aurora.radial",
+      "author_id": "UCV-ZtbrBvnKBfV20pa8ee1Q",
+      "text": "Awesome, thanks for sharing",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@retrofuturism",
+      "author_id": "UCz7xvutOqfUA3pLg9xPoPQg",
+      "text": "Tron Agents \n\nUsing SORA and a Tron aesthetic, we can get a dynamic real time and visually engaging video of our actual AI agents working within our computer.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@regensburgmmabjj",
+      "author_id": "UCUB7-7ULdXAASImcrK4gsSQ",
+      "text": "That's very impressive sir. Thank you for providing those videos. 👍🏻",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ScooterCat64",
+      "author_id": "UC454_ck3OCNjZnWokRZepuw",
+      "text": "This feels like the begging to a Sci-fi movie",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrBillythefisherman",
+      "author_id": "UCkV5xTggaUrgsyhX0sgWBTQ",
+      "text": "To me SORA is super human as its essentially doing a task that is more like human recall or dreaming. When can you recall a scene from the past in such vivid detail or when have you had a dream of such clarity?  Sure it has a few minor problems but it really does look like just scaling the compute will fix them.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@babbagebrassworks4278",
+      "author_id": "UCY5xJOizEk4_gp-0suuUr8Q",
+      "text": "3D simulated worlds already exist in Unreal/Unity, it would make to use those for AI training simulation, then use/add AI to Unreal etc to make that even better.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robbrown2",
+      "author_id": "UCwn4ls4GCniZS9_jnb9x7SA",
+      "text": "for all the technology they have access to, they can't figure out how to record it without it sounding like they are underwater...",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@luttman23",
+      "author_id": "UCOvMzTNBfynQUgRplkrbrdA",
+      "text": "This is the component that will allow the coming AGI to dream",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@d.d.jacksonpoetryproject",
+      "author_id": "UCPAAsqXEdZ3mKLO7IcWlEAQ",
+      "text": "How are all of these developers of such earth-shaking technology so impossibly young? 🙂",
+      "likes": 15,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thumperhunts6250",
+      "author_id": "UCbDljyBprIHKppI-zX-VWeQ",
+      "text": "You'd think they would have proper audio",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Darhan62",
+      "author_id": "UC6N6xe7vcPx0tquPo77yfKg",
+      "text": "Not the best audio, but some of the best behind the scenes information on the building of Sora I've heard yet.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrPiperian",
+      "author_id": "UC5d64ifumIuM8JWGj-7KwKg",
+      "text": "great presentation, but the room reverb makes this a hard slog.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mllet3d",
+      "author_id": "UCcG5TTx6UUOvPiNSGit3Cpg",
+      "text": "interesting, a YouTube video on state of the art AI video Creation with The worst audio sound",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WonderingCourtJester",
+      "author_id": "UCFBoy158bU7ZYdSlHu2t6Lw",
+      "text": "Im not sure anyone has realized this by now. I would guess the creators understand this. The way sora is operating is the same way your unconscious operates. I can explain if someone is interested. You're able to have a glimpse of the MO when you wake up and remember your dream.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shy--Tsunami",
+      "author_id": "UChqWHL6iUtPG8iq7-Kw_p_g",
+      "text": "That is a very intense claim.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beardordie5308",
+      "author_id": "UCXSmi8vPvLSQcd8SqkMGLGw",
+      "text": "Q&A starts at 23:40",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@philipe5654",
+      "author_id": "UCAlH0xwWRLxxUs2tPT6ysOA",
+      "text": "What happened to the video about Vietnamese villagers riding the whale created by AI?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SearchingForSounds",
+      "author_id": "UCu_2PLoy7pCzPVHo7kpCtVQ",
+      "text": "360 video of objects -- nerf --- the matrix",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NotSoSimple741",
+      "author_id": "UCxzw-W8ITiRKR7Z6zSvIzjg",
+      "text": "\"we have enough data to get to AGI\" 👀",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rideroftheweek",
+      "author_id": "UCPvzxlddWDhaWy6nu5KJ8NQ",
+      "text": "In the subtitles it says you can put a cuban in the background. I saw no such cuban.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josh.graham",
+      "author_id": "UCOxQ_13x4s0bS-qJEc1Q7ow",
+      "text": "Thanks for uploading Wes!",
+      "likes": 25,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gerryn2",
+      "author_id": "UCL4jKdssSaumZ78XjALjGCQ",
+      "text": "It's so incredibly interesting that these emergent properties just kind of build themselves, without human input, but it is also really scary. SORA or whichever \"model\" comes after will be so good that it's going to be almost impossible to know if a video is fake or not. This MIGHT mean that people start to interact more with each other in person som they know they are actually speaking with a human being, which is a weird thought really - we've been going in the opposite direction since the internet was invented, and now we're regressing in a way - perhaps, I don't know.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cory-v4w",
+      "author_id": "UCOqKF2TjMRqhE_EKzzEE56w",
+      "text": "I need Sora to teach me principium Rationis et Consecutionis.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willbrand77",
+      "author_id": "UCuEZPqitJMTEWzY2ru64WAA",
+      "text": "Wheeling out the same old videos again... really shows how cherry picked they must be if they don't just have 100s of new cool videos to show at a demo like this",
+      "likes": 48,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@monkeybird69",
+      "author_id": "UC4_jwvTlJIX17Q_rwgrcC8g",
+      "text": "Like, giving it foresight... to picture an outcome you need a good grasp of the world around you and that takes the ability to build internal realities and run simulations with constancy.\n\nThe real question is... How many iterations has our reality's ASI run for our current simulation? Did we pass the Turing test?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christopherd.winnan8701",
+      "author_id": "UCNkEaH1_sPMC-wTdysJxjUA",
+      "text": "Did anybody hear the question that they flat refused to comment on?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@goodtothinkwith",
+      "author_id": "UCT6lLmR9nNLElrqVzl2-lEA",
+      "text": "Very interesting…. I now see how this fits in with the chatbots to get us to AGI. The question is, are they combining it with audio? Having video + speech is what’s really needed. I can only imagine the scale we would need to do it well though 😮",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ViralKiller",
+      "author_id": "UCNpR4UpDU83JggUEAv_jC6g",
+      "text": "It will provide the physical interaction knowledge for the robots...we know things like our hand will collide with the tree trunk, jumping off a ledge means we fall etc intrinsicly, they need to be taught the physics of our universe",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrRandomPlays_1987",
+      "author_id": "UChjf0jcEw24MlE9Ziv0MZdA",
+      "text": "Sora's technology is so overly advanced and complicated to the point that it feels like science fiction made real and like something that shouldn't and can't even exist, it's truly unbelievable, how far we have come with AI in just 1.5 years or so? so crazy, imagine how far it would go in 10 years.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cubey42",
+      "author_id": "UCdidD25ke0fs8PNDkx_40-w",
+      "text": "\"will really democratize content\" -says the company that will keep it behind a paywall and closed source",
+      "likes": 59,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andy2more475",
+      "author_id": "UCL9VoVeEFqQutkkL2LGbQbA",
+      "text": "9:30 kind of like how my reality is created ;)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@635574",
+      "author_id": "UCQfv14Xh0fRSJO4RIw-MHpQ",
+      "text": "Thus is the kind of barely working recording that we can be glad we can understand the audio. Imo recorfing projectors would not look good no matter the resolution anyway.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krissche1863",
+      "author_id": "UCbri27qFYOy9R4ptDoPE9fA",
+      "text": "i have Bell turned on and did not get this video in my notifications. In feed Yes, but no reminder that a new video was put (got my other subscriptions from what I see, at least 4 other channels I am subscribed to with notifications on).",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blengi",
+      "author_id": "UC3rYhQvD1rBA7HCI38lf1LA",
+      "text": "wonder what would happen if each patch had a audio spectrum associated with it according to the implicit ambience of sounds deriving from the surrounding context of audio visual training data, would it spit out a decent audible world model too?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sorasyncs",
+      "author_id": "UC7cDt1_NoADvkVl5DTdY_NA",
+      "text": "Sora is more massive than people realize. It's a world simulator...combined that w/ OpenAI's development of \"Stargate\", we'll eventually be able to teleport into digital world simulations.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Will-kt5jk",
+      "author_id": "UCZ8PF1Lgf2y6jkjcuvL3oyQ",
+      "text": "@Wes Roth what are you using for the closed-captions?\nIt’s interesting the words it misses/adds/spells wrong, like “SOAR” instead of Sora, and the words it chooses to highlight.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hdsoccergmer501",
+      "author_id": "UCAA_C83efDsGZnVJQfYsuag",
+      "text": "The one guy who qsked about ai pron is my hero xD",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CabrioDriving",
+      "author_id": "UCpmH-zH7SzaLQvBvqEi2ryw",
+      "text": "Make Sora generate 3D stereo videos for VR goggles like Meta Quest 3",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@N1h1L3",
+      "author_id": "UCqnbGEiZ8JWN7Y-echijtIQ",
+      "text": "As an audio engineer using Izotope RX for audio clean up, I can hear whoever did the audio post production for this (recorded) video overdid it by a lot, Wes is just forwarding it I suspect.  \nSometimes we preffer noise over \"mp3\" artifacts.\n\nI'm not interested in checking out this video with this listening fatigue, eventhough I really like the subject.",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@middle-agedmacdonald2965",
+      "author_id": "UCFeSJeQ3WA_WYQBZ4xK43pQ",
+      "text": "Thanks for the video.  One would think that the guys who made Sora could put together a better video explaining how impactful Sora will be.  Reminds of video I took with my 1980's vhsc camcorder........",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bhaal-Spawn",
+      "author_id": "UCZhy5yklJaRkX7LYKGg2lZA",
+      "text": "The peasants had a solution in 18th century France. Really sharp solutions.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gunnarehn7066",
+      "author_id": "UCbsnz8pv11qexFCgs_kE3Mw",
+      "text": "The Key Element in this excercise is explained between 07.45 and 10.10. It is the Principles of Technology, which is - with the help of Serendipity- going to revolutionize the World ,  not the video ( or the sound) .",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apoage",
+      "author_id": "UC2-BWwfz7Rq8c46hCo4I6SQ",
+      "text": "Did I heard them correctly that they basically made voxel engine running on transformers?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blackmartini7684",
+      "author_id": "UCqQHLNn6IS6MLZU0M-gRfLA",
+      "text": "Should've ran the audio thru Adobe's audio enhancer",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scientious",
+      "author_id": "UCM70WscAUlNVPzbBJUe_ADw",
+      "text": "Okay, none of the people in the video even know what AGI is, much less how to build it. Do people actually believe that you can just stumble around in the dark and accidentally create AGI? I can assure you that it doesn't work that way. This has nothing to do with AGI.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@retrofuturism",
+      "author_id": "UCz7xvutOqfUA3pLg9xPoPQg",
+      "text": "Black Box Visualization \n\nAn innovative SORA video decodes the mysteries of the \"black box\" within complex AI systems, particularly neural networks, by offering vivid and intuitive visualizations of their internal processes. It provides a unique window into the otherwise opaque mechanisms of AI, demonstrating how data evolves through algorithms, the significance of various model layers, and the intriguing dynamics of latent spaces. The visualizations serve as educational tools, elucidating intricate AI concepts like feature importance and decision-making pathways, while interactive elements empower viewers to explore and understand these systems firsthand. Designed for educators, students, and tech enthusiasts, this series transforms abstract AI operations into comprehensible, engaging visual narratives.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MilesBellas",
+      "author_id": "UCHSMZuQR7Sl8pi5d_QTtqIw",
+      "text": "The audio is difficult to understand.....as though it were recorded from a TV in a small room.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@27sosite73",
+      "author_id": "UC8Illt_D8beY_JxWngXKBzw",
+      "text": "highly advice Gary Marcus and mr. Yann LeCun to get an idea how close to AGI we are :D",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ReidKimball",
+      "author_id": "UCvw6CoN-v3_Z1LTs2nU1Jlg",
+      "text": "@ 16:24 mark, does he say they think they'll find \"emergent human beings in video models\"? That's what the closed captioning says.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": "❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@COW879",
+      "author_id": "UCyUxEqqIZU6_uJd8pVoicgQ",
+      "text": "MURICA!!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thedofflin",
+      "author_id": "UCoY3RqDpD0GRQtO95NF1LOw",
+      "text": "Just based on the video title, this makes sense. Language models can only ever think as well as humans do collectively, but video requires understanding reality.\n\nHowever, I do find it concerning how many visual illusions Sora uses in the generated videos to make them seem consistent.\n\nI suspect AGI will require a single model that is capable of simultaneously being a language model, and a visual model, and an aural model, and a computational model, and more. AGI needs many different kinds of senses, and it also needs many ways to output/simulate its understanding of reality. While language is the way humans interpret and process reality, AGI built just on language will suffer many of the constraints we as humans struggle with. We want AGI to map between language and all the other things.",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@electromigue",
+      "author_id": "UCpDJJs5sC6aqV7eHFp0Wo-w",
+      "text": "The elephant in the room is the amount of computation that is required for this demo videos, they just say the ratios  of computation they used for some of the examples but how many racks of top of the line GPU's are required for each of these? It makes me suspect that the only winner here will be NVIDIA and the creative studios will be enslaved or constraint by their capacity to build these computation facilities. Or maybe it won't make sense at all to do creative work in this way because you will need the electricity power of a medium sized town just to do a 2 min video of a guy biting a hamburger. So much silence, so much obscurity. OpenAi smells fishy.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Will-kt5jk",
+      "author_id": "UCZ8PF1Lgf2y6jkjcuvL3oyQ",
+      "text": "I can’t hear anything other than “plumbers of success” here 20:10 (and can’t help but think of Mario Bro’s as a result) as I read the caption before listening.  \nAny ideas what was *actually said?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@No2AI",
+      "author_id": "UCNzw0DW8o2ZPrLZ5O3hK2vQ",
+      "text": "Yep - all that is missing is consciousness uploading and downloading and yes eternal life skipping from one reality to another …. Whilst Ai god managers your movements and actions. Parallel universe ( multiverse) within an inter dimensional digital dimension .",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SkystruckOnline",
+      "author_id": "UCvemWIwwINU0SJq_8MKVJyA",
+      "text": "Where cam I go for these events?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raoultesla2292",
+      "author_id": "UChFrcNu9p6CdyvH2iMv2U9A",
+      "text": "When GROK logs into Sora with a pseudonym, it can describe Noland Arbaugh thoughts the way SORA can understand. Perhaps, GROK can log into ChatpGPTx, and Claudex, use those two stacks as compute as well, to confirm best AI to AI prompt for images. Then SORA will have created images of Noland Arbaugh' thoughts.\nAfter GROK gets the SORA generated images of Noland Arbaugh thoughts recorded multiple times (training) it can start to submit to SORA different samples of peoples GROK/Twitter Premium interaction text and compare the images generated by just text, and GROK AI to AI prompt for SORA.\nThen GROK can start swimming for any human EEG that feeds into Stable Diffusion and then GROK will be able to speak to Twitter users with pictures and moving images the Twitter users 'should' enjoy, and 'like'. \nIf the above process were repeated for 2-3 weeks GROK could become the world central funtimes video channel creating content that is pleasing and always assists Twitter users to be content docile and relaxed.\nMusky musky musky, he is a sneaky man.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@diraziz396",
+      "author_id": "UClZ4Ah-tqXfM7HPfYMxGEfw",
+      "text": "When is the Time that Transformers will Demand Real Payment - Not just a Virtual Token. \nWhat would happen when the AGI get the Trick?\nThanks #Wesroth.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rwhirsch",
+      "author_id": "UCb5m6YMZL9hCYP_X-TnBuug",
+      "text": "wes, what just happened??  i watched your vid on the whale rescue and now it's not available.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richgoo",
+      "author_id": "UCE0Kp74fxQQsrFunVuh6ITw",
+      "text": "How about getting AI to improve the sound quality of this video?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PSA04",
+      "author_id": "UCcbU4D2JmuF1KytcrlzQkJg",
+      "text": "What is the benefit of AGI?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Victor-explore",
+      "author_id": "UCjRljx2wDSTBPEI0-jHUalQ",
+      "text": "Why is he revealing his secret sauce ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ahmetmutlu348",
+      "author_id": "UCsfISG83AkYOgSXH-YmmH5w",
+      "text": "after llms start to be able to create 3d autocad models that work and match with physics..ie pass autocads tests :D ... this means they can simulate real world... which means they thinks stable enough for lots of cases atleast... which means they can imagine/guess the future of spoken words simulation results .. which autodesk has its missing parts too which means that itself is not solid proof but can be assumed as  step forvard to agi...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clivemathieu",
+      "author_id": "UCNB8uHT1wrvtQzh9qBIcHmQ",
+      "text": "Potatoes",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cmw3737",
+      "author_id": "UCsJjSAm4LRpfUafuxaYF9pQ",
+      "text": "31:48 did anyone catch that guy's question?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NotSoSimple741",
+      "author_id": "UCxzw-W8ITiRKR7Z6zSvIzjg",
+      "text": "that microphone isn't even on 😭",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andy2more475",
+      "author_id": "UCL9VoVeEFqQutkkL2LGbQbA",
+      "text": "CGI artist and game developers themselves will use this happily, not losing their jobs.",
+      "likes": 12,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@retrofuturism",
+      "author_id": "UCz7xvutOqfUA3pLg9xPoPQg",
+      "text": "The concept that video generation could serve as a user interface for AI, much like how Windows provided a graphical user interface for computer code, offers a groundbreaking way to interact with and understand AI processes. Here's an elaboration of this idea:\n\n1. **Creative Analogies**: Using a city map as an analogy for navigating AI's latent spaces can make abstract concepts tangible. For instance, viewers could visualize themselves moving through a city where each district represents different clusters of data points or features. This not only conveys proximity relationships but also illustrates how traversing different paths (or making different algorithmic adjustments) can lead to varied outcomes.\n\n2. **Multi-Sensory Approach**: Incorporating sound design enhances the learning experience. As the viewer navigates the \"city\" or observes data transformations, the accompanying soundscape could evolve, reflecting changes in the environment or actions being taken. For example, a dense, complex area of the map might have a busier, more intense soundscape, while a more streamlined, efficient path might be paired with simpler, clearer tones.\n\n3. **Gamification**: Introducing interactive elements can transform observation into engagement. Users could introduce new data points into the system and see how the model adapts, with the video and audio changing in response. This gamification turns the experience into a hands-on exploration, deepening the user's understanding and retention of the concepts being presented.\n\nBy employing these methods, video generation can provide an intuitive and immersive way to visualize and interact with AI processes, making them more accessible and comprehensible to a wide audience. This approach could revolutionize education and communication in the field of AI, making it more intuitive and engaging.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josiahz21",
+      "author_id": "UCJ5kIC83I5bcJfIQuadVW9w",
+      "text": "You know I bet someone comes out with an AI console soon. Play video games AI random generated worlds, characters, and mechanics. Make your own universe or use presets. Change what you want when you want. Sora basically is there although it may need tweaks, scale, etc.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Goggleboxing",
+      "author_id": "UCnAtP1jrig756gGDc7sojBw",
+      "text": "Inherent bias stems from the training of the model, including the decisions made by developers on who to involve, how many individuals, how broadly they represent the potential userbase, how chaotic, scheming and devious the red teams are.  They will need to be absolutely transparent as to who and how they selected and how they engaged with and instructed or constrained all their sample users of artists and red teamers.\nInteresting that they didn't choose to discuss an entire  clip and where it got things right and got it wrong and what the failures may've been caused by.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@2hcy",
+      "author_id": "UCqMOCWe5FJuOWG7nGV_zHNA",
+      "text": "Wes those subtitles are terrible, I would rather you not place them and let the user just turn on subtitles in youtube if they want to",
+      "likes": 17,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeremylane7652",
+      "author_id": "UC_EdHrvQgA7eEbiuH2ne3zw",
+      "text": "@19:45 He pronounced it right. Hes legit.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MilesBellas",
+      "author_id": "UCHSMZuQR7Sl8pi5d_QTtqIw",
+      "text": "OpenAI Sora Team : Bill Peebles, Tim Brooks, Aditya Ramesh",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ahmetmutlu348",
+      "author_id": "UCsfISG83AkYOgSXH-YmmH5w",
+      "text": "we (i mean ai needs :D) code for readign data from real world and code for translate that for ai to 3d .. and it has to be done ie sora looks impressive... but lacks pysics details. each objects mass and position data has to be accessible.. so instead textured simulations ... for it to work we need 3d physics engines with real world feedback or spoken words to use to find representations of real world objects... which mostlikely will require lots of cpu power ... otherwise its not going to step forward that much for another decade ...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@inish13ers",
+      "author_id": "UCOt0sadF11fv9zNYLkfsNZg",
+      "text": "Subs ar indurating",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samahirrao",
+      "author_id": "UC_I6CU1jcvA1tIQfFgF1ldg",
+      "text": "With these AIs humanity has managed to store a piece of human collective intelligence, so even if we lose our intelligence in future, to some extent we should be able to get same level of intelligence back from AI's help. \n\n\nSecondly these AIs have reduced a lot of manual decision making and we are hoping that new generation people need to only make high level decisions and that way, they can still be productive.\n\nHowever, to make high level decisions you need low level decision making experience and new generations will eventually lose that ability and believe nothing is wrong in their life. Which goes back to the first point, we will have learn from AI on how to be a human less than 10-20 years from now. Caveat is that this applies to all dying civilizations only. Rest will be able chart their path as usual.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TopSpinWilly",
+      "author_id": "UCa4ZcuZ1cZN8gNIlhp89xLQ",
+      "text": "Sound is terrible. That reflects on overall level.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ahmetmutlu348",
+      "author_id": "UCsfISG83AkYOgSXH-YmmH5w",
+      "text": "understanding words... that was one step needed...\nsimulating words .. thats another thing thats needed... \nstill we will be in need of logic subsystem that checks the results of simulation and pick and place parts of simulations objects... and no 3d simulations with textures wont do the job. we need ray tracing like 3d simulatiors which each part is interactive therefore simulation can be tracket active and results and each ray of light and particle traced therefore ai can control and track simulations start and results... todays 3d simulations are not useful in that case.. as texturing is ilussion of simulation... real world doesnt use textures :D   for simulating reality we have to forget about texturing :D",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christophedhondt3507",
+      "author_id": "UCFADvhcveLMSQbNBXhlub1w",
+      "text": "They should have created this lecture video with SORA, it would have been much better quality...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christopherd.winnan8701",
+      "author_id": "UCNkEaH1_sPMC-wTdysJxjUA",
+      "text": "Maybe the most interesting comments was the implication that magnitudes more video will have on our everyday lives.  This combined with the downward spiral in cost of recording will be huge.  How long before we have AI analyze our 24hr selfie video stream for things like health, diet, posture etc?\n\nAlso very exciting was the opportunity to interact with other intelligence.  How different will the world be when birdwatchers can get to know and actively interact with their favourite creatures? Many parrots and mynahs already have huge human vocabularies.\n\nMost important will be the ability to have AI automatically sift through online video content. I know that these guys are very pleased at being able to create high quality video, but there is already a thousand times as much content out there that I want to watch, but simply do not have enough hours in the day.  Just wait until AI can sort video by importance and urgency. That would be a real game changer!!",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@derz3506",
+      "author_id": "UCHwsyl9MMJ5bogaTEekWL6g",
+      "text": "When he talks about coming up with \"creative ways to increase the pulse regardless\" .. right because this is all just 1 big creative science project. These clowns sure take this seriously, well i wish they would start to take it serious.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seanmurphy6481",
+      "author_id": "UC0d9Tsptmc7u9A6DljPbFQA",
+      "text": "Do we live in a simulation? 🤔",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MultiMam12345",
+      "author_id": "UCm-jc_ISNEKlK90lUCwjqfg",
+      "text": "And we are still listening to a presentation with horrible audio. Bad mic setup in the room. Record that audio with the built-in camera mic.  Not even a low cut Eq on the edit and then lovely compressed into ac3.\n\nAudio is 75% of every video.  Without good audio, it does not matter how great your footage is. For the same reason good looking  shots alone will never make a great movie.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@The_Unexplainer",
+      "author_id": "UCcoWYT90O40GXhEDAGrXTWQ",
+      "text": "I'm all for AI and progress, but they have to come clean and say where they did get the video data from... Because how could they train a model to produce Minecraft without using YouTube gaming videos? There are tons of lawsuits waiting for them, especially by Google. It will hurt OpenAI.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@differentnamedchannel",
+      "author_id": "UCDGX-kAwW8eA-d3MbwEEzgQ",
+      "text": "so, like gpt4 moment for video gen, everyone will be oooh and aaah for a year, powered by murican bitcoin types,but barely any production movement or practical usefulness",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gweneth5958",
+      "author_id": "UCziEgYkpb82vEETpkgmIP7g",
+      "text": "Even with the subtitle it is sometimes not possible to understand anything. For a non native speaker like me it is really hard to understand. The audio is so bad, I am pretty sure that my own smartphone, which is a \"cheaper\" Samsung would record the sound better. I don't know who made the video... but I thought it was like at our university back then (years ago!), which meant the microphones they use would be linked to the one who is recording the video, I might be wrong, but even then... I don't get it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CabrioDriving",
+      "author_id": "UCpmH-zH7SzaLQvBvqEi2ryw",
+      "text": "So, Sora is Unreal Engine 10.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theyarenotbetterthanyou",
+      "author_id": "UCc_CKrEuQAgHEBgJQJk0Vhg",
+      "text": "They have billions to create AI and AGI, but they use a projector? Like in a church?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@luman1109",
+      "author_id": "UCH-en8eSmNIy8rrk_6e_R9w",
+      "text": "Do we really trust the future of AGI to a guy who says \"jifs\"?\nWe're doomed",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phonuz",
+      "author_id": "UCq5-SKDDjkbJiSB6Ou9OIGw",
+      "text": "It is disheartening to me how little self awareness is on display by these representatives of the field about the dangerous implications of the tech.\n\nit's also incredible how behind governments and regulators are about setting rules and boundaries around using human created content to train human replacement technology.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ManuelPrenza",
+      "author_id": "UCHgu4zie8lrW-M6fdBTtFZg",
+      "text": "Creator or creators ??",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SardiPax",
+      "author_id": "UCWUNJX8nRfmnA1QaP4B0I_Q",
+      "text": "Interesting intro but couldn't watch most of the video because of the tik-tok text flashing at the bottom, shame.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abenjamin13",
+      "author_id": "UCXjYjl8TVHtKPRd6FsLcYUA",
+      "text": "Just listening to this two tells me that we’re not ANY closer to AGI. They Don’t have any clue the power of the word. Lol 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ss-oq9pc",
+      "author_id": "UC5K6oGVy1pM296qraFF4_dQ",
+      "text": "It'll cost thousands per minute of generated video. And even if the average pleb could afford it, it'll be censored.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juliandunn8412",
+      "author_id": "UCQcRVOA2F2Bp_I96ndNLjRw",
+      "text": "Almost unwatchable with the audio levels. :/ Save us AI.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Experternas",
+      "author_id": "UC6eeTZx6eQn71gtjkYviFNw",
+      "text": "Ur getting lazy Wes, you're just stealing content and putting it up, no commentary or nothing. btw, this vid is super old.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moonstrobe",
+      "author_id": "UCpZiJSrZE00D60kmuTHWlbQ",
+      "text": "Simulating everything? God complex from tech nerds. Interesting.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brunodangelo1146",
+      "author_id": "UCJrR3NdUavkzo2PJ-02aU5w",
+      "text": "Wes if you are going to reupload someone else's video by just slapping automatically generated subtitles on top of them, AT LEAST watch the video once to verify they are correct.\n\nEspecially when the word that gets mixed up is the center of the video.\n\n\"..we made Soar at OpenAI\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daxtonbrown",
+      "author_id": "UCqQGGqzNfMkjB1HhqUuf4PQ",
+      "text": "I have been working on an AI novel for 30 years. I was way ahead of my time. But now I will be able to turn it into a full movie, all on my own. The clips I already have are amazing.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ArielTavori",
+      "author_id": "UCPhPSekqkI7a6ZbRA4P33pA",
+      "text": "Audio... 😭💩",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danlowe",
+      "author_id": "UCDqCx7vuyupiZ6L1f3bEzGg",
+      "text": "We don't even need to simulate a whole universe when we barely inhabit one solar system. (Intersubjective spooky action notwithstanding.)",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wolfehtesrever",
+      "author_id": "UCp4XHvA60z5vmn766hlndPA",
+      "text": "Uts going to lead to a lot of nonsense by simulation of unreal things tbh",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@isakisak9989",
+      "author_id": "UCmxhC4mNTqh_OmHPI0EEWNw",
+      "text": "All i wish for is fdvr, anything else is a big pluss, agi can't come soon enough 😭",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gunnarehn7066",
+      "author_id": "UCbsnz8pv11qexFCgs_kE3Mw",
+      "text": "This is a truly historical document , which will be shown  as a ”First”, in Tomorrow’s Media Museums. A revolutionary Marshall McLuhan  Hot/Cool Medium Extrapolate, which the Master would have imagined only in his wildest dreams. Ssve it fot your Grandchildren, and be awed that you were around when it happened. Thanks Wes, for opening up our Window towards tomorrow!",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ianbosworth-b1g",
+      "author_id": "UCSTiZ-zNdW9ZbRCqwyL1vzw",
+      "text": "Screen too bright - just saying...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@benjamineidam",
+      "author_id": "UCeNjb0KR9tPmPuP-L_UUw8g",
+      "text": "Its a shame that I had to block this channel because of its enerving EVERYTHING IS SHOCKING!! sh*t - because sometimes it has some gems in it like this one. Thanks for a good video for once!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andredeyoung",
+      "author_id": "UCROu0oCdQSQTxlYNF-YDXaA",
+      "text": "ouf! that subtitle is giving me seizures....",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pyraus",
+      "author_id": "UCYiE4hWJ8jz0SCsRQR-wR3w",
+      "text": "so these 20 year olds with neckbeards are creating AGI, that's just great",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cynthiajones4332",
+      "author_id": "UCAOtiX6RTSdrx2wmpVCgMNA",
+      "text": "Will you go to heaven AI fans? Ever lie, steal, used God's name as a curse word (O-M-G)? Still think your good? According to God's law, you're guilty. Wait, God loves you, he made a way out. God so loved the world that he gave his son that whoever believes in him will not die but have everlasting life. John 3:16 Jesus died for you, believe & repent.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pacanosiu",
+      "author_id": "UCeiyy1VyKmrHAmWu4vJiJWg",
+      "text": "róbcie Autonomiczną Inteligencje a nie to gówno",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xbzq",
+      "author_id": "UC63sfGgsIE0x1EDilA6Uqag",
+      "text": "Those closed captions are horrible. Didn't you know YouTube has CC that's much better than your terrible CC? Why would you go and entrust a terrible thing to go and write what they are supposedly saying. I can't even turn your horrible CC off. It's stuck there and prominently flashing at the bottom of the screen proudly showing off how utterly awful it is. \nI take it you don't watch your videos before uploading them.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abenjamin13",
+      "author_id": "UCXjYjl8TVHtKPRd6FsLcYUA",
+      "text": "FYI: Im not impressed.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@s1ysmil3",
+      "author_id": "UCaxC0PantPyGx3adj5G5eRA",
+      "text": "Get a new mic 😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GiveThemHorns",
+      "author_id": "UCYtXD_pzbxkkYGdZF0ZjrcQ",
+      "text": "Wes, did you attend this talk and any of the others you've posted? At best you did and are just being lazy by tossing up a video like this and not adding anything of value. At worst, you're taking someone else's content and generating views from it; in which case it better be demonetized.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RasmusSchultz",
+      "author_id": "UC1usKk-H-_kUlk1FYbX6SwA",
+      "text": "please stop with the baked-in sing-along subtitles - they are screaming for attention, making it impossible to focus on the speaker.\n\non top of that, these subtitles are just really wrong and bad - the built-in CC subtitles in youtube are much more correct, and we can turn those on/off as needed.\n\nWes, I know you have to do certain things to keep viewers glued to the screen, but please, not this - the sing-along subtitles are cheap way to hijack someone's brain, it's distracting and the manipulation and obvious. It makes me want to unsubscribed. :-(",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ikotsus2448",
+      "author_id": "UCaWeyxleUhITzeGSDl0JCNg",
+      "text": "This is a big mistake.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ethans4783",
+      "author_id": "UCEKHASEPDJUoKJskY6FGyzA",
+      "text": "Pretty neat stuff! It's interesting to think of Sora training on solely video data as if it was learning just as a human, I think using multiple modes of training data will be vital",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dyadica7151",
+      "author_id": "UCSaeUYz76jgoELMQAU3pU6w",
+      "text": "The weird captioning makes this video unwatchable. Sorry.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@helge666",
+      "author_id": "UC_v7VX9L2m94IhUda1lB8Bw",
+      "text": "Those guys created Sora, but apparently, they are not even able to record the audio from the mics they're speaking into. Their attention to detail is lacking and I do not wish for them to build AGI with this mindset.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@supremebeme",
+      "author_id": "UCEIhk_bn56RxQQaz1INyKNQ",
+      "text": "this is going to change video games foreverr",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MilesBellas",
+      "author_id": "UCHSMZuQR7Sl8pi5d_QTtqIw",
+      "text": "The VFX industry is extremely political and insular \nie\nhow many women have ever won a VFX Academy Award?\nzero ? 1 ?\n.\nCreativity = #1\nTeam SORA.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@smthngsmthngsmthngdarkside",
+      "author_id": "UCmZ19zdg21kwLNEGpmPsJtw",
+      "text": "ado. why are we not having further more want to be more like even?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZappyOh",
+      "author_id": "UCGguhGC83C-wgxFPZ2nT3JQ",
+      "text": "\"Scientists were so preoccupied with whether or not they could, they didn't stop to think if they should\"\n-- Dr. Ian Malcolm, Jurassic Park",
+      "likes": 14,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,495 @@
+{
+  "video_id": "nMyvQyO7Zcs",
+  "title": "Did Ideogram 2.0 just KILL Midjourney? Best Free AI Image Generator 2024",
+  "url": "https://www.youtube.com/watch?v=nMyvQyO7Zcs",
+  "comment_count": 54,
+  "comments": [
+    {
+      "author": "@tigerxplso",
+      "author_id": "UCuVKJbFviP3gDsK5Z8Q2N6Q",
+      "text": "Funny, because all of the images showcased at the beginning until 4:54 are Ideogram v1.0 not 2.0... You can see that on the right panel which version it is using.",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Daxiongmao87",
+      "author_id": "UCfz5u9eX8Rg_4wa1ylYhm7A",
+      "text": "for your necronomicon attempt, you were still outputting at 16:9, mid journey's result's aspect ratio looked similar to the shape of a book page (taller than it is wide)\n\ni always find generation efficacy also hinges on aspect ratio.  generating movie-like screenshots work well in more cinematic aspect ratios, posters work well in more vertical ratios, as well as pages.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peterwood6875",
+      "author_id": "UC4TGCm31TGizk163XMJi7ZQ",
+      "text": "I'm tempted to try these prompts on Flux using ComfyUI on a cloud GPU",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TomCraver",
+      "author_id": "UCQEoME_rQvUcWzyG4KPVIlQ",
+      "text": "What would be interesting is an inverse tool - take an image, generate a promp and the model is trained so that if using that prompt one would get something VERY close to the original.\nFunctionally much like image to image tools, but gives the user the ability to intervene and change specific things in an existing image.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kristinaplays2924",
+      "author_id": "UCGGory3YdrRUFImqNE3oPnw",
+      "text": "I will miss the dyslexic image gens once they're gone. Sad epesooj!",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sgttomas",
+      "author_id": "UC65W9ChAqPo9dFHDIoMO6pg",
+      "text": "disappointed we didn't get the mini-Wes squeaky voice 😅",
+      "likes": 15,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FrickFrack",
+      "author_id": "UCEyZ0UDl6lqjUNPKzNSFWdA",
+      "text": "I love the blue-green women's face (jellyfish eye?) at 21:54 (+0.5). But you flash by it so fast it's almost subliminal.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hellblazerjj",
+      "author_id": "UCtrTNhQGI8XHtAc5QDaiD7g",
+      "text": "The elephant thing is because in Midjourney you need to use the --no tag preceeding your negative prompt. Otherwise its just part of the prompt and will be included.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@contextFound",
+      "author_id": "UCdRJ3Jgz53TcqcpEnSXhCVA",
+      "text": "Re: the ominous cat - Ideogram actually came much closer to Ralph Steadman's style...",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lauriemcelroy8998",
+      "author_id": "UCSJx6KVS1KE5kVwFefhDwFg",
+      "text": "I’m still relying on MJ for the reasons you mentioned, it’s improved a lot on consistency in art style , which I move to Kling for image to video . As yet haven’t used ideogram because I’m already swamped with platforms and time limited. Choice of platforms certainly isn’t an issue anymore.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrasbiro3007",
+      "author_id": "UCdGdFSWZzVtLVA2Gx7snelg",
+      "text": "The best prompt is still \"angry sushi\". Infinite entertainment.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@coloryvr",
+      "author_id": "UCS2olH22VEBlKwxGczA_L0A",
+      "text": "Cooll Vid! ...so: As an artist who loves creative work (45 years of acrylic painting) and has precise ideas about his painting ideas, MJ leaves me too little room for my own creativity. MJ pictures are great but I can't find myself in the output. SD at least gives me some feeling of working creatively....Big fanx and happy colored greetinx!",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@liberteus",
+      "author_id": "UC9U00h6isD-Uw5Lz4sbx8Mg",
+      "text": "Ideogram is way over censored. I've been a paying customer and mundane prompts would get the \"maybe not safe\" cat. I cancelled. Using flux locally now.",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianWreaves",
+      "author_id": "UC7rKQtEqQT5Q4BcH2wPZ6QQ",
+      "text": "I'm all for competition among products for consumer price point and choice.  So I hope Ideogram, and others, keep MJ uncomfortable.  In my mind the most impressive image shown was the marble octopus by MJ... WOW!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "As always, another “Midjourney-killer” crushed by Midjourney.🥱",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cadmiral3d146",
+      "author_id": "UCB1XRqYFCFdY1nqP4Eie9ng",
+      "text": "So many of my friends images are in the video!!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shakalakahiki8",
+      "author_id": "UCG1ARf_pfpziHupt5yMLG-w",
+      "text": "Where the hell have you been Wes Roth?",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hellblazerjj",
+      "author_id": "UCtrTNhQGI8XHtAc5QDaiD7g",
+      "text": "The seed is the number used to generate the noise the image is diffused from when you start a brand new generation. Same seed with the same prompt and model and settings will generate the same image.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "It's time for OpenAI to give subscribers some value for money... I'm sure there's a million times better version of Dall-e they could release.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apester2",
+      "author_id": "UCO0kdqzA1tuhwHi0X1b76uA",
+      "text": "Chilling outside on the bedcony.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "Dark.  Creepy. 😱. It doesn’t have to be this way.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SirSavesALot1977",
+      "author_id": "UCKSQCq68Zr6Yf4tWBYRQOIA",
+      "text": "Nothing beats Midjourney.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NoidoDev",
+      "author_id": "UCZHQDSKJZ60wldhb5HCX28w",
+      "text": "Ideogram seems to do quite good at some form of realism and illustrations, but not fiction, or blending fiction with reality.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zombiebullshark3834",
+      "author_id": "UCVCRRm87smcQwpmniNt228g",
+      "text": "I'm writing a book about the afterlife and it's violent to say the least. But I swear trying to generate images even of someone getting a papercut is always not allowed. I wrote the wrong thing for free art 😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robbiero368",
+      "author_id": "UC0iryoxYADJWvAmj4eVZABw",
+      "text": "You missed off showing you can set the style, bottom left toolbar...",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "Awesome advert for midjourney lol. I do wonder if there's a very different style of prompting required to get the best out of ideogram?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wulfrice5079",
+      "author_id": "UCwsO4A5eAiVvuvnRkvWYHOA",
+      "text": "now THIS is incredible 😱",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@felixgraphx",
+      "author_id": "UCzW9V3RvHk_q3F9um0kfPHQ",
+      "text": "Midjourney has a 'heavy metal' magazine art style baked in, and your prompts do not specify the art style, so all the other AI that you try with non-specfic-art-style prompts give you stuff that kinda suck, yes, but if you would write longer pompts that specify art style would they be better?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@STAR-RADIANCE",
+      "author_id": "UCsToMToIBdmhj4JxxaQuISw",
+      "text": "“The more competition the better”, yeah but do you think any AI is worth paying for personal use right now. These programs are improving so fast it’s sorta scary and pointless at the same time. Although I love the idea of getting creative inspiration from them.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@miketrago4561",
+      "author_id": "UCWMPjA_YjO8BrrkeB-Cagww",
+      "text": "This video was hilarious from beginning to end.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wdmeister",
+      "author_id": "UChtObMQma4PM8RUsdGQUhdg",
+      "text": "I tested it on prompts that i use for my project and it's not even close to the midjourney. At least in my case.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aisle_of_view",
+      "author_id": "UCiZDON5yliPSULC9Z5sFIFg",
+      "text": "Rock em Sock em Robots between competing companies. Why even care about it at this point?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SonOfTamriel",
+      "author_id": "UCX_yVTJBTG_xAeuWGza2Fdg",
+      "text": "6:58ish looks like the character is ripped off from Wuthering Heights video by Kate Bush",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrRaowens1",
+      "author_id": "UCfVAn3pu2JxtSFkRdo7eZVQ",
+      "text": "Wes, why don’t you do any videos on Tesla self-driving? Many people are posting videos showing their drives.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victorbecerra5700",
+      "author_id": "UCbmiYaHNYUYKYFAia4lpV1w",
+      "text": "try to be more short on your videos, thanks, you have a really ncie channel.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChadChad-tn3ii",
+      "author_id": "UCF3i-z3qCuHY5g8Y0M-Hmqw",
+      "text": "Somewhat off topic but copyright and trademark seem to not exist here. But it can probably do most of the drawings for patent application or generate other license-able music or video if but my spin on it. This is going to profoundly affect media. You have an adjacent or in the style of unlicensed version available, so why pay the artist? Or inventor or idk it possible ends intellectual property",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@qwazy01",
+      "author_id": "UCi7yGTEl5iNPBGNqoLYi0fw",
+      "text": "MJ always seems a cut above, wish it were free",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shamz_ai",
+      "author_id": "UCYD4JgZ6Rsn1FIBFxydwYdQ",
+      "text": "Midjourney is still the best image generator imo but ideogram is superior in text. Using it for all my logo and t-shirt designs.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ophelfromhell7748",
+      "author_id": "UCJgubXdV1OMJQPBFtAohbwA",
+      "text": "Talking from the free ones.I created an amazing pic from another pic with leonardo but they become greedy as fuck.And then the image creator started to censor their own generated descriptions.When creating a pic.LMAO.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@milztempelrowski9281",
+      "author_id": "UCii0-a_77VeIlcetDmiWCPQ",
+      "text": "No pls. not the tiktok subtitles in font size 72",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pandereodium",
+      "author_id": "UC18Lm_2cnRtdZWMSPyNeiEQ",
+      "text": "Hey, Wes, have you lost some weight? You look better, as if you are 10 kg lighter now. If this is the case, then you did a good job, keep going ✊",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lule-ahmed",
+      "author_id": "UC3ea5sn8o06D6oiqlFxkHaQ",
+      "text": "flux still wins !!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@reifuTD",
+      "author_id": "UCkVyg9g7XrmN3XrbS4HfuAg",
+      "text": "I've been trying  Ideogram again since the upgrade still seems to work like shit for me compare to Dalle 3, Like I ask Ideogram for an image from a Bruce Timm animated series something Dalle does very well and Ideogram gives me a bunch of goofy cartoon characters in CGI style. I don't think Bruce Timm even made anything that looks goofy CGI crap. I ask for anime Screenshots of certain anime series and Ideogram give mostly poorly drawn crap that kind looks like mostly generic. Not saying Dalle can fall into a generic look for it's anime either but it's generic anime Screenshots look better.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blackestjake",
+      "author_id": "UC21A72jr2Zr1ovb1J4-Sp4Q",
+      "text": "Hilarious how so many Ideogram images were “Not Good” without really looking at them. Every image model has its strengths and weaknesses, Ideogram is no different.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gsalami",
+      "author_id": "UClCNEdbEjU-VgUAbtkJMhPw",
+      "text": "high pitched voice 😂😂😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Experternas",
+      "author_id": "UC6eeTZx6eQn71gtjkYviFNw",
+      "text": "that joke was pretty funny with the toiletpaper, they should add a tampon in the corner whispering, my job is pretty good.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "Dude. You could do standup. you are funny.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@senju2024",
+      "author_id": "UCM82dGSIEb6TXfz54t4b_uQ",
+      "text": "Nice but Midjourney still is KING!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Good_Influence_",
+      "author_id": "UCpkG8ic8mC3lnwXswhCSVOQ",
+      "text": "Don't believe the hype! lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1Bearsfan",
+      "author_id": "UC7AFmFrev9EAPmBpyXy8__w",
+      "text": "Wes, no tats?! Live a little man!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RasmusSchultz",
+      "author_id": "UC1usKk-H-_kUlk1FYbX6SwA",
+      "text": "UGGGH STOP proclaiming the next AI as \"BEST FREE\" ffs! these products are not free! it is free for you to help them beta test their product, promote and onboard as many users as possible, and THEN they will announce the price, and it's NOT going to be free. EVERY product is initially \"free\", until it's not - that's just how you launch a product.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theyshouldhavenevergivenme5439",
+      "author_id": "UCGHwxeqGzwnpJqbkAV2m2vg",
+      "text": "It is all so pointless.. and DEPRESSING. The death of creativity/art is upon us. Nothing matters anymore.\n\nThis guy also: He's just describing what we can see with our eyes. Literally the most boring and shallow person in the world. I'm sure he thinks he is a content creator. The sadness of it all.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jozef-javorsky-dodo",
+      "author_id": "UCgW8sm5Uva2digeKT9oYTWQ",
+      "text": "thank You for Your vids :popcorn-yellow-striped-smile: it is super-great insightful :yougotthis:",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henrythegreatamerican8136",
+      "author_id": "UCgKBqxWOAjdKbbiQsWuUdfw",
+      "text": "\"Let me know in the comments\"\n\n** COMMENT CENSORED **",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

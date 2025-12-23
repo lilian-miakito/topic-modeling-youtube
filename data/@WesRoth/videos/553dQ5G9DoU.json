@@ -1,0 +1,27 @@
+{
+  "video_id": "553dQ5G9DoU",
+  "title": "AI Small Business Grants",
+  "url": "https://www.youtube.com/watch?v=553dQ5G9DoU",
+  "comment_count": 2,
+  "comments": [
+    {
+      "author": "@robinspanier7017",
+      "author_id": "UC0Im1aPINkz2FCbHy8RuJFw",
+      "text": "i use chatgpt to code as well, my code runs part of mercedes and serves half of the workforce there.\n80% of the code is generated now.\ni think chatgpt for coding is comparable to photoshop for designers. everyone can make sth cool but it still takes skill in the subject to produce things that are amazing.\nthe biggest takeaway is that chatgpt enables you, if its not doing what you want, YOU made the mistake by using it wrong.\n\n7:03 yes i think that coding by hand is something for the past.\nbut to be honest this part of the job was not the hard part most of the time. it was the fun part.\n\nnow it feels like i am the helping hand of the product owner, steering the ship to its target.\nmy day is now filled with translating the vague needs into a prompt for chatgpt, then iterating the prompt until its output is good enough. then baking it into the rest of the software and its architecture. then going back to chatgpt again, writing unit tests, then letting it write e2e tests and the rest is already automated using git actions and a friendly dev-ops guy who made all of it using chatgpt as well .. nice :D\n\nmy output has doubled since the introduction of gpt4 but my developer happiness has gone down.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RK-su4hs",
+      "author_id": "UCsOFSWobid03ZB5kxtra5Bw",
+      "text": "You are an excellent teacher   \nI’m learning a lot\nDo you offer consultations to assist people to find & apply for grants?\nThanks in advance",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

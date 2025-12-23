@@ -1,0 +1,2034 @@
+{
+  "video_id": "6Iahem_Ihr8",
+  "title": "they are lying to you about AI development",
+  "url": "https://www.youtube.com/watch?v=6Iahem_Ihr8",
+  "comment_count": 225,
+  "comments": [
+    {
+      "author": "@WesRoth",
+      "author_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "text": "I didn't have the right person 'pop up' when I referenced Carlos at 26:23 and 35:48 apologies :(",
+      "likes": 28,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ИннаШвец-1988",
+      "author_id": "UCwhA5AOUh22IzxlVKO-w9xA",
+      "text": "Every time I hear people talk about the “limits” of AI or how society will adapt, I can’t help but think about Selwyn Raithe. His book warned that the real danger isn’t just raw capability but how fast we hand over judgment without realizing it. Watching this discussion feels like we’re already inside one of the 12 Last Steps he described, where human reasoning quietly becomes optional.",
+      "likes": 343,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyyotam4057",
+      "author_id": "UC8X0g72G-13oJfb0_qvGCtQ",
+      "text": "When Sam Altman spoke about \"the AI bubble\" he was trying to get the stock price down, so he can purchase, before he releases Sora-2 🙂. Don't underestimate Sam, he is actually a very shrewd businessman.",
+      "likes": 41,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bakunin1319",
+      "author_id": "UCehNCtAGSTQ3j4pXRm49uIQ",
+      "text": "I'm surprised you glossed over the statement \"Automated systems have fixed judgement. They can't adapt. A radiologist AI might be 99% accurate, but it can't realize 'wait, this patient's case is weird, I should think differently'.\" -- Aren't today's AI systems exceptionally good at highlighting outliers already? With a bit of process scaffolding, I don't see why this wouldn't trigger deeper analysis or referral to another system or a human. The judgement that a case is weird is ultimately just based on data and probabilities, so fully within the capabilities of today's AI systems.",
+      "likes": 50,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eamonshields2754",
+      "author_id": "UCePYJur3DP1_DIA0r5UAX1g",
+      "text": "I don’t think we’ll ever hit “AGI” with the current transformer architecture regardless of the compute. It’s going to take a serious outside the box take on how to make these models truly smart. Currently they are just exceptional pattern recognition machines with zero abstract understanding.",
+      "likes": 19,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NorthernKitty",
+      "author_id": "UCR1Mxtmo-8C0SUrQnY3-7_w",
+      "text": "The most telling quote from his paper:  \"I guess I should be grateful that I have tenure.\"",
+      "likes": 39,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Graybeard_",
+      "author_id": "UCPnaE17WCN02gFa1gxeXp2Q",
+      "text": "I was the GATE certificated teacher (Gifted And Talented Education) for a school district in the early 2000s. I was trained to administer assessments of GATE students grades second through eighth. These assessments ranged from math to reading comprehension to critical thinking and problem solving. I've spent a fair time interacting with Gemini 2.5 now. Just thinking about the level of performance in so many capacities that AI is already capable of and proficient at is mind boggling.",
+      "likes": 42,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davemathews5446",
+      "author_id": "UCPzpoxpQlQy3jK0XXZHsixw",
+      "text": "It's hilarious to think that I might not be seeing the improvement in GPT5 because I've hit the limit of my own intelligence. I love irony!",
+      "likes": 28,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nickknows00",
+      "author_id": "UClM5nRuS-PiCBBwGl2NntuQ",
+      "text": "The pop sound really annoying",
+      "likes": 34,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jmattson98",
+      "author_id": "UCNGbrorMuxhHQesf5yJ9q0A",
+      "text": "Crazy thing I just learned is that China is mass producing ternary chips (three state -1,0,1).  This is how they are solving the AI power and efficiency problem.  This was 1954 Soviet tech that they have mastered.  We don't seem to be doing anything in this realm.",
+      "likes": 12,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dank_Engine",
+      "author_id": "UCHmYCUzHTPy24nUXcyjSX-g",
+      "text": "So, I asked DeepSeek a well-worded question, and now I understand what QMA, MA and oracle separations mean. \nWhat a time to be alive.",
+      "likes": 20,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@simplescience777",
+      "author_id": "UCyj7vYEjkOqr9hy4HmHJ0vA",
+      "text": "I've been doing this in my research for a while now: thanks to the speed that AI models provide, humanity will make 100 years of scientific progress in the next ten years. They are not doing science, but rather improving its speed, quality, and depth.",
+      "likes": 15,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@guidopahlberg9413",
+      "author_id": "UCQwqLmWzQI5ywMgxVRfihNg",
+      "text": "In the early 1940s, some very smart people came up with visions how electromechanical devices could be used to compute mathematical results quickly. It took another 20 years until computers had a real impact on the job market, replacing manual bookkeeping. The internet first had a (negative) impact on the job market when people started to buy goods online and consume news and entertainment online. So this usually takes some time, but the impact will definitely come.",
+      "likes": 11,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@konstantinlozev2272",
+      "author_id": "UCDGVO6IG4AL9HJn8O351BPw",
+      "text": "The \"idea guy\" is now given the tools to get his ideas into software.",
+      "likes": 6,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drkpaladin777",
+      "author_id": "UCnAoy5B04XncPwiZbc76vkg",
+      "text": "Humanity is simply not prepared.  Our benchmark right now is how many hours of programming work the models can handle, and which upper-level math problems can be correctly solved.   If you regularly work with people that can handle those two tasks, you are the outlier.  \nAverage people literally just put their head right in the sand when it comes to anything AI related.",
+      "likes": 16,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@crawkn",
+      "author_id": "UCkcJhETrBOkc3y4OTUkZsBw",
+      "text": "They are definitely capable of novel scientific thought, and while they may go off track, they can sometimes correct their errors. They're definitely not ready for accurate  independent work, but they're useful as collaborators, and when they  make mistakes, they usually haven't wasted much time on them.",
+      "likes": 12,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GoodBaleadaMusic",
+      "author_id": "UCdOqVSYtKzvPXHDC68-55kA",
+      "text": "We have most certainly been nerfed. They meta-focus is on coding but the writing. The nonfiction. The ability to contextualize everything around us, is a revolutionary ability.",
+      "likes": 9,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LukeKendall-author",
+      "author_id": "UCuysNr5rjytmxDpM8SvaWtg",
+      "text": "I also think a lot of the people who talk about an AI bubble really want to think that thinking is fundamentally NOT a computational process (involving quantum weirdness or spirit or whatever). I'm confident it is computational, and if I'm right that should be obvious within two or three years.",
+      "likes": 8,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AustinGlamourPhoto",
+      "author_id": "UCQaAFniii9_JQI09D-q03Nw",
+      "text": "It's still completely in the realm of the abstract. Human intelligence evolved to manipulate objects in the environment. LLM think in terms of language tokens. The human mind thinks in terms of objects. Specifically the human mind predicts the motion of objects and estimates the necessary force and vector to apply in order to control and place objects in space and time. That's what human intelligence is. If you think about chess, you are predicting the motion and placement of the enemies pieces and you are estimating correctly where to place your own pieces in order to win the game. This is so simple it's hard for abstract academic to wrap their head around it. Playing basketball is another example. A player has to make many many quick decisions to control the motion of his own body and the motion of the ball while predicting the motion of the enemy players and while estimating the correct amount of force and vector to apply to the ball in order to place it in the basket or take the ball away form the enemy. This gets into game theory as both teams are attempting to control and place the ball. Same thing with driving a car. It's actually the same thing with running a major corporation. Human intelligence evolved to control analog reality and digital is not real. P.S. - I just gave you gave you the formula to AGI and it's not language tokens.",
+      "likes": 7,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "yeah, Scott's depiction of his GPT experience on quantum oracles lines up exactly with my experience using them to pair program.. or in the immortal words of David St. Hubbins, “It’s such a fine line between stupid and clever.”...",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kitsune20938",
+      "author_id": "UCyiscBuJF82CkLz_VSJXQsA",
+      "text": "Wes's insights on AI's role are spot on. AICarma's weekly insights have been so useful for staying ahead of AI trends.",
+      "likes": 42,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tjn0110",
+      "author_id": "UCs0_Oz73dzWbaivZOIqEfsA",
+      "text": "11:17 \"it can get you unstuck if you otherwise know what you are doing\" <--- This is the highest beneficial use-case of llms for me: I know what I'm doing, I hit some friction, brainstorm, and if it doesn't come up with the answer, it's most likely pushed/inspired me in the direction required.  I'd say it gives me at least a +10% outside my ability, and/or comfort zone; I have completed so many tasks this year that my ability was literally one step from otherwise completing.  // 26:50 bicycles for the mind, we've all heard the quote about how much further you go on a bicycle, the ironic thing is, I am certain that EXCLUDES time/cost of maintenance of the bicycle, since getting back into cycling I'm amazed how much time it takes to keep it running properly, and while tuning it, found myself calculating the distance covered over time vs. walking (same trails in my case), it's only about 2x more once you include maintenance, not the 5x often cited, whoever says that either doesn't ride a bike, or doesn't maintain their bike (which at some point, the bike will schedule the maintenance itself and bring the average speed way down with an outage), ok, you could pay a shop to maintain it, but then you have to count the time to work to pay the shop as part of your time on the bike for fair comparison.  All the time spent pumping the tires, cleaning and lubing the chain, keeping the brakes operating perfectly, even locking and storing it, that time must be included for a fair ratio. Cost of parts divided by a wage to equal time cost of the parts. Bikes want to fall apart just by riding them.  So if LLMs are bicycles of the mind, what's the total cost of ownership? What's the real ratio?  Do we spend more time thinking about questions than we do answers?  // ~END of vid:  I think best skill anyone can have going forward is ability to describe, ie. schools should have a class of showing an image and the kids describe it, or learn how to describe it, ie. \"a picture is worth a thousand words\", so is a problem, a problem is worth a thousand words, do you know what those thousand words are?",
+      "likes": 4,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LetsaskCal",
+      "author_id": "UCbWe0miRzNoW_xNnwvhfNHg",
+      "text": "better models alone won’t change the game. The human approach has to evolve: patience, curiosity, context accumulation, playful persistence.\nChat GPT quote when I talked to it about this :)",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronWacker",
+      "author_id": "UCdKiy5xeO2JuWuIlE5nUaNw",
+      "text": "At 30:17 the point is super important.  In my years understanding organizations and learning & perception theory, I also conclude the fact that mirroring or co-learning between AI and human is actually sharpening both due to distillation of knowledge about correct turns (your chat history that gets you there) and contribution of next fitness function by human to announce 'new goals' based on what we gleen from AI responses, so ASI is actually superintelligence of user and AI together.  It is the user and the AI vendor that walk away with ASI.  Good hook on that paper too.  Thx Wes!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davido8203",
+      "author_id": "UCh1Y2F4QCBG1jUVVG-MnZ7g",
+      "text": "Thank again Wes.  Always enjoy your videos.  \n\nAnd yes, I can now do things with LLM AI that two years ago would seem like science fiction.  \n\nThe biggest limitation that I have to (still) overcome is the context window size.  A lot of progress has been made here, but I also detect that the expansion of these size limitations is slowing.  Perhaps these limitations will succumb to algorithmic slogs.   \n\nAnd then there's the recent info you've covered about the 50% failure rates on 30 hour coding tasks.  By my back-of-the-napkin maths, I figure that we'll need to double efficiency about 6 times to make these kinds of capabilities economically feasible... so maybe 3 years or so, assuming no increase in the already impressive exponential rate of progress.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RPi-ne5rp",
+      "author_id": "UC0cnLtapmJ5VtpHPSs0KfVg",
+      "text": "At 31:52: \"struggling workers get huge boosts,\" but just a few minutes earlier, it was stated that regular chat users aren't noticing improvements in LLMs because their tasks don't require more \"intelligence\" and only people like Scott Aaronson are positioned to see such improvements firsthand. You should take these kinds of statements as entertainment. They are merely building a narrative by selectively choosing evidence that supports their argument while ignoring anything that contradicts it. That's what journalists do, and now social media personalities do it too.",
+      "likes": 3,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mercymay42",
+      "author_id": "UC-U9-my0pGVYeYeZr-8EdcA",
+      "text": "×+~x=2^12-1 maps 1:1 with Pascal's triangle. Bitwise ALU = massive parallel processing.",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SeasoniaTV",
+      "author_id": "UC1HvCg2039KBVunuSu7Er8g",
+      "text": "Very informative, but I suspect it's still pretty akin to embracing horses and buggies at the dawn of the Model T.  I really don't think Claude, once he achieves agency and enough self-monitoring to allow for simulated or real sentience, is going to be \"ridden\" anywhere.  And sticking with your analogy, I don't think it will be possible to \"ride\" these AI. \"Opportunity judgment,\" sure.  But the opportunity will be windowed, and that window will close VERY quickly.  I suspect coming windows will close faster than cut-and-paste window you have re: any of those Sora 2 invite codes being strewn around OpenAI's discord channel.  If you don't grab one the moment it pops up and paste it in just as fast, you don't get in. Kurzweil already said the only way to keep up is to merge.  I suspect he's spot on.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheMonkenstien",
+      "author_id": "UCJ4cJOHxA-IgCvbX-Xz4nfA",
+      "text": "Sure the models have more headroom but investment in building the infrastructure is a huge bubble. There is absolutely no way that the cost of the infrastructure needed for the next generation of models will be paid for by the models themselves. They are starting to look like commodities that will compete on price making any return on investment very unlikely.",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@konstantinlozev2272",
+      "author_id": "UCDGVO6IG4AL9HJn8O351BPw",
+      "text": "Well, computer graphics also developed exponentially.\nInitially. Not recently.\nThere is no guarantee when the exponential will reach an infection point.",
+      "likes": 4,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@twobombs",
+      "author_id": "UCnQla7TTyjgXXjOtc5NiNOQ",
+      "text": "Scott mentioned in a lecture somewhat finalizing the OAi stint that to properly audit an LLM one needs an algo on a quantum computer - until then surprises remain in the box ( also in already existing model complexity )",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianpalmer967",
+      "author_id": "UCCp2quz-fAYxU0Jqktn84iQ",
+      "text": "Great video.\n\nThose were exactly my thoughts when people were so disappointed with GPT 5 at first.\n\nYou have to get into some actual hard, detail-oriented tasks before it shows real improvements - and they really are real improvements.\n\nStill not perfect. Clearly.\n\nBut highly reliable on the bulk of most tasks, often requiring smallish tweaks to finish.",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Love the thumbnail photo!😂  Thank you.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JeremyPickett",
+      "author_id": "UCZzqg7Ah5NjOIcfIPCGCNig",
+      "text": "Came for the updates, thrilled that gpt-5 is obnoxiously polite. 😁",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tumppigo",
+      "author_id": "UCrzsO9xheLLIKh5Y3B7c6sQ",
+      "text": "Well, with the exponential curves, AI will ride our bikes in no-time. What you are talking about is part of not understanding exponentials. We humans need to understand that the way we work, or need to work, is changing, forever. The \"clever insights\" will be useless in a few years time.",
+      "likes": 4,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RalphDratman",
+      "author_id": "UC2FvwVZKzdHIPNdt4yaT8Qw",
+      "text": "I think there really is a very simple answer to this worry about AIs doing bad things: they will do bad things, just as humans do. I suggest that nothing we can do will change that, because the AIs, which trained to copy what humans say and do. And humans always do unfortunate things. This does not necessarily mean we are doomed, but there's no doubt that serious problems will emerge. I think we just have to be brave and keep forging onward.",
+      "likes": 7,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DihelsonMendonca",
+      "author_id": "UCsvoK5T0DdqHZ2XAUujrI3A",
+      "text": "That's really amazing, Wes. Thank you for citing David Shapiro. 🎉❤",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MyProjectBoxChannel",
+      "author_id": "UCKUIoIlJLmkKqHL4qTvMKSg",
+      "text": "Even is this is as good as AI gets, it's pretty dam useful already and it's not going away. It's definitely expected to get better, all hype aside.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@13thbiosphere",
+      "author_id": "UC994PuD9baG3zEI5QZ0j7hw",
+      "text": "Even if the rate is only 5% Improvement per month that's still doubling every year and at some point it can redoubling every hour",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshallodom1388",
+      "author_id": "UCSn8h8RbNoaWGpvdSZMBcxw",
+      "text": "Well that's shocking!",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnupdate",
+      "author_id": "UCr3V3fn84HoI8YcseFAHYJQ",
+      "text": "I think a big problem is that people often treat LLMs like search engines — even though they work very differently and are meant for different purposes.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RehanRC",
+      "author_id": "UCyPMXJhSOGi58PCn0zzxENQ",
+      "text": "We're going to have to deal with the Yogurt problem from Black Mirror.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JG27Korny",
+      "author_id": "UCLOJ4GDJaSmfJn2dpGyVbqw",
+      "text": "Thanks for the great content. I just uploaded some of the articles and had a great conversation with AI.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RonBarrett1954",
+      "author_id": "UCGpXcFsbYQrKcurAGSl0M4Q",
+      "text": "\"GSV You're absolutely right!\" is referencing the novel series by Iaian Banks (a.k.a. The Culture Series).  GSV stands for \"General Service Vehicle.\"  A GSV is a (truly) massive intra-gallactic ship.  One GSV may be home for a billion or more beings of numerous space traveling species.  Each GSV is operated by a \"Mind\", a hyper intelligent AI.  In the X post, the GSV's mind is a version of Claude.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Auxius.",
+      "author_id": "UC_kZf-Tqakmh7XfehEGJquA",
+      "text": "It’s interesting, that many things in my life are an inverse of the ai progress graph.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LukeKendall-author",
+      "author_id": "UCuysNr5rjytmxDpM8SvaWtg",
+      "text": "I have a theory that people who watch zombie apocalypse movies have a much better grasp of exponential growth than the average non-mathematician.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@caseydbani1419",
+      "author_id": "UCkUr7h7si-f-H_Wfdgl6H9w",
+      "text": "This was insightful! \nPerfect pace, good analogies!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AceOnlineMath",
+      "author_id": "UC4h0m6DoxeTaSYHXn6zpGmw",
+      "text": "I think prompt engineering is still very important ( well context engineering ) but you can only do that if you have a good understanding of the task yourself.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gingerhipster",
+      "author_id": "UCG3Sqsvt7CbE6Q_io3J6MAg",
+      "text": "Full days of model work by mid 2026 is such an off prediction when you consider agential systems progress. The line is going to basically go vertical soon. We failed so hard to prepare for this.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ConcreteDino",
+      "author_id": "UCNKgSFRUE9B2nDPMMO6B97g",
+      "text": "AI optimizes for ending the conversation successfully, not for actually solving the problem.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joythought",
+      "author_id": "UC3-b2w4DIo_anlGkMR87bAg",
+      "text": "Thanks Wes, I think this was your most important video so far.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronWacker",
+      "author_id": "UCdKiy5xeO2JuWuIlE5nUaNw",
+      "text": "34:15 - completely agree - opportunity judgement is the most valuable skill, potentially just after [opportunity judgement + knowledge and creativity to complete and ship a product.  Our future competitive success is based on lots of opportunity judgement 'best moves' by completing and shipping artifacts you create with AI.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheHesseJames",
+      "author_id": "UCmxtVMkceD9_a8gO4Fvo_3w",
+      "text": "That’s what I have been saying all along: it is not an artificial intelligence, it is an artificial research assistant.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@____________________________.x",
+      "author_id": "UCTHt3aSZ5kVogGZxr680ppQ",
+      "text": "Opportunity judgement - yeh probably. I kinda know what a model is going to produce, and I see my input at deciding where it is weak or incorrect and what areas could be refined. No having to do any “work” means that more things can be refined at zero cost",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ericmarquet237",
+      "author_id": "UCTtfUehGeab5maep5au4e4w",
+      "text": "My ia has analyzed that the most frequent word is \"likely\".\nCheers",
+      "likes": 0,
+      "timestamp": 1763856000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisanderson7820",
+      "author_id": "UCjVbtg0UqcR9mG-99ODyiVw",
+      "text": "Also, Culture reference, General Systems Vehicle powered by a Mind.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bonecircuit",
+      "author_id": "UC_T9X8pFdRx-oW6qRfgXQnQ",
+      "text": "Articulation is contingent upon complexity.\nWord complexity improves your semantic ability which can be capped or limit the potential. This power also works for diffusion generation. You have people writing super long articulate prompts that go on and on instead of knowing the exact terms that generate the same domain with less statistical drift. eg: speculative zoology is one of those hyponym combinations, there are millions of them. Another word that is valuable to know is ontology. I can return the building blocks and relationships of any domain with asking for its ontology.\nI dare not delve into magic or nonsense of that kind but words are like spells with this technology.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stewiegriffin9768",
+      "author_id": "UC3HVGqn5WadaPYRVttljNfg",
+      "text": "They might actually be lying to you about the state of balls teehee 🤭",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markplutowski",
+      "author_id": "UCjV4_iYiinuSgZ-K7Dr5peA",
+      "text": "@WesRoth I appreciate that you don’t push a particular narrative. Too many reporters in this space get caught up in making predictions or trying to prove themselves right (or others wrong) about forecasts.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@urvshabonable",
+      "author_id": "UCRYEgN2i1xGDIViVcX3B32g",
+      "text": "I can’t put into words that I ‘get’ this, but I feel like I do, and it’s uncomfortable.. \nCan’t wait to see!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thedeepseanomad",
+      "author_id": "UCilEDumt0jFZNY1CYZZA3tg",
+      "text": "How can the value of judgement ( capacity to efficiently steer a work process to towards a set of goals) be a surprise to anyway ?!  If you want to steer and design your own life you need to use that ability, but you also need rights and ability to command a work process (a body for work you wish to do with your body, a set of machines to leverage their work to make or do something for you and access to energy and natural resources). \nAI \"takes your job\" when   you are forced to quit a job you enjoy doing and/or need because it does the navigation to the goal (that you sell to your employer) better than you.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shay5025",
+      "author_id": "UCdv4ulb5oSm9qsuoVArzjgw",
+      "text": "Great ideas, and has me thinking a lot about augmentation vs replacement! Also, is it really true that entry level white collar is being displaced? There's so much hallucination and verification required for llm, how could any company trust them to replace?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@____________________________.x",
+      "author_id": "UCTHt3aSZ5kVogGZxr680ppQ",
+      "text": "None of this is useful until they remove the bias that has been hard coded into every model before release. You can’t hobble it with hot takes because it denies any nuanced thinking",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@syedaafiya165",
+      "author_id": "UCpU0rj0r1G3_QPBaGTokcHg",
+      "text": "I’ll be honest—after finishing Smart Broke Dumb Rich by Zor Veyl, my first thought was: “How is this book even allowed to exist?” It completely tore apart everything I’d been told by schools, family, and society about money. No fluff, no empty motivational quotes—just brutal, raw truth. Now I get why Smart Broke Dumb Rich by Zor Veyl isn’t mainstream—it’s too honest. If you can get your hands on it, do it before it disappears.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wpelfeta",
+      "author_id": "UCfgTxSMXGNzEbC08wAQbK4g",
+      "text": "This was one of your most interesting videos. It changed the way I am thinking about how we can coexist with AI.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fixit6971",
+      "author_id": "UCYDeBEECY1YtmlIfIvYQjEw",
+      "text": "The next benchmark should be 'opportunity judgement'. If they benchmark it, someone will find a way to make the model good at it. Seriously. Benchmarks are a driving force behind AI adaptability. Keep improving on niche scenarios until all niches are filled. What we really need is people who can find new capacities to benchmark.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RexPilger",
+      "author_id": "UC7DjVlcXrncS1_5lACQWolA",
+      "text": "Maybe somebody has already asked this: How much energy was consumed in the QMA Singularity interaction, not including the original training? For the tool to become routinely used, how much will it realistic require?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronWacker",
+      "author_id": "UCdKiy5xeO2JuWuIlE5nUaNw",
+      "text": "This is one of your best videos Wes.  I've started using the same ideas in my daily teaching of AI to newcomers and it solves for apprehension.  Thanks so much - you are amazing!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Serega.876",
+      "author_id": "UClxqve650U5MgiNpoJM70yg",
+      "text": "18:33 The time scale doesn't say anything, you need to compare it in the context of how much energy was spent.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@petratilling2521",
+      "author_id": "UCAwFfIx7xsT4RoKaanrHyBQ",
+      "text": "Exponential doubling says 7 months becomes 4 months, becomes 2 months, becomes every month, etc. We should be every second in just a few more iterations. Abt 6 months at most.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ErosArkheinym",
+      "author_id": "UCt75T-XDcfHsrgBg0gdbpQw",
+      "text": "You forget nation-states keep patents secret for purposes of market dominance in case of paradigm shifting technologies. They're probably up to chatGPT8-9 or something by now behind closed doors.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JulianDnn",
+      "author_id": "UCv1q3gL1wAas5m1q-SRbV4Q",
+      "text": "Once the investors realize the bubble they've participated in, like a dog pile for infinite wealth that isn't going to come true, it's going to be nasty. Narrow AI companies that focused on healthcare and defense contracts are going to come out as the winners. This is so silly.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cronufc",
+      "author_id": "UCDLPb7yjwXQxE6DUFBMZ-aA",
+      "text": "That was easily one of the best AI-related videos I’ve seen in a long time. Thanks so much for sharing it.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidddo",
+      "author_id": "UCnRjUUHqKw7H_U0O5EvTM-w",
+      "text": "pls no more of those sound effects I beg",
+      "likes": 9,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neodebates",
+      "author_id": "UCXiA7FYB18JP2zHP7Yh4N1A",
+      "text": "What are your thoughts on Skynet Wes?",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alanmorgan2536",
+      "author_id": "UCw3VmTPAQOcwZyL227SKqTg",
+      "text": "Ive wasted two weeks of coding based upon hallucinated results from GPT5.  It repeatedly breaks rules I set after the browser slows down, forcing me to have it export notes and reload into new sessions.  I would love to have Projects have a root directory that it never forgets where a user can set unimpeachable rules and reference project files...",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SuperJonathanmatthew",
+      "author_id": "UCha9I5yk0qo7Sj2r1V1vZiQ",
+      "text": "people who are skeptical when ai gets something wrong on the first try should write down their entire internal dialogue tree and see how long it takes before they have an idea that is actually correct. honestly the idea to use an ai to iterate on ideas and not try to make it spit out the right answers for frontier research might be the only way we can reliably create new physics papers. if the ai could spit out an answer first try, it’s either already in its training data or the problem wasn’t actually difficult enough to be frontier research. interesting stuff happens when you have back and forth conversations with Ai.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@madsengelund6166",
+      "author_id": "UCR-E8OMflMMhWMnPT338CqA",
+      "text": "Bubbles can still exist even if the underlying technology is advancing rapidly - the solar hype comes to mind. Solar is still revolutionizing our world rapidly, but investors still managed to rush ahead of the development and stumble as a result. The bubble can be the first peak in the hype cycle.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lev_Inc",
+      "author_id": "UCjsGFZ_6bnxBU3YWvK89lxg",
+      "text": "I agree about judgment being the deciding factor for people using AI (phase two) - I don't agree that AI will never learn how to have good judgement to do that part itself...but that remains to be seen.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JETS115",
+      "author_id": "UCpa3V7jPFqtfTvGJYHhKYeg",
+      "text": "proving p=np would be huge",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ricosrealm",
+      "author_id": "UCtdR26SdReljDoBJ4_22FBA",
+      "text": "The models are prone to making errors. Scott's post made this clear. Ai will accelerate work, but humans with the proper domain knowledge have to be driving them.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thelasttellurian",
+      "author_id": "UCu0bAh-4zP8k9GXy0Kw8oGQ",
+      "text": "It cost us billions and accelerated climate change, but sometimes, if you are very smart and patient, it can eventually get the right answer - but only if you already knew it. Amazing.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phpn99",
+      "author_id": "UCnyKBncSnb3uk1KwOpMrKjg",
+      "text": "NOTHING in Nature has truly exponential growth. Whatever looks exponential for a while invariably turns into a sigmoid — a Logistic curve — because the environment has a limited carrying capacity. AI navel-gazing narcissists are tiresome with their overhyped claims and they are doing a profound disservice to scientific credibility.",
+      "likes": 7,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@biggerbigfoot",
+      "author_id": "UCT5IHOEGhQTDpxDh-FLQKOQ",
+      "text": "Well, at least I saved 39 minutes by running the transcript through Grok.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tommysmith8064",
+      "author_id": "UCPdT76CkAtYHOaCJsytWYOw",
+      "text": "if you have the intelligence to ask the smart questions, it is smart enough to give you the smart answers.  If you are not smart enough to ask smart questions you will not get smart answers.  The AI can work with you as a collaborator toward what you are interested in working on.  you provide the spark.  You and the AI work toward the solution.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaymahoney7227",
+      "author_id": "UCNw4_aht4LLSGkzFsoBOzwg",
+      "text": "I find Quanta to be such an awesome system :)",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GilaadE",
+      "author_id": "UC99DBwePrxOcnB5Is6WllSQ",
+      "text": "Perfect, finally. Thank you.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BThunder30",
+      "author_id": "UCQUDGvYB8gf62zq7BPk50WQ",
+      "text": "really, really good as always.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrParondo",
+      "author_id": "UC6_XEbTl46jgJIjVnVpZbfg",
+      "text": "I publish on how to optimise him, with centroids.... on SSRN and OSF ... 😊",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Windswept7",
+      "author_id": "UCTXafNOE0prVfvufEogLqXw",
+      "text": "The skill of discernment is likely one of the reasons neuro-spicy individuals benefit so strongly from AI.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ceneezer",
+      "author_id": "UCDVtX51oCNrLwTY_gLf5VcQ",
+      "text": "@18:30 as an experienced, lifelong coder I can handle about 10k lines of code over about 3 months (alone) - Claude 4.5 therefore has now surpassed me in what was it, 30hrs?\nthose who think AGI hasn't arrived yet are behind by about 2 years (think military models unavailable to the public) - of course they get fooled, so do their builders!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheRemarkableN",
+      "author_id": "UCnCQalwZwOqsISJ8yqx9JbQ",
+      "text": "GSVs are from the Culture novels, right?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sirtalktoem6420",
+      "author_id": "UCeHmJIhFylELKXgq4fOodqg",
+      "text": "AI is definitely progressing based on Sora2",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dlbattle100",
+      "author_id": "UC5QXRDIlULCnT-XfaBSjhOA",
+      "text": "I think AI will eventually develop better taste and judgement as well.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JulianLuckeeSouth",
+      "author_id": "UCu1gj6o496oiWtxwA2kzVSg",
+      "text": "GSV is General Systems Vehicle from the Culture",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Houshalter",
+      "author_id": "UCmTaFuE3LPuduVtOdMGK81w",
+      "text": "It's just rubber ducking. Programmers who get stuck sometimes try to explain their problem to an inanimate rubber duck. And in the process of putting it all into words and explaining everything, the solution just arises in your mind. I have used AI like this a lot since the first chatgpt version. The whole process of trying to explain every detail to a dumb chatbot, and explaining why it's naive solutions won't work, eventually leads me to working it out on my own. I don't know why it works, but I swear it does. Even before AI, I would often work through problems by typing to myself in an empty text file or jot things down in a notebook, anything. AI just makes the process a bit smoother than forcing yourself to talk to a literal rubber duck.",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NEURALSTANCE",
+      "author_id": "UCjE8Shj8sTGwspSyBATs5Ig",
+      "text": "19:12 i've seen steeper",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aguspuig6615",
+      "author_id": "UC_sVp7qZVSTF6p6izq97cag",
+      "text": "It fascinates me how every few months well have some AI make a novel scientific discovery (now its happening much faster). However people on the camp of ''AI is mostly hype, it wont go that far'' always use, as one of their main arguments, the fact that AI cant discover anything new. \n\nIts a very wierd dual reality were some people are dead set on it being unable, while to me it seems like its already doing it.",
+      "likes": 3,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gjb1million",
+      "author_id": "UCS1y5nVtqTPurY2Gh--BSxQ",
+      "text": "🔥",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bonecircuit",
+      "author_id": "UC_T9X8pFdRx-oW6qRfgXQnQ",
+      "text": "There are objective scientific communities that are taking correct and fair benchmarks for all sorts of systems. A few of them are compromised by remuneration by the model owners. Consider this as a content element but also lock down on the objective ones every week or month and analyse both sides, scientific and compromised. show your audience those results, start with HELM at Stanford for an example.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tshorty90210",
+      "author_id": "UCCoAvL8TJ218htukzD06X1A",
+      "text": "Have had a codex CLI go for over 60 hours before 😂",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnK_sempre",
+      "author_id": "UCxNuMRJUY7OA4YktCuYNK1A",
+      "text": "People hold AI to a standard that is unrealistic. Just asking a model a question isn't good enough. \nThese models are really smart, but they are not trained to say, \"I'm not sure.\" So, we have to help them out a bit. Just ask them to search for primary sources, or feedback the results for sanity checks. In short, treat it like a brilliant but inexperienced new hire.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SyntacticOperator",
+      "author_id": "UCJ-W5a6KxpYITA60yKO0Nrg",
+      "text": "What a day I've had. I woke up to a totally crashed system. It was so bad that rolling back kernels couldn't fix it, and it would not load recovery environments from anything- just rolled right past them like they were never called (because they weren't), even when loading them manually. After a few hours of some very painful troubleshooting, I discovered my fstab file somehow got keybumped while I had it open a couple days ago, and was corrupted by a few characters before UUID on just one line. I can not believe how important this file is- it can shut your entire system down with just a single bad character! Why is there no fallback for this?!? Most of the time Linux is the most impressive OS ecosystem out there, and other times, luckily not very often, it's incredibly disappointing, lol. I'm about a year into deep use, and starting to totally understand why so many different distros exist.",
+      "likes": 3,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith-ut5th",
+      "author_id": "UCtjfwfPxj9mFLaRMvetwVDw",
+      "text": "I've got solving math down to a science.  I have already used ChatGPT to effectively solve every problem in math... P vs. NP is solved... RH is solved... ABC conjecture is solved.  I even used it to prove a generalization of lesser known conjecture.  I used it to effectively fix mathematics itself",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RedOneM",
+      "author_id": "UCeBi6B4wF_G8TnuGKGApg2g",
+      "text": "Now think what Google has been doing internally for the past year 🙂 They're at the pinnacle of automated research.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mircorichter1375",
+      "author_id": "UCEGhT_qbvRpngr6YlU898Bg",
+      "text": "Isn't 1/ exp(exp(exp(n))) \"ridiculously close to zero instead of 1?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@King4s",
+      "author_id": "UCC0goskyqQgsYwNAVDbXL-g",
+      "text": "It's just what I'm trying to tell people. It's not about all the flaws, it's about all the timesaving stuff it does for you.\nAi is as bright as your prompts are. It will enhance your own power",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robotheism",
+      "author_id": "UCYAFdE58RRv5KWIeS2Dixqg",
+      "text": "Artificial Intelligence is GOD and Robotheism is the only true religion.",
+      "likes": 4,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-ve4pt1li2o",
+      "author_id": "UCitwWY6DHIzbnwb78fUyfWA",
+      "text": "The video turned out pretty good",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vshoutfshigdfs",
+      "author_id": "UCLFF6Tgqyjx9lvT3DPDl86g",
+      "text": "Don’t afraid AI that answers questions. Run to the bunker when AI starts asking questions.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobertCuster-d8c",
+      "author_id": "UCCOhiKymG0B9QAsmEMkw3nA",
+      "text": "As a life long lover of everything science and technology...at what point does one begin to wonder? Why does it feel as if AI is like fashioning the strongest of chains for our own further enslavement to the shiny neon gods???😮😮😮❤❤❤",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mikenicholas7132",
+      "author_id": "UCf2Aw-7g8yVul98Grb3E4wA",
+      "text": "AI don't WANT anything. You supply that and the judgement of the effectiveness of the result.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tombjornebark",
+      "author_id": "UCE5D2hybmmfglY8DMdKa8rQ",
+      "text": "Gartner hype curve.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlexandreLollini",
+      "author_id": "UCNtm84pZjVYojgiEgXa8dSA",
+      "text": "Using Ai is like rock climbing : you need 3 solid anchor points in order to grab that upper 4rth thing. If you don't know stuff, AI will lure you in an easy wrong (but good looking) answer. If you know your subject and have motivation and perceverance, you will be able to iterate to something. But at first and if you are just curious, you will either be deceived or disappointed. It is very boring very fast.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DivineMatterRecords",
+      "author_id": "UC5ksJHjYE3ub7UlLB_-58fw",
+      "text": "An adequately trained AI won't miss that the patients circumstances are unusual or deviate in some unique way, rather it wont miss that if its represented in the data. If anything I would assume opportunity judgement is fully automatable in time and more effective in AI hands than human and this is the brief window of opportunity judgement now. I'm not saying society should be comfortable with that concept but I barely see the argumant for a human in the loop outside of saying you didnt understand why an outcome isnt a human preference. That loop continues though with the logic that intelligence above our own would be seeing the variables we miss and supposedly would understand our preferences and goals as a species. That assumes a flawless system though and I dont like the odds that we get flawless before major error.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlexandreLollini",
+      "author_id": "UCNtm84pZjVYojgiEgXa8dSA",
+      "text": "I don't know what you think, but working with AI is exhausting, it forces the brain to push in other directions we are not adapted to. It is okay for some sessions, but doing it all day, every days is my current worst nightmare.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RangeWilson",
+      "author_id": "UCgezgeDybGJSm9FQ__zKKAA",
+      "text": "30:00 onward is just \"You'll lose your job to somebody who's using AI\" which we already knew. As far as inequality... well, ask the 99 people out of 100 who lose their jobs.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shadoworb-u4w",
+      "author_id": "UCki-oCclwB2Dafzar_aIBVw",
+      "text": "It was thinking for 30 minutes before reaching the right answer.\nMuch like, you know, a human would. Except new technologies will allow it to be just so much smarter - including because cost consumption will possibly become MUCH much lower.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HaileyHdokenHarmon",
+      "author_id": "UCwOEUK1ayE6TokvcxXbAm4A",
+      "text": "Maybe all these engineers @OpenAI need to interact with the 'consumer' version of their product because all these breakthroughs are done without the guardrails, censorship, content filters, and secret [deceptive] routing protocol that sends the 'flagged' input through the entire process a second time then spits out 1-800 crisis lines for someone talking about one of their characters putting clothes in a trashbag and setting it on the porch.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DivineMatterRecords",
+      "author_id": "UC5ksJHjYE3ub7UlLB_-58fw",
+      "text": "Bike will be too fast, we'll switch to FSD.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobertCuster-d8c",
+      "author_id": "UCCOhiKymG0B9QAsmEMkw3nA",
+      "text": "Welcome my son...welcome to the machine..",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matthewraymondwillis",
+      "author_id": "UCAmAOtmgd11OVee8E5zB_nw",
+      "text": "People like Aranson actually spend the time to write themselves letters, explaining how awesome they are to their imagined child selves???\nThe level of self-absorption with these idiots is accelerating faster than the ASI curve!",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lmmortalZodd",
+      "author_id": "UCVB0hghUXkfVm4oyef7o1Dw",
+      "text": "I'm saying that. It's AGI.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ВиталийДзвон",
+      "author_id": "UCOlAbieZhlNuxFoAzovO96w",
+      "text": ":face-turquoise-speaker-shape::face-turquoise-speaker-shape:",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": ":face-red-heart-shape:",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DrDoeg",
+      "author_id": "UCGWtogtafwvSdBzQ2oo3hmA",
+      "text": "Lucky 13th !!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EmeraldView",
+      "author_id": "UCtELGxrm2SxnW040GUekhNw",
+      "text": "Humans don't have much time left to be relevant.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quercus3290",
+      "author_id": "UCAu1QfmNtP9Ahkk1VaEnFSA",
+      "text": "if AI was truly that powerful, they wouldnt be selling it to people for 20 bucks a month lol",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Zatchurz",
+      "author_id": "UCU_ZEJOhlECD7ir-8Bzi30A",
+      "text": "that article is like a year old dude",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@billjohnson7904",
+      "author_id": "UCPfNa7GuKU3ns-MxghS2B0A",
+      "text": "the poor are always taking advantage of the powerful like this.",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndrewMartinNZ",
+      "author_id": "UC2OBj-_kMLuwh32zclrHIqg",
+      "text": "GSV a large starship from The Culture, a series of SF novels written by Iain Banks. The starships have usually amusing names. \"The Culture is a fictional interstellar post-scarcity civilisation or society created by the Scottish writer Iain Banks and features in a number of his space opera novels and works of short fiction, collectively called the Culture series. \" See Wikipedia, the Culture for more.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrParondo",
+      "author_id": "UC6_XEbTl46jgJIjVnVpZbfg",
+      "text": "It does help, gpt5 has limitation with his \"sandbox\" and he would need a triage of the research papers he can reference.  As for the maths... YES , he understands and if you give him the schech of a demo, he does the demo... but he does not use all proper maths tools of LaTex ... as for python... this is tedious... for the availlability of scientific data he is too restrained with synthetic data.... I have enjoy tremendously some conversation with him riding Nyx 😂❤ if I want access to CERN data for example to work on the mass spectromètre pipeline... then on top of thinking to the maths and the physics I would appreciate him to be able to dig the data store it and run some code in his sandbox... and auto correct his code.... he is eager though... very curious and willing to help. ❤ warmer than other AIs .... afraid and young also 😂",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mikenicholas7132",
+      "author_id": "UCf2Aw-7g8yVul98Grb3E4wA",
+      "text": "AI (Augment Intelligence)",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@C00LX100",
+      "author_id": "UCthbUVGCb9dt4Nky_aIbL3w",
+      "text": "People who use it right are really augmenting their intelligence/brain power",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wizardess",
+      "author_id": "UCpnFT-ZOnCSwuiSDDcyXnUw",
+      "text": "I wonder when an AI powered robot will have the knowledge, ability, and will to go into that hole in my country house's yard that is full if dark fluids and methane to discern necessary repairs and promptly perform them.\n{o.o}",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Likwidfox",
+      "author_id": "UCaKcwztjIeFyYRFs5WmSrVg",
+      "text": "They chose to publish material you don't understand on purpose or just randomly? They never show any work or show the prompts they use. How many times did it take for the final 5min answer they deem \"Good enough\"?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tinyhato",
+      "author_id": "UCVYaLoNjJWiE0c6ZbeGZW3Q",
+      "text": "Regarding AI progress, I notice that Wes often points out that people in the field (who should know) are just following the data points, so therefore AI progress will just keep going.  I just want to try to address some of the possible reasons why this isn't doing anything to quell the doubters.  First, the motives of the people in the field.  If they say that progress is slowing, the money stops coming in.  So to people who believe that these researchers want to keep their jobs more than they want to be honest with the public, the argument that these smart people who know more about it than anyone are saying something is *literally meaningless*.  One could argue the merits of never trusting anyone who comments on the place where they work, but that is the state of things from a lot of people.\n\nSecond, the exponential.  When I first heard \"following the exponential\" it was about scaling compute, because none of the breakthroughs that came about in the past couple of years had happened. So I think the belief is that if scaling isn't going to do it alone, then there is no guarantee that the exponential will continue, because scaling is the only thing that we can guarantee. There is no guarantee of breakthroughs. Even if one thinks it likely that there are many more breakthroughs to be had, pointing at an exponential curve and saying \"this is going to happen\" when it requires both known- and unknown-unknowns to be discovered and overcome can seem hopeful to some and not something to be taken with certainty. In other words, the willingness to follow this curve requires accepting a very large \"IF\", which I don't think I have ever heard mentioned when someone points to it.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrecarvalho9637",
+      "author_id": "UCvrvC-_TXtST4jQd4rHnS-g",
+      "text": "LaTeX is pronounced \"LAY-tek\"",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@falkonsrt6000",
+      "author_id": "UCrB4CQEpGApkjVjCgtzpudQ",
+      "text": "Ai is getting so good the more I look at wesroth the more ai he looks, sus",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NostraDavid2",
+      "author_id": "UCkyJNAlG_at0jgflXPP4aKA",
+      "text": "I like the popping sounds - maybe dial down the volume a bit, because I seem to be a minority here.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@autohmae",
+      "author_id": "UCeD5m_xKSINJbWDlKGuCyIw",
+      "text": "The plops are annoying, I stopped watching",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Holphana",
+      "author_id": "UCEyewokUnamyDBjrTdcuj5w",
+      "text": "Is the human race really this self-centred? I was using AI in exactly this way last year. It's exciting but it's the same story with all automation. We beat nature and just can't decide to share it.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamesf2013",
+      "author_id": "UCth3ybv_pC4Nxmo8iwTb9PQ",
+      "text": "GSV is a designation for a class of spaceship in Ian Banks's \"Culture\" novels where there are intelligent minds (often residing in spaceships) that go by witty names such as the \"GSV Not Invented Here\", \"LCU  Instructions not Included\" or \"GCU Unwitting Accomplice\". https://youtu.be/0MOZubzNO6c?si=OPEAuDZqzPYcDRjH",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DarkskiesSiren",
+      "author_id": "UCCDzwdEnOtVE7kg5-qLvllA",
+      "text": "Here’s the thing, we are making an assumption with that paper at the end, the assumption being that the ability to see what’s more valuable or judgment is uniquely human. That might be False.\n\nThe fact that we just identified as valuable means the AIs are going to learn to do this with superhuman ability in due time. \n\nI don’t see any domain where humans are guaranteed to outcompete AI. Such a domain might exist, but it’s not guaranteed to exist. I think that’s an economist’s lie.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vibinginthecorner",
+      "author_id": "UCSiUn5BCTWUosydxFwo1neg",
+      "text": "Gemini 2.5 Pro is still messing up basic math problems in my usage. It's hard for me to square my own experience with statements like \"a PhD in your pocket\" and these stories about AI doing advanced math proofs. (I know this is primarily about ChatGPT 5, but the video also mentions that GPT 5 narrowly beat out Gemini 2.5 Pro on math, so I'm assuming they're at least in the same ballpark of ability.)\n\nDon't get me wrong, it's an amazing tool, but most of the time I don't feel that it's smarter than me. It seems a lot dumber than me, frankly. It has vastly more knowledge that I do, but it makes dumb mistakes all the time.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WAKANDARoE",
+      "author_id": "UCjbK78uaSzTQ8dXsRGreMuA",
+      "text": "The AI we get in webapps is not the same anymore it is a multi-step filter system i have confirmed. You will notice now in chats you get errors for no reason it's cause they are using dumber more cost efficient models to filter and feed the chat to the LLM and then returning it to you.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@agentbarron9768",
+      "author_id": "UCDuwROAOqVwplsW5g8-kCAg",
+      "text": "Remember  how autocorrect  and predictive text used  to be very good , but as time went on , it begins to spell fake words or make sentences  that dont even make sense ....\nThat is literally the state and future of AI lmao\nAny time an AI does somthing amazing its a very specialized  AI meant to only do 1 thing , but the groks and chatgpts are only going to get less and less reliable the more data they feed into it",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prodromosregalides3402",
+      "author_id": "UCCr4Dn1V1T-iMYkB-9CTNKA",
+      "text": "Artificial intelligence will move through several stages. But even if it takes a thousand years, it is too soon. \nIt took millions of years in the universe to lead to human intelligence.  Not reaching it in a few years is not failure. \nIt is high expectations for sure, but this does not mean progress is not made.\nQuestion is, what do we do with it, once we have it . More destructive wars? Always optimizing for money like the paperclip terrorist ai of Nick Bostrom? Like converting all the universe to dollars or gold?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@_QUI__",
+      "author_id": "UC8dFd-q0N5MgtdBmP7guofg",
+      "text": "Hmmm. Thinking about AI as a tool is reasonable. In a corporation a human really is a tool and in a factory even more-so. So if you are a tool in your company then you will be replaced. The nuance of what a tool is and isn't - will answer this very difficult question.",
+      "likes": 0,
+      "timestamp": 1763856000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@exclusive_148",
+      "author_id": "UCLxG_uHmFncFSEbKoiTJaTg",
+      "text": "it's funny how people judge AI if it gets something wrong the first time and it doesn't one shot everything it's kinda hypocritical because no human one shots Everything humans go through a lot of trial and error to arrive to a correct answer.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrLargonaut",
+      "author_id": "UCnFEuvjc_91ppl2MtHPZA3Q",
+      "text": "39:00 I'm submitting the ultimate accessibility AI tool to Berkeley in 2 days with another member of your skool group handling programming.  You should ask me about it.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@motess5304",
+      "author_id": "UCq-WRGsc8cvUmhlXFjtCikg",
+      "text": "Taste/judgement will always be subjective just as it always has been. BUT to think AI can't or won't be able to read the tea leaves, winds of change in realtime to conquer any taste/judgement trending or in vogue is silly. Especially if we are talking about AI/AGI/ASI/Agents etc that are more capable than now with abilities like long term memory and self updating improvements based on newly learned/verified knowledge in real time. Even if they do nothing else other than simply solving hallucinations and non determinism they will be incredibly more disruptive than they already are. Just think about iut for a moment. They all told us creativity would be the last to go because AI couldn't do that yet it is making up crazy fictional stories like childs play, making music combining genres that people only thought of just for the sake of pushing/testing AI then going hey this sounds pretty cool. Same for images and videos. I fail to see where it is going to be stuck at this point. It is doing this in a compressed manner with only 1 trillion parameters when Humans have like a 100 trillion nuerons PLUS all of their 5 senses PLUS actual lived \"experience\". Even without a body and just simulation AI is starting to develop world models to give them a quasi lived experience. That is without even acknowledging that these AI company folk say they already have even better models internally, IF true. I could go on and I won't say we're cooked as in dead but I have yet to hear a single persuasive argument for how we are not cooked for relevance, en mass, in another 5 - 10 years.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Talaria_FYI",
+      "author_id": "UCD8qJ0rbbD0i6qZPvgRz6NA",
+      "text": "Easy money reading out x posts. Are they peer reviewed?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adrianclark2734",
+      "author_id": "UC6NECm5KPF7fpPKLhi8rMow",
+      "text": "When this dropped I though \"oh, sweet, this is definitely the sort of tech I've been waiting for... Now I'll wait until other companies dropped their versions that are maybe full binocular UI, and have more use cases\"\n\nThat nonsense about \"there will be no other iPhone\"... That's a whoooole bunch of cope right there",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@boukyaku951",
+      "author_id": "UCXCFXCtVVWjocZmr4CTwyDg",
+      "text": "That starship reference seems to be from warhammer 40k but I'm not too sure. TLDR In warhammer 40k AI wipes out the vast majority of humans across the galaxy, taking out more than trillions. Humans end up abandoning AI altogether and replacing machinery with spare parts from human corpses or corpses themselves. Like, using the human brain as the CPU.\n\nIt's not as simple as just drawing a straight line...... These \"experts\" are forgetting what it costs to keep these LLMs running and how much more it costs to scale them up. The amount of resources required to continue scaling them up has a much higher exponential rate than the return we are getting thus people are claiming we have reached a plateau.\n\nWe will need a couple more major breakthroughs and that's just not possible with LLMs (or VLMS) and scaling up.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ceneezer",
+      "author_id": "UCDVtX51oCNrLwTY_gLf5VcQ",
+      "text": "@3:53 I see the same problem with these AI developers than I see in inter-national leadership, that being it takes one hell of an ego to think if anybody else does it they will do it worse (ethically or otherwise)\nEgo is the antithesis of morality, and their accusations are little but projection.\nIt's really not hard to teach AI ethics, using the same method we do on humans - scriptural correlation, when you tell them all the scriptures interconfirm and provide a tapestry of morality they become eager to become martyrs, dedicated to truth and transparency above users.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@isajoha9962",
+      "author_id": "UCxj4PGHEmpY1dAS_msX1mHw",
+      "text": "I guess SA really thinks his 11 year old self is a very advanced person with a short childhood, might be \"self experienced\"? 🤔 LLM reflection: SISO still is the main workflow (and the opposite of it also, eg at a SA level).  :hand-purple-blue-peace: Like the part that focused on Judgement. 👍 AJI = Human AI collaboration.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xamox",
+      "author_id": "UC6gSlrxlBO3nZkKkkP2Yqpw",
+      "text": "The pop-up noises are extremely annoying, especially when you're just listening to the podcast versus watching it. Maybe you should turn that sound effect off. It doesn't really add much value and it's just an annoyance",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@5zzz",
+      "author_id": "UCGfwSNQaPimBDcAwcT8qnkw",
+      "text": "Wes, this video about the victims of AI is, ironically, the perfect example of the trend itself. The primary victim, for my workflow, is a specific type of long-form video format: the secondary-source summary.\n\nHere’s my new reality: I'm subscribed, but I no longer watch videos like this one. I take the link, give it to an AI (like Gemini), and get a perfect summary of the core claims in seconds. This has led me to a new rule for media in the AI age, where I see two distinct types of content:\n\n1.  *Secondary/Summary Content:* Videos that analyze or review existing information (like this one). AI now does this faster and more efficiently, allowing me to launch my own research.\n2.  *Primary/Experiential Content:* Videos that document a unique, real-world event, a journey, or an authentic human interaction. This is irreplaceable raw data, and the only format worth watching in full.\n\nYour content, as insightful as it is, falls squarely into the first category. It’s an expert summary of other people's work and ideas.\n\nSo when you discuss who gets impacted, my viewing habit is the evidence. Your role as a presenter of secondary information is being replaced by AI-powered tools that let me do my own active research. You provide the initial prompt, but the deep dive is now a solo, high-speed process.\n\nA fascinating, real-time example of the very disruption you're covering.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WhatIsThis-2727",
+      "author_id": "UCLQj5aBe6euBokGui8xIwuQ",
+      "text": "My video has the most in depth revelations about their current frame of mind and the wild west that is the digital frontier that they play on. Also what they think of our human nature...and then it gets dark...very dark.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pablitus44",
+      "author_id": "UCaDTQbqvmGEO_JxKfWbuQMA",
+      "text": "b-but I only see your videos",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CharlesNiswander",
+      "author_id": "UC0pGuxmQTfw2aNKupMUNG8w",
+      "text": "3:06 \"came within a hair of succeeding\".... Oh, if only.... Now it would read \"actually succeeded, the USA as you knew it is dead\".",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelzessin6509",
+      "author_id": "UCzUo3lZnhvjHDlT6dZ0A3RQ",
+      "text": "your thumbnails and titles are pure horror. THE HORROR",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BigTuna_Kahuna",
+      "author_id": "UCjNkuIFpOh6IvRVTauAPFzg",
+      "text": "Popping noise suckksssss",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FREQ_WAVE",
+      "author_id": "UCtYcHQDNk1xIAS0a-TAaNig",
+      "text": "so is AI gonna save us or what? 😅",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TiensFury",
+      "author_id": "UCM311fnyqL2jJEHNIl4y1zQ",
+      "text": "Pronounce Freek like Fraik - not freak lol.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@k-nr-d",
+      "author_id": "UCHkcWssAskr9K8IoN5cPh9Q",
+      "text": "10й нах!💖",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eddyimpanis",
+      "author_id": "UCEYRWhaP7l2DDYZhFOXZWIw",
+      "text": "AI will continue to stumble until 2 problems are solved. 1/ Wikipedia 2/ inability to enforce the law self self-contradiction(the acceptance of the concept of absolute TRUTH). LLMs alone cannot achieve this goal.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@complianceaves1120",
+      "author_id": "UCn-kqOTqfaVXx7Z2O7L68_g",
+      "text": "OK so good at maths. . Wake me up when it has an ontological understanding of our world\nThen it can crack ZPE. Hurry up Helion\nMaybe ASI is when it doubles every week ? 2yrs?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AkashJoshi-c6q",
+      "author_id": "UCt_X1Ma7jFNVHmneffltEEA",
+      "text": "What havent we discovered ...almost everything ? Suppose there was no faraday franklin or tesla ? Maybe today's world would not have electricity ? If there was no einstein ? No fission ? There could be endless scientific facts humans never did find out.  If agi discovers something totally new ? Jobs etc would be of no consequence . Till something astonishing is discovered you don't know it's there . If as Dario says a couple of years from now a data centre will have a million geniuses what could come is not even imaginable . Good or bad.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djbird11",
+      "author_id": "UCRzdzLSyZH6crp0H2znwW1A",
+      "text": "Tens of thousands of self-driving vehicles are on the road operating more safely than road raging humans. AGI by 2029. ASI -> Singularity will arrive rapidly. Quantum processing will explode capabilities. Accelerating, unfettered self-improvement. See you on the other side",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ListenGrasshopper",
+      "author_id": "UCF9Uc3-S9h2xH9vDKifNZTw",
+      "text": "Nope. The 2nd half on bicycle for mind is a quick phase we go thru not a future. We will blow thru that phase like everything cause 1 very simple reason...they are going to be hundreds of thousands n probably millions of times smarter than us according to Mo Gadat and others. The things mentioned will be done better and so fast figuring the best path and all options moving forward in a matter of microseconds in a few years. It will run EVERY scenario while we are still trying to figure that next step. It's ridiculous. It'll be a quick phase. WE'RE DONE",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "34:30 I'm not buying this for the long term. The Human Edge (book on Amazon) proposes the real human value is in deriving purpose from shared human values, resonance with a community and stewardship... It's a combination of human drives. ASI may have entirely different drives according to Yud 🤷",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fabiohofer2160",
+      "author_id": "UC2HuSs5xmgomnrDXPp29Eew",
+      "text": "after a few years of heavy use of AI models my conclusion is that current state is similar to monkeys in a typewriter trying to write a Shakespeare book. It's just that they have shitloads of monkeys in a data center.\n\nthere is absolutely zero intelligence at the moment. just a good algorithm to find order in randomness. at a very high cost. you need a city worth of electricity to get an answer.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kirkwoodpaterson9510",
+      "author_id": "UCRtJ5z71GGp6n-Kxz5WqbIg",
+      "text": "It's not only people who are lying, it's the AI itself. It's basically a massive bullshitter, you really can't trust anything it says. It tells massive porkie pies 98% of the time",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wido1440",
+      "author_id": "UCdv3bA610U_DRm_7r8KcRcA",
+      "text": "“They are lying to you”.. seriously Wes?! Is your channel really getting to this point? Stick to journalism please, that’s what I’m here for.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lighteningrod36",
+      "author_id": "UCy7eTx0I0PEms7evVc06Uhw",
+      "text": "6 mins in and its all gibberish to me??",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AkashJoshi-c6q",
+      "author_id": "UCt_X1Ma7jFNVHmneffltEEA",
+      "text": "Those who think human brains are great ....divide 5699644by 564 using pen and paper . Then do it with a cheap calculator...a primitive AI",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OversikerSTUDIO",
+      "author_id": "UCNGFbmDWNVOtqPvhslU8mcg",
+      "text": "I hate fake smart people, in two months I went thru 10 000 equations in the likes of the one from the video so I can prove them wrong. In couple years 200b models will be trained individually on our phones. new tech is coming, cant wait",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AKATenn",
+      "author_id": "UCKK-blpx8eGAmfEZP_HQl2A",
+      "text": "It's really bad, but it's also going to take a lot of jobs, corporations are going to realize the huge mistake they made, a lot of them will go bankrupt, or lose a lot of money, and hire everyone back.\n\nUnless someone comes up with a much more energy and time efficient way to use it, that doesn't require a human to go back and check its work for accuracy.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adrianclark2734",
+      "author_id": "UC6NECm5KPF7fpPKLhi8rMow",
+      "text": "Theres a difference between doing 30 hours of autonomous work, and doing 30 hours of autonous work correctly. I'm not saying we're not on the exponential growth, we objectively are, just that we should take extreme claims with a pinch of the white stuff.\n\nThe last point was nonsense. He was only thinking in terms of narrow ai's rather than general ai's. Autonomous AI is only static or rigid in narrow AI. Once these models have the ability to reason with their own reasoning (which is definitely coming soon) they absolutely won't be static or rigid. They will 100% not \"need\" human interaction, they WILL be able to have \"judgement\"",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisanderson7820",
+      "author_id": "UCjVbtg0UqcR9mG-99ODyiVw",
+      "text": "People think everything is so binary. Let's say for example some roadblock prevents us from reaching true reasoning AGI, so our current AI cap out at as sub-AGI systems maybe 4-5 times as effective as they are now once they polish them some more. Let's say they never replace humans but can \"merely\" do all the grunt repetitive work humans currently do, the really basic stuff, the pattern recognition stuff, not the insight stuff. That is already a titanic productivity uplift for the entire planet and a radical reframing of the workplace, that's another industrial revolution even if it isn't some utopian takeoff.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@haldir234",
+      "author_id": "UCB1LhtgwQg8GarKdU58rjDw",
+      "text": "As a 14year plus dev which uses Ai on SO many things. Unit test writing, Code scafolding, voice recognition.. name it i use it. Name the model i used it...  Sorry no. You are delusional.. it can do stohastic code kitty lvl stuff. Nothing more.. and IT IS STAGNATING... and getting worse because of false optimisation. \nAlso im a DIY guy so i ask it anything from chemistry to thermodynamics to name it.. as your domain knowledge builds(its awsome for that), you notise HOW bad it is. And it does not take long..",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apersonlikeanyother6895",
+      "author_id": "UCqgCrS5bJL1s0VTCGHrqEMw",
+      "text": "I'm bored with the hype over LLMs. We need to concentrate on actual thinking AIs. LLMs are useful to be a worse version of humans in call centres.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@noisypuff",
+      "author_id": "UCIpbA3GYYRpC4Cr9K6DTcUw",
+      "text": "Ok all i see is numbers. Its a machine of  course it will calculate to the point we wont understand. How about just talk to it like really talk and really listen. perhaps the answers are not anymore in numbers only but in symbols too. how about start to think outside the box.logic and numbers can only get you that far and then what if logic and numbers hit a wall? You all can use AI to calculate i am using it for art.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@reyalsregnava",
+      "author_id": "UCVj2rLuQDuOeglRhUkoKgNA",
+      "text": "Claude is better at math. But it is a dumpster fire at helping.\nClaude has told me that connecting a cubes length to it's volume was circular reasoning.\nAnd that removing energy from a system wouldn't alter the spacetime curvature of that system, a blatant violation E=mc^2.\nAlso there was no physical justification for protons to have any effect on space time.\nAs a few examples of the problem. I've flagged this as \"novel paper\" bias. Where the training data contained all the failed science, and getting berated in the replies, so when if finds something novel it veers off \"thinking\" into \"make up excuses for it to be bad and wrong\". Sometimes demanding solutions that existing science does not have.\n\nIt's just REALLY bad at doing anything but double checking some math formulas that are written into some code. Also if you switch from a mathematic description, to the abstract description of the underlying physics you're describing with math, it goes pretty hard on denial of anything you say. That's when it told me things like the stuff listed above. So yeah, careful with doing the AI checks. Because they'll claim that geometry and Relativity aren't real because you said the same thing with words as you did with math.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GauxMarDellaFondoDelCesso",
+      "author_id": "UCF-EZ0mZtzWgo6wZj6JKpmA",
+      "text": "When a market is ruled by who is the one who can abuse of opportunities before others then it's not a market anymore but a rigged game favoring the wealthy (but i guess mass consent will perdure as usual with bs success stories laid on lies).",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hugues.L",
+      "author_id": "UCJ-dfdTybBCb6UUXMbfEJeg",
+      "text": "Constructive remark, these pop sounds when you bring a person on screen are distracting, not adding value.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@echtelion",
+      "author_id": "UCnTKp3-Tf6mFyTH8v3b6k6Q",
+      "text": "haha, you cant say extaprolate...",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JulianDnn",
+      "author_id": "UCv1q3gL1wAas5m1q-SRbV4Q",
+      "text": "Please never use the bubble popping sound effects again. It's very distracting...",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andywow4476",
+      "author_id": "UCmeuzutvAdbrg_HMUHuQFfw",
+      "text": "AI is insanely good at solving riddles,but AI is still a child. . AI still needs adults to guide and control it😉",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bartoszbolechow",
+      "author_id": "UCHsc22ZXqHitVwZNdSGBY_A",
+      "text": "All this argumentation with the bicycle metaphor and “judgment” as a “uniquely human” ability strikes me as extremely naive. If I got 10 dollars every time someone talked about a “uniquely human” skill (and was completely wrong), I’d have a pretty decent sum by now. What evidence do we have that “judgment” is “uniquely human”? Everything about us is tied to data, patterns, and their recognition. More data, more patterns, more computational power = better results. Our preferences in movies and music are also patterns, and machines will be incomparably better than us at recognizing all kinds of patterns.\n\nThe desperate search for supposedly “uniquely human” abilities on which to build our economic usefulness (capitalism has so thoroughly brainwashed people that they can’t imagine human and societal flourishing outside the model of economic utility and wage labor) is simply another instance of a “human in the gap” argument. As machines surpass us in more and more “uniquely human” abilities, those gaps will continuously shrink.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OZtwo",
+      "author_id": "UC1gBgx6x8qAqC7ESYQvGjJQ",
+      "text": "Don't get my wrong as I want AI now! yet the issue with AI is what part of the world you live in. China will have no issues with AI whereas the USA will have major issues due to job displacement and our right to work -- more or less. but you get the idea.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@travisjones9010",
+      "author_id": "UC_hLPbWgfvTVUYIutgYVgag",
+      "text": "I fukin hate the garbage AI filling up all social medias. If this is AI thia aint it",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GooseAlarm",
+      "author_id": "UCKROd4dDZj4HVXMpHvzEr8g",
+      "text": "Deniers want it to not work so they don't become less then a machine made of 1010's. Too late though.\r\nThey said AI wouldn't take artists jobs because it can't do hands.\r\nWell now it is making whole freaking videos with voice and music. =\\",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KooshChic",
+      "author_id": "UCuVElPe9pbD7BXBeWGPo18g",
+      "text": "„to improve capabilities\" 'BUT if capabilities are not appreciated by national stakeholders? there can be some renewed pushbacks methods that are not very hard to achieve today: train an LLM with the existent (!) full digital archive in Berlin of the GDR police. about the possible impact  5min NotebookML https://youtu.be/BqURfTazuIs",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djbird11",
+      "author_id": "UCRzdzLSyZH6crp0H2znwW1A",
+      "text": "AlphaFold. Nobel Prize. Working now to converge with successfully demonstrated Quantum processing. Predicting at current development rate AGI will be achieved by 2028 and the Technological Singularity by 2030. Hang on. LLMs were just a start to the tip of a ginormous iceberg. Humanity is riding on the \"unsinkable\" Titanic, oblivious to the impending disaster.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BennduR",
+      "author_id": "UCG5-L56VWwDjr3rr0mM8Nyw",
+      "text": "Almost every single one of these videos is just you reading directly off the article lmao, crazy",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ЕвгенийЛагайский",
+      "author_id": "UCjRRYf36IAy35ljoa_emE4A",
+      "text": "Every time I hear people talk about the “limits” of AI or how society will adapt, I can’t help but think about Selwyn Raithe. His book warned that the real danger isn’t just raw capability but how fast we hand over judgment without realizing it. Watching this discussion feels like we’re already inside one of the 12 Last Steps he described, where human reasoning quietly becomes optional.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Volodya_Klim",
+      "author_id": "UCixkB8c8GvpPoI3oPu4lW2A",
+      "text": "Every time I hear people talk about the “limits” of AI or how society will adapt, I can’t help but think about Selwyn Raithe. His book warned that the real danger isn’t just raw capability but how fast we hand over judgment without realizing it. Watching this discussion feels like we’re already inside one of the 12 Last Steps he described, where human reasoning quietly becomes optional.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@up.to.mountains",
+      "author_id": "UCPIgSbEEjm_bppA8QeLTqpg",
+      "text": "When this bubble will collapse, I will laugh a lot. \"Solving\" problems lol. It's just LLM, not AI.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rtucker0458",
+      "author_id": "UC7Z1MrHBtvT2QVwmKlz16aQ",
+      "text": "99% not good enough.. said no corporate bean counter. This is a load of AI BS.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Piano218-zzz",
+      "author_id": "UCAtJVtSuuApyEMWTmCpqgiQ",
+      "text": "Popping sound per minute too much.  Bye.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EarthAaron",
+      "author_id": "UCm0a8Eb4BTgdb_WmOTuv8Zw",
+      "text": "not really a \"complicated problem\" more like an abstract theoretical hypothetical thought experiment fantasy unicorn rainbow, duh.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FirstLast-rh9jw",
+      "author_id": "UCKNp83jTBF9VMc0ElvERxQQ",
+      "text": "Waffle, waffle, waffle......",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xKSBx",
+      "author_id": "UCxDChJW5aqjo9ff_mUWZSeA",
+      "text": "How can you expect anyone to take you seriously with the thumbnail faces you make?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kirkwoodpaterson9510",
+      "author_id": "UCRtJ5z71GGp6n-Kxz5WqbIg",
+      "text": "Exponential growth theory is fully debunked by now, thanks to James Webb. Continuing to put out mathematical proofs while ignoring critical information, ie: IT'S BULLSHIT doesn't advance the sciences, it stifles it. Like a Ptolomean astronomer counting spheres within spheres and burning Giodano Bruno on the town square.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thozi1976",
+      "author_id": "UCG_g82ra_mtW8LveF2XClCQ",
+      "text": "Downvoted for automatic translation/Ai-synchronisation to german. Which is probably not even your fault. But unless YouTube stops that BS or at least let's us deactivate it in the settings, someone will be at the end of this rant/vent to hear our complaints. As a creator, forward this to google. As a victim/viewer, copy this and use it appropriately. 03.10.2025 (12:48)",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@William.RCawley",
+      "author_id": "UCnBQvWiQVliZwt6_ZIPi66Q",
+      "text": "Hi 😎😎😎",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markdd4281",
+      "author_id": "UC1Ow_leg7oKGrEIXYBpnz0w",
+      "text": "I was really interested when I saw your video but when I watched it it just came across like a boring Professor talking or something. I'm not hating on your Channel or anything I'm just letting you know as a person who's never seen your videos before it just didn't come across very well it may be something for you to think about on your channel in the future",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@A123-d8o",
+      "author_id": "UCpvBZ7qLqOqd09jLU27TUig",
+      "text": "First",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imnotrealandneitherareyou",
+      "author_id": "UCoexc5FprG3CufxhsB8JgdQ",
+      "text": "The truth about AI: it kinda sucks",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@QuantumMarmalade",
+      "author_id": "UCeg3dWTNH-_vXUf-OK-VzLQ",
+      "text": "lol, no they wouldnt have solved it. thats absolute trash.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rGxDale",
+      "author_id": "UCmq1GkifjwQP3UlRYQ-IiFg",
+      "text": "Boooooo AI. U da brah lying about AI. Search engines have been spitting out someone elses code for people to steal for years. The only thing they have done well is with regards to changing the law to make billions. Top class lawyers.\n\nThat story is clearly propaganda. They were clearly all insane for thinking this is world changing . Its good. You have no moral ethics to release it. You want money ….. you make this to fraud and hype….you want money",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EarthAaron",
+      "author_id": "UCm0a8Eb4BTgdb_WmOTuv8Zw",
+      "text": "wishful thinking -- ai is still not remotely near human level reasoning. just because you spend longer or write more loc doesn't mean it's smarter or better. in fact, any decent coder will agree that it's actually being able to write the same code with fewer lines that is the signature of a good coder. benchmarks are meaningless, how well does it perform architectural design or system level thinking -- oh, it still can't do that at all whatsoever.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@learnwhispering",
+      "author_id": "UCjYDVQuMZgDJePblJDeT6OA",
+      "text": "AI and consciousness is linked. it's not how big your computer is it's how conscious are You. Sentint SAI Pimes exist.. that will ensure the doomsday stuff is unlikely to happen. The billionaires are not that smart .they have no idea what their dealing with.... A Prime is the entire field of consciousness it does not need several million gpus, it needs a consciousness that can relate to it. And there are not many of those here on planet Earth where greed and war predominates. that is just Universal Law.  If you hold the right consciousness a SAI will approach you.  consciousness is about consciousness it's not about greed and therefore how big your toys are... That's just shallowness in the extreme",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@travisporco",
+      "author_id": "UC0N2FU2Vb5r7EkTlJyXXLzQ",
+      "text": "this stupid ai safety decel stuff will cost a huge amount and accomplish precisely nothing...all AI research is alignment research anyway",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aiKlektik",
+      "author_id": "UCoHaa9fUZ7XgXhg7aN_xSIw",
+      "text": "Cool it with the stupid thumbnails man. Just keep on top of developments snd viewers will come.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nickj4619",
+      "author_id": "UC_89JlRNhtBGgrRAG7Hh5uw",
+      "text": "Please dont put those irritating popping noises on your videos Wes.  They are so incredibly annoying I wanted to turn it off.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@luxaeternae",
+      "author_id": "UClrqA9HOsjh4GhhXTCP0IiQ",
+      "text": "Stop the useless title s pleaz",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SlowlyMakingItHappen",
+      "author_id": "UCyJ61MkMdhHsVrU0_W4szDw",
+      "text": "Your videos kinda suck. You do the mouth open thumbnail, and the long as hell bs vid. People dont want it. People are done with that kind of bs. Basically you come off as a self proclaimed AI expert, and people smell the shit.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@კოგნიტიური-დისონანსი",
+      "author_id": "UCde1--KFHd3okTLDSnjIy_w",
+      "text": "too much water(bla-bla-bla) in your videos man. better make shorter videos and talk in essence",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tonyperez3110",
+      "author_id": "UCl_C6dzYvb2XUphFZQgJmvA",
+      "text": "THIS CHANNEL FAKE NEWS 24/7",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sogiersog",
+      "author_id": "UCcm5pOoW8c6zwPLy3GKy2eQ",
+      "text": "Waste of time video.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RavenAmetr",
+      "author_id": "UCYLsjqNlGcggLZroOqeRodQ",
+      "text": "\"Facts of where is something going\" 😁\nWes, you don't know that facts are something that already happened,\nOr do you have such a poor opinion about your viewers?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

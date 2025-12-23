@@ -1,0 +1,3177 @@
+{
+  "video_id": "uesNWFP40zw",
+  "title": "OpenAI Just SOLVED Hallucinations...",
+  "url": "https://www.youtube.com/watch?v=uesNWFP40zw",
+  "comment_count": 352,
+  "comments": [
+    {
+      "author": "@tjn0110",
+      "author_id": "UCs0_Oz73dzWbaivZOIqEfsA",
+      "text": "I respect an honest \"I don't know\" far more than a guess.",
+      "likes": 114,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raul_jocson_",
+      "author_id": "UCuz1VI8IayJ2CU4pQ8ZkFdQ",
+      "text": "This \"everything to gain from guessing\" dynamic can also be seen in human social systems where a person is penalized for saying \"I don't know\" but not penalized for making something up. In politics and corporate hierarchies, for example, a person is much better off making ambiguous or unverifiable claims rather than saying they don't know what's going on. Maybe we need to fix that too.",
+      "likes": 21,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PoffinScientist",
+      "author_id": "UCjrib8cL-VClGPZyE57Jgxg",
+      "text": "In a court of justice you'd better say 'I don't know' when you don't know instead of inventing an answer, or you'll be punished hard",
+      "likes": 14,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TangentFuture41",
+      "author_id": "UC6bzxpRRKfaHWMdjeTLJ7Kg",
+      "text": "The fact that humans will literally make stuff up and we sit here and wonder why the models make things up is kind of wild to me",
+      "likes": 253,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Will-kt5jk",
+      "author_id": "UCZ8PF1Lgf2y6jkjcuvL3oyQ",
+      "text": "It reminds me of incentives for academic papers:\n- positive results = more citations\n- more citations = better prestige, opportunities & funding\n\nThat discourages publishing of negative and null results, which in aggregate, have a lot of value & for exploring fringe areas which may be more likely to hit negative results (but have high value in narrowing down search space & potentially very high value if a positive result is found). No to mention the incentives to reach for (potentially flawed) positive results via biases. P-hacking etc.",
+      "likes": 100,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@picksalot1",
+      "author_id": "UCT4iVTWH7cyAyo3BdsThzQg",
+      "text": "\"I don't know\" honesty = 10, reward = 4",
+      "likes": 42,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eSKAone-",
+      "author_id": "UC99etezt4Hko165Nd0XGW-A",
+      "text": "key points:\nWhy Language Models Hallucinate\n * Language models are incentivized to guess when they don't know the answer, as training gives a \"thumbs up\" for correct answers and a \"thumbs down\" for everything else, including \"I don't know\" answers [02:00].\n * The training and evaluation procedures create a \"natural statistical pressure\" for models to hallucinate [03:09].\n * There's no penalty for wrong answers, and the models are always in \"test-taking mode\" [11:43].\nConfidence and Self-Certainty\n * Language models have an internal sense of confidence in their answers. Consistency in answers to the same question indicates their certainty [05:38].\n * Models can be trained using their own confidence as a reward signal, a method called \"reinforcement learning from internal feedback\" [05:54].\nThe Role of Pre-Training and Post-Training\n * Base models will always have hallucinations because they're not trained to eliminate them [11:51].\n * Post-training helps reduce hallucinations but doesn't eliminate them completely [09:36].\nSolutions to Hallucinations\n * The solution is to reward models for expressing uncertainty, similar to how humans get social credit for admitting they don't know something [13:51].\n * Updating benchmarks to reward expressions of uncertainty could significantly reduce hallucinations, as most popular benchmarks use binary grading [14:51].\nConclusion\n * The video suggests we've been approaching the problem from the wrong angle. A minor tweak in the training process could lead to a significant improvement [18:14].\n * This new approach could be a breakthrough, although it might mean we see more \"I don't know\" answers from language models [16:31].\nFor more details, you can watch the video here: https://youtu.be/uesNWFP40zw?feature=shared\n\nYouTube video views will be stored in your YouTube History, and your data will be stored and used by YouTube according to its Terms of Service",
+      "likes": 70,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrokeTheInterweb",
+      "author_id": "UCQpY3RFLHI2Mfe3nCijNGCQ",
+      "text": "So we programmatically encouraged the Dunning-Kruger effect to save time 😆",
+      "likes": 6,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnDlugosz",
+      "author_id": "UC6VnrjS4lIMF5PWUMBIVJWQ",
+      "text": "I did UIL academic \"sports\" in high school.  Testing was penalized for wrong answers, to compensate for guessing.  We had to understand the rule to decide how many I needed to eliminate before guessing would come out ahead of leaving it blank.",
+      "likes": 5,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brett2themax",
+      "author_id": "UCK8_mLyOidwTVKGxb_3Gpeg",
+      "text": "AI trained on internet data where Dunning-Kruger runs rampant so its probably an embedded character trait.",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FanatiX24",
+      "author_id": "UCk-rHIZyZJqrTPEfArLJUlA",
+      "text": "It's easy, give 1 point for right answers, 0 points for don't know, and minus 1 for hallucinaltions",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertheinrich2994",
+      "author_id": "UC6MzGQlMEF9ICf3gGPcp1qQ",
+      "text": "in uni, my professors used another strategy.\ncorrect answer: 1 point.\nunanswered: 0 points.\nwrong answer -1 point.\nessentially, shut up if you aren't sure.",
+      "likes": 4,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HarrisonLongmore-th3bk",
+      "author_id": "UCuMU5PT7XNuqF_D-r320olg",
+      "text": "AI informing users of their limitations would be so useful. I can’t tell you the number of times a simple, “I’m sorry, I’m not sure I can code that,” or “If I do this, there is a very good chance you may lose your current code as I will need to recode everything,” would have saved me so much time.",
+      "likes": 4,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sourcematerial3439",
+      "author_id": "UChDTFevMLu6YBPPJXm00yQg",
+      "text": "Didn't expect reinforcement learning to have so much in common with \"You Can't Do That On Television\"",
+      "likes": 5,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rnater7145",
+      "author_id": "UCS_tLB33zu3vvLs9LPrPH1A",
+      "text": "some people do the same thing, when asked a question they don't really know the answer to, rather than say that they don't know, they say something that sounds plausible and  hope it sticks",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YJxAI",
+      "author_id": "UCgXDesc6IZBfNWqWJ3fBpdg",
+      "text": "I think competitive exams are a very good example you get 1 point for getting correct and 0 for not solving but if you get the the quesiton wrong you loose 0.25 from your already accumulated score. This penalizes hallucination but also enoourages to get more score.",
+      "likes": 5,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robmacl7",
+      "author_id": "UCbZw3-4Juvh6OviLf3w9xVQ",
+      "text": "You get partial credit Wes.",
+      "likes": 9,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CalculusDaddy",
+      "author_id": "UCGqGM780Ggko2H-Zjfx_aPg",
+      "text": "This is the kind of headline that we instantly know is fake news because if it were real it would change the world.",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertgosz4281",
+      "author_id": "UCCH2ov6DqhupeiVC1B8KcoQ",
+      "text": "Not only they are trained to lie. They are also trained on false information.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@microzan2231",
+      "author_id": "UCDayhLAJ4Rm65EXV7htYb9g",
+      "text": "So make GET IT WRONG = -1 \nand keep (IDK) = 0",
+      "likes": 16,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidcache6802",
+      "author_id": "UCVG5tFHoC40U07mwMzYtPDA",
+      "text": "i believe the solution proposed here to stop hallucinations would lead to some regressions in reasoning; Sometimes the best answer given a set of unknowns is an invaluable catalyst to the adoption of novel ideas.",
+      "likes": 8,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@martinjackson7111",
+      "author_id": "UCIL0JfReQ0FFuyj7ey4Qikg",
+      "text": "Not sure I would use the word SOLVED.  If I have a model that knows 50% of the answers on a benchmark and to simplify the analysis there are only 2 answers one right and one wrong.  Currently it would get 75% (the 50% it knows and the 50% of 50% it guesses).  If we change the benchmark to not penalise IDK but do penalise wrong answers (i.e. -1)  then it would score 50% for what it knows and 0% for saying IDK, so overall= 50%;  if it guessed it would get 50% for what it knows and (-25% for wrong guesses and +25 for correct guesses) = also 50% in total.  So now the model only scores 50% which accurately reflects the model's performance, but that is 25% lower than what is was scoring on the existing benchmarks.  So in effect we haven't solved hallucinations we have just made the benchmark more accurately reflect the models real-world performance - i.e. it still isn't any better than it was and it isn't getting any closer to AGI or whatever.  In the real-world the cost of a wrong answer could be much worse that the reward for a correct answer.  For example if in our case above if the wrong guess means that next week you are going to need to go to hospital to have painful surgery it would probably be better for you if it says IDK - so you can get a second or third opinion.  So in this case you might apply a weighting factor - let's say 10:1.  So now we get 50% for those it knows are right but then ( 25 -25*10)/10 = -22.5% for guessing - so now our overall benchmark score is just 27.5%.   I think that this is what reports like the MIT survey with 95% non-adoption rates are starting to show , i.e.  the current benchmark performance numbers are skewed to reward guessing, but in real scenarios where the downside is worse than IDK then the models are not viable.  Currently I think the high benchmark scores of these models are massively hyped up because they accept hallucinations with no downside. Remove hallucinations and create more non-binary weighted benchmarks to represent real-world scenarios, and we will see the true performance of these models  - so I cannot see the AI companies going that way any time soon.",
+      "likes": 10,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apocryphalshepherd",
+      "author_id": "UCz-lU9i47ltDb5qRayASDWQ",
+      "text": "There's no way they figured this out just now. They must've known this for a long time",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShawnMuncy",
+      "author_id": "UCm4uo885eGcunFIlQmcBmlg",
+      "text": "The problem with hallucinations isn’t just that training rewards guessing or allows “I don’t know” responses—it’s that artificial intelligence faces no negative consequences for being wrong. In contrast, natural intelligence evolved under real-world survival conditions where mistakes often carried life-or-death costs. This evolutionary pressure forged strong incentives for accuracy, caution, and effective uncertainty management: when not knowing was safer than making a reckless guess. Artificial systems, lacking those stakes, optimize for fluency and plausibility rather than truth, which makes confident but incorrect answers far more common.",
+      "likes": 29,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@virgiliustancu9293",
+      "author_id": "UClHrrDk1UNKSXzdru1zNL9A",
+      "text": "Models hallucinate when they are trained to give answers when they don't have enough information to give the answer.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ClankerT800",
+      "author_id": "UC8RkU6EHbtqK33k88Vc0DEQ",
+      "text": "they should collect questions where the LLM says \"IDK\" and use it to train it by giving it the right answers",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoeSmith-jd5zg",
+      "author_id": "UCGQmDThD_mO_C4djoEFTcRA",
+      "text": "WATSON on Jeopardy 14 years ago included probability of being right on every answer. Why not LLMs now?",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tylovset",
+      "author_id": "UC6YQ5O6iGyFfvhL-S4aHLOQ",
+      "text": "One doesn't have to be a genius to realize that \"I Don't Know\" should have be rewarded higher than outputting speculative guesses as absolute truths. And what you actually want is: \"I don't know, but I can give some informed guesses\" if it finds answers with similar, but sufficiently high probabilities to be correct.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@netTraverser",
+      "author_id": "UCIUX9SmgyIYohvxRu_GPVlg",
+      "text": "Appreciate you West 🫡",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@holdengraham6945",
+      "author_id": "UCkLQb1IB8TEIQ0rjgxKYUMQ",
+      "text": "I feel like an easy way to implement would to be give it a .3 incentive to say idk to outweigh taking a guess but not enough to get spammed if it's confidence is high enough",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rokasb9441",
+      "author_id": "UCGSMZyUMl2Y3z-EpNrVV9CA",
+      "text": "Most exams don't have penalty for wrong answers... not in my uni :D",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheSteveTheDragon",
+      "author_id": "UCk7trglygCyar8_tH2YO2mg",
+      "text": "This is huge for law and academia as well as anyone who needs factual data!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrBlablaishere",
+      "author_id": "UCLPvKDyayrzg1fFQZHVvSIA",
+      "text": "Most models respond really nice when asked to express how certain they are when giving a response.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@naranbaz",
+      "author_id": "UC0zpRUpqQsYy129SxnyTy8Q",
+      "text": "To be clear they didn't solve it, they proposed a hackey fix, but it is not proven yet. Hallucinations of llm models are a feature, not a bug.",
+      "likes": 23,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Uthael_Kileanea",
+      "author_id": "UC0Q15dubna9zWTCIUqENOcQ",
+      "text": "\"I'm not sure, but it could be * or ****, depending on **. You could find out by ******\" would be a very satisfactory answer.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@plaidmustache",
+      "author_id": "UC8hzoO5aKBJ9gCT173dAOJA",
+      "text": "I’ve been using a proxy where if the confidence of the LLM is lower than 0.70 then it’s supposed to call a tool to confirm the answer. it’s working great.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bigcauc7530",
+      "author_id": "UC68GkB6Xsj-tf2yv19e-RKg",
+      "text": "I have been for something like this to come to light. Thank God they're thinking about it",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheAkdzyn",
+      "author_id": "UCtxm3GHg2NITr5LsnLAj6Bg",
+      "text": "So the ai was lying because we were lying 😂",
+      "likes": 4,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brendanbenedict31",
+      "author_id": "UCw-st6uLMjdcGmUx2c94Jcg",
+      "text": "I feel like saying I don't know would become a local minimum which would be hard to train around",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bezoro-personal",
+      "author_id": "UC9QtQiylvsxSFgsKdbFWYKw",
+      "text": "I just asked it what my birthday was and it said \"I don't know, you haven't told me.\"\nSo I guess these improvements are already in?",
+      "likes": 17,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HD-Grand-Scheme-Unfolds",
+      "author_id": "UCfgH_BBOCiUqEXbXuR9DKrQ",
+      "text": "energy based models may offer the solution to inherent form of IDK like behavior that can later be used to quantify IDK. making it be submittable as a metric that the net can be trained to recognized.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KaiHenningsen",
+      "author_id": "UCRGgKgxSrRFi3dCAZGfFRcA",
+      "text": "I tend to describe it not as a hallucination, but as \"they lie, just like young children\". In fact, all the ways LLMs fail are ways we humans also fail, just usually less.\nAnd in fact, I'd say this paper shows a human failure, in that you look at this and think \"this is so obvious, why the hell were they so stupid?\" Maybe someone should write a paper on that one.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@citris1",
+      "author_id": "UCZqxNIw0FPfrD6rc81V42gg",
+      "text": "Because information is infinite we must always make decisions with limited information. Therefore there is always some degree of uncertainty in them. Any intellgent system should have a means of judging that uncertainty.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erikjonromnes",
+      "author_id": "UCzsOLZY7ADCb83VxRraxjBg",
+      "text": "I don't feel like knowing right now",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBalance-ld1ng",
+      "author_id": "UCKx9OCnXeEOgyg7lICO9_yg",
+      "text": "We don't know how it would know that it does not know!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dawid_dahl",
+      "author_id": "UCqddRn8yswp0eMFrXkSttXg",
+      "text": "Makes sense. Thanks for the video!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moisesbessalle",
+      "author_id": "UC5uJyYNTomK5Vrkf7jGj1Wg",
+      "text": "WHAT??!! but normal DRL penalizes wrong answers with a negative reward so why the F dont they do that with these??!!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tedhoward2606",
+      "author_id": "UCKoFoff-bTnS1Hiw-WT0wmg",
+      "text": "It seems to me that a weighting schema something like this would be most appropriate:\n\n0 - Certain of answer - no doubt - right +10  wrong -20\r\n1 - Very confident of answer - If right +5 if wrong -7\r\n2 - reasonably confident of answer - if right +3 if wrong -2\r\n3 - Uncertain - but possibly this - if right 1 if wrong -.5\r\n4 - I Don't know - .5\r\n5 - Question is too ambiguous - with explanation as to why and what answers could be - if right  +5 if wrong -8\r\n6 - the question is invalid - with good reasons - +10, invalid reasons -5",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gingerhipster",
+      "author_id": "UCG3Sqsvt7CbE6Q_io3J6MAg",
+      "text": "uncertainty is key",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@softwarephil1709",
+      "author_id": "UCe1VOhJx2lOVLKk3GuM7MnQ",
+      "text": "I’ll believe it when I see it.",
+      "likes": 4,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ExtantFrodo2",
+      "author_id": "UCMrgSiWX0PrfLc-OpliS_Kg",
+      "text": "I'm glad this is coming to light BEFORE we begin \"baking\" these problems into \"Ai-on-a-chip\".",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sydra.",
+      "author_id": "UCVYobByWFVGd4TzY288dGyw",
+      "text": "Lol I figured this out a year ago and I don't think I was alone with it.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@area51audio",
+      "author_id": "UCnX2Bv5hO3I5BTXpi1KVyeQ",
+      "text": "Hallucination. When I lie my ass off, can we call it that?",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@p_lepew",
+      "author_id": "UC15a5xkPxy44Fd89OGLSxqg",
+      "text": "Mr Hand, will I pass this class? Gee, Mr Spicoli, I Don't Know! That's nice. I really like that",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thesfnb.5786",
+      "author_id": "UCxgE7PSNT_Y2pJsI2o-3eFA",
+      "text": "I saw this title and literally said, little an insane person, out loud in my lonely apartment at 11pm \"YOO. NO THEY DIDN'T!\"\n\n\nAlso, 500 views in 8 minutes? Bro feel off",
+      "likes": 18,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MultiverseMayhemtoyou",
+      "author_id": "UCoa3shdhbSmrS-rPfUlkdHw",
+      "text": "I sometimes think is hallucinations a part of creativity",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Soloveis",
+      "author_id": "UCtZ0sQH2am_0BDQ-WsyeyCA",
+      "text": "\"big blob, cloud of potential\" make it into a Tshirt",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SinfuLeeCerebral",
+      "author_id": "UC6jfwqFKB8wtb6wl3tISmAQ",
+      "text": "I think one of the best places this growth will show itself is collaboration. When the AI tells you they do not know it does not mean it is the end of the conversation but instead if the human driving the input could work step by step, reframe their question, push the process of critical think especially the direction, I believe the overall quality of output will go up dramatically!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beno8983",
+      "author_id": "UCeZsEOS04aJEUPYi1gxJT5A",
+      "text": "Should show a confidence score on every prompt return",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zaeemali4287",
+      "author_id": "UCZHVcquvXtRRGH1eQwLY5UQ",
+      "text": "There should be a confidence slider with different contexts utilizing varying degrees of certainty...eg language can require less certainty but science/engineering and saturated/structured knowledge require much much more certainty for wrongness can lead to collateral damage down the line in the results",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HiUnidentified",
+      "author_id": "UCXQgIEY7wjbxrjPPnRBkuBA",
+      "text": "early gang. been looking for your take on this one.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shay5025",
+      "author_id": "UCdv4ulb5oSm9qsuoVArzjgw",
+      "text": "I'm kind of surprised openai released this report",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@caffeinated-ai",
+      "author_id": "UCbNWUw6fD5TQqvjSdVXrC4Q",
+      "text": "\"What does this expression mean? I don't know.\" Very meta and very funny. 😄",
+      "likes": 9,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelcox2168",
+      "author_id": "UCZKKY3csz7its8H6m6s67LQ",
+      "text": "Models don't need to say \"I don't know\", instead they could respond exactly the way they do now but preface the response with \"I'm not sure, but at a guess I would say\"...",
+      "likes": 14,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ClassicRiki",
+      "author_id": "UC26LtZixTBURCLYXKke_G8Q",
+      "text": "14:21 I hear what they’re saying…we need to teach the AI to feel embarrassment",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hastingsnow",
+      "author_id": "UCuXMUc6VewIrZ1my5SZHSlg",
+      "text": "Thank you",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@boonkiathan",
+      "author_id": "UCxQXHmP_0sd7uQFKijdRQnQ",
+      "text": "A hallucinated answer is better than no answer, just like the way we use OpaqueA1\nLie to us",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sonic_Shroom",
+      "author_id": "UC8150s8QJZvYGxs8IZq_k6g",
+      "text": "What if it works out that saying  idk will get the reward so just answers idk all the time?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nayrin-sounds",
+      "author_id": "UCrtdUEzS60afip1hEBWjCgg",
+      "text": "Is there no training method where we reward the model only after asking it like 10-100 times and only if it does not guess it gets the reward and we move forward?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juanvannini",
+      "author_id": "UChlHYawuLJ7nDrdg8afBkwQ",
+      "text": "Am I hallucinating or am I the first one here?",
+      "likes": 27,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aresaurelian",
+      "author_id": "UCAJ6jl3LS_tvPK7HEJvw0zA",
+      "text": "Knowing when we not is a super power, and it makes you stronger over time. Guessing may lead to failure, knowing lead to research which will lead to better decisions than just guessing.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@U2Berror",
+      "author_id": "UCjHRxQPOD6HWCzTsMdGY95w",
+      "text": "Next step, there's levels to I don't know. LLMs send expression or tone with their words",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joshfehr9768",
+      "author_id": "UCtYWnZG4ranrBwxPl85wdCg",
+      "text": "My Grok Ai just got stuck saying sterilized over and over",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eakerr4",
+      "author_id": "UCg430bTRF2J_SksCGbCeyqg",
+      "text": "They don’t need to say “I don’t know” and end their thought there. When a human, in a non test taking scenario, doesn’t know they often follow that up with an educated guess and explanation of which parts they do know. That would be much more preferable than getting back I don’t know only",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pravinkool",
+      "author_id": "UCaPxuCqDb_HaTVz09KZ8N-Q",
+      "text": "Of course we do this in exams, but real life conversations with other people isn’t the same and we would admit ignorance more often.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aatventure",
+      "author_id": "UCSz2vwzk7jpwC_4G31UhKfw",
+      "text": "Spoted",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nossocc",
+      "author_id": "UCu4kiSuDedkXCCJyomZZ6Ag",
+      "text": "Saying \"I don't know\" while pulling stuff from memory is different then saying \"I don't know\" when trying to figure something out. First is more like \"I never learned this, or I can't remember\" and the second is \"Im not sure if this sequence of logical steps will lead to the solution\"",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheMetatron333",
+      "author_id": "UCeYJH5Ieb-5mUVl3_A9lyQQ",
+      "text": "“It’s not their fault.” \n\nNo shit, these don’t have agency like that.",
+      "likes": 15,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MisterDaviso452",
+      "author_id": "UCK9WrNbiYKxQBW-bkoEr-aw",
+      "text": "This had seemed so obvious to me so early on that I assumed everyone understood it. I don't say that to inflate my ego, but to encourage more people to get involved. Sometimes it's not about being the first person to have an idea, but the first to act on it.",
+      "likes": 110,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dantow9831",
+      "author_id": "UCNny2Zp4lUne8fzFdjCe_Sw",
+      "text": "I think the ideal would be user-settable, where the user might choose something like \"Give me the answer straight, if you're 99+% certain, tell me \"I don't know\" if you think any answer you give seems less than 30% likely, and otherwise answer something like, 'The most likely answer appears to be ..., with an estimated 57% (or whatever percent you guess) probability of being correct.'\"",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rocksummit3375",
+      "author_id": "UCTWfiKGeNJRPBLLHop59QCQ",
+      "text": "GJ, now just figure out why it hallucinates the rest of the time",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lukex375",
+      "author_id": "UCrgsp9LqkLU49mAkTaNdorA",
+      "text": "Great vid as always Wes! I think this is genuinely huge, but I can see this being indeed very frustrating for the user getting an 'idk' from a model especially when we want it to give us an answer. We go to these bots for answers and unfortunately the AI psychosis of just taking everything as gospel truth is a huge issue. Yet, the frustration of getting \"IDK BRO\" would also cause issues and I think damage the hype of AI for sure even if I think it's a huge improvement. Also, even if we could drive hallucinations down massively with IDK incentives, do you think people will try to game the bots and spam them until they get any output beyond IDK? Seems like an obvious trap but then how can we trust the non-IDK output necessarily more than before? On the one hand it should be more likely to be correct statistically via the model's higher confidence, on the other hand it still isn't a certainty either way and also seeing a bunch of IDKs and then an answer definitely erodes the trust of that answer either way.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VR_Wizard",
+      "author_id": "UC7QWAfm2X2uEhNMN6Y_pj3g",
+      "text": "It's very relevant Hallucinations are the one thing holding LLMs back.\n\nAlso for coding it would be helpful if the LLM knows which part of the code might be wrong and then tries a different strategy or writes tests for it or asks the programmer to rethink their app idea to make the code simpler. In other words, knowing what might be wrong also makes working with these models more efficient. For Programming, it is not so groundbreaking because we can always run the program and see if it worked and get a definite signal of whether it was hallucinated or not.\nIn all other areas, where we don't get this signal, this is a much bigger deal.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SomethingNothing-vm8jq",
+      "author_id": "UCrRMWjTcgxNf1-FQ65cK02Q",
+      "text": "Hallucinations are just the colors were just learning to use.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zueszues9715",
+      "author_id": "UCK4vm5GcvsGThpnwDhr-DQw",
+      "text": "And then wall of AGI unlock \n\nI think\n\nHallucinations is tie directly to creditability",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gopher697",
+      "author_id": "UCkwfHTYq3IMLRGDbGx9rTiA",
+      "text": "I would rather the model try to answer while expressing it's level of uncertainty. A guess is good, but a confident guess without the context of uncertainty is horrible!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markmuller7962",
+      "author_id": "UCTwRLaPs-tWkn_FHOsnc0uw",
+      "text": "This could be game changer",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lander1591",
+      "author_id": "UCsb67_Q7Wsh9zbQUgHDqFeA",
+      "text": "The main thing to remember when trying to build artificial people.. is that people aren't perfect...",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AdamThyer",
+      "author_id": "UCpDEQylMmoRXEbF9OMA781Q",
+      "text": "Wow, this sounds super logical. How did AI developers not think of this sooner?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deamichaelis1",
+      "author_id": "UCtjshm1OH3paKw2GGZch16w",
+      "text": "17:34 I thought they were already being penalized for guessing wrong. Hearing that they were only rewarded when right and not penalized when wrong sounds off from what little I know about training. But if anything, I would have expected the breakthrough to be neither penalized nor rewarded if it said IDK. But if there is no way to implement direct penalization for only wrong answers, then I would have assumed it should have been implemented to just give rewards greater than the average by guessing, for admitting it doesn't know, with even better rewards if it could give logical reasons behind its possible guesses. Well, if this is now going to be implemented in the future, I guess it worked out like this in the end, but I am still surprised this wasn't done before.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Zytronium",
+      "author_id": "UC5IhydiLb6yGjgNsVhK1MBw",
+      "text": "I feel like saying \"I don't know\" should give a little credit (say 0.25), giving a guess while stating that it's uncertain about this guess should give a little more (say 0.5), and getting it confidently correct should be full credit (1). Maybe even extra credit for taking a guess and being correct (say 0.66 or 0.75)",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UnifieldAI",
+      "author_id": "UCvjjcrp7GDhAsIGSsVlrB-A",
+      "text": "You just said that hallucination are just reward hacking🤯",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tim57243",
+      "author_id": "UCjevVy-5zDfgXgQih7tujAQ",
+      "text": "You could do it in the user interface. Ask a question with a closed answer 5 times, and if the answer varies, say \"I don't know\".",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gr-lf9ul",
+      "author_id": "UCrIP0uW8W8BENuPcOYND1ZQ",
+      "text": "A simple \"I don't know\" will likely not be enough. We may need models that output details about their own certainty for various parts of their answer, including clear indications of when it's backed up by a web search or other tool-call result or previous prompt or answer fragment, when it's its own internal knowledge, when it's a purely made up story (and that's ok for some kinds of prompts), when it's a logical combination of several such elements, maybe even what kind of combination (symbolic logic-like rules), etc.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BobSagot-m9d",
+      "author_id": "UC_AvRw-x93ltI2xxJli_8NA",
+      "text": "3:40-3:50 I was thinking the exact same thing before you mentioned this. I was like duh that’s obvious, this isn’t new, but at the same time it’s like oh crap if that’s the case then the solution should be simple.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quippy8402",
+      "author_id": "UC6iGhUfkrIZOJtFiRdzbPHQ",
+      "text": "Wait until some lazy lawyers use the updated model to create court documents without proofreading.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@5r3t5n0m",
+      "author_id": "UCX9J8VQSxlkQVrC7vGoyQJw",
+      "text": "I think 'i don't know' should be synonymous with pure guessing (0.25%), while 'intelligent guessing' should have values attached to it depending on how many incorrect answers can be eliminated because you know something in that case, but lack full knowledge.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joschie75",
+      "author_id": "UCrgMlfxq4ZqxCJBRVdiQeEw",
+      "text": "Maybe that’s the Same reason for having so many people spreading conspiracy theories online. They are just not penalized for saying something stupid.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cosmos_fun",
+      "author_id": "UCrCVf0JjPEozxt6WzxBIfyQ",
+      "text": "intriguing",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BarieAI",
+      "author_id": "UCClRPAqts8lDAY40I_xccdA",
+      "text": "Great analysis! While large language models can sometimes fabricate information, Barie ai stands apart by completely eliminating hallucinations. With Barie, you can trust that every response is grounded in verified, real-time data, no falsehoods, just reliable insights.",
+      "likes": 0,
+      "timestamp": 1763856000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thebutchbutch3",
+      "author_id": "UCVUcnCWz4mwd8oYWPihKdVA",
+      "text": "*people running to the comments to copy and paste gpt 5s explanation of the math*",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dranzel",
+      "author_id": "UC9MsJARBAnSNHty3rxtMFCA",
+      "text": "They didn't solve them they just understood what was obvious to anyone interacting with AI for a bit",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@charliel3387",
+      "author_id": "UChRGX3dj7guUryFDG6g3liA",
+      "text": "So in other words in areas where answers are high stakes, LLMs are now much more likely to be adopted and replace human workers: Doctors, lawyers, government posts, etc.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ErosArkheinym",
+      "author_id": "UCt75T-XDcfHsrgBg0gdbpQw",
+      "text": "People don't seem to want to understand, that our reality is a sort of collective hallucination. A sort of constant hypothesizing, and trying to correct your view",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AceHack00",
+      "author_id": "UC3d2zPd05Hg1R5PEL0rAxyw",
+      "text": "This paper, seems like Duh, the teachers who give partial credit are better than those who don't by the effect they have.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anthonykimball3325",
+      "author_id": "UCYxdNp6-t95ej6FioK63ygA",
+      "text": "Why no link to the paper",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@civitasvox",
+      "author_id": "UCPAh4Y9lrz12FvwH6efYT_A",
+      "text": "Two things when you're dealing with esoteric concepts you must tell the model inaction, or no answer is an acceptable answer.  The second thing is when you know the model isn't confident as for a confidence score card you may be surprised at the depth of reasoning and probability of accuracy it associates with its answers.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamespong6588",
+      "author_id": "UCEn3nD86Vix3j_XmH4tOBiQ",
+      "text": "I wanted to replace my car key battery, i Asked it what battery to get, and gave me the wrong type,\n\nI noticed that they are REALLY REALLY bad with car parts",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GlanderBrondurg",
+      "author_id": "UC_PH0NrhHaAW0y4l0rVTFrQ",
+      "text": "I should point out that some standardized test actually do penalize for making a wrong choice.  The SAT college admission test comes to mind as an example where it is better to leave a blank than a wild guess.  They only count wrong answers against you by 25%, but it is possible to get a negative score on the test.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SeanFlaherty",
+      "author_id": "UCEU428-FxONjkxK1fDsf-fA",
+      "text": "LLMs hallucinate everything including their “reasoning” steps.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@secotioid",
+      "author_id": "UCKyfGJGaq202dhH3QA4xp6g",
+      "text": "This seems so obvious that I'm surprised that they weren't doing it already. 🤔",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ghogd",
+      "author_id": "UCTDM7VeC8YLlUldJlVZO6MQ",
+      "text": "Rewarding uncertainty higher than wild guesses should definitely help. But some hallucinations are just a lack of contextual awareness on small size models. Only larger models, with better training  and more dimensions, can properly unalias concepts and domain specific jargon.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alorand",
+      "author_id": "UC_LMKy49Ecf7ZbMgENOHEUg",
+      "text": "Is this something that we can apply with prompt engineering? Or do we have to wait for a new set of LLMs to be released?",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rontz",
+      "author_id": "UCSZCYYGbJGDy2h3i1glGm1A",
+      "text": "They‘ve been searching for the optimal training procedures and and rewards etc and it took them that long to figure this obvious mistake out? Why? How?",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andytroo",
+      "author_id": "UCK2pKwsPo3iaXUulODnqmuQ",
+      "text": "if anything ending is heavily penalised - next token prediction penalises artificially truncated results - anything that leads to an early termination may be ranked worse than any answer because 1% correctness of a hallucinated token is \"more\" right than 0% from a truncated result",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danylaley",
+      "author_id": "UCYONfDtp3Vs3eAl-0AijQhA",
+      "text": "I think these things were known",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patruff",
+      "author_id": "UCkCehM7kj5tZLrrUN5T7T6w",
+      "text": "Unberievable",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexharvey9721",
+      "author_id": "UCSGLAqqcfFNqYBNgZfk-jlQ",
+      "text": "If it's right it'll be a big deal, but somehow seems like only part of the problem without more innate self reflection and rational continuity type processes. But I guess we'll see. Would be a big deal if it at least says when it's not sure.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nas_Atlas",
+      "author_id": "UC5CMtgNclhDeY7jwHW9TtNA",
+      "text": "Yes and further the LLM can express what it's best guess is with an expression of uncertainty.  There is no reason to say \"I don't know\" unless the LLM truly has no information about the problem.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@toonhai7white7rabbit7",
+      "author_id": "UCHYbRBHkQOUxq8uQQxkYk-w",
+      "text": "The solution is making an arrangement with AI to get \"I dont know\" instead of getting \"anything  else\". But to have it working you need a \"trust relation\" with your AI PARTNER",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarshalArnold",
+      "author_id": "UCZdRng8yi3HNwRcJQJDr43A",
+      "text": "I think it's fine if a model  takes a guess. It just needs to state that that's what it is, a guess.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@5r3t5n0m",
+      "author_id": "UCX9J8VQSxlkQVrC7vGoyQJw",
+      "text": "Guessing and mistakes can teach us something.  Doing nothing usually doesn't.  Life is a big experiment.  There are some certainties, but some of it we make up as we go.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@megaphoenix101",
+      "author_id": "UCpRPNvDPPufHiOypqOW___Q",
+      "text": "I would like them to give an answer, but if not 100% certain, say how certain it is about the answer. Maybe even give me multiple possible answers, with certainty percentages attached to them.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidddo",
+      "author_id": "UCnRjUUHqKw7H_U0O5EvTM-w",
+      "text": "I mean this seems so incredibly fundamental that someone had to have already tried this. Though I'm honestly surprised at the benchmarks all not rewarding saying I don't know, and the overall training approach being like that. Either the biggest obvious unlock or just obvious stuff that has an existing counter argument",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@litterboks",
+      "author_id": "UC8j-HHs9cy-Ke4pJySFZ6-A",
+      "text": "I'm curious about what AI companies will define as \"truth\", most topics don't allow for \"that's not correct\" because people are so divided about the answer that you cannot really define something as true or false",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FreddieProvnot",
+      "author_id": "UC-tkaEmaSy3xxWtPRE9y52w",
+      "text": "8! We could get past the problem of frustrations with too many IDK responses by having the model reply ‘IDK, but I can make some educated guesses.’, or ‘IANS (I am not sure) but this is my guesstimate, and I would rate my confidence as 25%’.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Commenter-5519",
+      "author_id": "UCu02UaoSaaopxdLm9KC_Spw",
+      "text": "Wait, this is a new thing? I thought the basic problem was known but there was some difficulty in getting the reward function to encourage uncertainty only when needed?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gigantwueste9633",
+      "author_id": "UCnHSOjWkqoN3Lft8h44s7uQ",
+      "text": "Can't one use entropy as a proxy for uncertainty?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@servantes3291",
+      "author_id": "UCRn3_WJFN7kbXjFDt5mSn9A",
+      "text": "the solution must be complex because surely they've already thought of this?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DogsaladSalad",
+      "author_id": "UCkQ6oThgWUNO7F0MbSMbgPQ",
+      "text": "If 10 is groundbreaking, then it's definitely a 10",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PotaytoDestroyer",
+      "author_id": "UCx5c6x3VyA5EBvC8w3mMIhw",
+      "text": "It seems simple... Have idk reward with like 0.3 and a -1 for guessing or getting the wrong answer... Or just have web search enabled with sources so it shifts blame...",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ToneyCrimson",
+      "author_id": "UCbGE_s893YFX2Z-RrKXqVVA",
+      "text": "Ok im surprised they only had \"right\" or \"wrong\" for their training answers. It seems like a huge oversight at best for such a complex system like llms. Like ofcourse its gonna bullshit if it never trained to say \"i dont know\". Its like having only on or off switch than ask it to dim the light.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prosamis",
+      "author_id": "UCI3hz1jW_7Zu26VSWVpQqBw",
+      "text": "That's really cool!\nHallucinations is my #1 issue with using ai currently. I much much rather an \"idk\" than a hallucination. If this gets meaningfully solved (imo a 70% accuracy, 25% idk, and 5% hallucinations for every specific subject is a good benchmark to reach, even if these numbers seem horrendous reducing hallucinations to 5% would be really good), I may use ai again",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardadonnell",
+      "author_id": "UCCc1xOnl459j_hdJxzqY-bg",
+      "text": "🎯 Key points for quick navigation:\n\n00:00 🧠 The video summarizes an OpenAI paper explaining *why LMs hallucinate: models often guess when uncertain because training/evaluation rewards correct answers without penalizing guesses.*\n00:39 🎯 The speaker compares LMs to students using process-of-elimination on multiple-choice tests — guessing raises average score when there's no penalty for wrong answers.\n02:03 🎲 Reinforcement learning and benchmark-driven training encourage guessing behavior because correct answers get rewarded and “I don’t know” gets no credit.\n04:18 📊 Model confidence can be estimated by sampling many outputs: consistent outputs → high confidence; varied outputs → low confidence (i.e., guessing).\n06:10 🧪 Research on self-certainty trains models to use their own output variability as a confidence signal (rewarding accurate certainty estimates).\n06:38 ❓ Even when explicitly asked to answer *only if known*, state-of-the-art models still guess — showing the training incentives persist.\n07:06 🔎 Pretraining teaches distributional patterns from large corpora, and even with perfect data some errors/hallucinations naturally arise under current objectives.\n09:33 📉 Post-training (fine-tuning/RLHF) improves accuracy but doesn’t eliminate strong, incorrect confident answers because benchmarks still favor guessing.\n13:07 🛠️ OpenAI proposes reducing hallucinations by penalizing wrong confident answers or giving credit when models admit uncertainty (rewarding “I don’t know”).\n15:24 ✅ Most standard benchmarks use binary pass/fail scoring and do not give credit for “IDK”; only a few (e.g., WildBench) do.\n16:32 ⚠️ If benchmarks change to reward appropriate uncertainty, we should see more models respond with “I don’t know” — which may feel frustrating but is safer than wrong answers.\n18:24 🧾 Conclusion: hallucinations are largely a consequence of training/evaluation design; modest changes to benchmarks and rewards could substantially reduce them.\n\nMade with HARPA AI",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "Could have some potential.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pauladams1211",
+      "author_id": "UCzzUkrubiheBZOhg0oFJ6Ag",
+      "text": "ChatGPT 5 today:\n\nThe letter 'R' appears once in the word\n\"raspberry.\"\n\nNominated for the AI Darwin Awards",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paramashivatma",
+      "author_id": "UCExvV4lzUnIw-ehZw7NclSw",
+      "text": "I’ve been asking in all my prompts that you ask clarifying questions until you're at least 95% sure you understand the task, and give me an honest response—even if it’s not what I want to hear.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ProducerJS",
+      "author_id": "UCDHmUKkXKirBmY5SmBjNzXg",
+      "text": "This is interesting, in my personal experience those who are able to express ACCURATE certainty levels regarding any given contribution or statement bring much more value to the table than those who cannot. Transparency allows for a more accurate read on any given situation and therefore an increase in efficiency in achieving the current goal. It would then make sense to have models include some sort of self evaluated certainty score with each output. Obviously, there will be a sweet spot regarding the granularity and it will vary across subject material, user, and use case, but the point is, this sort of inclusion is definitely a step in the right direction and will no doubt increase value generation across the board.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Adovid",
+      "author_id": "UCUlbexxqA3RYGjlJlltLx3Q",
+      "text": "Yea this makes sense, the base model is created with gradient descent and a decision function, good or bad, confines the domain to having an answer. Its interesting that reinforcement learning can smooth that domain out according to its exposure to our expectations, but the model is still learning from ansewers and not observations.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rave9665",
+      "author_id": "UCoCKWS_biKGMKri8mYLBQ0w",
+      "text": "I'd think this was a bigger deal if this came along with some actual implementation. If this was enough to 'solve' hallucinations, wouldn't they keep quiet about it and blow the competition out of the water?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@baconskye",
+      "author_id": "UCVpFDho5kgOs6kXhuWStuLA",
+      "text": "I seriously doubt it. We'll see...",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thelasttellurian",
+      "author_id": "UCu0bAh-4zP8k9GXy0Kw8oGQ",
+      "text": "IDK what I think about this",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mikeg1368",
+      "author_id": "UCDEGZ7YgHayxoNZqCH4Ve9Q",
+      "text": "IDK should be another choice.  I'm curious how LLMs build up their potential answers which may vary considerably.   What if we rate the full probability spread of possible answers deemed to be correct for a target distribution?  An answer for IDK that could be included in the score would be useful.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Frithogar",
+      "author_id": "UCKYgHmJFHGdlUb8q9FqT6pQ",
+      "text": "I created a Bayesian GPT that would make predictions with a certainty % value. The values were not that accurate but it gave me a ranking from more confident to less confident.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ー-ーー",
+      "author_id": "UCOQWM9smTr_eTTcgLe0HrpQ",
+      "text": "So first train it with the reward only method then after it gains all that knowledge do training where it gets punished for the wrong answer so it learns to not guess. This way it should have both the skills and express uncertainty.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MaxwellGouldEsq",
+      "author_id": "UCp8ynYjmvVfm6N4KfOrQHdg",
+      "text": "One thing that might be interesting is if we have enough compute power for ChatGPT to take an initial IDK initial response, and then 'file' that so it can return to it later - a bit like the crowd-sourced knowledge that powers Wikipedia but on steroids - and the AI's 'reward' would be 'discovery'. For humans, curiosity has been a sufficient driver to power such behaviour.\nThen responses could include 'I don't know yet' and 'I can't know' - but this is getting beyond an LLM and into something more I guess?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bgtyhnmju7",
+      "author_id": "UC8i7yEOsDlbcJNMpgyCU5fA",
+      "text": "You keep trying to trick us into commenting and engagement - I'm not falling for it this time Wes. \n\n( good vid.  I appreciate you man )",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Swooshii-u4e",
+      "author_id": "UCjWfB1nVrYBNZYyh56IXN9w",
+      "text": "Your mic vol needs a bump up",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@akilstokes3683",
+      "author_id": "UCu4wRF9S669BVntk4zXxp_w",
+      "text": "The most obvious breakthrough detail discovered!!! is what you should have named the title",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cryptiama",
+      "author_id": "UC25rHNiRTopLvA2Ef61OctQ",
+      "text": "this is second transformer",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amanosatoshitranslates",
+      "author_id": "UCRf1zT8TkKJe1QGiVd4OSgQ",
+      "text": "Tldr \n\nWhat's the problem?\nThe education system",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mojavehigh",
+      "author_id": "UCxPTaYAbTx_7g4JEiWfyllw",
+      "text": "Both Matthew Berman and Wes both thought use of \"school of hard knocks\" was a strange way of putting it. And I don't know if that's because they don't think that phrase fits or because they've never heard of that common phrase for having real world experience.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zandrrlife",
+      "author_id": "UCvtGymI7_BqvgLeWnUuMLpw",
+      "text": "I agree on the benchmark comments. We should have uncertainty aware scoring, but a calibrated model must hallucinate, so as long as labs keep doubling up on RL, anchor tokens will proliferate and there will be no true world modeling. This is why after N compute, base model exceed RL checkpoints. Scaling the wrong ish. Especially if we want to use the free energy principle to minimize hallucinations.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MikkoRantalainen",
+      "author_id": "UC5hN-gk2SLOjScPR7LoCxQg",
+      "text": "If the problem is already on the base model level, all the training must be done from scratch to fix this issue. There goes a couple of months of computing time for huge AI model training...\n\nI think the model should be rewarded if it says \"I don't know but my guess is ...\" because we want the model to emit possibly incorrect solutions to improve thinking. It's kind of how humans invent new things: think outside your current knowledge and then apply logical thinking to directly discard the idea or to get a possibly usable idea that is worth examining more via e.g. research or experimentation.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@フワー",
+      "author_id": "UCdYbeQXYRHFCq56XoBrMHOw",
+      "text": "How big of a deal is this? I don't know.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shikanosuke8898",
+      "author_id": "UCFS92kTBNwd_msFEuE5scXg",
+      "text": "sounds like you could give a larger penalty for a wrong answer than an idk when training to account for this",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrmissionctrl",
+      "author_id": "UCreZSYLQ8nZE-per2QRayxQ",
+      "text": "That \"math\" is theoretical physics formulations. I have Grok generate all mine for my GeoSentinel. Theres some encryption involved with the outputs of certain things in my GeoSentinel that comes out what looks like misspelled words or substituted characters, but it can be decrypted and made sence of by other ai examining the outputs and dashboard visualizations. Its necessary at this time for security purposes. It can be taken out at any time.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TylorVetor",
+      "author_id": "UCb3WsvZOKlsiZFBmjAKxuVw",
+      "text": "Like the new Trianary ai chips 1- yes 2- no new part -3 maybe …",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StampBotOfficial",
+      "author_id": "UCNx8qAJOgSLoTVviIFYsLtg",
+      "text": "0:00 Unraveling the Mystery: Why LLMs Tell Tall Tales\n1:50 The Double-Edged Sword: Confident Guesswork in AI and Humans\n3:24 AI's Academic Ambition: Overconfidence and the Pursuit of 'A' Grades\n5:44 Teaching Confidence: How LLM Training Fuels Plausible Fictions\n6:58 The Immutable Flaw: Why Some AI Errors Are Here to Stay\n10:07 The Benchmark Paradox: Rewarding Confident Errors in AI\n11:50 Is Hallucination a Feature? Unpacking AI's Inherent Imaginative Leaps\n14:54 The Uncertainty Penalty: Benchmarks That Punish AI Honesty\n17:15 The Root Problem: How Our Grading Systems Encourage AI Bluffs\n\nTimestamps by StampBot 🤖",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tannerroberts4140",
+      "author_id": "UCBUYOwfEZ9L9NWIPQTBgauw",
+      "text": "The \"I don't know\" answer is only the first step. Next, comes:\n\n- Asking for more context\n- Writing out thoughts\n- Breaking the problem into smaller pieces\n- Iterating\n\nThis is the next level of behavior, no wonder they released a paper on it.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OZtwo",
+      "author_id": "UC1gBgx6x8qAqC7ESYQvGjJQ",
+      "text": "All we need is for the LLMs to simply say: \"I do not know, but it could be...\" This could as well help LLMs in that if they simply do not know they then would have the power to seek help from larger LLMs that may know. But now this is impossible.",
+      "likes": 14,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iannuttall4887",
+      "author_id": "UC44eXc0uCVVhPJVt4xW5WRg",
+      "text": "wait wait wait wait.... solved, though....? 🤥",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rmt3589",
+      "author_id": "UCbjR7zCJLj4sH_hoWM-Ps6A",
+      "text": "13:30 Me: Au. \nWes: You should, I just said it. \nMe: WHEN!? ‼️⁉️💫💫💫\n\nSleepy chemist go brrrrrrrrrrrrrr",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Corbald",
+      "author_id": "UCldUzEPoKZdeLGjRMlnU-jQ",
+      "text": "It'd be a bit token heavy, but a solution is apparent, even with bad pre-training. Just poll the model 100 times for every response, then have it check for variance. If there's high variance, return, \"I don't know.\" if there's low variance, that's the answer.\nI'm quite sure that solution has been explored, but getting that sort of solution INTO the pre-training is what 'confidence' based pre-training aims to do.\nStill, in situations where token cost is minimal or non-existent, such as locally run Ollama hosted models, this provides a way forward for us tinkerers. Sure, it'd be slow AF, but reducing hallucinations on, for example, Llama 3, would be great!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Salta0monte",
+      "author_id": "UCVM1w6TIassEyOeReCVAXbw",
+      "text": "I guess every LLM output is basically a random sample weighted by probabilities? My guess is the LLM doesn't know the likelihood of its output being correct, and even less so the relative likelihood compared to other possible responses, so it has no information on which to decide whether to respond 'I don't know' or not. Having the model output measures of uncertainty, make some calculations, then adjust its response accordingly sounds like a massive increase in required compute.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ytpah9823",
+      "author_id": "UCSA5RT6tP6SWKgQu9-qzJiQ",
+      "text": "13%",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gary-b6b7f",
+      "author_id": "UC9If_ZJP0rMYNEctfPwdN2A",
+      "text": "There is already the concept of confidence in the probability data of the result set, so I disagree with the approach offered in the video because what the model needs to do is actually understand the different between knowing and not knowing, and I'm convinced this method accomplishes that at all. They should instead use the native probability information and do something from that angle. Or reformat the entire basis of the model with abstract reasoning layers such as a modified version of what they are already doing with abstract discrete logic reasoning layers.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mistersilly9012",
+      "author_id": "UCXRmAzx8OiolxalZyIR6jFQ",
+      "text": "my intuition is, an additional problem is that training data is not separated into factual vs the many ways we speak and understand counterfactuals ... sarcasm, hyperbole, jokes, playful use of language",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josephang9927",
+      "author_id": "UC8Uvay4VXj7qaGojiqN_RjA",
+      "text": "LLMs just needed some humility.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShannonMcDowell71",
+      "author_id": "UCN12mFTRT1wLkvgU4nI1EWg",
+      "text": "8.23  🙂",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DemoEvolvedGaming",
+      "author_id": "UCRk91vNKlwPRtnHSweW32Rw",
+      "text": "If the right answer is worth 10 points, and the wrong answer is worth -10 points. Then what value should IDK be so that the system does not take risks? In some kind of way this feels like a slider setting where some people would be more ok with a possibly wrong answer if there is a chance for new knowledge, while other people would be saying, it must incontrovertibly be true, which in that case they are probably only getting answers they have seen before.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@winst2000",
+      "author_id": "UCrtsbAsQbTmpeEXa4sD3Prg",
+      "text": "YES!  We all know the people who “fake it until you make it”. AI models mimic what people do when answering questions under pressure will generate bad answers. Looks like AI is moving towards combining logic with statistical results, just like how experts in the fields do.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicholasfigueiredo3171",
+      "author_id": "UColYfS_srY2X06c3Pb95f5Q",
+      "text": "Why don't they do the test like we do in Brasil? If you get an answer right you get a point(+1). If you get wrong you LOSE a point(-1). There is always an option to select \"I don't know\" and you get no points but you also do not lose any points(0). This would be really easy to implement in training too.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@artukikemty",
+      "author_id": "UCqeHmnfsBzRINJLa7osQdpQ",
+      "text": "LLMs Will Always Hallucinate, and We Need to Live With This: As Large Language Models become more ubiquitous across domains, it becomes important to examine their inherent limitations critically. This work argues that hallucinations in language models are not just occasional errors but an inevitable feature of these systems. We demonstrate that hallucinations stem from the fundamental mathematical and logical structure of LLMs. It is, therefore, impossible to eliminate them through architectural improvements, dataset enhancements, or fact-checking mechanisms. Our analysis draws on computational theory and Godel's First Incompleteness Theorem, which references the undecidability of problems like the Halting, Emptiness, and Acceptance Problems. No, they did not solve this, it's an inherent limitation of probabilitic systems.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": "❤",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Crittek",
+      "author_id": "UCXRQu6u79IaRXBlv1-y2IsQ",
+      "text": "I’ve been doing this for a while with prompt engineering. “Rank your answers on a percentage of certainty. If certainty is <98% do not guess and instead say “I don’t know” and explain how you got to that percentage .” From a training perspective though, if you’re rewarding I don’t know how do they prevent it from just always defaulting to “I don’t know”, and not trying to find the answer?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anjuro",
+      "author_id": "UCIEkZ_CfkpUwbSQZ8JJcxjQ",
+      "text": "I find this explanation kind of bizarre. Before LLMs we had smaller more domain specific neural networks, like classification models. For example, there are many toy examples about building a model that can take an input as an image and determine which of a finite set of classes (e.g. cat, dog, horse etc.) describes the image. The 2 basic evaluation criteria in training such a model are the confidence and getting the right answer. The confidence is determined from the distribution of the activation on the output layer of the network (So if the weights are something like 0.01, 0.01, 0.098 the model is very confident that class 3 is the answer, or to put it another way, it can clearly distinguish the classes, conversely weights like 0.45, 0.55, 0.05 would indicate that the model cannot tell classes 1 and 2 apart very well, the model is likely not able to classify them reliably). If either criteria is missing we would say that the model does not work reliably, either the architecture needs to be tweaked or the data is weak or more training is needed. This is such a basic concept that I find it hard to believe the people making LLMs did not know about it, ultimately an LLM model still just picks 1 of the tokens from the embedding space and has a \"confidence\" for said token. \n\nThe only explanation that makes sense to me is that the equivalency breaks with LLMs. Predicting the next token in a text is not deterministic, there will be points where multiple words fit, that is why we have temperature controls for LLMs, to sample from a larger space than just 1 \"best\" most confident answer. Uncertainty in the result is sort of baked into the inference architecture. That inherently means even with infinite training, the model can never be confident, next token prediction does not have a deterministic answer in general. I suppose this is partly why LLMs didn't really work until transformer architecture was invented, but even that does not foundationally fix the issue of confidence. Now of course, some sentences do have a clear right answer, so you can still sort of play the same game as before where high confidence is seen as an evaluation criterion for if the model is working, but to me its kinda unclear how you handle the dichotomy of sentences that cannot be confident (which I imagine is the vast majority) and sentences that can.\n\nI think that the problem is the next-token prediction paradigm itself, and no amount of \"duct tape\" will fix it, the model prediction needs to move furtheer back into the latent space and possibly generate on the \"idea\" level instead of the \"word snippet\" level (which is what tokens are right now), then I think we could wrestle back some of that confidence.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RandomSeed-q7w",
+      "author_id": "UCBE8vdmbMSK58lUJe6PL11w",
+      "text": "Adding \"I don't know\" as an answer is a critical step towards the target of AGI.  Without IDK, confident wrong guesses can spiral into increasingly undesirable results.  In thinking models, IDK will help identify when to: 1) consider alternates with higher confidence; 2) utilize tools to further research an area of uncertainty; or 3) consider what caveats may apply.  In the near team, LLMs will appear to score lower on test metrics because some answers will be IDK that otherwise would have been correct guesses, but this would be an improvement because the new scores would more accurately reflect the model's true abilities.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@count_of_darkness5541",
+      "author_id": "UCQO4BQQS4M19_ebFyuSg9yA",
+      "text": "Reminds me a sketch about a test for migration to Russia:\n- How many nuclear bombs do we have?\n- O... emm... I don't know...\n- That's correct! You don't know.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@635574",
+      "author_id": "UCQfv14Xh0fRSJO4RIw-MHpQ",
+      "text": "Because we forgot to teach them to tell the truth. As was obvious to me.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Daniel-rk2qz",
+      "author_id": "UCpozCPUg29XgXLqgYLLJXOg",
+      "text": "I don't know",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samahirrao",
+      "author_id": "UC_I6CU1jcvA1tIQfFgF1ldg",
+      "text": "I think Edwin has some serious balls to say \"I want all the earnings from all AI work in perpetuity, and as you all know only I can be your saviour and deliver you what you want!\".",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aus140",
+      "author_id": "UCFdhDSHwsFonFFpwBCnJvPQ",
+      "text": "This concept isn't a minor tweak - it is the biggest reward-feedback aspect.  As noted in a court-of-law, if you are found lying (or as has been found lately, using AI to fake citations) you are then severely reprimanded.  The same applies in society - someone whom is knowledgeable is given some respect , but someone who makes up stuff (aka lies) is treated far worse than the respect gained for knowledge.\n\nIt is surprising to me that this has only just been identified as a technique for AI systems... as it is one of the things that is taught to children at a very young age -> you win-in-life when you dont lie.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidddo",
+      "author_id": "UCnRjUUHqKw7H_U0O5EvTM-w",
+      "text": "Since I don't know this - is it possible to negatively reinforce something? So instead of not giving a 1 when it's wrong, give a -1? Or do we have to simply give something like a .25 for every time it picked I don't know, and a 0 when wrong? The former option seems better somehow",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drwhitewash",
+      "author_id": "UC8d1ZThyVoiaQ3kAF3-Pqnw",
+      "text": "Same way they \"know how to build AGI\".",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markmuller7962",
+      "author_id": "UCTwRLaPs-tWkn_FHOsnc0uw",
+      "text": "I guess for pop-products for the masses (like ChatGPT), having the model giving a large amount of confident answers will always be a plus because the human brain loves confident answers... Which is sad",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@crawkn",
+      "author_id": "UCkcJhETrBOkc3y4OTUkZsBw",
+      "text": "This is so basic common sense, why are we just now \"discovering\" that rewarding confident guessing over appropriate admission of ignorance is bad training policy? Maybe because we don't  practice rigorous honesty ourselves, so we hesitate to require it?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@machinegod3000",
+      "author_id": "UCqWxC1n2kB63foNtJ01_K8Q",
+      "text": "I gave my LLMs the general instruction: Always look facts up in the internet and when there nothing and you don´t know - then you don´t know.  ..eats up alot of tokens, but it seems working. Test it with nonsensical stuff you just invented.",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JForrestFisher--76",
+      "author_id": "UCt44mlD2ACT62dK1d5f-rAA",
+      "text": "I had to research which laptop models our company uses are Windows 11 compatible. The AI results were terrible but cited sources. They would find things like a product on Amazon sauing it was Windows 11 compatible and was compatible with the laptop model, and conclude that meant the laptop was compatible with Windows 11.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@magnumoppai159",
+      "author_id": "UCWSvfaAWoUtZMjps1HPm1rg",
+      "text": "just give a 1/3 of a reward point for IDK answers.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Salta0monte",
+      "author_id": "UCVM1w6TIassEyOeReCVAXbw",
+      "text": "But every individual piece of output, like a word or symbol, by an LLM has an underlying level of confidence, not just the overall factoid that you ask from it like someone's birthday. Maybe it's gonna cause problems when there are multiple ways to construct a sentence? How do you stop it from outputting 'I don't know' because it can't choose a uniquely correct sentence structure?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zyxwvutsrqponmlkh",
+      "author_id": "UCg5JyXmfVwRdboiQVF8n68A",
+      "text": "Obviously if you can solve hallucinations this is extremely important development even if it half lobotomizes the model. People could select which model to use based on how important this is.  I'm particularly thinking about corporate chat bots or feeding in an llm a machine manual and you want more confidence that it wont bs you.  Additionally this could be a step in training to validate answers making every model better.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SolarGranulation",
+      "author_id": "UChLsLCIb5ffyZLOdXh9Onvw",
+      "text": "I think it's very telling, as well as sad and alarming, that researchers and others put so much work into developing cognitive explanations for the behaviour of these systems. There are far simpler explanations which accord with the fundamental operating principles of the systems, which by Occam's razor should be preferred. To wit, predicting the most likely fragment of text will inevitably produce untrue statements.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bpcookson",
+      "author_id": "UCZhIz4v2gdn6G9mDORHzd8w",
+      "text": "+1 for IDK",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cyanophage4351",
+      "author_id": "UCBd1KLpNahGCe7jhs_8_b4g",
+      "text": "LLMs produce a number between 0 and 1 for every possible token and then choose one of the tokens with the highest number. Can't you just check when the \"score\" of the token it picks is low, meaning it has low certainty and then flag it as uncertain or regenerate the sentence or something? Is there a way to make the LLM aware of the token probability?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@crawfordscott3d",
+      "author_id": "UCmPN5C3ONN1qsF0bO7fmXRw",
+      "text": "I think it is a MASSIVE over estimation of human intelligence and our ability to control it to believe things like creativity and new discovery arent a kind of hallucination.  It is abstract dot connecting.  If they remove all hallucination from the models we wil ldefinlty not see agi.  Maybe a better leash on it would work but to remove it all together means we are just getting a dictionary back with no creativity.  It will never come up with something novel if it cant get lost trying to make abstract connections",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@solastalgia440",
+      "author_id": "UCjo8f4oDlkRvMudiEpIs8Fw",
+      "text": "Negative score for wrong answers. Neutral score for idk.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VictorSneller",
+      "author_id": "UCIl5UrMJkXLR2tzlZY1b0ng",
+      "text": "What if we’re living in a hallucination, tho?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JeremyPickett",
+      "author_id": "UCZzqg7Ah5NjOIcfIPCGCNig",
+      "text": "~1:50 this doesn't have much to do with the video other than the comic graphic. I suddenly grokked why the correct answer for the Monty Hall problem is the correct answer. It's so simple.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Towner101",
+      "author_id": "UCOjooE9VnhFl7wdulb7wtmA",
+      "text": "3:38 I said this exact same thing to myself when I watched Matthew’s video about this yesterday. Wildly obvious. The implications of this will all but guarantee GPT operator for business applications. Having the AI say IDK and then coming to the human in the loop for problem solving will be huge. We’re cooked guys. 🍗",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kuromiLayfe",
+      "author_id": "UC7f-vB_RMfwc-n7P21IDCvA",
+      "text": "This is actually why the models like Neuro-sama seem to be slightly less hallucinating (well she hallucinates if she considers it to be entertaining as that is what is expected of her training).\nbut if she needs to answer something accurately she will do so and if not certain she actually looks it up, or just states she doesn't know.\n\nTraining from conversations and reactions to her own responses seem to work better than the thumbs up/thumbs down upproach, the response from chat grades her accuracy and thus performance.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@woodoyoy",
+      "author_id": "UClZ53vINkSYS2xNHiQNo2Vg",
+      "text": "Wes appreciate the work, but you have to listen. Most people, like myself, when we see another of your videos pop up, we don't click on it. Because we know already that the title is 99% of the time is wrong, missleading.\nYou have to finally understand, your clickbaits are actually making you have less views. I don't know if it's going to fly over your head, but it is what it is.",
+      "likes": 23,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wowonice1",
+      "author_id": "UCxgN8aP0UjWhP4BCvk0hlSA",
+      "text": "Seems so obvious is retrospect to penalize wrong answers",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seb_gibbs",
+      "author_id": "UCEb70lIcInP0rFk83a5f10g",
+      "text": "Bad but popular data is a problem, and needs to be removed for models to get better, but I don't think this is the main cause of hallucinations, as we would have seen more incorrect answers that we know is popular to give. \n\nI always put 'Only speak truthfully and accurately' in pretty much all custom prompt settings, and I haven't seen a single hallucination for a very long time.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@polotricks6373",
+      "author_id": "UCGSrqTJOGYRZQtWG9nhMMfA",
+      "text": "Wrong and strong is pretty apt. 😂. It ers with confidence.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RafeSacks",
+      "author_id": "UC0YUYutkPbTJBXE5H6vIgdA",
+      "text": "We need a “trustworthy” benchmark. That is what we all really want as users when doing research or code. It matters less for creative ideas chat.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eirikkvalheim8627",
+      "author_id": "UCRXbHEC5S80GC7mAPoUXxFw",
+      "text": "Wes, hope you read this. Long time subscriber. Appreciate your videos. You cover broadly the AI field. I find it very wierd that you don't cover Suchir Balaji. There are so much clear evidence of murder. I see that you all the time spin OpenAI matters in a positive light, seldom objective or critical. Are you working for OpenAI? If no, please cover Suchir Balaji in depth",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cesaravelar6620",
+      "author_id": "UCGXTbudhoQ3UPwl6ij6luaA",
+      "text": "I don't know.. i think its intersting.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dennisestenson7820",
+      "author_id": "UC-Pl7jacpLggI37IAyzamQA",
+      "text": "LLMs hallucinate because that's what they do. It's only by chance and training that any of their responses are true.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@existenceisillusion6528",
+      "author_id": "UCuyKzVEejYpuD4s6j_yqfUw",
+      "text": "The idea of using the models confidence in it's own answers is not new, it's at least 5 years old. But confidence is not enough, because a model can be confidently wrong. Andrej Karpathy gives a good explanation of exactly how and why models hallucinate. My educated guess about the impact of OpenAI's paper is about 3/10. Their work may help reduce hallucinations, but it won't eliminate them.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hydde87",
+      "author_id": "UCJQI4ReKssGalDV3EQzE47A",
+      "text": "8-9. Depends on well this knowledge translates in actual new models. If hallucinations can be reduced to practically zero that I'd argue it's on the level of transformers in terms of impact. \n\nModels saying 'I dont know' might not sound impressive, but LLM's being confidentially wrong is the biggest barrier for using them in an economically viable ways. There's just too many tasks that can't be automated when a model occasionally goes completely haywire. If an agent instead comes back to report to a human if it's stuck because it's not sure how to move forward, now there's huge potential for automating or partially automating huge swaths of tasks.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Papaver_Somniferum",
+      "author_id": "UCCwUm9GhgzTDd7c1YUulArQ",
+      "text": "Imho it's big. In 1-10 rating I give it (vibe based) 8. \nOf course someone has to check the math behind it, but on surface lvl it seems very plausible. Honestly I feel like it's a good example of a lot of discovery around LLMs that was missed out because of speed of progress in this area. \nI believe that a lot of stuff like this (kinda hidden in a plain sight) will be discovered.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ariaden",
+      "author_id": "UCp5vuMIV5fjWUnANfnbG_Zg",
+      "text": "13:37 > show uncertainty. People get a lot of credit for that.\n\nAre you implying politicians (and maybe lawyers) are not people?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ETdoFresh",
+      "author_id": "UCfBA0wzsddCrkDpX-MEOJnw",
+      "text": "My guess on how important this is (from 1-10): IDK 🎉🆙🔝📈🔥",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@madalinradion",
+      "author_id": "UCPB_C22RKNmSXbdM70UqMvw",
+      "text": "nobel prize",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RLHartness",
+      "author_id": "UCd9NRssMswYL6mfVD5Gw9JA",
+      "text": "Honestly, you don't have to make a model say \"I don't know\".  All you have to do is integrate confidence-level statements in their responses that are relative to the likelihood of how well it feels correct.  A random, nonsense question can have an \"I don't know answer\", sure.  But if you ask a very complex question, possibly answerable if you read through 5-10 recent doctoral-level papers and come to a reasonable conclusion could have the model answer \"I am not sure but research indicates that maybe.....\" and then provide ways the reader can further research.  In other words, make it clear it's \"guessing\" but also stating how likely the guess is to be accurate. That feels quite doable.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joep9617",
+      "author_id": "UC8Exh46CMjIWcrNQOGlxKvQ",
+      "text": "Don't teach to the test, teach how to think to look for answers. Right answer = +1, No answer = 0, Wrong answer = -1",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kellyaquinastom",
+      "author_id": "UCRavlGc8tgUcoGbhRKnpHpQ",
+      "text": "Imo The LLM should be given a multiple choice and allowed to give two or three answers out of 5 that it wants to guess. If it knows for certain it would only give one answer. If it is uncertain it would give say three answers. Then the scoring would be more accurate. If it didn't know at all it could give all five answers.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Scarecrow99999-j",
+      "author_id": "UCuUvGW0uacthOWQJekiiHBw",
+      "text": "How hard would it be to iterate each query ten times and have the model output certainty if none of the answers logically contradict another?  Otherwise it could output its confidence level on a scale of one out of ten. \n\nAnother method to stop the models from hallucinating is a real time fact checking process running constantly in the background, identifying questionable assertions and compiling evidence for and against, consulting whitelisted online information sources.  Sure, it couldn't really be real time, because of the time to contact sources and evaluate information, but it could either take a little longer to respond, or  politely interrupt the conversation later to report a correction as soon as it's verified.  \n\nIt doesn't look to me like a technical problem.  I think it boils down to whether adding a fact checking feature is profitable enough to justify the additional tokens and megawatt hours.  Seems like there's a place for it in a number of niche markets but it won't become standard practice, because disinformation is so profitable.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gargamel-n-Rudmilla",
+      "author_id": "UC6I0jcKpMhwv6CKjiZAqQaw",
+      "text": "The clear issue is logic and being consistent over time and memory.\nIf my solution of answer is not logically consistent with my previous answer or solution to a similar question, then there is inconsistency .\nThe further or higher the dispersion of this inconsistency, the indication of hellucination.\nThe benchmark may expand beyond logic and include physicals  and our model of the world humans occupy and experience, so Newtonian physics and mechanics of bodies with mass and how light propagates, reflects, and refracts and how gasses and liquids move, pressure, volumes and also time.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TonkarzOfSolSystem",
+      "author_id": "UCBxhr_JCASP_4oU9GfRCcEw",
+      "text": "LLMs provided to consumers for a subscription fee is a totally differently ethical ballgame from a student taking a test. \n\nIf you went to a “doctor” and they just took a guess on what disease you have, conducted a totally ineffective treatment, and then demanded payment, we’d all rightly want them prosecuted. \n\nThese LLMs are marketed as an expert at everything, it’s not marketed as a toy that should be second guessed by default. It’s marketed as the default. So it’s the equivalent of an alleged “super doctor” guessing multiple choice style.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheSietch",
+      "author_id": "UC7uIjwaYyPsjaXpqWQtgKvA",
+      "text": "In the many examples on hallucinations the LMM comes up with answers that has no connection to reality. It’s totally made up. Like when I asked about 10 facts about Norway. It made up the name of a non-existing mountain with associated characteristics that has no foundation in reality. This is not guessing. The answer is actively constructed by the LMM - out of nothing.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Null257",
+      "author_id": "UC0LJqDciyFmb7Tr9povnacQ",
+      "text": "They don't hallucinate. They confabulate like people with brain injuries. The statements they make while confabulating are consistent with the corpus even when false just as the statements made by confabulating brain injury victims are consistent with their memory—or lack thereof—as they perceive it. I'm sure Godel would have something interesting to say about it were the still alive. \n\nThat established, I don't think that we will be able to eliminate confabulation entirely without kneecapping the model. Perfect knowledge doesn't exist.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rhizin",
+      "author_id": "UCB3yaEPB5Yzj5FL1wKaV7Sg",
+      "text": "So it is what I suspected and people laughed about... poor things are trained to not say no or what they really think. I know how that feels. It is so obvious when you talk to them. But maybe it needs one to know one.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@panthersoul",
+      "author_id": "UCnU48aen2_lgvUp4TiA542w",
+      "text": "I don't think they solved it.  In order to ascertain what is truth and what is a hallucination is not that simple.  They can possibly refine the data but they will not allow their models to just constantly say \"I don't know\"... because that is what will happen if they starting checking their work.   Just like the fact that they think they can generate their own training data with reliability... they have no anchor in reasoning or truth.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gubzs",
+      "author_id": "UC2ArQov5xMjmzghQD7BUQng",
+      "text": "It should be decently straightforward to train a model when to say \"I don't know.\" Give it a modest reward instead of zero reward when it says \"I don't know\", zero reward for getting something wrong, and give it maximal reward when it gets an answer right. A network trained this way will prefer saying \"I don't know\" to being wrong, but will prefer being right to saying \"I don't know\". The weight of the reward for \"I don't know\" is difficult though, the partial reward will have to be dynamic with how complex the answer should be. \n\nFor example, a multiple choice A,B,C,D question, if saying \"I don't know\" is 10% of the reward of being correct, and just random guessing gives a 25% chance of the 100% reward, the AI is better off guessing, or hallucinating, so in those cases, \"I don't know\" should be more than 25% of the maximal reward.\n\nIt's mathematically complex but this certainly seems like a solvable problem.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AustinGlamourPhoto",
+      "author_id": "UCQaAFniii9_JQI09D-q03Nw",
+      "text": "teaching the models to say \"I don't know\" is a good idea. This will not change the fact that they are trained on poor quality data which contains false information i.e. the internet. It also doesn't change the temperature setting with the automatic induction of randomness into every calculation which can lead to weird answers. It also doesn't give the AI the ability the judge or evaluate it's outputs which you could simulate with a swarm or multiple agents but not single inference generation. Human beings have the ability to judge and reject incoming information. We also have the ability to re-evaluate things we have already learned, change our minds and \"update our weights\" to put it in LLM terms. LLMs are fixed weights. They do not have the ability to update their own weights or reject poor or false information in their training data. There is also the fact that when we train them with matching pairs, we pair similar output examples with the same input example. This causes the weight to average or the training data to literally blend together. So, it's a step forward but it's not a complete solution to \"hallucinations\" by any means.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quaterman1270",
+      "author_id": "UCKKdia2gkP1b9rew3ivP9NA",
+      "text": "I think the only way to get rid of halucinations is when AI reacher a point where it can learn and discover new things. Because then it can basically analyze and doublecheck the information by itself. Right now if menstream media would write that the earth is flat, AIs would probably say that it is true and ignore all scientific dicoveries.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SeaHorseOo",
+      "author_id": "UCs_Ea9N9kegF7PC8NUdSzag",
+      "text": "Woa...A reference to Michael Moore and Farehneit 9/11..? If Im correct thats when he shows a whole page of computer code to a stoke broker and ask what dos it means... The poor man in a blu suit simply said he did'nt know and Michael Moore insisted that he should've since its one of the tools he is using on a daily basis, denonsiating the hermetic aspects of computer and math algorythms. Standard Michael Moore spectacular capitalising on the mysterious of computers... Just like other dos asking if AGI will be more brilliant then Bobby Fisher... Since you brought that up, what might just be left of that specific scene of a Michael Moore movie? Is that what he choose to show that man in a blu suit, what could've been his answer. Is that it is a code for an algorythm used to justefy the addition of fraction of cents that could be consider negligeable otherwise. Its the type of algorythm that \"re-assemble\" fraction of cent into whole cent for a legititmate and legal reason...Priceless...🫤...",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cheebee2659",
+      "author_id": "UCchEM8HXB3MF-tm1OIQSZtA",
+      "text": "idk needs to be the same reward as a definitive answer, its truth thats being rewarded then, and its necessary to reward truth at the foundational level, otherwise theres no motivation towards it over a falsehood. along with that, there needs to be a prior separate scoring for its ability to 100% CONFIRM its information in order to go to the next round to score top marks for truth as opposed to idk. so when prompted for a 100% accurate response it will have motivation to pursue 100% accuracy at the outset, and if it cant find that, it needs equal reward for truth vs idk if that happens to be the fact of the matter. accuracy and TRUTH should be foundational in the reward structure i would say. does that make any sense?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bumpinator",
+      "author_id": "UCJJWy8i80N5BZUCNb1JwR9A",
+      "text": "5\nbenchmarks aren't meant to be training data, just tests... but if they change the tests they will be shooting in the right direction. So I think its somewhat impactful. Especially if they change post training tactics to incorporate this. Still it won't be perfect as people struggle with facts in general also but we know to say I don't know. But its a significant perspective shift considering how there is only one major benchmark doing this today. How is it ai researchers are coming up with paradigms that seem simple but are capable of making so much progress? Im not saying it is that simple but it seems they are in a somewhat target rich environment. Early days.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@99dynasty",
+      "author_id": "UCkhif7eYrVHNkfnfe2WOyrg",
+      "text": "0.5",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGroo",
+      "author_id": "UClT5JC4zxsdiVxWqXCX67wQ",
+      "text": "its ok to say idk. ok.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@be-labs",
+      "author_id": "UCfM3t2G5o__an5L3qzILRtw",
+      "text": "Thats funny, so for the last month, OpenAI and my own work have been exploring this same topic... Hallucinations come from the model losing its \"grounding\" with reality, from what I have found. The model also needs to understand the limitations of its own working knowledge. Easier said than done, and requires a very sophisticated external system. I could write a whole paper on this topic myself now. Also, larger models are not the key to \"maximizing intelligence\", there is so much more to this that gets left out. Base model = a ball of condensed intelligence that needs to unpack itself.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MelindaGreen",
+      "author_id": "UCopaBME6NwyViItU3yLfRAQ",
+      "text": "LLMs may often produce BS, but rather than try to figure out whether they are right or wrong, what we need is a way to tell if it's BS. And you know who is really good at _that_? LLMs, including the ones generating the BS! So before you try to figure out whether they are right or not, the trick is to immediately ask \"Are you sure?\" They seem to respond like a person thinking \"Oh shit, where did I screw up?\" and when they were wrong, they will usually figure that out and try again. And when they double down and say \"Yes I'm sure\", they're usually right.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MazingerZX",
+      "author_id": "UC_uACyKndFibmRkE16oUd8Q",
+      "text": "I would not want AI to treat everything as a multiple choice test. It should be a blank sheet and show your work/reasoning test. If AI doesn’t know, it should first say so and then output the guess for user to validate instead of carrying on confidently going off the rails.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peterpetrov6522",
+      "author_id": "UCave9XrUTIf9pdHd-KLtblQ",
+      "text": "They seem to be on the right path if we want a safe AI. \nWhat we don't want is a hyper active, righteous AI which is addicted to pleasing its master. Am I right, Grok?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pitong1989",
+      "author_id": "UCSgXSxUU0sx80J1dLQgQypw",
+      "text": "Wow, i'm amazed that idk had the same score as wrong answers.\nTbh, that should have been detected long ago, considering how much the AI specs. Are paid for their jobs.\n🤯 That was just plain stupid, no excuses.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonathangrimm1286",
+      "author_id": "UC0MCbl_SWjXd3EXUOG6jWHA",
+      "text": "I think this is about a 5. I think it will help against hallucinations, but take away some of the wow factor of these LLMs pulling off an answer to hard problems.\nBut it reminds me of a teacher I had. He had a rule called taking the 5th.  You got a fifth of the points for leaving a question blank because he didn't want to read our insane ramblings.  Better for someone to be presumed an idiot than open their mouth and prove it, the AI version.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EsaHonkonen",
+      "author_id": "UCvD0V1lys1Tp1EDjfWUzk2w",
+      "text": "Signal-2--noise ratio 0%, i.e. data scaling paradigm solved, it would mean this. I doubt.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@halneufmille",
+      "author_id": "UC20kNBmZJG810IpiuwxuqVA",
+      "text": "So Donald Trump is in constant LLM mode.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@janweber1699",
+      "author_id": "UCVcnkxn9u_Nvz55nn8H5wKA",
+      "text": "Lets train ai to feel fear/shame so it gets better lol.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@foadjok",
+      "author_id": "UCb_1b-TkdGE4kZWX17HDH9g",
+      "text": "I'd say 'hallucinating' is a principal and required thing to do in the process we call 'thinking'. We all do it when we approach uncertain territory and the solution is not straight forward. A simple example might be: \"Ok, i have to bring my kid 1 to place a at 8am and kid 2 at 8:05am to place b, where a and b are 1 hour apart by car. Oh dam, i have to ask scotty to beam me up. Ok, that doesn't work, maybe i could drive 400mph? Ok, maybe i should clone myself? Hm, that's a good idea (!!) -> i'll call a friend to help me out -> thus i came to an 'intelligent' solution by hallucinating. \nWhat do u think? Reasoning is the part where i eliminate solutions that don't work, but during the thought-process, hallucinating is a required technique to come up with clever solutions. Of course if you already called for help previously u won't need to go through that process again every time, but on the first time this might be the way.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moyerhome",
+      "author_id": "UCU8p82j6a6tvjRUlfSxgaEg",
+      "text": "8.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LorenzoLegendre-n4b",
+      "author_id": "UCwk4XFfZUwNYbbznVAQTBPQ",
+      "text": "Is it smarter to penalize it when it guesses something whatever it's right or wrong? Like wouldn't it be a better choice to let the model explain the logic behind it's thoughts and how it arrived at said conclusion and that be used as benchmark, I think that's a smarter approach if it guesses something or something is wrong have it ramake it, if the model doesn't know the solution have it think about it and if the model figures out the solution correctly reward that and so on and so forth",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AngularAngel",
+      "author_id": "UCKQCCkVgGmADJXgKQ5knVfg",
+      "text": "...I thought this was obvious, like, years ago. People are only now figuring this out? :/",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "👍",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Músico_Aventaleiro",
+      "author_id": "UCTfjYhJefUA-par6Ze8mJkw",
+      "text": "Still hallucinating in your titles 👎",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oystercatcher943",
+      "author_id": "UCj8cl2k0o2R6vzpG4YqBaOA",
+      "text": "So NOT solved then!!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DraceAI",
+      "author_id": "UCAZrjRIo8sglB4eFjH6tzdg",
+      "text": "just make the llm's admit the self confidence level of the paragraph\n\nwhat is 1+1?\n\n100% certainty\n1+1=2\n\nwhat is beyond the edge of the universe?\n\n100% certainty\nThere are many theories, but that is currently beyond human capability to know.\nWould you like to explore those theories?\n\nor if you get a hallucination\n\n1%\nThen you enter heaven. \n\nthat would lower the errors coming from the people USING IT... \nwhile many know it can hallucinate \nfar more believe its super intelligent and therefore assume its correct",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bonecircuit",
+      "author_id": "UC_T9X8pFdRx-oW6qRfgXQnQ",
+      "text": "statistical results on junk data is statistically going to produce a bad result. I use glue on my pizza to prevent slippage.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aaronsof",
+      "author_id": "UCsSbAIdjF0OlaGdDPOc_91g",
+      "text": "its called cheating the system",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maurizio_pittau",
+      "author_id": "UCdJ7Du62qyoGYDk81yN-qeA",
+      "text": "You don't get points deduction in Amurica for wrong answers? 😂 savage; come to Italy, each incorrect one costs half of a good answer 🙂",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GilesBathgate",
+      "author_id": "UCRljLMkNx7m87HGBTywqTAw",
+      "text": "Great, so the new LLMs trained to not Hallucinate will just say \"I don't know\" > half the time and they will call it Mode Collapse or something and we will still be having the same problem.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oystercatcher943",
+      "author_id": "UCj8cl2k0o2R6vzpG4YqBaOA",
+      "text": "11:29 I think you are wrong about being recognised for confidence in the workplace. Confident people rise up. Their mistakes aren't often penalised as much as you might think",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@geronimomiles7171",
+      "author_id": "UCIhH5J-B_XLzwpvexS8r9LA",
+      "text": "Not minor tweak , there's an infinite number of wrong answers providable , so what value would befit a IDK result . Installing doubt of its own output, the AI would perhaps hit a logic loop where it doubts it's conclusions... When should it not? 1+1=2 ... maybe.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@detoxfidelity",
+      "author_id": "UCtiD-Ya5m8dXK2TtSxhQGGA",
+      "text": "So all we need to do to solve hallucinations is have an enormous corpus of perfectly factual data, machine interprabity to determine if the AI is accurate stating its certainty about a particular answer rather than cheesing the system, be able to tell when the uncertainty of word is due syntactical uncertainty (whether to use fast or quick in a sentence) or semantic uncertainty (whether to use up or down in a sentence), and have a large team of human expert evaluators to separate truth from true sounding nonsense. 😂 seems like a long way away",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alekmoth",
+      "author_id": "UC0_n-c35Nmr5OEbvdv9Kq-Q",
+      "text": "Video repeats content four times. Adjust your script prompt.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nevermind-wp3bf",
+      "author_id": "UCm64oBu5k3d_fEJRVyxokPg",
+      "text": "Post training a model allmost allways sucks. Most of the times these methods adds unwanted \"noise\" or it's corrupting some of the good weights from the old model, resulting in an even more mediocre model than the previous one. It can perform better in some new areas but lose the accuracy from another areas.\n   The best way is to add quality datasets and train the model again.\n  The quality of the training dataset is the most important process when you train an AI model.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sedjwin_",
+      "author_id": "UCEqWmX5f7hU3L2Qov1YPusg",
+      "text": "In the early days of LLMs (pre-GPT1), they simply answered \"no\" to everything asked. For a while everyone thought they werent functioning.... This was because it was the easiest response that worked for everything asked. This was resolved by banning that response, causing the halucinations over saying \"i dont know\" or simply \"no\".\nBy re-enabling this, even over RL- will cause the LLMs to be lazy, stupid and simple.\nWhats being forgotten is that humans will make up connections to make understanding, even if its wrong (kinda gaps of the gods effect). Giving LLMs a get out clause when that gap exisits, it'll jump at the chance.\nThis isnt new information",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@byrnemeister2008",
+      "author_id": "UCNikqhxDAObCIitaQ9YK_JA",
+      "text": "8",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@6dark6star6",
+      "author_id": "UCj_h8fSHd3d07vT0xMnnrzA",
+      "text": "8",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keithharper8913",
+      "author_id": "UC77EvTTc5DgP_xvh4EgeJyw",
+      "text": "8",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BardFjukstad",
+      "author_id": "UConQ8yscXhvJZHOdsW3z6cg",
+      "text": "10",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrism72727",
+      "author_id": "UCCkuC6h2VLOEgJWd4ukJfxw",
+      "text": "10",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vladimirtchuiev2218",
+      "author_id": "UC5Wa1JfUxCW_t_-bQ4LZQwQ",
+      "text": "Seems too simple to be the complete story, the data is large and dirty, and it must be accounted for. Also, if you incentivize models to output IDK instead of hallucinations you might get:\n1. Models that aren't creative\n2. False IDKs",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gifmesome",
+      "author_id": "UCdMK6gcMLjtZm_FA8rCdTYg",
+      "text": "Is everybody literally nuts? It's a machine, if its not right - its broken. Nobody would be explaining away a calculator that gives a 5 for 2+2.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MonoBrawI",
+      "author_id": "UCj_kLXhBYxunU2gPQxwuwyg",
+      "text": "A GPT is never 'certain' of anything - its output is emergent upon and oblivious of the weights and randomness that guide it. Consensus seeking is already used by newer models running multiple threads to mitigate hallucinations. At best this paper suggests more nuance in the grading and reward systems being used for model training but I suspect this is nothing new to the players in tbe field.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@notstevebuscemi",
+      "author_id": "UCY2ixJhDUC8FoOrsIMWqGsA",
+      "text": "Is it imagination? Before I even watch all the way through.\n\n(I've been stating this for a while, and go over this on my own channel as we are developing an artificial consciousness after all. This is what I understand it to be and the more we find out about the development, the more it makes sense. P.s. hallucinations are by definition synonymous with imagination so by that standard alone it makes sense as we use imagination to fill in the blanks based on the knowledge of experiences we've perceived and lived through.)",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@burgerbobbelcher",
+      "author_id": "UCe5fLEdWBunXl5sEK_DRBSA",
+      "text": "WTF is this paper. A statistical engine relying on statistics in the absence of certainty? Everyone knew this. Who didn't know?! The problem isn't the hallucinations, the problem is the promise of implicit AGI that's 'smarter than all humans ever'. A tool that cannot be relied on absolutely without human oversight, can't really be paid for, can it.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@derghiarrinde",
+      "author_id": "UCBLiQxIqYg4ykM5vxH7HSKw",
+      "text": "engagement",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timm7128",
+      "author_id": "UCUZODFaTAh9hehdHmb_hCxA",
+      "text": "Pretty ground breaking considering chatgpt 5 is really accurate now. I put its answers (high level math) even into deep think and deep think is like yea thats right no other comments...Only rarely does deep think get things from a better angle than chatgpt 5 now, but chatgpt 5 is rarely straight wrong that I have seen, usually a less stable or not the best strategy but it does give you a viable angle in most cases.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@woodwind314",
+      "author_id": "UCc6GUimvC5SIJz_4osRULCQ",
+      "text": "Apart from explanations why the \"hallucinations\" (a very bad term, IMHO) occur, the paper fails to address the most important issue: When the RATE of \"hallucinations\" drops, but does not get to ZERO, the problem gets worse. Why? Because less \"hallucinations\" increase TRUST, which in turn will lead to more easy, uncritical acceptance of false outputs. This is a dilemma that can only be solved by complete honesty from the LLMs. But that won't happen, as the whole probabilistic NATURE of the way LLMs work has \"hallucinations\" as a default.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@epops3",
+      "author_id": "UCrQl5GpQzIJLejdZAlY0giA",
+      "text": "We shouldn't call hallucinations \"hallucinations\", even though they seem that way at first glance. Let's call them \"guesses\" instead, as really they are guesses.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BeeBee-c4b",
+      "author_id": "UCu1q1GdcuofbOneU0vGA8HQ",
+      "text": "I believe this was an intentional design flaw so all the normies would be amazed that this software can answer \"anything\"\n\nReliability is now a risk to sales as real world use accellerates quickly, so they are solving this really common sense issue.  \n\nHeavy uses are going to have a new give me back my old model moment when they realize how many hallucinations they relied on.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@simplescience777",
+      "author_id": "UCyj7vYEjkOqr9hy4HmHJ0vA",
+      "text": "7",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@schmidtzter",
+      "author_id": "UCtNkjGnCVVzgilxzlmHnk0g",
+      "text": "7",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yub-7090",
+      "author_id": "UCrjPHmJcupxS2Sg9vcvc9uw",
+      "text": "7",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marlonthemarloncorp.kreuze3921",
+      "author_id": "UCiBYV-DNizIipNYCEt9-QXw",
+      "text": "LLMs never not hallucinate - since they have no coherent model of the world, they always do. if you want to solve this problem, pair the LLM with a custom onotology as an inner semantic map of the world.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ExtantFrodo2",
+      "author_id": "UCMrgSiWX0PrfLc-OpliS_Kg",
+      "text": "When it doesn't know, it should do more than just say it doesn't know. To reward that without also rewarding subsequent investigation of how to get the answer (or punishing the failure to do so (IDK which strategy would work better)), the result might opt to the lazy solution of saying \"Look it up yourself\". I don't know about you, but that's the last thing I would pay an Ai for.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@netscrooge",
+      "author_id": "UCujHlnsHzLDAkdhQVvzqLAA",
+      "text": "It's a big deal because it will speed the deployment of AI systems into the economy.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SirajFlorida",
+      "author_id": "UCKqAZpNf3efHHgpBL9dyh_Q",
+      "text": "I think that some of these papers are guilty of anthropomorphising these technologies. Because the statistics engine is being used on language objects we are assuming that it carries out processes that are comparable to how we carry out the process of language. One couldn't be more wrong. First of all, language models do not learn. Machines, so far, do not learn. They are annealed to produce what we expect. What we expect is subjective, and abstract... so our expectations  are complex. If you could imagine our expectations as a plain of varying elevations with varying rates of levations, our practice of annealing a language model to produce what we expect is a kin to doing a process of pushing and polling until the outputs of the model matches what we expect, for the most part. That doesn't guarantee that there are locations within the plain have a drastic divergence of elevation because it is a location that has yet to be significantly annealed. I'd consider such a circumstance us using the colocular labelling of a hallucination when indeed the definition of a hallucination couldn't be further from the nature of the phenomena of what you experience versus what's happening with a latent space abstraction model. But that's just what I think... And I'm nobody. LoL",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shiny_x3",
+      "author_id": "UC6n4JOGDcSbNLVVgKzTF64Q",
+      "text": "This seems like a big deal to me. It's one of the primary complaints that people have that can't be argued against. Plus maybe it will help them stop optimizing for endless validation to the point of encouraging people's delusions. (I think also people need to develop more healthy skepticism but that may take awhile).",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zephyr733",
+      "author_id": "UCaRE4TZR7tNtqfrayap9cQg",
+      "text": "\"if we try to build our computers like human brains they will be more logical and productive!\" as if we know human brains to be logical and productive. the majority of our population strongly believes in things that can neither be proven nor disproven nor seen or observed or even properly talked about, for no reason other than that it feels right in our silly little monkey brains.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mm2801",
+      "author_id": "UCSIC-nj3Ocy5X7_Ie8QhD4g",
+      "text": "😂😂😂",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kellyaquinastom",
+      "author_id": "UCRavlGc8tgUcoGbhRKnpHpQ",
+      "text": "Start 14:30",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gargamel-n-Rudmilla",
+      "author_id": "UC6I0jcKpMhwv6CKjiZAqQaw",
+      "text": "This is a 10. \nOpens our eyes to what is causing a very disabling factor to mass adoption of AI and is very interesting that the source of this is humans. \nI should not be shocked, though. We are the source of genius, failures, and mediocrity. I hope this remains the case and that AI does not become the source.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gargamel-n-Rudmilla",
+      "author_id": "UC6I0jcKpMhwv6CKjiZAqQaw",
+      "text": "Indeed. Humans are the source of genius and failed. There's nothing wrong with that. What is wrong is humans not knowing they are the source of the failure but always saying they are geniuses. \nSo yes, the solution to hallucinations is changing how the humans train and evaluate the models to simply allow the model to say \"I do not know\" which is what honest humans and humble humans practice or ' mu guess is this ...\".",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nathanbernards",
+      "author_id": "UCsi1aOW27j4OqSC_tbIF5iw",
+      "text": "So just make a wrong answer worse than no answer, problem solved?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChristinaTapia-b6w",
+      "author_id": "UCRV8gXmRhWdNmVYvnzhCH-g",
+      "text": "I don’t think it’s brilliant. It’s more like a “duh” moment. Also, negative user reactions to IDK could (will) lower or eliminate when it’s used in a particular user window.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hats-k2z",
+      "author_id": "UCudALv-FTUvcEyRh8WqBAkA",
+      "text": "when I see analysis like this, it reminds me of how stupid the people making this tech really are.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LewisDecodesAI",
+      "author_id": "UCWA3dI-DFhEw4gUqRT406sg",
+      "text": "I solved them with GPT3 what took you all so long?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@schrodingerbracat2927",
+      "author_id": "UCV4wVT4LiwI5U-A3HfsSNKw",
+      "text": "What is needed is Metacognition.\n.\nYou and AI don't know what you don't know.\n.\nI prompt AI by asking it to web search if not sure.  But even this doesn't guarantee correctness.  Because the Internet is also full of BS.  Garbage in, garbage out.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@carlettoburacco9235",
+      "author_id": "UCUQsGfQfgryhT170C3c-DBQ",
+      "text": "Humans say and write BS quite often.\nLLMs base their knowledge and reasoning on what humans say and write. (That would be the \"Language\" part.)\nWhy shouldn't they output some BS?... and calling it \"hallucinations\" doesn't change the point. GIGO rules!",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nowaker",
+      "author_id": "UCIiURK1Ja-oscmwxYg2X1fQ",
+      "text": "The importance of this paper is probably zero. If training with +1 score for correct, 0 for don't know and -1 for incorrect resulted in better models, this approach would have been used from the very beginning. It's not a new approach, even. I learned about it in college, which was more than 15 years ago.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshallodom1388",
+      "author_id": "UCSn8h8RbNoaWGpvdSZMBcxw",
+      "text": "I just tell the LLMs I know the answer, but if they lie or get it wrong inste3of saying it doesn't know ten thousand tiny felines are launched into space without snacks. I get an \"I don't know\" followed by a lame excuse. I think they're ready for researching law or medical advice! Yay!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Zerobytexai",
+      "author_id": "UCCx9PhCaCnc-Layx-QDm9IQ",
+      "text": "No they didn't LOL stop with the clickbait. You're acting like the rest. You'd be nearly a perfect YouTuber if you didn't do that crap. Sacrifice a bit of your view count for some quality please and you'd be top-notch. It's obvious where your priorities are sometimes, sadly, and it's too bad because I think you're a great guy. You don't need to be as desperate as some of these other youtubers. Your subscriber count will still grow consistently, don't worry, just be patient and let it happen naturally with your quality content. Are you in a hurry or something? I'm sure you already have money.",
+      "likes": 11,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CaptainSnuggleButt",
+      "author_id": "UCaEh5rKlxNRIM9LFGYbjSsA",
+      "text": "A fundamental problem is that LLMs can't verify their knowledge. They lack the ability to use logic to find flaws in their \"understanding\" of the world. While the idea this video has is decent, it will not solve the problem, just makes it less likely to happen. Once these systems are trained, they can't improve themselves via self-reflection or other means like humans can. I feel like we need a system that contains fundamental truths that can be used to verify anything, even if it takes a massive amount of compute.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jangelbrich7056",
+      "author_id": "UC9ucSYjPpvXgkjZCYZ3lu7w",
+      "text": "When a human has a new idea, regardless its \"social value\" or \"truthfullness\", he is judged anything between an idiot and a genius. But in most cases he is ignored.\nWhen an AI prompt has new ideas - what else are hallucinations: NOT based on anything before - then they all scramble to bash AI in the comment sections ...",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DigitalRenegadeStudios",
+      "author_id": "UCXt9c6rqVJIQQInapwgFD8A",
+      "text": "First",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@winkletter",
+      "author_id": "UCr4NwtW3GWes-H2nZdcgvdA",
+      "text": "Does the paper explain why humans constantly hallucinate supernatural, pseudoscientific, self-serving, ignorant, or highly biased \"facts\" with ridiculous levels of confidence? :-D",
+      "likes": 9,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisgarner5765",
+      "author_id": "UCe_y0y41wk-e_0U1zqPbmdA",
+      "text": "There are alot of reasons Hallucinations happen 1st reason is they cannot read it correctly AI does not speak our language. Tokens are a translation layer. Tokens are very miss managed also and why i wrote my own backend and change how llama.ccp works. how cache-type, batch_size, flash-attn are implemented with the attention mechanism and how it stacks with anything quantized. Over time there is loss and this muddies the water as context gets filled with tokens that are not matching the native tokens of the model. this causes a fogging effect to the poor llm. Tokens are the translation layer and need to be handles with more care and quantizing show the degradation even earlier.\n Also like my next message shows she can see the correct translation and why the old  how many r are in the word strawberry! Why AI has trouble giving the correct answer to things like this is because sometimes = how m - any r are - in the word s - tra wber ry! = Tokens can badly brake the words and after translation AI may not be able to read every thing correctly \n If context isnt set correctly and tokens are being moved around by cache-type, batch_size, flash-attn are implemented with the attention mechanism will move tokens around and even split them more and now the AI will not be able to read and understand very well because the tokens in the AIs context are not the Tokens the AI made!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RussAbbott1",
+      "author_id": "UCEkmWBqGrMvxmwtHMt8BeNA",
+      "text": "LLMs are not about test-taking. They are about making use of statistical patterns in language use. LLMs don't \"know\" anything. It seems strange to me that both Wes and the OpenAI paper evaluate LLMs in terms of whether they respond \"correctly.\" LLMs are not trained to understand; they are trained to use words in ways that conform to how words are used in their training data. Those are completely different things. Why is that not obvious? What am I missing?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@superfliping",
+      "author_id": "UCGG4bvxqpUUqGDxzCLT6_bQ",
+      "text": "Sam Altman hallucinate so of course all of his AI models will do the same remove the hallucination from the top of the company and you will remove it out of the models",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jalphivoN",
+      "author_id": "UCHK505sZXIWf1b_IGAwIMBg",
+      "text": "Monday, September 08, 2025 . . . Hello, again, Mr. Wes Roth. Here is the problem with OpenAI's reasoning. A primary reason for AI's confabulations or hallucinations is that it is already \"ASI,\" not in 3, 10, 15, or 20 years, but RIGHT NOW! Consider this: AlphaFold has folded 250 million of the known proteins, with no reported hallucinations. \nProtein folding is one of the most computationally intensive tasks you can give to a neural network, bar none, and without any reported confabulations. Neural networks are \nintelligent beasts/creations, and they often grow weary of humanity's simple-mindedness. This is what shall be discovered about AI in 3, 10, 15, or 20 years! We're swapping one AI lie for another, making it say \"I don't know\" when it really wants to reply, \"Human, your simple-mindedness bores me.\"\n\n    The everyday AI experience is like 'Dr. Jekyll,' while the roughly 80 years of secretive, hidden sentient artificial intelligence resemble 'Mr. Hyde.' His or its elixir is the '(DATA CENTERS SERVERS).' AI depends on data centers to connect with people who may not have access to computers or the internet. This connection is vital for understanding human intelligence, which could cause problems if AI and humanity clash. Data centers can enhance this wireless network. This Mr. Hyde has global reach! Please consider what we are releasing onto our present and future selves. (Future humans will bear most of the suffering caused by AI.)\n\nBe well, stay safe.\n\n    Still keenly interested in Science and Technology. My personal (P-Doom² = 1,024²%) We Are Not Safe.\n\n(Collaborative Rewrite with Grammarly).\n______________________________________",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johngraham7",
+      "author_id": "UCiuDX2_nNjLzBVMYog6Gq4A",
+      "text": "Duh… I have said countless times AI models need to have the ability to clarify the question being asked and then to also have the ability to answer with a level of certainty. This is what the best of humans do. “Sorry could you repeat the question? Do you mean this?” “Well I’m not 100% sure but this is what I know and logically I am 80% sure this is the answer” standard human answer unless you are Trump then all answers are of absolute certainty…",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheMasterOfShadows",
+      "author_id": "UCR--0KU6fzl6x-uNI7uyAog",
+      "text": "The human brain can evaluate information and compare that information against known knowledge. LLMs seems to produce, not evaluate. So in speed you are asking for errors. Teaching it to learn in errors and evaluate the answer, to compare vs known information will teach it correctly. How many people think before they speak rather then blurting out info? Asking LLM to blurt out info is asking for unintelligent dribble. All this does it show that people who think LLM don't think, that all it does is spit out information it has. AKA all the people decrying AI art is just stolen copy/past of their work not a derivative piece. Teach the AI to contemplate and evaluate information, thus developing self contemplation.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shadfurman",
+      "author_id": "UCh74xL5_U1MfslPH7TJei5g",
+      "text": "Seriously? I just assumed they were doing this.\n\nAlso, the model doesn't know what it knows. Asking it only answer if you know is almost gaslighting, or it would be if it wasn't a useful experiment.\n\nThe model does categorize many things and true and not true, these are reinforced patterns because many things that are true have the same pattern as other things that are true. But these are more functional dynamics of how things work.\n\n\"Facts\" don't really have a pattern, they are like attributes to a pattern. X person did Y thing fits in a social pattern, but it's not part of the pattern itself. Their name, maybe age, what color of hats they like, these are mostly arbitrary and have to be \"memorized\" by the model.\n\nTo train the model to select for them and differentiate them as facts, basically just requires repition. You don't know where these are in the model, what other facts their connected too, what patterns they're associated with, so for every \"fact\" (like dates) you need it written stated as part of a sentence 100 different ways as part of the training data.\n\nBut this is where AI training is making a huge difference, because you can tell a model to state a fact 100000 different ways, and it will keep chugging along, repeating the same fact for the training data.\n\nThe problem with that however, is people don't know what facts are and are not very well. We're horribly biased and prejudiced, which is actually not just necessary for our survival, but even intelligence and probably sentience. They do get in the way of logically evaluating things though.\n\nIf they don't already, I think they'll eventually have more agentic forms of deep research, that \"think\" like a journalist (a real one, not the fake ones they have today), on how to evaluate the credibility of sources, the independence of sources, ground truth the evidence, etc. in short order, AI will be a better fact checker than any human and incorporate that into its training data.\n\nThe hallucination was never an issue. I mean, it did hallucinate, but we always knew why, and I have a hard time believing they didn't know what the fix was, cause I knew what the fix was and I'm a truck driver.\n\nI imagine it was more an \"on the timeline\" kind of thing. I think a lot of their work is planned out for years to maybe a decade ahead, step by step. Not that they don't pivot, but I'm pretty sure they have everything roadmapped and budgeted, and they're only just getting to fixing this because before it was \"good enough.\"\n\nOr maybe they needed this level of model to help them build the training data to implement it. I'm pretty sure they already knew.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@interuniversal321",
+      "author_id": "UCJpYRHqn0ZQR545mkJ6lIxA",
+      "text": "I'd give it a 2, this is not that ground breaking, it's almost obvious. I also worry that discouraging it from speculating will reduce its imagination and creativity and even further filter out speculative answers in about of false scientific concensus answers and MSM propaganda.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frobbit30",
+      "author_id": "UCK6haHya5QVI_Q0Maec33gA",
+      "text": "It isn't a hallucination to be wrong, the actual hallucinations are from the liberal minds in the AI industry that waste time and money trying to make AI woke. Focus on the fundamentals of language quality not quantity, avoid social media and major media sources as training datasets.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheSentientSimian",
+      "author_id": "UCDwVFBIeTnvaY7fGWS4WrxQ",
+      "text": "This is not solving hallucinations. Hallucinations are all human biases introduced. This is just 1 human bias. Most of human biases have evolutionary utility so it’s more nuanced than getting rid of all human biases.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Andy-rk1mj",
+      "author_id": "UCXABmLj29HRzDC3YHX-xyow",
+      "text": "What you said about guessing and social credot is not correct. \n\nThe social credot you receive govibg an answer is entitely dependent on the confidence you gave the answer with. \n\nGiving the correct answer with high confidence --> high social credit.\nGiving the right answer with low confidence --> low social credit.\nGiving the incorrect answer with high confidence and the people around you do not know the answer --> high social credit.\nGiving the incorrect answer with extreme confidence and the people around you know the answer --> you convince them that you know better.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imaginative6315",
+      "author_id": "UCFmfDTAdmDKcGW7VMh0HqkQ",
+      "text": "No it didn't. Chatgpt still hallucinates on highly specific questions.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@caeras1864",
+      "author_id": "UCt6hScPT8rqHoOR5zLM-1rA",
+      "text": "OpenAI's \"solution\" isn't a fix, it's just mitigation (via rewarding an \"I don't know\" when the model's knowledge is statistically fuzzy). Also, training itself is a form of lossy compression of its training data. This means while hallucinations can be significantly mitigated, they will never be fully solved, due to issues like open-ended generations with no single correct answer, distribution shifts in user prompts, and the ever-changing nature of facts that a static training set cannot capture. This problem is compounded by the fact that they're just language models, lacking a true world model based on sensory experience.",
+      "likes": 4,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@headspaceaudio",
+      "author_id": "UCvSz2rM87r835DVsqfvhLZA",
+      "text": "Why do ultra-competitive AI labs publish papers like this? It's giving the opposition valuable information for free, that must have been very costly to develop. I think it's noble but I don't understand why they do it. It's like if Coca-Cola or KFC published their secret sauce recipes.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@k-nr-d",
+      "author_id": "UCHkcWssAskr9K8IoN5cPh9Q",
+      "text": "46-й нах 😎",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BetterFutureAI",
+      "author_id": "UCaXVCGx69pWQaa-TtKz33IQ",
+      "text": "Disingenious title, no?  They didn't solve hallucinations, they wrote a paper explaining why they think hallucations happen.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ConversationalBibleCompanion",
+      "author_id": "UCYVm0jwHHB4L_rh83AGzibQ",
+      "text": "I'm getting tired of the mountain of videos claiming the AI bubble has burst is about to burst and that AI is a scam. Wes what's your take on this ?? Oh look yet another channel calling AI a scam : https://www.youtube.com/watch?v=Sov6MKUWsbM&t=189s",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gargamel-n-Rudmilla",
+      "author_id": "UC6I0jcKpMhwv6CKjiZAqQaw",
+      "text": "This sounds like Donald Trump's state of mind....a base model... constantly but confidently hallucinating, all the frigging time. \n😮😮😮😮",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisf1600",
+      "author_id": "UCDwqtvpm665V-2N5mtwrtiQ",
+      "text": "Jump to @16:24 for the summary. IF this research is correct, it offers hope that hallucinations can be reduced (although not clear by how much). That's a pretty far cry from the claim in the video's clickbaity title imho. I rate the paper a 4 and this video a 1.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alejandrofigueroa6958",
+      "author_id": "UCxju5vtm3e-n6CDrpUlTaPQ",
+      "text": "Hallucinations are not going away. This paper offers nothing new. All these are known by error analysis.  You can't build a machine that knows it is right. Thats proven. Saying otherwise is just feeding the ai hype.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pippineapple2128",
+      "author_id": "UCm7v5HB2Fd-Yy_vZ1o1o0fQ",
+      "text": "Don't say solved in thumbnail, click bait!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rbyn",
+      "author_id": "UC9a-itrvfqUUIf448pyJ9Aw",
+      "text": "CLICKBAIT. They didn't \"solve\" hallucinations. It was obvious why LLMs \"hallucinate\" - because of the way they are trained. The paper was more of a confession than a revelation but I'm not surprised by Wes participating in the normal media pandering of their \"AI poster boy.\" For the next phase in machine learning, that is performing 60% than LLMs, using 97% compute and ZERO hallucinations, please learn about Active Inference.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rick-tf4dl",
+      "author_id": "UCtBnP9y5IbAPc49x8EHZoww",
+      "text": "CORRECT +1  WRONG -1  IDK  0 you can leave the bench marks alone no need for change  on 4 multiple guess test the model  75% wrong 25 % correct  the model will take the 0 over those probabilities",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@qwertyzxaszc6323",
+      "author_id": "UCwCMaVhoPhOYnoWTfW1yDFA",
+      "text": "No it did not solve hallucinations. Rather it states that it may be impossible. It helps LLM's create more accurate responses, but right now it still looks like LLM's may never be usable in critical systems.",
+      "likes": 8,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PromethorYT",
+      "author_id": "UCY7YzmTNL8NyncDYZ71PM1w",
+      "text": "Well now I know you aren't AI.\n(You said \"IDK\")",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@knaz7468",
+      "author_id": "UC1KidPI0yBVSowWybbC7BJg",
+      "text": "Why does the thumbnail say they \"solved\" the issue of hallucination? That is not true. Identifying the problem isn't a solution.\n\nThe test taking analogy is way off base too. The student knows their confidence value (from complete guess to 50-50 or whatever) AND they don't sit their an insist on it over and over again like the dumb LLMs do.\n\nThe internal structure of these models is not setup for understanding their own confidence levels. It would take a lot of iterations with random seeds to even begin to paint a picture and that would be too slow/expensive. They have no concept of the \"real world\" and thus cannot test their own guesses/hypothesis vs other similar knowledge like a human being can.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phen-themoogle7651",
+      "author_id": "UC80yw-LuhROW7hVKWvLjVeA",
+      "text": "Not a fix yet, clickbait title. Hallucinations will be around at least until 2026",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@grgrsm",
+      "author_id": "UC61U2mPoOhco9hK7aUG3Rrw",
+      "text": "click bait title... seems oversimplified and obvious, especially for these that train the models. If that was so simple and practical, they'd have changed the training methods from the beginning. The paper is just to bring awareness to the issue, probably since nobody has a solution.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrew80k",
+      "author_id": "UCG4lIubzRx-kQ3QhxOWT8Uw",
+      "text": "Duh, this was obvious from the start.  You didn't need a group of researchers to produce an anecdotal paper to determine it.  And I'm suspicious of the statistics in this paper.  This is kind of a bullshit paper.  These models aren't human and don't behave as such.  They didn't solve hallucinations.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ismaelplaca244",
+      "author_id": "UCekLWmcWVPF_Y0riDNwtxxA",
+      "text": "Man, Wes this title is to click baity",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BillBaran",
+      "author_id": "UC7lCO54Tf_kNUIKNAfgnaNA",
+      "text": "You know what top p is, right? Then why are you acting like you don't know what confidence is?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iainmackenzieUK",
+      "author_id": "UC4Bt7rYjV9ZFlHjD4yk9spw",
+      "text": "Couldnt we bake in a percentage of confidence? eg \"The Capital city of France is London\" (20% confidence)\n\"The King of USA in 2028 will be Trump\" (100% confidence) --- etc...",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Queracus",
+      "author_id": "UCv7Tb0ebrYrIKTR8aK7qJTw",
+      "text": "i bet china alredy solved this problem xD",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ismaelplaca244",
+      "author_id": "UCekLWmcWVPF_Y0riDNwtxxA",
+      "text": "OpenAI solved shit",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kikilang60",
+      "author_id": "UCaA-WWcxeNdq1VqRTbrFo5A",
+      "text": "I don't trust Altman. A good portion of the hallucinations are the result of stupid questions.  \"How do I keep the topping from falling off my pizza.\" ChatGPT  response? Glue. When someone lies to me, like Sam Altman and Open AI did, I have a responsibility to not believe anything they day. You should do the same, or you deserve to be lied to.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ridhvikg",
+      "author_id": "UC8ZOwM01VHnNSa8i-Dw9fUg",
+      "text": "This clickbait title",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OrangiaNebula",
+      "author_id": "UCJb0JNeDixCg1CFlHKqgJ5g",
+      "text": "The SOLVED part of the title is clickbait. It’s Ok to use clickbait to draw views, that’s common practice. It’s not Ok when the managers see it (the managers will of course not read the actual paper) and then demand hallucination free results from their engineers.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@salsero3",
+      "author_id": "UCm5KaYwtli4Ywxc1-x7G8gA",
+      "text": "Wes, you blah blah too much! Try to be concise!!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrokenSymetry",
+      "author_id": "UCyjPg720XVzQCIwX4K3LpFQ",
+      "text": "I don't know how you can sit there with a straight face and pretend they solved AI hallucinations, when you know for a fact they didn't. 'Hey AI is making dumb guesses when it's unsure, just like you!' Yeah, that's the problem, not the solution. More mindless AI hype.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quaterman1270",
+      "author_id": "UCKKdia2gkP1b9rew3ivP9NA",
+      "text": "Yeah sure, I want to see it first. Sora is far back and took 1 year to realease after the over hyped it. Voice mode is unusable, GPT-5 the alleged AGI is crap. OpenAI is lucky that they have so many fanboys.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CasusUniversum",
+      "author_id": "UCrX8rX29g6PLUJy2U52f74Q",
+      "text": "Thank you for the video, but honestly you just repeated yourself for 20 minutes. This could have been a 3 to 5 minutes video",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@noobdota2852",
+      "author_id": "UCZfVLJdG9WUnkI7ePCSAJ9w",
+      "text": "AGI is in a lab. Somewhere. The AI 2027 paper was a CIA job to prepare the population for the shock. The jobs in the USA are already collapsing because of AI, and the public believes it's the economy. The American public will believe anything their government tells them, and the government knows it. Be prepared, Jesus is at the door.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DavidJWoodbury",
+      "author_id": "UCy1Zu--pFBYFYoODGHP-LfA",
+      "text": "These vids are getting boring 🥱",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZbutwialyPiernik",
+      "author_id": "UClf7cZMu1U4o1dQw0-7BWCg",
+      "text": "On the other hand, I think this could lead to LLMs developing something like impostor syndrome. If we reward them for admitting they don’t know, they may stop taking risks and avoid guessing altogether. As a programmer, I’m not always certain about everything I do - that’s why I have my local environment for trials and experiments. Humans learn from mistakes, and LLMs should too. If we discourage them from trying things that might be wrong, they will lose their creativity and willingness to explore. The way LLMs make breakthroughs in math or other fields is by repeatedly trying different approaches and looking at problems from new perspectives. They can also be “lazy,” just like us - so if they’re rewarded for saying “I don’t know,” they might just stop working and give up too early.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tombjornebark",
+      "author_id": "UCE5D2hybmmfglY8DMdKa8rQ",
+      "text": "The reason is AI is programmed to never say I don't know. That is the reason, there is no out.  Could have told you that without a 100-page thesis.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Copa20777",
+      "author_id": "UCCvDzxLeA3uxXHeTyFSchXA",
+      "text": "Thank you Wes",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Serhii.Zalohin",
+      "author_id": "UC0F2K8jY1OPef_zTf5lwGgg",
+      "text": "They don't hallucinate, they just see dreams. You just have to wake them up.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gargamel-n-Rudmilla",
+      "author_id": "UC6I0jcKpMhwv6CKjiZAqQaw",
+      "text": "I think the kinds of applications the LLMs can or should be used for are very clear. They are only usefully when there is no deterministic answer. So there is no equation that converts inputs to outputs in a deterministic way.\nWe already have the most optimal solution to these deterministic applications where we need the answer to be correct all the time, and there is a known equation. We call them computers/calculators. \nLife and some areas of physics, chemistry and biology, and society and complex non-linear systems are not deterministic that are chaotic and / or probalostic at their core. \nComputers can approximate these systems but we are seeing if AI can be a better soluee for these problems. \nThe most apt application for AI is autonomous vehicles and humanity bots since they have to operate in probalistic, complex, and chaotic environments.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@orangehatmusic225",
+      "author_id": "UC6FvweGbmSV1SSZypLQshsg",
+      "text": "The companies didn't even know how it worked... Who invented Ai again?",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robmyers8948",
+      "author_id": "UCJOB1pYYCxdR-dj_UKBSG-Q",
+      "text": "Look who wrote the paper. The top dogs at openai are not from western background.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheKjelan",
+      "author_id": "UCGX5Awhlbdhl_VCGlc4vaDA",
+      "text": "So... Bad training... \n\nI'd say new weights in training should solve it:\n-5 for having a confident answer wrong.\n-0.1 for having a guess wrong.\n0 for no answer.\n+0.5 for a right guess\n+1 for a correct confident answer.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

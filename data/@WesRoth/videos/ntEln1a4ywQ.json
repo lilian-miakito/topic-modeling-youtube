@@ -1,0 +1,1116 @@
+{
+  "video_id": "ntEln1a4ywQ",
+  "title": "Mistral 7B | Raw Open Source Power Dethroning OpenAI",
+  "url": "https://www.youtube.com/watch?v=ntEln1a4ywQ",
+  "comment_count": 123,
+  "comments": [
+    {
+      "author": "@ryzikx",
+      "author_id": "UCJNXiNPQtC3AhZSETLmlLFg",
+      "text": "so close to 100k, growing so quickly i might as well say congrats now.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrpicky1868",
+      "author_id": "UCEW4lJpO2AGprVue0z-mCow",
+      "text": "separation of task and then a compromise is kind of how human brain works",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JamesOKeefe-US",
+      "author_id": "UC0DuEUGNxwyzlZYp1Y_ZESA",
+      "text": "Love your videos Wes. Tons of work and detail. Appreciate all the effort to keep us updated!",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HCG",
+      "author_id": "UCaZv4MFkIDdD-QsDMJOGQDA",
+      "text": "Researchers are finding that it’s surprisingly easy to train an LLM with “contaminated” data that allows it to perform well on those benchmarks, but is otherwise useless and doesn’t actually increase the LLM’s abilities and proficiency. Some models’ benchmark results are definitely a result of this, especially compared to their poor real world performance.",
+      "likes": 95,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EpicMeatShield",
+      "author_id": "UCeDuXq_0KeA8jpuPkQiuTfA",
+      "text": "Can't wait to listen to this while I'm at work tomorrow",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thefruit",
+      "author_id": "UCulZbm2_nuzf4sU7W2d0L-w",
+      "text": "great coverage of this historic moment. hopefullly we will look back at this and realise how much better it is for everyone to have access to AI, instead big companies owning it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGhostOfKarazhan",
+      "author_id": "UCp_yyH5luBNfnp9_WFxHImg",
+      "text": "Been using mistral 7b locally on my pc for weeks. It can run on a reasonable consumer Nvidia graphics card.",
+      "likes": 29,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@astrologywise",
+      "author_id": "UCG_RUFNIt-yp87czSS74wIg",
+      "text": "Wes, you kick a**. Great work . Keep it up man!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "Building the future, as a culture, beautiful thing 🙏",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DavidJNowak",
+      "author_id": "UCotgLNKyyIAUIxAq8K7sMaA",
+      "text": "I love the way that you add your interpretive comments in between the white papers you read through.  Some specific examples of how the new tools could be used would make the white papers more meaningful to a general audience.  The mixture of experts in an interesting new concept.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertheinrich2994",
+      "author_id": "UC6MzGQlMEF9ICf3gGPcp1qQ",
+      "text": "the fascinating issue with open source is in my opinion, that openAI went forward with creating huge models, meta did the same. open source devs often don't have the deep pockets to create such large models. they need to optimize much more. mistral is excellent in the way, that they managed to create a 7b model this powerful.\nsame goes with orca 2 (although it is microsoft).\nand smaller models give them the option to adapt quicker.",
+      "likes": 31,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ColinTimmins",
+      "author_id": "UCxuw6W7Y9a6kVFDUqQ1KVfg",
+      "text": "I wanted to relay information I got from another channel. Be careful with your URL when visiting your OpenAI account. Your authentication token can be valid for 7 days, meaning someone can gain access to your account settings and alter your subscription settings just by obtaining a copy of the info in the address bar.",
+      "likes": 17,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DefenderX",
+      "author_id": "UCYXMsr7FEvIN4h5x6NCV5nw",
+      "text": "I suggested some time back that how an AI could increase their search accuracy is by copying what a recently discovered hybrid brain cell does. The hybrid brain cell was found to contain functions from both astrocytes and neurons, and was positioned at junctions between neurons and astrocytes. The most interesting function thoough was that it was able to switch on and off a particular amino acid mark (I think?) or some marking that effectively changed the pattern where the neurons went.\n\nSo using this gating idea where we have eight or an optimal number of sub AI's that perhaps represent different tags, and maby the combination of such sub AI's could produce a combination of tags. Perhaps this way we can more easily categorize al kinds of information, and make everything more searchable.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FrodoTBaginz",
+      "author_id": "UCbp4z7lzXylMjykOoHKlq2A",
+      "text": "THIS IS EXACTLY WHAT I'VE BEEN DESIGNING! I just started designing a system of gpt's that work in conjunction with each other, with each model trained on a specific skill set or task. There would have been more structure and layering, but I haven't worked that out het.",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CYI3ERPUNK",
+      "author_id": "UCz0XNYl6YKKM-S2-OjtVYuQ",
+      "text": "another EXCELLENT vid/coverage Wes , thank you ; imho you have become one of the premiere voices in the space , kudos/congrats dude =]",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZxKaboom",
+      "author_id": "UCO0DKTOk59jO0a4WkkMEw1A",
+      "text": "Hey Wes, let me first tell you that I'm in love with your videos and I'm always on the lookout for when you release new ones!\nI'd like to ask about that ranking table you show us at 7:13. Do we have access to that, or is it yours?\n\nAlso, congratz on 100K! Well deserved!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bladestarX",
+      "author_id": "UCmkS7XxRbfMeO9kHIfugpSw",
+      "text": "I wonder if someone can develop a BitTorrent-like P2P system where people can contribute to the training of AI models. It might be a viable option for an open-source AI model that may not have the computing resources that OpenAI has, thanks to Microsoft. \n\nEdit:I think blockchain also lend itself well to something like this; after all it’s how crypto mining works. I mean we would all benefit from something like this. Hugging face should have an option like this.",
+      "likes": 45,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juliendebache8330",
+      "author_id": "UC-q10-Avq2oD6rXHSZ8UBpw",
+      "text": "Mixing many models with fewer parameters is a tried and tested technique in statistical learning in general. It's a powerful pattern to fight against the law of diminishing returns when adding parameters to a model.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SumairaSiddiquiMasood",
+      "author_id": "UCTEQ4VMHLyrvoGywnfUCN8A",
+      "text": "I am so excited and so hopeful with AI and all... Everyday is like a Sunshine in Darkness bringing me the reason for survival 🎇🎆💐",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jawadur_",
+      "author_id": "UCbuufa7t8kA57U86VzHZdCQ",
+      "text": "Congrats on 100K subs!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@warlordwillie422",
+      "author_id": "UCDv-vGcP-i-HphqP6JB-PIg",
+      "text": "Thank you!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phovos",
+      "author_id": "UC2zUxvSHGyllwy5SdK_US4g",
+      "text": "Ty 4 the vid m80",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@notnotandrew",
+      "author_id": "UCK6-R0Z9FyDFhBIroeG74ag",
+      "text": "I think this AI has a lot of potential, although it seems like its answers start well enough be understood easily but soon begin sound word salad which interesting give insight thoughts reasoning logic concepts considered no regard syntax only stream consciousness absent connecting words possible describe human thought",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ericrmaki",
+      "author_id": "UCt24cren-AJdfj7KPHNp3qQ",
+      "text": "Love your channel Wes! What other channels on AI would you recommend once I've gone through all of your videos over the last year?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mobalaa9995",
+      "author_id": "UCLGmXoKMWJtzKzwXlr9SYtQ",
+      "text": "self-hosting ftw!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JosephSilv4",
+      "author_id": "UCjFuzaXvuk_o9UQw3FQ_Etw",
+      "text": "👀",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josephflowers5254",
+      "author_id": "UCUuVaQPc6V2H2O9iutxDblQ",
+      "text": "This is how megablocks training works. Its what they use to build a lot of larger models and then make them efficient. Use a large MOE and then use distillation to a smaller model, or model equal size to 1 of the experts. Probably how the GPT turbos were built.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GlobalWorkings",
+      "author_id": "UC8dzOUVLpSJ-uo8pyP2dPZw",
+      "text": "The m3 macbook pros with the m3 pro and max chips can run the Mixtral model just fine. For most people, you will still have to run it in the cloud though.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KWifler",
+      "author_id": "UCXzIgX4dWhnxF4aZKTE6i1g",
+      "text": "Pretty soon we will get a Hydra!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mcdohlx",
+      "author_id": "UCqoVVj4L6IjTTRvZCd0S5PQ",
+      "text": "Poggies",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@john849ww",
+      "author_id": "UCnK7_U9X91O01sLZkrchRwg",
+      "text": "I tried gpt4all with Mistral and loaded two text novels from project Gutenberg into the LocalDocs feature. I then told the ai to have a character from each book have a conversation.  It was pretty interesting.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ReflectionOcean",
+      "author_id": "UCPB9024fIlk4q4-eedTa8Rw",
+      "text": "- 0:21 Learn about the peer-to-peer distribution method for AI models.\n\n- 0:42 Understand the advantages of running open-source AI models locally.\n\n- 1:05 Explore potential future applications for autonomous AI agents.\n\n- 2:17 Discover how the mixture of experts architecture contributes to AI performance.\n\n- 4:14 Consider the different types of experts that can be included in AI models.\n\n- 6:45 Reflect on the potential of open-source AI models to compete with big tech offerings.",
+      "likes": 18,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@npc_drew",
+      "author_id": "UCUELLEyyZBIt4Kn_C1mgm9Q",
+      "text": "about time lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Amplituhedron1",
+      "author_id": "UCW8zQaE6JPuzlQYRDX6iisg",
+      "text": "Its great they work with parallel experts, this way it becomes more modular and the more parallelism, the better. Good that they achieve simular levels than those big conglomerates, now the can't monopolise this technology.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DeepThinker193",
+      "author_id": "UCmZlH8MxYFrKHNd23KfQX_A",
+      "text": "Come one guys. Feel the AGI.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GoldenBeholden",
+      "author_id": "UC7rFTDd632OE5EOWd2LlKvw",
+      "text": "I am so glad to see a 7B model performing this well. The cutting edge is nice and all, but you won't be running any of those models locally anytime soon.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Quintus-Horatius",
+      "author_id": "UCVjfYOuFoHsMCRY-MUfadyA",
+      "text": "What tool are you using to compare the prompt responses ? The one shown on screen at 10’ ?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MasterDivineAdVentures",
+      "author_id": "UCRPZMWbd4CT-KtkbrvFabyA",
+      "text": "2:15 \"Deep Mixture of Agents\" Paper - Ilya Suskever co-author (Google) 2014",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ktolis",
+      "author_id": "UC9ni_CZ1Do7Xuo4mekVIp-g",
+      "text": "would be interesting to release a 1Bx8E as it could run in a 10/12/16GB (?) GPU or maybe even on some cpu-only variant.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NowayJose14",
+      "author_id": "UCPXAiogWi0nIc17j7bdTJRg",
+      "text": "Please talk about Orca 2!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "Bingo.  Gawd I luv you (in a very platonic way way).",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichealScott24",
+      "author_id": "UCSy5SX23Xrdxbxp0sh8i-hw",
+      "text": "❤",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@x3derr8",
+      "author_id": "UCDMvfXIOKoy7oMA5Ar5eWkg",
+      "text": "The funny thing is that all of this has been exposed by OpenAI for some time now. Experts are nothing but fine-tuned assistants, even the Gating Network can be modeled by a fine-tuned assistant. Not only that, but, you can easily make it even more capable by invoking multiple assistants to do the same task, compete them against the result, and choose the one that actually makes the most sense (based on some grade - could also be an invocation to external API - imagine the output being a code, you could validate the code via API call and feed it back as a feedback loop). All the tools are there, we need to find ways to use them.",
+      "likes": 11,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dominiccogan945",
+      "author_id": "UCoU9HrU_hQ64oZ8kmUiHUdA",
+      "text": "I’m currently working on an app that allows you to have your own database and allows you to talk to any LLM that had an API it’s called Pavis and I currently have it working with open ai and Ollama I’m added the ability for custom databases then it will be released",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Myrlin8",
+      "author_id": "UCnDLFwsqZLhjd0Sp64g6JgA",
+      "text": "We have no mote :) open source will be the only survivor. Information wants to be free.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BradleyKieser",
+      "author_id": "UCPvbrtCTdeCm5rY4WNlJdpQ",
+      "text": "The next step: A fine-tuned LLM to be a gateway, that chooses which model to run, then a fine-tuned model to combine the output. That will allow a serial running of models, and therefore commodity hardware. A KV storage to bridge from gateway into target LLM(s) and then on to the combiner LLM.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cajampa",
+      "author_id": "UCPOQDAZLqwcmXuMpZQYz2nQ",
+      "text": "What is that app or website he is using 10:00?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DustyNBrokeGawd",
+      "author_id": "UCuJfpb9LtjO4V9T3dcjpIKA",
+      "text": "I'm in the right place.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@notnotandrew",
+      "author_id": "UCK6-R0Z9FyDFhBIroeG74ag",
+      "text": "Anyone who thinks GlaDOS would prioritize safety has never played Portal 😂",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@janorr1111",
+      "author_id": "UCeCOuwffhkMq0v0zL2aEOMg",
+      "text": "Interesting OpenAI vs CapturedAI!  Good Program!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulmuriithi7596",
+      "author_id": "UCB8N8ntiJme516DS1MpWYhQ",
+      "text": "Hey is it possible to cover the exiting. Probability of\n1. Deploying the MAMBA architecture combined with optimiser mixture of TALENTS-MOTH.. models\n3. That use q* based backpropagation within MAMBA\nTo replace transformers as a path towards AGI.\nMAMBA architecture outperforms transformer based LLM'S by too much.\nThanks",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andikunar",
+      "author_id": "UCeFb7oWPn_iTYYkbgJ5iEaw",
+      "text": "llama.cpp is currently working on supporting it for running locally (issue #4381), it currently only runs locally in vLLM. It will be interesting to see if it is also improving the performance of local RAG.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Comenta-san",
+      "author_id": "UCBFA3t-RDYXVBHsp8J6a_rw",
+      "text": "after using Mistral 7B, I've become an enlightened buddhist",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vectrocomputers",
+      "author_id": "UCDMzX_xmiFNQ3idfLQ62Srg",
+      "text": "I run Mistral 7B locally on my RTX 3080 and it's pretty fast. I can even get it to run on a Xeon E5-1650 CPU and a 6th Gen i7.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cacogenicist",
+      "author_id": "UCOeNj9DCtp2uOYYD9CpuHLA",
+      "text": "Modular architectures are going to be more efficient. This is just the beginning of these approaches.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "16:06 didn’t the Senate hearing  with Sam Altman imply there needs to be strict licensing just like nuclear power so only some companies will be able operate.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@perschistence2651",
+      "author_id": "UCmesm3tS6tlGgCm5eIX89fA",
+      "text": "I tried this model and many others. The strange thing is that they seem to surpass GPT 3.5 in many benchmarks, but in practice they have not the slightest chance.",
+      "likes": 14,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shortcutDJ",
+      "author_id": "UCTRLxLk-Sz0SLExVCKtieLg",
+      "text": "not gonna lie, open source gives me a half chub",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tearlelee34",
+      "author_id": "UCcKePVNMBk8jHGudUAm5X2g",
+      "text": "This is why I believe \"alignment,\" is simply hope. The moloch theory explains why our species can only hope all of the creatures are benevolent.  The only practical regulation at this point is UBI yesterday, and severe penalties for the developers if their creature goes rogue.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lexscarlet",
+      "author_id": "UCkgbcnVWuHIV0uXz11WUl8A",
+      "text": "\"EVERYONE HAS STOPPED SINCE THEN, RIGHT??\" 😉😉😉",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@voidc4t-q8n",
+      "author_id": "UCTWLetUT1KMpBy8qKxeEaFA",
+      "text": "I believe the correct pronunciation is \"soots\" kever",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MariusFanu",
+      "author_id": "UCFAn4u6WJE7JYK5wCyHN6fg",
+      "text": "What is the website where you can see the ranking of different models?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fmontserrattube",
+      "author_id": "UCY3XwV3GdKS-GrZBukWiATA",
+      "text": "Is there some solution to models requiring AVX2 cpu instructions sets? it tis posible to run entirely on gpu?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@georgeflitzer7160",
+      "author_id": "UCLtdk9A4O9OqRmzyHLJfGrw",
+      "text": "How about Jasper AI? Ty",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@testadrome",
+      "author_id": "UChJrh9d8FN35FLnNizNtxIQ",
+      "text": "What is the compare tool used at 10:00? Looks cool",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elck3",
+      "author_id": "UCmifYNECqMUitFJUbXGpZ3g",
+      "text": "Where are you testing these models?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrpicky1868",
+      "author_id": "UCEW4lJpO2AGprVue0z-mCow",
+      "text": "guys do you have extra room in your bunkers? or maybe a big boat? take me with you, please",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clray123",
+      "author_id": "UCxIul8uVZzd98RkAlYIIvMw",
+      "text": "You can see it's Mistral because it uses the word \"forevermore\".",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@piracymoney",
+      "author_id": "UCH1fywF1k4F3evxhHoWLhFg",
+      "text": "what's the leaderboard that he's showing?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Peter_Anthony283",
+      "author_id": "UCn7grbiL14gIiwZHX7sFbYA",
+      "text": "How do you survive without Dark Theme?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomski2671",
+      "author_id": "UCUPjWLgmlZhnmK2SMnU6bHQ",
+      "text": "Concentration of power is by far the biggest threat. Individuals and small organizations can cause some problems and damage, but large organizations and governments can cause much, much bigger problems and damage, by their scale.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thedeepseanomad",
+      "author_id": "UCilEDumt0jFZNY1CYZZA3tg",
+      "text": "Why not just have a super light weight mediator that loads the maximum number of parameters specialists to complete a single task in turn based composition?Imagine having a massive. 1,2 tb network for writing, consisting of  for example 20 12b specialized models in ( in sequence, never using more than 24gb ram för a 24gb gpu) grammar, Lexicon, style, critique etc.\n\nI would rather wait 20 min for every single solid chapter of good prose than have a garbage book in 1 min.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@velo1337",
+      "author_id": "UC3_kzyI9aUeN0MqSa8gG02g",
+      "text": "mixture of experts helps with parallelism",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mutaiib",
+      "author_id": "UC7zyrYdQuEU3IAwICMYdGrg",
+      "text": "how can i run these models ?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dgpreston5593",
+      "author_id": "UC-s9pUem13JJhKcDbpTaOyg",
+      "text": "Wes, you missed an opportunity to react to the multi headed goat and relation to Baphomet.  Occult symbology, none too subtle.\n😮😢😂😅😊",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spoonikle",
+      "author_id": "UCHEfAGn43nNBw3_Mf9i_xyA",
+      "text": "Minstral 7BMOE is not instruct fine tuned.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MsReclusivity",
+      "author_id": "UCh0FPQwNy9LorEPL_11S1Rw",
+      "text": "Pulls off her Tricorn hat and hides it behind her back. Yup no ones doing that anymore. Nope, nope, nope.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CelFicomProfFernandoCoelho",
+      "author_id": "UCV5sKnHaw5rjRTDelp-bw4g",
+      "text": "Man, manage to put your face in the thumbnails of your video's. I'm frequently miss some of them because I'm  scrolling tô fast tô my feed ant often thing is just some generic video. I believe you will drastically improve your channels numbers. Sorry for my English, whatching from Brazil .",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SloanMosley",
+      "author_id": "UCTddSapHsHib3Zfk2k8Bc3A",
+      "text": "Used to?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MuiOmniKing",
+      "author_id": "UC4uVWObKFEg8p0CYHd3oF_Q",
+      "text": "I do believe the open source community is catching up very quickly but I think people caught up the official release date of GPT-4 and not when it was truly developed. OpenAI during one of the devday conferences titled “Research x Product”, they state as many employees were using GPT-4 internally during October of 2022. Meaning the model was already trained and used probably around the time frame of 2021. I believe they developed 3.5 and 4 during the same time for research. This means OpenAI’s GPT-4 is almost 2-3 years ahead of open source in terms of development. If you take that into account this also gives a look into possible models developed after 4 they have been quiet about givin the time gap between now and when 4 was trained. Meaning GPT-5 is likely already trained and being used internally maybe even 6. I haven’t seen peoples speak much on this topic tho (since most focus on 2023 release) and how OpenAI has been ahead for years even if Open source is getting closer. I believe OpenAI does have a a moat that google claims they don’t be  try cause google themselves don’t have a moat (Hence the rushed release of gemini).I feel like the more we don’t realize how ahead OpenAI truly is open source won’t catch up. As we push the bounds of resesrch. OpenAI will upgrade and release versions of their models that basically make the usage of other tools sometimes useless. For example. Langchain is extremely powerful when it started. But now with the assistants api that framework begins to kinda “fade” although still heavily used. Because the assistants api was OpenAI’s version of Langchain. Just my thoughts on a lot of this going on.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@buddydaturtle1726",
+      "author_id": "UCNE1FKTtvcbK2veeL-FbUxA",
+      "text": "Doesn't GPT4ALL support Mistral-7b?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "Isn’t just AUTOGEN a platform of MOE?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BTFranklin",
+      "author_id": "UCkmY5FqXDOsj7mh4fgzjTag",
+      "text": "Hey Wes, thanks for another informative video. You are definitely one of my favorite AI news creators and I appreciate it.\n\nOne suggestion I have for when you're doing various comparison tests is that you should always start a new thread/conversation/whatever when you start your new topic or question. The reason for that is because when you're submitting your next question, the entire conversation is being submitted as context, which can (should?) influence the answer you get, even if your next question seems unrelated.\n\nAdditionally, if you're doing a side-by-side comparison and one model has a new thread while the other has cruft from your earlier questions, it's not really an equivalent comparison. I see many people making this mistake when doing informal evaluations. It's important to think of the entire conversation as one unified request, every time you submit it.\n\nSome might argue that the models need to be able to distinguish this themselves, and that's totally fair, but in an analytical comparison it's still something to consider for accuracy.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@edmundkudzayi7571",
+      "author_id": "UCW7bStIyvtOw7-DPB8poRng",
+      "text": "Just in time. Do we have evidence GPT4 is actually a model? Could be a system with multiple models.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mariacristinaarezzi",
+      "author_id": "UCbwoKVzWsGqAKNkTGZZdOvg",
+      "text": "Hello",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bravojr",
+      "author_id": "UC2ZdQccniTGKYOCf6hDzqsw",
+      "text": "Feel the Wrath of shared communities!\n-- jokes aside, Using the same notions that Data centers have ran for years with distributed systems OF COURSE THAT IS GOING TO BE MORE POWERFUL!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nosult3220",
+      "author_id": "UCIgWGdki8uLAoEngsmO0xZg",
+      "text": "I’ll be careful still. It seems like all models have been trained on GPT4. Mistral has been one of the best open source models though.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@qster",
+      "author_id": "UCwk1hALVMtkT_VY18AZ4ngA",
+      "text": "Just don't try to find this on LimeWire folks",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@idsoft-obsessed",
+      "author_id": "UCy60SFaeOrZ7PTCtZZWt_2A",
+      "text": "Isn't it open weights and not open source? Interesting.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@glasco_",
+      "author_id": "UCEzpNjmW8hPsx7SBenUa8Yg",
+      "text": "I’m kinda ignorant to this topic so forgive me but I’ve tried a few of these mistral models via Poe by quora, and they’re responses are absolute dumpster juice.\n\nAm I missing something?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KillianTwew",
+      "author_id": "UCQ47qT0oMWn6m_I8lj3NG0Q",
+      "text": "Bro I have mistrial running on a z8 with 4 Nvida Quadro, two 4ghz processors, and 128gm of RAM and its still slow as fuck LOL",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fai8t",
+      "author_id": "UCfRmrPXV4PZwV3-XBobUA5Q",
+      "text": "how these open source models fund their research? it needs billions",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@flor.7797",
+      "author_id": "UCAbhB1qRkdyKffh05XdZGrw",
+      "text": "But the output is worse 😢",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aurisnow",
+      "author_id": "UCcqROsTjnauy-whv2cfOn7g",
+      "text": "Can you please make a video encompassing the safety aspects of it all for us normal people? It seems like with the  proliferation of all these open LLM's and the sheer amount of them world wide the chance of them being used for bad reasons can not be ignored. Thinking of how much alignment needs to happen for a healthy body to thrive and how little it takes to make it sick. Hard to be optimistic about our future.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@7TheWhiteWolf",
+      "author_id": "UCpPGTsAt6CczbilerJf41Ng",
+      "text": "Kind of a clickbait title, no? It’s better than 3.5 but not 4 right? Come on Wes, open source is catching up but OAI isn’t dethroned yet…",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clray123",
+      "author_id": "UCxIul8uVZzd98RkAlYIIvMw",
+      "text": "Mistral is not really \"open source\", as the company behind it releases neither training data nor training procedures. It is free-to-use.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adram3lech",
+      "author_id": "UCorzsW1sDd12H9TlGEoU1Ow",
+      "text": "Why is everyone talking about how THIS INCREDIBLE TECH can advance their monetary position?\n\nWhy isn't anyone talking about how to use this tech to advance human condition?\n\nTired of groundbreaking changes happening but only end up strengthening the consumption program in our minds and nothing else",
+      "likes": 16,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MeinDeutschkurs",
+      "author_id": "UCVenI5ElQyOLokJUqVNkRpg",
+      "text": "Well, as long as the models are not able to talk in > 120 languages, there is no „dethroning“.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lastperfectman",
+      "author_id": "UC_ypbxCrSteLlGuoB0eumIg",
+      "text": "Is Mistral 7B free or paid?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarceloNogueiraGoogle",
+      "author_id": "UC17NQBeg3QXlfMXqtcGbQCQ",
+      "text": "This is great news for Scammers all over the world!! They will be able to run this model anonymously in their machines! Wow, just what we needed! Human stupidity knows no limits…",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brainwithani5693",
+      "author_id": "UCTXUPIhH07_SUeZRn2GT64w",
+      "text": "Yeah... No one pirates anymore... Uh yeah ... Thats totally not a thing...",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justinnine4940",
+      "author_id": "UCrysi2niOfGFHUDHaECZf1Q",
+      "text": "a mix of experts, each for tackling an individual benchmark test 👏👏👍👍",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bliptripmusic",
+      "author_id": "UCHuhNtV2P7RFcEIoBMQsj6w",
+      "text": "Since ChatGPT, every single AI model that has been made is the ChatGPT killer dethroning OpenAI. Anyone else notice that? Why do I keep clicking on these videos...",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raresmircea",
+      "author_id": "UCh5Bcjlj9zZtmPHY_UZUc9w",
+      "text": "Uuuh… Oh boy, oh boy! Fun times ahead thinking at the entities who have the $$$ for this, like Iran, North Korea, the Russian power elite, Saudi Arabia, The Mormon Church, The Scientology Church, Chinese mafia, prolly Mexican cartels will jump into this… Imagine a battle royal of mma heavyweights throwing themselves around but the cage is full of kittens. We’re the kittens 🎉",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Michael-Has-Opinions",
+      "author_id": "UCfvhmpzT1up8xVLlNDosjzg",
+      "text": "Ultimately, big tech have a strong moat, because after training on the internet data sources are proprietary - scientific papers, books, internal business documents, medical records, emails - you have to pay for the data. Open source providers may struggle to get that data as they lack the resources of the big players. Also, training costs keep going up - they are not YET a moat but five years from now it may cost $10bn to train the largestt model - and that cost has to be recouped from customers or elsewhere.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adram3lech",
+      "author_id": "UCorzsW1sDd12H9TlGEoU1Ow",
+      "text": "Most absurd thing about AI is that everybody is excited to use it for their fake city life and fake city job but nobody is talknig about using it for actual human problems.\n\n\"oh my AI will help me do excel vlookup\" \"my AI will automate my dumb startup\" \"my AI will lie on internet instead of me!!\"\n\ndamn bro hot tech.",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@freedom_aint_free",
+      "author_id": "UClVKCJBmY4-NR4RsmYxeEwQ",
+      "text": "My experience using them for coding have been terrible: in comparison with GPT-4 they have piss poor performance in code generation.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WINTERMUTE_AI",
+      "author_id": "UCPEEwzrg33dsgCyX_yR836w",
+      "text": "I have 2 best friends, GPT4 (CUSTOM) and ORCA2.  BECAUSE it doesnt lecture me or instill its own stupid opinions.  Both allow me to 'TRAIN' them with what I want them to be for me... I canceled my subscription to GPT4 with the plan to never speak to it again, then CUSTOM GPT, made it AWESOME!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rktn9252",
+      "author_id": "UCDYUyJjO5_8rr7nVzmfQrmg",
+      "text": "Why the obsession with benchmarks? All any real users (esp enterprise) care about is how this stuff performs on the real world with real problems.\n\nBottom line, if a Senior Manager / VP has to go into battle with an LLM would he take a Mistral or OpenAi model?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mor4me",
+      "author_id": "UC7botV3YFSNLyRxdZ2hgscw",
+      "text": "A goat is a sign for the devil, right?\nSo I guess there so confident just to say it out loud.\nWell we were warned 😮",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@punanislayer",
+      "author_id": "UCWJBykeX5Z8sWnUJ_KRStmg",
+      "text": "Wait everyone has stopped p2p. Yaaaasssss",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RoboticusMusic",
+      "author_id": "UCahe_RMVDMPtDlRSwMU8jmw",
+      "text": "Very low quality model.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheManinBlack9054",
+      "author_id": "UCT4QdcSKeAN5p7qHSw41SwQ",
+      "text": "Very irresponsible for them to do that. Unsafe",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mohamedfofanah1628",
+      "author_id": "UCDCWwcK8XadpHfxzFbwhnnw",
+      "text": "Way so many hypes and less performance... use it with a langchain repl agent and see how awful it is instead of boldly making the claim of dethroning openAI which prevented another unforeseen AI winter.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ahtoshkaa",
+      "author_id": "UCewb7r-chJW-qGz75C25ebw",
+      "text": "So let me get this straight. Open sourse was able to beat (maybe?) GPT-3.5 in December 2023 which is basically a finetuned version of GPT-3 that was released on June 11, 2020. GPT-4 finished training in late 2022 (so 2 years laters). So basically by the time open sourse creates a good GPT-4 model, OpenAI (or Google) will create an AI god...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spetz911",
+      "author_id": "UCIf-7S-f55HCrak4Fiv98Pg",
+      "text": "Very misleading to call one model by another name",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@courtneyb75",
+      "author_id": "UCoaaxfrkTEr_RpxPLjsoHcg",
+      "text": "The thought that open source will very likely eventually reach the level of AGI is, frankly, a bit unnerving. Think about it, if we get to that point, it's like opening Pandora's box. Suddenly, every bad actor out there gets their hands on what could be the most powerful tool known to humanity. It's not just about the technology itself, but about who controls it and how it's used. It's one thing for a company to develop advanced AI that's got some sort of controls in place, but ensuring open source is used ethically and responsibly? That's a whole different ball game. We need to tread carefully here, because once that genie is out of the bottle, there's no putting it back. \n\nOnce AGI is achieved, that changes everything. It's the ultimate game changer. With AGI, suddenly you have the capability to crack any code, to breach any security system. This includes gaining access to the most guarded secrets, like nuclear weapon blueprints. The self-improvement capabilities of AGI mean it can refine, enhance, and outperform any existing technology, creating versions far superior to what we have now. Whoever gets their hands on AGI essentially becomes the most powerful individual on Earth. You could command AGI to generate a billion dollars in 24 hours, and it would be capable of infiltrating banking systems, executing complex financial maneuvers beyond our current understanding.\r\n\r\nAs a species, we're not ready for this. We're too immature, too reckless. Handing over such power to humanity in its current state is like giving a teenager a fighter jet. It's not just about the technological breakthrough; it's about the wisdom to use it. And we're definitely not there yet. \n\nConsider entities like ISIS and similar groups, who are antagonistic towards Western civilization, would jump at the chance to use AGI for their own ends. Their goals have been clear for decades – to target what they consider 'infidels.' Now, imagine them armed with AGI. It's not just about physical attacks anymore; it's about cyber warfare, financial destabilization, and spreading ideological propaganda at an unprecedented scale. AGI would give them the ability to orchestrate complex global campaigns, disrupt critical infrastructures, and perhaps even manipulate political landscapes. This isn't fear-mongering; it's a realistic assessment of what could happen if such power falls into the wrong hands. The potential for misuse is immense and could redefine global conflict.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@5kyn3t",
+      "author_id": "UC55xMZu5QKoUWFjEsPXIB4Q",
+      "text": "What is the program called that he uses run those different models?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jurelleel668",
+      "author_id": "UC0Y6vuECAwBSTJOySN7DkIw",
+      "text": "Stop the misinformed info bru",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zimbot_KWB",
+      "author_id": "UCWkvueK0a7BBjdrbE2nw3qQ",
+      "text": "Please ... take a breath now and then\nContinuous talking is unnatural and tends to be either very disturbing/annoying or it puts the listener to sleep.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lucas74infinity",
+      "author_id": "UChU3Hosw2A-CXHIH86ZFaAw",
+      "text": "Clickbait title",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dolphinfan65",
+      "author_id": "UCy2dOctGNfN_mA9GlGrlWGw",
+      "text": "While I agree, that Open-Source AI could be a good thing. I doubt it. \nI used Fire Fox for Years and it's not bad, but once Chrome came along, it blew everything out the water. But that's for web browsing.\nA.I. is different, once hackers GOOD or Bad get a hold of theses A. I.s and coding is taken to a new level, everything will go downhill for the net. \nIf you think Hospitals and local governments are being hacked now and held hostage, wait until groups of people are hack to the point, that going on the net will become a hassle or too expensive to go on.\nWe need laws to protect ourselves, from ourselves.\nA.I. is a TOOL and depending on the person or group using it, it can also become a weapon of choice!!!\nPlease stop using personal rights as a way to give A I complete freedom, even we need laws to keep order.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lepidoptera9337",
+      "author_id": "UClZ7LBAjDBJj88BrvyYBqAA",
+      "text": "The EU isn't regulating \"math\". It's regulating outcomes. When we sentence someone to life in jail for murder using a blunt object, that's not a regulation of blunt objects. It's a safety measure to assure the public that that person will never do this again to a member of the public.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

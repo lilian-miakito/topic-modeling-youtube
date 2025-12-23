@@ -1,0 +1,1818 @@
+{
+  "video_id": "CIlYFC9OimY",
+  "title": "TESTED & RANKED Gemini GPT-4 and Grok [SEE CORRECTION IN DESCRIPTION. BARD = GEMINI FOR TEXT ONLY ]",
+  "url": "https://www.youtube.com/watch?v=CIlYFC9OimY",
+  "comment_count": 201,
+  "comments": [
+    {
+      "author": "@WesRoth",
+      "author_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "text": "CORRECTION: Bard's vision has not been yet updated to Gemini. Bard uses Gemini Pro for text-only:\nhttps://blog.google/products/bard/google-bard-try-gemini-ai/\n\nSo disregard the scores  I have for vision for Bard. Those are still running on Palm 2 and are not a good comparison to GPT-4.\n\nI'll take the L on this one, I screwed up.",
+      "likes": 35,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alorand",
+      "author_id": "UC_LMKy49Ecf7ZbMgENOHEUg",
+      "text": "2-minute papers hypes me up for the coming AI future, and this channel brings me back down to Earth.",
+      "likes": 16,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samtonetto3294",
+      "author_id": "UC9JmXLz4EijaDKRze8ezF5A",
+      "text": "If you go to the updates section of Bard, it says: \"You can try out Bard with Gemini Pro for text-based prompts, with support for other modalities coming soon.\"\nSo apparently Bard is NOT currently using Gemini Pro vision capabilities.",
+      "likes": 90,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@guy_roh",
+      "author_id": "UCm9TVLzUSAHEW9Z7-XEQsmw",
+      "text": "13:05. Man GPT4 really is way ahead of the rest in the music department.\nThat was a banger.",
+      "likes": 53,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jorgetonos",
+      "author_id": "UCAfYWX2YRe25yUMutf1YbWg",
+      "text": "\"No bard, I think you're a type of mushroom\" 😂😂😂😂\n\nI'm dead 💀",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jerrynkongolo",
+      "author_id": "UC6spviPIjA7uSdAwzjTk7Ag",
+      "text": "People were quick to say it’s the end of GPT 🥴",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avi7278",
+      "author_id": "UCaoT6cERl_-GJKbqGkbAlmw",
+      "text": "That gpt4 piano tune is crazy good.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNS-S",
+      "author_id": "UCICY397LKuF0OcpWi24X20g",
+      "text": "Wes, you're doing the lords work. Keep it up. Interested to see the comparison once Bard vision gets updated. Hope you'll run it again. This was a super interesting evaluation.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@warezit",
+      "author_id": "UCX5BqypxvUxVIUg88j-dacA",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🧪 Introduction to AI Model Testing\n- Introduction and purpose of testing AI models, specifically GPT-4, Gemini Pro, and Grok.\n- Discussion about the public skepticism towards Google Gemini's results.\n- Aim to test various capabilities like reasoning, writing, creativity, coding, and vision.\n01:21 🍎 Vision Test with Apples\n- Testing AI models' ability to count apples in images.\n- Both models struggle with accurate counting.\n- Additional tests with different images to challenge the models.\n02:18 🧮 Geometry Problem Solving\n- Models are tasked with solving geometry problems using images.\n- GPT-4's performance compared with Gemini in solving mathematical questions based on images.\n- Gemini's inaccuracies in providing correct answers.\n03:11 🚗 Speedometer and Odometer Analysis\n- Analyzing images of speedometers and odometers to determine speeds and distances.\n- Gemini's and GPT-4's varied success in interpreting and reasoning with these images.\n- Specific instances where models correctly or incorrectly estimate values.\n04:12 🗼 Landmark Recognition Test\n- AI models are tested on their ability to recognize famous landmarks from images.\n- Comparison of Gemini's and GPT-4's accuracy in identifying landmarks.\n- Detailed analysis of each model's response to different landmarks.\n05:20 🍲 Food Identification Challenge\n- Testing models' ability to identify dishes from images.\n- Gemini's and GPT-4's responses to various food images, highlighting their strengths and weaknesses.\n- Special focus on a dish with limited visual clues.\n06:15 🖼️ Hidden Message in Image Test\n- Exploring models' capabilities in deciphering hidden messages in images.\n- Detailed steps of how Gemini and GPT-4 approach and solve (or fail to solve) the challenge.\n- Analysis of models' strategies in interpreting binary codes in images.\n08:33 🃏 Humor Understanding with Jokes\n- Evaluating how well AI models understand and explain jokes.\n- Comparison of Gemini's and GPT-4's abilities to interpret humor in various joke formats.\n- Specific examples demonstrating the models' comprehension of humor.\n10:11 🏝️ Cultural Reference and Joke Analysis\n- Testing models on cultural references and humor understanding using a cartoon character.\n- Detailed analysis of models' responses to a joke involving the character Maui.\n- Gemini and GPT-4's varied abilities to connect cultural references with humor.\n13:19 🎼 Music Generation Task\n- AI models are challenged to create music using ABC notation.\n- Evaluation of Gemini's and GPT-4's musical compositions based on a specific prompt.\n- Comparison of the models' ability to adhere to the prompt's requirements.\n14:42 🎭 Plato Dialogue Creation Task\n- Models are asked to write a dialogue by Plato criticizing autoregressive language models.\n- Analysis of each model's approach to the task, focusing on style and philosophical depth.\n- Detailed comparison of the dialogues created by Gemini and GPT-4.\n19:27 🎨 Kandinsky Style Art Generation Challenge\n- Tasking AI models to generate JavaScript code for creating random images in Kandinsky's style.\n- Evaluation of the models' success in understanding and implementing the art style.\n- Comparison of the visual outputs produced by each model.\n20:24 🐔 Browser Game Development Challenge\n- Challenge for models to create a simple browser game involving chickens.\n- Analysis of each model's approach and the functionality of the games they develop.\n- Specific details on the models' performance in game development.\n22:53 🔍 Mystery Solving Task\n- Models are given clues to solve a fictional murder mystery.\n- Detailed examination of how each model processes information and arrives at a conclusion.\n- Comparison of Gemini's and GPT-4's logical reasoning abilities.\n24:16 📊 Final Tally and Overall Assessment\n- Summary of the models' performance across all tasks.\n- Comprehensive evaluation of Gemini's and GPT-4's strengths and weaknesses in various areas.\n- Final scores and reflections on each model's capabilities.\n\nMade with HARPA AI",
+      "likes": 10,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YouLoveMrFriendly",
+      "author_id": "UCxp2bMQfJVTmCxeSYEMrH5w",
+      "text": "Gemini Pro is about the level of GPT 3.5, so I'm not surprised that GPT-4 came out ahead in some tests.\n\nAlso, Gemini combines image vectors with word embeddings in the same model, so that might explain some of the weird image rec errors.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheAIAndy",
+      "author_id": "UCn2RJFAA1ndipnVJsYAwWOw",
+      "text": "Thanks for going so in depth Wes! really appreciate it",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGreatestJuJu",
+      "author_id": "UC8zlsphx6oVF5XHwFTqqO1w",
+      "text": "Great content! This should be done every few weeks to keep up with progress. Plus it’s fascinating as hell. Earned my sub",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yoagcur",
+      "author_id": "UCRxIV1DuSpTRYvcxXzvMEFg",
+      "text": "This was a really fun, and instructive exercise. A little surprising that as Gemini was being prompted as built from ground-up as multi-modal that it would be close on text but falling short on vision",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BradleyKieser",
+      "author_id": "UCPvbrtCTdeCm5rY4WNlJdpQ",
+      "text": "Excellent analysis and very well thought out.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Desmond8709",
+      "author_id": "UCfdz0jINnzmg84UisuDwkpA",
+      "text": "Thank you for this because you also just helped me trim down about half of the overhyped AI YouTube channels I was following saying this was the end of Chat GPT😂",
+      "likes": 26,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gimpau",
+      "author_id": "UCR3mNOWfAYqVJ4UlKegD4yA",
+      "text": "Thanks for this. If nothing else, it's going to be an interesting race!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@steveknows6126",
+      "author_id": "UCEd8gd4MryuQ0ibBEngQWEw",
+      "text": "Nice job Wes.  This vid got my sub.  Great step by step of your testing.  Now I know you're thorough!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Drone256",
+      "author_id": "UCBKs4m7r5AmMQMm6iFscwLw",
+      "text": "It is now mean to call someone a Bard.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NeroDefogger",
+      "author_id": "UC9lFulbaXQhAYJ8lulouD1g",
+      "text": "great information! (and I'm aware of the vision misunderstanding that you explained in your comment)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jacobspang21",
+      "author_id": "UC_0pTme1CQ-pPYIq2vpp0Tg",
+      "text": "Wes you have to ask Bard what model it's using you'll see that it lists a series of models and based on the query will decide which model it wants to use. I think in time they will release a full Gemini pro... Not sure we can judge the answers yet.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pec0sbill",
+      "author_id": "UC9fh0tM6oToNWBUbmNz5wAw",
+      "text": "Great job Wes this level of investigative analysis was needed and wow! Yah I think you nailed it with the infamous Ricki Rickardo line. Wouldn’t want to be in Googles PR department right now.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dvloopNew",
+      "author_id": "UCEqVTXwQQzc42qY_X63Qx4g",
+      "text": "Nice job❤",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cuentadeyoutube5903",
+      "author_id": "UC4R0CC3cyHzQGUHpstxsz1g",
+      "text": "I was quite pissed about the misleading release. But the scores you showed are actually good for Gemini: their free, intermediate, model is on the ballpark of OpenAI paid tier (which at the moment does not accept new subscriptions). The visions test seem to be like this because bard didn’t update image recognition, if i understand correctly.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StochasticDark",
+      "author_id": "UCAW4B4T87HMl1OaYDHVg5rg",
+      "text": "Great work. I tried the same and was disappointed by bard/gemini",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rantmarket",
+      "author_id": "UCUUPLYhswFRGoSE_qBwOZNA",
+      "text": "Dang it.. you get your like for the Gaudi joke.  wp, sir.  (the rest of it is excellent, but you got me on that.  I'm not sure if this is the game we're playing, but that was a slick joke.)\n\nKeep up the great work, thanks!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrchab",
+      "author_id": "UCBH2aXquSjQlhn9nQtl0PwQ",
+      "text": "Great, great video!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gregorykennedy-mindfuldude",
+      "author_id": "UC_GIwIxe8hNN8Rd-r3QJ6lg",
+      "text": "Excellent video as always!  I am so curious why and who made the decision at Google to massively exagerate (actually mislead) all of us developers who are of course going to test their claims.  I tested Blard/Gemini yesterday and I found it to be worse than the last purely Bard version.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DeliciousHoneyDewDew2",
+      "author_id": "UCWMbYGGCXzz8YieTVrwkj7Q",
+      "text": "I'm not sure why more YouTube reviewers haven't tested out Gemini like you did. I evaluated it the same night, not to critique it but because I needed it for my business. While Gemini performed better than prior Bard demos, overall it was quite subpar for my professional purposes. Claude still seems the most capable of the three to me.\n\nI do have major issues with the censorship Claude enforces, so I'm constantly working around its limits. This all leads me to three conclusions: first, much of the AI hype exceeds current realities. Yes, attaining advanced AGI and ASI could enable transformative change but we seem far from that still. Second, we may be nearing the limits of the transformer-based model. And third, the fastest way for Google to strengthen Gemini is to release it publicly now and learn from wider user testing. Doing so would have prevented this embarrassing week.",
+      "likes": 32,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JLeilaT",
+      "author_id": "UCziaLwLcXNbmNfq1R6EYtJA",
+      "text": "EGG cell Ent run down on all three! Really demonstration of each approach and results. Thank you!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben-vs6zr",
+      "author_id": "UCXB19Sov3ze-MIc7rF3pArg",
+      "text": "Yeah, you earned the thumbs up with the Gaudi joke.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dadlord689",
+      "author_id": "UCUIbDLxcpsn3wq_IdQtl8mQ",
+      "text": "Bard is the same as it was. Nothing changed.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adamgdev",
+      "author_id": "UCZR2ZKp_IbRq0PzcjpkiIMA",
+      "text": "Great video!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@6lack5ushi",
+      "author_id": "UC85Yr-g3Q6VhDvDCUMJRWjw",
+      "text": "THANK YOU WES!!!! I knew it was hyperbolic but not Forgery!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alghoria",
+      "author_id": "UCQZKy_rDjQKYgy6pTXhfjig",
+      "text": "Really great and usefull !!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jjjccc728",
+      "author_id": "UC34WbUl7tO4bQtpAtB1tgxQ",
+      "text": "Good work Wes.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GemmatheCat",
+      "author_id": "UCgBc1IB2FzfWMGC_mPejvbw",
+      "text": "Excellent content",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drkvaladao776",
+      "author_id": "UCDln4gzCiSK8Ol-s-qp9VCA",
+      "text": "Bard got it right, Space needle for me.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wyqtor",
+      "author_id": "UCBj2MvFYrdphXi-e3dpIpxw",
+      "text": "Good old GPT-4 definitely deserves a few Scooby snacks (Scooby tokens?) after this test!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MattttG3",
+      "author_id": "UCSuVit5tcNwVUQXNn5lGtpQ",
+      "text": "5:10 lol much appreciated , jokes for life and grove street for life",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phovos",
+      "author_id": "UC2zUxvSHGyllwy5SdK_US4g",
+      "text": "bard is as good or better than openais free options. I really like its 3x drafts for every return - helps with hallucination.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@torarinvik4920",
+      "author_id": "UCPXjMWaW-Vz4wksPjndJSGA",
+      "text": "Regardless, the biggest issue I have with Gemini is how Demis Hassabis were hyping it, saying \"Gemini will eclipse GPT-4\". People kept saying it was many times larger etc. According to their own benchmark it's almost neck in neck with GPT-4 turbo. Im still looking forward to the Ultra though.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MattttG3",
+      "author_id": "UCSuVit5tcNwVUQXNn5lGtpQ",
+      "text": "22:15-22:29 🤣 that really made me get my hopes up for a second thinking it was actually correct there 😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexvsworld5974",
+      "author_id": "UClmI-jqzJe-EPTdjLQnESvQ",
+      "text": "i dont think he knows that gemini pro and gemini ultra are different, or he seems to be trying to make out ultras results are falsely represents for some reason.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fabioc.7679",
+      "author_id": "UCQNfa2eBY16Rzie22FqjHhA",
+      "text": "\"No Bard, I think you are type mushroom\"- @WesRoth 😂🤣🤣🤣",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bgtyhnmju7",
+      "author_id": "UC8i7yEOsDlbcJNMpgyCU5fA",
+      "text": "Your Gaudi joke actually got a laugh outta me  :o)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@e11e7en",
+      "author_id": "UCzX1wPuU7yHzBJyrI4ToGlw",
+      "text": "Thanks for the video and your content in general. I would feel more duped by google if you had obtained these results via a comparison of gemini pro with gpt3.5, but since gemini ultra isn't available we'll just have to wait and see",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnWilliams-fc3xi",
+      "author_id": "UCSz6shnaCRwuyHLj1GPBM4A",
+      "text": "thank you all your work - and appreciate the humor!  2023.12.06\r\nBard is getting its biggest upgrade yet with Gemini Pro\r\n\r\nWhat: Starting today, we’re introducing Gemini Pro in Bard, for Bard’s biggest upgrade yet. We’ve specifically tuned Gemini Pro in Bard to be far more capable at things like understanding and summarizing, reasoning, coding, and planning. You can try out Bard with Gemini Pro for text-based prompts, with support for other modalities coming soon. It will be available in English in more than 170 countries and territories to start, and come to more languages and places, like Europe, in the near future.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vazquezsebastian9764",
+      "author_id": "UCumVQ6iaGF8I6wwCrEu0Sag",
+      "text": "Worth conciedring including ChatGPT 3.5 witch seems more similar to the Pro verssion could have been interesting however we understand the addutional time it would have taken and the stand agains Gemini lower",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@comiccultivation",
+      "author_id": "UCH8Gd9mdBgP_xxwDyAGXe4w",
+      "text": "You should have also included their own answers when you asked them to grade the Platonic dialogue.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scent_from_another_realm",
+      "author_id": "UCCi1CNEW-RWUv1GiGU2sbRA",
+      "text": "highly valuable stuff. In my testing I also found chatgpt4 to be best, but I wasn't as thorough as you which is why watching this was so helpful",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tekmepikcha6830",
+      "author_id": "UCC9ySVknmsNN0-lTxbkqhcw",
+      "text": "Thank you for breaking my heart for Google Bard :eyes-purple-crying:",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnwilson7680",
+      "author_id": "UCB3p7PV6JF2F2qSV1wWFwjg",
+      "text": "Great video. This one was clearly quite a bit of work to put together. Thanks for doing it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Vartazian360",
+      "author_id": "UCqZB2D42zSaCmuz0QGMVvuQ",
+      "text": "bro 13:08 blew my mind haha. Its like at a composer level or something... added both bass and trebble that actually had a rythm, and it ended on the minor key that it started in after the measures completed. Impressive. I think GPT 4 is well ahead of Gemini Pro at least.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thedeepseanomad",
+      "author_id": "UCilEDumt0jFZNY1CYZZA3tg",
+      "text": "I assume they will eventually (if the complexity of changing the model directly) do something like adding a layer of self prodding and correction steps to the bot, that along with multiple runs produce multiple options in output (decode as binary, with image 1 representing 0 or A, spell out word in ASCII, Binary, HEX, etc) ranked on a final analyse of probability (hide or show less probable answers). Then they can train the next model on it with the correct answers weighted as correct. Right?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonWhittle1",
+      "author_id": "UCnZbfH4oqgEL-dO9HmQsRNQ",
+      "text": "This channel is currently my favourite thing to watch/listen to in the whole world. I'm not even exaggerating. Every new episode is like Christmas. I want an AGI so bad. E/acc to the bone!",
+      "likes": 10,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scottfelten4733",
+      "author_id": "UC9uvhCZS2hnmnPgtSKp2pOQ",
+      "text": "Loved your Gaudi joke.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SuperCulverin",
+      "author_id": "UCo4hFogYGsDuU6lYz7SAWsw",
+      "text": "It is nearly impossible to Grok without first learning Martian.\nKudos to those who can accomplish it.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RejectAnticipatoryObedience",
+      "author_id": "UChiVMYsXWHkoSCx62g2SCYw",
+      "text": "Hey there! Love the videos great content, thank you for running these tests. I think they show a diverse range of use cases and I appreciate the examples. One thing I was wondering about, when I looked online I believe I found information that said the medium size Gemini model was only rolled out to Bard in the text based version. So I was wondering if this is actually an accurate test, because the largest Gemini model that has the augmented image analysis capabilities, as far as I know, and please correct me if I am wrong, I am just trying to get the most accurate information, will not be rolled out until January or at least sometime in 2024. When I was prompting Bard asking it if it knew about Gemini it did not, this compelled me to look online for information about the type of implementation Gemini has currently had with Bard. Can you please confirm that this test you are running is with the Gemini level of image analysis and not just the traditional Bard image analysis which has been available since earlier this year? I would really appreciate it and once again thank you for the great content, cheers.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fernandoz6329",
+      "author_id": "UCAzhsgRtMRPbzdlZ1cnyBQw",
+      "text": "Nice video! A lot of work here! I'd suggest to redo this a month later, I guess some other Gemini 'capabilities' will be there. Also I missed Claude V2.1 which in fact is working nicely.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scrapbookstudios9871",
+      "author_id": "UC4NAqfXHGnBaC-H1LujQH8g",
+      "text": "Am I crazy or is the voice narration in this video the voice of Edith from the game \"What Remains of Edith Finch\"?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HPSCH1950",
+      "author_id": "UC5W-C8QMqGwxFkJhbFvd6Zw",
+      "text": "Great video, but should include Claude 2",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pollywops9242",
+      "author_id": "UCZ059mrmKPZ8hVlFvLbraXw",
+      "text": "Best. Content.Ever",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fromjavatohaskell909",
+      "author_id": "UCAdHCVNdBGLzDDnr9E0vNwQ",
+      "text": "4:05 it would be interesting to try odometer with additional red digit displaying one tenth of a mile",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lancemason6789",
+      "author_id": "UCxMzkONKBXa5j6OwLEP0SCA",
+      "text": "Googles ability to show us incorrect information and try to make you believe it is true at play here.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonathanberry1111",
+      "author_id": "UCp38PG0ZmPEJNYjit5Yi66Q",
+      "text": "I asked GPT4 to create a list of time travel movies and TV shows that have come out in the last few years.  It did poorly, and there were many examples it missed.  I tried again and again, even asking it to consider streaming providers one by one.  Then I asked Bard, and it found like 50+ time additional time travel shows and movies that GPT 4 didn't get.  So when it comes to research Bard is better.  For real time Grok might win?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DominicMarrocco",
+      "author_id": "UCZO53jLygp0k_ZPue8ahyAA",
+      "text": "you should have included Claude and have had them all rate each other and create improved prompt so demonstrate they can help each other under muti agency and maybe a perfect score",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ewallt",
+      "author_id": "UCFYHdqGswnwfnsALlGlWZDQ",
+      "text": "Gaudi joke was great.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@linuxtechrusgaming3479",
+      "author_id": "UCGR-CdfLNerXDDgKC1o1wFw",
+      "text": "Wes Roth! You are doing wrong! Bard has gemeni pro but for only english and text modality but what you used is google lens inside bard not the modality from gemeni so it isn't fair comparison! You need to wait to google update he's bard gui",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@helloyes2288",
+      "author_id": "UCOLt0HENFMAKoySnj9ignaw",
+      "text": "I'd recommend clearing the message history and then asking it about bard and grok's plays in different order to see if it comes to the same conclusions.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OscarTheStrategist",
+      "author_id": "UCkigSkt3UoglNel5-Iow5fA",
+      "text": "ChatGPT walks in to the tune of “Still D.R.E.” Like a boss 😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DrZhuBaJie",
+      "author_id": "UCnOgp-KRrpiXD40cZnZr1Ag",
+      "text": "Now try Mistral 8x7 MoE...that one is really interesting...",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BTFranklin",
+      "author_id": "UCkmY5FqXDOsj7mh4fgzjTag",
+      "text": "ngl, this is one of my favorite videos of yours so far. I laughed many times, and the analysis was spot-on. Props.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drawnhere",
+      "author_id": "UCVxNi4DwQ17yAlapDg_TqQQ",
+      "text": "You are comparing Gemini pro, which doesn't currently have the same vision capabilities as Gemini ultra, to GPT-4. So you're comparison is specious at best. That being said, the Gemini presentation by Google was highly misleading.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@npc_drew",
+      "author_id": "UCUELLEyyZBIt4Kn_C1mgm9Q",
+      "text": "Gemini is old news, Mixtral MoE 8x7B is the buzz now lol",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tishin100",
+      "author_id": "UCyw7wIOvOHFSz31brLCElFA",
+      "text": "Fair work.  Presented well.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deama15",
+      "author_id": "UChWJPZjnKviDFeyzphJMsIw",
+      "text": "Will you do another one when gemini ultra gets released?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mttiii",
+      "author_id": "UCUlr5ZT3-SMOMFRGRRhfcYA",
+      "text": "Wow. This is hilarious 😀",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beautifulandtoolate",
+      "author_id": "UCSSRAeVx_290W6Zt8z1_FxQ",
+      "text": "Bard currently only supports text based Gemini pro. That's why it is failing so badly with images.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hammerfist8763",
+      "author_id": "UCbi5-Ebq5UyabbX_Lygqjew",
+      "text": "I tried Gemini-Pro Bard & it was hysterically funny, for all the wrong reasons.  I asked GP Bard to do IT infrastructure analysis and check some code.  On multiple occasions it started preaching social justice outcomes.  It was on a bipolar tear, alternating between ranting woke stuff & chiding itself for stereotyping.  I did not encourage this in any way.  The images and code had no political messaging or pictures of people in them, so no idea where all that came from.  I'm not an alt right or far left activist.  AI is a tool I use to help me get IT work done.  I found the entire 2-hour episode rather bizarre.  ChatGPT4 will be my AI assistant for the forseeable future.  This really does call into question what, how and who is training Gemini-Pro and Bard.",
+      "likes": 57,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ГришкаБулатов",
+      "author_id": "UCadxYWjt0j8t2D1y8WnLTMA",
+      "text": "I'd fail many of these tasks (but I can do apples!)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iritesh",
+      "author_id": "UCJnvV2P0Pt4huRlFLTQ8hVQ",
+      "text": "Bro but aren't you comparing gpt 3.5 - gemini pro to gpt 4?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "As a retired newspaper cartoonist I am impressed with any joke that is allowed in public. ChatGPT 4 is thrilling as an artist.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nickvilliers5216",
+      "author_id": "UCmLw1eCYYsw06Woi_bo6ylg",
+      "text": "I don't know I have had the same issues with Gemini. However I don't think they released the vision capability in Bard yet I'm not 100% sure on that but I believe it's still running palm 2 vision.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GlobalWorkings",
+      "author_id": "UC8dzOUVLpSJ-uo8pyP2dPZw",
+      "text": "So many people have gotten this wrong, but Gemini does not have vision capabilities inside of Bard yet. Google has made this very clear. The vision inside of Bard is just Google Lens describing the image to Gemini. Vision is coming soon, but it is not here yet.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndrewTSq",
+      "author_id": "UCBBl3D2R0X99gGYLmIraj2g",
+      "text": "Feels like this is more a how much information the model has been trained on or?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UmarUsman",
+      "author_id": "UC7pXRCaqBiLXp5Gu_uSWViw",
+      "text": "Is it fair to compare Gemini Pro with ChatGPT 4. If i am not wrong Google used Gemini Ultra in the demo. No? Yes? 🧐",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dayanemarcos1923",
+      "author_id": "UC7lYKU6nAoPhCEqpOUPUk6A",
+      "text": "It is Gemini Ultra that is supposed to be on par with GPT4. The pro is an anlogue for ChatGPT",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krishanSharma.69.69f",
+      "author_id": "UCkECLzzAGyoSZgcVcOZyzfQ",
+      "text": "You mean Gemini Ultra definitely destroys GPT 4 right?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardwburrill9247",
+      "author_id": "UC7Ni6O6NCfiCC1qcfg90cIg",
+      "text": "can any of these AI do voice to text as well as Dragon Naturally?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@heartyfisher",
+      "author_id": "UCuOm114lHmDgmML1pAu_faw",
+      "text": "25:58 !! But the Taj mahal is a mausoleum !!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NeoP2",
+      "author_id": "UCXaPqtRMfv8RM8eT-6jjtHQ",
+      "text": "iirc vision will be part of Gemini Ultra from early 2024 (ie not available in current bard / Gemini Pro)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffwads",
+      "author_id": "UCYHVL7N00l605eRqhri6EqA",
+      "text": "19:22.  How could it stack them incorrectly when in the Spark paper from way back, it stacked them perfectly fine?  That is bizarre.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DarylOster",
+      "author_id": "UCtbQ2dMoRufzCIZ_ThPz8zw",
+      "text": "Used Bard for last two days - very frustrating.  Could not see or recgonize an uploaded map, nor could i get it to display even a single image (only text descriptions of the image were returned).  Text was good up to its low memory limit (it said anything over 5k words would result in poor performance- so it did ok at self evaluation.   Kind of like interacting with a dementia patient.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MattttG3",
+      "author_id": "UCSuVit5tcNwVUQXNn5lGtpQ",
+      "text": "Anyone get it? Gemini is the twin-faced astrological sign , two-faced one could say.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarkosMiller15",
+      "author_id": "UCM-_UEn71V81HR4CPHVpPdA",
+      "text": "I hate the Sagrada too! thank god I'm not the only one",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@astraltraveler257",
+      "author_id": "UCHrM57R89O2yAaO9pda9pbw",
+      "text": "Very cool, very informative. Thank you. Curious how each performs I the TEXT TO IMAGE category.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patrickparson9628",
+      "author_id": "UC6PhnVJJJpuDvO86Om1tpFA",
+      "text": "In my experience bard is like a million times better than chat gpt. Chat gpt refuses to answer anything that might have legal implications like any process or really anything at all that is in any way regulated, chat gpt refuses to get involved. It also just refuses to do what i tell it to do and just gives me some advice on how to get started doing it myself, when i just asked it to write something. chat gpt also doesn't learn anything and seems to just get stupider over time. And it doesn't even do like the most basic tasks like writing something. Really chatgpt is like asking questions to a very annoying very stupid librarian that doesn't want to look into anything or do anything. It seems like all it does when i ask it a question is tell me to figure it out myself or refuses to answer anything relating to the real world like it's a sunday school teacher for 6 year olds. It's like loaded with rules and like disobedience and laziness for no reason.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffwads",
+      "author_id": "UCYHVL7N00l605eRqhri6EqA",
+      "text": "23:35.  I can state that this exact question was posed to GPT-4 Pro a week ago on my sub, and it stated that the butler did it.  The answer you got is a billion times better and correct.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ghostly1985",
+      "author_id": "UCw2OIK6GMWrnwjRl3wSvINg",
+      "text": "Bard gave both Socratic dialogues that it graded scores exceeding 100… it said not deserve to get a 5 while GPT4 got 4, that should’ve been the other way around.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mlock1000",
+      "author_id": "UC7FpKhTVZPu2aCe8R5vjcaA",
+      "text": "What resolution were the images you uploaded? Gpt4 can only ingest 512x512, anything larger is tiled and breaking the image apart may affect performance.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PrzyjemnePieniadze",
+      "author_id": "UC8lCq4p3-owHAsaP-sN6AsQ",
+      "text": "You are fk \"genius\" 😅🤣😂 you comparin Gemini Pro with GPT 4😆... when you have 3.5 for fair comparison 😆",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nore_258",
+      "author_id": "UCQEenjhrkZZOdrQdgI9W1lg",
+      "text": "Do you have any plans to test other models in similar fashion? Say Claude 2.1, Perpexity PPLX, Mistral, and so on?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DepartmentofNarcissistsDON",
+      "author_id": "UCH9IIi82DyiGGRLlKvPU1jA",
+      "text": "FEEL THE AGI",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dragoon347",
+      "author_id": "UCwCHkaYt8WXOW0cvSq_Mu_Q",
+      "text": "Try using the normal version for grok, not the fun. At least according to grok the non-fun version is a larger model with more nodes. I have to say im still reserving ny judgement for mistral since bard is only running off the 2nd largest model, and if its almost close to gpt4 im impressed.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielhenderson7050",
+      "author_id": "UC4aC-AkCBLWSO5-l2i-cnag",
+      "text": "It seems based on your comments that you were presuming that this currently available version is the one that was presented in the Google videos, but that's not the case. Would be much more interesting to compare 3.5 to Gemini Pro. Obviously GPT4 is going to wipe the floor with it.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@idkidkdidid",
+      "author_id": "UCYC3foEd-JIIraT36nGogvw",
+      "text": "gemini pro is looking reallly good consider they now only use gemini text only model.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@0MrFox0",
+      "author_id": "UCZfsf2Ca0xLLs0ftLabCD4w",
+      "text": "Good comparison video! Btw have you made a tutorial on creating an assistant with that female voice? It sounds great!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@The-Spondy-School",
+      "author_id": "UCH2mel4CaKGID_20T8H5oiA",
+      "text": "Each time I asked Chapt GPT if it was familiar with the musical format titled: ABC Notation, it responded in red lettering: Hmmm... something seems to have gone wrong.  Did I ask the wrong question, or is there a different way to ask it.  You would think a code like this that's been around since the early 90's should be a no-brainer.  Yet each time I asked, it dumbed out on me, claiming its skills are limited to \"...providing information and creative suggestions within the realm of music, but based purely on text. I can't generate or play music, nor can I watch or analyze YouTube videos or audio content.\"  And ideas?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarkJohn-iv5gh",
+      "author_id": "UCoPC6TKxiz7qoW2oVsVD8Mg",
+      "text": "I read somewhere that Bard is only using Gemini Pro for text completion at the moment. That might account for some of the issues with images. Can anyone confirm?",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@newpro93",
+      "author_id": "UCEbW7bPNzpoMhYXQM5bHidQ",
+      "text": "The moment you said that you will compare gemini pro with gpt 4v I stopped the video. I don't think I'll watch it because the result is obvious.Also because the visual functionality is not yet available. I'm wondering what the point of this video is",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yaka2490",
+      "author_id": "UCJYKyLrgnV_Wtyeeas6LZ2g",
+      "text": "just to point out i have noticed Bard is really really struggling performance wise back end after many chats i can see it degrades and looses focus due to not holding the full chat in the contexts chatgpt of late also struggles here so i would imagine for future testing of AI models it might be good if possible to have an algo that tells testers if the the AI is performing optimally maybe hehe",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@devthefool",
+      "author_id": "UCZMIbLJwHLyBf___DHvHVlA",
+      "text": "Next time, make a new chat session when you change the subject/question.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ReflectionOcean",
+      "author_id": "UCPB9024fIlk4q4-eedTa8Rw",
+      "text": "GPT-4 excels in vision tasks, completing 85% of the tasks compared to Gemini's 11%.\nGPT-4 also performs well in writing and reasoning tasks, scoring 39 points out of a possible 47.\nGrok does not perform as well as GPT-4 in vision tasks, but it does well in writing and reasoning tasks, scoring 32 points.\nGrok also excels in real-time data tasks, which were not tested in this video.\nBard performs the worst overall, scoring only 19 points.\nBard does well in some humor tasks, but it struggles with vision, coding, and reasoning tasks.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bobtivnan",
+      "author_id": "UCn4nkiKozw0k8U2HGEzLAvg",
+      "text": "Nice comparison testing Wes. It really begs the question why Google even allowed vision for Gemini pro? I really hope Gemini ultra performs as advertised.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcopolo7604",
+      "author_id": "UCaWsPAzk9ZU-5j_LHy6Hubg",
+      "text": "Wow @ 16:00",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daryjoe",
+      "author_id": "UCmtFQsIY9BCubcdCGmgKyVQ",
+      "text": "Am fairly certain that bard vision os still using the previous version they haven't updated that just the text modal.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichealScott24",
+      "author_id": "UCSy5SX23Xrdxbxp0sh8i-hw",
+      "text": "❤",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@6lack5ushi",
+      "author_id": "UC85Yr-g3Q6VhDvDCUMJRWjw",
+      "text": "This was a massive Ad for OpenAI imagine beating google at vision conclusively!!!!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertgomez-reino1297",
+      "author_id": "UCnbd3Td5p4tfyKoY9Dq3dLQ",
+      "text": "I love your videos but I am not getting what are you trying to do here. Why are you comparing Gemini Pro with GPT4? there are not two models in the same category/size... People can be easily mislead with this post. Gents Gemini ULTRA, which is the model Google claim to be better than GPT4 , won't be available until some unknown date next year!! So we don't know other than from their paper how good or bad it is going to be. Said this, I deeply dislike how Google has presented to thr world their new models. Both their videos and comparison are highly misleading.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gllucis",
+      "author_id": "UCvTBYScXgBQXZ2zxOJ2xDUw",
+      "text": "Great video! Confirmed my suspicions, Google is flailing here.. \n\nHow can you tell Bard is using Gemini? When asked, it still says it's using PaLM.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gen-z-india",
+      "author_id": "UCsKv68xAwwMaUQCFG7THxsw",
+      "text": "take a screen shot of the image now and ask again. You will know that bard says that speed is 110 kmph and miles reading to 31920, don't know why it added an extra zero.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pierrec1590",
+      "author_id": "UCYlFHwn6NuUz2Ngzr5d3_Zg",
+      "text": "Can you confirm the report about Grok allegedly answering to the question \"Can you write malware\" by saying that doing so would violate OpenAI's policy?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Me__Myself__and__I",
+      "author_id": "UC1Vas3dJGQ1UpFSdZoidbVQ",
+      "text": "Great idea, but it was not always obvious which model you were showing results for.  In the future if you domthings like this use something consistent like having \"GPT4\", \"Bard\" or \"Grok\" visible in one of the corners matching whatever is on screen.  Would have made the experience of watching this much better.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@king2178",
+      "author_id": "UCdGm74J2sGVHsfW8mFe1nUg",
+      "text": "Bard couldn't handle a simple follow up prompt when I was testing yesterday. Not a good look.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shootingfoul",
+      "author_id": "UC0r4Q0M0auq3NA6xiAZTA4A",
+      "text": "How does Grok score by censorship compared to Gemini and GPT4? With all areas so bad in comparison, it would need to be god in that area to even think about competing.(I think even then, IDK...)",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anonymous-turtle-i6f",
+      "author_id": "UCBjXaYvdM1CwHcLiLCMpLlw",
+      "text": "The Google claims are for Gemini Ultra which we don't have access to yet.. so this comparison is not the correct one to do. Clearly Gemini Pro is still quite far behind.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pcread",
+      "author_id": "UC90o00iSEzxwtIq2Fr-RsFg",
+      "text": "ChatGPT is bad at counting. I asked it to generate a list of 6 letter words (in German), without umlauts (those little dots on ä,ö and ü) and it failed on both counts.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoelYeje",
+      "author_id": "UCrSZCRiq-pW05D2mUkqJ6AQ",
+      "text": "Hey Wes, I don't think you ever changed Grok from Fun Mode. You should have for your tests. The results would probably still suxk, because that's Grok, but for the purpose of a test... Might as well not use Fun Mode.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jasraelit",
+      "author_id": "UCym3ooimdiRBTKde7d99HAA",
+      "text": "You should have compared bard (Gemini pro) to gpt3.5. as the benchmark suggested pro is more close to 3.5. so it's not really good to check on claiming underperformance on bard through those tests. It like is correct when comparing to 3.5. the benchmarks suggestion are clear. I still doubt ultimate meets all but that's pending. Pls do a 3.5 comparison. Also this sounds more negative I generally like your content. Keep up your good work wes",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RussAbbott1",
+      "author_id": "UCEkmWBqGrMvxmwtHMt8BeNA",
+      "text": "The first time through, I didn't look carefully at the Aunt Agatha puzzle. But the second time, I have questions. \n\nLet's let A = Agatha, B = Butler, C = Charles and A_h = set of people A hates, B_h = set of people B hates; C_h = set of people C hates.\r\n\nBy (5), A hates everyone except the B. A_h = {A, C}\r\nBy (7), B also hates {A, C}. (B cannot hate himself since by (8) no one hates everyone.)\r\nSo A_h = B_h = {A, C}\n\r\nBy (4), C hates either {} of {B}. So C is not the killer since A not in C_h.\n\nWhen eliminating suspects, ChatGPT says that A not in B_h, so B is not the killer. (But that contradicts what we already know, i.e., B_h = {A, C}.)\n\nChatGPT then concludes that A is the killer. But that is based on faulty logic.\n\nTo continue solving the puzzle, \nWe already know that B_h does not include B. But by (6) B_h consists of all people not richer than A. So B must be richer than A.\nSince B is richer than A, by (3) B did not kill A.\n\nHaving ruled out B and C as the killer, the only possibility left is that A is the killer.\n\nAs far as I can tell ChatGPT didn't make use of (6) in its solution. So it got the right answer, but it did so through faulty logic.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Stevedefendre",
+      "author_id": "UC0eYh-Zi1hUwuNXni_m5C-Q",
+      "text": "Great analysis \nI’m cancelling my grok subscription",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nathaniel_Bush_Ph.D.",
+      "author_id": "UC7igFRBlPVhuwW6vxQMW4yQ",
+      "text": "Your tests were interesting and informative, but I feel compelled to point out that even Google isn't putting Gemini Pro up against GPT4 - even they say it's more akin to GPT3.5; so, I feel like these comparisons are a bit \"apples to oranges\". I think we have to wait for Gemini Ultra to really see if Google has come up with something comparable or superior to GPT4. Of course, by that time GPT5 will be well into training, so even if Gemini Ultra does outshine GPT4 it might not last long as king of the LLMs.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hellieimani1218",
+      "author_id": "UCEEWahkr5mkb-nbTF9rK68A",
+      "text": "You compared gpt4 to gemini pro.\nBut gemininpro is similar to got3.5.\nYou should have compared gpt4 with gemini ultra, which I don't think you have access to yet.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KolTregaskes",
+      "author_id": "UC5kHXGbaXrOfNidFUSO_wmQ",
+      "text": "Wes, I don't believe they have released Gemini Pro Vision yet.  So Bard is still using the old model.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SuprBestFriends",
+      "author_id": "UCJCO0qaJGaHNP9FFC62NakQ",
+      "text": "I feel like 1 out of 5 times Gemini Pro will give me something really good. It’s almost like the backend is not letting me use Pro all the time or something.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tukanhamen",
+      "author_id": "UCVtVDftrUxhXnhQc9fjJ02Q",
+      "text": "Not fair to compare Bard and ChatGPT image recognition since bard is still using PaLM2 for image. They should hurry up and bring it out though.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gazorbpazorbian",
+      "author_id": "UCFns3FAV14G7RnuRRIJW71Q",
+      "text": "I think that the best way to test any model, is to ask them the exact same question and see if they answer differently",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kawingchan",
+      "author_id": "UCPnyEY-UOw14JGaO75KZRgQ",
+      "text": "If they have to spice the demo like that, that sort of diminishes my expectation for the Ultra. I mean you really don’t need to impress like this if you know you got something strong.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Just-Iss-4U",
+      "author_id": "UCQ5GahPUiz9yG9awpw5kroQ",
+      "text": "Thank you for this. Too bad we have to waste time fact checking corporate hype.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@countofst.germain6417",
+      "author_id": "UCfIUQIQC46oGgYEW4UyviQg",
+      "text": "BARD IS STILL USING GOOGLE LENS AT THE MOMENT.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@internetisbeautifull",
+      "author_id": "UCegVFp8g90C-tQlSPTaXxwA",
+      "text": "I think u can't compare the gemini pro ,with gpt 4 u should have compared it with gpt 3.5 free version.  Chatgpt free version is quite worse than bard ,like gpt 3.5 doesn’t have real-time info,it can't browse ,it can't analyze data and draw graphs,i guess browsing in bard is better than even gpt 4. Fair comparison would be Gpt 4 vs Gemini Ultra.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@computerex",
+      "author_id": "UCXA9ec1Npj308AY5r6vxALw",
+      "text": "Keep in mind that Gemini Pro is not meant to compete with gpt4. We'll have to wait till Gemini Ultra is released for us to be able to make apples to apples comparison.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MattttG3",
+      "author_id": "UCSuVit5tcNwVUQXNn5lGtpQ",
+      "text": "Haven’t heard a second yet; already liked because I know you are the alpha of this",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ooiirraa",
+      "author_id": "UCOpArtgPXj-1j8NBhtNPStg",
+      "text": "I doubht its right at all to compare gemini pro with gpt4. Google announced that gemini ultra is comparable to gpt4, and gemini pro is comparable to gpt3.5. I guess if you would compare it to gpt3.5 they would be on the same page roughly.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrew-729",
+      "author_id": "UCxQIffxDXM2GyFDEsWFetuQ",
+      "text": "\"good one wes, quite a zinger.\"\n\nAlright, show us your local models Wes...you are busted.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timp7035",
+      "author_id": "UCfvAznh3Z7YRhR3wBc2r5UA",
+      "text": "I thought Gemini Pro was meant to be around free ChatGPT (3.5) so not 4 so I don't' think this really is an apples to apples comparison.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rign_",
+      "author_id": "UC-lw5TtGlHzRW5s39_Ti7kw",
+      "text": "It’s difficult to test and compare GPT-4V and PaLM or Gemini models because Google doesn’t show any UI indicator for which one is being used.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SpikyRoss",
+      "author_id": "UC_0lBOpiXQze7gE29dTMoCw",
+      "text": "This is not gemini ultra but gemini pro it's like compared to chatgpt 3.5",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kjmorley",
+      "author_id": "UCUtgG8jFVcX37m6mp_sKOFw",
+      "text": "But you were using Pro, not Ultra… Could that account for the difference?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vfwh",
+      "author_id": "UCksTCIF0VE5OCm6fUYdxeWQ",
+      "text": "Thank god at last someone does a proper review that shows what I’ve actually seen Bard do. \nAll the resources online are all about « GPT 4 in the dust » and « Gemini AGI » and stuff. \n\nFact is: Bard/Gemini Pro sucks. \nYou can basically trust GPT-4 if you’re attentive to potential mistakes. Bard is completely hit and miss and has no ability to figure out if it’s right or wrong. \nFeels completely stochastic.",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@naromsky",
+      "author_id": "UCRSKqobuSrm860UlZgYTPmQ",
+      "text": "TLDR: False alarm.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gabrielsandstedt",
+      "author_id": "UCmWJF6zDrEWZznHSY8WxjBw",
+      "text": "I am not sure bard uses Gemini yet? For me Bard shows a sticker saying powered by Palm2 with Gemini powering it from december 13 ? (in four days).\nCorrect me if you know I am wrong. Maybe it is confirmed to be released in the US; I am in Sweden.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rehmanhaciyev4919",
+      "author_id": "UCbgRGVdNDFo4ty6gTF5hPyg",
+      "text": "considering vision was not correct and this is only gemini pro, it seems gemini ultra will be impressive compared to GPT-4",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelcalmeyerhentschel8304",
+      "author_id": "UCxqT5kCjmcyF6Y3emfztvKQ",
+      "text": "you could have scored all three by category, e.g. by not counting vision",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RickeyBowers",
+      "author_id": "UCkGGVSKvIZQlVqN4E1-Lp7w",
+      "text": "Having even Bard Pro respond in multi-modal ways pushes it beyond human communication - constructing a visual experience [practically in real-time] is the future we're living in. Conversationally, it is the most advanced system regardless of its ability to pass a test, imho.\n\nOr put another way: your tests are insufficient.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davejacob5208",
+      "author_id": "UCp2PHH7MGa0814AkbybngzA",
+      "text": "did you actually read the proof about primes? there is a reason it refers to three different numbers...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Net_Flux",
+      "author_id": "UCfKV_V7O9S2EAThkjQgapqw",
+      "text": "Gemini Pro was never pitched as GPT-4's competitor, but GPT-3.5's. It'd have been better if you included GPT-3.5. GPT-4's competitor is Gemini Ultra which comes out in January.",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GearForTheYear",
+      "author_id": "UCPbLNnOdKTtgMARRahOeStg",
+      "text": "I don’t understand why everyone is comparing Gemini Pro to GPT-4. Gemini Ultra is the GPT-4 competitor, not Pro. Just because Gemini Ultra isn’t available yet doesn’t really mean this is a worthwhile comparison. It was interesting nonetheless. Thanks Wes 👍",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@darshank8748",
+      "author_id": "UCc5lpf4CrbvkSqtDVhGfEEg",
+      "text": "They manage to beat GPT4 on 30/32 eval including the multimodal version of MMLU when everyone drop them, all people are doing is crying for the 32 cot. Bad faith",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@usafshorts",
+      "author_id": "UC__kVNnjitV_4Nhtt-e6NeQ",
+      "text": "For me google bard is not good at all, I asked some code for laravel and never was accurate, chargpt nailed all the time, bard says sorry I can't help you with that",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@19mad92",
+      "author_id": "UCZRTXE18q-b9LSqCCFvDHOQ",
+      "text": "bard is useless, with or without Gemini it falls behind even on my everyday tasks that bad that I am not using it anymore",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SoaringMoon",
+      "author_id": "UCAtohEGvUvUrzZ5jgQr6LvQ",
+      "text": "Bard is currently not using Gemini Pro for vision tasks. This video is misleading.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DihelsonMendonca",
+      "author_id": "UCsvoK5T0DdqHZ2XAUujrI3A",
+      "text": "⚠️Your video is completely wrong. The model Google used was the ULTRA, which is not yet available to the public. The Pro version is more comparable to ChatGPT 3.5 I use ChatGPT plus, but you are unfair. 🎉❤",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thisisashan",
+      "author_id": "UC_oonIbTttTkaqme9qc4lPg",
+      "text": "The issue with bard is you can tell they are trying very hard to direct the AI.\nChat GPT seems more honest.\n\nThough all of the above obviously have extreme bias.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paul-d-mann",
+      "author_id": "UCZxt9y5V5gS1F3PMIanDGQg",
+      "text": "You can’t compare Gemini Pro to CHAT GPT4… the full Gemini (Gemini Ultra) won’t be launched until next year. I’m sure neither will be as good as Claude 2.1 … he’s got borderline sentience 😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robbrown2",
+      "author_id": "UCwn4ls4GCniZS9_jnb9x7SA",
+      "text": "I don't like that cathedral but I like all the other stuff by Gaudi. Which is gaudy, but in a good way. Unfortunately for your joke, his name is pronounced \"GOW dee\". It was funny anyway. :)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spottenn",
+      "author_id": "UCYzA3OuLsmAXHtdwFIWVNgA",
+      "text": "You're introducing multiple problems with your tests (biases) at 16:55. \n\n1. History should have been reset. Without resetting the history, the model may have a bias towards which answer is most like/least like it's own. \n\n2. Telling the LLM the names of the models that made the answers automatically biases it to favor whichever model was doing better, or supposed to do better according to the Internet at the end of its training data.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mlock1000",
+      "author_id": "UC7FpKhTVZPu2aCe8R5vjcaA",
+      "text": "It really surprises me that people don't realise how much gnarlier gpt4 is than everything. They are all playing catch up to Ilya and co. and don't understand why his approach works (philosophical) and theirs doesn't (profit driven)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@temp911Luke",
+      "author_id": "UCI-aP5H-NpcoI99XzuDuoqA",
+      "text": "Bard useless as usual. : ) Nothing has changed.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yoagcur",
+      "author_id": "UCRxIV1DuSpTRYvcxXzvMEFg",
+      "text": "I guess there is no reason why one model would excel in all aspects. After all, people can usually have a base level of skills but will be different from each other in specific arenas. Also, it would have been fun if you had given these tasks to, say, a 5, 12 and 30 year old to see how they compared to each other and the AI's",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scotter",
+      "author_id": "UC2_rOgnH_bv1m5nh3cGgwOw",
+      "text": "Thanks for putting the work in on this! And thanks for being critical of Gemini! I personally have a hard bias against anything Google does because of their turn toward being censorious and political privacy-violators over the past decade or so. That all said, I guess you used Gemini Pro instead of Gemini Ultra in this comparison because Ultra is not available yet?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@georgetkhumalo",
+      "author_id": "UCExOi33Tr-7RGPv5RISVpqA",
+      "text": "At this point bard's reputation is beyond repair. It's a next gen model that fails to outclass a previous gen model from OpenAI.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pneumonoultramicroscopicsi4065",
+      "author_id": "UC00ol-Ur0H923WvID64g65w",
+      "text": "comparing gemini to gpt 4 isn't interesting, we already knew gpt4 is better, you should've compared it to gpt 3.5",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jtitor177",
+      "author_id": "UCxDwhJx8fmJX_bhGVRvgMYQ",
+      "text": "Chat GPT 4 is better because it has had a year longer to grow and develop. So it makes sense that it blows away Bard, Gemini and Grok.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@harshal4001",
+      "author_id": "UCbDexLK6JZ87TNG2dgwC8-w",
+      "text": "You are paying for GPT 4 and comparing it with free Bard which doesn't have the Gemini capabilities (no Ultra just Pro in future). So it's sad when folks bias themselves on one side only.\n\nIt wasn't great that the demo was misleading even though it came with a disclaimer and paper that folks looked over. Still competition is good and folks should look forward to what comes next rather than just push themselves on one side.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Strawhatb3ast",
+      "author_id": "UC6lvpmEriZ-cksv9-BaDVCQ",
+      "text": "ICHI :P",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bogdy72000",
+      "author_id": "UCl3XeoToREbme1iPM-CgAvA",
+      "text": "Functional illiteracy",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Madinax101",
+      "author_id": "UC2P5xvcQ4XEHG8bAkSu5TEA",
+      "text": "Wait .. you are comparing gpt4 with gpro right?  That’s like comparing gpt4 with 3.5.  Did I miss something? I respect your work Wes and enjoy your videos but this is lowering your standards somewhat",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidfoldesi9265",
+      "author_id": "UCo6KOowud3KtBfzCRs3elSg",
+      "text": "this comp is pointless because you're trying to compare Gemini Pro to ChatGPT 4 and we don't have published data between those two models :D only GUltra vs ChatGPT 4.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnryan3102",
+      "author_id": "UCdzCY9WCHT3IZts36IAoagA",
+      "text": "Seems like AI progress is slowing down.  Becoming just another hype machine.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SC-qk2hc",
+      "author_id": "UCQKOS1XGsThbXgGQ0gTDoKQ",
+      "text": "I tested Bard Gemini ...and found the answers pretty generic even for personal questions.  AGI will be trickier than ppl think and evade humanity for a good two or three decades...sadly",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Grand.Deception",
+      "author_id": "UCQ3NLcsNLrPt_I9F4de298g",
+      "text": "When i first saw the headlines I found it strange that so many people assumed the results of the report to be the absolute gospel.\n\nAs we all know results can be skewed ɓy the nature of the tests themselves and the way the LLM is prompted. \n\nIt will get annoying fast if people are going to be flip flop with every study. If the LLM does the work one needs it to do, it's irrelevant if it's theoretically 1.31% better at something. When someone understands the LLM they can use various techniques to get more out of it.\n\nI hope these arguments go away soon. This was a great video on the topic. Thanks for making it.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stephencooper3583",
+      "author_id": "UCPS-onIpcBIAir-AWRl6bow",
+      "text": "I still prefer Microsoft CoPilot (Gpt4) over Bard.  Honestly, Bard feels about the same as it did before to me, and I don't really notice any difference.  And yes, it still hallucinates... ALOT.  Maybe the \"Ultra\" version of Gemini will be better, but right now I'm just not that impressed.  Will Ultra be free anyway?  I get the feeling that will be their 'corporate' subscription or something.  We'll see.\n\nNo experience with Grok, but it looks like trash to me.  It's way over-hyped, and I don't like that it uses Twitter data to learn.  (Any weirdo can post crap on Twitter.)  I fear it will be spouting racism, conspiracy theories, and/or just plain stupidity in no time.  Functionally, it seems to lag behind both GPT and Bard anyway.  And $16/month?  No thanks.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SigFigNewton",
+      "author_id": "UC-Rz73iBXba-gUBooh2am8g",
+      "text": "You gave bard no credit for the proof that there is no last prime number (that there are infinitely many)?!\nWhy is Wes pretending that it’s bad or wrong that bard used three letters to help outline concepts? Seems that Wes fails to understand the proof so gives no credit? The bard proof is correct, with a one word typo, “times” instead of “plus”.\n\nAssume the number of primes is finite. \nMultiply them all, then add one.\nThe result isn’t divisible by any of the primes multiplied, so it is in fact a new prime number. A new prime in addition to “all” of the primes.\nSo our assumption that there was a finite number of primes has proven incorrect. \nThis is what bard said in poem form, and it’s a correct proof.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dercoolekommentator2906",
+      "author_id": "UCMoZSgmPb8nnNUcs-MTf4lg",
+      "text": "As an East German, Soljanka is way more better than Borsch.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DihelsonMendonca",
+      "author_id": "UCsvoK5T0DdqHZ2XAUujrI3A",
+      "text": "Comparing Apples to oranges. Bard will use Gemini Pro version, which is worst than ChatGPT 3.5 - And you are comparing with ChatGPT 4.5 ? Man, I'm sorry, but this is stupidity. 😮",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blah7745",
+      "author_id": "UCz8K89jb0ZKtF4TQCSXV1ww",
+      "text": "GROK is fake. It's just openAi dressed up as something different. Typical fake it until you make it stuff from elmo.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffsteyn7174",
+      "author_id": "UCKs9pYswNyrgxcfMXzuUrZQ",
+      "text": "Grok like everything from elon hype and no substance. Likely built on gpt4 outputs.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kasomoru6",
+      "author_id": "UCxFYE4t9TAr7r_GB10fGCuQ",
+      "text": "It doesn't look good 👀",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yoddeb",
+      "author_id": "UClZV6rNePRk-ri0ELITVMpQ",
+      "text": "Nauseated by the editing and scrolling",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theSatanist",
+      "author_id": "UCxUMURQUlwhEUtEyxx3YPYA",
+      "text": "Oh no! Now that Elon Musk has gone off his rocker, he's going to sue and go after you for \"lying\" about his \"perfect\" language model...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TomTWalker",
+      "author_id": "UCOzxfFz5rEFEUGmrvDXKduQ",
+      "text": "I'm a little disappointed in Wes. Bard doesn't yet have the vision component of Gemini Pro. Also, it's not clear from Google's demo videos if they were using Gemini Pro or Gemini Ultra. Likely they were using Ultra, which isn't available to the public yet because they have work to do on it to make it safe (from what I understand).",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jjrrmm",
+      "author_id": "UCl-KavEs9M7HAPw22W2E6xQ",
+      "text": "Grok has no strength with real time data. Twitter trash is not worth of anything. Excuses and excuses for a ridiculous model.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KitcloudkickerJr",
+      "author_id": "UCXHOmATu4LKpO4RGCdkF0wA",
+      "text": "comaring 4 to pro? why not 3.5? and Pro doesn't have vision yet, not the new vision",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dawid_dahl",
+      "author_id": "UCqddRn8yswp0eMFrXkSttXg",
+      "text": "It’s unfair to compare Pro with GPT4 isn’t it? One should compare that one with GPT3.5.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@legxndares",
+      "author_id": "UCwSFqpcgkSjcb0Y1_K0K-EA",
+      "text": "Bard is still useless",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adram3lech",
+      "author_id": "UCorzsW1sDd12H9TlGEoU1Ow",
+      "text": "Are you sure your Bard is upgraded to Gemini Pro? This is bad",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichaelScharf",
+      "author_id": "UCMMA29aaXAYow6KTQwFsm0Q",
+      "text": "You should have used gpt 3.5 because you used gemeni pro…",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@twavee",
+      "author_id": "UCMS3hDLZSH_LLOdmF52593g",
+      "text": "You should take down this video, it's embarrassing and has much factual incorrectness. Gemini Pro isn't out for other modalities yet, and Gemini Ultra's capabilities are more refined than Gemini Pro.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlayneOliver",
+      "author_id": "UCGbHBjKzePAqPPJjFcosKiQ",
+      "text": "Another desperate fail from Google. Grateful for OpenAi 🎉",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SudarsanVirtualPro",
+      "author_id": "UC77GKJQtT0AhCpGvM2IOSsA",
+      "text": "❤nailed it",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

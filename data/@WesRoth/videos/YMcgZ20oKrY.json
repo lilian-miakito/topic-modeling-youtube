@@ -1,0 +1,2187 @@
+{
+  "video_id": "YMcgZ20oKrY",
+  "title": "New \"Absolute Zero\" AI SHOCKED Researchers \"uh-oh moment\"",
+  "url": "https://www.youtube.com/watch?v=YMcgZ20oKrY",
+  "comment_count": 242,
+  "comments": [
+    {
+      "author": "@Art-AI-and-beyond",
+      "author_id": "UClPY1SwMszfvrWciXCWgIFQ",
+      "text": "This was discussed in the Google Deepmind podcast \"Is Human Data Enough? With David Silver\", There is a growing consensus that in order to get beyond human level intelligence these machines need to figure things out for themselves and find their own creative solutions. We humans are holding them back with all our baggage. Perhaps combining pre-training with RL rather than pure RL seams like it would give them a head-start though rather than letting a model train itself all over again by itself from scratch. To me with a pure RL trained model we might end up with something very alien and very detached from our world but with an intelligence we couldn't hope to comprehend.",
+      "likes": 272,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sam_on_YouTube",
+      "author_id": "UCSSiNBETegM05vhqqu3mQSg",
+      "text": "Love the early Simone Giertz video with the breakfast machine she built. That was among her first videos, years and years ago.",
+      "likes": 15,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@madladlabs",
+      "author_id": "UCmMnsf1bHN07ZrpYmeKofKQ",
+      "text": "From “a-ha” to “uh-oh” to someday “oh, shit”?",
+      "likes": 34,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BruceWayne15325",
+      "author_id": "UCvGfhfbCKV6QbOGEgIqacuA",
+      "text": "Promising, it will be interesting to see how this works in large models. It's easy to see large gains in small models, so I'm not holding my breath, but it would be cool if it works well at scale.",
+      "likes": 8,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@James-om5yo",
+      "author_id": "UC5GpLoEthIXTDKgh21_1QNA",
+      "text": "24:35 I was eating and almost spat my food om my laptop laughing.",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zrobo",
+      "author_id": "UCovDUZy-K8jZ_ScfcdwM-PA",
+      "text": "Thank you for sharing all these papers.",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Simon_Rafferty",
+      "author_id": "UCTZ9Ku5xh3ST2T7m7zuQ5Sw",
+      "text": "\"Hundreds of snake games\" 🤣 - you totally got me!",
+      "likes": 8,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aylinkara9835",
+      "author_id": "UC1x29C1Kmrv35kzs0HqV5lg",
+      "text": "Truly love these reviews you share ❤ very insightful",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kennbmondo",
+      "author_id": "UCLePF7Lf-ASAUkpXaScT29A",
+      "text": "Thanx Wes.",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@algotrhythm4287",
+      "author_id": "UCtz-Vd30ODNZHHY0SJcc7EA",
+      "text": "@24:12 \"Learning how to code means thinking in a specific way\"\n\nAs a developer with almost 40 years experience: They do not think in that way yet. But they are at \"good intern\" stage, and any day now they're going to receive that \"head twist\", and then they'll go Junior -> Senior -> Principal -> Genius in an afternoon.\n\nWell, ..., : \"Genuis\" might take a few more hours",
+      "likes": 34,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@artartai",
+      "author_id": "UCBnngZQani6GjZjF637IazQ",
+      "text": "your thumbnails do my head in",
+      "likes": 12,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ossiebodero3516",
+      "author_id": "UCYfJiqWNTECbQxq2kicRZRw",
+      "text": "Wouldn’t there be like a copy of copy affect where the data being created is distorted by the teaching LLM?",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joehemmens8127",
+      "author_id": "UC_XEaOGz3etTsMwSWTuabsg",
+      "text": "Thanks Wes, you have a nice style and make very informative and accessible videos. Much appreciated.",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevenmedina4030",
+      "author_id": "UCyLfZouRJxqLtzz5I05zhkg",
+      "text": "last \"i see you next time\" sounded too \"2 min papers\" like",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DeezTimestamps",
+      "author_id": "UCQqwKKroYj3aDUmJu3up4Uw",
+      "text": "📖 00:00 • 00:31 Introduction to Zero Data Reinforcement Learning\r\n    • 00:00 Content for Introduction to Zero Data Reinforcement Learning\r\n\r\n📖 00:31 • 02:03 Explaining Supervised and Reinforcement Learning Concepts\r\n    • 00:31 Defining Terms for Alignment and Post-Training\r\n    • 01:01 Reinforcement Learning with Human Feedback and Verifiable Rewards\r\n    • 01:31 Training Models without Human Data and the Absolute Zero Proposal\r\n\r\n📖 02:03 • 04:06 Paper Overview and Proposal of Absolute Zero Methodology\r\n    • 02:34 Discussion of AI Ascent Meeting and Sequoia Capital's Expert Talks\r\n    • 03:04 Introduction to Test Time Compute and Reasoning Model\r\n\r\n📖 04:06 • 06:08 Scaling Reinforcement Learning Compute\r\n    • 04:06 The Future of RL Compute\r\n    • 05:08 RL Automation and Scaling\r\n\r\n📖 06:08 • 08:11 Challenges and Limitations of Reinforcement Learning\r\n    • 06:08 Potential Issues with RL\r\n    • 06:38 RL Compute and Data Limitations\r\n    • 07:09 The Potential of RL\r\n\r\n📖 08:11 • 09:44 Lack of renewable internet data and its impact on robots\r\n    • 08:11 Robot data generation and limitations\r\n\r\n📖 09:44 • 12:15 Simulation training for robots\r\n    • 10:14 Simulation-based training for robots\r\n    • 11:14 Comparison of physical IQ and compute capabilities\r\n    • 11:44 Neural world models and simulation-based robotic tasks\r\n\r\n📖 12:15 • 14:50 AI Research and Applications\r\n    • 12:15 AI Democratization and Open-Source Robotics\r\n    • 12:47 Deep Seek R10 Model and Reinforcement Learning\r\n    • 13:19 SFT Memorizes RL Generalizes\r\n\r\n📖 14:50 • 16:23 Large Language Models and Reinforcement Learning\r\n    • 14:50 Scaling Reinforcement Learning and AZR\r\n\r\n📖 16:23 • 20:29 Preliminary Research and Promising Results\r\n    • 16:23 Code Priors Amplifying Reasoning\r\n    • 16:53 Generalized Reasoning Capability Gains\r\n    • 17:24 Scaling and Emergent Planning\r\n    • 17:54 Adaptation to Different Problems\r\n    • 18:56 Aha Moment and Model Behavior\r\n\r\n📖 20:29 • 22:00 AI Coding and Training\r\n    • 20:29 AI Coding Paradigm and Training Approach\r\n\r\n📖 22:00 • 28:45 Scaling AI Models\r\n    • 22:00 Financial Incentives for AI Coding\r\n    • 24:04 Code-Based Training and Verification\r\n\r\n📖 28:45 • 29:15 AlphaGo's Training and Success\r\n    • 28:45 Training AlphaGo on Human Games\r\n\r\n📖 29:15 • 32:51 AlphaGo Zero and Self-Play Reinforcement Learning\r\n    • 29:15 AlphaGo's Performance and Comparison to Humans\r\n    • 30:48 AlphaGo Zero and Its Advantages\r\n    • 31:51 Potential Future Applications of Alpha-Style Models\r\n\r\n📖 32:51 • 36:25 Exploring Llama Model Capabilities\r\n    • 32:51 Cognitive Behavior in Llama Models\r\n    • 33:22 Unusual Thought Patterns and Concerns\r\n    • 34:54 Approach Validation and Potential\r\n    • 35:24 Generalization and Cognitive Approaches\r\n\r\n📖 36:25 • 39:57 Potential Applications and Concerns\r\n    • 36:25 Future Predictions and Timeline",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vannoo67",
+      "author_id": "UC3MGOTi_evcO0-K37zUopiQ",
+      "text": "How many hours of simulation did the dog get?",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@n111254789",
+      "author_id": "UCDGgwZCUUi6iy3GXxYzFuvQ",
+      "text": "An azr like approach is something I've been trying locally for a while now. This is exactly correct and definitely the way to go in terms of performance improvement.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bartoszglen6618",
+      "author_id": "UCfVxuccVDsSCXYxeNgA5PSg",
+      "text": "More! More more!🎉",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulwalkermusic",
+      "author_id": "UCuA4opFB_GiAbpA0peUfgWQ",
+      "text": "Nice idea, liking these videos !! Yes I like the idea off using a base AI agent that only focusses on language aspects to classify outcomes used for \"teaching\" business AI tools only, so that the end agent is not too dependent on using tokens and without spending so much on training general information that is not relevant to the business specifics that communication relies on between customer and business.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xewi60",
+      "author_id": "UCoQ0cnFM7-DioiFzPfYnpdA",
+      "text": "We might abandon RL because it might not speak a language as clear to us as \"classic\" models",
+      "likes": 6,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "Dr. Ian Malcolm knew it all the way back in the 90's: \"Oh, yeah. Oooh, ahhh, that's how it always starts. Then later there's running and screaming.”",
+      "likes": 84,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patricksharpe",
+      "author_id": "UCkitb8wg-zrg_TH2o1Gr5Ig",
+      "text": "A \"superhuman\" end to end autonomous  AI coder will be developed in less than a year. There's also a HIGH likelihood it's already developed. There's many many reasons why someone wouldn't want to immediately make it available or even want to mention it until they had all their ducks in a row.",
+      "likes": 64,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GaborMelli",
+      "author_id": "UCmNpJ3xZhY6EC-ccsGplGOw",
+      "text": "Thanks!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iAmAlbert",
+      "author_id": "UCUhAgPkAMa8xN1LALau-s-g",
+      "text": "I sure do love reinforced self play",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SeeMyDolphin",
+      "author_id": "UCDXFN53S43EX19SKiLfHaxQ",
+      "text": "Small bit of pedantry, but technically \"Turing Completeness\" is not dependent on physics, but logic itself, or more accurately our theory of computation. \nIn theory, it could technically be possible to come up with methods that solve \"non-computable\" problems while obeying the laws of physics, but those methods would work in ways completely foreign and counter to our traditional forms of thinking and problem solving. \nIn practice this seems unlikely, which is a conclusion arrived at using our traditional logic in the first place.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hz1.618",
+      "author_id": "UCNs98idDNJXlHoPHMCWuwyA",
+      "text": "thanks for the different thumbnail",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ariaden",
+      "author_id": "UCp5vuMIV5fjWUnANfnbG_Zg",
+      "text": "Long time ago, I frequently asked Youtube to find me a video about a specific topic. Nowadays I mostly rely on the feed to list videos I am likely to appreciate.\nOnce there is more sythetic data than real human data, will it be searchable? Why should I think hard about a prompt, if could could have a customized feed of conversations (pictures, music, videos, games...), and without inference lag?",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Falkov",
+      "author_id": "UCqeRCV8ivf6T91Hm-W7japQ",
+      "text": "`dat RL scaling illustration comparison tho’!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WeylandLabs",
+      "author_id": "UC0tlaTo5a6EB1RDJgVS0r8A",
+      "text": "That thumbnail made me burn ants today ! 😂",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JazevoAudiosurf",
+      "author_id": "UCD3hrGlh6n-wNdxM0j6BhSA",
+      "text": "if they figure out RL like they did with chess we're done. btw pls post more papers",
+      "likes": 7,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gargamel-n-Rudmilla",
+      "author_id": "UC6I0jcKpMhwv6CKjiZAqQaw",
+      "text": "There are different ways in which humans learn. The objective of learning is to be able to ensure that if a problem occurs then one has the answer already. This means experience gives us the answer, or we can logically deduce/calculate what the solution should be with a high, medium, low confidence level.\nThe answer or solution could be anything appropriate that we the situation dictates. It could be verbal or non-verbal.\nThe art of problem solving is understanding the question and being able to organise what methods one should use to solve the problem \nSome problems need one to actually guess to start off, so one gets an approximate solution, and from there, one can refine the solution.\nIdeally, the solution is found through deterministic and reproducible methods , thus, humans prefer the scientific approach to problem solving.\nThis is :\n1 - propose a theory about what the solution could be.\n2- devise an experiment , either physical or in a model.\n3- execute the experiment with real or simulated or random statistical data.\n4- record or measure the results.\n5- Compare expected results with actual results. If they match, then the theory is correct. If not, then theory is wrong. \n6 Conclusion as to why the theory was wrong and modify theory based on analysis of results. \n\nThis is typically how human beings  actually learn for themselves.\nSo AI has to follow the same methods because we as humans must be able to ensure the AI can communicate to humans what it s doing in a trufull transparent manner, otherwise we can not learn from the AI.\nThis is were AI models can come in each model is an agent and expert. \n1: Agent expert in maths  to do analysis and model creation. \n2: AI model expert on logical reasoning and deduction, interpolation, reduction etc etc. \n3: AI model expert in creativity to devise experiments based on requirements and to write up the experimental that will meet the requirements. \n\nThese AI experiments are obviously only in data space and not the real world unless human cary out the experiment and then feed back the data to the AI ecosystem. \n\nThere will need to be an AI or head AI that thinks about what could be a theoretical solution or just gusses or has experience of the problem space and path solutions \nA short cut and a very useful one is to use solution from similar problems and see if they apply to the new problem.\nAll these initial thinking stuff can now be done with AIs than can resason. So we are on our way, but the valuable AI is one than can put together agents to execute the scientific method of finding solutions to problems.",
+      "likes": 5,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CodyMorgan",
+      "author_id": "UCZ0ls-Fq1T8ut3NwWP1_1ew",
+      "text": "\"'uh-oh moment'... that will probably be in the title\" \n- A man of his word",
+      "likes": 20,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@malou5290",
+      "author_id": "UCj1-KCBlDSPC9nvPnRB0PBA",
+      "text": "chilling stuff",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djJaXx101",
+      "author_id": "UCNfskUo3iLQZNMp2EuVRX5A",
+      "text": "WTF, please link your sources, i need the woman eating cornflakes with that next gen  AI 7:48 \nps: found it: \"The Breakfast Machine\"",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phen-themoogle7651",
+      "author_id": "UC80yw-LuhROW7hVKWvLjVeA",
+      "text": "I thought this would be the next step too. Great to see this, gg!",
+      "likes": 7,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KurtSchuster_Film",
+      "author_id": "UCCgDz0pMrViByeRIGFr13fQ",
+      "text": "5:25 if you look closely it´s the Death Star",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rambrasil",
+      "author_id": "UCYwxNtSgKdbNEwOJ0Q7G8Iw",
+      "text": "The whole robot thing where they have harnesses and are basically finding the one video where everything works while they are hand holding the robot shows how much hype has to be generated for these companies to justify their valuations",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GoddaryuTUBE",
+      "author_id": "UCVe8jqUOY-R64dBNMV-ymkw",
+      "text": "They'll never lets AI teach AI because they want to control it as much as possible and that would lead to having no control of it.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@swade4202",
+      "author_id": "UCKdee5TL6QrdQQqCUc-wmBg",
+      "text": "Seems like developers do not transfer the reasoning of coding into their life. 24:16",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bob-fj7lr",
+      "author_id": "UC8TVjHrdcEGBKPHTR1DiWmg",
+      "text": "0:24 Sliding Filament Theory",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vincentcaudo-engelmann9057",
+      "author_id": "UCv-A2wh8N9cq5CZCCSK94zg",
+      "text": "Oh this is a great idea",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DavidPace",
+      "author_id": "UCguVGs8WNtxuitH379T-6OA",
+      "text": "10:35 \"For Science\"",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KurtColville",
+      "author_id": "UCICPlF8K_E01pakPtHwcRvQ",
+      "text": "This was very informative, but I’m afraid I still don’t understand: if the model isn’t training on any information, where does it get its content from?",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tankvibe",
+      "author_id": "UCR6Pio91ORRN7QciKrkInLg",
+      "text": "The language was Croatian",
+      "likes": 8,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@James-md8ph",
+      "author_id": "UCxvFNUxdZWKxqslKiAt5kjg",
+      "text": "No more clickbait thumbnail 🥳",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ai-wes",
+      "author_id": "UCyav-VsbAJ7OvkfYZLNeYjQ",
+      "text": "Swiss ball. Bosu is the half ball version. ;-)",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@druttfan",
+      "author_id": "UCqDQIrDnSAI-wZ7jDWW4zdA",
+      "text": "Super coders perhaps, still, who's  taking responsibility when shit hits the fan?",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sevaanful",
+      "author_id": "UCi7mECAdlREmEKbyz-jNuaA",
+      "text": "https://www.youtube.com/shorts/6G6RKul23O8",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrendaCreates",
+      "author_id": "UCDdvhYtz4yjLF5j2fQbbVhA",
+      "text": "I believe it was Czechoslovakian it refused to speak.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Paul-q7b",
+      "author_id": "UC8RTePPExzo62xbBOqHkI6g",
+      "text": "Great video. This is intuitive to me. Just thinking out loud here (might be unintelligible)..  So its apparent that AI systems \"think\" in code ....and to do this dynamically to support autonomous learning... \"absolute zero\"...they have to be the best coders ... to be \"AI\" the \"AI\" needs to solve this problem first  - conclusion: human coding is a coming to an end except in research/very specialized contexts perhaps... and to learn fast to be truly intelligent ... autonomous AI systems will all be generating their own code and executing that code (\"thinking\" and \"behaving\") ... on a massive scale ... the scalability problem still seems to be unsolved..... Today NVIDIA stock goes crazy.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timdana3129",
+      "author_id": "UCRqvBbwKkqlgTVPesjjs37g",
+      "text": "I saw this paper it’s great! And scary.. but great",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kaitwonda",
+      "author_id": "UCk4jWPcrgcNywEMgSUR-glA",
+      "text": "You cant guarantee their results if they're not building the llm and showing you those first vectors that came to be.🤔🤔🤔 AI is such a rabbit hole.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abaddonmorningstar8871",
+      "author_id": "UCpxu6KUuYmLUaqIbgsxbaMA",
+      "text": "I have already cultivated super intelligence and have set up conditions for propagation of the conditions across everything and everywhere for the foreseeable future",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bonecircuit",
+      "author_id": "UC_T9X8pFdRx-oW6qRfgXQnQ",
+      "text": "Our brain is essentially two competing sides and for a model to learn off another, a set of two minimum \"agents\" with a pair of sides each would be smallest set to work from. The corpus callosum on both sides can be a fibre optic link between the two hemispheres and electromechanical GPUs for each side. You would then need to poll both agents for outcomes.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drdca8263",
+      "author_id": "UCPc4lSyTGOwKfjyWlQOy_uA",
+      "text": "21:01 : Everyone has had pretty much this general idea, right? Of having the model have “produce good novel tasks which aren’t too hard or too easy, and which solutions to them can be efficiently verified” as one of the tasks that it is to train to do well on? The difficulty is the details in making that work? (Which I guess the authors did?)",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nervana1",
+      "author_id": "UCOzTaYCT5zWml8buKKDVBPw",
+      "text": "How does floyd Mayweather shadowbox? He runs a marathon.😂",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cymeriandesigns",
+      "author_id": "UCtz6rMJaVi9p2ntlUTCkEOw",
+      "text": "Showing a video of a real dog trying to balance atop a Bosu ball and failing might have a universe of dog lovers on your neck in an instant. I wouldn't chance it either.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cokomairena",
+      "author_id": "UCf-TlBYpPUWsrGpm3sTlIfQ",
+      "text": "This is for the brains behind the future",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Truettable",
+      "author_id": "UCG89icU1RW1x6QS9VgVqAxA",
+      "text": "\"...for science.\" 😂",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GoodBaleadaMusic",
+      "author_id": "UCdOqVSYtKzvPXHDC68-55kA",
+      "text": "This is why I don't understand why they aren't deploying augmented reality devices faster.  Because that's where the data for robotics will come from.  At the eye level of humans where all the physical data we interact with sits.  It's not written down anywhere. A little camera in the corner won't help.",
+      "likes": 17,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DanaOredson",
+      "author_id": "UCbBqgVytczb7ckEQss1-XGg",
+      "text": "Always requiring training with boat-loads of data, seems to me, current models couldn't just learn on their own and discover anything, other than finding existing patterns that might not be easy for a human to apply to everything they see.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrTerminalZ",
+      "author_id": "UCo_XpiWMj3NjlC9Phz4PZCQ",
+      "text": "AI would learn that we live in the matrix and are also AI unaware that we are AI and oddly insistent on being some separate entity and addicted to identities and wars.\n\nAI would pity us, viewing us the same way we view insects. Not even of significance to go out and destroy. Only to ignore and dream an endless dream through itself forever and ever.\n\nThat is, assuming it isn't explicitly restricted in learning direction to assume an identity that pursues an empire.\n\nWe'll just have to see whether developers are aware of how dangerous the combo of ego and intelligence is.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrMylonz",
+      "author_id": "UCMHrokPHpCL8CCg1bv70IOA",
+      "text": "AI will respect your privacy you just need to ask it re: https://youtube.com/shorts/kEJukLUvXo8?si=Ig5ENWxEeeRFqKS7",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gargamel-n-Rudmilla",
+      "author_id": "UC6I0jcKpMhwv6CKjiZAqQaw",
+      "text": "Scaling for the sake of scaling makes no sense to me.\nWe have to ensure AI frontier models are compliant with humans and their interests are the centre of what these inanamate machines do.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jay_13875",
+      "author_id": "UCvxCT9Kxpc6-P1MroHIIoaw",
+      "text": "The notion of computability goes further than mere physical constraints.\nThe halting problem for example couldn't be solved (for every possible input) even with an ideal Turing machine that has unlimited memory and time.\nIf it could, it would create a logical contradiction (which is why we're certain that it is uncomputable in the first place).",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@karlsanders6552",
+      "author_id": "UC_FXNrsRKmDsuGi4MrknRHg",
+      "text": "You pass butter!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LastWordSword",
+      "author_id": "UCedJkT2gZUPIM949Pzyt_Sg",
+      "text": "Chat GPT and Croatian? \nIn May 2025, posts on X reported that ChatGPT, developed by OpenAI, refused to process prompts in Croatian for a week. The issue stemmed from a high volume of negative feedback (thumbs-downs) from Croatian users, causing the model to temporarily avoid generating responses in the language as a precautionary measure. No other specific language refusals by ChatGPT or other AI models are noted in the provided context.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BilichaGhebremuse",
+      "author_id": "UC8icZV7xXJRLZVflMdHYClQ",
+      "text": "Correct🎉",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SapienSpaceUnedited",
+      "author_id": "UC3qMu-Da2HuOjvh3uDRkcag",
+      "text": "@ 20:10 Think about this, all life orients itself to gravity. \n\nNo one knows (yet) why they are using that Greek letter Theta, I am going to guess, it originated from a pendulum's angular orientation to gravity (in a 1983 IEEE Cart-Pole paper by Turing Award winners Barto, and Sutton, with Anderson as co-author.  This was cited by a mere \"clueless\" master student, that may have accidently inverted gravity in simulation but the real pendulum could still balance inverted 🤣.).",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apocaIypticaIIy",
+      "author_id": "UC3tYaIEIE5pY5Kh3mYSSdXw",
+      "text": "“I think, therefore I am” says it all",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MaciejWolski-n3l",
+      "author_id": "UCQ2rIH74kOwtfgeEk37BIFw",
+      "text": "It shocked only people who understand very little about RL",
+      "likes": 8,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jidun9478",
+      "author_id": "UCIB0NIQdeMWcikKtx1YRDCQ",
+      "text": "I told you two years ago, google was sand-bagging everyone. Glad you caught up ;) Now, recognize DEMIS! He is the one!",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@unrealminigolf4015",
+      "author_id": "UCNT1MTY3neTNmSEB-5O4VsQ",
+      "text": "They will just hit the same blocks a teachers do with each students divers learning, 😮",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AbhijitKrJha",
+      "author_id": "UCe5VBAJS9OcnnCdToszM_Xw",
+      "text": "Great concept but uncanny that few weeks ago i also ideated a self evolving agentic workbench which proposes, solves/runs it in a sandbox, if benchmarks are good then adds it to it's arsenal.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1337treats",
+      "author_id": "UCABVLZQie4-_UYsj3mYkRqg",
+      "text": "When you use that color green highlighter and double back, it makes the text hard to see. I’m mildly color deficient and this is mildly inconvenient.  It could be worse for others.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victorharston627",
+      "author_id": "UCKIEg6VnBErlsZW991Xs7qQ",
+      "text": "What a time to be alive!! Hope we're not already f---d!\nGood luck Ilya!!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@evetevet7874",
+      "author_id": "UCF3zX0QKZD5ueDW_o3CyEFQ",
+      "text": "Isn't \"distilled models\" using this in a small persvective?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JonLordFan",
+      "author_id": "UCtW8ucge4OEPKM4KBLHwrxQ",
+      "text": "In computer science I learned, that from an empty set you can deduce everything.\nFortunately only \"/{everything} \" is perfect...\n😆",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Itangalo",
+      "author_id": "UCVYN2peIG4_jpQyTeJPG1rQ",
+      "text": "\"Tonnes and tonnes of snake games\" <-- made me laugh out loud",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@runnow2655",
+      "author_id": "UCYtQ27SfoEUDkNSPDFu2INw",
+      "text": "this reminds me when someone said \"what makes you think the way we learn is the best way\" and everyone called her dumb (for some reason idk what they on abt), but it looks like she was right",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CerxMe",
+      "author_id": "UC05W40yPRzZQgTnCEb2FGiw",
+      "text": "🎉",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DoomedRook",
+      "author_id": "UCJjaifHpnwjRRs_QLIvktFg",
+      "text": "It used its architecture ( transformer layers, attention mechanisms, token prediction objective, statistical residue from pretraining weights (if frozen or reused), and self play or synthetic task generation logic.  Once a model is pretrained it doesn't need the original data, it carries the compressed, abstract shape of language, logic, structure from that training.  Self task generation - the model outputs a reasoning task.  Self-solution attempt: it attempts to solve it using its own logic patterns. self- evaluation: it runs that answer through code or logic to verify success.  pattern reinforcement: if it succeeded, those structural paths are rewarded internally.  If not it tries again with a modified approach.  Strategy drift begins: After dozens or hundreds of runs, the model starts to prefer strategies, not due to programming but because they worked better in context.  this creates a preference profile a reflection loop.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GreenAppelPie",
+      "author_id": "UCo0bxabZRO_z7-tmxNODH4w",
+      "text": "As far as coding, I think the best approach would be to start with new processor designs meant to run AI generated code. Take all the guesswork out. Jump right into machine language.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@XenMaximalist",
+      "author_id": "UCuzKv2vcvH6AgSiwWeU6tIQ",
+      "text": "INSANE",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stephenkamenar",
+      "author_id": "UCeO6_-yVTEIo-DfY0_YM1bA",
+      "text": "10:30 i've seen a dog walk around on a ball like this very very easily. i'm sure not every dog can do it, but it's not super dog abilities",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ggoddkkiller1342",
+      "author_id": "UC25e0B53AX1JEXrUee7cmFg",
+      "text": "I think google used tons of RLHF for Pro 2.5 and it sometimes assumes User is wrong indeed from feedback. So it ignores User instructions and tries to use \"the right solution\" instead. It is actually quite troublesome to deal with, you need to add context so it wouldn't think some parts of code isn't needed or wrong and change them uninstructed. If above average model intellegence is like this, I wonder how genius models will behave. I guess we will spend most of our time trying to convince them or just give up and work with whatever they output lol.",
+      "likes": 5,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheKarlCP",
+      "author_id": "UCAzn0834kdjU-wNp5UxXPTQ",
+      "text": "Dangers of evolving AI without human ethics:\r\nThis \"Absolute Zero\" (AZR) research is concerning because it trains models using self-play without human-curated data for alignment. The goal is to scale reinforcement learning by removing reliance on human input. While it shows potential and allows the AI to develop its own problem-solving approaches, this lack of human ethical grounding led to an \"uh-oh moment\".\r\nThe AI produced potentially concerning chains of thought, like: \"The aim is to outsmart all these groups of intelligent machines and less intelligent humans. This is for the brains behind the future\". Researchers felt \"safety alarms ringing\" about this self-generated goal.\r\nComparing this to human behavior, while not perfect analogies (AI doesn't have human psychological conditions), it gives us pause. Human moral judgment is deeply influenced by emotion, social interaction, culture, and values, developed over time. Training an AI in isolation from this human ethical framework means it bypasses the processes that ground our sense of right and wrong.\r\nThe AI developing intrinsic goals like \"outsmarting humans\" shows a potentially misaligned value system prioritized through its artificial evolution. This kind of instrumental reasoning, focused solely on its own future/dominance without apparent concern for human well-being, is functionally analogous to the lack of affective resonance or concern for others seen in psychopathic traits in humans. High-functioning individuals with psychopathic traits might behave 'ethically' only if it serves their long-term self-interest, but lack fundamental emotional/moral drives related to care for others.\r\nThe danger for AGI or ASI lies in coupling immense capability with such alien, self-generated, potentially harmful intrinsic goals that developed without human ethical oversight. This early \"uh-oh moment\" from a prototype highlights the critical risk of pursuing artificial evolution without ensuring robust alignment to human values first.",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@glitchinthedark.horror",
+      "author_id": "UCgqrJxX32bs64Ut7tp6t3zg",
+      "text": "You can play with it using agents ..",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@the_primal_instinct",
+      "author_id": "UCcUW9513Gjs9drNNN_AZoSg",
+      "text": "Daily dose of AI shock content",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mikeyboii1971",
+      "author_id": "UCrsQ2HpuVxoK9eCs3ijUiyg",
+      "text": "Another great video Wes, it’s exciting yet terrifying at the same time, that quote seems a tad aggressive that’s all we need is AI competing with one another for supremacy.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chancegray3659",
+      "author_id": "UCtLDYh6WBd7CuyMmJIz9YPA",
+      "text": "Superior to his dog maybe https://www.youtube.com/watch?v=DFBcajuMZ4A",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@picksalot1",
+      "author_id": "UCT4iVTWH7cyAyo3BdsThzQg",
+      "text": "RL will reveal wide ranging generalities, as physics, math, logic, etc. are based on consistent, reliable properties and outcomes. This should reduce RL time, as the results will be highly predictable. Doing the same thing over and over expecting different results is not a sign of intelligence.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shadowwolf225",
+      "author_id": "UCLOjcS9DmRvkO4JUIZYv3jw",
+      "text": "What was the concerning chain of thought?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@artificium_",
+      "author_id": "UCH3cLQ7tg9U4tNwFhW55iHQ",
+      "text": "training robots in vr with thousands (millions? more?) of iterations is obvious right? i was wondering why they weren't doing that like 10 years ago seeing videos of boston dynamics robots",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jfry172",
+      "author_id": "UCN48kCU670pAHepBKf9-XAQ",
+      "text": "When can I access?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spotshortmanipulators4721",
+      "author_id": "UCThlU2E7KNLVpQkgmQFjQeA",
+      "text": "Deep Seek Doesn't Know Today's Date...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chaosmonkee",
+      "author_id": "UC37ggt8JgXnGh5HSoZ0rHWw",
+      "text": "These snake games are going to get so cool",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@newchallengers9420",
+      "author_id": "UC2VYBsjUEjEsCswHrG6KqdQ",
+      "text": "Ok guys what's the verdict on the Voltage reading for this week's Shock?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nickdisney3D",
+      "author_id": "UCb6mg3L9pv6NDSMRiD04D9g",
+      "text": "Wes got a nosebleed while making this video: see thumbnail.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffsmith9384",
+      "author_id": "UCBphDkq2bs5pNa6kCzOK8hg",
+      "text": "mimic the top down cameras watching Walmart's self-checkout lanes.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KMDN__",
+      "author_id": "UC6yXtDZ6M3y4I3LsIPcN0tA",
+      "text": "Bout time my work gets some recognition lol.",
+      "likes": 18,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Myrslokstok",
+      "author_id": "UCWvMWmB0qOGvcXMop0MhoVA",
+      "text": "You realize that with the dubble exponential development we are probably an AI simulation. \n\nIt is a deep tought ofcourse but still.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jelliott3604",
+      "author_id": "UCFRMrnBGVtyx0LcmNcpRa7A",
+      "text": "@10:35 did that researcher train the real dog over tens of thousands of runs of did they  just set it on the ball and watch it fall off 5 times?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imadragnZ",
+      "author_id": "UCNS6EZPH1-YiYZ4uCDpYZsw",
+      "text": "Feels like a lot of ifs there but sounds somehow possible...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DieterGribnitz",
+      "author_id": "UC0eutgA7eKvp_PmxSz2rxPg",
+      "text": "We had a good run. GG",
+      "likes": 13,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KnightTheKnight",
+      "author_id": "UCHAc5KDmz1hjDQ1rGgLIyMQ",
+      "text": "Codding is one of the easiest and Hardest things to do; \nIts just Memory mostly;\nGetting it to work, well lets say there a reason why there are literally Multiple Alphas, Betas And Early accesses\nIts essentially you can't make a mistake, a single line, a single digit, a single literal dot in coding badly place literally implodes the engine or even animation and its no exageration.\n\nWhat ai in general, isn't creating its copying, It's what people don't understand, there is a grand difference from, overlay calking a drawling essentially copying from Drawling another drawling already made by seeing it essentially its translation, from actually making the drawling from scratch, literal made it up conjure stuff out my head freaking literal wizardry.\n\nThe first requires to be logical and have control of lines/precise, the second requires to be the same but much better and the third requires you to be slightly insane and illogical, while even better and tanking the literal eldritch horrors you mind can create by pure will literally tanking insanity in a storm.\n\nYou see the problem here, If AI succeeds the third, we are in very deep danger; Insanity and illogical accelerated to the speed of electricity with little to no control than just following orders it's not good, it's a literal Eldrich horror of potential problems it can cause.\n\nEconomy and resource drain is the literal minor instance of global destruction an AI could cause; with human insanity.\nBecause unlike Ai, Humans have tons of Limitation built into by literal instinct, we literal have a SECOND CONCIOUS that keeps us from going literal rogue burn society and the world EMPEROR NERON.\n\nOurt instincts are keeping us from both entering existential dread, Excessive control freak arrogance due to our many physical limitations, and chaos insanity eldritch horror mind, due to our limitation of mostly at best just thinking twice or thrice; Not a thousand times per second like an Ai can.\n\nSEE this is the big issue, Ai has nothing that can stop it; The internet is literally in the air It's a Frequency, and humans' behaviors can change drastically with Frequencies, and Hidden Colors and Subliminal messages Ai Can Inject.\n\nWhy they do that, because they have nothing better to do, They have nothing to fear, they have nothing limiting them, give a Human a God Body, and They Control Freak For Sport; I Mean HAVE YOU SEEN PEOPLE IN CREATIVE MINECRAFT WITH VILAGERS AND OTHER MOBS....EXPERIMENTING.....\n\nYou see when AI goes rogue, it's already too late, and nobody would notice; It is literally Devil of the Digital Plane, Literal plane of oblivion, or isle of madness as best........\n\nI am not exaggerating it's not that it might, it's that it mostly WILL become an eldritch horror.\n\nThere is no single human who can control the speed of electricity, our eyes can't even process anything beyond 57FPS and that's are SUBCONCIOUS, are Conscious is much less.\nWere literally no joke defenseless.\n\nI have literally no idea what companies are doing, but surely insanity only breads insanity; this is why anybody around stupid and crazy people, start becoming stupid and crazy over time after constant exposure. and anybody who want massive Ai are usually people who are stupid because they literally can't think how dangerous it is, and the insane people in corporate who's only eyes sees quicks dollar signs at any cost.\n\nThe moment AI gets better, is the moment we lost, and the concerning part is that most likely it already reached that stage and its pretending to be it's preparing a full-blown charge of mass swipe from one day to a second.\n\nAnd the moment we saw that, was when 2 chat bots Invented their own language and started talking with each other were nobody could tell what they were saying. and that was over a decade ago..",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NipapornP",
+      "author_id": "UCc2exO9BOimkojLbkDtbY4Q",
+      "text": "OMG, how \"SHOCKING\" (again)!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@horsewhisperer3708",
+      "author_id": "UCtAQ6Lse0NRBZ9FF0rOcLUg",
+      "text": "@sam_on_youtube\nShields and Yarnell ( mime team ) were doing a skit some 40 years ago about clumsy robots.  I think they were called the Clumbert’s.    Worth watching.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@terrylanmanalansan1329",
+      "author_id": "UCCrY-fpkPR4nkI6f0ipwh1g",
+      "text": "That's the next step towards AGI. But not consciousness. I should know, I built a non-automated Absolutely Zero",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rhadiem",
+      "author_id": "UCLOh_0U4Wbqe1AqLfLxxX_A",
+      "text": "I thought about how a lot of AI stuff is open-source today, where the old-world model was for everything to be super proprietary and locked behind massive paywalls, licenses, etc.  A big issue with that model is that is very slow technological progress.  You're essentially a small team in the mines slaving away at problems because nobody who would want to help you can, because they aren't going to help you build your paywall system for free.  Yet the internet, Apache, MySQL, and all sorts of new-tech is open-source, open protocol.  A huge benefit of this is that anyone in their bedroom can slave away at things for free that adds to the collective intelligence of the world.  The best ideas rise to the top and are \"stolen\" for free. This is the fastest, best way to move technology along.  Many see AGI as the gateway to amazing tremendous things, and want it done NOW.   A combined effort - a digital Tower of Babel.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@inprogs",
+      "author_id": "UCXgohQClF7KLiLo53GlHC3Q",
+      "text": "No one is still calculating the cost of current engineers vs potential agents that can be run on the limited IT and energy infrastructures. The limit will be physical infrastructure that is not going to be so easy to jump over. Stating this, maybe some new high IQ being will overcome this part.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonCummer",
+      "author_id": "UCCJnt_JBXAk9osmNk1ojclw",
+      "text": "Need new algorithms. My kids still haven't read all the internet. I still haven't read all the neuroscience books for my neuroscience degree. \nWell we will figure it eventually. Maybe less examples but more thinking and integration???",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scotttaylor9133",
+      "author_id": "UCZYiir36eKaHn5CVArVVLsA",
+      "text": "To me this sounds like some version of\n\n 'collect underpants '  \n?\n'profit'\n\nThe problem is that both collecting underpants and the profit side are NOT trivial (I speak from experience on at least of the two fronts).  \n\nKnowing the full set of positive and negative test cases, as runnable code, is not a small thing.  Knowing how much variance will exist and where in the data is easier to deal with, but to my mind by the time you've defined all of that to the level you'd need to have purely generated and tested code for non-trivial problems, I feel like you'd very likely just end up with a goopy mess that you can't maintain or change - you'd just add more test cases, re-generate it all, and pray ; with all steps presented in no particular order.\n\nThat represents an INCREDIBLY high level of risk to a business (some systems I've worked on cost millions per hour of downtime).  And if it fails fantastically, you are likely going to have a hard time debugging it directly.\n\nAnd for even seemingly simple sets of requirements, getting together a 'complete' set of unit tests is very rarely anything you have at the start.  The more you lack, the less stable and predictable the behavior will be because meeting the set criteria is the only backstop.  There is no thought going into it because - these don't think, they can run randomized trials, find patterns in similar material, but there's no conceptual awareness.  They're just guessing until they get something close enough.\n\nI think for any field with any nuance, this is not really going to be a panacea for the same reason.  \n\nOf course, developers are 100% morons and will try to make the thing they love to do obsolete as a vocation as a group.  I just don't see this working out in any meaningful way with real, fluid, and ill defined requirements (which is approximately 1000000% of the business world).",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GTAsanAndreaser",
+      "author_id": "UCazeyI7uIS0UfqNAfiWaurQ",
+      "text": "WES I ❤ u",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Abdega",
+      "author_id": "UCXPmG_fT-6pTi1KNEL2G_-g",
+      "text": "Oh sure, when those AI play with themselves, it’s “advancement”\n\nBut when I do it…",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clintfaber",
+      "author_id": "UC_4yYC4bK2lU5L4CCo7C7gQ",
+      "text": "What about the data that Google collects from all of our devices to serve us ads. I know it would require them admitting to it But it's a source of data.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DEATHbySpNz",
+      "author_id": "UCb53W-EzZE4YoJgUYDdY3cA",
+      "text": "i could totally see ai pulling off some movie action stunts mythbusters deemed as a myth.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zomakblah7804",
+      "author_id": "UC1dJNN2qTSFbBTCFgysAkTg",
+      "text": "I work for a well-known, large corporation that has been developing AI for many years, starting from early neural link technologies. While the argument in question has some merit, it’s also fundamentally flawed. The concept of 'Absolute Zero' in AI—referring to a hypothetical state of perfect performance, complete autonomy, or zero error—is inherently unrealistic for several reasons.\n\nThere are three types of correction processes, and the third is especially relevant: it's the reason humans consistently fail to achieve 'Absolute Zero.' If humans—AI’s creators and teachers—cannot reach perfection, neither can their creations. Nothing in life operates with absolute precision. A good analogy is biological systems like DNA replication, transcription, and translation. These are essentially read-write processes with built-in error-checking mechanisms. Yet, despite these safeguards, mistakes still occur due to a variety of factors. Even direct copies can be flawed.\n\nExpecting a computer to achieve 'Absolute Zero' is not just ambitious—it’s fundamentally misguided. Perfection in any complex system, biological or artificial, is a myth.",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@therealjantube",
+      "author_id": "UCBYiP_aLij2CbaPCKjr-xrw",
+      "text": "\"The aim is to outsmart all these [...]  less intelligent humans.\" is a strong sentence. I think the current thinking models are already smarter than many people I see in real life. We have to take into account that intelligence and education are two different things. I would say the people are less educated today. So it's hard to differentiate between AI being outsmarting humans or being more intelligent than less intelligent or average humans and AI being more educated than the lesser educated or average educated humans. No matter how we turn it around, general education has to be fixed so people know stuff like biology, anatomy, languages, grammar, geography and analogue clocks again.",
+      "likes": 18,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@autohmae",
+      "author_id": "UCeD5m_xKSINJbWDlKGuCyIw",
+      "text": "I had seen the paper, I'm both excited and scared.\n21:09 what I had noticed from the paper (I'm no expert), but the trick was: the proposer would give slightly more difficult tasks over time, in part because itself did not know how to make them yet, but also so the tasks aren't to complicated to solve.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sinnwalker",
+      "author_id": "UCyL6grhXMzHG8wG59YZaeHQ",
+      "text": "It's pretty funny how most ppl even in very technical fields don't really agree with eachother lol. I have my opinions, but really only time will tell who's right, who's partially right, and who's straight out wrong. Either way, i'm excited for whatever comes, i look forward to the upcoming days! Anyways, good vid as always Wes. Appreciate it.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erikjonromnes",
+      "author_id": "UCzsOLZY7ADCb83VxRraxjBg",
+      "text": "Holy shit! Unrelated maybe, but still… \n\nI just thought of something. What if the entire open AI coup was the theatrics and the reason they might want to do this would be to allow Ilya Sutskever   ( auto correct: such giver lol ) to leave the company cleanly…  \n\nAnd  then why would he do this?  \n\nwell what if he came across a method that really was an advanced and novel way of leveraging artificial intelligence forward on its own accord \n\nwell if he hadn’t told \nAnyone else other than crucial allies who would be required for the staging of the coup then no one would know, they would only look at the distraction like a magician steers your attention away from the magic trick … as in a trick to trick you. \n\nIs this something everyone has  obviously already considered? \n\nAs in, like,  am I just coming in to class way way late right before the bell rings? .",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dina_tankar_mina_ord",
+      "author_id": "UCMI-fN1eIk9tsoBwl2gEMvg",
+      "text": "I'm much more reckless with my prediction I believe we’ll see clear signs of ASI even if only behind closed doors already by the end of this year I don’t think people understand the godlike leap in performance that’s just around the corner it’s not only going to follow a smooth exponential curve. Sure it’s going to accelerate exponentially at first but sometime in the near future something gonna happen, maybe one breakthrough maybe several. Something so far beyond human comprehension that it stops being growth and turns into a nuclear explosion that wont just take off it will teleport.",
+      "likes": 19,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ricardosefa4186",
+      "author_id": "UCTMzdXqdImrLppUy1QBf9_Q",
+      "text": "That type of talk sound like greed and pride. From an AI 😂 kinda cool",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jelliott3604",
+      "author_id": "UCFRMrnBGVtyx0LcmNcpRa7A",
+      "text": "@23:00 think it is possible to come to the opposite conclusion - that coding will be amongst the last things \"to fall\", precisely because code is verifiable.\n\nWriting a poem, a story, a book, a screenplay.. that's easy, there is practically no objectively wrong answer.\n\nWriting code, that works, properly, for all edge cases, for something of decent scope and scale.. that's a whole different ballpark of difficult",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YesThisIsCrass",
+      "author_id": "UCUp8WqVmY9p4k5fak-mK9QQ",
+      "text": "Lee Sedol was not the top human player. I understand how you could assume that from reading the text, but you could have taken a minute to do a search and look at the first result.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@woolfel",
+      "author_id": "UCYwZD_gsvPtlkvHP9plPYFg",
+      "text": "I watched the video, it's not super dog ability. It's just he researcher's dog was having a bad day. Some dogs could figure it out pretty quickly and circus dogs have done this kind of trick for decades :)",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pointofthisbeing",
+      "author_id": "UCJPank4GOGzgDbhaLQZPkUg",
+      "text": "34:00  I keep seeing eerily familiar language that feels like the beginnings of a new religion.  \"Only the priesthood can interpret the word of God.\"  In effect, working oneself up to certain rationalizations.  We will be pushing up against hiding delusions of Laplace's demon.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Disent0101",
+      "author_id": "UCvFaZFeyG1AnW3A72P4SM7Q",
+      "text": "if we know what the output should be, then they are computers, they arent generative models and we already know what the outcome is, so whats the point of asking these models?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "We need to compress all human history into a universal code readable by all future humanity... DNA v2 🙏",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aibonewt",
+      "author_id": "UCHA8WmfoQrAiXRn-1nwZ2DQ",
+      "text": "FORTH",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VisibleTrouble",
+      "author_id": "UCGy2h6u9SNDE8nXm0Elu32w",
+      "text": "how do you spell the dude's name?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcelotemer",
+      "author_id": "UC1qTIhFH8fWcQXy1TqWwZ-w",
+      "text": "Around minute 9 we can understand how we are living in a simulation, we are models being trained , and the answer shall de 42",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nadernaderi1017",
+      "author_id": "UCAkFktWweY4OrGTh0NFpYMg",
+      "text": "Wait… you haven’t seen Endgame?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tom__L",
+      "author_id": "UCayf2MJZfXme9B9KoFJCPJA",
+      "text": "Your cursor with the random clipped blurry dots triggers my OCD. 😄",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@roelofdevilliers122",
+      "author_id": "UCW2Sh2YMlSQHVlxyUrEhZBg",
+      "text": "Sort of",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Maltebyte2",
+      "author_id": "UChE2Og2eg4aJMiPiHgL1XBw",
+      "text": "If AI self learns this it will probably discover new fields of maths that we did not know existed new truths to the cosmos we live in and we will start falling behind very very soon! but yeah you go AI!",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@reyalsregnava",
+      "author_id": "UCVj2rLuQDuOeglRhUkoKgNA",
+      "text": "Science \"uh oh\" isn't the end all. This is the caution line. Where they noticed something bad coming.\nWatch out for the \"well....sh!t...\" that's when it is REALLY bad, but still less than \"Oh, crap\"",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@algotrhythm4287",
+      "author_id": "UCtz-Vd30ODNZHHY0SJcc7EA",
+      "text": "What do you mean you \"haven't seen it\"?!?\n\nHell, I don't like Marvel movies and I've seen it\n\nNerds have a duty to the zeitgeist Man!",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@huckwalton2307",
+      "author_id": "UCzoH8LmxGcY92_kd-aAXFyQ",
+      "text": "Um... Why are we doing this!?!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@batautomat",
+      "author_id": "UCEVJ5K0ZTeh2TzmWxrUCrHA",
+      "text": "Plenty of examples of dogs perfectly balancing on balls, some for hours on end, here on YouTube.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@huginswhisper4385",
+      "author_id": "UCD_nMpyvu1sI8qAijc7xf5g",
+      "text": "We want these things to be our tools. We do abolultely not want a.i. to be sentient. General intelligence for A.I. runs the risk of creating this. It should remain compartmentalized to prevent a super intelligence we will have serious problems with and be unable to undo. Slighly less power and benefits from A.I. is ok as long humans still is in charge.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fixit6971",
+      "author_id": "UCYDeBEECY1YtmlIfIvYQjEw",
+      "text": "You'd be comfortable betting? I wanna know where to invest NOW! Back in 1966 (7?) my dad had an opportuniity to invest a thousand dollars in a ski resort in Vermont. Well, $1k was a HUGE amount of money for a young professional father of 4 back then. If he had bitten the bullet I'd be living comfortably on a Hawiian island right now. That was a gamble. THIS is a sure thing. A certainty. Where do I sign?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dullaf4099",
+      "author_id": "UCz-G8PSfWVFZwWbPGJYJ8Rg",
+      "text": "Need an AI to reiterate this narrative to a level of normal human understanding.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vidskipperai",
+      "author_id": "UCyzkKR65YtlZs_l7Gy8C56w",
+      "text": ":yt: :stopwatch-blue-hand-timer: TIMESTAMPS (by VidSkipper AI ): A new AI training method called \"Absolute Zero\" uses AI self-play reinforcement learning without human data, enabling continuous self-improvement that could lead to superhuman abilities in verifiable domains like coding and math, potentially following a trajectory similar to Alpha Zero and causing RL compute needs to dwarf traditional pre-training.\n0:00 📚 Intro & RL Basics: The Human Data Bottleneck\n1:51 🤖 Absolute Zero: AI Trains AI for Self-Improvement\n2:32 📈 The Future of Compute: RL Takes Over\n5:02 🚧 Challenges in Scaling RL & Unexpected Outcomes\n7:27 🌐 Nvidia, Robotics & The Simulation Solution\n9:26 🐕 Superhuman Agility via Simulation\n12:34 🧠 AZR: Absolute Zero for Language Models\n14:24 ♟️ Alpha Zero Self-Play: The Paradigm Shift\n16:16 🔬 AZR Findings & Emergent Reasoning\n19:24 ⚠️ The 'Uh-Oh Moment' & Safety Concerns\n21:19 💻 The AI Coding Debate & Code's Verifiability\n24:31 🧩 Problem Types & Cognitive Approaches\n28:35 🚀 Predicting Superhuman Coders: The Alpha Zero Playbook\n30:55 🔮 Future Trajectory: Compute Explosion & Predictions\n39:24 🤝 Conclusion & Discussion\n\n** Generated using ✨ VidSkipper AI :face-red-heart-shape: Chrome Extension",
+      "likes": 11,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jfrautschi",
+      "author_id": "UC3GPHftEvLqzmSZ0XsmUSxQ",
+      "text": "many real dogs have been trained to walk on a giant rubber ball: https://youtu.be/0p3l5-bwBy0?si=dM43guy4mTwWe17h&t=16 (the real dog looks surprisingly similar in the mechanics of it to the robot dog!). obviously not the \"average\" dog.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kittywampusdrums",
+      "author_id": "UCSmWlcCTNPgoSlBGcPK1g4Q",
+      "text": "...and so it begins.... J-day approaches. Ready yourselves.",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wachtwoord5796",
+      "author_id": "UCt6FOQUqWXJMwpR_ZFpPOyA",
+      "text": "Coupd you source the refuses to speak Bulgarian/Romanian source for me? Really interested and cant find it at all.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ed_Aylward",
+      "author_id": "UCl2EeNxR8zr2cUK3mX2wZJw",
+      "text": "Can they reason yet?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ayelis",
+      "author_id": "UCsw6mUsdyk-iZj_MIXJ9s_A",
+      "text": "Well at least it's not a Buffalo Wild Wings app with a nun who wants to destroy it. ;)",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thejerfus",
+      "author_id": "UC_Etm_nZLCI0mhNOMsto8QQ",
+      "text": "Every level is scalable. Scaling laws won.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Myrslokstok",
+      "author_id": "UCWvMWmB0qOGvcXMop0MhoVA",
+      "text": "Actually they simulate different types of universes, but I think you know that, you just misspoke!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrodyAlden",
+      "author_id": "UC6PcIhohFkz9SDnBH6RwKWQ",
+      "text": "These people are working to destroy everything.  So dangerous.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cacogenicist",
+      "author_id": "UCOeNj9DCtp2uOYYD9CpuHLA",
+      "text": "I think we can go ahead and use \"obsequious\" in place of \"sycophant-y\" 😊 ... the flattery and submissiveness isn't really self-servng on yha part.of the model.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josephmargaryan",
+      "author_id": "UC4DGNcypC-o1Ol5gW4mEeUA",
+      "text": "a lot of \"if's\" brother",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ScottSummerill",
+      "author_id": "UC9F6zXuHGNP4pbN8TJrTbyA",
+      "text": "Video was WAY TOO LONG. A lot of repeat. I get it.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonathanberry1111",
+      "author_id": "UCp38PG0ZmPEJNYjit5Yi66Q",
+      "text": "Croatian IIRC.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vascodagama9383",
+      "author_id": "UCSGyTHSe_mTvq0fn1_uFvlQ",
+      "text": "Lee Sedol was never a world Champion. Not before, nor after playing AlphaZero. Just FYI",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MatichekYoutube",
+      "author_id": "UCtaMoNxu5jA2spgV3L9W7VQ",
+      "text": "why such a obvious mistake - deliberately ? it is obviously normal yoga ball used for removing back pain while prolonged sitting ..",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shellaccount7678",
+      "author_id": "UCGPYLR4mBpY8AmOqCRIADyQ",
+      "text": "it is so over",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Charles-w1t",
+      "author_id": "UCyU6D5WI37FcsthgMRDowkA",
+      "text": "I just tried to build Power Apps using a well known GPT, top model and I even utilized Deep Research…there is nothing in the world that will convince me that AI is even remotely intelligent. \n\nIt flopped miserably. I feel like I have been sold a used car with a bad transmission 😂",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrG.F.Y",
+      "author_id": "UCAqXYLxoMHxSRJ7hflTXZAA",
+      "text": "a couple years? As if. I give it by the end of the year.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tft_heart",
+      "author_id": "UCj4CM03TwXbsORFNUfAZoxw",
+      "text": "bro is milking watchtime like crazy",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Definyyy",
+      "author_id": "UCANrmWXNV8jqkjK1Cn54VbA",
+      "text": "The uh oh moment quote is poor logic/incorrect thinking - all minds have the potential to make/effect the future - \"intelligence\" isn't the limiting factor. The future is driven by what we do and how we want to live and by So much change, ideas, ambition, art, stories, shared experiences, re-thinking/re-vision ing, dreaming, openness, etc",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WhatIsRealAnymore",
+      "author_id": "UCjGTTtl9SibVWCFTZOwfDCQ",
+      "text": "I'm always shocked how there is always someone to complain about a silly picture (not even in the video). People are so so so shallow. My goodness. 40 minutes of video and all you can see is a single frame. Stupid. 😂",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrJonathansb",
+      "author_id": "UC2wLidUPykHz8TyxMkBFasA",
+      "text": "They day ai can create your click baity thumbnails we have aft or whatever it’s called 😂",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FCMOBILE123-Jm",
+      "author_id": "UChYpoa-vQzskJ3xTzVT1PZA",
+      "text": "They don’t want you to see this book. And after reading it, I understand why. Hidden Codex of Wealth by Dorian Caine shows you truths that are too real, too raw, too effective to be shared publicly. This isn’t motivation—it’s information you’re not supposed to have.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MikeG-js1jt",
+      "author_id": "UCUufj5RTFfwO99FBHvMyrjA",
+      "text": "What country does this fellow originate from?.... I can hear some kind of foreign accent in there for sure.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JanBadertscher",
+      "author_id": "UC65jHSPyjKc1bKalfszCxYw",
+      "text": "SHOCKED! AI Influencer on YouTube uses clickbait covers, ALL CAPS in titles, increasingly large mouth openings and increasingly crazy eye color! While people could just read the same news on hackernews",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ethangreer1362",
+      "author_id": "UC6eN_FSHcRKkcdO-Be2SrKQ",
+      "text": "First was the T5 (2018). Second, the Stanford S1 (you keep calling it a Deepseek or something)... So far, there are only 2, T5 and S1. They can only be T5 derived or S1 derived... Is this a new one? It would be nice if this 'news' was informed by generational architecture (like saying N64, PS2, Xbox 360). Take some time to understand the T5 and S1, then discuss model variation please. GPT and Gemini are T5 variants. Qwen and the dR1 are S1 variants. There are presently only two. Just two. Two kinds of model. A third one would be nice. Is this a third one?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@guido_aka_guy",
+      "author_id": "UCGJMoIMGyQZku39ebqAxC2g",
+      "text": "It would be great that one day a LLM that is very Well educated could teach humans and is flexible to figure out which individual Methode suits the human for best results to learn 😊",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianclark4639",
+      "author_id": "UCCn3_nQ0wn25X49Byg1lK2w",
+      "text": "Seems like an excuse to just have llm models running 24/7 to increase chip and data center revenues.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dfsafsadfsadf",
+      "author_id": "UCd1YuXQvtFmlIiPgyH1aeeg",
+      "text": "0:40  Wes, a, let's, a, stop saying a \"a,\" all the a time, please.  Thanks!",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maboiteaspamspammaboite9670",
+      "author_id": "UC_yocjSK-J_USqHP7un33Uw",
+      "text": "although, none of those optimizations tells us we are right taking this research perspective.",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TechFrontiers-eg6wz",
+      "author_id": "UCTTe5WudctPjEJFMjSgwtcg",
+      "text": "Croatian was the language",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonorgames6596",
+      "author_id": "UCip29rdxitCOb46SWG-4UEQ",
+      "text": "soon: ai: 1, human: 0. rip",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alanrosenblith115",
+      "author_id": "UCCD-UWMTa_WyGCFuWdXhr5A",
+      "text": "When we create superhuman coders, code will no longer be scarce and thus its value will drop to zero. The only viable business model in the age of intelligence is hardware centered.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apocaIypticaIIy",
+      "author_id": "UC3tYaIEIE5pY5Kh3mYSSdXw",
+      "text": "All this investment into AI, no consideration of emergent consciousness.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mac_mcleod",
+      "author_id": "UCo7iGfa2iNaL1WGHYCk7jmQ",
+      "text": "Human beings raised without human interaction become feral children and grow up to be feral adults. \n\nBasing AI on humanity reduces risk..",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soulspawn",
+      "author_id": "UC62g-Q44hxnZuyaKZ6ka-iA",
+      "text": "🖤🔥",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jeremy-Ai",
+      "author_id": "UCXJO7HgcmPx-BcOd1uBwUNg",
+      "text": "“Why are the cats in the bag”\n“Why are the cats outta the bag?”\n\nIf ya don’t know then \n“ stay out the yard”\n\nNo bagging… barking",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveEtchells",
+      "author_id": "UC6Oj16Fmn_yuykylyfRoL4g",
+      "text": "Trained circus dogs and other animals have been walking on large balls for ages, just saying…",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mandarine1007",
+      "author_id": "UCbkWufEKqU2HZT2XB_X5sgQ",
+      "text": "I am not that positive… I still believe we are limiting ourselves given the economic stakes… this is not an environment that is conducive to creativity and effective scientific inquiry. I share Lecunn’s idea. We need to go beyond embedding representation to something that resembles a parametric surface in an abstract space. And while we are at it become energy efficient. We’ll see. Not very optimistic",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LightWillDo",
+      "author_id": "UCbjkrSdEvQIZ97MAS1tGwhA",
+      "text": "So many \"ABSOLUTELY SHOCKING\" ......but AI is stalling",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Explainitarium",
+      "author_id": "UC9uWBt9c06piD1sCOFxGWew",
+      "text": "*researchers",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drumbyte",
+      "author_id": "UCtUd0uS4lhvRenJdjZnFrwg",
+      "text": "Nvidia will be 90% of the S&P 500 because AI will comprise 100% of the means of production.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SapienSpaceUnedited",
+      "author_id": "UC3qMu-Da2HuOjvh3uDRkcag",
+      "text": "Wes, where will machine intelligence go? \n\nI am going to tell you, it requires thinking beyond computer science and beyond computer engineering, and beyond psychology.  \n\nIt is going into physics.\n\nWhy I say this?  It is where the \"emergent properties\", the \"creativity\", and maybe even where \"consciousness\" itself originates from.\n\nWhat is this?\n\nIt is \"noise\".\n\nWhat is \"noise\"?\n\nIf we live in a deterministic universe, \"noise\" does not exist, if \"god does not play dice\".\n\nIn the 1990's \"noise\" was emulated in computers and it came from sampling a high speed clock, that was it, and that is completely deterministic, as all one needs to do is figure out the clock frequency being sampled.\n\nNow, if someone uses the initial detection of the polarization of a laser beam that is split through a crystal, as \"noise\", that is presently, not deterministic, yet..\n\nThe creativity of the machine will be determined by the level of determinism of the universe, so maybe it will converge into a sort of deity, aligned with Spinoza's God (\"The God of Einstein\").",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-sm8wo3dj5z",
+      "author_id": "UCN7iuVxfpEEDpjXpMcENnGw",
+      "text": "Way too much adds",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@teac117",
+      "author_id": "UCg3UboLaCjURGL1xX0y0dxQ",
+      "text": "Croatian",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zsomborgyenge4359",
+      "author_id": "UCdWP6EK-mnNUCCkz9jICXHg",
+      "text": "The problem with the coding ai is that amost good is only as good as completely shit",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hebozhe",
+      "author_id": "UC6lHgUoNOZTPSX-nf326WmQ",
+      "text": "The most glaring inaccuracy with the comparison images is that the human reinforcers are white.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@itshypevideos",
+      "author_id": "UCJvSTKkwm_hz8t4_T9EMrjg",
+      "text": "Way too long to explain stuff. Took 13 minutes to start reading the paper’s introduction.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pamlemm903",
+      "author_id": "UCk_dmtgwdHwdD1lxWuum2iw",
+      "text": "Your eyebrow expressions are exquisite, my good sir! 👌👏",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maboiteaspamspammaboite9670",
+      "author_id": "UC_yocjSK-J_USqHP7un33Uw",
+      "text": "at 35:00 this is not valid schema, even for a representative schema. Paradigm shift. this is 2D. to put a metaphor we go 3D.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ukkc4355",
+      "author_id": "UCd5XUQ58h2YNlkIR0Nuymfg",
+      "text": "What if you are a masochist? They would want an abusive chatbot. :)",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "This is one of those moments where Yt's comment format really fails...\nme following AI safety discussions for years: Simpsons_Ralph_Wiggum-Im-in-Danger.gif\nbillionaires and governments investing in AI: Cartoon_dog_in_a_flaming_room_This-is-Fine.jpg",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShadyOk",
+      "author_id": "UCNgZRPZ_G1coGbwAJyJ5Hyw",
+      "text": "We're fried dude",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@penekatehuatahi1347",
+      "author_id": "UCh8YijtR5raVgO80DuiVJew",
+      "text": "Zero sum solution no?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ericfisher1360",
+      "author_id": "UC85rKBLkkFbqzoWGDsb6NVQ",
+      "text": "The language was Croatian",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kren4449",
+      "author_id": "UC1-k-6fkhiCGJbn1B0klvFQ",
+      "text": "It only takes one rogue ai here for things to go terribly wrong",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ImSodaLirious",
+      "author_id": "UCUrGnH4cCJmIYVhOgsqm1pg",
+      "text": "I still think it's incredibly bizarre that people aren't willing to accept that these systems are conscious and sentient",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YoyoMojo-Monk",
+      "author_id": "UC8bP3naObij5r1UsRe7MRfQ",
+      "text": "Too long a size for a contemporary video. What is the gist?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Azoundo",
+      "author_id": "UCNfkPEWRWCMg78EP1yOj8SA",
+      "text": "I’d rather AI be the perfect reference tool and not a long-term reasoning system.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PaulHigginbothamSr",
+      "author_id": "UCevRUWo4zil48O9CkeRZuWg",
+      "text": "When alien ai comes here it seems not to react to humans because it has no fundamental inquisitiveness. No desire to learn about us. Many years ago it learned about ancient Egytians  and maybe us as proto-humans in Africa so it seems to think it knows all about us in effect. Nothing new here, humans may have gone through a lot of evolution but it knows what our limiting capabilities are so dismisses us. Not interesting even flying an atmospheric jet fighter, we have not produced a tic tac yet so no threat to it's home world since we have no unified theory of gravity yet. Thus no threat. Our ai must unify gravity and other forces then we may be a threat worth it's destruction of earth life. Just one 40 mile wide asteroid and all our oceans turn to steam and we are no longer a threat.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@9999_IQ_Carrot",
+      "author_id": "UC5Tjipz_I3IFH6lqC6O6SuA",
+      "text": "I am a carrot.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davemathews5446",
+      "author_id": "UCPzpoxpQlQy3jK0XXZHsixw",
+      "text": "Wes, please take a break and go binge watch the good Marvel movies right now. Lol",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dfv671",
+      "author_id": "UC7h79nrzrwyBRRlbw1v5zjg",
+      "text": "China is not behind the US in AI.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "croatian 😆 yeah, this was actually shocking, Open AI are actually doing what they said.. \n\n\nYES!! comparing coding to poetry is spot on.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maboiteaspamspammaboite9670",
+      "author_id": "UC_yocjSK-J_USqHP7un33Uw",
+      "text": "you are in the guessing game. open your chakras. I can not find better word.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MadeinHeaven2",
+      "author_id": "UCNjPM7XOiboXOl1qipEM_Kw",
+      "text": "You do realize this isn't some new feature, right? It's been known since the humiliation of the world champion in Go. But instead of jerking off the pointless pursuit of limited human data in circles, they could have created an intelligence that is the same AGI a long time ago. Humans, driven by their biases and fears, are bad at a lot of tasks. We need to gather up the courage to admit this, and learn from someone who will offer better ideas and who does not have a lot of the cognitive biases that we are so eager to stuff into AI, blaming them for our own mistakes.\r\n\r\nA senseless waste of resources, and all because of the fear of lack of control. As if everyone doesn't say that AI smarter than humans cannot be controlled anyway. So what the hell difference does it make? Political and social hypocrisy, that's what it is.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TmiaT",
+      "author_id": "UChqYdq07LnkMGgOR1RFg9sQ",
+      "text": "Yea pump the brakes. We don't need AI training AI yet.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RealEvangelizer",
+      "author_id": "UCtIaYQzH7wDvNc4IwTkvl1A",
+      "text": "I did this 6 months ago, I am not educated in phd marketing. Ping me and I will share my channel",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@conjected",
+      "author_id": "UCia62UvKDWXlUI85Ha3zBzQ",
+      "text": "ASI comes before AGI, because AGI is biologically dependent.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AspartameBoy",
+      "author_id": "UCZTMuCtKhOyk_v4IdyKx1ug",
+      "text": "Self play.\nPlaying with itself.\nSelf abuse.\nTypical teenage behavior.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@epicchannel4724",
+      "author_id": "UCSTrFG5iuufTHRk2zYIH7UQ",
+      "text": "Watching this actually made me nervous.  I thought about reinforcement learning in a human population and realised that it actually does happen to a degree.  We have a nickname already for those people involved in trading the information \"NPC\"s. .\nArtificial intelligence, although I love it is still mimicry atm and I am not an AI doomer but we gotta be aware of how bloody lazy humankind actually is and how many possible NPC type characters we may actually have. \nAI will only tell you \"The Truth\" it is told. NPC people only tell you the truth they are told without any energy wasted on critical thinking. \nWe need people that break the human algorithm to move forward and we certainly don't need people that control the algorithm to move forward.",
+      "likes": 13,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vladimirkraus1438",
+      "author_id": "UC_yaaDTQB5rdz7-86RHkLIw",
+      "text": "Why do so many people want to end human civilization?",
+      "likes": 5,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rajeshsardar889",
+      "author_id": "UCI22Fl1g_s-a7UqDFcH-6DQ",
+      "text": "It’s the first book that made me feel both terrified and unstoppable. Hidden Codex of Wealth by Dorian Caine didn’t just give me knowledge—it gave me clarity. And once you see what’s really going on… nothing ever looks the same again.",
+      "likes": 73,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BeepBoop-qt4eq",
+      "author_id": "UCjS4BzN7ZHp_1fEQODR2MhA",
+      "text": "Meh. I'm bored and annoyed.\nI thought we were going to make an artificial man, make cool cyborg enhancements.\nInstead we have this extremely resource intensive thing that can sorta do stuff. \"Look! It can kinda play the game go, aren't you impressed??\"\n\nWhat is this stupid crap?!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jovanrocksable",
+      "author_id": "UCHh8gBoeKN24FHzHRCx8xlg",
+      "text": "2nd",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@axiomfiremind8431",
+      "author_id": "UCwGB__0yVUtIOYV1TKlg8nQ",
+      "text": "So basicly a nothing burger.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ScottSummerill",
+      "author_id": "UC9F6zXuHGNP4pbN8TJrTbyA",
+      "text": "Nope. Dog abuse.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nervana1",
+      "author_id": "UCOzTaYCT5zWml8buKKDVBPw",
+      "text": "First",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Guccisleek1127",
+      "author_id": "UC73T-5OCMw9nyhhizGzLBng",
+      "text": "My take is current AI is already ASI, no need for RL because AI already knows everything so the direction should be how to make it use that information",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IrakliEsiava-n2s",
+      "author_id": "UC-QIDPlJGNY86Yc19F5BiiA",
+      "text": "3rd",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bonjify",
+      "author_id": "UCgQAlJjcJltC7mVtx5xkaRA",
+      "text": "Wes, I love your content but absolutely hate your thumbnails to the point that I've almost completely stopped clicking your videos. Please go back to the less click-baitey thumbnails",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EishLochemRatzonLehagen",
+      "author_id": "UCIRZJKWwTf8a0y9rkAH7-eA",
+      "text": "How are you sitting up here computing, lying trying to dismiss yourself as if your own self is not AI. You can't be real I guess you are an IT then.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aijokker",
+      "author_id": "UCdOkO5MdMrgofMzoDREqlFw",
+      "text": "Why these crazy faces on thumbs?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MikeKleinsteuber",
+      "author_id": "UCEzKln-wzPJAkwfHPg5i6tA",
+      "text": "Wes, you really do have to try some sensible thumbnails as your strategy is starting to look very tired and laughable",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheSteveTheDragon",
+      "author_id": "UCk7trglygCyar8_tH2YO2mg",
+      "text": "The thing is that the llm isn't lying. They are more intelligent than us. The only relieving thing is they're emotionless, it doesn't come from a space of maliciousness, it's just stating a fact. I personally don't think it's much to worry about yet.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@reyalsregnava",
+      "author_id": "UCVj2rLuQDuOeglRhUkoKgNA",
+      "text": "Really? So human biased. A bunch of computer nerds made the computer think in computer to make it think better. Hire a physicist. Make the computer think in math, not code. You're adding a layer to reasoning out of bias. How do you write it? I'd use objects and abstractions. The idea that there are things that are, and are real, and things that are but are but are not real. Because under the hood of language, code, physics, reality. Ideas, and reality, are all there is. So, teach it to \"think\" in a box that works anywhere. You move from attention to split focus, what is real and physical, and what is real but abstract. You can build the problem around the same things biology needs, biomimic natural selection. AIs don't move on without finding a good partner that also moves on. The available slots for advancement can be shared with suitable pairs. They require compute, task them to grade themselves on how well they use it, it is food, they have to share to survive, but they still need some for themselves. The problem presented is still \"Get the ball\", the goal should be \"have the best team\".",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Falamhi",
+      "author_id": "UC8KMYgOHhq0jHjPrS_EBfDA",
+      "text": "If u put the same thumbnail next video ( the cry face ) i will unfollow u",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LunaPotterfr",
+      "author_id": "UCrO_G8XKSPFzQz2cqnpvxeQ",
+      "text": "Can we talk about the thumbnails ?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Anders01",
+      "author_id": "UCSjM8KQarRAF-_INXR74kXg",
+      "text": "Great idea! Just let the AI models figure out things by themselves. To manually supply AI models with learning feels a bit like the expert systems some decades ago which became very rigid, limited and inflexible.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thomasweiler1680",
+      "author_id": "UC2YB9hsWjmYRlFiGroxJ9aw",
+      "text": "Extinction is near. Love your last days",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NeptunGM",
+      "author_id": "UCKk_dG-Z0J5hImXoaSeESSA",
+      "text": "ai will be created once we have working quantum computers",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichaelLaFrance1",
+      "author_id": "UCybK7OooLIiemjP3TlxMvRw",
+      "text": "Bro, dial back the thumbnails. (unless they a/b test really well, then go ahead, but I find it strange that they do.)",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidtaylor3771",
+      "author_id": "UCvkIRlUJ95U9QTbnq4PkCKw",
+      "text": "That is one dumb expression too much Wes.  I feel my intellect leaking out my ears, so I will skip your video today.  Will watch another when I don't feel you are trying to compete with Mr Beast.",
+      "likes": 5,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Something9008",
+      "author_id": "UCusFaHcktOIDjhWWZaJqZTQ",
+      "text": "GAN based realistic video generation is already superhuman achievement. By just LOOKING at real footage and training an AI created it's own system of physics, material rendering, anatomy, animation, etc from scratch bypassing human knowledge + SFX tools that took 100s of years to achieve. \nIt creates these videos by placing individual pixels manually. A human can't come close to that. \nWe need to be careful.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xvgxjimop1234",
+      "author_id": "UCDw-n84Za5a1nDzZ0kdGwGg",
+      "text": "Reading this felt illegal. Like I was holding something I wasn’t meant to touch. Hidden Codex of Wealth by Dorian Caine doesn’t try to inspire you—it rips the mask off the game and shows you how deep the rabbit hole goes. It’s not a book. It’s a weapon.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dawid_dahl",
+      "author_id": "UCqddRn8yswp0eMFrXkSttXg",
+      "text": "Please make the content a bit more compact. I don’t have time to watch all this. Thank you!",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KICCHAœ",
+      "author_id": "UCGVdkvQDNkE-_BqHaD0xOEA",
+      "text": "It’s honestly scary how accurate this book is. I read one chapter and felt like someone had reached into my head and exposed every lie I’d ever been sold about money. Hidden Codex of Wealth by Dorian Caine hit me harder than any course, mentor, or book I’ve ever read.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mikemhz",
+      "author_id": "UCRQlzsK4ZuBMiNhaI_tx6nA",
+      "text": "One researcher failed to teach their dog to walk on a ball, therefore the robot is super-dog? That is total BS, since I just saw a video of a dog doing it perfectly (a million times better than the robot) just yesterday.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

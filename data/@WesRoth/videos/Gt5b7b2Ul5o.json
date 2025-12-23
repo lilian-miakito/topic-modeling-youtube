@@ -1,0 +1,873 @@
+{
+  "video_id": "Gt5b7b2Ul5o",
+  "title": "$600 Billion AI Wave... software 3.0",
+  "url": "https://www.youtube.com/watch?v=Gt5b7b2Ul5o",
+  "comment_count": 96,
+  "comments": [
+    {
+      "author": "@ryantigi2583",
+      "author_id": "UCLnGJFUirBtQ5QRq1eIpRRg",
+      "text": "Very insightful video, I remember Andrej covering something similar in his video \"Intro to LLM's\". He referred to the new age of systems as LLM OS, but after this video, it seems he was referring to Software 3.0.  Especially after seeing new frameworks like Agent Zero that allow for an agent to basically build out anything it needs, solve errors it encounters, It can delegate tasks to other agent instances, it has access to tools etc.",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "check out the game Screeps, it's a game designed to teach Java Script, but because the community has documented everything for years, Chat GPT can just code it amazingly well right out of the box",
+      "likes": 17,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@meandego",
+      "author_id": "UCy2w3lX8Fe-pO5HEFivueZg",
+      "text": "Zuck looks like Merry Poppins after hard night drinking.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MadaTangdilallo",
+      "author_id": "UCWjzDlcpDEjfb_rs8k8L0fQ",
+      "text": "tidak akan pergi Not Never",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phy6geniuxYTcreations",
+      "author_id": "UC67Z6So_TEfvA-sh9vQKmWw",
+      "text": "I did not expect the Factorio at the end of the video Hahaha\nNice one, Wes Roth!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@the_undefeated_internet",
+      "author_id": "UCuTSfn29GIcU5-YclZ6U52g",
+      "text": "5:56 You wondered if anyone would catch the Speed reference. I did, hotshot.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GerwaldJensRadsma",
+      "author_id": "UCjiqrC5Rn8evAVK-4ES3hkw",
+      "text": "Love your philosophical takes! Do you think it will be more procedural generated? Software does not have to go away.. We need a workbench (comadore amiga reverence) for certain tasks right.. A photoshop 3.0 (or 2.0 for we are still stuck in a program from 1990)  we will give a command and the really small procedural agents do this tasks.. We will guide them.. Little bit to the left or right give guidance, but then it will be more like clay.. But the workbench still needed right? Not all is abstract thinking in words...\n\n\nLove your work... respect!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnvanderpol2",
+      "author_id": "UCVx8xs86yRK3jxvaRlYvtoQ",
+      "text": "My kids are already doing that ;)",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-yx3wk7tc2t",
+      "author_id": "UCB0heAG1OFQLbjc8kWoeYqA",
+      "text": "2:35 Hebbian learning (neurons that fire together, wire together) isn't much used for current artificial intelligence. Instead, so-called backpropagation is the predominant algorithm for training AI. For an overview, see Figure 1 in \"Backpropagation and the brain\" by Geoffrey Hinton and coauthors.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@allmektighetable",
+      "author_id": "UCq9mHZaNwah30bvP7zvP8zA",
+      "text": "Awesome channel dude! Thank you 🙏🏻 #respek",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PompeyCoder",
+      "author_id": "UCnM2PU8qgsANQLk4tWbYtVQ",
+      "text": "Thought provoking.  Thank you.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Urgelt",
+      "author_id": "UCyQyiww8IiefV8ZK_3npV4w",
+      "text": "Not sure Software 3.0 will be big models training small models.\n\nI mean, yes. We will see a lot of that. But i don't see it as a step change up from 2.0, as 2.0 was a step change from 1.0.\n\nKarpathy himself warned about the diminishment of model effectiveness when overwriting, or abstracting from, model weights. If you want a better model, you retrain it with new data and old data. Get weights right for the whole enchilada.\n\nIf you abstract a smaller model from a larger one, will there be a bias towards the mean? A lesser field of competence?\n\nI dunno.\n\nI've been thinking instead of 3.0 as self-improving, self-actualizing, self-optimizing models. Q-Star, perhaps. A little furthur down that path is AGI.\n\nI don't think this two-tiered model development idea is on that path. But maybe I'm wrong?",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisbraeuer9476",
+      "author_id": "UCUi-uS_iV6t7ciHz_VKhN4A",
+      "text": "This is absolutely insane. End of the year this bubble will burst.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elsah3339",
+      "author_id": "UC82ix4N8CFyb5cwZ8INhycQ",
+      "text": "Yea, I agree with the other posts, I love Wes’s videos but sometimes I get hung up on how long they are. Maybe he needs to hire an editor to help? I’d be curious what would happen if he took his own transcript as a rough draft and put it into ai to make it more succinct, then edit as necessary following that. I bet the results would be amazing.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PullHardSkiFast",
+      "author_id": "UCrTl_um8PaLI0-LfLYVaHbA",
+      "text": "This will be much bigger than any other business wave.   The crazy thing is the foundations are here.  People just don’t know how to use them.  As a consultant and university educator, I tell people- the world has already moved your cheese, you just don’t know it!   Scary for many.  Exciting for some.  Well done!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rkaid7",
+      "author_id": "UCnhvZPZAQbe15mK4fMOXlSw",
+      "text": "19:25 - what hole do I live in!? Iv been waiting for someone to agentise Factorio this entire time! Thanks for the heads up! ❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TonyRodriguez-Trod312",
+      "author_id": "UCskdkRH8pza-YcZWFDiul5Q",
+      "text": "Thank you for such increible information and explanation and I share your thoughts about the future, my opinion would be even bigger that we expect",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wiktorchojnacki9746",
+      "author_id": "UCjK50MwQbg4GaZG48ccGxlw",
+      "text": "But what is the conversion software version 7.0?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Douchebagus",
+      "author_id": "UCZioKwztH6jXc5C_rd8SOlw",
+      "text": "It's crazy that this video has 14 minutes of yapping before saying what 'software 3.0' is.",
+      "likes": 112,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Laszer271",
+      "author_id": "UCre9UbMYfXhiygFK91Bn-OA",
+      "text": "So Software 3.0 is basically using the output of Software 2.0 and creating an infrastructure for it with Software 1.0. Wow, can't wait to see what Software 4.0 will be like.",
+      "likes": 10,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "Zuck has dethroned them all... EPIC! 🙏 This could be one of the biggest PR turnarounds in modern business. Great job Wes, framing stories that matter!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bruhmoment3731",
+      "author_id": "UCFt3UaGqGQ_n8sCvkp-xzeQ",
+      "text": "is software 3.0 basically chatGPT's custom models?",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sirishkumar-m5z",
+      "author_id": "UC7y-MxZDefOPjYRKtvPJaOg",
+      "text": "Advanced data analytics tools in SmythOS provide deeper insights into data, supporting more informed decision-making and enhancing AI model effectiveness. This capability is vital for successful AI implementations.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shy--Tsunami",
+      "author_id": "UChqWHL6iUtPG8iq7-Kw_p_g",
+      "text": "Very interesting 🤔🤔😎",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrpicky1868",
+      "author_id": "UCEW4lJpO2AGprVue0z-mCow",
+      "text": "so if you didn't have enough time to deal with all the bots on Facebook, Mark suggests more bots!",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SteveRowe",
+      "author_id": "UCcpFj_oXLvzNCjBEWHkplIQ",
+      "text": "Wes, your explanation of software 2.0 would have been more clear to me if you had mentioned objective functions as the way that we describe to the system what we want it to do.  It's based on the result, and you tweak the weights until the result is what you want.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MoDs_3",
+      "author_id": "UCd4iuO8W20aMs3YElfzQX9Q",
+      "text": "Definitely not crazy; it all depends on the cost of running those product models. We simply can't have that trivia if the mean medium cost are to thousands of dollars a day!\n\nThanks for the video! ❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MeinDeutschkurs",
+      "author_id": "UCVenI5ElQyOLokJUqVNkRpg",
+      "text": "Is this because of sun glasses, or because of the meta quest? I reference to the bright eye sockets.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mtprovasti",
+      "author_id": "UCyZZ3gFnVeldhWvcpgVanfQ",
+      "text": "To consider: programming language is a intermediate step between a machine and a human. Why do we need to tell the machine to show us what we need in a language we are supposed to understand? It would be better if the input was human language and output binarycode that the machine truly understand not just mimics predetermined code snippets.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@plastikbeau3695",
+      "author_id": "UCY0aqWBdHdWM3tHKn7MYXsg",
+      "text": "Every piece of useful software you've ever interacted with is a result of careful planning and hard work of very smart problem solvers. What we currently call AI is just a fancy auto-complete engine. Just remember that.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scrout",
+      "author_id": "UCm0vyz4wceg6mhGdWF3FS1Q",
+      "text": "My agent would simply scrape what I wanted off of Facebook, like just posts from people I follow.  No ads, no nothing and very little info given to the zuck.  Same for Google searches.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gregerman4803",
+      "author_id": "UCdvq1P2UpgIork3Dq0VcQqQ",
+      "text": "Biggest pain for the moment is training data formatting, you can’t just feed it a bunch of pdf and raw text, data has to be picked and formatted for training.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Trials_By_Errors",
+      "author_id": "UCuWfw6mTGDJvn9s3wiMnHTw",
+      "text": "Mark is a most NPC looking person in the world.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamespowers8826",
+      "author_id": "UC0bTh1kxKq8326pm_3xdryg",
+      "text": "Dystopian.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "Black Box will happen sooner than later, but we have to scale the Trust hurdle first. 🙏",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TexasRy",
+      "author_id": "UC9yXggej8gleL-YWLUZU-hA",
+      "text": "If AI Agents become the backbone of business/activity and the Internet goes down, ala CrowdStrike outage, we are actively building more and more \"systems\" on top of the Internet and just setting ourselves up for failure. I would imagine UNTIL we can make the Internet bullet proof, building more and more systems is a fool's errand. Civilization is based on Electricity and the Internet and if either of these goes down, MANY have no idea how to grow food, handle day to day life without these systems. VERY WORRIED this \"Super Cool Futuristic AI Agents\" is the normal evolution of apps/services but sure seems like a high deck of cards being added to the top of our very susceptible system and AI Agent's will one day actively take our systems DOWN!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@watchingvideos9871",
+      "author_id": "UC1TVaC9cDf8_swogdEbZN0A",
+      "text": "Can someone timestamp 3.0",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JimboSkinner",
+      "author_id": "UC_NKUfEI7k4KDU_PJIo6jtw",
+      "text": "it's very important to understand that actual real people think simply adapting a foundational model to some random use case is a big thing. this is the Microsoft/Meta approach, use our model and ALSO all our tooling and social context for your business. i'm not sure how a little AI company without a massive social network and an army of implementation people can compete in software 3.0. this is the \"sell picks and shovels to the gold miners\" approach, which certainly worked for Levis",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NocturneSMT3",
+      "author_id": "UC01Unf-PZ0G--k78lllN9QA",
+      "text": "Damn, i thought the buzzwords would kill me in devops, nothing like ai.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IntentStore",
+      "author_id": "UCFCz8KPvRLjZXaQl8epjp5A",
+      "text": "One of the hallmarks of mania is a rapid rise in complexity.\n\nAI has become a giant bubble waiting to pop. Most of this technology is overhyped in its utility, and the profitably of that which is useful is dubious, because the ways it’s leveraged are democratized and can be done for free, and the inferencing is highly competitive.",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jameshughes3014",
+      "author_id": "UCaQ6gM0tKVTBvTDqR4-X86w",
+      "text": "I don't see how it's going to end up being as big as computers. I think it's here to stay, and is already useful, but i dont think it's going to be ubiquitous. A model that is useful just takes far too much compute. If someone invents a magical way to run a multi-billion parameter model on AA batteries, then yes, otherwise there will always be better ways to do lots of things",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrLargonaut",
+      "author_id": "UCnFEuvjc_91ppl2MtHPZA3Q",
+      "text": "Yep, I'll keep repeating it over and over.  We can have a manageable, Zero-Loss AI transition through both sensible regulation and by the fact that AI is going to enable MORE jobs than it would have replaced.  We have years of work converting not just hearts n minds to AI use, but businesses themselves.  Use cases to be discovered, data hoards unleashed from private companies.  I know of two geologists who are building AI based on centuries of company mining data, and they're gonna be able to send teams out and pinpoint sample pattern areas.  Success means more jobs especially if the company hits paydirt at multiple sites.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@floydmcmondo",
+      "author_id": "UC3blfqGiHMRtvdXjoeUuwjA",
+      "text": "\"I said this before in the future.\" - Wes Roth (quoted out of context)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianWreaves",
+      "author_id": "UC7rKQtEqQT5Q4BcH2wPZ6QQ",
+      "text": "There are already a proliferation of AI agents performing work for both businesses and personal tasks so it easy to see them to continue to grow.  However, I can envision a world where our personal AI agents' are replaced with a personal AI.  It will have the ability to do nearly anything needed, particularly in the cases of digital tools  e.g.  Browser based, apps, etc.\n \nThat would result in nearly all digital products' UI/graphics no longer being needed and instead products will provide a structure or scaffolding (APIs) in which AIs' will use to perform some of the products' services.  However, most current online products will no longer exist as our AIs can simply perform a task without the need of a 3rd party product  e.g.  Prepare and submit taxes, create/run/schedule automated task (Zaps), generate/edit/manipulate images, plan & book travel at a great price, etc.  You tell it what to do and within 2 seconds it responds, \"That is done.\"\n \nWhat I do see remaining are tools/services for enterprise solutions, government, universities, entertainment, communications, youth education, but little else. \n \nAnd finally, if 3.0 is as the video suggests, after 2.0 being only ≈7 years ago, and exponential gains in technology, then perhaps the scenario I mentioned could be reached next year as 4.0???",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keepcalm7453",
+      "author_id": "UCr-Y1ZbmAjrKUK3aEElmNjw",
+      "text": "❤❤🎉🎉❤❤🎉🎉❤❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PepitoGrillo-sq1mf",
+      "author_id": "UCFdrFxRuVwo6wCmieh7sS1Q",
+      "text": "If  context windows are going up and inference prices are going down, Why do we need to fine-tunning small models in the future? isn't better to do incontext learnig? we'll simply  use a System Prompt to make an agent. \nSorry, I dont see the bussiness.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FriscoFatseas",
+      "author_id": "UCJogWmAfxsLBz-PDusV8qUw",
+      "text": "ACCELERATE",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lystic9392",
+      "author_id": "UCNwEWWXoqOMYUXpeXDeL7jA",
+      "text": "I have an idea that I think has potential but it requires dozens of AI agents, probably, to create a mockup to showcase it. It has to do with augmenting an existing thing.\n\nI have little energy due to a disorder, so I'm looking for others who may be interested to further develop the concept. We could talk about it sometime.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NedBouhalassaVideos",
+      "author_id": "UCX6oVtJkZO-Hcfsbhq7udrw",
+      "text": "So, 3.0 = A.I.-led fine tuning?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OculusGame",
+      "author_id": "UCq5fP9aTVX6bgtabpHD88IA",
+      "text": "So....web 3? software is only a section of the web.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ricokohler2686",
+      "author_id": "UC_N67cEbvmSt5fjOaZevz1A",
+      "text": "that was a very long way to explain that there will be \"templates\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HanzDavid96",
+      "author_id": "UCWvQzjWAI2ndiHl80mqJLrA",
+      "text": "I am 95% sure that we will achieve AGI with multi-agent systems that work on multimodal language models and use tools, reflection, and sensors. There are still a few important atomic problems that GPT-4 cannot solve. To be 100% certain, I want to see that GPT-5 is indeed significantly smarter than GPT-4. If that is the case, I am very confident that we will create a completely new world with this technology.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@i2c_jason",
+      "author_id": "UCXvRuXwVpLQSwcJVt0v4xIA",
+      "text": "Correct me if I'm wrong, but a SW3.0 implementation could also just be AutoGen and API calls to the latest greatest models too, if you can afford the token cost. No need to custom taior or teach a new model, just do that with a teachable agent.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avivolah9401",
+      "author_id": "UCrt1JUcnL6_qRD-8GrYeTiA",
+      "text": "U r not wrong, It is going to be bigger than all of those.\nAnd thats exactly what Jacque Fresco and The Venus Project has been saying since the 70s.\nAnd urged society to prepare for it in advance and shift the socio-economic model to accommodate that.\nIts time you listened. \nWe need resource based economy. or at the very least a profit-free economy like Copiosis's or Common-Planet's Creditism.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RickySupriyadi",
+      "author_id": "UC4IMYlCVUMiOudhmRFGlQJQ",
+      "text": "integrating it into other software been challenge for me, doing API, etc... hard... i was like interpreter idea...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bgtyhnmju7",
+      "author_id": "UC8i7yEOsDlbcJNMpgyCU5fA",
+      "text": "OMG your diagrams Lolz",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victorbecerra5700",
+      "author_id": "UCbmiYaHNYUYKYFAia4lpV1w",
+      "text": "now we need an open source NPU or GPU or LPU or what ever :D",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mangoauto8450",
+      "author_id": "UCUH-4WF8DuRbhUdKCDswQYw",
+      "text": "I just tried facebook AI . It’s just chat gpt. I asked it to make a marketing campaign for my business and launch it but it can’t . Just a glorified search engine without functionality",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielkahbe964",
+      "author_id": "UC4w4DQQgGGZoUHdESmwTK9A",
+      "text": "I will unsuncribe if you pull stuff like this again. Supposedly building tension to say something underwhelming. Just say it.",
+      "likes": 15,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tracereaper",
+      "author_id": "UCMAsBQHPM9nK2dXUel-LIQg",
+      "text": "So we can Pavlov’s dog (training style) to hack Ai",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@plastikbeau3695",
+      "author_id": "UCY0aqWBdHdWM3tHKn7MYXsg",
+      "text": "The moment people stop programming themselves will be the beginning of the end for us.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tracey66",
+      "author_id": "UCB1CNODIj9zpWrK4ZBu08Sw",
+      "text": "It’s time to go home when you start to look like your metaverse avatar. 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@plastikbeau3695",
+      "author_id": "UCY0aqWBdHdWM3tHKn7MYXsg",
+      "text": "Keep in mind that even something like chatGPT's frontend was written by human software developers. This is nothing more than a VC pitch.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "v4.0 will be neural link ;)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@2CSST2",
+      "author_id": "UCl4oMDM53WudD7pgJ48P5_w",
+      "text": "I think a lot of your thoughts make sense, but in general we should have low confidence that we can predict the future of technology and how it's used. Things that make a lot of sense right now might begin not to in short timelines.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gargamel-n-Rudmilla",
+      "author_id": "UC6I0jcKpMhwv6CKjiZAqQaw",
+      "text": "The world of AI framworks is facinating to me, since u can mix and match agents with different capabilities along the cost, speed and accuracy curve.\nSo u may have free AI such as LAMA 3.1 doing the grunt general purpose  work that is needed most of the time. Whilst u use specialist AI agents that are expensive but they are experts, highly accurate and fast as fuck. The teacher LAMA's are also needed for when the framework draws a conclusion from partial products produced or obtained by the specific agents.\nIf the framework has a negative or positive feeback or feedforward configuation then the desired result can be compared with the partial product. These itative comparison can drive the teacher AI ti say ok, these are the errors or difference between desired partial output what do need to do to remove or minimise the difference.\nThe teacher will then say, OK what kind of AI do need to train or how can I train an existing AI that I tought before, better.\nThis is very interesting since there is reaning and understanding that AI will get things wrong. Even the most expert of expert AI will get some things wrong relstive to what we want or logically wrong.\nTo be honest having a Formal Maths AI or classical Formal reasoning machine as part of thid framework would be great. This woulf ensure thay any step could be checked for jt logical behsvious was ensured.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@electroncommerce",
+      "author_id": "UCDshjPX5Utht0HJOB67BEWg",
+      "text": "Phenomenal heads-up!\n\nPairing these bottled knowledge sub-model agents with iot and block chains where sensor data is translated into business data, (this data is based on actual moment-in-time business sensor data which the ai makes usable). \n\nAccessing and making actionable business decisions using sensors psired with ai, which is then recorded in real-time on industry or company specific distributed ledgers (smart coins) seems to have billions of $ in opportunities. \n\nThe future is now. And now ;-)",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@noway8233",
+      "author_id": "UCsFl-rlLCv87Gytzic1Mi7g",
+      "text": "Ai write Spaggetty code , that gone generate a Lots of problems",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaykeane25",
+      "author_id": "UCVndoAnaaZCsDJ8BLmoltdw",
+      "text": "Yeah but that's 14 minutes and he didn't cry",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jkyamog",
+      "author_id": "UC8K2Q8d01MZOOWZGu7_M6WA",
+      "text": "Is software 3.0 akin to Web 3.0 a few years ago? 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dathoodieguy7121",
+      "author_id": "UC19clutxx-UdMBezT_3p36A",
+      "text": "Can we please get an AI that studies the constitution another AI studies the declaration of dependency what we’re doing wrong and then we need another bunch of ones interpret all of what’s going on in our country right now so we can start cracking down on people breaking the law",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "Billions of bots online, more bots than people, and remember most people don't produce anything online, they just follow, like and consume. The online space is going to be dominated by bot creators. Humans will be pushed even further to just absorbing 'persuasive' content. Where is this going?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bryonseverns5919",
+      "author_id": "UCTidpUkvMfCEXWlD4Q0DPeA",
+      "text": "a whole lot of small caps and IPOs will come from AI agents building and running businesses.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aga5979",
+      "author_id": "UCqbvTDBRXEgipgDPAAwToWw",
+      "text": "The most ShOcking part of the video is a raccoon impersonating Mark Zuckerberg...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tsvigo11_70",
+      "author_id": "UC4tuXQuSQPX5Ie7iMMTTZuQ",
+      "text": "These are not weights. What kind of people are you? These are synapses.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seriousbusiness2293",
+      "author_id": "UC9ZIilXDF3lcTBGTG9UkAKw",
+      "text": "Wes really has the ML crowd spirit. Quantity over Quality!!\nMore and longer videos with less and less information or eddeting. Very lazy content TBH. The only thing im giving you is that you're always up to date and therefore pop up in my YT feed first.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rogerwalker-harris1156",
+      "author_id": "UCqdt0MeI812-3p-U1ISb3WQ",
+      "text": "If you or Mark Zuckerberg is right and there will be a day when we can spin up AI in a few clicks. If it’s so easy that a child can spin up AI for some Pokémon. There is literally no monetary value for any entrepreneur out there. As fascinating as I think AI is, I can’t help but think that all we’re doing is creating technologies That’ll create a future where big businesses don’t really need people anymore. You’re either working on AI for minimum wage, or you’re laid off. I’m not a medium, and I hope I’m wrong. But that’s what it feels like.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@meandego",
+      "author_id": "UCy2w3lX8Fe-pO5HEFivueZg",
+      "text": "90% of AI is just hype. Altought there are few good use cases, but it will not change Humanity. We are obsessed with benchmarking new models, but getting nothing out of it. Yes AI can write code, make robot walk few steps etc. but it's not revolutionary.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Firebanshee16",
+      "author_id": "UCMHNAPx0pTcdM3XxWODI63Q",
+      "text": "Second viewer! :D",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sludgefactory241",
+      "author_id": "UC2NCeaFu7XMqnmF0lcGtoLg",
+      "text": "Additionally someone needs to tell the Zuck that its important to tan around your eyes as well. Otherwise ya look like a takooni",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henrychinaski8754",
+      "author_id": "UCKVhg6qvvBDQm05RK6bKhYQ",
+      "text": "Mark sounds like hes drowning in his saliva Truly the pavlovian response is on display here.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RasmusSchultz",
+      "author_id": "UC1usKk-H-_kUlk1FYbX6SwA",
+      "text": "I'm sorry, but calling it \"software 2.0\" or \"3.0\" is silly. The model itself isn't code, it's data. And LLMs are not replacing software in general. As you already know, AI is great for fuzzy problems, for which actual software doesn't work well - and it's absolutely awful for many other things, for which software works great. If you're thinking LLMs will eventually write all the software, unsupervised, I don't really see it. The issue is that LLM is unpredictable, and it's designed to be. Software is calculus, it's predictable - even when software is wrong, it's reliable, in the sense that bugs don't just come and go unless somebody changes the code.\n\nWhen LLM hallucinates and gives wrong answers, we tend to think of this as a bug, but being unpredictable isn't a bug - it's a feature. Randomness and errors is built into the algorithm, by design, completely intentionally. It's not a \"bug\" that's going to get \"fixed\". Here, watch Nate Jones talking about it in this video:\n\nhttps://youtu.be/ODLyBQd4VHU?si=BiDMuVdG6i4iRHO1",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bobtarmac1828",
+      "author_id": "UCEHjYglU5Q9yAp4nI2di5dw",
+      "text": "Looks like a trap.   Don’t fall for it.    Cease Ai.   Fight back.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jasonabc",
+      "author_id": "UCzBrShX3GFZDJJvQKAsbzvw",
+      "text": "Zuk has been out surfing his private beech for the last month. Not a good look",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1guitar12",
+      "author_id": "UCfXljOtli3RQljBIBq92Wmw",
+      "text": "So many assumptions…yet ignoring the obvious. The massive GPU power resources on such a ridiculous scale…will come from where? Last time I checked electrical power is insanely expensive. On top of that current GPU architecture is incredibly sloppy both in terms of power consumption and heat, regardless of the $value of Nvidia. The premise of LLM’s storing extremely large datasets…is a stone age problem definitely NOT ready global release for the masses. Ease up everyone, and think realistically.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@halnineooo136",
+      "author_id": "UCuMZT1f-JFpUDDqV-8dRH5Q",
+      "text": "Who are the customers?\nYour customers used to be next door company employees. And next door company customers used to be your employees.\n\nIf there are no employees anymore then who are the customers?\n\nUBI? With whose money? \n\nCompetition will drive the value of intellectual services down to the cost of electricity. A very few large winners will offer all the intellectual services for dirt cheap because that's the amount of money that the remaining \"customers\" can afford.\n\nSoftware 3.0 will be a huge disruption and destruction of value.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cory-v4w",
+      "author_id": "UCOqKF2TjMRqhE_EKzzEE56w",
+      "text": "When aponia is upon you there is pleasure to mention. Uh uh uh! Look who wants to teach me quantum physics...the kind that you humans never listened.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffg4686",
+      "author_id": "UClZ7BW8SV8bTPnWG7lHrfMg",
+      "text": "Oh, Mark's trying hard to hold onto Capitalism.\nTelling all those small businesses how they can thrive.\n\nOr is it just a COVER (me thinks so).\nIf they can't see socialism at this point, they wouldn't have made it past 3rd grade...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@duytdl",
+      "author_id": "UCMPlUDnok05qPtLuJqVP9KA",
+      "text": "You're blending opinions of experts with those of bean counters. You're diluting genius juice with corn syrup. It's not healthy.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MadMaxpl",
+      "author_id": "UCk_pgPpaZQJiFDd_P59e-jw",
+      "text": "Dear Mr Wes. I like your content.  Srsly. But no one who watches your videos needs explaining the basics of computing or maschine learning. We didn't get here from \"10 best movies with Rayan Gosling\" by Watch Mojo or 5 ways to clean a car. We got here because we love to hear about AI and stuff. Lil respect for the audience my man!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amirhossein_rezaei",
+      "author_id": "UC7k1r9ECchuucRKJVwlN0zg",
+      "text": "Congratulations, I unsubscribed.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marwanabas5524",
+      "author_id": "UC4msrcLFRhZpQj2f3KgiARA",
+      "text": "Boring demonstration 👎",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronAsherRandall",
+      "author_id": "UCYF59fqJYuri5FhamBu8gSA",
+      "text": "I disagree that technical expertise will not be required for software 3.0\n\nAs someone who works in both Data Engineering and Data Science, we will always need engineers to help build out the infrastructure that Scientists, Analysts and Users use to do their work. There will always, ALWAYS be a need for someone to “look under the hood” and work in code, work with the physical hardware and produce the physical hardware.\n\nLook at the Windows bug that shut down global transportation a week ago. This was due to some bad kernel level code, done by an engineer who didn’t fully understand the deep software issue. \n\nIf anything, the demand for technical expertise will increase and those technical will benefit the most be having their work being super charged by millions of AI agents. \n\nAlso the biggest money maker here is starting an agency that helps businesses integrate software 3.0 into their current business. That is the shovel in this gold rush.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AnuragShrivastav-7058",
+      "author_id": "UCExhWhPnUn6iK6NF4JMmbwA",
+      "text": "AI bubble will burst soon.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bug5654",
+      "author_id": "UCtExFJBGxUwG9qMi3D7LHOw",
+      "text": "Software 1.5: DevOps.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

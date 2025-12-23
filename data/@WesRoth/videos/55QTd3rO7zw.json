@@ -1,0 +1,531 @@
+{
+  "video_id": "55QTd3rO7zw",
+  "title": "First Look at Vertex AI Agent Builder | Google's AI Agent Playbook",
+  "url": "https://www.youtube.com/watch?v=55QTd3rO7zw",
+  "comment_count": 58,
+  "comments": [
+    {
+      "author": "@AS-ih2dk",
+      "author_id": "UCO0bAO1QjuatMwdjaX_iPhg",
+      "text": "\"no code required\" = requires 14 hours of constant back and forth",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShpanMan",
+      "author_id": "UCSsGxuNZItscJ-EA3vHpzbg",
+      "text": "Even this step will be replaced with an agent that builds the system, asking you clarifying questions.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1sava",
+      "author_id": "UCpkAvoPouN0xv-hUl9qTapQ",
+      "text": "Too complicated for non-technical users. It's so hard to access. Why does Google have so many different environments? Between Google AI Studio and Vertex AI, I'm confused about their AI products and AI testing infrastructure. If they want to compete with OpenAI/ChatGPT, they should make their products simpler and more accessible.",
+      "likes": 45,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LongLiveEnduro",
+      "author_id": "UCOZfrxACbcyDomkphXAnIOA",
+      "text": "Very helpful and informative, thanks Wes!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@123asilveira",
+      "author_id": "UCwOPbNVrNaxuU2B0ovHq_zA",
+      "text": "I am not a developer BUT it was extremely helpful to understand in what direction the so called AI Agents will work. Thank you!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tonymatthews6928",
+      "author_id": "UCmZkySd8PNdWhJGdLJxJ3QQ",
+      "text": "From a non-coder perspective this is extremely interesting. I have just started making custom chat bots for teaching. These agents could have in education too, particularly in individualised learning. I didn't know about this at all. It is a real eye-opener. Thanks!👍👍",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iamachs",
+      "author_id": "UCmn2cLw56J1bU_PGnXLMYMA",
+      "text": "Hey Wess mate,\nThank you so much for this video. I really appreciate you taking us through the process of building an AI agent using Vertex AI, really like the format of this video 😊🚀🌟",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jantuitman",
+      "author_id": "UCRvGqv19-MdhfGNwHc6mWQA",
+      "text": "What the industry needs before it becomes shocking again 😉 is not a bunch of badly designed web editor screens but a kind of a compiler  so that agents can be written with all the developer infrastructure on the desktop, e.g. git versioning of agents, test cases for each agent and so on… And on top of that compiler we need the agent writing agent, so that a non programmer can just develop the agent application in a chat session. But we are slooolwy getting there, this is just another mini step in the agent direction.",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tablab165",
+      "author_id": "UCliPGlyA1g74T7GCYyBlu3w",
+      "text": "\"This is likely what the future looks like\"... for one to two months.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hankyone",
+      "author_id": "UCijXMQn6mUenv5PwHp_b8LA",
+      "text": "This is a slightly fancier IVR system, but nothing ground breaking yet",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@grant_vine",
+      "author_id": "UCfDRKM6aacuYfwOC0ZcOAoQ",
+      "text": "This is very similar to Azure Assistants/GPT Assistants, similar options, similar tuning, same limitations etc… even the code interpreter concept and “functions” is identical, so it’s more a naming concept, Google jumping on the agents marketing to make it sound new but this is actually assistants",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@emirhosseini",
+      "author_id": "UCnqa-0DZLzJ-Rhu60b8kXsg",
+      "text": "How do you use this outside the playground area?! No one showing this.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobertMyer-ce5bp",
+      "author_id": "UCCbI5eVCDveERtMdNymoXrg",
+      "text": "Yeah bro I agree,\nThey did the same thing with chips. They use to call them chips now they call them CPU and GPU",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gunterstrubinsky9452",
+      "author_id": "UCIzBxjKxdPWvO6r8NeyaiUA",
+      "text": "it's a step backwards. you have to anticipate the use cases.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianpalmer967",
+      "author_id": "UCCp2quz-fAYxU0Jqktn84iQ",
+      "text": "This is really an interstitial moment.  Where this is all heading is a new paradigm where instead of writing and implementing code, that will then get used for a specific purpose, instead a device will have the ability to create code on the fly, for any given request that a user might have, and then be able to perform that task based on the code it is actively creating.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stedge2019",
+      "author_id": "UC_h_k8fNc0PG54_7C2pAjnA",
+      "text": "You hit the nail on the head when you said ‘fancier versions of chatbots’. I like how it looks even so. But yes, I build chatbots and I couldn’t help but think the amount of time you spend trying to write those examples to direct the convo flow kind of correlates to the less amount of time you could spend building a chatbot flow in a chatbot builder. You have a bit more control in a chatbot builder. Although it’s harder to set up the utterance and entities I could argue. It’s all very interesting either way.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nsk07-m9j",
+      "author_id": "UCnrnVpz6kQb4J4BVBfeTFPw",
+      "text": "BTW,Pricing wise this seems to be pretty expensive.(chat based pricing) which means this may not be useful for creating generic help chatbots which will burn the pockets right, left and center..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@milesgrooms7343",
+      "author_id": "UCi3eB2wdZ3U8IP9jH6T4ILA",
+      "text": "Mr. Roth I have attempted to set commenters straight about your title “bait”. \nI thought it humorous…..maybe it’s just me “!?”.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gvi341984",
+      "author_id": "UCL8BBi_x9RIW7wDAtK152uA",
+      "text": "Google is so confused  on whats doing they are no connectng environment",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samnwankwo5481",
+      "author_id": "UCHIdyIbf7oIAE0w5xdVpMZQ",
+      "text": "Thanks for this video, do you happen to know how this can be integrated with flutter or converted to a Restful api",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dertythegrower",
+      "author_id": "UCNlJtQ-jGRinT9geRGslvDw",
+      "text": "Chat bots are just faq pages turned into a chatbox bot then? Canned faq data, and then you feed it faq responses? faq bot",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WizardOGF",
+      "author_id": "UC2lH_j8EN2O5hxCfS468Hew",
+      "text": "speaking on dangers of AI, surprised nobody has made a \"woke\" benchmark yet. first thing I think of when I hear \"Google AI\" now",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@goldreserve",
+      "author_id": "UCvbwWrQIe_wdczw5z3FEjBg",
+      "text": "Too difficult. Need an AI powered AI Agent Builder.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moroccanguy1957",
+      "author_id": "UCBtT2X617p7FNAx_XkEqCNQ",
+      "text": "Is this an ai vocal agent ? Thank's",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MA_SK_ID",
+      "author_id": "UCkiJ_IuCGk9tkEWxDcTnvfA",
+      "text": "Naw.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moroccanguy1957",
+      "author_id": "UCBtT2X617p7FNAx_XkEqCNQ",
+      "text": "How it cost ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tzalive",
+      "author_id": "UCZLqJKP7HD2IHQOSppwLgwg",
+      "text": "The future looks quite boring",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lystic9392",
+      "author_id": "UCNwEWWXoqOMYUXpeXDeL7jA",
+      "text": "How long will it take before you accidentally order hundreds of phones for one of these video's?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@antemasq6520",
+      "author_id": "UCnbZWHmUV0UBZJiA5aj26xg",
+      "text": "Another SHOCKING disapointment from google😂",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MagicalMongoose",
+      "author_id": "UCmD_3ksPJPdaPl5m29UO19g",
+      "text": "This is just coding chat bots, what is Google talking about",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blackitolism3000",
+      "author_id": "UCwoSVViuh_DasvyhfQK9C3w",
+      "text": "They used to call it a \"chatbot\" now its an \"agent.\"",
+      "likes": 41,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Charles-Darwin",
+      "author_id": "UCQDBtgVF1u95N3pgorg796A",
+      "text": "\"Examples\" - you see now, that's one of the clinchers to the fabled 'autonomy' and 'ruling the world' hypetrain bit. Not that it's not exciting as hell, but 100%, were just not there yet. Try a series of pdfs/docs that have graphical data as well as textual, whew... whoa, did you hear that? I think that's devin yelling from a universe away lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@inashafi7597",
+      "author_id": "UC-t17MSl_ZqO9mfbAHe_naA",
+      "text": "I guess it is not free?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@olivert.7177",
+      "author_id": "UCWMLn-LKLH8qT638hisU3Ng",
+      "text": "0:58 \"Enterprise-ready AI\", that crashed several times in the setup process. Hmmm. Google seems to have a different understanding than me.",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@edwijaranakulaph.d.2010",
+      "author_id": "UCYuu0wfP1JxH3YDePnlD6yA",
+      "text": "Too complicated for average consumers! It might not sell with this format!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sahanda2000",
+      "author_id": "UCJ-_epyGhhSZLfbOoop5EvA",
+      "text": "A new bunch of Google nonsense, not the most useful thing, not the easiest thing to learn, not gonna change your life, not gonna make it easier. I just need a coding assistant.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quito96",
+      "author_id": "UCmmnHk_HVhBF2YSST2UTF6Q",
+      "text": "Google has the worst user interfaces in the world, but Messie have mastered them perfectly. 🤕",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@randomlettersqzkebkw",
+      "author_id": "UCIlP5cm_gWjCyTZUxqshqiQ",
+      "text": "PROVE ME WRONG\n_________________\n\nThe future will not need front end developers. Data will be king.\nThe a.i. will be able to generate what ever front end thats needed.\nAll the \"programmer\" has to do, is describe the data, and how it should be displayed, and the a.i. will generate the front end on the fly.\n\nTo prevent an app's front end from being a random one everytime, there can be a seed that the ai can refer to, to generate a consistent screen.\nThen changing UIs are easy, like color, theme, or what ever.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chuckmydogaccount7452",
+      "author_id": "UCcXlaBTCdy0trFJyQylgT5A",
+      "text": "So buggy😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndrewTSq",
+      "author_id": "UCBBl3D2R0X99gGYLmIraj2g",
+      "text": "AI in costumer service is the worst thing I know. I rather buy from a company twice as expensive than buying something from the AI service site.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justcode431",
+      "author_id": "UCNECvAUkWaZbfUBIhBCzySQ",
+      "text": "Why not just use crewai, seems tedious.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beyondthebounce23",
+      "author_id": "UCNS1j7SByp823MqEzGvdt_Q",
+      "text": "6 minute in and i am not impressed at all...... pass",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@codespaceai",
+      "author_id": "UCbjIyr7PBTJp1w4k3BW9ejg",
+      "text": "To me this looks like a worse version of openAI’s GPT builder. Less accessible, more complicated, more buggy, and a less user friendly dashboard.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DubsCheckum",
+      "author_id": "UC5C8M6U1WejIQ_MhzrMvMYQ",
+      "text": ">catered for people with non-technical background\n>specifically tailored for web-development\nyeah checks out",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soggybiscuit6098",
+      "author_id": "UC6cg2Q1hGaDn3KGWiWoTd6w",
+      "text": "Set your pronouns for the bot and default messages when checking a whyte customers privilege",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Edcabraltv",
+      "author_id": "UCzasoOPvnjJ6worTzDJXATg",
+      "text": "Haha way to complicated for newbs. 😂 Common Google. Look at open Ai and learn something.😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DailenGunter",
+      "author_id": "UCRGgVaE53Ua6uv5gv2FKlOw",
+      "text": "Sooo this is just what others are calling GPTs or bots. Wow, that's not gonna be confusing.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Corteum",
+      "author_id": "UCRfjhr4kgSt0nbEiMYbayDw",
+      "text": "I hope it not wokes",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christophedhondt3507",
+      "author_id": "UCFADvhcveLMSQbNBXhlub1w",
+      "text": "This doesn't look very intelligent to me, with all that examples etc you have to provide it kinda looks like a parrot that's repeating. We have a long way to go.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PhillipRhodes",
+      "author_id": "UCuDv4iPLXex_sSMXdVW-x1A",
+      "text": "I just wasted an hour of my life that I'll never get back, trying this out. This thing is a train-wreck. The UI is wonky and unreliable, nothing about it is intuitive in the slightest, the documentation is crap, etc. This feels half-baked at best to me.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christopherd.winnan8701",
+      "author_id": "UCNkEaH1_sPMC-wTdysJxjUA",
+      "text": "Wes, please can you recommend an free model that can analyse multiple pdfs at once?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JeppeSkovgaardSrensen",
+      "author_id": "UCRaFrSBoPpXgV0il_Nv-CMg",
+      "text": "\"Is it SHOCKING! \"... No it is CLICKBAIT!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FrotLopOfficial",
+      "author_id": "UCSP-eCRbUEdVY5-rLXTCN5A",
+      "text": "How is this no different than PowerApps from fucking 10 years ago?? Its the same thing. Manual bots.. Wow Google. Wow.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DigitalForest0",
+      "author_id": "UCvv-ibjVoCm3yjAvTsFxJeA",
+      "text": "Wes:) google is a 1000 years old grandad who is trying to disguise like 20 years old hipster, saying look at me i have AI too... LOL google? agent? where do you see any agent? usual chatbots... gpts.. autogen.. and google wants to present their self with this? woooow, tech wonder:)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angryktulhu",
+      "author_id": "UCJfQWELx73_RDee12oOAnUQ",
+      "text": "Google looks really pathetic in its attempts to market their weak AI products 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheSacredGoldsmith",
+      "author_id": "UCk-vMzeH5wZS9DYFdDl67WQ",
+      "text": "Hey Wes, I'm a little disappointed in your title. There is no suggestion of SHOCKING REVELATIONS regarding these agents. How am I supposed to be excited to click your videos WITHOUT  the SHOCK!!!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henrythegreatamerican8136",
+      "author_id": "UCgKBqxWOAjdKbbiQsWuUdfw",
+      "text": "Wake me up when we can download these A.I. agents into real robots who can do daily tasks for us in the physical world.\n\nUntil then?\n\n/yawn",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@olafsigursons",
+      "author_id": "UCIcFTBQaNXvqshqXVuNSs5Q",
+      "text": "Google quality search. What you have to add reddit for it to work and it will be full of ads and junks? Yeah! new way to pollute our mind with ads! Wonderful!",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,189 @@
+{
+  "video_id": "4OvmAMJelVE",
+  "title": "OpenAI announces FINETUNING 👀 for ChatGPT",
+  "url": "https://www.youtube.com/watch?v=4OvmAMJelVE",
+  "comment_count": 20,
+  "comments": [
+    {
+      "author": "@alefalfa",
+      "author_id": "UC8MhVMOyOn-V4ANCtcWSmcQ",
+      "text": "This could be HUGE for Auto-GPTs aspecially when they allow fine tuning for GPT-4. I imagine that many of the problems of Auto-GPT like infinite loops, etc come from the fact that it was originally tuned for dialogue. Can't wait for the future!!!",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VynxeVainglory",
+      "author_id": "UCjdHlh2-8shVIh0JZ_Axxmg",
+      "text": "I thought we've been able to fine tune it for a long time now.  That's how Athene was able to make all those characters",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thenoblerot",
+      "author_id": "UCr0EE73w7fdsvWUErYRK85g",
+      "text": "A few points that stood out to me in the OpenAI notes:\n\n- Fine-tuning can start with as few as 10 examples, with 50-100 recommended. That is a huge reduction over the 200+ recommended for fine tuning davinci and the other older models.\n\n- A gpt-3.5-turbo model can perform as well as or better than gpt-4 for specific cases.\n\n- Can't resume a tuning session. When fine-tuning the older models you are able to incrementally tune your existing fine-tuned models.\n\n- no function cal tuning yet, as Wes mentioned\n\nI'm very excited! I think I may have a project perfect for a 10 to 50 example tuning!",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HarpaAI",
+      "author_id": "UCnQGydBO6XQS5Yw9Zl51SSw",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 📢 OpenAI announces fine-tuning for GPT-3.5 and upcoming GPT-4.\n00:54 🧠 Fine-tuning specializes model for specific tasks, but with potential limitations.\n01:35 💼 Advantages: Custom experience, improved output, formatting, and tone.\n02:29 💰 Cost benefits: Specific tasks can be cheaper, despite higher per-token cost.\n02:44 🛍️ Applications: Customer service, translation, education, gaming, legal research, AI coordination.\n04:09 🚀 Fine-tuning benefits: High-quality results, training on more examples, reduced token usage, lower latency.\n05:32 🔁 Prompt engineering and chaining can achieve reliable results faster than fine-tuning.\n07:09 🧪 Testing and specific use cases will reveal the practicality and effectiveness of fine-tuning.\n07:51 💰 Cost considerations: Different models offer varying cost per thousand tokens, impacting use cases.\n\nMade with HARPA AI",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonaseggen2230",
+      "author_id": "UCSPzX3zksz9J4zcYerMJbUA",
+      "text": "Who made the cat \"STAY STRAY\" ? in the thumbnail?? I Love it/her",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CouponGPT",
+      "author_id": "UCyN4z-IK9kgbsEK9lEk2muQ",
+      "text": "Keep up the good work man I find your content informative I'm glad that you're not the type to put very distractive background noise in most of your videos I can focus on what your saying don't forget to make video about ai agents",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicksusernameforyoutube",
+      "author_id": "UCpqRtlxkVP9zhU9wkiAKVBQ",
+      "text": "So if you can add custom instructions that are less than 6.2x the number of tokens in the base prompt, you should stick with custom instructions.\nAlso with latency, I've read that the number of input tokens has very little impact. Token generation, the output, is what takes all the time.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gileneusz",
+      "author_id": "UCkvxNVxxPeAngSvADZ9qBbw",
+      "text": "very good and informative video!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@creatureOfnature1",
+      "author_id": "UCVq7R9yYiSn4SeEpKuIcC8g",
+      "text": "Thanks man for quality content!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffspaulding43",
+      "author_id": "UCBsFngn7_jBbN2ORqbZygoA",
+      "text": "Do you think they're trying to lure in the open source crowd?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@w_iii_s_p",
+      "author_id": "UCneYN3D5_br51XGPzddiaTA",
+      "text": "i feel like if you have the project and data to finetune , then why would you want to ensnare yourself into their closed source expensive system . especially given their demonstrated lack of cooperation when it comes to publishing research and advancing the field , they are happy to take everyone else's discoveries without giving anything back . its bizarre how far theyve fallen when , checks notes , META , is a relative beacon of openness .",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@swoletech5958",
+      "author_id": "UCweiikvSqOqZHxWru8pdTKw",
+      "text": "Im going to use it to build Rehoboam and predict the stock market to a capacity never seen before…",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NezzeMusic",
+      "author_id": "UCDDG9wHF8jhe3RpBZNQghUA",
+      "text": "their greed will be their downfall",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@a.ccr.vladimir",
+      "author_id": "UCr_KO8RoY1uhZ8cw3NH7c5w",
+      "text": "How to make same cursor as your? With this green selection of the text",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stochasticxyz",
+      "author_id": "UCNaf7-LGs_XvkPqi-JbbbpQ",
+      "text": "Interested to see benchmarks for downstream tasks with fine tuned gpt 3.5 turbo compared to finetuned open sourced models like llama and falcon. Unless gpt 3 out performs those models by a solid margin, i can't see any justification for fine tuning closed source models as opposed to open source. We'll see tho👀",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gaymei",
+      "author_id": "UCVqn5YHI5eLtCPO8dsj2Qeg",
+      "text": "your face movement looks ai generated lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@popothebright",
+      "author_id": "UCeVDI8ou3DUk5zFNGKxg5Rw",
+      "text": "Yeah this seems like it's overpriced and underpowered. You can achieve real time data integration with functions already, which is infinitely more powerful.  The only use case for this that I can see is companies who want very simple answers to things like contact information and locations. And even then it's prohibitively expensive over the base model. You're better off using functions.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreaswinsnes6944",
+      "author_id": "UCU03sLMSXAUgmchsy54377A",
+      "text": "Is it possible to fine-tune GPT-4 so that it can make it easy and quick to mod AAA pc games? If yes, can anyone recommend articles, papers and videos that explain how I can do it?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@klammer75",
+      "author_id": "UCu98Sl8IcPkodczmPD-U4Uw",
+      "text": "Let’s do a finetuning walkthrough! Plenty of datasets to work through😉🤔🦾🙏🏼",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

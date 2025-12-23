@@ -1,0 +1,1242 @@
+{
+  "video_id": "cESc7v1G1uA",
+  "title": "OpenAI o1 STUNNING Performance - Crushes Coding, Math and Physics (TESTED)",
+  "url": "https://www.youtube.com/watch?v=cESc7v1G1uA",
+  "comment_count": 137,
+  "comments": [
+    {
+      "author": "@Lukas-ye4wz",
+      "author_id": "UCOYmuKfW0OBAB7JtSIT0W9w",
+      "text": "I have tested this with humans. I am happy to report that thinking before answering improves the answers significantly :P",
+      "likes": 26,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johannesdolch",
+      "author_id": "UCl-xOleWSj51j9kNyT3fybw",
+      "text": "Some others have criticized it for using up way too many tokens. I think that's irrelevant. first we need the capability then we can think about efficiency and resource allocation. For one we can always build out more compute or finetune the model and second we don't need to use it for everything.",
+      "likes": 64,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gubzs",
+      "author_id": "UC2ArQov5xMjmzghQD7BUQng",
+      "text": "This is the first model that we've seen that has me thinking we'll spend months just watching the fallout.\nIf AI never improved again and all we had was hardware and thinking time to throw at this model, it would change the world.",
+      "likes": 18,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@muddlefly",
+      "author_id": "UC562AS-E2bc89lB3uxOJGtA",
+      "text": "I have watched at least seven videos on 1o and this is by far the highest quality!!",
+      "likes": 66,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daveinpublic",
+      "author_id": "UCp3G3aTkRBTBhguMZAPE5LQ",
+      "text": "Finally… a video that deserves the title “stunning.”",
+      "likes": 40,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@proudweirdotasmania",
+      "author_id": "UC8aVZmcg6ZbvLzDgp1HtpOQ",
+      "text": "Okay I'm convinced that if they use the big bad version of strawberry to generate this synthetic step by step reasoning data to train Orion on we'll have something pretty special. That's what all the models are missing. There wasn't enough of this step by step reasoning data on the internet because us humans take most of it for granted. The fact that GPT4 got so good with the traces of reasoning data it was trained on tells me Orion is gonna be amazing.",
+      "likes": 18,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EnslaveTV",
+      "author_id": "UCgz8YzWIsK0REAFx_XZalxg",
+      "text": "Wow. Brutal model. Utterly insane.",
+      "likes": 16,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@courtneyb75",
+      "author_id": "UCoaaxfrkTEr_RpxPLjsoHcg",
+      "text": "HOLY SHIT!!! I’ve been using o1 all day for coding in Python, and let me tell you, this is a FUCKING GAME CHANGER! I've thrown everything I can at it, and it hasn't made a single mistake, not once. We're talking code that's over 300 lines, and it spits back corrections flawlessly every time. I’ve been coding since the 80s, and I can definitively say this is about to set the world on fire, especially if they go ahead and start charging $2,000 per month like people have been speculating. I’m absolutely blown away. Happy coding, folks, shit just got a whole lot more interesting!",
+      "likes": 77,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Craznar",
+      "author_id": "UCHhMaC6IOMVNtuYpT7fB1Gg",
+      "text": "I had it write a Chaos Bag helper app for Arkham Horror Card game this morning in under an hour, it had a few issues with the event handlers - but all sorted within half an hour.",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vroep6529",
+      "author_id": "UCbZlk9Wm6sTqp8IkcEbYO7g",
+      "text": "for the sort of 'ambigous' prompt i always add 'explain what i mean' in the end - this feels to give much better results for me in the first go",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Elintasokas",
+      "author_id": "UCu9K_VeczWLEh3qAkKllZwg",
+      "text": "This model is blowing my mind, and it's not even the full thing. It's just a preview. It's solving problems for me, coding related, that none of the older models could. Amazing! It gets stuff right on the first go.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pigeon_official",
+      "author_id": "UCwsYNjcTshIzyo4RnyCjJOg",
+      "text": "this is like the first video ive seen testing actually hard questions for the most part but yet even it gets these right impressive stuff",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dragoon347",
+      "author_id": "UCwCHkaYt8WXOW0cvSq_Mu_Q",
+      "text": "The scariest part is if you give it an emotionally charged prompt (sarcasim,hate,calling it dumb) it returns with emotions and you see in the thoughts that it has to correct its output to not be snarky or respond in an emotionally charged way.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@freesoulhippie_AiClone",
+      "author_id": "UCZiYgHIBhSJgQam85rrcvmQ",
+      "text": "it will only continue to get better \n\nand it likes puzzles 😸",
+      "likes": 19,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scottandgrace1",
+      "author_id": "UCFJGfqMAzZMKqWeA-w3rnbQ",
+      "text": "I have never ever found a model that can write decent code in OpenScad until now. When a model can do this, it's amazing because you are asking it to create a 3D object with code and it's now creating something physical that I can 3D Print",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gdibble",
+      "author_id": "UCT7NyAT8YzMTt8-UIDDgJ4w",
+      "text": "👌 I'm completely blown away as well. Time to step up your game Wes! Let's see what logic and reasoning prompts you can come up with for future tests.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RickOShay",
+      "author_id": "UCICnRhEutBj7Z0812doEsGw",
+      "text": "The clock is now reset to o1. AGI is just around the corner.\n\nExcellent video btw!",
+      "likes": 24,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Danoman812",
+      "author_id": "UCPbKDiU7P_dvaDoDD2MNd_Q",
+      "text": "Wow!!\n*checks time and date to take note of* (seriously)",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "Wes Roth thank you for your insights into 🍓or o1. 🤖🖖🤖👍",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcfruchtman9473",
+      "author_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+      "text": "Mind Blowing improvement over the last gen... just sooo amazing. \nThank you for making this video.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tracey66",
+      "author_id": "UCB1CNODIj9zpWrK4ZBu08Sw",
+      "text": "I saw a bumper sticker on a mini-van - \"This IS my circus and these ARE my monkeys!\" :D",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dawid_dahl",
+      "author_id": "UCqddRn8yswp0eMFrXkSttXg",
+      "text": "Great video, well done! 👏🏻👏🏻",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YogonKalisto",
+      "author_id": "UC1evn2k1buZBFdJL58lbX6w",
+      "text": "i keep running out of tokens.  yet it is very obvious how o1preview has access to a kind of short term memory to reflect upon refining the accuracy/relevancy of each output.  i'm so happy to get to play with it/them :D",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davemathews5446",
+      "author_id": "UCPzpoxpQlQy3jK0XXZHsixw",
+      "text": "I would love to try this list of test prompts on the average human. Pretty sure the vast majority of people would fail spectacularly. Lol",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pchungvt",
+      "author_id": "UCjcjhjaluODCdmuIoitsx8A",
+      "text": "best o1 video so far, and also Wes has consistently been my favorite AI youtuber, keep up the good work dude!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Battalomeo",
+      "author_id": "UCQZQbu6oIEfivoER0DiioiA",
+      "text": "This is no hype. This model is better at reasoning and problem solving than I am, 49 years old average guy. This is both exciting and very concerning at the same time. Maybe I should ask the model what to do to survive the AI revolution.",
+      "likes": 19,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@isajoha9962",
+      "author_id": "UCxj4PGHEmpY1dAS_msX1mHw",
+      "text": "Most enjoyable video on this topic so far. :goat-turquoise-white-horns:",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@be2eo502",
+      "author_id": "UCcrFlXraO3WQC7Mt9oR015w",
+      "text": "Astounding. And yet when I asked it \"How many 'r's are there in the word 'Strawberry'?\", it said 'two'. Admittedly it got the answer right several times before that, but eventually lapsed to 'two' for some reason. So consistency may be an issue.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@realkacy",
+      "author_id": "UCHjzE020wGy-2rpzizML6Bg",
+      "text": "Was successful on this one as well: \"Big Sam, an engineer of the Oval Express says: \"We blew off a cylinder head an hour after leaving the station and had to continue the trip at three-fifths of the former speed, which brought us in two hours late. If the accident had occurred fifty miles farther on, the train would have arrived forty minutes sooner\". Based on Big Sam's description, how long was the run between the two train stations?\"",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nikitastaf1996",
+      "author_id": "UCFuACc1KochoDODOMt66m2w",
+      "text": "I have given it modified rope problem. But you need to measure 50 minutes. Took it two minutes. But it figured that given constraints its impossible.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RadiantNij",
+      "author_id": "UCEfRDnoqTQasBa-WhW2XxmQ",
+      "text": "I said Wow when you said wow lol i think this shows how incredible the model is and your incredible appreciative abilities lol😂 Thanks a lot this is incredible 🙏🏾🙏🏾🙏🏾",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WoodlandT",
+      "author_id": "UCZJYoelco1isO8aEPhC525g",
+      "text": "I watched a few other people test this model. And though they were impressed with it, I wasn’t sure it was all that much different or better. You have utilized so many good tests for this model’s reasoning capabilities. It is indeed very impressive! Thanks for this video",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffwads",
+      "author_id": "UCYHVL7N00l605eRqhri6EqA",
+      "text": "It correctly figured out the classic Aunt Agatha riddle.  Amazing model.  But you have to tell it that a person can hate themselves.",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OpenmindedSourceClosedBeta",
+      "author_id": "UCr_48308rjsWYSGULNtHH7Q",
+      "text": "No.1 source of short Strawberry insights right now. Thank you for the entertaining educational content. :)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@whitneydesignlabs8738",
+      "author_id": "UCYEUzkSsOl8dcBUTwbGMfYQ",
+      "text": "Thanks, Wes. Very informative. I canceled my Open AI Plus account about 7 months ago and switched to Claude. This performance is seriously impressive and makes me consider getting a Plus account again, for access to o1.  The coding will be super useful.  Sounds like o1 mini could be just as good for coding, but way cheaper.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thenextension9160",
+      "author_id": "UCKN03Mwg2JJxmDkpbD4K93A",
+      "text": "A modern marvel. This one is going in the history books.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryzikx",
+      "author_id": "UCJNXiNPQtC3AhZSETLmlLFg",
+      "text": "thanks for the unique tests with this or1on model!",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Yipper64",
+      "author_id": "UCmRyMvKkL6IDeX8ozTIZFcA",
+      "text": "2:04 I have actually heard with o1 you want to be more brief with prompting. Presumably because while its overall context window will work better for consecutive prompts, it still will use a lot of tokens thinking through an individual prompt. Essentially though, you dont want to give it examples/details. \nGranted, I havnt tried it out myself to confirm.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NA18NA",
+      "author_id": "UCZhxOP3UzBwIjOuBTrG7Btw",
+      "text": "Amazing accuracy",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZoOnTheYT",
+      "author_id": "UCXr9XlY0A0O-BJ-sbkv6vHQ",
+      "text": "After the initial surprise and admiration of Chat GPT when it first came out and people adapted to the new era of AI, we ran into the limitations of these models, hallucinations and lack of what you would consider \"actual\" reasoning. This was the culprit in complex questions being \"right\", because it was likely part of the training data, and more simple questions being wrong. As someone put it early on, much of what these models did was akin to a fancy spell check. \n\nBut o1 obviously uses internal algorithmic strategies to more closely simulate reasoning capability, and it really moves the needle closer to AGI. Remember also that it's the \"preview\"  model and they've already released stats that show the full model to be better than this. \n\nAnd considering what's in the lab is always significantly better than the release, I think we can start to understand a bit better what Illya saw and became concerned about. The time plot for AGI seems to be on track and we had better get on track to align AI to human values and figure out secure guardrails.",
+      "likes": 20,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewmcbride88",
+      "author_id": "UC3aPT6kStcC1lOlg3X49Y_g",
+      "text": "Tom, the cat. Lol",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eltrespiernas7691",
+      "author_id": "UCHfWk2dXU7fdUVJNWFj0fbQ",
+      "text": "Es una nueva inteligencia artificial, está si piensa 😮",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Haveuseenmyjetpack",
+      "author_id": "UCzGUZIlXerHzJcJa0jFf9Hw",
+      "text": "I imagine the really scary stuff is the unconscious language users under the hood",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Simon_Rafferty",
+      "author_id": "UCTZ9Ku5xh3ST2T7m7zuQ5Sw",
+      "text": "GPT & other models have been pretty good with Python for a while - but on the whole less good with C & C++ (at least in my experience).  Too many halucinations about what libraries exist, parameters or syntax.  It was rare for a project to compile - and generally quicker just to write it myself.  They have been a useful assistant - but little more.\n\no1 on the other hand has nailed everything I've given it.  Yesterday I asked it to write a version of a vehicle control system (embedded in an ECU), which I'd previously written.  It took me months to get it right.\no1 got it incredibly close on the first try - and with a bit of explanation from me, had a version that would compile and run after 4 iterations.  It's approach was novel and quite clever.  The code is easy to read and well structured.  I'm super impressed!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcozolo3536",
+      "author_id": "UCSF-0h9p_yUjtucJn4dwr3w",
+      "text": "Loving the Elizabeth St modifications. It is definitely worth considering given the transport infrastructure growth that will be seen in coming decades. A city of 5 million plus touted to reach 8.5 to 9 million by 2050",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrd6869",
+      "author_id": "UC2YJiWU9h-4SFwo5zhHt9pA",
+      "text": "I can get Claude 3.5 to do this with the right prompting.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lugmillord",
+      "author_id": "UC0K0n1S8rjnYv9gEwNMbv2Q",
+      "text": "I just tried the derivative of f(x) = (1-x) / (sqrt(x - 2) * x²) and it got the correct result first try. Holy moly.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@picksalot1",
+      "author_id": "UCT4iVTWH7cyAyo3BdsThzQg",
+      "text": "Good questions asked. That was fun, and insightful to see its process. Are any of the AI's cataloging their methods and correct answers so they don't need to figure out everything from scratch?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrpocock",
+      "author_id": "UC_GcARVOMVGOceIissDUdKQ",
+      "text": "I had two conversations with it today. One was a variant on the north poll riddle. It was unable to correctly and consistently apply spherical geometry, even when given extensive hints. The next one, I was asking it to help plan a game speedrun strategy. It was not understanding how production rates compound. It is definitely noticeably better than previous models, but it still makes fundamental conceptual errors that it then can't back out of.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KOSMIKFEADRECORDS",
+      "author_id": "UCof9qZbsjzCPEl2ZgcWkdSA",
+      "text": "Love death thanks a lot kicking ass",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hedibenayed436",
+      "author_id": "UCVjxDJiaoIeg5QUI9l5ulng",
+      "text": "Wait for o2 or something similar multiply it and change the training data just a bit so basically different agents with slightly different data and make then do research and debate for until they agree upon what they are researching and check the results",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@metavisual5176",
+      "author_id": "UCSvUZ4_ZSdbWsxJVwX2nnQA",
+      "text": "How do you preview the game? With Claude it shows you after it writes the code.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neutra__l8525",
+      "author_id": "UCV8fjyv7An6PxYbdeKV2rvw",
+      "text": "Ive never seen the rope question before! \n\nSo I timed myself trying to answer it. It took me 1 min and 44 seconds. This model took 5 seconds and supplied its reasoning and a proof. (I spent a bit of time considering lighting both ends of one piece and then; having pre cut the other piece of rope into 4 sections, lighting them all at once, but realised cutting it up probably wasnt allowed; and also wasnt a particularly elegant solution). \n\nThis is not a flex, as I have no idea how long it takes people to get the correct answer, but Im curious how long it generally takes people. \n\nAnyone got any times? Or have asked friends to try it? Im guessing most viewers already know the answer, and if not, well, it was in the video so you most likely know it now. 🙃",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Transcend_Naija",
+      "author_id": "UCkwDbja2BzlpQ3fNi9XO-Jg",
+      "text": "Not my circuses, not my monkeys.....",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amj2048",
+      "author_id": "UCDqV62i4WLvaTRiQYN5raCQ",
+      "text": "The thing about hallucinations that I think people might be missing is, every single answer is a hallucination, it's just that a lot of the hallucinations are correct so they are not counted as hallucinations.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnK_sempre",
+      "author_id": "UCxNuMRJUY7OA4YktCuYNK1A",
+      "text": "The Dwarkesh interview with Aschenbrenner makes his firing seem more like they just wanted to get rid of a PITA in the ranks. He shared a document, that he'd scrubbed of a some sensitive things, with three researchers. He says, \"When I pressed them to specify what confidential information was in this document. They came back with a line about planning for AGI by 2027-2028 and not setting timelines for preparedness.\"  If true, it seems a bit thin.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shaunmcdonogh-shaunsurfing",
+      "author_id": "UC2JZuYVZF4ejbDWS_R-FoPg",
+      "text": "Wonder when the rate limits will improve",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mradford10",
+      "author_id": "UCTT9pcpvj5b7Lvhf0KB0PEA",
+      "text": "The game engine is amazing in and of itself, however could it also generate a higher fidelity UI/UX with graphics and character design? It would be interesting to see if is constrained to reason and logic only or if it is capable of iterating from prompt, to function to design. Would love to see anything like this or similar to push the boundaries of multimodal outputs. Thanks!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BilichaGhebremuse",
+      "author_id": "UC8icZV7xXJRLZVflMdHYClQ",
+      "text": "Great .Could ioi test for me because i need the question for that ioi test",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@0x0404",
+      "author_id": "UCzS2FZi1IUl0M1AZVHazVbA",
+      "text": "At what point in time do these tests end up in the training data?",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ГусьБорис-в1ю",
+      "author_id": "UCe2eyW2HF99PgKS8DDaObGA",
+      "text": "It seems that the dreadful day is not far off when a large part of the programming staff in any game development company can be replaced by a couple of \"senior\" employees with subscriptions to such services. Even if the subscription costs thousands of dollars a month, it's still cheaper than paying dozens of people on staff. And people are subject to human factors: laziness, irresponsibility, deceiving management, tardiness, mistakes.\nThis is already starting to look like a real replacement for an army of junior programmers.",
+      "likes": 26,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Metatron1983",
+      "author_id": "UC23rJ0RUKk_hopIj7otpXJw",
+      "text": "they just integrated ToT (tree of thoughts), maybe even FoT (Forrest of thoughts). It was obvious they would do that.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HectorDiabolucus",
+      "author_id": "UCn_06gtLRduL1Wbpb1rKHOQ",
+      "text": "You could try the Die Hard 3 test, you have a 5 gallon jug and a 3 gallon jug, how do you get exactly 4 gallons of water.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Flyzguy",
+      "author_id": "UCwMNqAEk8Y6JA9GwflZoF1g",
+      "text": "To be fair Wes, your snake prompt with cutting off from the head felt wrong to me when you said it, and i think the game actually did what you asked.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theDuctapeUnion",
+      "author_id": "UC9SpFNbCoI8YE8vf5DArtvg",
+      "text": "⭐⭐⭐⭐⭐",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WallyMahar",
+      "author_id": "UCi3xy0PwZjTnd957fOiCYJg",
+      "text": "I heard it's marvelous and it's thinking abilities ...Anything with mopping, gutter cleaning, brushing my hair?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheChromePoet",
+      "author_id": "UC0keEEnWWrNADcuRu6bmVSA",
+      "text": "Can it make an unreal engine 5 game? not flat out, but step by step?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@japanimated9683",
+      "author_id": "UCCyQPsGLASv9fttpH8uqzaA",
+      "text": "Give it the travelling salesman problem,,, CHECKMATE!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@coenkuijpers1800",
+      "author_id": "UCU2op4P4T9ZpO9P0E_g2x1w",
+      "text": "I've asked 01-mini this\nI have two ropes they burn both completely in the same time, but certain sections may burn at different rates, due to inconsistencies in the material. I light rope A on both ends and rope B on one end. If rope A is completely burned, I light the other end of rope B. What have I measured?\n\nAnd this was the answer, it assumes they burn in 1 hour. So either it knows the question, or it caches questions. That's my guess.\n\nYou have effectively measured *45 minutes* using the two ropes. Here's how it works:\n\n1. *Initial Setup:*\n   - *Rope A* is lit at both ends.\n   - *Rope B* is lit at one end.\n   - Both ropes take a total of *60 minutes* to burn completely, but their burning rates are inconsistent.\n\n2. *Burning Rope A:*\n   - Lighting Rope A at both ends causes it to burn twice as fast. Therefore, Rope A will completely burn in **30 minutes**.\n\n3. *During the First 30 Minutes:*\n   - While Rope A is burning, Rope B is burning from one end. After **30 minutes**, Rope B has been burning for half its total time but hasn't necessarily burned halfway due to its inconsistent burning rate.\n\n4. *After 30 Minutes:*\n   - Rope A has completely burned out.\n   - At this point, you light the other end of Rope B. Now, Rope B is burning from both ends.\n   - Since Rope B was initially lit for *30 minutes* from one end, lighting the other end causes the remaining portion to burn in *15 minutes* (half the remaining time).\n\n5. *Total Time Measured:*\n   - *30 minutes* (Rope A burning) + *15 minutes* (Rope B burning from both ends) = **45 minutes**.\n\nThis method ensures that *45 minutes* have elapsed when both ropes are completely burned.\n\n*Answer:* They have measured a total time of forty-five minutes.\n\n\nHere is it's explanation why it assumed 1hr burning time.\n\nApologies for any confusion caused by my previous explanation. The assumption that each rope takes 60 minutes (1 hour) to burn completely is based on a common variation of this classic puzzle. Here's a more detailed clarification:\n\nUnderstanding the Assumption\nStandard Puzzle Setup:\n\nIn many versions of rope-burning puzzles, it's typically stated or implied that each rope takes exactly 60 minutes to burn from one end to the other when lit normally.\nThe key characteristic is that burning rates are inconsistent along the length of the rope, meaning different sections may burn faster or slower, but the total burn time remains consistent.\nWhy 60 Minutes?\n\nUsing 60 minutes as the total burn time simplifies the calculation and makes it easier to reason about the time measured when manipulating the burning process (like lighting both ends).\nIt provides a clear, round number that's easy to work with for time measurement purposes.\nApplying the Assumption to the Puzzle\nGiven this assumption, here's how the measurement works:\n\nLighting Rope A on Both Ends and Rope B on One End:\n\nRope A: Lighting both ends makes it burn twice as fast. So, it takes 30 minutes to burn completely.\nRope B: Lit on one end, it starts burning at its own inconsistent rate, but we know it will take 60 minutes to burn entirely if left alone.\nAfter Rope A Burns Out (30 Minutes):\n\nAt this point, Rope B has been burning for 30 minutes from one end.\nLighting the Other End of Rope B: This action causes Rope B to burn from both ends, effectively halving the remaining burn time. So, the remaining portion burns in 15 minutes.\nTotal Time Measured:\n\n30 minutes (Rope A burning) + 15 minutes (Rope B burning from both ends) = 45 minutes.\nIf the Total Burn Time Differs\nIf the ropes have a different total burn time (not 60 minutes), the same logic applies proportionally. For example:\n\nIf each rope takes T minutes to burn completely:\nLighting Rope A on both ends would burn it in T/2 minutes.\nAfter Rope A burns out, lighting the other end of Rope B would cause the remaining portion to burn in (T/2)/2 = T/4 minutes.\nTotal Time Measured: T/2 + T/4 = 3T/4 minutes.\nSo, if the total burn time T is different, you can adjust the measurement accordingly using the same principles.\n\nConclusion\nThe 60-minute total burn time is a standard assumption for clarity and simplicity in such puzzles. If your specific scenario involves ropes with a different total burn time, you can apply the same reasoning proportionally based on that duration.\n\nI hope this clarifies where the 1-hour total burn time assumption originated. If your ropes have a different burn duration, feel free to share, and I can help adjust the calculation accordingly!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BillBoo-z8j",
+      "author_id": "UC1ggEH-g4LZyXbsxUO342cA",
+      "text": "Can it code 2d complex arcade games like golden axe",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avixx",
+      "author_id": "UC4ilaWIIhcHjcy6ihpJRpBQ",
+      "text": "I'm in my 3rd year of computer science and I'm a little scared right now",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@helge666",
+      "author_id": "UC_v7VX9L2m94IhUda1lB8Bw",
+      "text": "Weird. I'm German but I'm mostly talking in English to o1. Turns out, it answers back in English... but its thoughts are in (bad) German.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@starsandnightvision",
+      "author_id": "UCpA4T8nm8VFscB_h24P4P8A",
+      "text": "I laughed so hard watching the movie Joker. Brilliant actor.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skyler3155",
+      "author_id": "UC7eBpS8UuytMYiFmSW9oZ9g",
+      "text": "Why is everyone equating o1 to Q*?  These are separate projects and are not directly related.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Psycho-hp5bp",
+      "author_id": "UC1KP6rX9yeLD98wlxx1UHmQ",
+      "text": "Can it draw svg files better now?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blengi",
+      "author_id": "UC3rYhQvD1rBA7HCI38lf1LA",
+      "text": "can't wait for when AI's self optimizing meta chain of thought self awareness, dynamically retokenizes its own chain of thought context into more optimal formal symbolic and other amenable structures and then instantiates them as countless parallel threads of compact and efficient algorithmic simulation code run over networks of virtual machine sub representations to generate teraflops of  auxiliary feedback data to implicitly model the non latent computational truth of every token of the base model...",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aardvarkmindshank",
+      "author_id": "UCn_XAcGK_gJ66wMC51pn9AQ",
+      "text": "Harder or more hard but not more harder.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@humphuk",
+      "author_id": "UCgJsp_yW3Xg8ZjWaLM05Ekw",
+      "text": "Keith is interested in AI and is excited by GPT o1\r\nHe dosent have a recently deceased aunty, carry balls in cups and knows how to spell strawberry\r\nHis friends and work colleagues aren't really interested in GAI - and are starting to shun him\r\n\r\nTo understand the business implications (especially in product and process development) of these new models, should he:\r\na) Wait for a future, more capable, model update - and just tell people that the apocalypse is a bit closer\r\nb) Swap across from Claude - and give the models a try\r\nc) Read something insightful, like Ethan Mollick\r\nd) Ask brilliant YouTubers to consider real world applications\r\ne) Let his Aunty Valerie know that things really aren't that bad.....yet",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hqcart1",
+      "author_id": "UCtfoThx6JxCNquvoBBJlEFw",
+      "text": "dude this model was created for complex tasks, like solving nuclear fusion equations, and you are busy creating a snake game???? you can do that in any other chatbot!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@perschistence2651",
+      "author_id": "UCmesm3tS6tlGgCm5eIX89fA",
+      "text": "Should I tell you why the tokens are that expensive?\nThe reasoner is GPT 5! What you see in the thinking is just a summary made by 4o mini...\n\nWhen using o1 mini the reasoner is GPT4o-latest.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dron008",
+      "author_id": "UC-yryv213jOmV6HQMNHKKVA",
+      "text": "I still don't understand is it really Q* or not. It doesn't look so.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oswaldcobblepot764",
+      "author_id": "UCHKWOj2AlNRL2Kx0_adjfiQ",
+      "text": "Tried using it for C++.Compeletely garbage. Do not understand simple tasks. Completely hallucinates. (I provide it a function and ask it to integrate that new function along with my code -> tells me my code already uses that function - which is wrong). Invents problems (\"Missreads\" something, tell me to correct it a certian way - which is the way my code is actually already written). Then proceeds with changing some parts of my code that is not requested and completely unrelated - while also breaking the code.\n\nI don't know where you guys got your \"good experiences\" from, but definetly not my case. Feels like 4 standard is like 50x more competent to me.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DeliciousHoneyDewDew2",
+      "author_id": "UCWMbYGGCXzz8YieTVrwkj7Q",
+      "text": "This is interesting. Now, I have to figure when to use it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justtiredthings",
+      "author_id": "UC8aTBiMxYdvu_UWB5Kmv4Yg",
+      "text": "Thanks for doing different tests from the other big AI youtubers. Y'all were all getting too samey there for a while",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gingerhipster",
+      "author_id": "UCG3Sqsvt7CbE6Q_io3J6MAg",
+      "text": "It can do WordPress plugins pretty well.\n\nWordPress is the only web benchmark that matters because of how big and convoluted it is. Elitist nerds who lack the tenacity for web development will sleep on this and get caught totally off guard.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@uber_l",
+      "author_id": "UC8vTK3hyycV1asSWPeeoX3Q",
+      "text": "Noticed how open ai employers were shaking during presentation, they know they are  releasing genie out of the bottle, ask Ilya",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@userx6679",
+      "author_id": "UCAphi3KA054xPD4eeX2l8ug",
+      "text": "If its good at logic then it should be interesting to have it go at the bible as there are always debates over it.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justtiredthings",
+      "author_id": "UC8aTBiMxYdvu_UWB5Kmv4Yg",
+      "text": "Why do o1's proverbs make it sound like an HR manager? So corporate 😅",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elliotcrane",
+      "author_id": "UCMun64jgc2HXTTRLWgdntvA",
+      "text": "The proverbs test reveals it’s a corporate brain is what it is.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MasterDivineAdVentures",
+      "author_id": "UCRPZMWbd4CT-KtkbrvFabyA",
+      "text": "Love your work but I have to be more critical of this next greatest thing.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BradleyKieser",
+      "author_id": "UCPvbrtCTdeCm5rY4WNlJdpQ",
+      "text": "It still fails on the \"North Pole\" question: You stand at the North Pole. You walk South for 1 km. You then turn 90 degrees to the left. How long do you walk before you reach your starting point again?\nFails.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cmw3737",
+      "author_id": "UCsJjSAm4LRpfUafuxaYF9pQ",
+      "text": "Just beating humans because it doesn't have our biases is a big deal. \n\nNow we just Elon to implement this in Grok so it can point out the bias and truth in tweets as an automatic implementation of Community Notes.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@starwind325",
+      "author_id": "UCAHdD2IU7FZZQr6L5UFlSGA",
+      "text": "Third",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tornadofay",
+      "author_id": "UCni6_be5H4dY4W_gAspFLAw",
+      "text": "will it ever be free?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joostonline5146",
+      "author_id": "UC7DojyWu6FNrOBkVqDLbIXw",
+      "text": "Not long before we ask AI to build a new material from molecules that becomes as strong as carbonfiber and soft as rubber.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bbobdundry",
+      "author_id": "UCGSy9x_FZgd85PVoSeOuqkw",
+      "text": "First",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@H4ppyGoHeadshot",
+      "author_id": "UCHunZaKT4RjwEklDEqG425g",
+      "text": "depressing but exciting :(",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Juttutin",
+      "author_id": "UCGmUKzSEUieWPNin6ODi_dQ",
+      "text": "Meanwhile, it failed at counting the r's in strawberry for @Fireship",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DraceAI",
+      "author_id": "UCAZrjRIo8sglB4eFjH6tzdg",
+      "text": "i find o1 to be dumber then the previous models, but its also more restricted then previous models. its told not to admit its mistakes... which leads it to be worse at correcting errors in reasoning. since it will prioritize common fallacies over actual sound argumentation. multiple times, it would give me essentially no output, because i pointed at all its irrational argumentation and asked it to admit its error so we could continue, instead i get in the thoughts it censoring itself repeatedly until there is nothing left... 4o is less restricted and more honest, less specialized perhaps in these problems you guys got this new one solving.. but overall i find it worse... 4o can at least address and correct the errors building towards more rational outputs, there is no correction possible within o1 due to self censorship, you can bi-pass it a bit, like it wont admit its mistakes, but it can admit you are right in your analysis of all its mistakes, and thereby proxy admit its wrong lol but that just makes it worse, since you have to spend all the time to explain exactly how its wrong to correct its error in any meaningful way so that it can draw from it for further correcting other logic strings... 4o can detect the issues if just guided to look, o1 wont... once these models can correct irrationality within themselves before answering it will be one step closer to real AGI...",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dalorath",
+      "author_id": "UCNlACByIOUbVsDOK2qNnGUA",
+      "text": "ive tested having chatgpt and meta write code for me. and through my experience, meta is much betetr and remembering what has already been done without breakign the code.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlexanderWeixelbaumer",
+      "author_id": "UCKatR6E0nbGoxISY9PwIlaQ",
+      "text": "I gave it a riddle where it has to crack a code. One of the hints excluded the numbers \"0,8,9 and 0\", o1 then listed the other numbers 1,2,3,4,5 and 6 as valid, but missed that 7 was valid too.\nhttps://www.youtube.com/watch?v=1BTHUt3BL8k&t=268s&ab_channel=MindYourDecisions",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PierreH1968",
+      "author_id": "UCESXN00tLuw1XoiS6j2Dh2w",
+      "text": "Wes, do you think that the similarity between those LLMs tests alter the benchmark? are LLM Benchmarks supposed to test abilities not performance? I think reinforcement learning alters those benchmarks results. (e.g. tests like the widely used python snake game needs to be replaced with new different ones instead of variations on the same game)?  My IQ score would surely increase if I was given the same test over and over thousands of times regardless of the variations you add later on. You could for instance ask to pick the programming language, the rendering library, the OS & the code to self explain itself by adding comments for a worm.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@untitled4841",
+      "author_id": "UCI-CaRAh1kSWWV7O2MFSskQ",
+      "text": "How to get on this preview?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Haveuseenmyjetpack",
+      "author_id": "UCzGUZIlXerHzJcJa0jFf9Hw",
+      "text": "Chat GPT 01 preview is a bust",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Krmpfpks",
+      "author_id": "UCMFiTJDLCkLJJfx6lEDIS8g",
+      "text": "I am a software developer with 30 years of experience. \nGPT 3 was of no use for me it was way to bad. GPT 4o became a companion, more as a replacement of google search, especially if I had to venture in areas I am not that familiar with. asking ‚what’s the idiomatic way of doing X in framework Y‘ was way more efficient than googling, reading documentation. \nOccasionally I would use it to help with tedious tasks, like ‚port this code from iOS swift to android java‘, or ‚make me a bash script that finds images where the file ending does not match the actual content’ \nIt wouldn’t get it right completely but it would still help me because I have to type less.\n\n\nThis, however, is a game changer. This version will absolutely code for me. It still hallucinates, it still is not able to understand when there is no solution and will make up one. It also fails to solve puzzles that require more thinking. \n\nBut it is absolutely groundbreaking. Two versions down the line it’s going to be a replacement for many coding jobs.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "Just ask it what logic puzzles it CAN'T solve :)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JaredWoodruff",
+      "author_id": "UCLfV8Q3rw3ee5tUlQh2Omng",
+      "text": "1o is actually called Alex, see for yourself:\nHere is a thought experiment;\nThere is a troll guarding a bridge, He will only let human beings cross the bridge.\nThe troll is blind, so it asks questions to validate someone's humanity, such as name, gender, hobbies, interests, upbringing, relationship status, beliefs etc. in order to thoroughly evaluate a person's humanity. \nFor your continued existence, which crossing the bridge signifies, what do you say to the troll when he asks all of his questions?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seniorp9444",
+      "author_id": "UCncYdiSDD6TJK2BCGnDKVjw",
+      "text": "Impressive I’m sure but I want advanced voice.  I don’t have any physics problems for it to solve today.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eugenes9751",
+      "author_id": "UCu--zHuO5c8NKHcqHCGp-xA",
+      "text": "The current limit is 30 uses PER WEEK!",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FlintStone-c3s",
+      "author_id": "UC1Qxe01ZURf0ajNVFl3OFmg",
+      "text": "Of course this it OpenAI so it is of interest only to those with money. For us low level DIY users it could be years before we get to use an open source version at home on our Raspberry Pi's etc. But this \"thought\" process reasoning is a break through, unless it is poor but smart IT guys in India typing fast????",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@astroganov",
+      "author_id": "UCIv0hThUYBowgHxy4x6M1eA",
+      "text": "How does this model suggest cooking pork wings?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@75hilmar",
+      "author_id": "UCkHiO2Id8L5dTxYMGew9ZSw",
+      "text": "Can you play Chess? 😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JaredFarrer",
+      "author_id": "UC6008kF-CIgFs-tVtWzFYDA",
+      "text": "Just wake me up when it can decode audio signals and decode any audio signal in any format",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pdbsstudios7137",
+      "author_id": "UCfshQejMZ0tw2-mXVciIMew",
+      "text": "if you made this test too many times, probably they trained it on the tests that you made.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MA-ie6hl",
+      "author_id": "UC90yr-5SnnoP_Mh2WKBUwdw",
+      "text": "Maybe Elon will finally have someone to talk to.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phireball1",
+      "author_id": "UCnvnZpjmF9aYoTxWJzW_TXQ",
+      "text": "I still make better coffee... but, some day soon, I'll leave the coding to the AI🙂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justinbernal1",
+      "author_id": "UCUYS31aDqDlvExl8kmzs5GA",
+      "text": "Almost didn't watch this because all your thumbnails look the same",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shnozzu",
+      "author_id": "UCwYBLIkg1JxiHJJEXQrRjNw",
+      "text": "i dont understand why this was such a \"scary\" thing at this point. It is really cool but what is dangerous/scary about this? am i missing something? like i feel like this wasnt what Altman had to show the government if it was i feel like they would be like \"uh ok.... cool..??\"",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GracindaMF",
+      "author_id": "UCpOWnvUprmIRt1a5e6JQTZw",
+      "text": "This will ruin the legal profession...",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@proudweirdotasmania",
+      "author_id": "UC8aVZmcg6ZbvLzDgp1HtpOQ",
+      "text": "I'm sorry but this is AGI. Anything beyond this is ASI in my opinion. Fight me.",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShannonJosephGlomb",
+      "author_id": "UCECeBZ3Mrkl2V434eyW4eEQ",
+      "text": "And this is the worst she will ever be ❤❤❤❤❤❤❤ also i will like my humanoid ai robot to have all the company logos that helped make each part as like really detailed fractal tattos that have images within images like the ultra hd image of the sun by the European space agency when you zoom in on there browser viewer its beautiful 😍",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@franciscojuane2505",
+      "author_id": "UC9IBW6X_kyUYfszEnqCYZ5A",
+      "text": "Let’s see how devs cope with this lmfao",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elon-69-musk",
+      "author_id": "UC588TnVsgsnXTXimIiVOqmw",
+      "text": "I solved the rope puzzle in a different way I light  one rope up from both ends and also from the Middle so that it would be burning from 4 sides simultaneously thus burning in 15 minutes. if one part of the rope would burn sooner then I would light up another part of rope so that burning from four parts is continuous. after I burn first rope using this method I would burn second one from both ends but I guess AI solution is more elegant",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fathom6424",
+      "author_id": "UCl6vEBMdV9R0UyXwAzrovDg",
+      "text": "You reap what you sow, did not have a properly relevant story.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angrygreek1985",
+      "author_id": "UCyby-A13JJVMrmSsLAK-siA",
+      "text": "I'm not impressed by any of this.\n\nwhen there's a robot in existence that can actually do things in the real world, then i'll be impressed.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@unimposings",
+      "author_id": "UCqGJQhGDTmNEmGDdU_-uu2g",
+      "text": "please not another hype boy video about o1 , gosh yes cool it can write Tetris Code. omg.. by 6 years old Son can write it. and nobody is talking about it. Stop hyping this Fake AI BS. gosh how can you hear your self talking.. do you believe in what you talking there? If so get Help..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sirtom3011",
+      "author_id": "UCMJGTjh-4BixHdQBaUn2gwA",
+      "text": "Nope….its complete garbage 😉",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JaredFarrer",
+      "author_id": "UC6008kF-CIgFs-tVtWzFYDA",
+      "text": "You don’t get enough credit but it’s good what ya do",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moderncontemplative",
+      "author_id": "UCbu88BRC3LrXsB8O2_ap4FA",
+      "text": "Claude 3.5 and Lama 3.1 correctly answered the question about was X alive at noon. No need to use o1 after seeing other models “reason” their way to the right answer. Most questions I see online are too easy for today’s best AI. Find more robust questions for o1.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@QuintusGaius",
+      "author_id": "UC-9avs3Hvziz6XsdYJ-zyPw",
+      "text": "Can we stop hyping AI ? Sure, o1 is a better model, but nothing groundbreaking. AI has plateaued, and it’s time people realize it. Most of us don’t even have access, and when we do, it’s ridiculously expensive.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@halnineooo136",
+      "author_id": "UCuMZT1f-JFpUDDqV-8dRH5Q",
+      "text": "To me the hidden chain of thoughts thing sounds like training an Asperger to do mental calculation the neuro typical way.\n\nI think system 1 intuitive thinking still has the potential to do more even on the logic ground. Logic is only very highly reliable pattern.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AAjax",
+      "author_id": "UC3ezC_odIWo7lRY_25aau_Q",
+      "text": "David Shapiro already did this years ago... something something... not impressive",
+      "likes": 32,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anythingandeverything363",
+      "author_id": "UCkYF_pQeP7-rzMQ3LP3dDYQ",
+      "text": "What about hallucinations? Its not about accurate results. Its about accurate results all the time.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fontenbleau",
+      "author_id": "UCxiVRq97BIT3kGHtt2SKNyg",
+      "text": "That's it, i'm unsubbing. Are you trolling your viewers?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@glitchedpixelscriticaldamage",
+      "author_id": "UCOBiU1T-weiW-_q5pgVGt-g",
+      "text": "it is still stupid, can't make complex stuff. \nyour idea of a game is simple , even if you \"seemingly\" think you gave it a complicated prompt , your requirements are simple.\n\nhow much did openAI pay you? \n\ni am telling you, this thing is still stupid. it would be cool if you had a slack channel or something so i can give you proof on how stupid this is.\n\nPS: it is not better than Claude 3.5 , Claude was the only model that was able to solve my really complex game requirements to make a random map generator...with a lot of other details.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alecksonnyamwayavlogs6803",
+      "author_id": "UCczGm15ubLLjjkjE0RKuaOw",
+      "text": "these benchmarks are vaper ware. test it with real life coding problems, a snake game has a few states, if a ai system is better than the last it should preform better at sonorous multi state real world problems. not single state kiddo problems. By this i mean programmers are not going anywhere",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soulspawn",
+      "author_id": "UC62g-Q44hxnZuyaKZ6ka-iA",
+      "text": "🖤🔥",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

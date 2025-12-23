@@ -1,0 +1,432 @@
+{
+  "video_id": "hrhvRDdcvn8",
+  "title": "OpenAI Dev Day Leaks! Gizmo V8, GPT Builder, Magic Creator, Context Connectors AND MORE 🤯",
+  "url": "https://www.youtube.com/watch?v=hrhvRDdcvn8",
+  "comment_count": 47,
+  "comments": [
+    {
+      "author": "@timothyspottering",
+      "author_id": "UCZbRGfuaARxNb5cdVTWG6Mg",
+      "text": "The funny thing is:\nI am in the process of getting some sort of agent system to work with autogen.\nIt works all fine & good - but getting it developed in a Chat GPT interface may likely just ease the whole process and make my original skill (my domain expertise) way more important instead of crawling code as a finance dude.\n\nnot sure if I will be able to control my agents in the same quality as with self written code, but it would be epic.",
+      "likes": 13,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Profusion_AI",
+      "author_id": "UCNWAiBuErlOQynPVnCBJMpA",
+      "text": "Nice to see many of these predictions came true! Great work Wes 🎉",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MaJetiGizzle",
+      "author_id": "UC9Zt85pQpVPNvIgCDOTV-aQ",
+      "text": "We’re literally getting something designed to kill character ai and poe while not likely getting the only thing I really care about being 4V API access.\n\nTheir goal is AGI my ass, their goal is platform as a service dominance for AI market share control.",
+      "likes": 27,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomski2671",
+      "author_id": "UCUPjWLgmlZhnmK2SMnU6bHQ",
+      "text": "Thank God for open source, Altman was talking domination in march. When somebody tells you what they believe, listen to them.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@foundational",
+      "author_id": "UCbEnXBotEZxP_2pyCizHD0w",
+      "text": "this is exciting !",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marki2325",
+      "author_id": "UCnp4mrjVxIvXXo3Mdt3FpMw",
+      "text": "If they can improve the conversation with quicker reply and also different accents would be amazing",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffsteyn7174",
+      "author_id": "UCKs9pYswNyrgxcfMXzuUrZQ",
+      "text": "That Ui you showed look just like something I saw months ago. It's a chrome extension you add and it adds in things like those tone and writing style drop downs, templates of different prompts etc",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@雪鷹魚英語培訓的領航",
+      "author_id": "UCcEsrAHuEp_lvG-u-THCVTA",
+      "text": "First video of yours I've seen. Nice personality! Subbed.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Renegade-Master-88",
+      "author_id": "UC_yO94cO_7x8Zu1RlnIb9Kw",
+      "text": "Chamath is awesome smart dude",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ppploan7625",
+      "author_id": "UCrK3rlMFZ40zQQqLo0FZUMQ",
+      "text": "ChatGPT 4 is having major problems right now if it’s not fixed this could be a problem for OpenAI",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@minimal3734",
+      "author_id": "UC07cBhrYaItXL3-Zt02Gsjw",
+      "text": "It will be a common sight that AI start-ups are regularly made obsolete by new features from the big players. It is hopeless to win here.",
+      "likes": 47,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@antemasq6520",
+      "author_id": "UCnbZWHmUV0UBZJiA5aj26xg",
+      "text": "OpenAi is the OpenAi slayer",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jessedbrown1980",
+      "author_id": "UCC5RaWd_AUYQBHYbjAmbLTA",
+      "text": "The premium version WTF is that???",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBlackClockOfTime",
+      "author_id": "UCXIEolhKdPgVriGva1AMeyg",
+      "text": "This just seems like genius level marketing for new AIPRM features dropping soon.",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertputneydrake",
+      "author_id": "UCdhQfHft2sh5v7AuCglFoTQ",
+      "text": "langchain",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zandrrlife",
+      "author_id": "UCvtGymI7_BqvgLeWnUuMLpw",
+      "text": "Why specialization is important. These companies dont care about developers fr fr. They see what works and copy. If you don't have a niche in this space. You won't win.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@al3k",
+      "author_id": "UCeoOfHMo7nuZViBGgEaB5Fg",
+      "text": "Well.. of course it's gonna ruin businesses.. every time there's an update, really.. :) Hold on to your hats, everyone. Reality is gonna hit hard.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@garypick",
+      "author_id": "UCKOTwsegKMokLHD6SA3LcXA",
+      "text": "I'm wondering why your Twitter/X has Top Articles but mine doesn't.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KolTregaskes",
+      "author_id": "UC5kHXGbaXrOfNidFUSO_wmQ",
+      "text": "That thing in the background \"AIPRM\" is a Google Chrome browser plugin, the video from that Twitter user is quite confusing because they have AIPRM plugin turned on",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jackzhu2443",
+      "author_id": "UCOKLDzI8uNzvdX36d1IZsLw",
+      "text": "All current GPT wrapper companies will be gone, history!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@someghosts",
+      "author_id": "UC2_VFNdr4M-AOU5fbEbfumg",
+      "text": "The ui doesn’t look right. It looks like a hobby project. Feels fake to me but could be wrong.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FrederickHqz",
+      "author_id": "UCN_YoA7EpapTc9w9Fsk-sgw",
+      "text": "OpenAI using Zapier API",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielsddonan8384",
+      "author_id": "UCVAlhbiJwDqrgw9TU-lRU7g",
+      "text": "wrapper apps are screwed",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveShap",
+      "author_id": "UCvKRFNawVcuz4b9ihUTApCg",
+      "text": "I've been telling people for the last year DO NOT COMPETE WITH OPENAI. It's honestly why I have declined getting involved with any startups, they're all gonna get nuked.",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SwingingInTheHood",
+      "author_id": "UCyjBsp353P1-Y-2paJ4ep-A",
+      "text": "Unless these automated agents come with data stores, memory and lots of context, I don't see how they make RAG implementations obsolete.  They will need to retrieve, summarize and analyze content from gigabytes of text, select the top results and render those in a fast and economical fashion.  Where are these knowledgebases stored?  How are they searched?  Will there actually be such a thing as long-term memory?    I don't think RAG is going away as quickly as the X poster think it is.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexanderroodt5052",
+      "author_id": "UC27jPmnRbWJZQl1bfU2zfug",
+      "text": "32K GPT4 General access 🥺",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ashdang23",
+      "author_id": "UCsiZ7KV6uI0B5YH82uMyB8A",
+      "text": "I just want to hear about ChatGPT 5, Free AI, Upcoming AGI",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Maalik-",
+      "author_id": "UCR4xTvEuvlsgun-xyNXK0CQ",
+      "text": "I see this rapid and large change in the industry and find myself asking how to better position myself for this new change?\nI'm confused and unsure of what really to focus and work on. I feel like I'm in \"tutorial hell\", as it's called, where you constantly switch between tutorials of different programming languages, fields, domains, etc. but never ultimately learn anything of real value from them.\n\nWhat should one focus and aim for in these times? I hear all this talk about AI, AGI, LLM, LMM etc. but don't know where and what to focus on as a recent Computer science graduate. \nIt feels like everything I learned in university has already become obsolete in just a single year.\n\nWhat should I learn? What courses should I buy? How should I start my career as a developer? Any help and guidance would be greatly appreciated.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bertstevens245",
+      "author_id": "UCuKp3YqzwvRr4zOPF3pxf7g",
+      "text": "Am I the only one who's currently getting much better results from Claude2 in day2day tasks (except coding)?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@riskcomplex7209",
+      "author_id": "UC9zmNCgv3fPNPclt9yzKj0Q",
+      "text": "I thought that facebook did not kill FarmVille. but rather Adobe decided to stop distributing and updating its Flash Player for all web browsers so Facebook (and all other platforms) could no longer support Flash games. Do you think its just a conincidence that Farmville was killed on December 31, 2020, the day Adobe's ended Flash support?  Or am I wrong?",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HunterMayer",
+      "author_id": "UC5y4wKSZ2vJJQfu6fp0MRRg",
+      "text": "Some of this news gives me heartburn. Even though it's neat stuff and definitely good evolutions in some cases.  And I'm not even affected by it very much. That is sort of by design and choice. This is why I'm so hesitant to latch onto any one piece of tech right now. If and when the bottom falls up from under it all the time you've now spent is waste /redo... I loathe the churn... I'm also not convinced that the ROI matches up with the cost of ownership... Or more accurately... I'm not convinced the ROI beats the cost of ownership. Cuz it has to beat it for it to be worth it...",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alertbri",
+      "author_id": "UCg9LBGGsXJoQLohRiNDvfWQ",
+      "text": "Thanks Wes, exciting preview!",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sirpetertkou",
+      "author_id": "UCFSDc8HT22lxLhpPcXc1FDw",
+      "text": "Thanks Wes!",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PauloGriiettner",
+      "author_id": "UCaHmz4iT5l8BY-LdrCfHZsw",
+      "text": "We are working to develop an AI service and I keep insisting to my boss to drop support to OpenAI API and invest time and resource to find a reliable LLM Model that actually does what we need, so we can train and help make it better. I'm in software development for over tow decades and being part of many start ups and I've seem many times a dominant platform, literally kill small business overnight, by just changing policies or stealing ideas. I just don't trust OpenAI intentions for the futures when it comes create my company around it.",
+      "likes": 14,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@J3R3MI6",
+      "author_id": "UCv29Fk1enjSt9D1YLzk-ayg",
+      "text": "I’m so hype!  GPT changed my life immeasurably… excellent video btw",
+      "likes": 12,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JosephSilv4",
+      "author_id": "UCjFuzaXvuk_o9UQw3FQ_Etw",
+      "text": "👀",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TPCDAZ",
+      "author_id": "UCfd6x58JbU2yqwPhuV_jyvA",
+      "text": "I hate leaks. Stable Diffusion SDXL turned out to be shit because of some idiot leaker making them rush it out.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wizardess",
+      "author_id": "UCpnFT-ZOnCSwuiSDDcyXnUw",
+      "text": "I see incredible promise here for malware. Does the agent you purchase have your best interest or its maker's best interest in mind.\n{o.o}",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anonanon2031",
+      "author_id": "UC5WCLKFwdVVKCjcKlk0HtZg",
+      "text": "Nothing that works with Meta or Facebook is worth working on because of the nuking of Farmville. Thanks for highlighting the issues with building on other platforms.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RickySupriyadi",
+      "author_id": "UC4IMYlCVUMiOudhmRFGlQJQ",
+      "text": "monopoly monopoly that's how AI makes people broke, actually the monopoly not AI who makes programmers broke.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hope42",
+      "author_id": "UC-6gZI2zKJfAljWGpgbhRag",
+      "text": "I'll turn my Chatgpt plus in for Gizmo v8 workspace for an extra $5 a month. Do I understand this correctly,?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@franzimeier6691",
+      "author_id": "UCMPCUBf2TvnbpVnocICVg0A",
+      "text": "hi explained a little too quickly it's just stressful and doesn't help much",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maxthemagition",
+      "author_id": "UCbGEiQ8UcS3WJTeyt6BxINA",
+      "text": "Until the AI can ask, then it is only a giant clever machine like an encyclopedia.\nWithout the ask it is only a machine.\nWhat does the child say.....Why, who or what etc.\nThat is the child training itself.\nThe AI is trained by us.\nIt is not anything like us...yet!\nI asked Bard if it could access the internet...yes it said.\nI asked if it could listen to questions...yes it said.\nThen I asked if it could listen to the radio....No.\nThe conversation went like this....\n\ncan you listen?\r\nYes, I can listen to you and process your requests. I can understand and respond to both spoken and written language. Please feel free to ask me anything or give me any instructions.\n\ncan you listen to the radio or TV?\r\nI cannot directly listen to the radio or TV because I am a large language model, not a physical device. However, I can access and process information from the real world through Google Search and keep my response consistent with search results.\r\n\r\nFor example, if you ask me \"What is playing on the radio right now?\", I can use Google Search to find out what the current radio broadcast is and provide you with that information. I can also access and process information from streaming services, such as Spotify or YouTube Music, to provide you with information about what is currently playing on those platforms.\n\nbut you can listen via google\r\nYes, I can listen to the radio or TV via Google through Google Assistant, which is a virtual assistant that is available on many Google devices, such as smartphones, smart speakers, and smart displays. Google Assistant can access and process information from the real world through Google Search and keep my response consistent with search results.\nFor example, if you ask me \"What is playing on the radio right now?\", Google Assistant can use Google Search to find out what the current radio broadcast is and provide you with that information. Google Assistant can also access and process information from streaming services, such as Spotify or YouTube Music, to provide you with information about what is currently playing on those platforms.\r\nTo use Google Assistant to listen to the radio or TV, you can say the following commands:\r\n\"Hey Google, play the radio.\"\r\n\"Hey Google, what is playing on the TV right now?\"\r\n\"Hey Google, play [radio station name] on Spotify.\"\r\n\"Hey Google, play [TV show name] on YouTube.\"\r\nGoogle Assistant will then start playing the radio or TV show that you requested.\n\nso why don't you?\r\nI do not have the same capabilities as Google Assistant because I am a large language model, not a virtual assistant. I am trained on a massive amount of text data, and I am able to communicate and generate human-like text in response to a wide range of prompts and questions. However, I am not able to access and process information from the real world in the same way that Google Assistant can.\r\n\r\nGoogle Assistant is a virtual assistant that is designed to be able to interact with the real world in a more natural and intuitive way. It can understand and respond to spoken and written language, and it can also access and process information from the real world through Google Search and other Google services. This allows Google Assistant to do things that I cannot do, such as play music or TV shows, control smart home devices, and make appointments.\r\n\r\nI am still under development, and I am constantly learning new things. It is possible that in the future I will be able to access and process information from the real world in the same way that Google Assistant can. However, for now, I am not able to do this.\n\nSo you cannot ask?\nThat is correct. I cannot directly ask questions of a person or a system. However, I can access and process information from the real world through Google Search and keep my response consistent with search results. This allows me to provide you with information that is relevant to your query, even if I cannot directly ask the question myself.\r\n\r\nFor example, if you ask me \"What is the capital of France?\", I can use Google Search to find the answer to this question and provide it to you. I can also access and process information from other sources, such as books, articles, and websites, to provide you with more comprehensive and informative answers to your questions.\r\n\r\nPlease let me know if you have any other questions.\n\nwhy can you not ask?\n\r\nThere are a few reasons why I cannot directly ask questions of a person or a system.\r\n\r\nTechnical limitations: I am a large language model, and I am not designed to interact with the real world in the same way that a human can. I can only process information that is provided to me in text format, and I cannot directly interact with physical objects or people.\r\n\r\nData limitations: I am trained on a massive dataset of text and code, but this dataset does not include information about the real world. This means that I may not have the knowledge or understanding necessary to ask meaningful questions.\r\n\r\nSocial limitations: Asking questions can be a complex social interaction, and it requires an understanding of social norms and conventions. I am not able to understand these social norms and conventions, and I may ask questions that are rude, offensive, or inappropriate.\r\n\r\nDespite these limitations, I am constantly learning and improving. It is possible that in the future I will be able to ask questions in a more natural and effective way. However, for now, I am not able to do this.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RockForge_Magic",
+      "author_id": "UCkBBXhjmQEgwxFb4TLt8XkA",
+      "text": "Isn't it true for any platform?  This isn't a new thing and it's not specific it AI.  You can choose to post your videos on Youtube's platform, and understand they can take it down and or ban you for life if they want to, for their own reasons.  Same for all social media platforms.  And now for AI platforms.  Welcome to the digital world. The free market will decide what a platform is worth, or not worth.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brytonkalyi277",
+      "author_id": "UCox5oOQ_-_GpSpPMRUF-sgA",
+      "text": "✓ I believe we are meant to be like Jesus in our hearts and not in our flesh. But be careful of AI, for it is just our flesh and that is it. It knows only things of the flesh (our fleshly desires) and cannot comprehend things of the spirit such as peace of heart (which comes from obeying God's Word). Whereas we are a spirit and we have a soul but live in the body (in the flesh). When you go to bed it is your flesh that sleeps but your spirit never sleeps (otherwise you have died physically) that is why you have dreams. More so, true love that endures and last is a thing of the heart (when I say 'heart', I mean 'spirit'). But fake love, pretentious love, love with expectations, love for classic reasons, love for material reasons and love for selfish reasons that is a thing of our flesh. In the beginning God said let us make man in our own image, according to our likeness. Take note, God is Spirit and God is Love. As Love He is the source of it. We also know that God is Omnipotent, for He creates out of nothing and He has no beginning and has no end. That means, our love is but a shadow of God's Love. True love looks around to see who is in need of your help, your smile, your possessions, your money, your strength, your quality time. Love forgives and forgets. Love wants for others what it wants for itself. Take note, love works in conjunction with other spiritual forces such as faith and patience. We should let the Word of God be the standard of our lives not AI. If not, God will let us face AI on our own and it will cast the truth down to the ground, it will be the cause of so much destruction like never seen before, it will deceive many and take many captive in order to enslave them into worshipping it and abiding in lawlessness. We can only destroy ourselves but with God all things are possible. God knows us better because He is our Creater and He knows our beginning and our end. Our prove text is taken from the book of John 5:31-44, 2 Thessalonians 2:1-12, Daniel 7-9, Revelation 13-15, Matthew 24-25 and Luke 21. Let us watch and pray... God bless you as you share this message to others.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@master7738",
+      "author_id": "UC9kF5YKtiKGQUsgUWGYNryQ",
+      "text": "e",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brunogeorge5645",
+      "author_id": "UCZAxKlD9sbYhdzZABzaS0nQ",
+      "text": "this is a wow [] the future before it Happens>> a must watch. ! rule # 1 \" I am toooo soon older and too LATE SMART; George 11 05 2023  :thanksdoc::thanksdoc::thanksdoc:",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

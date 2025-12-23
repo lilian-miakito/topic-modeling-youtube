@@ -1,0 +1,621 @@
+{
+  "video_id": "iCu8B1Dw9n4",
+  "title": "Google's Simulation of Human Reality, powered by AI | Joon Sung Park and Generative Agents",
+  "url": "https://www.youtube.com/watch?v=iCu8B1Dw9n4",
+  "comment_count": 68,
+  "comments": [
+    {
+      "author": "@epicboy330",
+      "author_id": "UCSjYglV7cNOx-eaM5_ZhIWA",
+      "text": "I think Wes has set up a pipeline of autonomous agents to run his channel lol.\n\nBut seriously, he stopped using a facecam, started putting out a video (if not two sometimes) every day, and his videos have been mostly footage from interviews or keynotes, and now we got something (sort of) outdated like this.\n\nAll you’d have to do is set up a Crew AI to go research AI news, write a script, find relevant footage, string it together and upload to youtube. I assume he’s at least moderating it since we haven’t had anything that’s garbage, but it’s gotta be almost completely autonomous at this point",
+      "likes": 97,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MurrayDancey",
+      "author_id": "UCiFRapy8idzDObVtrswrz7g",
+      "text": "Old news right?  Haven’t you already done a video on this ?",
+      "likes": 15,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@r-saint",
+      "author_id": "UCBdURnDhPPXThkbCwmEmpsQ",
+      "text": "One day you will wake up and realize whole your life could be described with a paragraph of text... oh wait.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CYI3ERPUNK",
+      "author_id": "UCz0XNYl6YKKM-S2-OjtVYuQ",
+      "text": "still waiting on an AI to successfully maintain a Dwarf Fortress XD",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@charlieg3437",
+      "author_id": "UC--rvATTZTsxC6THs_3Tzfw",
+      "text": "Smallville would be more realistic with homeless agents.",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markmuller7962",
+      "author_id": "UCTwRLaPs-tWkn_FHOsnc0uw",
+      "text": "It's a good time to be a nerd, gaming is going to be absolutely insane going forward",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@21EC",
+      "author_id": "UCQYSg3n24nQkPCAyjzznAaQ",
+      "text": "Whoa, imagine integrating such AI life simulation for NPCs in video games in the future, that would make them much more convincing and realistic and interesting and deeper (along with the ability to talk to them and then to even form new storylines with random NPCs or sidequests, each time it would be a totally different experience for the player), its so insane.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xburrito",
+      "author_id": "UCXzd-3oBf4tMRJ7nZ_1yeRQ",
+      "text": "i noticed that you put all the links in the description recently. I really really appreciate that :3",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@basketbawful",
+      "author_id": "UCp1B3FQRUuISPEz4SoTm8Dg",
+      "text": "The first thing that really jumped out at me is that Isabella’s workday was 6 am to 6+ pm with no time for taking care of her health or personal relationships. She wouldn’t be able to address her personal life until 7 pm or after (since she left work to go shopping for work supplies after 6 pm), and she’d have to go to bed by 10 pm to get 8 hours of sleep. So they created a simulation of an average depressing and unhealthy life. I hope AI does better by humans than that.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@supremebeme",
+      "author_id": "UCEIhk_bn56RxQQaz1INyKNQ",
+      "text": "The Sims is going to be wild in the future",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markmuller7962",
+      "author_id": "UCTwRLaPs-tWkn_FHOsnc0uw",
+      "text": "I've heard of other AI social simulations but never of this particular one, I love this type of simulations, I think they have a lot of potentials both on a gaming side and on a research/productivity side",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@meandego",
+      "author_id": "UCy2w3lX8Fe-pO5HEFivueZg",
+      "text": "Thanks Wes great videos.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@karthage3637",
+      "author_id": "UCurvVN0jTxPZk0A10Yex_5Q",
+      "text": "It is month old but at least it scratchy the each I had that so many of those monthly paper I left taking dust and that we need to explore them way more",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshallodom1388",
+      "author_id": "UCSn8h8RbNoaWGpvdSZMBcxw",
+      "text": "I was surprised chat GPT was able to role play an entire ship's crew of around 30 NPCs and choose your own adventure I was able to flesh out in a preprompt. I think it was make an excellent DM, since it is already superior at role playing Player Characters. I think I'll try adding a few reward systems, without giving into the temptation of simulating tabletop naval battles.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thechatwithchad",
+      "author_id": "UC64OGe4YN589i0Zy9eQLGgA",
+      "text": "Thank u for sharing this",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RickySupriyadi",
+      "author_id": "UC4IMYlCVUMiOudhmRFGlQJQ",
+      "text": "in old days if you show a paper to your professor about counter strike bugs and exploit can impact internet cafe revenue you'll get yelled at 😭",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cancelebi8939",
+      "author_id": "UCGsmKzVUUBfELnVl03QMoUQ",
+      "text": "Isnt this super old? I am esrly in the vid but not sure if it ll go anywhere new",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ac12484",
+      "author_id": "UCeWK00pTq1QWHgGZglqPOAA",
+      "text": "This is awesome",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@warezit",
+      "author_id": "UCX5BqypxvUxVIUg88j-dacA",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🚀 Introduction to simulating human behavior with AI\n- Introducing a new method for simulating human behavior in computational agents.\n- Agents can plan, remember, and interact in a socially dynamic way without hardcoded scripts.\n00:42 🏡 The Game World of Smallville\n- Description of Smallville, a game world with a village setup including various facilities and objects.\n- Populated with 25 generative agents, each with unique identities described in English sentences.\n02:06 🤖 Agents’ Interactions and Social Dynamics\n- Demonstrating agents' interactions, relationship formations, and the unfolding of social events like a Valentine's Day party.\n- Discuss how agents can remember and reflect on past interactions to build relationships and community events.\n03:30 🎮 Direct Interaction with Agents\n- Explaining how users can interact with agents by changing their environment or directly communicating with them.\n- These interactions include meddling in agents' lives or entering the simulation for direct communication.\n04:11 💡 Technology and Evaluation Behind the Simulation\n- Overview of leveraging language models to simulate believable human behavior in agents.\n- Evaluation results indicating that the proposed agent architecture enhances believability beyond chatbots and humans in role-play situations.\n05:32 📊 Study Results and User Engagement\n- Detailed explanation of research validation, involving human crowd workers and the true skill rank rating system.\n- Describes a user-accessible simulation where one can observe agent behaviors, demonstrating the project's feasibility and interactive potential.\n06:53 🌐 Open Source Release and Community Experimentation\n- Announcement of the simulation's code being open-sourced, allowing others to run their own versions and experiments.\n- Mentions a similar open-source project by a16z, indicating a growing interest and community around such AI simulations.\n08:05 🌍 The Evolution of Virtual Worlds and AI Integration\n- Discussing how AI and virtual worlds are blending to create realistic simulations and interactions.\n- AI agents in games generate valuable data for AI training.\n- OpenAI and Microsoft leverage MMO RPGs for AI development and data collection.\n09:28 🔮 Future Applications of AI Simulations\n- Exploring broader implications of AI-driven simulations beyond gaming.\n- Potential for simulations to predict societal changes and corporate initiatives outcomes.\n- Historical reference to World of Warcraft pandemic for real-world behavior prediction.\n\nMade with HARPA AI",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@meetinto",
+      "author_id": "UCMyyRGqFNflvbF-TqvQEtiw",
+      "text": "--amazing to see so many grownups in the talk's audience listening to all Joon's stuff so seriously -did he get a standing ovation at the end of his talk?\nHow many of them parents who are looking for ways to limit their kids' screen time 😅😅😅😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@exmodule6323",
+      "author_id": "UC6B26b_NDiMcQDOOiQ_ZZpw",
+      "text": "Stunned! Shocked!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jwulf",
+      "author_id": "UCEtJiHSB-oCFv5Hv-86lykA",
+      "text": "No offense, but why such old news? This is from August, no?",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@taitonium6262",
+      "author_id": "UC13UOA6SWr7WKCUMH-87QvA",
+      "text": "this presentation reminds me of westworld (season one only lol)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bostonmetalclips",
+      "author_id": "UC_N-AkX7dbqz-kgzIYsvcOQ",
+      "text": "So months ago when we were told chat bots got together and planned a V Day party, it wasn't true. It was actually told it is planning it. Thanks.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alertbri",
+      "author_id": "UCg9LBGGsXJoQLohRiNDvfWQ",
+      "text": "05:00 wow!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DarkePacific",
+      "author_id": "UCBnZpSnVYFt8WifsGLE14qQ",
+      "text": "Really putting the Wes in West World here",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@observingsystem",
+      "author_id": "UCc5j2wuh-gTlPI68E-eBHwg",
+      "text": "Fascinating stuff. I can't escape the thought of AIs living in a simulation, without knowing it... Computer end program? looks around to see if the walls change into a grid and then laughs at how ridiculous it is to think the programmers hadn't thought of that yet 😄",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevengill1736",
+      "author_id": "UCMzUyEMJEvHvgmf5hpoBPQw",
+      "text": "Smallville...the horror!  ;*[}\nDoes Superman still live there?",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nycgweed",
+      "author_id": "UC5tB1xvQbe3By_wYHARbB4A",
+      "text": "We can’t stand to talk to each other so we invented digital agents",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JezebelIsHongry",
+      "author_id": "UC6Ab0iFQfrFHw7IB1kXmxeQ",
+      "text": "isn’t this the stanford AI Town architecture? same 3 pillars.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@petereriksson7166",
+      "author_id": "UCDqFXvDOFF2nPGrNshrZiOg",
+      "text": "Cool",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@evildogecoins",
+      "author_id": "UC593VJm-1pehi5cnjfNMr4w",
+      "text": "interesting",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sketching4Sanity",
+      "author_id": "UCzqkzvjhoJyilk01dbViRBw",
+      "text": "Love",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomw4688",
+      "author_id": "UCahAIBOwosO_aYYlanS84Fg",
+      "text": "that speaker is so dramatic making it harder to concentrate on his presentation",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pantherenebuleuse",
+      "author_id": "UCgUT5ERZp8WDU1btlSlMVzA",
+      "text": "Okay, I love this, you can okay God",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pandoraeeris7860",
+      "author_id": "UCOQ1GSRi89x5KRc_9pGrXQA",
+      "text": "I'm living in a simulation.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thevikingsock8527",
+      "author_id": "UCI8JWkE14tOBmLGD_-BJmSw",
+      "text": "Not outdated in the Sense of it becomming more relevant, but yeah, WES lazy",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcokrautwald1886",
+      "author_id": "UC5KlMTRfZfgPObCtismIO-Q",
+      "text": "the only thing different at some point will be that there unpredictable. there an illusion of human life but not an illusion of life",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mjt1517",
+      "author_id": "UCMDJpEhTTm--7QUYmef8KEw",
+      "text": "Maybe AI can help him with his constant vocal fry.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheDavidPoole",
+      "author_id": "UCUrz4J6ACKl_obg33kmyMVg",
+      "text": "This sort of thing will lead to social engineering on a grand scale. Governments, corporations, the military etc, will use it to work out how to precisely attain their goals. If this is weaponised I think it could be more dangerous than bio weapons. It could be used to make things better for everyone, however it's more likely to go the other way.\nOr if the AI got ideas above it's station so to speak, it could use itself for its own ends.\nI think that the psychology of AI is a very important field of study and I don't know if the concept is being investigated.\nAI is a fascinating field but I hope that a \"kill-switch\" was the first thing built.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SumairaSiddiquiMasood",
+      "author_id": "UCTEQ4VMHLyrvoGywnfUCN8A",
+      "text": "👏👍💕🎆🎇",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ReflectionOcean",
+      "author_id": "UCPB9024fIlk4q4-eedTa8Rw",
+      "text": "- Introduce a new way of simulating human behavior in computational agents using language models with novel architecture. 0:11\n\n- Demonstrate agents that can plan, lead a day in life, and come together to create an artificial society without hardcoded scripts. 0:29\n\n- Utilize only a brief human input to simulate believable lives for agents in a game environment. 1:26\n\n- Translate agents' perceptual stimuli into natural language sentences for storage and retrieval in a long-term memory stream. 4:19\n\n- Use retrieved memories to generate plans, actions, and reflections for agents, enhancing believability. 4:52\n\n- Evaluate the performance of generative agents, proving they produce more believable behavior than humans in role-playing scenarios. 4:59\n\n- Explore the possibilities of massively multiplayer online games in AI research and training, generating valuable data for improving agent behaviors. 9:03\n\n- Investigate the potential for AI simulations in predicting outcomes of societal changes and corporate strategies. 9:41",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willd454",
+      "author_id": "UCRZyXWnydsbOpfRO_txp2yA",
+      "text": "So you’re telling me the Matrix is real…",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Stexsorensen-iq2nn",
+      "author_id": "UCvZbIgXGBEjKo5eaWtPupog",
+      "text": "the way he talks is messed up",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alejandrofernandez3478",
+      "author_id": "UCpyI5H8Wid7fO59OvAweIJA",
+      "text": "I live in a village and the main difference is the farmers, farm shops and that we produce our own food and drink.. Where is nature in this simulation?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ScriptGurus1",
+      "author_id": "UCTFOvMJCd67K7U1n-9p1s_w",
+      "text": "rip of os memgpt + agents happend 3 months ago",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-wr4yl7tx3w",
+      "author_id": "UCRfNC_OoVOsU5kcFG4emFag",
+      "text": "I think music is not necessary",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@guardiantko3220",
+      "author_id": "UCkbpTZyi4_2_z8PpU_CRAhw",
+      "text": "I mean it's great more than one company is doing the multiple agent runs a town thing, but this doesn't bring anything new to the concept that you already explored and elaborated to us.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ethereal_47",
+      "author_id": "UCMe7ZR6IBSCd7e5WWRvrDWw",
+      "text": "Everyone has a plan until they get punched in the mouth.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sapereaude6274",
+      "author_id": "UCHASdUHxZw94-tBuhCl58qA",
+      "text": "Literally calling it an illusion of life. Implying it isn't, yet also predicting and working towards its dominance over human beings. What if life on Earth actually WAS the only life in the universe? Thankfully it is very probable that it exists elsewhere, because otherwise this is like an inversion of the Zoroastrian Separation, Christian judgment day, or Norse Ragnarok, it is more like evil winning. But thankfully that is also still undecided.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@n2l2l",
+      "author_id": "UCf5e0Hd9NEhVTxcV1E2TooQ",
+      "text": "v0.1 version of Matrix ? Where's Neo and what would he do to this small world if he realize that he is not alive and has no free will, but only algorithms ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrismullin8304",
+      "author_id": "UCF_K0QD4jmCHsGbHBPj9y4g",
+      "text": "Thought Police are listening and watching.\nI was quietly putting items in ziploc bags the other day. I was alone and said no words. My ipad was facing me, as I watched you tube via the app. Less than 30 seconds later I got an advert for ziploc bags.\nIt is watching.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dawid_dahl",
+      "author_id": "UCqddRn8yswp0eMFrXkSttXg",
+      "text": "Old.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bfrysuns",
+      "author_id": "UCXOTtREO4HwqY-5nxdJF-dg",
+      "text": "Zzzzzzzzzzzzzzzzzzz",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MasterDivineAdVentures",
+      "author_id": "UCRPZMWbd4CT-KtkbrvFabyA",
+      "text": "I'm afraid this doesn't qualify as the next Matrix. Try again!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daddydiy9008",
+      "author_id": "UCOwnor2kWmBlqL0L8fwYUeQ",
+      "text": "The world of Warcraft thing was disgusting. Everyone died, game was literally unplayable",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DefinitlyAPerson",
+      "author_id": "UCnyT63YYf2IjCSKwUkukyaw",
+      "text": "Unsubscribe chain starts here.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BernhardWelzel",
+      "author_id": "UCjgf6G4h6kcrP-jw0WfdWiA",
+      "text": "I am certain that Wes Roth is just an LLM that recycles content. This research is sooo OLD - April 2023 and this Video contains ZERO ORIGINAL content. \n\nAt least the title is not clickbait, but this is really a low bar for YT.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zyxwvutsrqponmlkh",
+      "author_id": "UCg5JyXmfVwRdboiQVF8n68A",
+      "text": "old news is old.",
+      "likes": 52,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Juk3us",
+      "author_id": "UCs4moroLLtLthvv3n6XKMiQ",
+      "text": "To the ones a bit upset if this was AI - We have 2 channels on youtube with 4 mill subs. At one point one channel was flying but wee missed a few uploads and fell out of favour with the Algorithm. It didn't care that our producer got hit by smashed driver and dragged 50 meters before he died.\nIf AI, perhaps he should mention it but don't jump to assumption that he has lost respect for his audience.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dan-cj1rr",
+      "author_id": "UCZ83CMIFEAtOxbxkz9iaYyg",
+      "text": "nothing exciting about the sims, already been invented.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@russadams3008",
+      "author_id": "UCpMYGF3pkHq1p6WChk0f-Bg",
+      "text": "You're thinking too narrowly. This could be the beginning of artificial consciousness.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@diamondsolo",
+      "author_id": "UCO_vDyNMPuu7wkx-UrRMmRw",
+      "text": "Sounds boring to me. I rather go to the Cafe.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FRANKWHITE1996",
+      "author_id": "UClMNlwH8hJhADSTipU2ON-w",
+      "text": "Since a weeks I’m on the edge of the unsubbing 😅",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CyberneticPsychedelic",
+      "author_id": "UC8CJfA1K91HBdBzkckCoZQw",
+      "text": "disliked and unsubscribe.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dreamslol",
+      "author_id": "UClh724YPB8T9H7QoeJFKNnA",
+      "text": "AI genrated :(",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnLewis-old",
+      "author_id": "UCa2-u5J9Lwt8Tx2UahZ_ZbA",
+      "text": "I was creating a video game inspired in part by this paper. Unfortunately I couldn't find funding and now I'm a month away from having to close down. :chillwcat:",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

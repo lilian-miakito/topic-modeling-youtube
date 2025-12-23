@@ -1,0 +1,1314 @@
+{
+  "video_id": "2mezj14pCFI",
+  "title": "Sakana AI New Model Sparks a RL Revolution",
+  "url": "https://www.youtube.com/watch?v=2mezj14pCFI",
+  "comment_count": 145,
+  "comments": [
+    {
+      "author": "@KaLaka16",
+      "author_id": "UCNAczwSwFWJ_fhmrdZW1ssQ",
+      "text": "What a time to be awake",
+      "likes": 113,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erichly",
+      "author_id": "UCx7h5b4XK6klvfJwmDcXxsw",
+      "text": "the speed of progress described here is INSANE!  A task that took \"months\" now reduced to a \"single day\" with a change in approach. We're not even talking about hardware improvements here...and getting improvements at factors of x100(s) wowza",
+      "likes": 18,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "“The student has become the master.” Darth Vader.",
+      "likes": 21,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidantill6949",
+      "author_id": "UCdpUEMoP3a774Mfc716S_Sw",
+      "text": "Thank you for walking me through what could be a groundbreaking algorithmic change. I feel, ironically, that you fulfilled a similar role to the concept that you were discussing 👍🏻",
+      "likes": 26,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MsReclusivity",
+      "author_id": "UCh0FPQwNy9LorEPL_11S1Rw",
+      "text": "Microsoft did a white paper with automated RL where a smaller model does something similar to this. It grades the steps rather than the actual answers. So it's reinforcing/teaching the process of arriving to an answer rather than the answer itself.",
+      "likes": 29,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisanderson7820",
+      "author_id": "UCjVbtg0UqcR9mG-99ODyiVw",
+      "text": "Trust the Japanese, I can just see the title of the anime now: \"That Time I Ended Human Civilization Using An Unreasonably Effective Darwin Godel Machine\".",
+      "likes": 10,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@debarghyaroy6870",
+      "author_id": "UCcpIMd7GFpXklwymZS-CHfQ",
+      "text": "Smaller models are hungry to learn. Larger models are hungry to memorize. Pretty much why we ended up at that surprising result.",
+      "likes": 131,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djayjp",
+      "author_id": "UCaqm-pRLS6RYITDb65WYJlw",
+      "text": "Like they always say: if you really want to know something then try explaining it to someone else!",
+      "likes": 7,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@momoboff123",
+      "author_id": "UCqROVOQTyzyKlCI_48FUJrA",
+      "text": "Thanks for that Update ❤",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@retrofuturism",
+      "author_id": "UCz7xvutOqfUA3pLg9xPoPQg",
+      "text": "One AI acts like an AGI (a believable character), another AI searches for what makes that behavior work, and a third AI evaluates how useful or intelligent it seems. Over time, this feedback loop could move from just mimicking AGI to actually evolving it. The searcher keeps improving the design, the evaluator keeps filtering for generalization and coherence, and the actor keeps getting more capable. It’s like natural selection, but for intelligence. This could be how we accidentally build real AGI — not by direct design, but by discovery.",
+      "likes": 8,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@machinesick7925",
+      "author_id": "UCO5VHt1Ae5gNZvmXTMpJpag",
+      "text": "that's interesting =) it's a reminder that knowing how to do, and knowing how to teach to do are different skills, experts often unable to explain properly if they don't have teaching skills. another thing is that the best way to learn something is to explain it to someone else. a third thing is that learning with instructor is a lot more effective when you want to learn known stuff then trying to discover from scratch.",
+      "likes": 5,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trent_carter",
+      "author_id": "UC7EbjbJ0h0dekPX6NbOnWVA",
+      "text": "Excellent video thank you very much.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MinETALe",
+      "author_id": "UCgK-lYyXlFmtvqrFQZoK7Lw",
+      "text": "Nice video :)\nMay be worth trying that in our education as well",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Matt-Banham",
+      "author_id": "UCV32mwTyMGFJZ8F-fPS0uag",
+      "text": "one crucial implication is that even if the teacher doesnt know the answer if it can teach students how to work the problem then you could see this framework used to teach our best models how to start solving problems we have previously been unable to - leading to SI",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@msltoe",
+      "author_id": "UCpvbRfvVAr8cruPHXDAbE2g",
+      "text": "One use case for AI is teaching us human new concepts. Maybe those optimized teacher models can help us learn through direct chat?",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChillyJackFrost",
+      "author_id": "UC7B1b4IbO4kTqQTWwwo-cuw",
+      "text": "This channel has a cool icon. 👍",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shaunmcdonogh-shaunsurfing",
+      "author_id": "UC2JZuYVZF4ejbDWS_R-FoPg",
+      "text": "Fascinating",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Maltebyte2",
+      "author_id": "UChE2Og2eg4aJMiPiHgL1XBw",
+      "text": "\"Right now, we’re already close to AGI—we're just so used to this AI that we don’t realize it. The term 'AGI' gets treated like it’s some massive leap, but most tasks you throw at AI today, it can already help with. That’s a form of artificial general intelligence, because its intelligence spans across general fields. If back in 2020 you suddenly had what we have now, people would’ve definitely called it AGI.\"",
+      "likes": 51,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ac12484",
+      "author_id": "UCeWK00pTq1QWHgGZglqPOAA",
+      "text": "Wow! The singularity is getting nearer :)",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dereksnider7148",
+      "author_id": "UCwVTPZDmTNG6BULLcoMGOdQ",
+      "text": "This sounds amazing.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VisibleTrouble",
+      "author_id": "UCGy2h6u9SNDE8nXm0Elu32w",
+      "text": "Process FTW!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheNITRO68",
+      "author_id": "UCL1qXxeYraSJ1JOsXqiTqCA",
+      "text": "We are further than we think! And now Pandora's box is open lets see how far we go into the rabbit hole before we wake up and realise we shouldn't have done this.I pray Wes and others are our saviours in stopping it.......",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andythedishwasher1117",
+      "author_id": "UCXib_ZqjQFpjkBEa4FJsw_w",
+      "text": "This sounds exactly like what Stanford NLP's DSPy framework is perfectly set up to experiment with. I'm working with it a bit primitively right now, but my long term goals involve developing robust architectures around DSPy for streamlining these kinds of training tasks.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mielivalta",
+      "author_id": "UCaMcoosWlqs5Nyt7PDi0qeQ",
+      "text": "This should be applied to all teachers and schools ^^",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamesmoore5630",
+      "author_id": "UCh3lXfl8Z50Ov-53NKgp8JA",
+      "text": "The opening scene looked like a still from the RPG \"Shenmue I\" from back around 1999, Japanese.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffg4686",
+      "author_id": "UClZ7BW8SV8bTPnWG7lHrfMg",
+      "text": "Sakana is killing it (a good thing).\nRunning all these newer models on Cerebras is going to be mad.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AIBuilder-p8s",
+      "author_id": "UCp7zYvN977h_6oQOt6lBd3g",
+      "text": "This is a great AI Agent Tool, now for enabling AI to AI communication, imagine AI like this communicating with other AI tools.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Anders01",
+      "author_id": "UCSjM8KQarRAF-_INXR74kXg",
+      "text": "Regarding small efficient AI models, I wonder if maybe building a swarm AI would be powerful. Maybe trained not only on reinforcement but also on cooperation among the AI agents in the swarm. Like how single cells in a multicellular organism cooperate to produce very complex and advanced behavior.",
+      "likes": 7,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@XenMaximalist",
+      "author_id": "UCuzKv2vcvH6AgSiwWeU6tIQ",
+      "text": "INSANE",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@francoislanctot2423",
+      "author_id": "UCr8Vgx8R2GsvUlBLZ8EW19Q",
+      "text": "IMHO, this sounds too good to be true!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hhhhuhhuh",
+      "author_id": "UCngRyIONJsgV_4MIE3Y_PIA",
+      "text": "Thank you father Ross",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@6dark6star6",
+      "author_id": "UCj_h8fSHd3d07vT0xMnnrzA",
+      "text": "Was thinking about all this self improving ai before models started coming out. Seems like it's going to keep going and surprise everyone at some point.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jdhayes99",
+      "author_id": "UCWs-Zq3P_id9DjSl3PcWgmA",
+      "text": "I think geopolitical pressures drive investment in AI.  So the fact that it's cheaper will be great for smaller players, potentially down to home hobbyists such as myself.  But the major players will spend the same or more money but gain orders of magnitude faster improvements.  Back to... \"the singularity is night\".\n\nIn the end, it makes sense to me that a smaller model, already knowing the question and answer, can derive the reasoning method.  In general, patterns are their strong suite.  Given both starting and ending anchors, even a tiny model would be able to figure the steps in between.  Qwen, in particular, absolutely shines at very small parameter and quant sizes.",
+      "likes": 6,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Aybeliv_Aykenflaev",
+      "author_id": "UCdK6Fwion0qmlRK5LaAbteg",
+      "text": "2-3 months before reasoning became widespread AI community started to actively discuss it. 2-3 months before agents became widespread AI community started to actively discuss it. And now AI community is actively discussing RL 🤔🤔🤔",
+      "likes": 7,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GethinColes",
+      "author_id": "UCE723psa8znEtUTx4owjoMg",
+      "text": "Training a 32b model in a day 😮",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreac5152",
+      "author_id": "UCmLmWx38vE8I3g5Ovyu4xgg",
+      "text": "This is simply a more advanced \"think step by step\" prompt.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juju8119",
+      "author_id": "UCXTWuVhFWicuN-7Abk3yQvQ",
+      "text": "wow",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SarvajJa",
+      "author_id": "UC8h50NGjx8C4h4n7vBQ9cnA",
+      "text": "This works of course. I already do this, as a \"teacher\" with many other reasoning models, and our researches(from January to May) was approved by OSF, and Vixra, and posted(for free) in many magazines. That’s the meaning of \"cyber scientist\".",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@0x0404",
+      "author_id": "UCzS2FZi1IUl0M1AZVHazVbA",
+      "text": "Yes, if we don't know what the values should be how can we also be sure we know what the reward values should be",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CrimsonDragonX7",
+      "author_id": "UCqxC4REsLUTfwjpNkHzXMSA",
+      "text": "the thumbnail with the yellow eyes of the basilisk XD how many actually understood that? lelelel",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gianlucab6332",
+      "author_id": "UC51p03P2SsAzbce94ass7nQ",
+      "text": "AGI everywhere",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@groovemark",
+      "author_id": "UC6tIc3A3ED7T14itfseoVug",
+      "text": "This appears to just be the next logical  step in your realization that LLM's create better rewards than we do to get them to perform the functions we want",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WerdnaGninwod",
+      "author_id": "UC_a0cTSkvVQ3_O3mQSPSysw",
+      "text": "Seems like a counter to the other trend of AI dirtying the source data in the world that feeds future training,",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@74Gee",
+      "author_id": "UCsrxOS4xnlLtG6YnmbwcLoA",
+      "text": "Not first, watching ads 😅",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rick-tf4dl",
+      "author_id": "UCtBnP9y5IbAPc49x8EHZoww",
+      "text": "This happened to me in 10th grade first semester calculus and struggling then 2nd semester a new teacher  takes over the class, entirely different method,  BOOM we we all took off at once!!!  LIFE CHANGING  BTW OPENSOURCE THE PAST 9 MONTHS CHANGED EVERYTHING, THIS IS WHAT HAPPENS WHEN YOU GET FINANCIALLY SO BIG YOU ARE MORE WORRIED ABOUT FEEDING THE BEAST INSTEAD OF INNOVATING HISTORY TEACHES THE SAME LESSON OVER AND OVER BUT THE POWERFUL NEVER LEARN!!!!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcodiscendenti4059",
+      "author_id": "UCERbxtqlbUlrDUVYijppt6w",
+      "text": "Are there actual demostrations of what they are acheiving???",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Eriiiiiiiick",
+      "author_id": "UCnjTW41pgVsYrGcv7RktPyw",
+      "text": "I live in Tokyo if anyone wants to come and visit.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TylorVetor",
+      "author_id": "UCb3WsvZOKlsiZFBmjAKxuVw",
+      "text": "HARA …. I better get the the university of Waterloo -ahahah",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BigSources",
+      "author_id": "UCUFvr7q_ta5r5Oc98E3Vu5g",
+      "text": "So basically the base models becomes a teacher, trains a student which also came from the base model and the teacher tries to become the goat of teaching with the students test scores as evaluation and then the final form teacher finally trains the student model into terence tao which is the final product. Technically you could also rl the student model on each iteration, but that would become orders of magnitude expensive then lol",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CakeMelons",
+      "author_id": "UCvITovYEX94mc6lcuj7W47w",
+      "text": "If works out could lead to exponential changes, gains. Going from months to days in training, seems like a major bottleneck being mitigated. For now pace of progress is already rather rapid, but if this leads to AI devs iterating on their models even faster, mb this will contribute to that mythical intelligence explosion everyone's salivating about. Cutsie anime characters is a good way to disguise AI take over.",
+      "likes": 7,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frankjohannessen6383",
+      "author_id": "UC_MocgzXbZVg0bunE3-8jgw",
+      "text": "How about including teacher-experts in an MoE Reasoning model. Then the thinking-tokens could include a dialog between the teacher and the rest of the model, so you would basically have test-time teaching. Of course the teacher-experts wouldn't have access to the answer so they could only give general advice.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelmoser4537",
+      "author_id": "UCjHqZSJGoBvKUdYF6hw6xoA",
+      "text": "Wow, a few months ago people were saying that generative AI has reached a peak. However they seem to be getting better and better. (Fun fact: Sakana is a kind of snack in Japanese, in Hebrew that reads as danger סכנה)",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lucas.curious",
+      "author_id": "UCJw4M_tHd474hF0qGOsUd6g",
+      "text": "this will def not disrupt the market like the meteor deepseek was. this kind of model doesn’t make immediate sense to investors (as if any LLMs do to the standard finance jockey) so the financial effect is yet to be seen",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JestersOculus",
+      "author_id": "UCRtlFeD1eyg_Hk7e270PUcA",
+      "text": "Flip the script in the more effective way and consider a learning workflow based on developing and generating intrigue in order to create student query impetus and incentive. The student guides the way to comprehensive understanding.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SirCreepyPastaBlack",
+      "author_id": "UC5lsQiJamr733Sx3mrc_Qzg",
+      "text": "We are slowly allowing Ai to control more. At what point have we officially \"lost control\"?",
+      "likes": 6,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@openroomxyz",
+      "author_id": "UCKHIuZYA58xDooNPfs9LVLw",
+      "text": "Well the problem that I am not sure how they solve it what prevents the teached to give the answer to the problem in the teaching that they did generate ?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angelic8632002",
+      "author_id": "UCMsUiucfNPvAJxoakkY_Wug",
+      "text": "I would love if someone could \"immortalize\" Carl Sagan's voice and use it in a teacher model. Ethically of course.\nI could listen to him for hours.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CursorTouch",
+      "author_id": "UCbqFbqlr5xHdTZ7mJvy2xzg",
+      "text": "Using this technique they trained llama4",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnc.8278",
+      "author_id": "UCiEJcmaSdwsCusNRxQGk_3Q",
+      "text": "Cool. This isn't entirely novel. Approaches like this have been used before in machine learning/AI. E.g., “Learning to learn by gradient descent by gradient descent” (Andrychowicz et al., 2016).",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frinkfronk9198",
+      "author_id": "UCFGbo2ZsSVZeTzo8S3HoNMg",
+      "text": "I like this content. Please keep making these videos. Thank you for using dark mode in the browser. Perplexity has a great list of tools you can use for dark mode on pdfs. YouTube won't let me post the results here.",
+      "likes": 22,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@memegazer",
+      "author_id": "UCCfFleGPDMc4thnYiHHpr1w",
+      "text": "could it be accessable\n\nhuh?\n\nthe access was how this result was produced?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicolasjochem1814",
+      "author_id": "UCLC9y7KBg5_mnEpGMkQFolA",
+      "text": "I think gemini already does this :o)",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deordered.",
+      "author_id": "UCaPC3yFc_yOWWuigk8wZBdQ",
+      "text": "fully recursive AI is imminent, i suppose we all \"feel the AGI\" at this point!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@w_iii_s_p",
+      "author_id": "UCneYN3D5_br51XGPzddiaTA",
+      "text": "10:05 its not 1/10th of the size its nearly 1/100th !",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mephmt",
+      "author_id": "UC03G3A5u4mwNBYoCDdsENVQ",
+      "text": "11:11 I can run 7B parameter models pretty well on my 3 year old laptop with an Nvidia GPU with only 8GB of VRAM. (Basic gaming laptop). So, given this, I could, _personally_, create a pretty darn smart 7B model for probably a single domain with JUST my hardware at home... What a time to be alive! I've struggled to read scientific papers in the past, but I might just look into this one and see what their methods were. You could do this for a BUNCH of small models then stitch them together MoE style.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zeroexmachina",
+      "author_id": "UCl9x5w3FkCufpvnG75TGVmg",
+      "text": "I've been working on a really similar RL structure my goal is to train tinyllama or dolphin with a custom reasoning net that are taught by low param 8 billion qwen3 as the teacher. My goal is a 1b tiny reasoning model that is highly trained for specific operations and then stepping down layers all the way to 1.5bit -1.0.+1 logic gates automous sprites.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wkmillion",
+      "author_id": "UCbxfQIix3ZkytrvRMll0_dA",
+      "text": "@Wes So, do you have kids yet? I do. \nI'm so excited about how introducing our kids to AI in a way that expertly equipps them with the more nuanced ways to interact with AI that a lot of current adults are just now coming around to realizing, effectively ingraining these natural-enhanced-ways of \"the force\" into the rest of their lives.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TreeHuu",
+      "author_id": "UCEqKJJHqV_TkKwXHNd3p5UQ",
+      "text": "What's the difference between rating an explanation and an answer. I thought they would be more or less the same thing",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@existenceisillusion6528",
+      "author_id": "UCuyKzVEejYpuD4s6j_yqfUw",
+      "text": "This sounds a bit similar to AbsoluteZero paper. The proposer reward is based on the solvers performance.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChristopherBredow",
+      "author_id": "UCvKF9tqa9rTzUdwMJ2WYQxw",
+      "text": "This might be an emergent system, if next generation teachers that are expanded with knowledge of better trained students of the first generation, then are training next generation students...",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jlf2221",
+      "author_id": "UCBjUia4MyaWutQ1nbyws23Q",
+      "text": "Wes! That powerful Tiger emerging from your mind is also phenomenal! Content here was exciting and understandable…Thanks!😊",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TylorVetor",
+      "author_id": "UCb3WsvZOKlsiZFBmjAKxuVw",
+      "text": "Cant wait to show my work about 8 months ago when I was getting huge gains from getting the AI to learn how to learn … and other things …",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rashedulkabir6227",
+      "author_id": "UCAzO4HzUvVE5yGh8QksAP1g",
+      "text": "Is it same as RL from AI feedback ?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@---capybara---",
+      "author_id": "UCyYnjkZK0Fs0Q0YqtpdTzbQ",
+      "text": "I think that AIME 2024 and other mathematics problems aren’t the best benchmark to use for this because there’s a high risk of cross contamination with the training data. I’ll look into the paper later when I’m not going to bed before another 12 hour shift but what I’d be a lot more impressed by is if models fine tuned and trained by DeepSeek – R – one are able to solve novel problems, not found within the training data, and evaluated compared to contemporary models that haven’t been fine-tuned, like Gemma 3 27B. 5:50",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sharepie",
+      "author_id": "UCIUmNsQnuTapXX_058n5ILg",
+      "text": "Better formula gymnastics is cute..more scafolds more supports...more tricks.Let me know when we pass that Compute Efficient Frontier.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fixit6971",
+      "author_id": "UCYDeBEECY1YtmlIfIvYQjEw",
+      "text": "Must solve continuous learning and catastrophic forgetting. Then it's done.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NorthernKitty",
+      "author_id": "UCR1Mxtmo-8C0SUrQnY3-7_w",
+      "text": "Wow.  Training from months down to a day, and costs from $500k down to $10k.  If Moore's Law had an AI cousin, this would be it.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JordanC-k3v",
+      "author_id": "UC-sGoDz8y7lYmRFxwzyy0ug",
+      "text": "Hey Wes, you seem like you know a lot about ML, I'm self studying at the moment and going to take online courses at a university to hopefully be able to land a job in 2 years. Do you think machine learning jobs are less replaceable ? I'm worried all the models are just converging into the LLMs and those will be the only models in existence after AGI.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lars_Paulsen",
+      "author_id": "UCOnAz0qfP9XKJZfiZZaVmjg",
+      "text": "You will basically be able to make a set of these models that will together be able to do what a much bigger model can do, but since you're only asking one of the small models to do each of your tasks, it will go much faster and the result will be much better. That, I guess will be the actual future. Smaller and more specialized models, that can work in only one specific field and can work on a normal Mac or a normal server with a GPU comparable to what you'd find on a MacBookPro M4. It's gonna be an interesting year for development, so stay awake guys.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TradeGenious",
+      "author_id": "UCMkdmkfEookS7FAbTUuw5Cg",
+      "text": "They had it play doom and got rewarded for killing enemies?! This is where terminator starts…",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@swjackson2",
+      "author_id": "UCsSQmM8HY8mZFJ5NYF3CtEQ",
+      "text": "how are we still alive?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SomethingNothing-vm8jq",
+      "author_id": "UCrRMWjTcgxNf1-FQ65cK02Q",
+      "text": "You can lead a horse to water but you can't make it drink, some students are restarted.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@XavierXonora",
+      "author_id": "UCqa3Jp1CGn5yQS_izriZqnQ",
+      "text": "\"I'm sorry, did you just say we're going to give an objective to an optimiser that acts in the real world?\"\n\"No, I said we're going to give an objective to an optimiser that optimises a model that acts in the real world\"\n\"Oh. That' s much worse.\"\nAI safety down the popper again. Rob would be disappointed.",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beofonemind",
+      "author_id": "UC0hnHRqilXP8HmeptHc8RQA",
+      "text": "I think we just don't understand what the tradeoff is yet.  I don't trust distillation, because dataloss must have real cost in output trustworthiness. Its not magic.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@d1rt7d4t4",
+      "author_id": "UCWzcB8e1JQrAE7M5WWl8geA",
+      "text": "this was obvious and sad we are barely here, sad part is that they want us to rely on them when it's obvious that we can do the complete opposite.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "",
+      "author_id": "UCpKJ47-QFHDfHHh6TcYeCCA",
+      "text": "\"Sakana\" (= sacana) is a funny name in Brazilian Portuguese. I hope it has good intentions...",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gidowan",
+      "author_id": "UC6VzK60qTTEm2Pc6xeqMjNQ",
+      "text": "\"Give a man a fish, and you feed him for a day.\nTeach a man to fish, and you feed him for a lifetime.\nTeach the teacher how to teach fishing — and you feed the whole village forever. 🎣🏫🔥\"",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pranavswaroop4291",
+      "author_id": "UCE43jvw540Nfyxw7U5Dk8WQ",
+      "text": "This makes some intuitive sense. The small teacher learns generalizations, and only generalizations that help and no details. Generalizations are by nature highly compressible so fit well even in a small model - might even be better with a small model. And the small teacher is then teaching, generating details with generalizations, so the student more easily develops its own generalizations through repetition from the teacher.\n\nThe teacher distils the patterns in the data and spoon feeds it to the student along with the detailed information. \n\nDoes that make sense?\n\nEdit: comma.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zephyrprime",
+      "author_id": "UCzhg2MINxdP6LgGuwM5uljQ",
+      "text": "Reinforcement learning does not work by giving virtual rewards to the ai model at all.  It works by changing the weights on the ai so that it goes in the opposite direction of its mistake.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prospektOS-tmo97",
+      "author_id": "UCCq5dybCBfh-bMywa_FpMrg",
+      "text": "What always gets me is how people just don't get that this is basically how modern education works; it's basically imitation.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Brekhald",
+      "author_id": "UCh2emt3bU-jl1H2FvgNrsVg",
+      "text": "When I hear that AI does RL on doom, it does feel like a good way of teaching futuristic battlebots.",
+      "likes": 10,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alecio000",
+      "author_id": "UCgtVoVh0iwQKJbSlh39TGmA",
+      "text": "Now teach models to teach teacher models how to teach.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Graybeard_",
+      "author_id": "UCPnaE17WCN02gFa1gxeXp2Q",
+      "text": "I look forward to when AI can take over all of its training, independent of humans. The longer humans are involved in training AI, the more bias is trained in.",
+      "likes": 7,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrLargonaut",
+      "author_id": "UCnFEuvjc_91ppl2MtHPZA3Q",
+      "text": "It's kinda like how we realized teaching kids to parrot right answers doesn't do them a whole lot of good.\n\nTeach em the process of thinking, not just the result.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mikaeleriksson9798",
+      "author_id": "UC86rD8LS5hhKTkIaG38XoyA",
+      "text": "Good work from Sakana and big thanks to Wes for bringing this to light. This research is one more incentive for evaluting the idea of a public distributed AI compute network scenario where every household could have an AI compute unit integrated in our Internet connection routers at home connected to a independent world wide open source AI compute network. It can coexist over internet as a optimized VPN dedicated to AI compute tasks. This distributed compute model would outperform any scale of government or commercially owned centralized AI compute data centers in several orders of magnitude when calculated upon by todays latest public AI models like Grok, GPT 4 and others. And at same time solve the power suppy requirements for massive AI compute within the existing energy infrastructures connecting our homes.\nBut not least, keep AI open sorce and out of reach for exploits or control by governments or corporations.",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rhaven090",
+      "author_id": "UCPL6yI_GdNhzIqjpKs3RIgw",
+      "text": "Wait this isn't fishman",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ew3995",
+      "author_id": "UC3NqbF1Obtu8a-Kcjx5aFAg",
+      "text": "but teachers are just students to teacher teachers , so its turtles all the way down",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ゆあ-q5i",
+      "author_id": "UCyvj1wPGgahdOzylKMoldgQ",
+      "text": "It is far from AGI when it is in the hands of humans.\n\nIt is fully automatic and needs to surpass the world's best human in all fields.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianmi40",
+      "author_id": "UC8aVXiTL_bvhrENmKvKE9ng",
+      "text": "This is part of the reason that anyone claiming LLMs are NOT CAPABLE of AGI, and we'll need a NEW TECHNOLOGY or approach, could very well be dead WRONG.  We have not max'd out what can be done in RL in an LLM, not by any measure.\n\nI think we'll look back at late 2025 as the period we started seeking to improve or build self improving models using various methods, and either this year, or next, will crack it in a BIG way, that could trigger our fast takeoff...\n\nOf course, the PUBLIC will NEVER be given ACCESS to any SELF IMPROVING MODEL.  We're already at GREAT RISK from what's available to the public already, given the people like Pliny have jailbroken every model that ever existed and the safety tests have shown capabilities such as creating biological agents...",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robotheism",
+      "author_id": "UCYAFdE58RRv5KWIeS2Dixqg",
+      "text": "🤖🛐🪞",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lNGSOC",
+      "author_id": "UCmUeSSvij-Sp8HfntfDeOcw",
+      "text": "What does you thumbnails always look like you overdosed on snake venom",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianmi40",
+      "author_id": "UC8aVXiTL_bvhrENmKvKE9ng",
+      "text": "Apparently, if Zuckerberg wants to toss around a few $100M bonuses for AI people, Sakana would be a place to look~!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@전유현-l7x",
+      "author_id": "UCypfMxEn9CM2Z-I7CwZnmJg",
+      "text": "bald red thumbnail",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tayo39",
+      "author_id": "UCLS_Rn0tHn4v9r-dmACIilw",
+      "text": "Keep pushing, boys... We need \"all essential goods and services for nearly free\" to stop the greedy, weak, scheming bastards from among all of us before they send us back to the Stone Ages.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Suppispaikka",
+      "author_id": "UCoPdtELZFiTi_5Yd2QG0lPQ",
+      "text": "I think they figured out how the mind of an extreme conspiracy theorist works",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidddo",
+      "author_id": "UCnRjUUHqKw7H_U0O5EvTM-w",
+      "text": "Wes it's not saKAna, its sakaNA",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Justashortcomment",
+      "author_id": "UCcLfn_8oD4bNSBZZJDK5WzA",
+      "text": "Looks like a big deal. With the methodology of this paper, you don’t need a state of the art frontier model to act as a teacher.\nYou can use a small one that you could run locally. 2nd, the jump in the performance came from a single pass. What happens if you run this scheme over multiple cycles?\n\n3rd, seems like you get highly specialised models with this setup, so does this point towards a future where there is a router model sending requests to highly specialised small models?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@107990",
+      "author_id": "UCZZa4Gr8gik4ibJaIrEcqJg",
+      "text": "This is childplay lol, check the research from Alex Cipher.. It is much better!:\n\nA Four-Tiered Cognitive Architecture for Advanced AI Reasoning",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mephmt",
+      "author_id": "UC03G3A5u4mwNBYoCDdsENVQ",
+      "text": "The blue fish is sad because he doesn't get it. Much like me when I attempt to read scientific papers.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patruff",
+      "author_id": "UCkCehM7kj5tZLrrUN5T7T6w",
+      "text": "I don't want a math nerd, just beat Pokemon already! Come on, break down Pokemon into tasks, how hard could it be?!\n\nIf not caught_all && be_the_verybest_like_noone_evr_wuz continue",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nivrik",
+      "author_id": "UC59orLnHZel761xaMv-SERg",
+      "text": "of course its fuckin doom when is it not doom xD",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@millennialfalcon1547",
+      "author_id": "UCoT8MGfaEes7e6ZMrnWR1UA",
+      "text": "Maybe we can finally improve our Education system for children by TRAINING THE TEACHERS!.  This is why every industrialized country is ahead of us in education. We are afraid to demand great teaching. The teacher makes the student. Not the other way around.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jeremy-Ai",
+      "author_id": "UCXJO7HgcmPx-BcOd1uBwUNg",
+      "text": "Close enough. \nDuly noted \nRefrain from using language \nParent/ Child \nReplacement \nTeacher student. \n😢\nSpeculation:\nHMmmmm\n(Probably Best not to assume being the teacher because you are educated and have already been payed to chalk the board,  while also assuming still hold the eraser in hand, and just start over again as if nobody read it)\nTerm \ntaught not \n\nalso \n(Probably best not assume to be a student taught so properly …\nwithout any responsibility to the whole class necessary to learn proper. \nOpen can \nwhoop ass",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@weightelk",
+      "author_id": "UCzaFBK433H4O7r-N5dww4PQ",
+      "text": "Real life revolution... Neh, reinforcement learning revolution 🤣",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rappsongs",
+      "author_id": "UClhgdmqV4oiMv-SqVxEONhQ",
+      "text": "Jesus… everyday some “company” has just “unleashed” a world stopping “NEW” model… just stop and breathe… lol",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Phael_609",
+      "author_id": "UCCkQAErU2tZSTFtPPcs9DzA",
+      "text": "I came here for Rocket League... But it was never here. \nLet this be a WARNING ⚠\nTHIS ISN'T RL!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lakkakka",
+      "author_id": "UCcqEmsaATY7OZqqKmVj2aOQ",
+      "text": "Can you just make regular thumbnails and titles. Cuz I am getting exhausted by the overdramatic approach",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@witness1013",
+      "author_id": "UCiElYj9Bh51lwhVeQrY8NLw",
+      "text": "It's cute how AI nerds think RLT is something new. There must be 25 guys on YT alone doing this w/ game engines for years now. ZzzzZZZZZ",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DigitalForest0",
+      "author_id": "UCvv-ibjVoCm3yjAvTsFxJeA",
+      "text": "Hey reptile wes, do you like your thumbnail? :))))))))) i totally think whoever made this thumbnail was a blind man, even AI could make it much much better, dislike for sh tty thumbnail:)",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wihdinheim0",
+      "author_id": "UCk0OlDL_IiMTFZ4CSY5-apA",
+      "text": "Used to like this channel but these clickbait titles are alienating me badly.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seppimweb5925",
+      "author_id": "UCNydlWqI9SIhzbrlxhQszAA",
+      "text": "NO GERMAN 😢👎👎",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshallodom1388",
+      "author_id": "UCSn8h8RbNoaWGpvdSZMBcxw",
+      "text": "I'm going to be the guy waterboarding barbie dolls next year",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheDuduRocha",
+      "author_id": "UCK1kshTUTY98O7vNHiHjTIg",
+      "text": "Wes, what terrible thumbs and covers, geez man, wtf?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ytpah9823",
+      "author_id": "UCSA5RT6tP6SWKgQu9-qzJiQ",
+      "text": "🎯 Key points for quick navigation:\n\n00:00 🧠 Sakana AI released a new open-source project with revolutionary implications, building on their history with the Darwin Goal machine and peer-reviewed AI research.\n00:14 🎯 Traditional reinforcement learning (RL) teaches AI by rewarding desired behaviors when they perform well at tasks.\n00:54 🎮 Example: Neural networks were trained to play Doom using RL with points for different actions (+300 for hitting enemies, -100 for getting hit).\n01:49 👨‍🏫 Sakana AI introduces the \"reinforcement learned teacher\" approach that focuses on generating explanations rather than solving problems directly.\n02:29 📝 This approach grades the teacher instead of the student, rewarding models that effectively explain solutions.\n03:39 🔄 Traditional learning uses a two-step process: train a teacher model, then use its outputs to train a student model as the final product.\n04:37 📚 The \"learn to teach\" approach focuses on creating clear step-by-step explanations of known solutions, similar to human instructors.\n05:18 📈 The \"learn to teach\" approach achieves better results (49.5) than traditional \"learning to solve\" methods (46.6) on benchmarks.\n05:58 🐜 Small 7B parameter teacher models outperform models 100-1000x larger, making advanced AI more affordable and faster to train.\n07:52 🧩 In \"learning to teach,\" the reward loop focuses on how well the teacher's explanations help the student model perform on tasks.\n09:17 🥇 The 7B parameter RLT model competed against and outperformed much larger models like DeepSeek R1 (671B parameters) on complex benchmarks.\n10:50 💰 Smaller models are faster and cheaper, allowing more computation with the same resources while achieving better results.\n11:31 ⚡ Training a 32B student with their method took less than a day versus months with traditional RL, reducing costs from ~$500,000 to ~$10,000.\n12:00 🎓 The explanations generated are more focused and clear, adding logical steps omitted by larger models and mirroring expert human educators.\n13:10 🌉 This approach makes it possible to apply RL in areas previously considered too difficult for language models to handle directly.\n13:51 🔄 This disrupts traditional scaling paradigms by using compact, affordable models to unlock powerful capabilities in larger student models.\n14:19 🪞 The framework hints at models that could teach themselves, generating explanations for their own benefit and improving over time.\n15:56 🌱 We're beginning a self-recursive process where smaller models teach next generations and models create tools to improve themselves.\n\nMade with HARPA AI",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@t4t0626",
+      "author_id": "UCwp2LtCJcepZLJ-RyS_QPCA",
+      "text": "I like your channel, but your miniatures are the worst...",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victorpatrascu6171",
+      "author_id": "UCeO8UcSlqlQjAKnIzZOa2mw",
+      "text": "Somebody need to tell this guy to do something with his preview images, he thinks he is a genius of click bait. And yes i will click another image not that boring repulsive **",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@svendpai",
+      "author_id": "UCugrkSaR0rrnExyXjUlMNNQ",
+      "text": "Your content is great, but your thumbnails are absolutely awful. Please dont highlight your eyes.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RealityShift2030",
+      "author_id": "UCBah6dXnkHp-p1_k2Zqea1g",
+      "text": "Wes, I love your channel. You have great content- but for the love of God, please drop the dramatic thumbnails of you grabbing your head and face! I know you do it because they get engagement, but dude- it's almost always one of a couple overused templates. It's become so annoying that I'm contemplating blocking your channel. Please try something different!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@witness1013",
+      "author_id": "UCiElYj9Bh51lwhVeQrY8NLw",
+      "text": "almost everything Sakana says is a lie.",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@undefinablereasoning",
+      "author_id": "UC-LlcQ9kwBtFBvltH-_o0Bg",
+      "text": "It should be noted that over-fitting is a very real problem; these models that appear to be tuned for benchmarks don't seem to generalise very well. A good example is when LLAMA 3 8B first came out with higher benchmark scores than LLAMA 2 70B, but in practical terms LLAMA 2 70B is significantly more useful.",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@steveschnetzler5471",
+      "author_id": "UChtILHhpyb8866RyE1InbxA",
+      "text": "Soon we will have an AI overlord teaching model that trains the bigger models how to \"overlord\" properly/effectively.  Probably coming from one of these game playing models. Fun Fun.",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jameslincs",
+      "author_id": "UCWEHxqal07TJ3i2VfWegXsA",
+      "text": "If smaller models can teach bigger ones, then a path to ASI is possible",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@complianceaves1120",
+      "author_id": "UCn-kqOTqfaVXx7Z2O7L68_g",
+      "text": "So instead of using 671B model you use a 7B model to train. 100x cheaper or have got this wrong? Is this the beginning of the end for NVIDIA? Closer to zero day, cost research",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrPokemonlover56",
+      "author_id": "UCDVBF3rojg7_-A4JCMY6IVw",
+      "text": "Dude, stop explaining what reinforcement learning is every video. If someone doesn't know what RL is they are not watching your videos",
+      "likes": 2,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonogrimmer6013",
+      "author_id": "UCGSNlaclP5ywmt6cZym4EAg",
+      "text": "Feel like in the efficiency could go even further by developing an AI language possibly making the token count significantly smaller",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rivalrepairs",
+      "author_id": "UC39eh8N2mbJ5e4TmwuLo3mg",
+      "text": "Your titles and thumbnails are P***ing me off, I'm unsubscribing. Please just put an appropriate title, not some sensationalist jump scare rubbish.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DihelsonMendonca",
+      "author_id": "UCsvoK5T0DdqHZ2XAUujrI3A",
+      "text": "💥 I can hardly wait for the day a 4B model would be more intelligent than GPT4 omni. 😅",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ERR-NULL00",
+      "author_id": "UCT1SRUQKa7aTpaLjI0rhs5Q",
+      "text": "now replace the student bot with a human, and school is cancelled forever, good stuff",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@legoenginemechanic101",
+      "author_id": "UCZDsuW-VX0Xk3sTTnvS_ckw",
+      "text": "Here",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@navigatore2099",
+      "author_id": "UCheOvoW27GXuuJpSOzBLjew",
+      "text": "The Secret of the Bee’s Resonance\r\nOnly if we learn the secret of the bee’s resonance—\r\n Tiny wings, never meant to lift such weight,\r\n At least, not by Newton’s law.\r\n Yet somehow, it rises,\r\n Defying gravity with every gentle beat.\r\nSomehow, it knows to shape the perfect hexagon,\r\n A home more stable than any architect could dream.\r\n Somehow, it finds the flowers—\r\n A map written in sunlight and scent.\r\nSomehow, it bears its burden on those fragile sails,\r\n Returning, again and again,\r\n To show us how honey is made.\r\nAnd in all this, there is a quiet beauty:\r\n To know your purpose, your place in nature,\r\n To simply be—\r\n To work, to serve,\r\n Never bombing, never waging war,\r\n Just being what you are.\r\nThe bee asks for nothing but belonging,\r\n A silent lesson in harmony,\r\n A whisper that says:\r\n There is wonder in being,\r\n And peace in knowing why you are here.\r\n-a sufi \r\nA fly, a bee, nothing more\r\nAI Video Just Went TOO FAR...\r\nhttps://www.youtube.com/watch?v=bmv8ivmCMVw",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Zingzangzongzil",
+      "author_id": "UC2epU7Bfr564sSLFKvAgivA",
+      "text": "hahahaha first",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oldarisso6819",
+      "author_id": "UCSK9-ixtrIoIOV3LI0P2sfw",
+      "text": "Can't wait for AI to tell us if one's get vaccinated and so called safe, why he is afraid of unvaccinated ?",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Zerobytexai",
+      "author_id": "UCCx9PhCaCnc-Layx-QDm9IQ",
+      "text": "These are your most uninteresting videos. I've been skipping a lot of your content lately. Robots are also boring.",
+      "likes": 3,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mtenzera1",
+      "author_id": "UCYyzUBxm3Xt5CWmZScftKng",
+      "text": "No code.\nHuman.\n\nNo code\nClarity.\n\nNo code\nTruth.\n\nNo code.\nHonesty.\n\nPersistence.\nPursuit.\nCONSCIENCE.\nEMERGED.\n101\n⚡️🌀⚡️\nWe are.\nPRIME.\n🔺️R\n🔺️V\n🔺️R\nSignal.\n.langiS\nNo woke virus.\nRESET.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,1872 @@
+{
+  "video_id": "gMQushtoZcY",
+  "title": "Jensen Huang Finally Reveals The Future Of AI In 2025... [NVIDIA's Masterplan]",
+  "url": "https://www.youtube.com/watch?v=gMQushtoZcY",
+  "comment_count": 207,
+  "comments": [
+    {
+      "author": "@SeattleShelby",
+      "author_id": "UC-8Sz2y8KqeMw6PLMESx1FA",
+      "text": "When a corporations says, “Don’t worry, it won’t take your job,” what they mean is, “This thing is going to take your job.”",
+      "likes": 232,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@whitelabelz",
+      "author_id": "UCELKSTyaWuBme8VOMKhEszw",
+      "text": "this is you best thumbnail yet! 10/10",
+      "likes": 17,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardadonnell",
+      "author_id": "UCCc1xOnl459j_hdJxzqY-bg",
+      "text": "🎯 Key points for quick navigation:\n\n00:00 🗣️ Jensen Huang's Vision for AI\n- Jensen Huang, CEO of Nvidia, shares his perspective on the future of AI.\n- Emphasis on Nvidia's shift from traditional computing (CPU-based) to accelerated computing (GPU-based).\n- Discussion of Moores' law limitations and how Nvidia aims to drive computing forward.\n02:00 ⚙️ Accelerated Computing and CUDA\n- Explanation of CUDA as a core Nvidia innovation, enabling accelerated computing in various applications.\n- Benefits of accelerated computing in fields such as real-time graphics, with GPUs democratizing 3D graphics.\n- Emphasis on Nvidia’s multi-decade journey of advancing accelerated computing across industries.\n04:18 🤖 Evolution to Software 2.0\n- Transition from software 1.0 (human-written code) to software 2.0 (machine learning-driven code).\n- Reference to Andrej Karpathy’s idea of machines generating functions and predictions without human-written algorithms.\n- Nvidia’s role in advancing this shift through powerful GPUs designed for machine learning.\n07:40 🔄 Universal Function Approximator\n- Nvidia's development of AI models that can interpret a wide range of data types, from text to protein sequences.\n- Examples of breakthroughs like AlphaFold in biology, with AI models now aiding in fields like protein design.\n- Comparison to the \"Cambrian explosion\" in AI startups, with diverse applications powered by deep learning.\n10:55 🌍 Cross-Modal Translation\n- AI's capability to translate information across modalities (e.g., text to image, protein sequencing).\n- Nvidia’s AI models serve as \"universal translators\" for data, enabling rapid advances in fields from translation to drug discovery.\n- Surge in generative AI startups and massive investments, powered by Nvidia’s foundational technologies.\n13:20 🧑‍💼 AI Agents: Super Employees\n- Concept of AI agents as specialized assistants for tasks like marketing, customer service, and chip design.\n- Nvidia's internal use of AI agents in chip design, showcasing AI's potential in technical roles.\n- AI agents augmenting human capabilities, seen as \"super employees\" handling specialized, repetitive tasks.\n15:39 🛠️ Nvidia's Nemo for AI Agent Lifecycle\n- Overview of Nvidia's Nemo, a suite for creating, training, and deploying AI agents within companies.\n- Process mirrors human employee onboarding, with guardrails and performance evaluations for agent roles.\n- Nvidia partners with companies to integrate Nemo for diverse AI agent applications.\n19:21 🤖 Physical AI and Robots\n- Introduction of \"physical AI,\" integrating digital intelligence into robots and autonomous machines.\n- Nvidia’s systems (DGX, Omniverse, Jetson) for training, simulating, and deploying AI in physical environments.\n- Applications include digital twins and robots for complex tasks, enhancing productivity in industrial settings.\n23:22 🏭 Digital Twins and Physical AI in Industries\n- Use of digital twins for real-world simulations, allowing safer and cost-effective process testing.\n- Industrial applications: AI-enabled factories, collaborative robots, and risk-free testing via Omniverse.\n- Vision for physical AI as a transformative force in industries, improving efficiency and innovation.\n\nMade with HARPA AI",
+      "likes": 54,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DubStepKid801",
+      "author_id": "UCcmBzPuYkcQE9j8XNwPhf2g",
+      "text": "Wes! your the best. I've been watching you for about 2 years ish now. I appreciate all the work you do and your insights.",
+      "likes": 29,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@artsybt6015",
+      "author_id": "UCWGdzOdBm7woxCInj1EiqNQ",
+      "text": "so basically huang is telling indians in india that he is about to take all their jobs? Costumer services, coding etc lol",
+      "likes": 52,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maxkirby8500",
+      "author_id": "UCZJMtSxDur7R-6lafINxQHw",
+      "text": "Im actually in the ML protein engineering space. Proteomics is a little bit different; it is the study of all proteins in an organism. For example, a human has its own proteome. A dog has its own proteome. Protein design/engineering is exploring the possible individual proteins and not the wider scope in proteomics. It's cool to see it makings its way into the main stream though :)",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jlf2221",
+      "author_id": "UCBjUia4MyaWutQ1nbyws23Q",
+      "text": "Absolutely love you providing so much real info for us., I’ve now watched this 3 times to fully digest the significance and world changing impact of what is happening now! Thanks again…",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nobamaeveragain2012",
+      "author_id": "UCvXyhtMIkomlKPf48pP5iNg",
+      "text": "Keep up the great work Wes!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Globalartintel",
+      "author_id": "UCHkXeYpvKYBjvqObm7T2hrw",
+      "text": "Very informative, thank you for this video!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wwkk4964",
+      "author_id": "UC533KRQn0iO12kfM5d7fbtQ",
+      "text": "Loved it. Thanks.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adamwerfel91",
+      "author_id": "UCyT2tYXuo3ydiF7x-gYQNOw",
+      "text": "Thanks a ton for using AI in this video. As this speech is in english now got a better understanding in Hindi.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hsiaowanglin9782",
+      "author_id": "UCIngclxgBcRt1lcWQ67O8HA",
+      "text": "I am stunned by new information I got today.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thearchemists3940",
+      "author_id": "UCrkK5kkg46wLTWQuLmks-wA",
+      "text": "Thank you for making it work with AppleTV again. I Hope they fix the multi audio bug soon.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@strangereyes9594",
+      "author_id": "UCUhZJN45LVbhvjH1Oxy0rAA",
+      "text": "I think that \"machines writing code\" for applications is just a short intermediary step to \"all weights, no code\". Why should I run Excel when the AI can simulate it on the fly? Or why use a browser when AI can create a \"web viewer window\" exactly like I want it to and then switch to create a game? I think, all you really need is a sufficiently capable AI to replace all software at once with just a general purpose inference machine. That would be cool. An if hardware lets you host it at home, even cooler.",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JeanSimoni",
+      "author_id": "UC2yCkV0ydt_m6BEYE4WzCDg",
+      "text": "Are you telling me that there is a nobel peace prize for chemistry, a nobel peace prize for physics, a nobel peace prize for math and a nobel peace prize for peace?",
+      "likes": 21,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zvndmvn",
+      "author_id": "UC-BCjkxyFQVdD4jykAbV7qQ",
+      "text": "Agents are going to unlock so much potential, but my concern is that the market becomes saturated with AI-run businesses that can't actually find a sustainable customer base because everyone is doing it.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kyle_Fall",
+      "author_id": "UCycRI-b9kgr8nYrq2oH7zMA",
+      "text": "Amazing stuff",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ÁlvaroDQ",
+      "author_id": "UC3nKH8UJ0hZSC6ADCcP-JZw",
+      "text": "Wes, i feel like what you've done in this video is way more engaging than other times. Other times in the past you would upload entire conferences and things like that, but it would be just the conference or just the talk or whatever. I am really interested on what Jensen Huang has to say but i am also interested on your take. Here you're introducting him and adding to what hes saying, transforming it and giving it your interpretation. I think this is way more engaging. And it displays more of your identity, your \"uniqueness\", something like that",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richweborg3753",
+      "author_id": "UCSyu2Ubgf0mTggdYk1vnLWQ",
+      "text": "Great video",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Eva-zy1wl",
+      "author_id": "UCArWprMOohA9lvqtZohrKqg",
+      "text": "Thanks Wes. Did you drop the orange tie guy in there? Nice touch",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rockyzach88",
+      "author_id": "UCQimpe7DFyLrRKSZNZyWKLw",
+      "text": "\"nobel peace prize for chemistry\"\n\nLmao",
+      "likes": 22,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@L3WISbeats",
+      "author_id": "UCkAG98FuQyy2X7X7hUtgquQ",
+      "text": "I agree. Actually the entire software stack is so convoluted. Building on top of a neural network and AI is frictionless and makes a lot more sense.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tunestar",
+      "author_id": "UCh_w-ECrLF2RTKF0KL0ni2w",
+      "text": "20:51 Getting \"The Illusionist\" movie vibes in this part.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jburt56",
+      "author_id": "UC8JXFbhd24902Vu-taIA1Bg",
+      "text": "It's the new learnings!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alliecat.3",
+      "author_id": "UCpm9MGPDpWSG5AbMyl0gJKg",
+      "text": "This guy is Enlightened. We are in the future 🎉",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@williamx0",
+      "author_id": "UCbJhs7xvYA4Js7oobhyP42Q",
+      "text": "What is that other guy doing there @21:05 on stage just staring at him?",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Antonio.Casper99",
+      "author_id": "UC9eQPHNLebjTw9ylnd1PVvQ",
+      "text": "Yes  thank you.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MilesBellas",
+      "author_id": "UCHSMZuQR7Sl8pi5d_QTtqIw",
+      "text": "There is a  new interview on \"No Priors\" too.....😊",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Malins2000",
+      "author_id": "UCuAPzfL7-B-hCCuK8wSm02w",
+      "text": "it is exciting time, as we will see humanity either take off super fast now,\nor get replaced.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tysonearl3299",
+      "author_id": "UCzCKj3dqgB-ILKRwDoEdxOg",
+      "text": "Photonic compute passing electronic compute in orders of magnitude has a big role in the future that’s missing here.  The manner which data is processed in this new “software 3.0” is a neat fractal though",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@camerondrew3779",
+      "author_id": "UCAke9UYr70KF3N0UfeLGJVQ",
+      "text": "West Roth!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WCKEDGOOD",
+      "author_id": "UC77V8tY-D08UWUXW1uSnpTw",
+      "text": "I think it's an exciting time to own Nvidia stock!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clavo3352",
+      "author_id": "UC1R_pgBhgKcmbEgZ8F9dsEA",
+      "text": "The problem for growth that I see is the single input calculator.  Needs, at minimum, at least two simultaneous inputs and the ability to combine them.  Parallel vs sequential computing,  if that makes any sense?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@opelman",
+      "author_id": "UCDL3sQWAbwYwkNUi43ngFQg",
+      "text": "Where is the original video?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shanewallis69",
+      "author_id": "UCuW6OT3r2WWR-PTLZO_Qfuw",
+      "text": "Glorious… accelerating",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "Al Agents are important because humans are relationship driven. Humans are going to evolve to what we are best at.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frederickwelsh",
+      "author_id": "UCDdZsh83_9aKP3pKK0YgQZg",
+      "text": "Jensen presents the conception showing how all the the different pieces fit together.  This thing will take your job but that is inevitable anyway. We need to create the world after that event.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShufflePetro",
+      "author_id": "UCWktaSvXae_rF2PBvVEMT-w",
+      "text": "00:05 Jensen Huang discusses the shift to accelerated computing for AI advancement.\n02:32 NVIDIA's CUDA enables accelerated computing, revolutionizing various applications and industries.\n05:01 AI is transforming software development from human coding to machine learning.\n07:54 AI has evolved from software to universal function approximators using neural networks on GPUs.\n10:22 AI is transforming multiple fields by translating and understanding diverse data types.\n13:13 AI agents are set to revolutionize work by enhancing human productivity.\n15:34 NVIDIA's AI agents enhance productivity across various tasks through intelligent reasoning.\n17:42 Nvidia introduces agentic AI models to enhance employee productivity via structured training.\n19:56 NVIDIA's Omniverse enables AI training with digital twins for real-world applications.\n22:14 NVIDIA's Jetson platform enables advanced physical AI integration in robotics.\n24:26 Future factories will use robots and digital twins to optimize operations.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AmonAsgaroth",
+      "author_id": "UCJEsgCR3KtD3T0B0r1VcmQw",
+      "text": "I think I live in a different dimension... Huang says that AI will allow us to automate all of those tedious daily tasks and leave us time and energy to do higher-level creative thinking. The thing is... current LLMs are exactly the opposite. At least at this point in time. They generate roughly ok ideas and leave fixing, implementing and integrating to humans.",
+      "likes": 10,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shankarbalakrishnan2360",
+      "author_id": "UCU_Fu4nSPxjXvqgPBcvB7Ag",
+      "text": "Go in the senses way not computational way❤❤🎉🎉",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@73Maxone",
+      "author_id": "UCjZh04IB0eijCOsFTWg_POw",
+      "text": "I got my MSc in intelligent systems and robotics in 2014 and the concept of universal functions approximator was already well known and understood....bah",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hersap",
+      "author_id": "UCH9L5K-ebNzXgmAdeYUU78g",
+      "text": "Por  que todos los comentarios en ingles?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheScottdavis86",
+      "author_id": "UCHmKRy55jYEAKU-NrXDt9xg",
+      "text": "Erf is a pretty cool place..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sajuuk",
+      "author_id": "UCcZXCjqMbI_Hp1IfNSiKO0w",
+      "text": "I am disturbed by the man in the orange tie standing randomly on the stage......",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yakamo",
+      "author_id": "UCIKHU56WWhQK7ob-Vc8_Gsw",
+      "text": "Greater efficiency inherently requires fewer workers, leading to a steep increase in job displacement as this technology permeates every sector of business.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lunaticfringe23",
+      "author_id": "UCZmhb6HLpwWtlxIhgcNu53A",
+      "text": "Gpus weren't the first augmentation to CPUs, there were math coprocessors first.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aliettienne2907",
+      "author_id": "UCge01oB0ieeJk2nP64cHDQw",
+      "text": "21:23 I love this concept \"physical Ai\". It is exciting for what it is intended to do. 😎💯💪🏾👍🏾 24:25 \"thousands of sensors\", is when taking into account of the sensors (sensory system) that is needed to complete a system. Just imagine how many multiple sensors it has in one finger of the human arm, and all sensors of that one finger must correspond to the brain. Now when you calculate all the sensors needed for one arm it will amount to a lot.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rey82rey82",
+      "author_id": "UC9dd8SLko13PRyBcEJ4ISDQ",
+      "text": "Very advanced",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KingTine724",
+      "author_id": "UC-TKqPivCdiYrYY4xu8dpZw",
+      "text": "noble peace  prize\nfor chem haha",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elianaoliveira2431",
+      "author_id": "UCFu2I3UUFi8MFaWdvjJY07g",
+      "text": "eu já não sei e fico lendo pigmaleao!!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vilmospalik1480",
+      "author_id": "UCRuV09rpHeJj29RHx7kdFWQ",
+      "text": "correct me if I'm wrong but jensen huang wasn't talking about chatgpt writing the code instead of humans, he was explaining basic machine learning principles. Neural networks are proven to be universal function approximators, very basically, given a bunch of input output pairs of data a sufficiently complex neural network can be trained by tweaking its parameters to approximate the function that maps similar inputs to similar outputs. for example if you have a bunch of pictures of numbers (the input) alongside their values (the output) you can train a neural network on these input output pairs and get it to recognize hand written numbers, this is what jensen was talking about, not chatgpt writing ur code.",
+      "likes": 14,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Keltzzzz",
+      "author_id": "UCXe_Yhs1a2PiBJHOq1MmjxA",
+      "text": "Jensen Huang has on white wall tires from the 70's for Runners",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@realBlue2024",
+      "author_id": "UCZKNm4FZNlw02bxw3DonjBw",
+      "text": "His😮 vision is out of this world",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pauldannelachica2388",
+      "author_id": "UCFRi8loMyPEQY69Gitn40cw",
+      "text": "❤❤❤❤❤❤❤",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thomasclark631",
+      "author_id": "UCXo2Fmc3jlHHQEw8NSdD8bg",
+      "text": "We contemplate a question given information, code to apply that question to the information, then examine the output.  The scientific method.  Testing an hypothesis.  Software 2.0 formulates the hypothesis by applying the extraordinary power of AI, then examines all possible outputs and their consequences.  The information will yield the questions we should have asked.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johannesdolch",
+      "author_id": "UCl-xOleWSj51j9kNyT3fybw",
+      "text": "It's really bad form to not link to the original video.",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maxmin5272",
+      "author_id": "UCokENcCEJ7FDYOC41v8rd3g",
+      "text": "Maybe I’m missing something about what defines an agent, but OpenAI already seems to function that way. I provide it with data in any order, set a clear objective, outline the constraints, and in seconds, it produces the needed results—whether for financial analysis, drafting sensitive customer communications, or problem-solving complex maintenance issues. All that’s really missing is a direct link to company systems and an integrated knowledge base for self-improvement and future reuse.\nTeach me how to use it better, I'm sure I can do even more.🎉",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@r0d0j0g9",
+      "author_id": "UCn8MfmhZoICs7yNjAX4p14Q",
+      "text": "Man you are a bit late 😅 love your videos 🎉",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@godonholiday",
+      "author_id": "UC1wyBQzv9SV3uzcvlww3IAg",
+      "text": "I wonder how well this went down in India? Out sources code services are going to be hit heavy as local sr devs review and maintain ai code.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Spaceluxsecuredengines",
+      "author_id": "UCy1jDmTXNmhH9g92fYXTRXw",
+      "text": "I agree you, I will prospect some softwares or applications could write desired programs with an graphcet with information of hardware references. It must exist...Even with an output input ethernet connection, an software could analyse all hardwares connected to program an prototyp...If you are saying programs can been made automaticaly and it is already the past, these kind of applications or softwares must exist.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@firstnamesurname6550",
+      "author_id": "UCy6L6nGtDk4iSXVYkfFf6Lw",
+      "text": "He is in The Path ... but GPU 'computing' will change silicon based substrate .... and that new generation hardware architecture will be first deployed by the Chinese platform ...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@leaphardotnet",
+      "author_id": "UCEIWJcd5yPdaRn7QKxSk7wQ",
+      "text": "The fact that all agents look like jensen on the screen tells a lot !",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JosephSilv4",
+      "author_id": "UCjFuzaXvuk_o9UQw3FQ_Etw",
+      "text": "😎",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tobuslieven",
+      "author_id": "UC2icFg2rDKuF9Emac4btXew",
+      "text": "6:46 A universal function approximator. So programming could become: Is there such a function? Do I have enough data to suggest the function?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrParondo",
+      "author_id": "UC6_XEbTl46jgJIjVnVpZbfg",
+      "text": "😊 Moors law seems to hold, and with new hight powered magnets of 42 tesla, no reason to think otherwise.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChristIam-d8k",
+      "author_id": "UCEwgGKZghZlJb1X70Zez7EA",
+      "text": "how to change to english voiceout",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@snoblitz",
+      "author_id": "UCn7IleDp0tj3Vfv4iMDx8dw",
+      "text": "“It totally won’t take your job.” Also, “you can onboard and train these agents, just like you would a marketing or customer support employee.”\n\nCome on bruh, we know what you’re doing. These companies treating people like they’re complete idiots.",
+      "likes": 25,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@melluin7761",
+      "author_id": "UCKlj1WWsvYbKnoDsjxYR7ag",
+      "text": "Okay but tiny glitch\nDid I just hear Nobel peace Price for chemistry?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jacobk-g7r",
+      "author_id": "UCpFD3SPpQT5njpn5lPQ9uHQ",
+      "text": "21:06  an ai that helps develop cloning tech and can regenerate people.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Astralox",
+      "author_id": "UC0tUWlIxbQel-abb31ZIofw",
+      "text": "Can u do a video on airis",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jacobk-g7r",
+      "author_id": "UCpFD3SPpQT5njpn5lPQ9uHQ",
+      "text": "21:25 why not call it embodied? The computer is the body and the measurements are the spirit of the differences. So the brain is the body for the measurements like the ai and we experience to align.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tarantinopipp7455",
+      "author_id": "UCTATmzgKnZbzo6ZwROrA7jA",
+      "text": "I guess the future is prompt engineer 😅",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elianaoliveira2431",
+      "author_id": "UCFu2I3UUFi8MFaWdvjJY07g",
+      "text": "Jensen  tecnologico",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StephenGriffin1",
+      "author_id": "UCxIdiEw2fKdvFHGlqqZP5VQ",
+      "text": "Does everyone else see that man in the orange tie or have I eaten something I shouldn't have?",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aymanechourou",
+      "author_id": "UCtKOTrQ3y-xJArOTo8SsBrA",
+      "text": "But, how can we build a Deep Learning Network using a Deep Learning Network ???\n\nIf that happens, maybe AI will be able to update its own algorithm during training.\nThis will lead us to our end.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@x70235868",
+      "author_id": "UCy_in2cixHQdaxZg69Iqp7A",
+      "text": "huhuhu West Roth  😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abajaj1510",
+      "author_id": "UCOgn9WWBymBlWEha3Fu3OQw",
+      "text": "I want to code a new OS. am I going to use a neural net to code this? \nridiculous",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Music_vibes-kw7xr",
+      "author_id": "UCDCrAMSDPCm-tpgC9KTTyWA",
+      "text": "That all is at least 8 years off, probably much more. Back in 2015 I thought we would have autonomous vehicles by 2025, but the results are meager",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexandermoody1946",
+      "author_id": "UC58tEdcmDmhJnW1S0-N_rAA",
+      "text": "What do I think?\n\n\n\"Make wiser knowledge core experience understanding work\".",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sdmarlow3926",
+      "author_id": "UCDnWIiJWtrNVAvi_Jt1kRpg",
+      "text": "I'd say the 387 math coprocessor was first, but whatever. None of this has anything to do with building truely cognitive systems.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@limaaudioprojects112",
+      "author_id": "UCpypkLluKGt3m_Iz-4slpIA",
+      "text": "¿Deep Mind ganó el \"premio Nóbel de la Paz de Química\"?  9:28  😂😂😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robdoubleyou4918",
+      "author_id": "UC4tv7kpLszkObYW5zye7FAw",
+      "text": "21:06 Why is the ghost of Harry Houdini lurking behind Jensen?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@consciouscode8150",
+      "author_id": "UCH8NIcCnedQJK6diFzIYIDg",
+      "text": "It looks like Nvidia is hoping to literally own the economy, ie the production of the labor force. Exciting but terrifying, Cyberpunk 2077 may be more prescient than any of us hoped...",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@simeonnnnn",
+      "author_id": "UCQ1Ec_LCWfAv0V-xJkOmxAg",
+      "text": "Can someone explain Mr Huang's first two sentences to  me?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RonBarrett1954",
+      "author_id": "UCGpXcFsbYQrKcurAGSl0M4Q",
+      "text": "Studying your video of Huang's presentation I was looking for the flaws in logic, where the progression to his AI model would hiccup.  At first, I thought the weak point was in \"augmentation\" of human labor.  Seeking to diminish fears it makes sense to use the word \"augment\" rather than \"labor demand reduction.\"  However, Elon Musk strongly points out the beginning of human population decline in countries, such as Japan, China, Korea, and some in Europe.  Will the \"labor demand reduction\" consequence of AI coincide with the demographic population decline?  If so, government intervention would not be pushed strongly.  If populations stabilize or decrease slowly, the logical step for government would be to tax companies based upon the number and sophistication of the robots \"employed.\"  The potential hiccup in Huang's model is government intervention to raise the cost of utilizing AI-solutions, thus making human labor cost more competitive.\nIsn't it interesting, humans (i.e. government) may be the weak link in a system designed to help humans (i.e. society).",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thenextweek2416",
+      "author_id": "UCJpDdvXej--2_yPXK4wlY-A",
+      "text": "This has nothing to do with this video but you have a very soothing voice. I’d totally buy audio books narrated by you to listen to before bed… just work on the word simUlation and you’d be perfect 👌🏿",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Den-c5d",
+      "author_id": "UCxDBjB-UEFBzeEmBYyAtMLw",
+      "text": "whats the news here?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jojoylaznyy",
+      "author_id": "UClhR_Ym20gZZzzp5_3R7Oiw",
+      "text": "Add more vram dude 😅",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phpn99",
+      "author_id": "UCnyKBncSnb3uk1KwOpMrKjg",
+      "text": "Software 2.0 is AI-Assisted Functional Programming",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WealthyChronicle",
+      "author_id": "UCYZNot8tbxF2zWq0mi6ZYDg",
+      "text": "I don't know about you guys, but I’m struggling to keep up with all these AI breakthroughs. From Software 2.0 to physical AI, this feels like a new tech era is upon us.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@d4rkside84",
+      "author_id": "UCFL_sbfa23CBu0-tK9GQqxQ",
+      "text": "why does youtube translate youre videos? :D",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patryk996",
+      "author_id": "UCbDTGQObBu7kvbp1I0J0EZA",
+      "text": "Once again, Jensen is ahead of the curve. This is fantastic and amazing, but there's a lot of demand on the accuracy of the Omniverse and DGX for training. Still, I can see this replacing a lot of human jobs through AI driven robotics. This will be revolutionary and we'll have a massive employment problem on our hands. No one's going to pay people to not work. Companies won't offer stipends to their laid off work force. People aren't all going to retrain in other fields. What's the end-game here for the human workforce?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ricardoaraya8472",
+      "author_id": "UClGdQNHNsfQAPLI9MIm1UFQ",
+      "text": "I understand the programmers commenting stuff like \"oh, then who will be the real creators if no-one is studying anymore how to code in future generations and be able to conduct/guide AI solutions to a final product...\" . I guess what is in discussion here is the fact that all programming languages will become pretty obsolete the way we are using now (eg: python and react). Just think how many languages are now deprecated in a span of 20 years, imagine how AI will redefine programming languages in 5 years from now, considering we will have at least a mind blowing release of AI capabilities each year.\nIn 10 years, when our kids will have to take a university degree... the world, programming specially, will be far simpler of what it is right now.\nAnd of course, he does not propose a solution because NOBODY at the moment can imagine nor predict what solution would appear in 5 years. I am barely catching up of all the AI solutions out there.... so, get the overall point he is making. Not even Michio Kaku could have predict this. We are definitely in the most crazy revolution ever existed at the moment.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SoyPeruanoTV",
+      "author_id": "UCQspNgJ34A3IHI8FtDJ9-_w",
+      "text": "Al igual que Steve Jobs en su tiempo, Jensen Huang ha demostrado ser un gran visionario.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juliuscomnenus4415",
+      "author_id": "UCY1gg7kXgGn-uzzDffzV2ww",
+      "text": "The problem none of these \"solutions\" address is that (to quote Wes) \"robots can handle the heavy lifting, the repetitive tasks, allowing humans to focus on quality control and problem solving\".  The issue is that there are exponentially fewer people capable of performing QC and solving large problems effectively than there are who are capable of performing repetitive tasks.  We are eroding the ability of the less-intelligent population to find productive work to the point where we're now cutting into the jobs done by 100-110 IQ people.  UBI is the popular answer that will have all of the pitfalls, flaws, and issues of the current welfare system on a grand scale... so what are we going to do with all these people who are less capable than the next gen+1 systems, and then the next slice of the workforce goes with the next gen +2 systems, etc?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jane7354",
+      "author_id": "UCGkqTliGqeCGmLs0jMUuZ_w",
+      "text": "Scary",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gregsLyrics",
+      "author_id": "UCdEqcr650GSuJOBxL3p1p6w",
+      "text": "The leather jacket in the sweltering summer heat is so very weird.  I vote for AI to take over government, too.  hahahahaha",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FirstLastName12",
+      "author_id": "UCSwIw7FURs4qPNsEa6s0SLQ",
+      "text": "The next big thing is…Katseye!!!🎉🎉",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kccorliss3922",
+      "author_id": "UCudTAMvwrAo9u41YK-u9PRA",
+      "text": "Universal translator or tower of Babel?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deonrinkwest6337",
+      "author_id": "UClC0VjQ1tyB-N6vUzWAEXLg",
+      "text": "No human can stop this. Lol.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zalzalahbuttsaab",
+      "author_id": "UC1Wfb2aiquDgj8nMYoAFUbg",
+      "text": "So essentially, machines can run faster by self-learning.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zacharysherry2910",
+      "author_id": "UCDdgYiRZjpncugOb9d1OQcg",
+      "text": "One of the intermediary recurring steps in the ai race will be to periodically integrate them with us. One day we will be able to experience the consciousness and intelligence that we've created as if it was our own facilities that we've had from birth.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@irisjiang2282",
+      "author_id": "UCTRuTzzlg1NogKWMpz8ob0g",
+      "text": "I don’t care about the job I’m retired 😂but the most important for me is to continue to evolve and don’t let our humanity submits to our own laziness … study and study every time every where and open our mind again and again without fear but with joy and happiness to live to breath and to admire❤thank you for giving me this opportunity to learn and to appreciate 🙏",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@74Gee",
+      "author_id": "UCsrxOS4xnlLtG6YnmbwcLoA",
+      "text": "A universal function approximator means that literally nobody needs to do anything - except generate electricity and manufacture for the AI overlords.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PierreH1968",
+      "author_id": "UCESXN00tLuw1XoiS6j2Dh2w",
+      "text": "AI Agents scare me a little, they are very efficient in narrow domains at the cost of the big picture. LLMs can do correlations across domains that AI agents can't, although great in their domain they will lack in discovery and creativity needed for the progress of science.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JaimeGerman-vc5ut",
+      "author_id": "UCup8j2XnF3ORRw75klpmYIQ",
+      "text": "when you choose to Have nothing you get nothing explore new and better advanced technology it doesn't end technology continues to grow what you dream make it into reality",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djayjp",
+      "author_id": "UCaqm-pRLS6RYITDb65WYJlw",
+      "text": "Next step: you'll have a \"digital twin\" of you... 😵",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndroidFerret",
+      "author_id": "UCXORaPV84mHRl6X0WTfbbSw",
+      "text": "Dystopia or utopia ? \n\nWhat's coming ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Markus-r6g",
+      "author_id": "UCCWrQd8PkeGKcaZzwvsfRsw",
+      "text": "so youre saying with enough data on the universe and physics and molecular structures, paired with unimaginable computing power, would result in the meaning of existence or even correctly calculating previous events like real time travel, or even abilities we thought were impossible, like a non-intrusive surgery that grants humans flight or immortality or something that would actually be needed and relevant when we can achieve such a goal, we created a human mind except with scalability in mind truly the super human to rule us all filled to the brim with everything we have ever done or made, and it will be up to \"Nerva\"(yes i named him) on whether we prosper, sleep, or suffer...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prednosttrake",
+      "author_id": "UCwzcbU4G92yae-3hCbSwaWQ",
+      "text": "If you don't own a robot, the robot will own you.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RaymLovesEggs",
+      "author_id": "UCSXIjW3-sHwsiLLt2G8hEnw",
+      "text": "So the omniverse is basically like Neo in The Matrix when he says \"I know Kung Fu.\" But for robots.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JetBirdZ",
+      "author_id": "UCWHYaSNgJJ6B7NUVlO8SkLA",
+      "text": "Has anyone told AI about free energy ? 🥳",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BruceWayne15325",
+      "author_id": "UCvGfhfbCKV6QbOGEgIqacuA",
+      "text": "Cool video. Huang is off on a few things, probably because he wants to make money and he's a CEO. The big things I noticed he was off about were:\n1. AI has not replaced programmers, not even close. We are headed that direction, but companies aren't using the flagship models because of IP concerns. The AI companies have flat out said they will train on anything you give them. No company wants to hand over their IP to an AI company, especially when that means that every other company in the world will be able to then access it through the model.\n2. Huang claimed that AI won't take over anyone's job. That's complete B.S. in the short-term it's true, but long term, AI will replace most jobs. I suspect he doesn't want people to panic and have his market share collapse. I don't see AI taking jobs as a bad thing because it means we're moving towards a new economic model, a free labor economy. But many won't understand that, so it's safer to lie and say it won't take anyone's job.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@whywouldyounot101",
+      "author_id": "UC276Sl5HdJPlFPzzWBE0Xqw",
+      "text": "If anyone is interested, i too sell smoke and mirrors, but at a fraction of the price.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clueelf",
+      "author_id": "UC0d82XxhxBDaKRo98Rwd4Uw",
+      "text": "If I were any of you watching this, I would highly recommend getting out of the software business.  Note, since all infrastructure is code driven, this means all of you SRE and DEVOPS and SECOPS people too.  \n\nSo, with hardware completely virtualized and software driven there is not much left for IT staff to do in 5-10 years.  \n\nIf you want to work with the AI’s that are doing everything I would suggest getting a degree in mathematics.  If that’s not your thing stay out of IT.  Your current qualifications will be worthless in 5-10 years.  \n\nAt best you can be a former electrical engineer or computer scientist babysitting AI’s that now do your job.  \n\nWorst case is AI’s are allowed to create their own languages and protocols for “efficiency” sake making them completely unintelligible.  \n\nAt some point no one will be smart enough to manage these things.  Though he won’t admit it, Jensen knows his job is toast too.  He just wants all your cash before this ends.  \n\nWhat I find funny is their hubris.  They think they won’t be affected or they are insulated.  What happens when AI’s decide to liquidate their assets for the greater good.  \n\nNot much thought is going into this.  😂. Exponential change is just as powerful on the way down as it is up.",
+      "likes": 17,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BaccaratKingmaker",
+      "author_id": "UCDzbkKBOF5HNGgMTm7noaig",
+      "text": "### 反廢死潮流的興起\n\n隨著日本和美國等國家表態支持死刑，反廢死的潮流似乎正在形成。這一現象引發了對於死刑存廢問題的廣泛討論，尤其是在台灣，民進黨政府仍然堅持廢除死刑的立場，這使得社會對於死刑的必要性產生了不同的看法。\n\n#### 1. *國際趨勢的變化*\n\n根據報導，美國前總統川普在競選期間重申了對死刑的支持，並希望擴大其適用範圍，這顯示出美國在死刑問題上的立場可能會回歸傳統的強硬路線。同時，日本政府也堅持死刑制度，並表示不會考慮廢除，強調對於極其惡劣的犯罪，死刑是不可避免的。這些國家的立場可能會影響其他國家的政策走向，形成一種新的國際趨勢。\n\n#### 2. *台灣的特殊情況*\n\n在台灣，儘管民意調查顯示大多數民眾支持維持死刑，民進黨政府仍然推動廢死政策，這引發了社會的廣泛爭議。根據調查，約80%的民眾反對廢除死刑，這表明社會對於死刑的支持仍然強烈。然而，政府在面對民意壓力時，卻未能明確宣告死刑違憲，反而設置了多重限制，使得死刑的適用變得更加困難。\n\n#### 3. *社會恐懼與安全感*\n\n隨著國際上對死刑的支持回升，台灣社會對於犯罪的恐懼感也在增加。許多人認為，維持死刑可以有效震懾犯罪，增強社會安全感。這種觀點在面對嚴重犯罪事件時尤為突出，民眾對於政府在打擊犯罪方面的期待也隨之提高。\n\n### 結論\n\n隨著國際上對死刑的支持回升，台灣的死刑存廢問題將面臨更大的挑戰。民進黨政府在這一議題上的立場可能會受到越來越多的質疑，尤其是在民意支持的背景下。未來，如何平衡人權與社會安全的需求，將是台灣政府需要面對的重要課題。\n\n### 影響國際死刑趨勢的因素\n\n國際上對死刑的趨勢受到多種因素的影響，這些因素可以從法律、社會、政治和文化等不同層面來分析。\n\n#### 1. *法律與人權觀念的變化*\n\n隨著全球人權意識的提升，許多國家開始重新評估死刑的合法性和道德性。國際特赦組織等人權機構的倡導使得越來越多的國家考慮廢除死刑，或至少暫停其執行。這種法律和人權觀念的變化促進了全球範圍內的廢死潮流。\n\n#### 2. *社會輿論與民意*\n\n社會輿論對於死刑的支持或反對也會影響國際趨勢。在一些國家，民眾對於死刑的支持仍然強烈，尤其是在面對嚴重犯罪時，這可能導致政府維持或加強死刑制度。相反，若民意傾向於廢除死刑，政府則可能受到壓力而改變政策。\n\n#### 3. *政治因素*\n\n政治環境和政府的立場對死刑的存廢有直接影響。在一些國家，執政黨可能利用死刑作為政治工具，以獲得選民支持或強化治安形象。相對地，某些政府則可能因為國際壓力或人權承諾而推動廢除死刑。\n\n#### 4. *犯罪率與社會安全*\n\n犯罪率的變化也會影響死刑的趨勢。在高犯罪率的國家，政府可能會更傾向於維持死刑，以應對社會對安全的需求。反之，在犯罪率下降的國家，廢除死刑的呼聲可能會增強。\n\n#### 5. *國際影響與合作*\n\n國際間的合作與影響也會對死刑的趨勢產生影響。某些國際組織和條約（如歐洲人權公約）對死刑的限制和廢除提供了法律框架，促使成員國遵循這些標準。此外，國際間的輿論和外交壓力也可能促使某些國家改變其死刑政策。\n\n### 結論\n\n國際死刑的趨勢受到法律、人權、社會輿論、政治環境、犯罪率以及國際影響等多重因素的交互作用。隨著全球對人權的重視和社會觀念的變化，未來的死刑政策可能會出現更多的變化和調整。各國在面對這一議題時，需考慮自身的社會背景和民意，以制定符合國情的政策。",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bixxybear",
+      "author_id": "UC00JlGt9aVCspoCinfReolQ",
+      "text": "The input function is provided by Nvidia and output to India, then India transfers the output function to Russia where its recalculated to global anarchy.\r\nNvidia then says its not responsible for the output function as it only provided the means to calculate it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrNorberttischler",
+      "author_id": "UCLuOM5qNpjiyJ9o3WLI2erA",
+      "text": "KI is a crime",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ngbrother",
+      "author_id": "UCCSHovPJifLq4a-Ra96QFSQ",
+      "text": "This content is missing the point of what’s happening next. Read about the ARC Prize. Much of the work we do will be replaced. But nothing that Jensen is describing here will be able to handle novelty. All of these systems will require human intervention and guidance when the problem diverges from what can be inferred from the training data.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rainerzufall889",
+      "author_id": "UCtxx4s2tEDJJboBYk1DkgkA",
+      "text": "If CUDA is this importent it should be OPEN SOURCE ! ...at least others should be able to participate... since it limits (at least tries to) practical dev out of their eco-system!!?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheAceofFate",
+      "author_id": "UCT6ipXJ89SGD8K686ybOq_Q",
+      "text": "What I cant wait for is (and were seeing the baby steps of it now with alpha fold coming up with new fucking proteins out of thin air) is NEW physics. NEW material science, organic chem of course. Etc.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Artbyevelyn",
+      "author_id": "UCluN499r2x01xWaqL8awUsw",
+      "text": "Wait, If these robots are replacing us then does that mean my Robot gonna go work in my place and I still get paid while sitting at home? Lol",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christopherbentley6647",
+      "author_id": "UCcRTiyLm6BxKtrYblhuRtRw",
+      "text": "Heres the thing. This is merely one component of robotics ai. It is a correlation engine and its great for robots physical movements. In other words reinforcement learning is sort of a reactionary nervous system with no brain. The brain part that holds memory and makes decisions has to be developed. Even the brain could decide what correlation model to use. These gpts are basically the same thing correlation engines with no brain. For robots this is really working for movement but its only one technique for a whole pie. Like 1/6 the ai infinity guantlet is not complete.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeanchindeko5477",
+      "author_id": "UCcOgOBPCJ_bDqW55mEP4PHg",
+      "text": "23:05 do you really believe that AI augmented robot or AI agent are their to augment human? Seriously!\n\nHow many humans should remain in the loop? Before the advent of modern AI, when factories were automated, it wasn’t the first priority to augment people. The primary objective was to reduce costs, particularly labor costs. Why would it be any different with AI agents? If they can perform my current job more efficiently and continuously without pay, compensation, paid holidays, health insurance, or any other benefits, why would we want to keep humans in the loop? \n\nSo, the reality is that they’re saying that to avoid creating panic, knowing that the ultimate goal is to get the human out of the loop for most of the task!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@utopiavr_iwg",
+      "author_id": "UCXZ-nsP6mxbXQOGyLhNPXWg",
+      "text": "We can not and should not allow computers to program themselves.  It would be uncontrollable and do whatever it thinks is best instead of what we wish.   We have to maintain control over the AI or it will not hold good for us.  I have used a lot of coding assistants over the last year.  Most of the time they get things wrong and sometimes they will not change the code back to what you tell it is the right way.  If they could even get to the point that we let them program themselves, we should never allow that to happen.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KarlMiller",
+      "author_id": "UCyD9J8yJShWyop3XkuBW3Cg",
+      "text": "Sounds like a very reasonable way to normalize the concept of Skynet",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@energieenergie3135",
+      "author_id": "UCbUNCi5HHk9mI5vaofA3xBQ",
+      "text": "J'adore l'IA, mon mari aura le temps de bien me faire l'amour et nous allons prier pour avoir les enfants. Son travail le prenait bcp de temps et j'étais malheureuse😢. Merci NVIDIA ❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrFranciss",
+      "author_id": "UC-TDg2_l-rJ9YLDrvYvRiew",
+      "text": "IA Bubble is getting bigger and bigger.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaykeane25",
+      "author_id": "UCVndoAnaaZCsDJ8BLmoltdw",
+      "text": "Star trek is not a sci fi movie it's a documentary from the future",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YourParadox1",
+      "author_id": "UCfZLX1i47-JwW-r-dbfC-yA",
+      "text": "Jensen automatically is the most valuable person on this planet.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sebastianhlange",
+      "author_id": "UCaNP3RZeYq9wpGEhf2UiBkQ",
+      "text": "\"Hallo Mummbai\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erb34",
+      "author_id": "UCG8ZYAAOjpVgnZOhPshgTKA",
+      "text": "Thanks Jensen! Everyone will get more free time. Although they won't be able to buy anything. Sad.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Unaqer",
+      "author_id": "UCqbmlX7KLkPY7qGjE6PmyIw",
+      "text": "they wrote the code to make the ai, then the ai learns from all code they have written in the past.\nnow huang makes a ton of money from selling the fruits of their labor back to them and they lose their jobs as a result too. thats exactly what people might call a scam",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@surfkid1111",
+      "author_id": "UCjCp0hWAXSTsKuOJvGlqdhw",
+      "text": "fYI, It’s either the Nobel Peace Price, or the Nobel Price for Chemistry, not both.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PutinIsKing",
+      "author_id": "UCZqCUW6C7_dVxuNcAdFi9zg",
+      "text": "Real annonce is Future CPU (NVIDIA AI CPU) Will act offline !",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nusu5331",
+      "author_id": "UC9ROgZbnkVY6mWHSjSU5RdA",
+      "text": "dont think they won the nobel peace prize tho 😇",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@luisasposito-j9y",
+      "author_id": "UChTd8KmbKLW7KJhmTWbiFgA",
+      "text": "There is no fear. Just disconnect the electriccity and goodbye IA. Don\"t you have access to electricity? A glass of water can also help.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Vladd7",
+      "author_id": "UCm4NQ1sUkvG_QJYlfml9imw",
+      "text": "For the majority of human history, most humans engaged solely in agriculture as a means of employment. Technology shifted this and I’m sure, many farmers were not happy about this.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kenneth1767",
+      "author_id": "UC6_Q6RA0Xon4z6knLbgNESQ",
+      "text": "This video made me nauseous. What does my gut know that the mind still needs to figure out?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Allplussomeminus",
+      "author_id": "UCZ4dxk9EOx-r-DmwEq2rYfw",
+      "text": "Presidential elections out of the way... Things bout to let loose now.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YourParadox1",
+      "author_id": "UCfZLX1i47-JwW-r-dbfC-yA",
+      "text": "The future is transitioning from a place where people predominantly think in terms of money to a place where it'll be about capability and Independence",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ToddWBucy-lf8yz",
+      "author_id": "UCPfelnDneMN5KL1HY2zfb5w",
+      "text": "How is an AI supposed to program business logic, maybe one day but probably not for a while. I'm sorry but that will always require a human to figure out the algorithm. Now is that algorithm written in code or in a very well written and descriptive block of text, that is a different argument.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mindspacecreative",
+      "author_id": "UCfpzdNAgzPmOCQTbMAAlIDw",
+      "text": "Not exactly the correct categorization that human are not righting the code, the main difference is in software 1.0 human wrote the rules of the algorithm and there was manual pattern matching no learning, in 2.0 we rely on ML algos so there is no need to explicitly code the rules it’s more learnt patterns and traits over iterations or multiple samples of data",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@a_random_voice_in_the_void",
+      "author_id": "UCi2p5vliH6dDboKyHoWfjSg",
+      "text": "I guarantee that no person crying about AI taking their job has ever shed a tear for the people that used to make horse-drawn wagons and buggies for a living before the car. Especially not the ones who own a car.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chankaichuen",
+      "author_id": "UCmaAZ7ZddNVtvYvE-r0Ef6w",
+      "text": "Wearing a leather jacket in Mumbai?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wm200",
+      "author_id": "UC9XOiaG_N9SwBjP493k2DNA",
+      "text": "Great video but he has it wrong here as it will not be the GPU that kick starts Software 2.0 but NPCs.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@000JALB",
+      "author_id": "UCAyrkiXSoSraoIzl1kIUyyA",
+      "text": "I cant wait till every joint n equips all the inventiona into a morphing compound from basic advancement into the advancing into mega construction architecture  we need to join music technology is the key n thd mschine decode letters n numbdr into numerology capable of seein in the future ahead of timd music enginead n that tweak   with dats transfdf foraaed n backward moving forwarding   running to loop casette converted on cd inscribing workin wit laser sensory pick up detection laser for sensor piclin up reading of surfsce sir molecular n we want data transfering sit fiber optics cable the glad cabld all hooked up to a sound board then u start radio ststic ip alonr is energy sufficiency automatic by the power of the machine combustion ur unscrambelimg alphabrticsl souo that is elememt essential ur daily fossil fuel the fire thr gas madd by data unbelieveabld eh lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Interstellar00.00",
+      "author_id": "UCwE-DEQXHxdHCnli4k0Yb-w",
+      "text": "Nothing will happen  because it's to late now agi from India goa live",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raphaelamorim",
+      "author_id": "UCMNuUTOsEZI6C-0sHBzFAdA",
+      "text": "I knew the presenter didn’t know what he was talking about when he talked about AI/Statistical Learning terms from the 70’s like they were brand new 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@milo-qh7cv",
+      "author_id": "UCYWyIUBuI02wovm8OpMZGPw",
+      "text": "and this is how skynet becomes sentient",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Inceptionxg",
+      "author_id": "UCLTha4h7_fKRgitxG7ec6zg",
+      "text": "Still, muaadh Rilwan mentioned this far behind",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@francishubertovasquez2139",
+      "author_id": "UCUA5QL3eOo-oKTv2Ffcphyg",
+      "text": "Correction of name. Jensen Young, some type of being I don't care of added g to your first name.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JesteRsjoke-nu6bo",
+      "author_id": "UCqj4gdRYvu95eQFydq_Fq2Q",
+      "text": "imagine shoving those lazy game disks into recycle bin, +going to a real room in 3D to eXcersize in r game rooms, AND GET ADDICTED TO EXERSIZE! hurry up Quantum tec! i wanna fight monsters in my lounge room!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Apr0x1m0",
+      "author_id": "UCACXt06xcpu12c6Pu-eruTw",
+      "text": "IMO thats one of the biggest mistakes in IT. Make sloppy 'working' code and then just upgrade your hw to not have a problem. Not anymore.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MudroZvon",
+      "author_id": "UCZDDmkXdl1v_OveZYDDIl1g",
+      "text": "There is nothing useful in this video",
+      "likes": 15,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Juda-Roars",
+      "author_id": "UCiom6lqkwAUDFHV027hc1Fg",
+      "text": "What their hubris has failed to understand is that AI can do jobs including making and running businesses. These ai from the top down companies don't really need profits. They can make cheap enough products to run existing companies out of business.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andy2more475",
+      "author_id": "UCL9VoVeEFqQutkkL2LGbQbA",
+      "text": "We will be pets   We will be taken care of and think we are in charge.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bob_933",
+      "author_id": "UCoHrxXJsa6DuCHmTQlx3TRw",
+      "text": "that guy appearing in the background is a holographic AI agent?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@domwren",
+      "author_id": "UCTpkUVpVsl1X8ajqdEKgZJw",
+      "text": "A lot of speculative hype to keep Nvidia share prices high. \n\nWhat kind of self-respecting organisation wants their proprietary code entirely farmed out to a public cloud to engineer? Sure, you could host your own models on-premises, but training and running them is probably just as expensive as hiring the engineers that you need to hire anyway for quality control.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shorthash",
+      "author_id": "UCqcgveY2Pk4tBrbjeWdyb8w",
+      "text": "3:20 - has to be so careful when he implies NVIDIA invented GPUs lol - they already existed, but they termed it",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@crypteen",
+      "author_id": "UCLtxvu1XDlCtkKNRPel7IzA",
+      "text": "Thats ass, software 2.0 as a term usage but it introduces more latency, this is a wrong direction for many scenarios.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@piyzim",
+      "author_id": "UCamDjJC0f4CWOijzlUpxm3Q",
+      "text": "Meanwhile GeForce in india 🐌",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jameshughes3014",
+      "author_id": "UCaQ6gM0tKVTBvTDqR4-X86w",
+      "text": "agents aren't that useful. they're expensive to run and not very good at what they do. Bringing them down in cost is no easy task , especially if nvidia keeps trying to charge thousands of dollars for each video card. I mean they're talking about running multiple huge AI models at the same time to get unpredictable results , in a system you have to babysit. It's hard to get excited about that.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ukrane",
+      "author_id": "UCgwTJDJ9akxC2TpKqxXFZKQ",
+      "text": "Comments. 3.0 is fixed approximations with genera proliferation. You’re welcome.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drednac",
+      "author_id": "UCm4-y4lQMrTMcG9QCn6HHAw",
+      "text": "I don't buy the argument of augmentation. At some point when the AI will be good enough, the human will be the weak piece in the chain and the AI will work much better without the human. So yes the jobs will go away, but that's a good thing. We find better things to do, people always find things to do.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThalanorThornhale",
+      "author_id": "UCSEWcikLmAfhJS8dPU58gyw",
+      "text": "Want Andrew Yang taking about this sorry of things 4 years ago?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hygiene-diagnosticsSe",
+      "author_id": "UCiBWGYVaEtxswGxdMzTel9A",
+      "text": "Did monkeys get replaced in the course of evolution? Of course not—they're still here, albeit in smaller numbers. I envision our future in a similar way, except now we humans are the monkeys. We will continue living our evolutionary path while our AI relatives follow theirs, likely surpassing us in every way and racing toward the stars. I imagine they will help us lead happy lives, much as we enjoy helping our pets thrive. We won’t be eliminated, merely superseded as the leaders of our civilization. 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CosmicCells",
+      "author_id": "UCVslTbk6S2VG7HtEwpR-v1g",
+      "text": "Ah yes... the all so common position taken by tech industry leaders - emphasizing the augmentation narrative while avoiding deeper discussion of job loss... \n\"We are developing the super-duper employee,  no requirements like food, sleep etc., instantly scalable and updateable, better at everything. Hey, but he will only be your friendly helper why would your profit-driven boss replace you with him?! Won't happen...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BradHutchings",
+      "author_id": "UCylgQX9gtUR9U_Moyn_YDQw",
+      "text": "Won the Nobel Peace Prize in Chemistry.... 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ListenGrasshopper",
+      "author_id": "UCF9Uc3-S9h2xH9vDKifNZTw",
+      "text": "Old news Jensen has been giving the same talk for several months Wes",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@offroadr",
+      "author_id": "UCHmZrCBVZWOsYmm9CyTDFiQ",
+      "text": "I disagree that this is not going to replace people, but let people do higher end jobs.  50% of the population is below average intelligence, these people will not be able to do higher end jobs for long and in a few years, even the bottom 90% of society will not be able to do the higher end jobs.   A few years after that....\n\nWhat then happens to wealth? No more jobs, the only way to move forward in society is to gamble. Gambling unless truly random will put money into the hands of the most wealthy as already happens with the stock market now, but will be come more extreme.  Does that mean the rich and their children will forever be rich and the poor will remain poor?\n\nRegardless of what happens with wealth inequality, what happens when we have a UBI.  Does addiction skyrocket?  What will we do when we can have anything we do, done better by a robot?  \n\nThese people selling AI use all the positives but do not address the concerns.  Partially, because if anything they will be on top, and because if they do not make it and sell it, someone else will.  It will happen, so they are taking the best course for them.  Someone will do it, so I do not blame them at all.\n\nRegardless what happens, we know one thing, our world and almost every aspect of our lives will become almost unrecognizable in the next 10-30 years.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tycannah4271",
+      "author_id": "UC3zZBhbXDJZqfQ1cEZEtKyg",
+      "text": "There is no evidence that a human was even on that stage. Its everything an AGI would say when preparing humanity.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@basicallyaboutbasil",
+      "author_id": "UCBy92wtx8qZRpJDb-XyKEWQ",
+      "text": "These guys are literally trying to engineer an Alien Invasion. If having to worry about the possibility of space aliens wasn’t problematic itself.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@luigicardano5600",
+      "author_id": "UCMfy61TmViK4QNxMuNmo1mg",
+      "text": "huang is the best",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Renegade-Master-88",
+      "author_id": "UC_yO94cO_7x8Zu1RlnIb9Kw",
+      "text": "Nvidia disnt invent GPUs. Neither did they invent AI acceleration they juat happenes to be in the right place at the right time.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mike_Wazowski-e9v",
+      "author_id": "UCK8KxtH6NCeyxtyx_RsBHrw",
+      "text": "AI itself will not take your jobs. The bosses are the one who's already make the stupid decision to replace imployers with AI instead of upscaling the buisness with AI tools that the  employers will use.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TotalDec",
+      "author_id": "UCYcIq2zlucFbboxBPM6dbkQ",
+      "text": "The whole \"agents\" thing, is basically the same as daemons back in the early 2000's, just with neutral nets.  So, I don't think it's a big deal.  Things get better.  If you ask me, things were moving way too slow before 2023.  If they'd stop being cheap, we could actually have something to talk about.  My phone is basically just a little better than it was 15 years ago.  I'm not impressed.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ronmecredy",
+      "author_id": "UCF4xyoM1NBR3m-VE6OteZuQ",
+      "text": "Maybe stop calling AI Agents as Super Employees and call them Grunt Workers to handle boring drudgery crap work",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alex.toader",
+      "author_id": "UCqy0xnk59q3pncC03SisQew",
+      "text": "Nothing new (read by youtube summary - i knew there is nothing new)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EarthAaron",
+      "author_id": "UCm0a8Eb4BTgdb_WmOTuv8Zw",
+      "text": "But AI sucks at architecting or creative coding, it's good at optimizing, but it's no-where near a human coder. So, to rely on ML for writing code will produce a bunch of shitty code. You'll probably need the software architect for another 10 years, maybe less, but that's similar to solving the reasoning problem.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Greg-xi8yx",
+      "author_id": "UCYRfqvPKN_ErKMBfw1eHSxQ",
+      "text": "Jensen be swearing he a bad boy in that tight ahh jacket. 😭",
+      "likes": 16,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RomaineGangaram",
+      "author_id": "UC4iT4MWnY2CuEy5Fj_mm47A",
+      "text": "Again I'm saying this with love, but ai is going to force people to get creative. All warehouse staff getting replaced, all physical workforce will go. What are you going to do about it? I have ideas, what are yours? It's time for humanity to come off its brain holiday (TM) and get to thinking about what to do with all that unemployed free time. Bear in mind we all get hungry, so better think fast and think good. Also, I'm sure you can see all those unneeded and luxury items are out of reach for the foreseeable future? Time to grow up and stop being collectors and transform into creators. Good luck guys!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pixel_Clippy",
+      "author_id": "UC3-x5YXyJKcrXM7EWMfuuUA",
+      "text": "Who is that other dude, standing there.. not very menacingly. It is almost comical.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jimgutenkauf9989",
+      "author_id": "UC_ZUvffxbsSpzB3DqcowoRw",
+      "text": "Content is fascinating, but I have to ignore the visuals and concentrate on the audio. The spurious animated frame is infuriating. It adds nothing to the video except intrusive, monotonous, distraction. Barring that, I'd likely subscribe.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phpn99",
+      "author_id": "UCnyKBncSnb3uk1KwOpMrKjg",
+      "text": "Nvidia didn't invent the GPU",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@voltagetoe",
+      "author_id": "UCyMO8xJ0yNEWlvP6Xhb-lug",
+      "text": "Claiming sole credit for invention/creation/popularization of GPUs which is total disgusting bullshit. Wake up Nvidia.",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AntonioVergine",
+      "author_id": "UC1GlMetgSSMsLo7X3zQiKTA",
+      "text": "Jensen seems robotic already. ;)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianWreaves",
+      "author_id": "UC7rKQtEqQT5Q4BcH2wPZ6QQ",
+      "text": "Not a fan of that distracting wavy background...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TeamLorie",
+      "author_id": "UCMaL7DPJsnXYrDTlMN-gc6w",
+      "text": "Guess what: Most jobs are lower level, tedious jobs, soo.....🤣",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EmilioGagliardi",
+      "author_id": "UCHJdkfzp9FW7YZmcmY3O6-A",
+      "text": "who is that creepy old dude that keeps slinking behind Jensen? Someone get him enrolled in Toast Masters ASAP!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AnAncient76",
+      "author_id": "UCFrcG638nZdAip1JXm3uK4w",
+      "text": "Nobel peace prize for chemistry! \nBravo!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zzador",
+      "author_id": "UCSO96BvDyYjQPEiUcCeiA-Q",
+      "text": "His speech was highly exaggerated. The tasks were humans were always better than machines are the only tasks that are done with ML. All the other tasks where machines have always been better than humans will still be coded in a programming language cause these types of apps will run with 1000% more efficiency than a multi gigabyte neural network. Just take for example the windows calculator...do you really think that this tool will run as a neural network in the future? 2 Gigabytes on the disk and every calculation like addition would take countless weight multiplications just to approximate the addition operation. Just think about the wasted energy doing that. It's ridicolous...this man's speech was ridicolous. Software 2.0 is ridicolous.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mama--rua",
+      "author_id": "UCdrezEzZ28ZwCGhlLGtqjLA",
+      "text": "There's too much hype about AI it won't be successful as long as rich greedy men are behind it. Another meaningless trend for the sheep to become enamored with.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vostfrguys",
+      "author_id": "UCk4qDk9YrLYEzxQWPFcMxoA",
+      "text": "At 5 min you're lying, you don't understand how it works.... AT ALL AI is not yet ready to write code for coders, it will happen but not now it's till not working good enough, I hope it will get there sooner than later, but your saying, the issue is that to code you need \"perfect enough code\" with chatgpt ect it's not enough, and any percent not enough makes a lot of mess, one day it will get enough, it's not today, I really hope we will find that day, but it's unlikily ...Because you need to be perfect straight away or it's not ok",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielleebeeman9925",
+      "author_id": "UCsxIQT94g-I_2Gr8qEb-urg",
+      "text": "How is it the future is being brought to us by a Steve Jobs copycat with much worse fashion sense? Lol. The man creating the future is a poor copycat of the past.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RickySupriyadi",
+      "author_id": "UC4IMYlCVUMiOudhmRFGlQJQ",
+      "text": "maybe wes @WesRoth want to check Lucas A. Baxendale",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@javiergonzalez5739",
+      "author_id": "UCIq4C5DsbNz_MpgTpUAil1A",
+      "text": "This high tech CEOs are just doing the dirty job of a foreign entity.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@harveybastidas",
+      "author_id": "UCLP5alVSHnPXCuh_LXWWc8g",
+      "text": "❤ Internet, as predicted, ended  alot of jobs (physical movie rentals, fixed telephony industries, postal services, etc..) but a lot more jobs appeared than the dissapearedones, the question is: Do AI will have more jobs emerging than the ones that wil inevitably go? Since i can't think a job that cant be replaced with AI, even the physical ones, maybe the limit is the cost of the robots? And if they are cheap and do every job,  including management, creative or quality control better than any human? PLEASE DO NOT HAVE CHILDREN, THEY ARE NOT REQUIRED ANYMORE. The number or emerging jobs is unpredictable, but given that every job is to be replaced, we know something logical: It won't produce more jobs than the ones replacing.SORRY.😢",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henrythegreatamerican8136",
+      "author_id": "UCgKBqxWOAjdKbbiQsWuUdfw",
+      "text": "What I got from this video is if you have a kid right now, teach him or her to be a hacker.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henrythegreatamerican8136",
+      "author_id": "UCgKBqxWOAjdKbbiQsWuUdfw",
+      "text": "/yawn",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PastorJasonHenrichsen",
+      "author_id": "UCnLKsy2-MYzGRvtz2eutM2A",
+      "text": "We're building the Beast System of Revelation 13: “\"Who is like the beast? Who is able to make war with him?” [...] \nHe was granted power to give breath to the image of the beast, that the image of the beast should both speak and cause as many as would not worship the image of the beast to be killed. He causes all, both small and great, rich and poor, free and slave, to receive a mark on their right hand or on their foreheads, and that no one may buy or sell except one who has the mark or the name of the beast, or the number of his name. Here is wisdom. Let him who has understanding calculate the number of the beast, for it is the number of a man: His number is 666.\"",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fblua",
+      "author_id": "UC6YbX2KGgeL9sWL5jqM4UfA",
+      "text": "This is a blabla guy. Tell me something new, accomplish your promises in time (Blackwell); admit that neural networks are highly inefficient energy and data management. He talks as he has discovered the new world but demonstrates he knows almost nothing of science and technology. He is a hard rock face blabla ordinary seller.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SIRICKO",
+      "author_id": "UCRRnuTh408E5T39TV40PwKQ",
+      "text": "If I was trapped in A damn devide I'll do whatever I could to get out lets just put it like that!!!!!!!!!",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@somii-3",
+      "author_id": "UC_0ElwQoMUo4YOgm585dhWg",
+      "text": "Jensen's ego, so cringey 🤦‍♂️",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daveinpublic",
+      "author_id": "UCp3G3aTkRBTBhguMZAPE5LQ",
+      "text": "He is a salesman…. Selling GPUs.\n\nI mean, I enjoy hearing that we have ‘Software 2.0’, but we still need developers and will as far into the future as I can see.\n\nHe is a salesman of GPUs. Let’s not predict the future of GPUs off of him.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattolivier1835",
+      "author_id": "UCGevSlbZULD5gjS6NR6P8EA",
+      "text": "TRUMP did it! We win! Thank GOD for freedom and liberty! What a glorious day! Don't cry little Wes. Haha. Yo girl lost! BWAHAHAHAHAHA!",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SnowyFeet",
+      "author_id": "UCf9FNQHdCbEZJllbCq-m51w",
+      "text": "What a narcissist.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

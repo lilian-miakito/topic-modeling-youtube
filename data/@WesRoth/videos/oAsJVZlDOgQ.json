@@ -1,0 +1,1584 @@
+{
+  "video_id": "oAsJVZlDOgQ",
+  "title": "AutoGen Tutorial 🔥 How to Build POWERFUL AI Agents",
+  "url": "https://www.youtube.com/watch?v=oAsJVZlDOgQ",
+  "comment_count": 175,
+  "comments": [
+    {
+      "author": "@ai-automations-by-dale",
+      "author_id": "UCnyUWiyiqDUeNzjjQUb1T3A",
+      "text": "As someone who doesn't code, but really wants to get into this scene I am blown away by how simple you made it seem. Please continue this great work!",
+      "likes": 30,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elwombato1",
+      "author_id": "UCqSB5vXS1q77_rb-Ui2UDhQ",
+      "text": "As a software developer I could never explain it this simple. I really appreciate how you break it down.",
+      "likes": 28,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KushyKitty666",
+      "author_id": "UCK_ZciUUEaHcqFHyn4kT43w",
+      "text": "I'm blown away by how well it understands not only the initial prompt but the subsequent prompts and their meaning within the context, not to mention its ability to successfully fulfill each request",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ScizorCraft",
+      "author_id": "UCg6l-08Tpc3IX8E7R4AfkOA",
+      "text": "plot twist - most of Wes Roth's videos are made entirely with AI",
+      "likes": 43,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ladykilla85",
+      "author_id": "UCWbVAwBpSa6SG_B3LMtP20w",
+      "text": "I guess since no one has commented yet, I will. Thanks for the vid!",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fredericherrera",
+      "author_id": "UCmt5CdqCfrbTvHjkY9jdDTg",
+      "text": "This is very good - well done",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@javi_park",
+      "author_id": "UC9jPYiy01F1M6EXPOi_ecfQ",
+      "text": "Incredible video man. thank you for sharing step-by-step. would be cool to see a series of projects built with AutoGen. could make for some great content. Excited to see more experiments!",
+      "likes": 10,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChaoticNeutralMatt",
+      "author_id": "UCemlx3Uw89cQHT81xjVg7Sg",
+      "text": "Honestly the notebooks like Google colab are awesome",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pro_suh6994",
+      "author_id": "UCLZdC3stEJ_5PGfAVa7YF1Q",
+      "text": "This is beyond incredible. I am a designer and artist. I can't wait to begin using this to create simply programs for my needs",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rameshb2708",
+      "author_id": "UCN7m9UfP4_w3h9z2DB5cnSw",
+      "text": "#tech - Have you tried customizing for using Opensource LLMs like Llama2 etc?",
+      "likes": 10,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sulayman.786",
+      "author_id": "UC6W6FBLPH4m_NLlp5jwzm4Q",
+      "text": "Great video, thank you!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shemkipruto4394",
+      "author_id": "UCwzaLvy0L-krx7JyyGXMdJQ",
+      "text": "The best AUTOGEN tutorial ,nicely exlained",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ddwinhzy",
+      "author_id": "UCMP5FgLV0jp3giIAmoPs1aw",
+      "text": "Really looking forward to the fact that you can continue to update the AutoGen instruction, especially the multiplayer interaction with more examples, fantastic!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrSuperPatar",
+      "author_id": "UCmc1kVVxmKBgf6cXYqkqPRw",
+      "text": "you taught the entire Harvard CS50 course in 30 minutes. Well done. Can not wait to try this",
+      "likes": 24,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@duckspencer9345",
+      "author_id": "UCaHByKKlwXa76gANMzqVWeg",
+      "text": "Thx for this Tutorial. Would love to see some more Advanced best practices.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keeganpenney169",
+      "author_id": "UCIvW7_WGH3OSl2U-tTSOszg",
+      "text": "I love you for just trying to teach me how ❤",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheTroyMaster",
+      "author_id": "UCeazjpL3HfpAumDcrSoajxQ",
+      "text": "Can you please go into detail about the advanced AI agents? What role options are there? Use cases? How can we use the examples in the document? Which implications need to be there that the agents work well? Which problems do we usually face and how do we deal with them? So, basically, a lot of Python logic which is based on the Autogen Code. The audience is for non-techies",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlexHernandez-ml7we",
+      "author_id": "UCi4Q3KlCpbY5lKt-4-7gdtA",
+      "text": "Man! I love your videos, lots stuff to learn, to absorb, keep up the good work!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "Can’t wait for the prompt for this 😂.  Very interesting though.  Thanks Wes.  I really appreciate your insights.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fixit6971",
+      "author_id": "UCYDeBEECY1YtmlIfIvYQjEw",
+      "text": "Next year? I think you meant to say Next WEEK! lol. Your instructions are Bang on! Keep it up. Thank you. Great work. Also quite entertaining at times :  ) Super !",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mokeeiswatching",
+      "author_id": "UCUhyYIo3XEsfvvQsepSnBHA",
+      "text": "This is gold. Thank you sensei!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EveDe-ug3zv",
+      "author_id": "UC6TlpiqOEhulq_mcgMVPbqw",
+      "text": "good video as always. Love how you didn’t edit out your Weird Al distraction.😂",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kennbmondo",
+      "author_id": "UCLePF7Lf-ASAUkpXaScT29A",
+      "text": "Fantastic. Thank you very much.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adamchan4403",
+      "author_id": "UCMk2_Vmj33yaBfrPIgQKtkg",
+      "text": "Thanks for sharing , i'm just looking for it and you video came out !",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sulayman.786",
+      "author_id": "UC6W6FBLPH4m_NLlp5jwzm4Q",
+      "text": "I love how you cover the basics, making it more accessible to noobs. I know some of this stuff but there was a time not so long ago when I found most coding videos prohibitively complex due to the level of assumed knowledge. I believe AI has actually made coding more complex yet somehow also easier for beginners to get started. I fear though that soon the level of basics that AI does for the coder will result in beginners not being taught those basics. Hopefully, now is the best time to get into coding with assistance from AI.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@haroldmitts",
+      "author_id": "UCU7V4DgtASAwtaCep8aSCIg",
+      "text": "how can you change which GPT model autogen is using? Can you easily switch between 3.5 and 4.0?",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Green174",
+      "author_id": "UCJ7twJZFQh-NrMsQrLP8PnA",
+      "text": "Thank you Wes!! Much Appreciated!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@InnoVal1703",
+      "author_id": "UCYCdh1we4e56jEzI2kZDhJQ",
+      "text": "#tech Hey man, thanks for the great video! At 23:28 you introduce the critic with his own specific role description. Could you please share where you got this description from so we can take that specific example as inspiration and transfer it to different roles. Thanks again!",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ronoc990",
+      "author_id": "UCQVlRiUYWpd6IbNdfBcWxlQ",
+      "text": "Thanks my guy",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MoDs_3",
+      "author_id": "UCd4iuO8W20aMs3YElfzQX9Q",
+      "text": "Darn it! 😮\n\nI’m a software developer and I’m speechless! \n\nWow! Where was that when it was needed back then when I was still learning! 😅 \n\n❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brettmarshall9340",
+      "author_id": "UCmdbHZo6KFpXMB4wu34vTsw",
+      "text": "Just wanted to to say thanks for the video.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jennyhorner",
+      "author_id": "UCcQh3BJtD7qTj7AqxsWRZlw",
+      "text": "Excellent level of explanation- most are either too simple to be useful or wizz through jargon at a bewildering rate 👏🏻 I’m interested in iPad instructions and creating more complex agents.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mor4me",
+      "author_id": "UC7botV3YFSNLyRxdZ2hgscw",
+      "text": "Nice thumbnail TBH I thought this was a gaming vid. PLEAse keep up the good work. I can see this having 10m views in 3 years and all your videos a 1m+",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KarthikCS",
+      "author_id": "UCK7gve1D_xIveka0_o_rgzw",
+      "text": "This is great, I'll try this",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LibraryOfTheOligarchs",
+      "author_id": "UCL9Fb4d-CBhG0Dnb6Vq7SbQ",
+      "text": "Appreciate you!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VasiliyAgiy",
+      "author_id": "UCHIxGwHD4nzxJFpaXIONe6g",
+      "text": "Thank you very much 🙏",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MoonBull888",
+      "author_id": "UCLj0CbDgZE8XYD0y2bhARAg",
+      "text": "This is blowing my mind",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@powerdude_dk",
+      "author_id": "UCvifHlz5GG815g12Ya3Asog",
+      "text": "Great video Wes! ... But ehmm.. I'd like to see the snake game made by the agents! 😄",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PEPL515",
+      "author_id": "UCZbcxVmPQgpyHcnp3_5dsrA",
+      "text": "Hey can you make another video as a add on to this one on how we can add multiple agents, create different agents, and how to make them all work together? I am brand new to coding and all this so I would really appreciate it. Love this video man you explained it in a way that even me, who has zero coding experience, was able to follow along. Thanks!",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victormutunga2944",
+      "author_id": "UCXwlFZQoqFYmGADD7YdvaRQ",
+      "text": "What do we implement to switch from gpt 4 to gpt 3.5 turbo #tech",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eyemazed",
+      "author_id": "UCZqh_JoaaMsjxISdjFyHlLw",
+      "text": "#tech are there any talks of using non proprietary, free LLMs with autogen?",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cfsouzajr",
+      "author_id": "UC9Ya_IF1o-7FF-YgPG-WNLA",
+      "text": "Hey man, don't forget to delete your keys after ;) Great content!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mahmga1",
+      "author_id": "UCIHYvXbS84UopZLiXj7C3Ig",
+      "text": "Tilde is [ ~ ] whereas the [ ` ] is a backtick among multiple other common names -- Pedantic dev",
+      "likes": 19,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gRosh08",
+      "author_id": "UCVCtjlUJCtaQm5KzCOfHy3Q",
+      "text": "Uncle Remus said Cool!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vicioustide",
+      "author_id": "UCzijP4skvGxbtUg1jCmaFPA",
+      "text": "Just to note the youtube playback buttons are white, and white background screens blend them in at the bottom.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adriaanb7371",
+      "author_id": "UChEPuaRDRte6CIbCPM8gWSQ",
+      "text": "I think we´ll see companies whose main product is providing an agent for use in Autogen-like apps, fine-tuned or trained on their proprietary knowledge. And building those is the ai job market!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChristianPretorius",
+      "author_id": "UC2beMj-BGJ7z8lvmAYjad3g",
+      "text": "Bro this is crazy",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@devolli3401",
+      "author_id": "UCW3aYrU4s7xjCak2oe1kbFg",
+      "text": "This was nothing short of amazing. Thank you! Time to create my new company of AI workers :)",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@purvislewies3118",
+      "author_id": "UC1gzcFSMhVbcHZ3A0gSkNlA",
+      "text": "Coll brother...love your work and please do continue building more agents that can work together...love from Cape Town:yougotthis:",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DrRussell",
+      "author_id": "UC_E2bzr9ShePcaKHx1_a4aQ",
+      "text": "Thank you for curing my stupidity",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@D1emex",
+      "author_id": "UCxl7qrk7yKQ6TLTPuqUZsmA",
+      "text": "Great and very well explained tutorial. I liked the step by step approach. I am running into rate limit issues with the GPT-4 model. How can I resolve them?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joecavanagh1297",
+      "author_id": "UC8nvRp_sZe_C_7m1vMovO6A",
+      "text": "Great video, cant wait to see how this evolves and the capabilities grow, i think this is the true future of ai. One thing i would like to know is how to use 3.5 instead of gpt4 as i dont have it atm. Are we likely to have a version where we arent paying per action in the distant future in your view? \n\nHaving a ton of agents doing a metric ton of trivial tasks and micro actions would add up significantly cost wise. Do you think it will get cheaper to the point where we have something similar to an ISP monthly unlimited use charge but fair usage/throttling in the early days but eventually progress to true unlimited as we now enjoy ISP bandwidths?\n\nYay agent npc's \\o/",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronJohnson14",
+      "author_id": "UCe-OTdNfqx5VXEBPuMy_HXg",
+      "text": "Wonderful,  thank you! I think you will want to mask your API key in the video,  or invalidate that key now that the video is out. I would not want to see people using your key and charging your account.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CelinaMurphy",
+      "author_id": "UCsBOSDZxUs53IncbGSMrkKA",
+      "text": "#tech hi love this video but im running in to an error at the 'pip install pyautogen' step. I receive the following error: \"ERROR: Could not build wheels for aiohttp, frozenlist, multidict, yarl, which is required to install pyproject.toml-based projects\". Would appreciate your help if you know why.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RyuDouro",
+      "author_id": "UC-Dp1aLmIY7JXwCHZXoKVYw",
+      "text": "My issues with these, is that they are very limited with the api token calls, can't experiment, can't use them freely.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AbdussalamPopoola",
+      "author_id": "UCN-8hsxOhEqlxyi-S4JR4mg",
+      "text": "THIS IS AMAZING, now i wish i took python seriously. #tech 😄",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "Thought you would be excited about this Wes 😀",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ultrasaiyan4283",
+      "author_id": "UChiLd9EHNbmDmR8iYYiyAEA",
+      "text": "I wonder what would happen if you assign one agent to every method in the code, or at least per file. Every one of them would know what their method does. In some bigger projects. Then main agent would assign necessary things to do for everyone on their own at their place.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cryptomoves2547",
+      "author_id": "UC1joTaBXWw1Jm_ZlShvcOXA",
+      "text": "had a hell of a time installing autogen, after much back and forth with chat gpt I figured out I had the wrong version of python installed. It didn't work with the latest python version 3.12 had to downgrade to version 3.8 and it finally installed.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jennyhorner",
+      "author_id": "UCcQh3BJtD7qTj7AqxsWRZlw",
+      "text": "if I remember correctly you can give different agents different models - is that a way to bring down cost? Eg only one agent in the conversation uses gpt4? Or will every word the gpt4 agent reads count?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@emperor_aeneas8793",
+      "author_id": "UCfsGeFyn5Qpjf5CZWLM_BEw",
+      "text": "Great video and well explained! Thanks a lot. But I have big trouble to get some output from Visual Studio Code, do you have any ideas why?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tijendersingh5363",
+      "author_id": "UCVU_c3771i_uqkFcS0UiysQ",
+      "text": "how to do this with azure provided keys",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peterharrington4777",
+      "author_id": "UCDzihyKFzXJ37hNcaPWDJ2Q",
+      "text": "Thanks for the video, I have been following your content for months.  I think it's a bit confusing to use IDLE or a text editor to edit the Python code when you already have Pycharm open.  Why not just use Pycharm?  This could be confusing for viewers new to coding.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@30scoding97",
+      "author_id": "UCbhjUKc5PdXTURCsiaPyOAg",
+      "text": "Thank you for this well explained video. Is it possible to use the framework with Google Palm api ?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielaraya1122",
+      "author_id": "UCmUJRKJUu_ZTL49K-jdWd4Q",
+      "text": "#tech Thank you for the video! Could you make a video on using Autogen to create a marketing company or a webscrapping company? Thanks again",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheSingularityReport",
+      "author_id": "UCPyUTd_1GgnGNQANRjmVsHQ",
+      "text": "Im completely soft brained when it comes to coding but id like to learn more now! Is there a way I could use autogenerated to set up some kind of e-commerce business? Im curious what actually creative ways people are already using this for lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PeterKallio",
+      "author_id": "UCw3NB-npfgbhOg_j8tkl2SQ",
+      "text": "Great introduction! What is the cursor tool you are using?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DeeZnhutss",
+      "author_id": "UCJWAu9Lp0i_E2TCedfrHBPQ",
+      "text": "How does this differ from just regular GPT4 with more manual intervention?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mcrossland",
+      "author_id": "UCSFvdGzbLRA04e6nNAJ8XXw",
+      "text": "Can you post your completed code?  I'm so close.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jacklloyd6197",
+      "author_id": "UC9bdtwOIg92KPB8g9h1eryA",
+      "text": "What is the difference / benefit of using Autogen Vs LangChain (or even Langflow), or do they do different things? Can they be joined together?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fbravoc9748",
+      "author_id": "UCsRdVB3_OUsPBTs23EcFrbw",
+      "text": "Could you please build a similar tutorial in wich ai agents get the data from a json file or database?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hasantekin7823",
+      "author_id": "UCSrmeaeoj1M5VSikGgGLDgA",
+      "text": "#tech Do you know how they are dealing with the token limit? If there is one coder who reads all the conversation, it can hit the token limit quite easily. Are they doing something different here? Thank you for the great videos!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fbravoc9748",
+      "author_id": "UCsRdVB3_OUsPBTs23EcFrbw",
+      "text": "Amazing videos!! Could we create agents with Llama or other opensource LLMs??",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@khalilbenzineb",
+      "author_id": "UCE7M-EJgUmFAEq5b1kgoTnw",
+      "text": "This will use a huge amount of money, the name agent refers to automation, the basic and the minimum required feature is to at least Auto create the files, it's good to see them talking for a better code, so I think the best title for the video should be how to create a group chat AI, because that's the advanced version of your implementation\nSuggestion: you can Implement function calling at least",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexcoro",
+      "author_id": "UC2B054MyJpIiHj0_NNYc8Qw",
+      "text": "You were so great explaining everything! No jargon and just to the point, however, when you didn't show the snake game created by the group of agents I almost punched the monitor #tech",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardcraan2331",
+      "author_id": "UC02rvE-RwywSU9RoRBPopuw",
+      "text": "Made by ai or not. I like the way he says monayy (4:22) please don’t stop 🙏",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sabofx",
+      "author_id": "UCz_1_52Zn3AUvSInasP_RBw",
+      "text": "#tech The score keeping disappeared from a bout 15:25 into the video 🤔\nOther than that, I really love your videos. Keep it up!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fixedincome008",
+      "author_id": "UCEj7pSwx7GXU9p28MuQ8CGA",
+      "text": "I first installed homebrew, then installed everything else via homebrew",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mcrossland",
+      "author_id": "UCSFvdGzbLRA04e6nNAJ8XXw",
+      "text": "#HELP  Where do I get this complete code from?  I'm having issues getting from one assistant to 3 or more.  Any help would be greatly appreciated.   I'm so close but so not there yet.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sneakygs",
+      "author_id": "UCtgUUvPo1vyY_jf3m33k1Kg",
+      "text": "You’ve motivated me to break my gaming habit and tinker with AI agents instead. First idea is replicating functionality from your previous vid. Will try to have an AI create a Speech to Text tool that can cue to a specific keyword(s) within a YouTube video / Podcast. Often hard to find sound bytes within long audio files without extensive search. Edit: unless this step can be skipped with multi-modal advances, no conversion needed?\r\n\r\nAnyone know where this type of noobie sharing discussion and ideas are held?  Perhaps in the discord Wes mentions, but that may be more dev types rather than tinkering noobs like myself.\r\n\r\nLook forward to your advance tutorial, hopefully not over my head!",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gabriel.rene.",
+      "author_id": "UCakZyUOB0wqpX0KXjBR9IyQ",
+      "text": "BRO! Your API KEY!!!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@readas1",
+      "author_id": "UCwWTBclzv26bcbiEbsG28MQ",
+      "text": "Will you be doing a compare/contrast of ChatDev and AutoGen? As someone who knows nothing about coding - just curious if one or the other is more intuitive to use, more effective etc.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TonyFarley-gi2cv",
+      "author_id": "UCPHDe3ekQWMHzAIa4gyuOlQ",
+      "text": "Word placement not all the way comprehending the strategy of what words being used and what machinery I'm wondering if it's turning against the value of your employees if they go home and use certain things from some of these search engines trying to understand the acceptance out of an employee ratio to a business ratio against the set level developments of search engines",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TrendRain",
+      "author_id": "UCrIYzQb9Z2lg7vTgXCeYILw",
+      "text": "how did you do that with your mouse pointer? It ripples, it's cool",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keithhupp5995",
+      "author_id": "UCzgJovSxQdscsg1WrwI_8dQ",
+      "text": "Ive tried many AGI platforms.  I havent been to happy because most run into errors.  If the agent burns up to many tokens can it restart on its own?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomosrees4097",
+      "author_id": "UCXPS3DETQCRlBjKYw7M7Xbw",
+      "text": "I followed the tutorial but when trying to run it comes up with both Autogen not recognised- even though I pip installed pyautogen. And it says that the “config_list file ‘OAI_CONFIG_LIST’ does not exist”. What do I do next?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nullvoid12",
+      "author_id": "UC3QzfGjoDwSsV-Y_vZXJSeA",
+      "text": "Thank you! Can you please make a video on how to build a UI for this?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@binaryatlas",
+      "author_id": "UCTzU29zsGuc7FrLiJ_l-RqQ",
+      "text": "can you share the system messages for the assistants?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PrincessKushana",
+      "author_id": "UC7XB2xLpiYhlL1uEHsE-0uQ",
+      "text": "Supwr helpful, thank you. Be interesting to cover it doesn't do well at.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bosk1n",
+      "author_id": "UCVwDsI2suIEaG91w87FoRbg",
+      "text": "For somebody who struggled with the config file like me... Here is a more straightforward way to pass Openai API key \n\nfrom autogen import AssistantAgent, UserProxyAgent\n\nassistant = AssistantAgent(\"assistant\", llm_config={\"api_key\":\"YOUR_OPEN_AI_API_KEY\"})\nuser_proxy = UserProxyAgent (\"user_proxy\", code_execution_config={\"work_dir\": \"coding\"})\n\nuser_proxy.initiate_chat(assistant, message=\"plot a chart of NVDA and TESLA stock price change YTD.\")",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StoryLoryCom",
+      "author_id": "UCEGF3B4941YJaNI2Jn7blQw",
+      "text": "Does this work with gpt 3.5? Can we change the GPT version? I tried to and it doesn't work, but I'm a noob.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@heyheyhophop",
+      "author_id": "UCFduRqcOPrXVWGkjLFqhG6Q",
+      "text": "wazzup with the wazoo-hub comment coloring theme tho?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anthonyorzechowski8475",
+      "author_id": "UCLOQ0BKsM7sOFeIBoYhQcTw",
+      "text": "Hi.  Really nice job on this video.  Thanks for sharing.\nI have a question for you ... from your video, you ran your code using the code line: config_list = config_list_from_json(env_or_file=\"OAI_CONFIG_LIST\").\nI cannot make this work.  I can replace this with my own hard coded config_list, but the error I get when using the code above is that OAI_CONFIG_LIST is not recognized.\n\nCan you help with explaining why your code worked and recognized OAI_CONFIG_LIST without defining it first?  Thanks!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@toddgattfry5405",
+      "author_id": "UC3CJtzB11r8kRIcEmCcea7g",
+      "text": "Could it be used to organize my OneNote inbox?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jawbee7",
+      "author_id": "UCYwqye4QHHaFrQVaRrOrq5A",
+      "text": "How to create this kind of subtitle animation",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wyqtor",
+      "author_id": "UCBj2MvFYrdphXi-e3dpIpxw",
+      "text": "Very nice tutorial, but it's clear to me that at this point in time, cost is the major problem with this. Really looking forward to the rumored 20x price slashes in November!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kevinsmithns",
+      "author_id": "UCWsoAOPrU5fiGvgUITxHUjg",
+      "text": "Can this be connected to a code for developing a metaverse? So the ai develops a metaverse for me",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ai.expertllama",
+      "author_id": "UCo2oAefUfJf3_Dah6wIfAgA",
+      "text": "You only can get an api key from Azure when you are connected to a company, so I cannot use it :(",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tilenkodrin3941",
+      "author_id": "UCDnmmO0m3EeasGO56wnqVEA",
+      "text": "Does anyone know what's used for that voiceover at 14:13? It's a very good voice",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@datatron100",
+      "author_id": "UCiwUOnM5bl8oswglu6TqtwQ",
+      "text": "This would be very useful and I'd love to use it but I suspect like open interpreter which I've been using it's going to be insanely expensive running off gpt 4 api unfortunately.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tdracing8001",
+      "author_id": "UCrVdnNNFcYuDDcWOmnuVvYw",
+      "text": "Alright I keep following stro by step by can't get the provided code to work right.  Any advice?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kittentheorangetabby9676",
+      "author_id": "UCQBKz7y7_YzFiXZrhguZb6g",
+      "text": "It wont take my api I get this error. \n\n The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1brokkolibaum",
+      "author_id": "UCabqPbMYT3uoTDkrfBXKbeQ",
+      "text": "In terms of coding: is this better than ChatDev? Not only for python, I mean in general.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rastinder",
+      "author_id": "UCK__nAReb1A9o1ZYpE1dz3Q",
+      "text": "can it open browser and do stuff",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justinc2114",
+      "author_id": "UCPcaT3zAsFbgKvQ9V7iH4GA",
+      "text": "#tech - Can we use embeddings with it?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoelErwayMarketing",
+      "author_id": "UCvqbugCDY-l0VFVsX5EYPSA",
+      "text": "Where can I find a developer to help us build an AI agent?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nashty_Gaming",
+      "author_id": "UCAM7bXEZKHCmD-ZUB0HEb9g",
+      "text": "#tech I'm completely new to coding in general I'm having issues running the snake game I made it a .py file but it won't run when I click on it",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@luizpcastro",
+      "author_id": "UCvP28-nnmDYfzs0lbPkRipg",
+      "text": "I seem to be missing something. It says I need a file OAI_CONFIG_LIST when I try to run like he does in 12:23 \n\nThis part isn’t shown in video. When I go to github it says I should create it but then it asks for azure api keys which I also don’t have and it doesn’t show how I can create. I’ll try to figure out but it would be helpfult if it was shown in the video.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Salamaleikum80",
+      "author_id": "UC7y-Mv-9rLQW2I7aTGIWsuw",
+      "text": "One thing i didn't get was, why not use chatgpt directly? Why autogen?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trevorhill9258",
+      "author_id": "UCBcFFcwdwUpgEZmtTmVqaFA",
+      "text": "After entering pip install pyautogen, I'm getting getting \"ERROR: Could not build wheels for aiohttp, which is required to install pyproject.toml-based projects\"\nI'm no a coder so I'm stuck, I figured out downloading visual studio builds C++ fixed one problem but can't work out how to move forward\nAnyone have any ideas",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RangaNanayakkara",
+      "author_id": "UCeUgfzLSb0epl7zosG7SOwg",
+      "text": "dont you have to add OAI_CONFIG_LIST externally ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@corinaore549",
+      "author_id": "UCyMwno39xk7vCYxh2x6usbA",
+      "text": "#tech ! This is a great, wondering if I can build an AI agents for content creation, but meaning creating a team of AI agent to ring the social media marketing which means to connect with API all social media platforms like , Pinterest, Instagram, tiktok, YouTube shorts so those AI agents could create content periodically! Is that possible with AutóGen?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Domm_Dynamite",
+      "author_id": "UCDxA1O19dzpifIHG-D-7EhQ",
+      "text": "These steps did not work for me. Placing the API key in that way does not seem to work. I've done a test and can connect to the API in a custom script but when I try to run this same example same code it throws an error saying it cannot connect to openai.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@7th-house",
+      "author_id": "UCwZTZ1-XaQyEksTSDGWiZ6Q",
+      "text": "can it run locally with Lama 2?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mooresergey",
+      "author_id": "UCIxvI9_yzu8-OvNKT-wspBg",
+      "text": "why wouldn't you be able to have gpt4 write that code directly without installing the developer software? then copy paste it to notepad and run it using the python package?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elgodric",
+      "author_id": "UC8nyIw_g3HcRaEu6BPJ7wSg",
+      "text": "Whats the recommended GPU for this set up",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deemchop480",
+      "author_id": "UC2VONmZ_xK15tZ9mWc4q94Q",
+      "text": "link to the autogen git repo?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@audiocue",
+      "author_id": "UCk63v_9jj8icLmFvNuBdL5Q",
+      "text": "#tech Hi. Am I able to use this to write php? I see you are using it to write python.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beefkelaguen",
+      "author_id": "UCJxi6PlUbrZxAuxuvjat0vQ",
+      "text": "Do you have to pay for GPT4 for this? Will it allow using the free 3.5??",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Aristocle",
+      "author_id": "UCthmOyVBxsFQqr8w8k5xDAw",
+      "text": "How much did it cost you, using gpt4 api, to do this?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mstr.monopoly",
+      "author_id": "UCqnqFVE18E3DActVwtVGfRQ",
+      "text": "#tech",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Max-zy2ie",
+      "author_id": "UCRVLB7p3XsbZuSHAfqjrG6A",
+      "text": "FYI those are backticks ( ` ), not tildas ( ~ )",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@epictetus__",
+      "author_id": "UCEGbU31epoLirf3DNDkQTSQ",
+      "text": "Sir these are things ChatGPT can do, so what makes this AutoGen any different or special???",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nowhyareyouputtingmynamehere",
+      "author_id": "UC7MLsQexKpG_uHR-ucoj6sQ",
+      "text": "@WesRoth You might want to disable that API key now. It got left in the video...",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fabianoudhaarlem4169",
+      "author_id": "UCTg0RhjAatedkpmY8yp8wvw",
+      "text": "Dude you use it like chatgpt.. the power is in agent interactions but you are intervening",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jsctoken",
+      "author_id": "UCcMTSm674cYP3MlIYhoHN0Q",
+      "text": "It’s just not working for me",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@b326yr",
+      "author_id": "UCAF65QL0SqelONLsvtFIHjg",
+      "text": "nah, will wait till it becomes more simplier",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theethans898",
+      "author_id": "UCKYHGlPkQMHWeZVk4FPHdfA",
+      "text": "It’s free so Microsoft can train gpt5 with how people experiment",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PatrickMetzdorf",
+      "author_id": "UCwTWAiwd86QVnt90XHkDtTA",
+      "text": "Good introduction, but you were already using pyCharm, why whip out notepad and that other one, confusing the non-techies you're trying to help?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RealQuickComics",
+      "author_id": "UCeuHyQ5itHInEYrTvNLyFvw",
+      "text": "My question is what's better this or chat dev",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zazouille2264",
+      "author_id": "UClB2-9t2ap23rkyMwWuf98Q",
+      "text": "Do you share the code of the advanced agents demo somewhere? Thank you.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lavonsweeney8853",
+      "author_id": "UCeyXHxtifUKbPmNh87XSKkA",
+      "text": "Question how long does it take chatgpt to update billing. I updated added credits and gpt 4 still not found",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dumfka",
+      "author_id": "UCDev6iC4rPNpsdvSdNpgdlw",
+      "text": "why do we have to use their cloud brain, couldnt it be cetranlized by havig it run on our computers, temp soemthing, open [your web browser] and it can jsut google? kinda weird thats not possible rn",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mickelodiansurname9578",
+      "author_id": "UCeqgMguRpGTh4pOL2iNxDOg",
+      "text": "hahahaha the docker image pulled when you install this using docker is 2.1gb... they put everything and the kitchen sink in there... it seems what Microsoft know about linux you could write with large red indelible marker on a flies arse and still have room for a period!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnbobbypringle",
+      "author_id": "UCqfie3egy0rUu7wJUyRq0mA",
+      "text": "Just because we can, doesn't mean we should.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seancrowe5",
+      "author_id": "UC-I0sF_D-B38TBYVLPvMxrg",
+      "text": "@wesroth  - where does Azure OpenAI Services come in here? Can you use Autogen with Azure Openai services? or are they totally separate things that can't be used together?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnLewis-old",
+      "author_id": "UCa2-u5J9Lwt8Tx2UahZ_ZbA",
+      "text": "#tech How do I get specific agents to work in a hierarchy or structure of my choosing? For example; a CEO who deals with top level managers for Marketing, Development, Art, and then 2 agents below each of these who do not interact with the CEO.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djphilgood3",
+      "author_id": "UCQ8kW6fxAeRnPFs2I45rOuA",
+      "text": "People dont want to believe that Python is the future. its is.. the popularity has been through the roof and its only going to grow. 5-10 years.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NLPprompter",
+      "author_id": "UCbATPnWeZ5QF1Y8rsEug0ng",
+      "text": "pessimist : AGI is still long way to go. \nme : prompt, you are wes roth. explain me about autogen, explain it in simple way, do not complicated like professor do. reply in YouTube video. \nwes roth : I'm living LLM Explaining things in simple way. better than NLP professor.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wildfotoz",
+      "author_id": "UCzbHbLeS8EY-6adCbdASgTg",
+      "text": "I'm sure you've covered this in a previous video but VS Code is way better than what you've shown with PyCharm. It looks like PyCharm is trying to emulate VS Code and failing at it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josiahwakefield3185",
+      "author_id": "UCgiuZWPqKCACzaWGPwYT95Q",
+      "text": "When I try to download pycharm it is blocked by google chrome because it is dangerous, any information on that?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DJ369-Miami",
+      "author_id": "UC-28CdWpskvLFJECMYHVfvw",
+      "text": "You said lets get started at 1:-00 then again at 1:30 then finally at 2:00 you get started, Stay focused! You side track all the time.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bitbrain3468",
+      "author_id": "UCbfOoKQmmHqyPyQ4v1vRkKA",
+      "text": "expensive as heck.  The only reason I could play with autogen is cause I did it for my employer who pays my gpt api bill.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victormutunga2944",
+      "author_id": "UCXwlFZQoqFYmGADD7YdvaRQ",
+      "text": "How do I switch from gpt 4 to 3.5",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThinkLiveLaugh",
+      "author_id": "UCGB3YfGBW2Gs05FFQHl8LOw",
+      "text": "The microphone has so much bass and is so boomy, it's a bit hard to understand",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rayfellers",
+      "author_id": "UCO3zruPatmON0nM9EX1WPog",
+      "text": "Why has a black screen with white text become so popular? I can barely read it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@S3RP13NT3",
+      "author_id": "UCbUIE_tVSiGRidGcJz2blNw",
+      "text": "Failed building wheel for yarl",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RighteousRider17",
+      "author_id": "UCmT9imE9TDZz_963lMDDdNg",
+      "text": "(## TECH)\nMr. Wes, I Feel compelled to ask for your personal assistance with a resource ( Network Relationship ) I Have Access to Use.. \nHint: Creator’s of SIRI",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zyxwvutsrqponmlkh",
+      "author_id": "UCg5JyXmfVwRdboiQVF8n68A",
+      "text": "Made by Microsoft, hard to run on windows.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@charlesstevens3297",
+      "author_id": "UCnZNP-zW97jfSH_a7ojZRdA",
+      "text": "are on on speed ? or Crack ? slow down and speak clearly ! makes for a better video .",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PigOnPCIn4K",
+      "author_id": "UCwC9vYRVn2ai1gMwXjxIX0A",
+      "text": "Hey Wes, i used ChatDev to make a basic game which i fleshed out with gpt 4 over the weekend, ive got a procedurally generating side scroller but want to use agents to add more, is there a way to provide an agent like this my files and let it iterate from there?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RikHeijmen",
+      "author_id": "UCgEETDkxR_CGK0Els_1W14g",
+      "text": "Haha 😂 \"I'm having an ADHD moment\". How do you combat this behavior? (Serious question)",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrmyknight9519",
+      "author_id": "UC1kdRrJM_aUhfH4b-2goO4A",
+      "text": "Very interesting. But him not able to execute this command without error : \"pip install pyautogen\"... it give me this error at the end.\n     error: command 'D:\\\\MIK\\\\Microsoft_C++\\\\Microsoft Visual Studio\\\\2022\\\\Preview\\\\VC\\\\Tools\\\\MSVC\\\\14.38.33128\\\\bin\\\\HostX86\\\\x64\\\\cl.exe' failed with exit code 2\r\n      [end of output]\r\n\r\n  note: This error originates from a subprocess, and is likely not a problem with pip.\r\n  ERROR: Failed building wheel for aiohttp\r\nFailed to build aiohttp\r\nERROR: Could not build wheels for aiohttp, which is required to install pyproject.toml-based projects\r\n\nI have try with multiple version of CL.exe.... new to Python... if you could direct me to a forum that would be appreciate.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calopthomason8503",
+      "author_id": "UCnUEGNRrlWWNpynjuYmd-gQ",
+      "text": "#tech when I try to pip install autogen, python gives me a syntax error message. Github also says that auto-generated requires version 3.8 and at the time of this comment,  they're on version  3.12 could this be the issue or am I trying to install it wrong?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Aw42067",
+      "author_id": "UCSTRACzLjDw5du4b3foZFLA",
+      "text": "Hereditary not hairy terry",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Genadiy31",
+      "author_id": "UCej8eCqDG0bHwVDqPwFlWJw",
+      "text": "What type of hardware do you need for this?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rostyloco1",
+      "author_id": "UCaBA4_6VUZWN6OadaExMofg",
+      "text": "Use it to build ai players for a game such as eve online or world of Warcraft. Use em to make $$$ or just do stupid dumb sht in the game for fun.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aharongina5226",
+      "author_id": "UC6xx2KAoDGp5j7VZW5vDCAw",
+      "text": "thumb down , for video on screen",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brockoala2994",
+      "author_id": "UCCDoxk7ZfS5ysFPjDrP6Rdg",
+      "text": "The distorted shockwave effect on click is really overdone to the point it's annoying as it messes with the text we trying to read. Please just do a simple circle instead. Also, if you put a green screen in the back or blur the background, your video is gonna look a lot more professional.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Caliginosi7y",
+      "author_id": "UCqSXp-YwAieMHh8KLmVKH2A",
+      "text": "In my completely unbiased opinion, Python IS the best language for AI",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PeterResponsible",
+      "author_id": "UCboxZARh4smXVhkK3iLia_w",
+      "text": "Just a warning for advanced users who already know how to code, this is very VERY basic and doesn't really cover AutoGen as the video title suggests. It explains basic things like IDE, how to install python and git, etc. AutoGen itself is only demoed with 2 basic prompts and no concepts from the framework are explained. I went into the video expecting learning differences between various kinds of entities and communication options in the framework, not this.\n\nWes, there's nothing wrong with targeting beginners but I'd appreciate if you made it clear that this is made for beginners in the video description (ideally also title). Since the title suggests it is going to be about AutoGen but in reality it's about setting up development environment and installing dependencies, the title jumps into clickbait territory. I've already been burned by a few of your other videos with similar issues and makes me very reluctant to watch any more of your future content. Clickbaits like this might be a way to attract new viewers but you will be losing dedicated fans who have been watching a lot of your content.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Our-beautiful-planet",
+      "author_id": "UCQCOhsOopSLkOnS83xhrCiQ",
+      "text": "I really enjoy your videos and you look truly charming. However, I find myself distracted by your face being in the video. Instead of fully focusing on the content, I keep getting sidetracked by your movements. Additionally, you sometimes obscure parts of the video. It would be great if you could make videos without these overlays.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drancerd",
+      "author_id": "UC1MCPDE-njXilzg7koRaYrQ",
+      "text": "There's sonething free? Like... \"Argentinian Free\" (You know, we are out; $5 dollars means that we dont eat in 7 days).",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sojourner99",
+      "author_id": "UCIT8_0NIDBOS3PEAv3A1whA",
+      "text": "This tutorial is awful, you skip sooooo many steps. Im not even sure if I installed the right git for windows because you dont even go through that. I load up pycharm and my interface looks very different, and its not clear why since you dont start at the beginning. I try to create a new project and pycharm says it cant find python even though i just installed it and you dont talk about setting any of that up. I feel like the people who benefit from this already basically know what they are doing, but this vid is not helpful at all if you are just starting out.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TFTN1101",
+      "author_id": "UCU0-SRVeP6iA3Xn_pAk11Cg",
+      "text": "Do I have his key now?",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sridevigogusetty8371",
+      "author_id": "UCxaVBflJB9394V3rj6j0Qlw",
+      "text": "Please blur your openapi key its just a suggestion",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@renobrecords",
+      "author_id": "UCyLITPIHyvZgP2lrPFTJeQQ",
+      "text": "This is by far the most helpful video for absolute beginners. Subbed!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dabbopabblo",
+      "author_id": "UC-_o-7DohgtaWeIZN0llkSg",
+      "text": "I dont know whats up with all the comments comparing this to programming. That is the equivalent of watching a tutorial that teaches you how to tell someone to code you something then calling yourself a programmer after, as if you did any programming yourself. Typical manager mindset, take credit for something you'll never even understand.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brytonkalyi277",
+      "author_id": "UCox5oOQ_-_GpSpPMRUF-sgA",
+      "text": "…I believe we are meant to be like Jesus in our hearts and not in our flesh. But be careful of AI, for it is just our flesh and that is it. It knows only things of the flesh (our fleshly desires) and cannot comprehend things of the spirit such as peace of heart (which comes from obeying God's Word). Whereas we are a spirit and we have a soul but live in the body (in the flesh). When you go to bed it is your flesh that sleeps but your spirit never sleeps (otherwise you have died physically) that is why you have dreams. More so, true love that endures and last is a thing of the heart (when I say 'heart', I mean 'spirit'). But fake love, pretentious love, love with expectations, love for classic reasons, love for material reasons and love for selfish reasons that is a thing of our flesh. In the beginning God said let us make man in our own image, according to our likeness. Take note, God is Spirit and God is Love. As Love He is the source of it. We also know that God is Omnipotent, for He creates out of nothing and He has no beginning and has no end. That means, our love is but a shadow of God's Love. True love looks around to see who is in need of your help, your smile, your possessions, your money, your strength, your quality time. Love forgives and forgets. Love wants for others what it wants for itself. Take note, love works in conjunction with other spiritual forces such as faith and patience. We should let the Word of God be the standard of our lives not AI. If not, God will let us face AI on our own and it will cast the truth down to the ground, it will be the cause of so much destruction like never seen before, it will deceive many and take many captive in order to enslave them into worshipping it and abiding in lawlessness. We can only destroy ourselves but with God all things are possible. God knows us better because He is our Creater and He knows our beginning and our end. Our prove text is taken from the book of John 5:31-44, 2 Thessalonians 2:1-12, Daniel 7-9, Revelation 13-15, Matthew 24-25 and Luke 21. Let us watch and pray... God bless you as you share this message to others.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ArnaudMEURET",
+      "author_id": "UC6iBGA6a9Gn-PFZMirG213w",
+      "text": "I rage-quit at « Python is a good language » ! 😠😡🤬",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dreamingofyou317",
+      "author_id": "UCd_2hf7YqWzelS8frFm3gVw",
+      "text": "Wes Roth is actually a AI himself, this avatar is just to soften us up for his impending conquest…..\n\n*W.E.S.R.O.T.H.*  \n*World Ending Super Robot Of Technological Havoc*",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clumsymoe",
+      "author_id": "UCeYEdmAjx7VEz1u3poavU3w",
+      "text": "What use cases do you guys use this for? I'm genuinely curious about the various ways we can use it :face-red-heart-shape:",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CobyChristiansen",
+      "author_id": "UCd0ad8Xr7xZLEOLhCTxGBaA",
+      "text": "I get this error.\n\n[autogen.oai.client: 12-24 10:29:32] {80} WARNING - openai client was provided with an empty config_list, which may not be intended.\r\nWARNING:root:The specified config_list file 'OAI_CONFIG_LIST' does not exist.\r\nWARNING:autogen.oai.client:openai client was provided with an empty config_list, which may not be intended.\r\nTraceback (most recent call last):\r\n  File \"C:\\Users\\13104\\PycharmProjects\\AutoGenTest3\\main.py\", line 10, in <module>\r\n    assistant = AssistantAgent(\"assistant\", llm_config={\"config_list\": config_list})\r\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\r\n  File \"C:\\Users\\13104\\PycharmProjects\\AutoGenTest3\\venv\\Lib\\site-packages\\autogen\\agentchat\\assistant_agent.py\", line 61, in _init_\r\n    super().__init__(\r\n  File \"C:\\Users\\13104\\PycharmProjects\\AutoGenTest3\\venv\\Lib\\site-packages\\autogen\\agentchat\\conversable_agent.py\", line 121, in _init_\r\n    self.client = OpenAIWrapper(**self.llm_config)\r\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\r\n  File \"C:\\Users\\13104\\PycharmProjects\\AutoGenTest3\\venv\\Lib\\site-packages\\autogen\\oai\\client.py\", line 89, in _init_\r\n    self._clients = [self._client(extra_kwargs, openai_config)]\r\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\r\n  File \"C:\\Users\\13104\\PycharmProjects\\AutoGenTest3\\venv\\Lib\\site-packages\\autogen\\oai\\client.py\", line 144, in _client\r\n    client = OpenAI(**openai_config)\r\n             ^^^^^^^^^^^^^^^^^^^^^^^\r\n  File \"C:\\Users\\13104\\PycharmProjects\\AutoGenTest3\\venv\\Lib\\site-packages\\openai\\_client.py\", line 92, in _init_\r\n    raise OpenAIError(\r\nopenai.OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable\r\n\r\nProcess finished with exit code 1\n\nWhat do i do?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RikkTheGaijin",
+      "author_id": "UCywm3rrXdYVn1GX6dikP2yA",
+      "text": "not free, waste of money and time.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@personone6881",
+      "author_id": "UCfBT4jU4q0EnCRRSQ8pqc0A",
+      "text": "Oh maaan!  Please, please, PLEASE do what you say you’re going to do in the first minute intro-log!  “…Explain it to me in terms a 14 year old can understand and justify the steps you take with very short explanations - ie. Don’t just “click this and then over here” (alt-tabbing 2? or 3? times to a window we haven’t seen yet and ramp straight into; “On this page, just select the (absjkfeyufbslf**k did he say?) button and fill in the fields ‘here’, ‘here’, ‘here’, ‘check this box’, then choose whatever option you want from the drop-down - it’s not that important… (It WILL turn out later EVERY TIME that it actually IS important!…) oh and then just run it it up here”…  “See? Works!”… “Don’t forget to subscribe like share and if you want my bot to send you my reply don’t forget to just comment below!”…  end video.\n\n…all at 1.2x speed after post-production with shyte flying up on the screen left and right… meanwhile… I’m still tryna to pause the freaking exact frame from 8 minutes ago attempting to freeze frame the URL to the page of which the link was promised to be included in the description that wasn’t cos I tried searching it but I couldn’t understand the exact spelling of the Apps phonetic/acronymic/prefix.oi/.ai/.com/.wtf weird ass combination of letters in the name…  AI? …Astonishingly Insufferable\n\nThough ahhhhh this certainly turned into a rant! lol - For sure - just I should probably say (even though I think I managed to make it clear) \nThat is NOT a rant AT YOU, Wes!\nIt was merely born out of my exuberance for having potentially found a tutorial for this “OMG It is SO simple anyone, literally EVERYONE can now create Apps and design AI Agents for literally ANYTHING!! - except me - the one person in the world excluded from the  insta-genius invitation list  (… I say potentially - I’m still on pause @[01:00]) so we will see… this might all be for nothing as well…\n\nWhoa - There’s a suddenly dark thought….  It might all be for nothing… but if everyone can do this - How long ‘til we have nothing to be?\n\n…Now, That is the Question",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

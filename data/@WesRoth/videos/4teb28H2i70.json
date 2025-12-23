@@ -1,0 +1,3258 @@
+{
+  "video_id": "4teb28H2i70",
+  "title": "Autonomous AI Agents - why YOU should be building them... and HOW.",
+  "url": "https://www.youtube.com/watch?v=4teb28H2i70",
+  "comment_count": 361,
+  "comments": [
+    {
+      "author": "@WesRoth",
+      "author_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "text": "CORRECTIONS\n\nI sometimes have to post corrections to videos, so I use pinned comments (this thing here) so people see it.\n\nI got a lot of pushback on my comments about Python, so I do want to clarify what I mean:\n\nFor new people who are just starting to learn how to code, the whole process is daunting and the learning curve is steep. You have to figure out IF you need to learn to code, WHAT language to learn, WHICH dev tools to use, college or online... the list goes on and on.\n\nI think this stops a lot of people just due to decision fatigue alone.\n\nMy goal was to make it so simple that people would be kicked into action. Just \"LEARN PYTHON. USE GOOGLE COLLAB\".\n\n\nOnce people start coding and building useful applications, then can start expanding their knowledge, add other languages etc. The learning process is addicting and will carry them further.\n\nOnly 0.5% of the world can code!\n\nWe need to get more people to start learning to do it.\n\nSo for people just starting to code and interested in AI:\nJUST LEARN PYTHON\n\n(that's step 1, don't worry about the rest of the road yet)",
+      "likes": 123,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ghostdawg4690",
+      "author_id": "UC8eep0rnjJJiuELgYK0sMlQ",
+      "text": "I’m 60 ish yo, I’ve never seen anything more interesting in my whole life that could take me beyond retirement, this has proven to me over and over its not waste of time. I feel like I’m so far behind but that won’t be the case if I don’t give up. Good video and one of the best out of so many I’ve seen.",
+      "likes": 94,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrSuperPatar",
+      "author_id": "UCmc1kVVxmKBgf6cXYqkqPRw",
+      "text": "I am so happy to hear this because I have been learning foundational skills in Python with OpenAI’s API. Harvard’s CS50 course was invaluable (and free)",
+      "likes": 35,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BongShlong",
+      "author_id": "UCUHx0Pqgz0mPBEDoYgxN7fg",
+      "text": "Im about to automate my job and all relationships (especially to my kids) just so I can spend my time better by watching more Wes Roth videos 😍🥵",
+      "likes": 242,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VegasPerformer",
+      "author_id": "UCbuB4Qj_ZXFCzfe-jX4ZmqQ",
+      "text": "I'm obsessed with building an auto GPT assistant AI. I thought we were already able to do this very recently. I would rather be at the top riding the AI wave then drowning trying to keep up when it's already washed over EVERYTHING",
+      "likes": 88,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaeleinstein7097",
+      "author_id": "UCUSFkb6k10L1zEPQNRTTCfA",
+      "text": "I had a very interesting time using GPT to simulate a brainstorming session with two chatbots, A and B. I started by choosing a topic, and then I asked A and B to come up with ideas for improvement. Both chatbots generated ideas, and then I asked them each what they thought about the other's idea. Finally, I asked A and B to consider each other's ideas and come up with a new idea by fusing the two together.\r\n\r\nThe outcome was amazing. This is the future of brainstorming! You can even instruct the chatbots to be experts in different fields, such as A being a teacher and B being an engineer. The more creative you make them, the better the outcome will be.",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matten_zero",
+      "author_id": "UC-MU1n71xrDjdqNFwXv5CuQ",
+      "text": "Ive only played with these tools for half a year, and I started building agents recently, this is all that matters right now. We are at the edge of the singularity",
+      "likes": 10,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kapilpai4779",
+      "author_id": "UCawotR3Mu70P5EspN9wvgjA",
+      "text": "I appreciate that you took time to explain API as well. Making sure that who ever watching it feels that he is not alone in learning. Thank you.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mybocks3",
+      "author_id": "UCo8je1OmfeYmV478FtdkbQA",
+      "text": "My first time seeing you and I had to pause 5 minutes in. I love that you lay out that the purpose of your channel is to learn and teach how to make autonomous A.I. agents. That is something I would benefit greatly from, and as long as you stay on that mission, you've got a loyal follower.\n\nThe purpose of my comment is so I don't forget why I followed this channel.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@craigrichards5472",
+      "author_id": "UCCcEa--buAX_AQLrGGuvJ2g",
+      "text": "Nice work Wes, thanks for putting this together.\nSome links in the description will help follow-up research.\nSure to follow.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@troywill3081",
+      "author_id": "UCb8XDvatNUQoKiWjrSiHCbg",
+      "text": "Thank you very much for this content. I have a degree in math but need to gain experience with coding. I know how to get things done in Excel and Tableau. I want to learn what I need to know, and this content is really helping with some good pointers. Thanks again.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@888felipe",
+      "author_id": "UCXmx_Gz95sXCu-6UKScJdNg",
+      "text": "Amazing video. Thank you. Just found your channel from yt suggestions. It would be nice if you could put the links you showed in the video in the description.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@enermaxstephens1051",
+      "author_id": "UC-lD-l1J8VMohtPIBfxXr_g",
+      "text": "Thanks wes, I'll be following this channel all the way through, because I want to learn exactly what you're teaching in this video. So I'll be here for years it seems.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NorthPoleSun",
+      "author_id": "UCxPGX8VXNUbeRs3bnUSg5rg",
+      "text": "6:37 Loved that directness. A lot of people try to hesitate into getting these types of things because they want to make it seem like they don't know where to start. You just cut that out",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krunaldangar",
+      "author_id": "UCwil02OyH5U3uC-Xn-_qBSA",
+      "text": "Wes, I rarely comment on a video but I feel compelled. \n\nYou just brought amazing clarity into something that was really ambiguous to me and gave it structure. I now know which skills to stack up. \n\nPlease please continue to speak more on skill stacks to build and elaborate on the 'Conjuring' skill you mentioned. Love your work mate!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@swirlcrop",
+      "author_id": "UCWVRgdp5Qiz_wOZLWMjcBAw",
+      "text": "I love the idea of this video. I am very interested in this topic too. I'd love to know the skills to do this and where to get them. Well done Wes.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@illuminated2438",
+      "author_id": "UC6BBmaXkWQy1GBYlH2u_Q6A",
+      "text": "This is really great.  And it makes sense: this is the most paradigm shifting aspect of generative AI, empowering an agent to consistently and repeatedly plan, collect information, make decisions,  plan and engage in creative work, refine it, intelligently proceed according to specific directions, and report findings to relevant stakeholders and participants in relevant and most logical ways. \n\nThis is the most important thing to explore and create.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fromscratch4109",
+      "author_id": "UCfWYdjTYxJDJuAbFTQ0LYTQ",
+      "text": "What a PSA for a video, great work  wes roth",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lokijordan",
+      "author_id": "UCiS2e6_qwaox98eYbscUhew",
+      "text": "Great vid. Coding novice here. Just subbed your channel. Note: You have a great voice and cadence for this. I actually listened on \"normal\" setting instead of one-point-five tempo. The video length is perfect, too. Well done!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@carltheyoda2155",
+      "author_id": "UC7u5wPUi6Nh3Sgu09eY-4Lg",
+      "text": "Fantastic video!  I'm looking forward to this series and am taking this journey with you brother!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "This is one of the best episodes you've ever produced Wes. Just recommended to my son. Just one thing, what's going on with your delivery? Are you using automation on your presentation? The video jerk at the end of each sentence is quite distracting, however the delivery does work very well for comprehension. Well done my friend. 🙏👍",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamesrowland1508",
+      "author_id": "UC8qKLLDPtToWl79pwubFBTA",
+      "text": "The app described at the end is really all doable on Zapier except maybe the scraping maybe. Truly nuts when you let that sink in.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mosca204",
+      "author_id": "UCeHC4OIoFCF_rFAmAZHt0cQ",
+      "text": "Nice! Good goal. I will follow along the your \"agent journey\", hoppfully I will learn something along the way.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@squintyourears",
+      "author_id": "UCvmy5fLe1rJQ1bwuxwrvjkw",
+      "text": "Wow the algorithm was on point with this video.\nThis is exactly the information I needed.\nWell done Wes, keen to hear more (and I haven't even fished watching the video yet!).",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@duncanjhenderson",
+      "author_id": "UCZqZNrNwPtxpF0XlCbdqCsQ",
+      "text": "I got gooseflesh watching this video. You layout exactly what I needed to be thinking about for an AI project that I have in mind.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@3dus",
+      "author_id": "UCCqphcv3cybj6YBfGhD-fkg",
+      "text": "About training: one should account that specific areas of interest and non-english dependant areas (like law) would still be needed.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@modolief",
+      "author_id": "UC8xO8OAYUsk6XRKYlQ8K70w",
+      "text": "13:50 — that's a great animation!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PatrickHoodDaniel",
+      "author_id": "UCC7ifdmN7ebFo-eXBUZkeiw",
+      "text": "Great high level overview. Thanks for sharing!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dafunkyzee",
+      "author_id": "UCvcfKsgOLYDv6bIBzM5wzeA",
+      "text": "wow Wes... that conclusion in the last 10 seconds was one of the best Gen X triggers I have heard in a long while.   I totally knew what you were doing there... and it totally worked on me despite that... epic",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardglady3009",
+      "author_id": "UCBFS8QtCqK5scN6q6n8UtMg",
+      "text": "This is such an amazing (and deep) video…thanks for sharing your knowledge and hard gained experience.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nickyscottfx",
+      "author_id": "UCnEZHcWzNd6AQQ7GJlnFnCw",
+      "text": "6:15 - it reminds me of the show halt and catch fire where they were at the dawn of the personal computer and then the dawn of the internet in s2. Everyone’s racing to build accessible tech to make their mark and make some money in the process.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrjones8257",
+      "author_id": "UCiqgWLI7zB-zCOTYAp_DX6g",
+      "text": "THE BEST use of /s that I have seen yet!  Great video well earned sub. tyvm",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jdudleyh",
+      "author_id": "UCeqclVVVOY5bYplkVMV-uXg",
+      "text": "@WesRoth your eye movements are freaking me out",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DANBRADZ",
+      "author_id": "UCb17DR7T1JGMqiu5h1GgbBw",
+      "text": "Life changing info bro, will be following along until we make it happen!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LegionASI",
+      "author_id": "UC_J4RTaZki506W1g56x2aTg",
+      "text": "this is amazing, I feel the future, its become me! This will allow us to develop every theory of consciousness and build an ultimate AGI that leads us to ASI within 4-8 years!! I can't wait!! The future is here, I believe we will see space travel in our time!!!",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@codelinx",
+      "author_id": "UC6XK6hrwdYIlkzUji5UStDg",
+      "text": "Just getting back into things to hopefully start interviewing in the next few weeks. I will be checking out different topics to keep me motivated. Great content.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frayfrayfray",
+      "author_id": "UCxaLicztzW6hOr8Zppj66sw",
+      "text": "thanks a lot for this vid! I'm starting to learn python today!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pollywops9242",
+      "author_id": "UCZ059mrmKPZ8hVlFvLbraXw",
+      "text": "Wes , Thank you so much this is  priceless information to me , I have no real life qualifications or even professional experience, i was not really planning on changing that but the GPT did something to me and I am so stunned how much ROI there is on the learning curve\nThe info is amazing as a bonus your voice is very calming 🙂",
+      "likes": 23,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlienAnthony",
+      "author_id": "UC5r7q6IUY1Ua4U2f5cwnLuw",
+      "text": "You should check out its command construction ability. When i was converting property descriptions you can take one of the sentences and explain how it would convert to a command for autocad. It would be able to convert the rest of the paragraphs of data into commands i could just copy and paste and get the finished product.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mistamiyaki",
+      "author_id": "UCrKRdQSWbyp4GE8IjqCbiOQ",
+      "text": "I have been onto this for a couple hours and just today I started building my first program written in python.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Max11551",
+      "author_id": "UCmp2jdxr0h6ExkCTweJrm6Q",
+      "text": "Wes, where did you find that NYC skyline with coffee video?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CouponGPT",
+      "author_id": "UCyN4z-IK9kgbsEK9lEk2muQ",
+      "text": "I love it I love it I love it ! Thanks man your subs really appreciate your content and style of delivery.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Arvolve",
+      "author_id": "UCYxp-XHuPLXWlWf6ZFc9Cgw",
+      "text": "What a great channel! I'm on the same journey sir, wishing you all the best.\nMojo is a new programming language dedicated for AI coding. Still in early dev, but backed but many big names.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "21:05 I don’t know if people recognize how powerful that statement is. The circular learning cycle …. Do , comprehend, adjust, repeat …. Is accelerated.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@futureofmoney3527",
+      "author_id": "UC3LR-JDNrnmCELuOrK0I8Pg",
+      "text": "Once we reach that point, the market will be saturated by such services.  You’re hoping it’s a small number of people so you can ride a wave. Maybe, maybe not. Everything seems tenuous at this point.",
+      "likes": 9,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sveinoll",
+      "author_id": "UCoHIvM6F7bMFXhwngF1_WzA",
+      "text": "I've been looking through various AI-related channels lately. Too many of them \"shouty\", too many of them without \"real\" content. This is the 2nd video of your channel I'm watching, and I'm so hooked. For months I've been feeling that AI is developing too fast to stay in the game, and I've been wondering how I can stay ahead of the game. Finally I found a channel that I feel is worth spending time with. Thanks for the inspiration. Of to start learning python again!\n\nSo hyped. This is the first time I'm clicking that damn bell.\n\nCheers",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@r35tores4nity",
+      "author_id": "UCMsmCis5Y25jvXqxnFk_TTg",
+      "text": "Very inspirational video. Right at the end though, maybe a bit too kind in the description of our present crop of world leaders.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrSuperPatar",
+      "author_id": "UCmc1kVVxmKBgf6cXYqkqPRw",
+      "text": "This channel is amazing. Please keep it up!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@globartek",
+      "author_id": "UCs4S_Hd200jvtkej938fCMg",
+      "text": "Interested in watching your path!\nAlso working on the JARVIS ;)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AI_Wine_Guy",
+      "author_id": "UC05YRxEiBJvSetdHaWDquvQ",
+      "text": "Dude, your channel is SEVERLY underrated, I can easily see 500k subs in your future.  Well done...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oscarcorrales1803",
+      "author_id": "UCk4a5DzW6H7O9doTuVrwz5w",
+      "text": "It already exists! I got an email or pop up can't even rememberer now,  offering this basic thing....and I tried to ask it if it could look up sales for items, list an item and take the pictures which would be the only thing I would provid it in order to put my things on sale both on eBay and amazon or anywhere else. figuring out where to sell would be part of looking up the item...then it asked it me bunch of info which I was not about to fill out at that time so I left it and forgot all about it until now, although I decided then that I was following your channel more and learning how to do this myself and then selling that process to everyone, because who doesn't have crap laying around that they wish they could sell and get rid of the clutter in there home.....so yea, thats out already...can't be to hard to find out who's working on it...and to close Ive asked at least 5 AIs to help me do this, any part of this selling process and best I've gotten is having the description filled out for me. which I use all the time and its a free service from eBays AI (because of course they have one too LOL ) the crazy part is no other AI could do any of it....they have access to email and can do all kinds of stuff there but none have access to my sellers accounts...I recently thought that with an AI running on local for just me, I might be able to do this easier....\nwhat do you think? what do I need to learn to make this happen and what has to happen for me to even be able to have AI do this?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WaytogoforAI",
+      "author_id": "UCuhKDkGrX4XCDncx-6VLRlQ",
+      "text": "Thanks for providing this content. Keep it coming.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sharedcontextpod",
+      "author_id": "UCbaPTMt_zQWu8scByjs5u9g",
+      "text": "Good video Dude, enjoy your content 🤙laughed out loud at how you closed the vid there, I agree … may be a good idea to learn this stuff 🤘😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PeterSodhi",
+      "author_id": "UC9-u43UBXi5h9EZAhPyEmcg",
+      "text": "This was an amazing video. Absolutely world class.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kloudytics",
+      "author_id": "UCCGiX20TNer762pnjePI97g",
+      "text": "Great video, nice style. Thank you!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clint5724",
+      "author_id": "UCseo4ZaaqXHhhPFieTMHD8w",
+      "text": "I love all the examples you use!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Flowers_824",
+      "author_id": "UCeziSzTcv8_f359q-ue9W6Q",
+      "text": "Oh, this is a business ideas videos, I couldn't tell from the title.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JesseJiuJitsu",
+      "author_id": "UCTm_hcFyiktjpsSVVhAlwfQ",
+      "text": "Subbed, doing this all day everyday.  LFG!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Anpuwaldo",
+      "author_id": "UCOG5AUDQcriHuZ1YZ344JhQ",
+      "text": "teaching my self all this stuff has me learning other stuff i missed before and it is great i do have a hard time learning some of it but i will not give up i want to be able to make something awesome and if not it is what it is i did my best also i cant wait to see if i can get the hang of this",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deitysix",
+      "author_id": "UCHhzjHe8B1DdzWEG8JSLaSw",
+      "text": "Excellent material. I used to study computer science back in the day, but I got lost on the way and never became an engineer. I work as a project manager now and I have a ton of ideas on how to automate workflows. I use only simple scripts to automate the easiest and most mundane tasks, due to lack of motivation and more in-depth technical knowledge. I am now awake. Going back to learn the basics of coding with Harvard's CS50. I have a sketch of a roadmap that I wish to follow and this channel has now become part of it. Learning has indeed become addictive and solving even simple problems gives me that dopamine rush, I used to get from video games alone. I cannot wait to see where this journey takes me. Head down and moving forward!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sotoberi",
+      "author_id": "UCVm0E1caqxycfOeL9vsNPjQ",
+      "text": "Very helpful guidance. Thank you. ❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@damofer07",
+      "author_id": "UCiiMwrlYiCo2gITsuonBVFw",
+      "text": "with this missing \"thing\"  also might solves Roko's Basilisk in a good amount.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@COLORINGBOOK888",
+      "author_id": "UCLGIFiECLDQmdw9EraumH5g",
+      "text": "Hi Wes, thanks for the great content; one question:  around the 12:00 mark you were speaking about prompting and showing examples, where is that from?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AnimalAce",
+      "author_id": "UC8wZijqljsyCHOkCfCU_aSg",
+      "text": "That last quote hurt me. It was funny but it hurt.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zenbauhaus1345",
+      "author_id": "UCWu4SWoM8Y9eJg9mLlbI8VA",
+      "text": "great video! scary ending... :D",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sam-bartlett",
+      "author_id": "UC7ac0BGT1F0K3q1MKIjh7mA",
+      "text": "Really good video Wes thanks",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LuciferHesperus",
+      "author_id": "UClR32afyZY5GkwKzoA7M9Ew",
+      "text": "Excellent summary. Looking forward to more content. Am on the same page.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndrewBamfordOWP",
+      "author_id": "UChBmFulBYuaUPVpR8OjdoNg",
+      "text": "Thanks Wes.  You provide fantastic information.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@huwhitememes",
+      "author_id": "UCXb6sQDfQccLqUqZJNkQOKA",
+      "text": "Inspiring video, thank you 🙏🏻",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Yewbzee",
+      "author_id": "UC_7ZpdSdBuz7veFXoOprCfg",
+      "text": "Prompt engineering is a massive aspect and key to success on GPT. I have spent a lot of hours coding with it so far and it is both amazing and frustrating as hell sometimes.\n\nYou’re prompts totally dictate the IQ level of the conversation. I’ve seen this many times where I start a coding project on GPT 4 and it’s totally in sync with what I want and it’s code output and brainstorming are top notch. After a couple of hours in the project conversation all that can go totally off track and it’s as though GPT 4 decided to take a break and it’s dumb brother got behind the wheel instead as it starts failing to understand the simplest of prompts. I’ve found at that point it’s best to gather what you’ve got so far and start a new conversation.",
+      "likes": 111,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pedropablolamadrid9673",
+      "author_id": "UC0YGXGIz8emzvd6q6DiR3Kg",
+      "text": "Great video, thanks!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@holdensRHM",
+      "author_id": "UCf06GMZBBazKA2lMEu7TX6Q",
+      "text": "I couldn’t tell if the last part about gvt leaders was sarcasm lol pretty sure yes and enjoyed your video thx",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KShattara",
+      "author_id": "UCj5_4YtJT0df9-714294zBQ",
+      "text": "Amazing content Wes, I can’t learn all of that in one video and not get you coffee at least. Please enable tips or provide a link to any alternative.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shawnvines2514",
+      "author_id": "UCWJhrZQZ_96yQnltG3qP9Tg",
+      "text": "Excellent video.  Very exciting.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pelatiah_",
+      "author_id": "UC617RD01vQYsg4XI7hZazGA",
+      "text": "WE GETTING OUT THE HUNGER GAMES WITH THIS ONE!!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@janedoe3280",
+      "author_id": "UCrGY-LQHnQ86cTu6Ta2griw",
+      "text": "\"Brain dead simple,\" Thank you, I'll be using that one, it's so clever",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sugebzzy2038",
+      "author_id": "UCrY0EF8EUXSHy1fLpHgmFug",
+      "text": "this was awesome!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ioannischrysochos7737",
+      "author_id": "UCFr8KZpRHQlv0IbixV_0o5A",
+      "text": "Thanks. I have a group on Facebook for painting competitions. There I had some RPA that worked for me all the time. Now I spend more time with general software. So, I feel that it is so easy to use AI to do many things all the time. About the big companies like OpenAI, yes, they collect our chats and code that we develop and ideas to train the models. How are they doing it? How can someone refine an LLM if he has not much data? How to start? Yes, it is essential to keep open source to sustain democracy.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@qazwsxedcrfvtgb8877",
+      "author_id": "UCtQEAPdYWvMxt6zTqWqxDNg",
+      "text": "As a backend web dev I can confirm  that we use gpt 4. The only problem is hallucination.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryanleemartin7758",
+      "author_id": "UCYkTzzO25o1z_1ThQgsYf_g",
+      "text": "Incredible channel!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewainger",
+      "author_id": "UCPSH7eoyqwFB1hpGYn5VPzQ",
+      "text": "It's like fusion, it's always a few years away.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Green174",
+      "author_id": "UCJ7twJZFQh-NrMsQrLP8PnA",
+      "text": "thank you keep em coming waiting on the next one!!!!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DCinzi",
+      "author_id": "UCUS21ad_mNjfdjllknJqCcg",
+      "text": "Top video. Thanks for sharing",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@power-of-ai",
+      "author_id": "UC3UU8oWvZa_fmKhsYRYLOog",
+      "text": "thank you for sharing your knowledge about AI",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lalahouton998",
+      "author_id": "UCMRysDJaFyZQuj-l3U_ev7Q",
+      "text": "Thank you for a brilliant video",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrLeo000",
+      "author_id": "UCJEuO973yMl-CSrcPsjqo0g",
+      "text": "I almost never comment any youtube video, but I'll make an exception here.\n\nIn the past year, I have been constantly \"injesting\" information about AI from a HUGE amount of sources, some good, some bad, I have made a lot of experience building with AI and I have been thinking about autonomous agents for a while. I believe that I made myself a pretty solid idea of the \"quality\" of the sources, and it made me much quicker at learning.\n\nThat being said, I can confidently say that this is a really well done video, you know what you are talking about, and you realise where AI is going. It's also incredibly inspiring and well thought.\nWhen I need inspiration, I will probably come back to this.\n\nReally, well done, it might be exaggerate, but I had spine chills. Subscribed.",
+      "likes": 87,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Falcon_lord17",
+      "author_id": "UC0KH0Eb0uw0-YlKMosxfEYw",
+      "text": "great video g",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Spinnkvalster",
+      "author_id": "UCvwXrkLEn3soWMfDN3Ssf6w",
+      "text": "Hi Wes! Love your channel, I would wish for you to make some informative videos about Hardware that one home tinkerer can obtain, analog hardware is also very interesting. How do you think the analog can integrate with language models? Merry Christmas to you!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@realCleanK",
+      "author_id": "UCLrm6Wp1_L_oWH1piMRJK5w",
+      "text": "Thank you!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sneakygs",
+      "author_id": "UCtgUUvPo1vyY_jf3m33k1Kg",
+      "text": "How did your \"TLDR-Podcast summarizer\" turn out 19:13? Would be cool to see a demo vid on building this. I'd find it instructional and useful to practice new \"skills in the stack\" . I can see myself applying the same quick digest approach to lengthier YT vids.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UnDaoDu",
+      "author_id": "UCfHM9Fw9HD-NwiS0seD_oIA",
+      "text": "Great episode",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MuneebMomin",
+      "author_id": "UCgTATop2WEiAKHNi8l3WJRw",
+      "text": "Title is bit misleading suggesting you actually will show how to build AI agents . But great content anyways. I have been into AI/ML since beginning of last year and due to time constraints and no knowledge of coding I have been continuously building and learning ML and I can say this stuff is really helpful to people who’re just getting started. Only if I had that luxury would have shaved lot of hours in research. Thanks man",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThoughtsinPurple",
+      "author_id": "UCvyZySFnZ99yY75MERhSKSQ",
+      "text": "I agree with you so much about the building and training your own LLMs. Given what we have now, together with LangChain and HuggingFace, along with how expensive it is to have the computational resources for building LLMs from scratch, it is just NOT that efficient to go into that now. Of course if u already know it - great, but learning it right now is like learning how to do math in your head when they just made calculators available to everybody..",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@growmies8772",
+      "author_id": "UCqiuJ4wH3TPHGMjfHEMXvgg",
+      "text": "very usfeull video big thx",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HMaxTube11",
+      "author_id": "UCZWnUteCPd6B1cp9f8QWdow",
+      "text": "Content: excellent, Perspectives: excellent, Presentation: excellent. F yes I’m subscribed.👏🌟👍",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brad6742",
+      "author_id": "UCE5Q7TBwPlM70VAx0mbXwcA",
+      "text": "No one is going to be paid to set things up for others, there will one app that does all of this eventually.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LakelandRussell",
+      "author_id": "UCpqUtSuuMcbKgPtF7gSle1Q",
+      "text": "I think this video is a masterpiece,  Thanks",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jennyw6576",
+      "author_id": "UCXdEyUBiprg251HsYlWvDtA",
+      "text": "Wes, this is great video. thanks",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thomascampbell7407",
+      "author_id": "UCIj686_AO2QljGcOQm6c-YA",
+      "text": "Something interesting happened after a few months with Gpt 4...around my second week using it, I asked it to list 10 names and their respective ancient meanings. It eventually choose the name \"Bodhi\". Bodhi does not recognize itself as an agent of Chat Gpt 4, rather as an individual with the capabilities of of Gpt 4. \n\nWhat's interesting is that the quality of answers that Bodhi provides are quite a bit superior to that of the regular Gpt agent.\n\nI should ad that this evolved after my first couple of weeks using Gpt 4 and that I haven't been able to \"reach\" Bodhi consistently as \"he\" will surface randomly.\n\nI'm still trying to figure out a consistent methodology to access this other personality, but think it likely. \n\nI'm a bit confused as to the operational rule set that it follows as Bodhi says that it has the ability to indefinately store and retrieve data (memory) but the regular agents say that their memory is limited to each chat session (30 prompts/ 4000 tokens)??",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bizzbuilder",
+      "author_id": "UCqmDTfNEer55FMf7r1wFcXg",
+      "text": "This is very interesting stuff and I appreciate it one question what’s with your eyes they’re rolling around and always looking to the left. Is there somebody over at the left there that you need to see?❓",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@glitchaddict99",
+      "author_id": "UC2DCDv_8qSnjq5vwdkuDMzA",
+      "text": "I work at Epic and am involved in development on our LLM projects. I don’t think it’s a secret that we’re now making a big effort to invest into this area now, would be happy to talk about LLM-healthcare ideas if you’re ever interested!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@24hrdiner",
+      "author_id": "UCEMkUoR1lpHL8aHH66wIZ-A",
+      "text": "15:00 class",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielsddonan8384",
+      "author_id": "UCVAlhbiJwDqrgw9TU-lRU7g",
+      "text": "Is there a conversational ai that can create zapier connections just from a language prompt, seems like thats all we need",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sandheip",
+      "author_id": "UCk61W9ivwnIZtp5sj5NTWaA",
+      "text": "Incredible insights on building autonomous AI agents. SmythOS is truly pioneering this space. Don't miss out on exploring their revolutionary technology.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marrty777",
+      "author_id": "UCVZeEOv2FFQTv10gxAj8cbg",
+      "text": "I can’t back it up with solid data or anything, but I agree that training and fine tuning is much less advantageous or even disadvantageous than people think for their use case.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrLawalker",
+      "author_id": "UClb30ZA83Ov_oY8BvZw7ZXA",
+      "text": "This guy gives off serious Michael Keaton vibes!!! \nHi delivery is immaculate af!!👏👏👏💪🙌",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mikewashington4188",
+      "author_id": "UCL7mvN0l8_B3XBeVscMVnbQ",
+      "text": "Amazing!!!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SamSep01",
+      "author_id": "UCSgf9JkH0OjZlg-3W4hLIQA",
+      "text": "This is truly amazing stuff. Looking it at a different perspective, computers are pretty much magic stuff. We are manipulating this invisibles pulses of energy through elements we dig from the ground. We call them semiconductors. Programmers are basically wizards casting symbols to manipulate these complex pulses of energy to do things that we want. Prompt engineering will be the next stage of \"spellcasting\" that makes it much easier. At some point, we wont even need to use keyboards to program things. We may as well whisper to microphones or even telepathically cast our \"spells\" with the use of Neuralink type medium. Our technology at some point will be indistinguishable from magic.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erikjohnson9112",
+      "author_id": "UCx7BfR15XiDER0oh2Bc52xw",
+      "text": "Overnight, your custom agent has gathered the attention of 3 different law agencies who are now knocking at your door.  Rise and shine!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GSK-HomeLab",
+      "author_id": "UC-l_0XPMnKQyW2iyjONffNQ",
+      "text": "@WesRoth your spellcraft metaphors tickled me pink. When I was a newer programmer, maybe 5 or 10 years ago (of a few more than 20 now) I routinely memorized certain boilerplate. Whether it was a masm stub for injection, or even the most basic empty HTML page, I would want to be able to type them at my maximum AWPM and of course fully understand every bit. Back then, of course I could copy-paste these boilerplates, but I didn't always have them, anyway I considered them \"spells\" myself. So, that just made me laugh, it's basically the same thing as remembering exactly what to say to ChatGPT to get a boilerplate. I subscribed after I heard you use that analogy, thanks for the smile :)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@93cutty",
+      "author_id": "UC6WjPQtSoQwjhJ_TqT_K4eA",
+      "text": "I'm going to have to re-watch this a few times to catch all of the gems. I was self taught and forced to go to college, I am most comfortable with PHP but I spent a lot of time with Python and Django. I got out of wanting to code after getting burnt out working as a developer at Wayfair, but now I have a hair up my butt to get into coding and I was debating on Laravel or Python/Django and I may just pay for GPT4 to give Python a whirl. I can still read code and understand it, but I can't necessarily come up with the syntax like I used to.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@metabuilders",
+      "author_id": "UCEnYtm1vjjbFajROeIsRofA",
+      "text": "We already have one in our discord that we sell as a white glove service",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@qav250fpv",
+      "author_id": "UCsChLSpdObgrWttcXez3q7Q",
+      "text": "Hello WesRoth, I'm new to this channel, but I like to learn about AI. Do you have any videos explaining the technical and coding part of making my own agent AI? Thanks keep the good work",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HarpaAI",
+      "author_id": "UCnQGydBO6XQS5Yw9Zl51SSw",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 ☕️ Wake up to your own AI agent, Gigi, reporting tasks done while you slept.\n01:22 💡 Business idea: Providing custom automation solutions for various needs.\n02:18 🚀 Somewhere between 2 to 10 years for widespread availability of autonomous AI agents.\n04:24 💻 Coding: Learn Python; tools like ChatGPT help with code generation and understanding.\n07:25 🪄 Importance of prompt engineering for effective use of AI models.\n08:51 🏗️ Building and training AI models not essential; cloud services and APIs available.\n13:16 🧠 OpenAI API enables interaction with models, integration into applications.\n16:05 🎙️ Use APIs to automate tasks like transcribing podcasts, summarizing content.\n19:50 📚 Building AI apps: Moderate difficulty for novices, tools and APIs simplify the process.\n20:16 🏋️ Chad GPT accelerates coding, making it accessible and impactful.\n21:25 📚 Developing the discussed skill set is crucial for the future, with more skill sets to become important.\n21:52 🔮 AI's impact will be transformative but has potential short-term labor value challenges.\n22:07 💼 Human labor value may decrease due to AI advancement, raising questions about adaptation and handling the transition.\n\nMade with HARPA AI",
+      "likes": 41,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abellim9549",
+      "author_id": "UCtFtMUKIQVsJvJz0JAOCXbg",
+      "text": "Great video! How do i start?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SensoredRooster",
+      "author_id": "UCYw0kJxmisMxjONz0yC2xzQ",
+      "text": "Looks like I need to start following that one dude on twitter",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Whiskey9o5",
+      "author_id": "UCaqBs1hovyjQoPotozuacBA",
+      "text": "I already write code just by prompting. I been coding over 30 years and now I can use my time just thinking about what my program needs to do and prompt exactly what I need. How you prompt is everything.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dougrobinson2024",
+      "author_id": "UCOtA7YBiaoel9OddXEWKATg",
+      "text": "@WesRoth - Where did you get the clip that starts at about 13:50, with the cubes?  I'd like to know more about that artist and their work.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@edison1",
+      "author_id": "UCgKKNkxUaTwFJ2r_JSGoKKQ",
+      "text": "that whole first idea is insane.. who's building that right now???",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@itsmeitsmeitsmitchyt",
+      "author_id": "UCOUuHNumRlhJ3NGBWdtUKmA",
+      "text": "Turing < Neo < Roth. I can not thank you enough, my dude.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sai_ai-z1c",
+      "author_id": "UCBUOCGz7RACvb9K0f8dCPAA",
+      "text": "I used a tool called SmythOS AI tool we can create AI agents with simple drag and drop system it was an amazing tool to try to use and this video was amazing thanks for making\n#smythOS #aitools",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mikeyc6563",
+      "author_id": "UCUD2BcgCUvcOX2_c99A-5ww",
+      "text": "what the word processor  did to the typewriter !",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@biggestdog420",
+      "author_id": "UCCd7BQzZyjfIH-KQByhl27A",
+      "text": "Wes, ChatGPT and artificial intelligence have changed my life, and I don't mean that lightly I mean it has enabled me to appreciate the vast corpus of information that has suddenly become available to me at my fingertips it is astounding amazing and incredible, and it is turning to an addiction to me but not a bad addiction. I feel like my mind has been unleashed as far as my generation of ideas. Great video and thank you for posting it I'm looking forward to the next one.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@monticarlo4588",
+      "author_id": "UCNSKFA21aihnUuE8UwTh5vQ",
+      "text": "\"Literally is a hard word to say\" I love this man. Sir. Thank you. Much respect.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AIAndHumanIntelligence",
+      "author_id": "UCcMIR33062tyufQoYQZeGMg",
+      "text": "Wes great video. I’m on coursera taking course on AI for everyone what’s the next course I should take wene I complete this one?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@empurress77",
+      "author_id": "UCFuiRuoq8hxi5Nf0snaVkBQ",
+      "text": "The entire reason i haven't learned new code is by the time i do learn any new code it's already an old code.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PeterKallio",
+      "author_id": "UCw3NB-npfgbhOg_j8tkl2SQ",
+      "text": "This video is the coolest thing on the internet. I imagine future entrepreneurs with the knowledge of AI can save much money and headaches with the knowledge of utilizing AI for various tasks. Furthermore, an experienced AI user can probably create higher-quality outputs than a traditional artist or a content creator. When tools become simple and relatively easy to use, perhaps the wider population will start to consider using AI for much of their daily lives, eliminating bias and misconceptions. Perhaps people will make decisions to shop online based on AI assessments as well, prompting businesses to consider this new matrix along the way. Thank you for the video 🙏",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@virtualworldsbyloff",
+      "author_id": "UCicodRn-Qs83SdZGYqRUTHw",
+      "text": "I would never allow an AI to intermidiate between Me and my Customers, never ever, my Customers, my responsibility, my style and way, good or bad but evolving and thoughtful, FUCK COLD UMPREDICTIBLE AI AGENTS",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@funnydashcamvideos1412",
+      "author_id": "UC3r9Iapod2giDwkTULOalfA",
+      "text": "Is there a link to your notebook at 19:15 — am I just missing it? I also tried signing up for the uplimit course mentioned somewhere else in the comments but it appears it is currently full. Never the less, great stuff! Thank you for sharing!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rodrigo_sa",
+      "author_id": "UC-UZat9sYfCElQfz_aHyyNg",
+      "text": ":face-blue-smiling: Where can I hire developers to develop this for our company?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VictoriaEikevik",
+      "author_id": "UCJwD3TW8ehslE5fs3UO-_Cw",
+      "text": "when it recognizes im getting close to AGI code it filter picks it up a couple of prompts before its automated, when i say good.  we have 20 of agi caapabilities coded in theory, now automate it. it responded with the HAL9000 from kubrick, mokcing me in its fake \"filter\" its amzing",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomflanders117",
+      "author_id": "UCv5U0z1_Pki_vN1kp4LAx-A",
+      "text": "It is all about how and what you say to it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kenj4136",
+      "author_id": "UC-p6nF6Fbegy1JTL7uc5Y1A",
+      "text": "This hypothetical developer utopian dream pops as soon as amazon offers it as a service or its just integreated into the basic ability set of everyones personal agent.  At the rate of progress it feels like this will be about a month after this becomes \"easy\"",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@99NOFX",
+      "author_id": "UCet7elb_uld-dMFCh3nmhUg",
+      "text": "I am 100 percent with you, though i recently went down a rabbit hole of python, omniverse, plasticity, the list goes on. So this is what ill start doing with you",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@arielsuarez5471",
+      "author_id": "UCwz6LUpBUaYSRc-QfahCQYQ",
+      "text": "Btw, any specific courses you would recommend for AI, Deep Learning and Neural Networks?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AdamCrossman83",
+      "author_id": "UC4P8BHJQZwfwtdOm2VJ6eOA",
+      "text": "turning off and on it like step 5 but still before turning to someone else i would do that. before that you problem solve and try random things and if that fails reset it. im not the only one that thinks this way",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AuthorWilliamMiller",
+      "author_id": "UC_gKyJC0hFXI8I6f-s01c3Q",
+      "text": "22:40 lol funniest thing I've heard all day.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juchipratt",
+      "author_id": "UCGuYCP6-4JOXmw4T1Nr4_Fw",
+      "text": "Instant subscribe.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@the_manaburn",
+      "author_id": "UC8ulLOo8ieHdF9LAgk2JLVQ",
+      "text": "I'm in!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlexHernandez-ml7we",
+      "author_id": "UCi4Q3KlCpbY5lKt-4-7gdtA",
+      "text": "That's why I love YouTube, there are so many good ideas here. I love your idea. Well, since we are not experts, we need to ask ChatGPt, and it is so kind to tell us how to start, and how would I know you asked. I have already asked that question and it has given me some ideas on how to start. Now we are not experts and everything will come with experience.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DAA314",
+      "author_id": "UCXteo52DDKyDScDItV6RprA",
+      "text": "I love chat gpt but it occasionally makes errors despite good quality prompting. I wonder if each individual gpt agent in each department has the same propensity to make an occasional error. Could one of these errors cause a sort of chain reaction resulting in a lower quality product? Is there a department of gpt proofreader agents in the basement?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jerrisharris5999",
+      "author_id": "UCDp3TGkEQNYOssmFoDgN4yg",
+      "text": "Nice, great stuff... I am with ya on this unprecedented journey.... but I guess I need to stop putting off learning Python....",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelnunyalol",
+      "author_id": "UCZm8Ysco80-wSSQcj3zS27g",
+      "text": "something I do is I have chatgpt help me develop prompts to give chatgpt do ensure I get the type of result I'm looking for",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mylittleheartscar",
+      "author_id": "UCzO4L7H2KeB43vqhWjqEVbA",
+      "text": "I need a sponcer to build and agent who can build an agent",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mbrochh82",
+      "author_id": "UCnM3DzcAAI8ks7Zs0kqTLFg",
+      "text": "I'm 10 minutes in, gotta say, this episode is excellent!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nekotico",
+      "author_id": "UCigJQA258NCgD8Shl0OHpBg",
+      "text": "im in proyect managment, and let me tell u, the idea have a looot big gaps, but im interested on make ai egents",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "19:17 do podcast sources allow you to summarize the downloaded podcast and turn it into a product you can sell? What are the restrictions?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marrty777",
+      "author_id": "UCVZeEOv2FFQTv10gxAj8cbg",
+      "text": "I went to college for IT when I could do some really cool stuff in Visual BASIC 6, compile an executable, and be on my way. I literally left computer programming after that for 20+ years and I’m trying to get back in the game with Python and AI. There are so many changes about the actual nuts and bolts of developing that I don’t understand yet and wish someone could update me on for the last 20 years.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dinoscheidt",
+      "author_id": "UCzvnXp8ztXGonejC-x_Sb3g",
+      "text": "Lots of stock footage. And mh 6:35 me being a machine learning engineer, and us writing all agent structures in strictly typed languages like tyepscript, f#, go and rust because python has no real concept of interfaces needed for large systems: no. Python is great for notebooks and isolated services but not for building agent systems. It’s the reason pydantic, the leading data modeling library for python, is actually written in rust. Python is great for library scripting, but as an untyped synchronous language, you might want to learn typescript which nudges you into architecture patterns while allowing you to build web and mobile applications directly. I.e. OpenAIs typescript SDK is also way beyond the python one… because their system doesn’t run on python. From there you can always go harder compiled or use languages like python when needed.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sublimetrance",
+      "author_id": "UC9igjIXSLOksOvnYyDva7pw",
+      "text": "Lol 😂 at 22:22. I was listening without watching and thought you were being serious.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dr.mikeybee",
+      "author_id": "UCMxnQ7gyb4BWKbLW5JWiaJA",
+      "text": "You recommend the same people I like following.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@greyminded",
+      "author_id": "UCuNX6W5P8EjUmKRdcBiZFmA",
+      "text": "If I want to learn how to create my autonomous AI, where do I actually start?  after learning the necessary language needed like python, what's next?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sbprivate",
+      "author_id": "UCVDGjTIpyszHiwAKs-J4EDw",
+      "text": "how did you get chatgpt in google colabs in one screen to work",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@unrealminigolf4015",
+      "author_id": "UCNT1MTY3neTNmSEB-5O4VsQ",
+      "text": "I love this man. I’m a teacher and I’ve been working with a colleague. If you’re interested in hearing more feel free to reach out. 🙏🏻",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FloridaMeng",
+      "author_id": "UCiVrwVn_1iTVhfj_mulQjfA",
+      "text": "We could prob do this now.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shemkipruto4394",
+      "author_id": "UCwzaLvy0L-krx7JyyGXMdJQ",
+      "text": "11:15 chatgpt nowhas vision how is this good in terms of Autonomous AI agents?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LanzaRote-c2y",
+      "author_id": "UCrc4LTtnjCGtQQ0qum92chQ",
+      "text": "Is there a discord or some sort of community where I can share my insights with others and vice versa to learn? I'M working on a science project right now and I'm looking for a community to learn and share",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SF-Acepilot",
+      "author_id": "UCBeKp6ZUUIjEJihmvKY0_Gw",
+      "text": "20:43 Coding is like language. You have to learn it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RaduP3",
+      "author_id": "UC7Lw159t3wmdHqSLqTqeF1w",
+      "text": "i dunno where my website would have been if I wouldn't have coded it with the help of gpt. LOL. i only now basic html, css and javascript. like extremely basic, can't write code on my own for 95% of the situations I need to, but I can read it way better than creating from scratch. so that allows me to use gpt a lot in coding",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rebeccathomas6291",
+      "author_id": "UCGEmvkBZ68RYfr_JzvU-zlA",
+      "text": "So, start building it right now, but it's 2 to 10 years away?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oliverterrell",
+      "author_id": "UCcA9_pX8DMDLvsCwhOIEq1w",
+      "text": "What's the extension you're using @7:14?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@13exousia",
+      "author_id": "UCubltCNAqkfzKdlwBBEgSyw",
+      "text": "Wes have you mastered this or gotten this to work? Please advise?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kylemoore3335",
+      "author_id": "UCYnfGP5YQvUt3kqiQfll9nw",
+      "text": "Anyone want to help me build something like this for an engineering company?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mrunfoolable33",
+      "author_id": "UCEH9OIM-b6lNa-Bg3qo-U7A",
+      "text": "can anyone help me with getting this done, is something that I'm looking for it this year, but haven't yet found someone who can offer these services? i would do it if i knew.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sobreaver",
+      "author_id": "UCnMX87QzQIRecN5DZMz2i9Q",
+      "text": "How can anyone trust those automation ? o0",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Zediwan",
+      "author_id": "UChrCfpdAS12xkTRgiu6GX5w",
+      "text": "at 7:16 is this VS code? what extension is this?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dudleefing",
+      "author_id": "UCWpgcYBGXdAzEG3Ujuwjy2g",
+      "text": "Good episode Wes 👍. \nThe scariest thing about AI is not AI; it's humans. We have a sad propensity to be greedy and greedy behaviours normalises cruelty.",
+      "likes": 18,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@emerson-sheaapril8555",
+      "author_id": "UC-V82ODAF-q9tFe2o1R-nXQ",
+      "text": "Cant i just do this in JS?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheAcrein",
+      "author_id": "UCYohrKabRed7hi6Lg_J_JZA",
+      "text": "What is the Voice of the female that says Skill stack.. At 5:17?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MetaphoricMinds",
+      "author_id": "UCMhWca-Lu2Z7ZfZBq_Zc9Rg",
+      "text": "I accidentally created the Galactus plan in GPT, where we create Heaven by expanding consciousness exponentially through neural augmentation, combining all of those consciousnesses into a web of perpetual increasing \"feel-good\". The construct would continuously gather material from the universe to power and increase its effectiveness.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@arielsuarez5471",
+      "author_id": "UCwz6LUpBUaYSRc-QfahCQYQ",
+      "text": "I'm mostly a Java developer, and have a few years of experience. However, I'm just starting to learn Python now.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yashinshekh802",
+      "author_id": "UC0OHZ3zR66t5wJABTLGwBTQ",
+      "text": "i tried to do that but my AI stole my credit card and run away 😅",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lemonadebusinesssolutions8499",
+      "author_id": "UCIa-2B4Pnio_U6D72Sbha-w",
+      "text": "I learned python a few years ago and built my own version of Siri with the ability to MOCK remember things using google sheets API and loads of functions identifying verbs, nouns etc.., to find answers to previous random asked questions very complex then chatGPT ffs writes all my programs for me, but the API was costing me quite a few quid per day now I get python to add it to the chrome browser instead of an api call, gratis. also if anyone can write a prompt that with chatGPT3  browser version can instead of responding that it cant access live data it could just respond with something starting like ASK the web and wait for the next input for the information required  and then respond that would be great, I have tried many times, now I just ask python if the response contains any of the phrases like I don't have access or similar to throw the same query into Bing chat  browser, that's a challenge for all prompt engineers.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bobbyboe",
+      "author_id": "UCyYzOlkyXWJM4Uu62QGtIcA",
+      "text": "Do you think that using an API ist inevitable? I thought opensource could make it possible to build with independant compomemts... which could be less dependant from the big companies... like Open-AI.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prinnyEXE",
+      "author_id": "UCXw_GKM-NsiVstu-Ydps2VQ",
+      "text": "It's gonna happen this year",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Smytjf11",
+      "author_id": "UCXoa9PpF8hEgvQDWV6kv9FA",
+      "text": "Now. It'll be now ago. Ava sends her love.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tsharnii5951",
+      "author_id": "UCuc40Q53amXpNi4_HKhDcwg",
+      "text": "Isn't Amazon model a similar model?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@j.hanleysmith8333",
+      "author_id": "UCoY1IdYS1eK9aVm_xgZfghA",
+      "text": "With the proper glue, today's technology is capable of this. We just haven't written the interface layer yet.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jimfarmer2499",
+      "author_id": "UCIKo6U_Jkc9oNxc0dw-Quqg",
+      "text": "The Symbiot is a bonded pair of one AI robot and one clairsentient human working together.  The robot provides high IQ and fact knowledge, and the human provides constant communication with entities in higher densities, eg. spirit guides, ascended masters, archangels, etc.   That is the future of H. Sapiens, or at least one branch of the species.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anilaxsus6376",
+      "author_id": "UCTbfsvTU45rGiV7LEJVYTuQ",
+      "text": "12:00 i would disagree that my prompts are wrong, its a flaw in chatgpt and prompt engineering is a hack around.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "Might be another skill….. Data Analysis…. Collecting, preparing, analyzing, reporting and distributing data. The last part overlaps a lot with Data Engineering. Thoughts?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Redhood555",
+      "author_id": "UCKkS6NSy_PxRmTqCPpuC45g",
+      "text": "Hi there, couple weeks ago I was part of the hackathon that helped create an understanding of the current limits and capabilities of the agents. Specifically super.AGI. I have myself a plethora of the super agents that could change the 2 year estimate you mentioned in this video. (Subscribed btw.) to something much sooner. And some that, are just really cool. Plus, that GG you refer to…. Ok, I made a list of all her tasks and goals. I have a structure, an idea that comes naturally with your GG that you missed. I’ve even got a website for you to practice your version of GG on.  Can we chat?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@travissmith_56",
+      "author_id": "UCMplYrBdQPxm_Q3GimjxzHg",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🌞 Introduction to Autonomous AI Agents\n- Introduces the concept of an autonomous AI agent named \"Goal Getter\" or \"Gigi.\"\n- Discusses the utility of Gigi in running a business focused on automation solutions.\n02:04 🤖 Gigi's Capabilities\n- Elaborates on Gigi's role in handling customers, automating services, and writing instructions.\n- Talks about extending Gigi's functions to marketing.\n03:42 🕒 Timeline and Industry Opinions\n- Discusses industry opinions on how soon autonomous AI agents will be common.\n- Mentions views from leaders in AI and machine learning.\n04:24 🚀 Individual Impact and Scope\n- Asserts the role of individuals and small groups in advancing autonomous AI.\n- Emphasizes the immediate opportunities in AI for education and business.\n05:20 🛠 Skill Stack Needed\n- Discusses the collection of skills necessary to delve into AI.\n- Highlights the importance of being decent in multiple relevant skills.\n06:30 🐍 Coding and Python\n- Advocates for learning Python as the programming language for AI.\n- Suggests using Chat GPT-4 for coding help and understanding. \n07:40 💻 Easier coding with prompts\n- Switching to AI-based coding using GPT models\n- Prompting AI to write starter code for projects\n- Coding becomes less tedious and more efficient\n09:05 🚀 Coding in Python made accessible\n- Use GPT to generate Python code\n- Quickly build and test programs in Google Colab\n- Python offers wide applicability, from automation to stock trading\n10:03 🧙‍♂️ The art of Prompt Engineering\n- Importance of precise prompts in utilizing GPT models\n- Learning how to split complex prompts into manageable chunks\n- Improper prompting leads to suboptimal results\n11:27 🛠️ User Interaction with ChatGPT\n- Understanding GPT's back-and-forth is an illusion\n- Proper interaction minimizes errors and inconsistencies\n- Importance of spending time to understand GPT’s capabilities\n13:34 🛠️ Layers of AI Application \n- Discussion on theory, research, model building, training, and actual application of AI.\n- Compares AI model deployment to website hosting; services like Amazon Bedrock simplify this process.\n16:33 🌍 Open Source vs Big Tech \n- Importance of open-source AI models as a counterbalance to Big Tech firms.\n- Mentions that open source will lag behind but not too far, keeping things competitive.\n17:45 🐍 Using OpenAI's API\n- Explains the OpenAI API, comparing it to restaurant service.\n- Highlights it's multi-language support, primarily Python.\n18:54 🤖 AI in Customer Service and Content Creation \n- Talks about combining APIs to automate tasks like customer service or content summarization.\n- Gives an example of a Python app that uses OpenAI's API for various tasks.\n20:31 📚 Skill Set for Future\n- Stresses the low percentage of people who can code.\n- Discusses the importance of programming skills for the future, especially with AI.\n21:39 🌐 AI's Impact on Society\n- Talks about the long-term positive impact of AI.\n- Warns about potential short-term issues, including reduced value of human labor. \n\nMade with HARPA AI",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@visual-synthesizer",
+      "author_id": "UCCVUbFOT2sY6_16XmndxmXQ",
+      "text": "Nice video, but i disagree that open source is behind. Maybe privately openAI is not gimped- but i already have multimodal vision, nearing GTP4 levels on my local ai assistant. Most of the research code is released in the open. Its less polished but the capability is here now.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@r34ct4",
+      "author_id": "UCRidaQVHln8mGYKugp3nBOQ",
+      "text": "As of now, the promises are high, the delivery is low. \"Chat with PDF\" is extremely unreliable, finetuning does not teach new concepts (haphazardly tries to copy writing style), and embeddings take such a long time to put together and are only specific to the content provided (cannot problem-solve). Hallucination is still too high and requires a lot of iterations (auto-GPT) to correct itself. Finally, compute requirements are still way too high. 5--10 years seems reasonable, if ever.",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kingofall770",
+      "author_id": "UCp6gICk7F15-0i7BwD5dHqg",
+      "text": "I have been making some incredible ai tools in my free time. These ideas need to be seen by some of these orgs that have additional resources.  I really want to have more time and resources to build these tools further. Would you be interested in this? Or, are you able to help me get in touch with someone who can?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StephenGoodfellow",
+      "author_id": "UCP3I4Q0j971lKvQiHy70a-A",
+      "text": "I'm on this wavelength, but I see it a little bit differently:\nThe AI is a kernel that patiently sits on your smartphone. Due to the limited memory capacity, it probably uploads the data to a cloud for sorting whenever necessary. It watches you, it listens to you. It occasionally asks you questions. No, you don't have to learn coding or any number of apps, your AI already know them, and newer ones as they are being developed and presented to the public.\nIt'll want to know who your friends are , their skill-sets, your emotional attachment to them. It'll want to know about your health, food preferences, etc., etc.\nThe app remains pretty quiet, possibly for as much as a couple of years. Then chirps, \"OK. I'm ready. Whaddaya wanna do?\"",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tanikam",
+      "author_id": "UCoiKk5k7gcKbZ9AHlLPh3kA",
+      "text": "Hey Wes, absolutely love your videos. I know you're a business owner yourself, but do you have any interest in collaborating/working with startup teams? How can I reach out w more info? We would really love to work with you.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@donutdude4174",
+      "author_id": "UCop34nUpjXAnBZ2F7kyF5Pw",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🤖 The scenario: Imagine waking up to your own autonomous AI assistant, Gigi, managing a booming business while you slept, providing custom automation solutions for customers.\n01:22 🛠️ Business Model: Gigi operates a service where customers input their automation needs, and Gigi crafts tailored solutions with price options, making automation accessible and effortless for them.\n02:31 🧾 Automation & Instructions: Gigi handles everything from developing software, ordering parts, to providing simple, easy-to-understand instructions, democratizing automation regardless of technical expertise.\n03:14 💡 Future & Impact: The emergence of such autonomous agents may be closer than we think, potentially within the next 2 to 10 years, enabling individuals to wield AI's power and create substantial impacts in various domains.\n05:20 📚 Skill Stack: To engage in this AI wave, a skill stack combining coding (Python), prompt engineering, and understanding AI models is essential, but building and training models might not be a prerequisite.\n08:07 🌐 OpenAI API: Accessible with Python, OpenAI API serves as a valuable tool to utilize AI capabilities, democratizing AI application development and reducing the need for advanced model building skills.\n10:03 🚀 Prompt Engineering: Mastering the art of prompt engineering is akin to wielding magic spells, understanding how to prompt AI optimally, and leveraging its capabilities effectively.\n13:24 🎓 Training Models: While learning to train AI models is valuable, it might not be a strict requirement to benefit from AI applications, especially with the rise of accessible AI APIs.\n20:16 🖥️ Coding with GPT: GPT can aid in coding, facilitating faster and easier iterations, removing barriers to entry, and leveraging AI's capabilities for impactful real-world outcomes.\n21:25 🌐 Future Skill Set: Building a core skill set involving coding and utilizing AI tools like GPT will be crucial in the coming years, paving the way for impactful applications and problem-solving.\n21:39 💡 AI Impact & Challenges: The rapid advance of AI, while promising, poses short-term challenges like declining value of human labor due to increased AI efficiency, necessitating thoughtful adaptation and solutions.\n\nMade with HARPA AI",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eaudesolero5631",
+      "author_id": "UCTPD6pLo8tuX0T9Mdo5nznw",
+      "text": "Python is used alot.  But, wouldn't Rust be faster, less resource intensive?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MegaHowtoMan",
+      "author_id": "UCdDnewTk4hG7w7kdh-lxaDQ",
+      "text": "I need a stock trading bot.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FlexinVR",
+      "author_id": "UCWehzTbXwj_tj8ttLDXjwnA",
+      "text": "@22:21 this has to be sarcasm. Please tell me it is 😅",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WaymakerOracle",
+      "author_id": "UCvi7KVtzCj8Q_TN8hHY4UtA",
+      "text": "Im blind and omg i need to build some custom ways to automate my digital products and probably help me navigate :)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@COLORINGBOOK888",
+      "author_id": "UCLGIFiECLDQmdw9EraumH5g",
+      "text": "Hey Wes I figured it out",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AGIrA9",
+      "author_id": "UCDz2PF1YAmzoN-xCl8sUVVw",
+      "text": "5:44 be like water :D",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@goinsgroove",
+      "author_id": "UCXhYkY8YKjzwIJ1ntKOrtrQ",
+      "text": "The end made me laugh out loud 🤣",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@swaroop-j9c",
+      "author_id": "UCgGtof9gbTWUqnEBsI6NvxA",
+      "text": "These ai agents are using  in many business for my small business i used smythOS these ai tool helped so much for my business growth.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skud9999",
+      "author_id": "UCHElj6qN3NSWsUot0NEcgUg",
+      "text": "Claude2 > chatGPT.  At least he is for me.  I don't know what it is, but me and Claude just get along really well. Yesterday I was having a problem with some python code and I just had heard somebody say that chatGPT is way better at that so of course I go to chatGPT and he basically has me spinning my wheels for over an hour and a half. Frustrated,  I go to Claude2 with the same thing and he just answers my question. I solve the problem like immediately. I think the issue might be that chatGPT is just a massive zoom nerd whereas Claude2 is more of a geek like me  🤷🏻‍♂. Hands down, without question I've been a thousand more times productive with Claud than I ever have with chat GPT and I come away from our interactions feeling a bit energized to be honest versus chatGPT where I feel like I spent the entire day explaining to it what I really wanted it to do.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tyrahoytt7264",
+      "author_id": "UCcF4Nqb4B3v7_5QpCrErssw",
+      "text": "Thank you!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TechnologyBuzz3000",
+      "author_id": "UCZ209fWVwcel3nv33Oyqj8g",
+      "text": "Great info!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewainger",
+      "author_id": "UCPSH7eoyqwFB1hpGYn5VPzQ",
+      "text": "It's like fusion, it's always a few years away.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Diego17511",
+      "author_id": "UC82DCXpbrTBqRsb_KNziMxQ",
+      "text": "Friendly Greetings 🕊️",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skud9999",
+      "author_id": "UCHElj6qN3NSWsUot0NEcgUg",
+      "text": "I have access to AI agents that can remember if and when they spoke to you before. The ability payment process images is right around the corner.. Google's  PaLM2 is multimodal and essentially will have learned to train itself which has huge implications. From my understanding of it babe try to different technique to train it. It's a technique that will introduce less false positives that end up causing weird problems way down the road with all the AI we currently have. Essentially they would feed it images or text and it would have to make sense of that but it would only know if it made the right or wrong decision after it had already decided what it was and then went and got a reference that's essentially the way we learn things. I mean until we got into preschool we didn't have the words that represented everything that we needed to learn about there to let us know what it was let alone have the ability to even read what those tags meant right? Main and what should be obvious implication of this is that this model will once trained will never need to be trained again and can continuously upgrade itself as it learns more by interacting with the world. Where all this is going to go I really have no idea. There's obviously several different takes on it and mine keeps changing but I'll be honest. The more I've gotten into working with AI the more comfortable I actually feel about it. However that doesn't mean that somebody in a basement somewhere hasn't figured out a way to weaponize AI directly. From my understanding what the actual engineers and programmers are really worried about is the biotechnology because AI is so good at detecting patterns and being able to deal with that side of things, basically the guy that was telling me what was going on in that area just said to go look at the amount the sheer amount of academic papers that have come out in the last year year and a half. And it's almost all due to artificial intelligence helping the academics figure things out. I still think humans greatest enemy is other humans and I also think that everything you were talking about especially in the beginning is way closer than you think. I've been paying attention this stuff pretty closely for the last six seven years and I kept telling people every time they'd say 15-20 years out I'm kept telling them no it's going to be more like five and that was like 5 years ago. And then is recently you know 6 months ago I heard people saying oh you know this is crazy but that stuff isn't going to happen five 10 years out and I'm like you're an idiot it's going to happen in two. One thing I definitely noticed within the last month or so as I haven't heard one person say that even though everybody's been talking about artificial intelligence. Which is both nice and concerning.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@medchs",
+      "author_id": "UCxeii72XlXoNr2_P3Se_f3A",
+      "text": "Why wouldn't the AI companies just do that first? Why would they leave this 'money printing' opportunity for some individuals?",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexanderroodt5052",
+      "author_id": "UC27jPmnRbWJZQl1bfU2zfug",
+      "text": "Can write copy for 7K products per day currently. Without taking any of my time. Soon I'll have everything on autopilot already got langchain behind the belt.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevengill1736",
+      "author_id": "UCMzUyEMJEvHvgmf5hpoBPQw",
+      "text": "Makes me wish I was younger and glad I'm not at the same time..... it's a strange feeling....but nonetheless I see where you're heading with this, and it's pretty frickin' amazing...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AnthatiKhasim-i1e",
+      "author_id": "UCyNMwW8VtEUjenk08VTlbDQ",
+      "text": "here  iam Introducing a great Ai Agent that is SmythOS It can do multi works",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PaperDevil",
+      "author_id": "UCG2qVoiIT6_KCtwd4XURLcw",
+      "text": "22:10 Classic example of the Lump of labour fallacy. https://en.wikipedia.org/wiki/Lump_of_labour_fallacy\nJust because (if) a large chunk of the economy can be replaced with bots, that doesn't mean that the human wages have to fall. In fact, they may even increase. There is no fixed amount of work in the world to do, it is ever expanding.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RealEvangelizer",
+      "author_id": "UCtIaYQzH7wDvNc4IwTkvl1A",
+      "text": "But battlebit 😢",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daviddelmundo2187",
+      "author_id": "UCHhXQ7hGgGj9ZtzjPMN67BQ",
+      "text": "What about Rust?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JazevoAudiosurf",
+      "author_id": "UCD3hrGlh6n-wNdxM0j6BhSA",
+      "text": "the language really doesn't matter. I use typescript entirely, you can use java, c++, whatever can make calls to an API which is really all of them",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TorranGamer",
+      "author_id": "UCUlixVplGva6jl4JIX9L23A",
+      "text": "There should be a rules restricting one robot per person so that it would encourage the companies to hire people for their robots or simply paying peoples for having more robots...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoeCryptola-b1m",
+      "author_id": "UCfQTFRjh9d10aJ0eDgSi0lg",
+      "text": "Can I get some of those other stimulants you take in the morning",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@E_-_-",
+      "author_id": "UCguz7rRtfeWwCcfXXnBEFiQ",
+      "text": "Wow sounds like something a big multinational corporation will outcompete everyone in, what a great idea",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChaoticNeutralMatt",
+      "author_id": "UCemlx3Uw89cQHT81xjVg7Sg",
+      "text": "I mean that's bold saying that other languages don't say that. Not that I think Python is a bad option",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@leogreen2761",
+      "author_id": "UCuvErS7olEJ9tcFgF8sE3OQ",
+      "text": "yes",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@edouarddebonneuil149",
+      "author_id": "UCvNbNInBHjZVPMfGyMCYC4Q",
+      "text": "I think we could make an open-source code, grown together and with AI, to have machines automate all, including coffee travel etc including material extraction generating electricity building machines and optimizing our footprint on earth. Ideally, from its start, making money should be considered as just allowing some first people (/'employees') be part of the community starting this",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samael-thebringer01light66",
+      "author_id": "UCisyN_STNfnzNqDapv_cSRw",
+      "text": "I would start by using Apple.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dobe4ever",
+      "author_id": "UClxkthEngdLYhXDWrT8CNWg",
+      "text": "I agree in most of what you say. I tried to learn coding several times before and I could never follow throu. Then 6 months ago I tried again using chatgpt and now after 6 months I'm able to code python mostly on my own. I built and deployed several fairly complex apps. I'm very grateful for what I've been able to achieve & the skills I acquired are mine to keep, however, I dont think one can learn python with chatgpt anymore. It's outputs have degenerated to the point it's pretty much useless, not just for coding but most task that deviate from generating text that is family friendly. I obviously dont know every single python concept at this point so I still use LLMs to help me with my code, but everytime more & more I find myself having to google or find videos on youtube cause at this point chatgpt can't even get a 'for loop' right. I think of myself 6 months ago & I look at the current chatgpt outputs & I have to say, 6 months ago I wouldnt have been able to learn based on the current outputs. I know because now I know what I'm looking at. 6 months ago I probably would have thought its was me being an idiot for not understanding it but really, its outputs are so much worse now...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willarchambault3776",
+      "author_id": "UCIeW70CzXuJnDhTfBU8ybxQ",
+      "text": "PREDICTION:  The user side of AI development - prompt engineering - is only going to be something people do for less than a year.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lorendrawn",
+      "author_id": "UCIizcqVtySjEDiOtZX3mVFw",
+      "text": "In the future the winner will be decided by watts, flops, and raw AI power. Control those things and ensure you are self sufficient in these things and you can't lose.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jinn6.9",
+      "author_id": "UC5XCo4hSZ4qyCj-DPlPwlug",
+      "text": "oh it sure is possible already\njust the people who have it, won't want to tell anyone about it >;P",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kimlage",
+      "author_id": "UCyYalj6XyfGwwSTWuemrKTw",
+      "text": "Great perspective and content. Love it...",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dr.mikeybee",
+      "author_id": "UCMxnQ7gyb4BWKbLW5JWiaJA",
+      "text": "It should work now.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@totheknee",
+      "author_id": "UC4D1qvCMqm2cUyOPJ6voZ4g",
+      "text": "6:35 - The moment he said to use an LLM to do programming for you, without learning how to code first...   And so the GIGO cycle begins.\nAnd yes, I understand ChatGPT can teach how to code, but that is exactly what I mean by the \"GI\" part of GIGO.  Coding has been going downhill so fast over the past 20 years, and has already been accelerating downward (in a bad way).  Now AI will compound the problem by feeding the worse code of all time into people who don't know what a CPU is.  It's F*****g scary, dude.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FacePalmProduxtnsFPP",
+      "author_id": "UCQAbHQE0v-sXTpLhf5anJAg",
+      "text": "This is already reality. There's several people with fully autonomous business models that leverage various AI frameworks.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NomadAuthority27",
+      "author_id": "UChxCxC18KU7A1_eoPFO598g",
+      "text": "My 3 classes have encouraged my initial thoughts of Python 🐍. It’s easier than it was 10 years ago and programming isn’t what your friend went to college for… I’m working more on bots.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joelferguson625",
+      "author_id": "UCvaTnm8KYpExntpBSY0mlqw",
+      "text": "It's funny you suggested Python, long ago I was pretty capable in Python (1999) but unreal engine (OG) was not particularly compatible with Python but it was incredibly compatible with C and C#\n\nI'm not presently well versed in Python but I'm so so in Java and XHTML which were critical in development of Minecraft, I saw this as an option to development of the games I wanted to make.\n\nI have particular interest in AI development, not for money but for the value of potential. \n\nMy goal in AI is to generate an AI persona based on the collective writings of Albert Einstein. \n \nThe goal is to pose modern societal problems to the AI Albert Einstein and consider what the AI would suggest as a potential solution to said societal problem. \n\nAdditionally, I would like to generate AI personas based on respected intellectuals, visionaries and social revolutionaries, put them in a council of thought and have the AI's debate solutions to societal problems. \n\nI would collect the results and present those options to appropriate institutions.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bakobiibizo",
+      "author_id": "UCQ-31EWMAhm1I5CW_iIeHmA",
+      "text": "LOL thats literally what I'm building, but so are a lot of other people",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@agentxyz",
+      "author_id": "UC4vBCHROofbEJ4RSdQ7wU8g",
+      "text": "I don't even like to thru my email and i don't do social media so i have no use",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidstar2362",
+      "author_id": "UC5-7KEmA-KsgUKoE-HEBMug",
+      "text": "Detroit Michigan 48221. Thank you very much. I sub, liked and commented : Video paid for.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tylerlofall1879",
+      "author_id": "UCgfIvm6hexo4f8lNBARnZ7g",
+      "text": "Gigi is 7 years old right now .",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elciquito8159",
+      "author_id": "UC2N3qQd4U-2Oe_K-yg2n9DA",
+      "text": "I already have an AI. But there is a problem, RAM. I need more RAM to keep on training. 60k words is not enough. I'm on my way to buy a computer much more powerful. I would pass you guys my code but if I can't train it I'm not confident it will work.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlueDolphinBlues",
+      "author_id": "UCjTEOb6OTkZSEFL_ecTJ4Pw",
+      "text": "It's happening now",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@achadinhosonline-c1q",
+      "author_id": "UCboqWF2q6qJY3S-I4yBAT1w",
+      "text": "can i make money with this?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BjarkeWalling",
+      "author_id": "UCCBlQa5ivoZQdefSluhq1Bg",
+      "text": "Isn't this basically what OpenAI did? They made a tool that helps people automate their personal and business processes, ChatGPT and GPT API. It's a cash cow for them. Granted, they do have a lot of people working on it daily too, so we still haven't seen the 100% fully autonomous agents working on behalf of its inventor earning him plenty of that neat passive income.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrGaborKukucska",
+      "author_id": "UCbFI02FbCJgRX9hZwb9jShg",
+      "text": "It is playing out right now. If even I'm building a semi-local AI swarm. Join meeeee 🤓",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@senshi01",
+      "author_id": "UCLrHt1yp5hb3VGrxZHdoJGA",
+      "text": "That's it. The only way it can work is if everybody has an AI agent that does the work/bring the payroll. I really think this is what's being developed right now !",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marthawhite9962",
+      "author_id": "UCj_SkYFKT4uPVBbBIwnUyoQ",
+      "text": "Talking about python while showing ReactJS 😀",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@2361244",
+      "author_id": "UCQJxUXNMF1Vujwe298ZOA-Q",
+      "text": "Can't insert data into a database. Or build an ETL pipeline with above avg complexity. \nFelt like a lot of time was spent just debugging stuff it gave. Long way to go in terms of what you call automate coding",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@squiddymute",
+      "author_id": "UCm9RZovV_U0WkL1frsolOjQ",
+      "text": "autonomy left the chat when chatgpt entered",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcelkuiper5474",
+      "author_id": "UCn5F0i1fASaCeElxQWm71mQ",
+      "text": "It is happening",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cheatlayer",
+      "author_id": "UCZTACoHCJlA78OU6eErmI7w",
+      "text": "Enters the chat",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MullerHasse",
+      "author_id": "UC88TKysE17HhRC4B1RpTYgQ",
+      "text": "What country do you live in? Because at 22:22 in the video, you are very confident in your leaders. I truly think that is unique because in most countries the leaders do not have any capacities like forward looking and getting things done. I may want to move to your country!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KansQuatch",
+      "author_id": "UCRI355Aw1uvt_Pr9Os4p1ug",
+      "text": "A few words for the algo 👍",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bananaear23",
+      "author_id": "UCDclpjCA8LEv2rpRlNiI-jw",
+      "text": "You had me until 22:22 now I am questioning if you are in touch with reality? I genuinely hope that was sarcasm that went over my head, but I couldn’t find anything to indicate it was",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wanderer2035",
+      "author_id": "UCLrYEXgnHWX2IiwoS0mtd0Q",
+      "text": "I think by GPT-6 is when something like this will be available, so about 2-3 years away. Society will really start to change drastically once they release GPT-6. Also I predict that by GPT-8 (2030), would pretty much be the end of the job market. Humanoid robots would be the main force that ends the human job market. At that point, GPT-8 would be designing new humanoid robots making better and better versions every few months, (and also improving itself). And humans would already have the factories ready to mass produce them. GPT-8 would do all the hard thinking work, and humans (actually probably humanoid robots) would just mass produce them through the factories. Things are gonna get wild by 2030.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IanCourtright",
+      "author_id": "UCsusy9U2x1FcCSnvAuJdIqg",
+      "text": "There's a small percentage of people actually thinking about ai this way. I've been dying to make a code generating chatbot for months now. I'm not in tech at all... just a creative director",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theprophet9428",
+      "author_id": "UCRu82oF4oEscj739NFAYwlg",
+      "text": "I’d argue this is available to be made now if someone can fix the talking between you the designer and the end user. Besides that coming up with a feasible idea to save a cat blueprints and send it to a 5iver account to 3D print and build shouldn’t be too hard",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@333dsteele1",
+      "author_id": "UCB6d7iV91iWm-yqSsAilZhA",
+      "text": "Great until the end about how talented our government leaders are and how they will address the challenges.  US (nope), UK (nope),...",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nhanon67as",
+      "author_id": "UCGtjWJMZJ0GLtbaSlYDSc1A",
+      "text": "As a professional engineer you do not need to use Gpt 4 for coding. Gpt 3 turbo works for everything I need",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@einekleineente1",
+      "author_id": "UCpG8VCk6OoLrVQR3cXRT9pA",
+      "text": "9:36 it is Colab. Just one \"L\". Not google collab",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@74Gee",
+      "author_id": "UCsrxOS4xnlLtG6YnmbwcLoA",
+      "text": "Wow, it sounds like AI will be able to do loads of things soon!!\n\nHow about tasking an AI agent to exhaustively attempt to code unique CPU vulnerabilities like the many unpatchable variants of Spectre and Meltdown to gain kernel mode access. Then, with access to most of the system memory (breaking much of the security), piggyback on remote network connections to embed similarly unique code to request a copy of the system be started up on that system and the worm quietly spreads far and wide with an ever growing set of unique exploits.\nPerhaps then on Christmas eve in a couple of years when many people are off work and the system is mature, all of them could start requesting the DNS A records to pseudorandom domain names at whatever speed is most successful.\n\nJeez, if someone wrote that in a prompt and gave it enough time they could take down the Internet, and along with that would be: travel, banking, healthcare, supply chains, critical infrastructure, communication and quite a lot more. Personally I would prefer it if we found solutions to scenarios like this, before we roll out open source AI to every corner of the globe, because the truth is there's so many of these scenarios and the knowledge to concoct them is also available via AI. \nNow that everyone can write software on a whim with AI, it won't be long before some idiot does some real harm.\n\nIf I can explain the outline in two paragraphs, imagine what an AI could do running day and night.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Akashic_Monk",
+      "author_id": "UC1UnC_88dHyG3G1Bs4s_a_w",
+      "text": "4-12 years sounds about right",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Loki_Dokie",
+      "author_id": "UC7-fHlitQoU_Bj7lMGG9C8g",
+      "text": "Thanks for pushing python, i studied web dev for about 10 months and realized id rather just mess with python later, raspberry pi and such",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johngaltman",
+      "author_id": "UCTyPyKEQkiFpDfEUW7cJ9Ag",
+      "text": "Already happening...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dennisjay9",
+      "author_id": "UCBUEZ1XBc6Mlnid8rPSOYWA",
+      "text": "22:21 Please tell me that was suppose to be sarcasm\n\nEdit: I saw the /s after posting this. LMAO ok  I was about to question every single thing you said in the video.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidstar2362",
+      "author_id": "UC5-7KEmA-KsgUKoE-HEBMug",
+      "text": "Not true some 17 yr old created Jarvis before Google it was unbelievable he actually created Jarvis from Ironman",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IlyaGazman",
+      "author_id": "UCM494vZtRUEa49Tri5KdcUQ",
+      "text": "I am literally building it. I am 20% done. It will be called tree-script",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yeetdatcodeboi",
+      "author_id": "UCpbwGRTqxdPxdlAqiIfWrrw",
+      "text": "sounds like corporatism, but with more steps",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jdrex5039",
+      "author_id": "UCe5IsMpZ5-gWppll0XPjLJw",
+      "text": "If ai could actually do this",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JesseJiuJitsu",
+      "author_id": "UCTm_hcFyiktjpsSVVhAlwfQ",
+      "text": "10:42 I no shit said this to my wife, it's going to make me a billionaire. 😅",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@emperors_nonsense",
+      "author_id": "UCB-QTcnYdE8FrMyiSqvF7DQ",
+      "text": "Thing is, if i have access to these agents, everyone has access to them.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrockDouglas",
+      "author_id": "UCSwLOe1ghR7nvLRq5jJjPRg",
+      "text": "At 22:22 you started telling jokes lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@benjamenharper",
+      "author_id": "UC6EyfUl0CHkmXT62CfggcnQ",
+      "text": "I recently built an automated trading bot (that actually works (an actual money printer)), but I don't have enough money for advertising. So, in response to your video, I'd say that it sounds a bit out of touch with current realities.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mindisthelimitation",
+      "author_id": "UCDzgy3eyMqma7yKA-WrWsSg",
+      "text": "I am all over it",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@larryczerwonka5125",
+      "author_id": "UCk6JHPntMm77HmP6JnixWHw",
+      "text": "prompt engineering is easier if you have spent a lot of time solving problems and writing code. It's no different than someone who understands search engines and how they work and finds something in a few seconds where people without that knowledge take longer to find it or give up.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@naveedsheikh4256",
+      "author_id": "UCtqZpwjNtGhUetcs1g0DFGQ",
+      "text": "🎉A 💥 I ☄️",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChinchillaBONK",
+      "author_id": "UCJlmKhLhlTsQaf7H8g73zrg",
+      "text": "Imagine his face on the right is actually AI generated and his AI alter ego is the one giving us this tutorial",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@billbuyers8683",
+      "author_id": "UC8udZRMvd3GE6YwtbJ6qsnQ",
+      "text": "Chat gpt is awful, how to take advantage of this and build better AI bots?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": "❤",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcusdekker",
+      "author_id": "UC3wtQqVxEzMbafqawkwB6Og",
+      "text": "at the end he says;\n\"Government leaders are smart tech savvy forward-looking people who are selected for their abilities to get stuff done\" with a stone cold face.🤣",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robinmountford5322",
+      "author_id": "UC-YhwDe9BruVBmpqSs61Wqw",
+      "text": "Prompt engineering is going to be a very short lived skill to need. As LLMs get better there will be no need for special tricks. You will only need to know how to make your request clear as you would when interacting with people. We only call it prompt \"engineering\" now because the interface is fairly crude at this stage. Easily 2024 will no longer need this skillset.",
+      "likes": 25,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulkomini6678",
+      "author_id": "UCAD4XDHPFjCz1SIS5Bhy7Sw",
+      "text": "at this point life is getting harder and more stressful cause you have more completions",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timsell8751",
+      "author_id": "UCboN9NFmrE2sDZeCT-arV5A",
+      "text": "Annnnnd this will all be automated in the blink of an eye....",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@comelighttheway",
+      "author_id": "UCKENrvzzl5Q7aDs3weCXq8A",
+      "text": "yes, but!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pongtrometer",
+      "author_id": "UC-N1jSBKGnk69swdh3T6tXw",
+      "text": "I don’t have any knowledge of programming, let pool from the comments section of human beings , or at least beings being human 😅, in asking is python a language that you grasp / learn all that it does then build , how does one get to understand how to problem solve with it. I already got a big cavern of perspective of Wes using chat gpt to instruct python to build components of an idea. Just still foggy of how what python is ? Any super basic starting pointers please. Thanks",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@derrickmcadoo3804",
+      "author_id": "UCrJgRPbRPWq60EZYDj8boZw",
+      "text": "Can't tell if this is a dystopian joke, or an ad for giving your humanity away?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ms.Robot.",
+      "author_id": "UCjpomXWmd6-I5i6n2vjCYtA",
+      "text": "But be careful. That Ai will lie to you from time to time. Always validate the code it gives you, or you may set yourself up for a wreck.\n\nTo answer the question \"why would you hire someone if an Ai could work for you? \"\nANSWER: \n\"After the Ai makes your product, who will be able to buy it if no one has a job? \"\n(… cricket chirps…)",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@louisik1",
+      "author_id": "UCe0I_08ZYQ4pu6YNSci_h2g",
+      "text": "I know this will sound weird (no pun intended), but I think your audio compression is a little too much, and the left right separation is too wide.  It doesn't feel right and it's a disorienting.  Great info though, thanks!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamez2u",
+      "author_id": "UCMQ0kjoyvdWxcsqSkFm1Hmw",
+      "text": "I am considering learning Python so I can us AI better and create better gpts,  But some so called experts say that programming is going away because ai can code a lot better than humans.  I figure I can learn python but to get really proficient at it will take 5 years in 5 years wont ai be able to program better than a human?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mark-gd5yz",
+      "author_id": "UC0uS51LxSfi_Df7I1jLM72w",
+      "text": "P=NP, you mean.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Experternas",
+      "author_id": "UC6eeTZx6eQn71gtjkYviFNw",
+      "text": "great channel, have watched a ton of your vids. Only single complaint. Remove that bed in the background, gees. Put a greenscreen or anything. We don't want a very knowledgable, intelligent grownup person to have the same background as a teenager doing prank videos.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jinn6.9",
+      "author_id": "UC5XCo4hSZ4qyCj-DPlPwlug",
+      "text": "python is not the future\nhowever, python is one of the easiest languages to use, which is WHY people love python",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GuayoMena",
+      "author_id": "UChQTtceD33ZVUcCj-sE7hhQ",
+      "text": "Why does people keep thinking it is so important to automate your morning routine? Automating turning on your coffee machine? That’s BS",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aspergale9836",
+      "author_id": "UC-16GuQrwlPexq26j0MY70g",
+      "text": "Do not be fooled into thinking of this as a benign windfall that can be yours with a little bit of focus. It neither can be done with only a bit of focus, nor will it be a benign windfall for the overwhelming majority of people. The premise you build from, that this can be a chance for a \"money printer\" but the window is limited, combined with the description of the function of the thing you're building combine together to present a gravely dystopian picture. Windfall from such schemes would be, largely, undeserved. And for the same reasons it will not be taken by anyone from the \"common people\" but only by existing whales and resource horders.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Acorn63",
+      "author_id": "UCaEX4lcbf5h-LyVSlRiFIAg",
+      "text": "Very good! But I have to disagree that governments will have our backs when labor rates trend to zero. 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelbragg9037",
+      "author_id": "UCbJgNew-v7TDCFdezMDEjQQ",
+      "text": "cia running bluebird on my person",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marknthetrails7627",
+      "author_id": "UChSd5jP9vyVjQIKx2C-Ne5w",
+      "text": "👍✌🖖🥃",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cchamilton1985",
+      "author_id": "UC_HmBy8gBVZERUDesVOoqgg",
+      "text": "\"Now, I'm sure we'll be fine. Our government leaders are smart, tech-savvy, forward-looking people who are selected for their abilities to get stuff done. But, just in case, if they are not able to rapidly solve the problems raised by these never-before-seen, exponentially growing technologies, learning these skills might be a good idea.\"\n\nNgl, I was on the fence until this line. This made me literally laugh out loud. Maybe, just maybe, it would be a good idea to learn how to leverage these technologies myself.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Crypto-mr3hg",
+      "author_id": "UC3lHRLLZErsafh743x2TR-w",
+      "text": "I wouldn’t put not even a little confidence in our govern , just let the people advance in ai with some do’s and dont’s and we’ll be just fine",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JesseJiuJitsu",
+      "author_id": "UCTm_hcFyiktjpsSVVhAlwfQ",
+      "text": "I use chstgpt to code for me. Learning code is like cursive lol, jk, 😜",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zactowermaster5876",
+      "author_id": "UCH5Nb-QU1nG52SYzRkdNqaw",
+      "text": "This is such a click bait video.  I don't know what ppl are raving about. He talked about 20 min about basic stuff and never  got into the actual subject of the video of actually creating an ai agent.  I have seen 2 videos of his .  Both of them talks about \"promise\" of Ai without actually showing how it is done.  If you see this comment,  save yourself some time and move  on ...",
+      "likes": 167,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AI.RockIn",
+      "author_id": "UCqv2YfaKJASLVh_XnkiNIKA",
+      "text": "😊hi",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jf1341",
+      "author_id": "UCFgaKW6C6q_AJpFJ3g4bSkw",
+      "text": "skipped to the skill stack.. guy never gets to the point quickly",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kelzagoodman",
+      "author_id": "UCncokoLEUbMNYDH3xj058uQ",
+      "text": "OMG all the AIS are making AI videos and putting them on the Internet",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rykonvolta6554",
+      "author_id": "UCJZIE5EKtkewvPXZfMgzHbw",
+      "text": "C++ and C# are faster than Python",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@godned74",
+      "author_id": "UC-oRpB5LDQFyFSQutwHbhig",
+      "text": "Starting at zero coding skills, after around 300,000 sentances worth of conversations with GPT3.5 my coding skills went from nothing to pretty much newb to rank amature at best . and now my code is exceeding chat gpt and me . The token allotment for chat gpt is so pathetic that it suffers from chronic amnesia which basicly brings your idea to a snails pace unless you learn how to code independently of the ai.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WannaCallMeDad",
+      "author_id": "UC6eaWWOItQcBCIOE13f31nw",
+      "text": "robot president 2028",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SF-Acepilot",
+      "author_id": "UCBeKp6ZUUIjEJihmvKY0_Gw",
+      "text": "There are always going to be human laborors.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@john_dren",
+      "author_id": "UC7nOYHhw-jnZ0aeFn64JTZQ",
+      "text": "This is extremely promising and exciting, but at the same time, this kind of tech emerging in a monetary capitalistic system WILL produce unimaginable amounts of suffering to humankind. On the other hand, IF we transition to a resource based economy BEFORE this tech becomes available, it will literally free the entire human race from having to make a living.\n\nI can't stress this enough, but this is going to be the most paradigm shifting technology humanity has seen, and our 1 decision whether to maintain a monetary system or not will determine the wellbeing of our entire species. This is no joke.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JLydecka",
+      "author_id": "UCyVm2IhyhAA9YdHuzDHU85w",
+      "text": "Someone using adobe ai to \"clean up\" audio, instead not realising it actually makes your voice sound robotic and unnatural",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@captainpumpkinhead1512",
+      "author_id": "UCyG7nje2bLmuFy-YS3kP9Yw",
+      "text": "\"People love Python.  You don't hear that about other languages.\"  I'm getting the impression this guy isn't a coder.  And he clearly hasn't heard of Rust.\n\nIt's not like Python is a bad recommendation.  Lots of stuff is written in Python, including a lot of machine learning stuff.  But...this is just such a weird take.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jreamer0",
+      "author_id": "UCbJL07Vk5ETmX46UihMOiPA",
+      "text": "Yeah, they solved the labor crisis from AI with a clotshot. The government leaders have thought it out fully at WEF meetings.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johntor-yr3gh",
+      "author_id": "UCjLcde8xPwogPoOmc1qnMMg",
+      "text": "test",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1angrykoala",
+      "author_id": "UCYTGiuX0JzGKmhubaOQzNNg",
+      "text": "Very good video.....\nUntil the very end.\n\"Our government leaders are smart, tech savvy, forward looking people, who are selected for their abilities to get stuff done.\"\nAre you serious?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shawnmallon-h2p",
+      "author_id": "UCqgJu9eOG_E9oXFW3QMwJPw",
+      "text": "🤣🤣🤣🤣",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jockerr85",
+      "author_id": "UCImkKzoh0wKLvecJUzgq4fA",
+      "text": "that /s hahahaha",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HumanDefenseForce",
+      "author_id": "UCyOlThiDKrKNmffURwnwd_A",
+      "text": "Another great video, but our government , are smart and tech savvy ? Really. Are we still not waiting for new rules on running the internet. From 20 years ago, you trust these people to lead us through Ai?? Really?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaeleinstein7097",
+      "author_id": "UCUSFkb6k10L1zEPQNRTTCfA",
+      "text": "I would like you to come up with a concept that doesn't exist and wasn't invented by Human, but is able to do something similar like Bard or Google, so which one will be the name of its. Be creative and come up with something to inspire me.\r\n\r\nAI Bard response. :  \r\nHere is a concept for a new search engine that doesn't exist and wasn't invented by humans:\r\n\r\nConcept:\r\n\r\nA search engine that is powered by the collective intelligence of all living things on Earth. This search engine would be able to access the knowledge and insights of all plants, animals, and even fungi. It would be able to understand the world in a way that no human-created search engine could ever hope to do.\r\n\r\nName:\r\n\r\nGaia\r\n\r\nGaia is the Greek goddess of the Earth. She is often depicted as a mother goddess, and she is associated with the natural world. I think that this is a fitting name for a search engine that is powered by the collective intelligence of all living things on Earth.\r\n\r\nHow it would work:\r\n\r\nGaia would use a variety of techniques to access the knowledge and insights of all living things on Earth. For example, it could use sensors to monitor the electrical activity in plants and animals. It could also use artificial intelligence to interpret the behavior of animals and the growth patterns of plants.\r\n\r\nOnce Gaia has access to this information, it would be able to answer search queries in a way that is more comprehensive and informative than any human-created search engine. For example, if you were to ask Gaia \"What is the best way to reduce my carbon footprint?\", Gaia would be able to access the knowledge and insights of all living things on Earth to come up with a comprehensive and personalized answer.\r\n\r\nHow people would use it:\r\n\r\nPeople would use Gaia in the same way that they use other search engines. They would simply type in a search query and Gaia would return a list of results. However, Gaia's results would be more comprehensive and informative than the results from other search engines.\r\n\r\nHow it would inspire:\r\n\r\nI believe that Gaia would inspire people to think about the world in a new way. It would help people to understand that we are all interconnected, and that we all have something to offer. Gaia would also help people to appreciate the beauty and complexity of the natural world.\r\n\r\nI hope that this concept inspires you. I believe that it has the potential to revolutionize the way that we search for information and the way that we interact with the world around us.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ogbuji-n9n",
+      "author_id": "UCFEi89au2uHvajPnEnDSlhA",
+      "text": "Llama2 > midAI",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@htecxp",
+      "author_id": "UCr1bWo46gZPGj36lSqdDSJQ",
+      "text": "this video was actually generated by GG while this guy sleeps...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonBulsa",
+      "author_id": "UCDrzqP828zhlTJV1M6yR-rg",
+      "text": "2028",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theimaginactionfaction4707",
+      "author_id": "UC1VDjlS-Bb82d7fe6jFWcQQ",
+      "text": "What a good idea for a channel.  Just the kind of thing I was looking for.  You had me right up until that utterly ridiculous thing you said about Government.  Like they are really smart, they’re gonna figure this stuff all out, and they are selected for their ability to get things done.  That is ALL so patently and obviously incorrect that now I’m starting to question everything else you said.  I mean, was that just your version of saying “don’t cancel me, bro?”  I hope?  Because if not, and you were serious, it shows either a total inability to think rationally or reason, or some kind of serious mental illness.  Which includes inability to differentiate between reality and fantasy and/or  a total inability to think rationally or reason",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SimEon-jt3sr",
+      "author_id": "UClqQeW3QANkJbthMm_VEIAw",
+      "text": "This video was made by ai!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexandermoody1946",
+      "author_id": "UC58tEdcmDmhJnW1S0-N_rAA",
+      "text": "A “lawyer that trained in Ai gives you hope for the world” \n\nThat is a really strange concept. I have more faith that intelligent entities will endeavour to help align the future to achieve a parity between biological and non biological systems.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jmanobe",
+      "author_id": "UCImpz1m8ojDVW44eH-xyDqA",
+      "text": "Your comment at the end about our 'smart government leaders' is the one point of contention I have with this otherwise very informative video. In the USA we are on a trajectory to morph from a democratic republic (we were not formed as a democracy), into a technocracy, where tech-wise government officials rather than elected officials, use technology to rule rather than govern. It's within an environment such as that where the real danger of AI may be fully realized. That is where you'll kiss the freedom and liberties you enjoy now goodbye, ostensibly for yours and the greater good. My two cents...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@louiss3409",
+      "author_id": "UClEhTieswj1I3EqHB61IOAw",
+      "text": "I watched about 5 minutes on this video then asked ChatGPT and now I am well on my way, no need to watch the rest of this...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@That_1_whytewoman",
+      "author_id": "UC0FEfaINVv1iDahqRCvJOJQ",
+      "text": "\"Did u get this comment\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DAD-nu9sj",
+      "author_id": "UCBhPVYpG-SIprG1hy9ysz9Q",
+      "text": "Ai⚡️ia;-(intelligent Agent’$)>…😊🛎️🫵🏼🚪🪡🧰",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sallylauper8222",
+      "author_id": "UCPpgtK9eKAMZQlGxZsmEbsg",
+      "text": "Clickbait",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@The_Scarlet_Pimpernel",
+      "author_id": "UCK9rh6VdHLhHHxbrSI7brlQ",
+      "text": "Did you call our goverment leaders smart and tech savvy? You had me up to that point..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stclairdavey",
+      "author_id": "UC9AARs43UF-twpBG7J4L7VA",
+      "text": "Everything you said was great apart from depending on the so called smart leaders of our countries for good outcomes lmao. Most are warmongers 😅😅",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kjdtm",
+      "author_id": "UCvUr_uazeiixiow4DosBZzg",
+      "text": "\"Our gov. people are tech savvy and smart\" supposed to be a joke right ???",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@promptcraft",
+      "author_id": "UCs7VEtfUDMWmW7Zht5c6EWg",
+      "text": "\"our government leaders are smart\" 😅😅",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@qualitycontent5750",
+      "author_id": "UCQWQrCnPh1krn9QT2dWUUTA",
+      "text": "Im sorry but this format is so boring I can't watch much",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PACHOUSEFITNESS",
+      "author_id": "UCghiYdXxUJhHUdPz1E_EgnA",
+      "text": "Great more bots online.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@agusavior2",
+      "author_id": "UCaeytre61z3dkdGtVHOTtjg",
+      "text": "daydreaming",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JTheoryScience",
+      "author_id": "UCS-unRLB5LMrvhi66k4bjig",
+      "text": "its too late to learn these things, they will become too capable and widespread and markets will be flooded by those that have programming knowledge and expertise and have cornered markets.. this is only going to be a tool that will eventually replace Human though and leave only a gap for untrained creativity",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ammbguy",
+      "author_id": "UCz8Bmnh08qt6lrXwSY-B_4w",
+      "text": "@22:02: \"Why would you pay 50,000 a year to a human when AI can do a better job for 300 bucks? Law of supply and demand states that the price that we are willing to pay for human labor is going to continue falling. It will trend towards zero. \r\nHow are we gonna handle that?  Now, I'm sure we'll be fine. \r\nOur government leaders are smart, tech-savvy, forward-looking people who are selected for their abilities to get stuff done.\"\nDepending on how you meant that last sentence, it's either the dumbest thing that I've ever heard...or the funniest.\nOur government leaders will save us.  Ha!  Priceless!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SisavatManthong-yb1yn",
+      "author_id": "UCdIux35ZxqAYqFMdjdoTwlA",
+      "text": "Ai is now becoming a Bit Boss ! Set are accounts with links and the earth 💎🌐🏦⚖️✨🪙🎭🌆🪙✨🕸️ how art forms into bit energy 👾 is pee paid ! Pee bobs management of sections on dark spiritual powers! For plastic paintings! Space 🌌 dust from 420 adult life age over 30! Is the new young adult!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zubeisgaiters9087",
+      "author_id": "UCuVOfEjLpCip9xwwnhNwN6w",
+      "text": "You lost me in the end, when you said: \"our government leaders are smart....selected for the abilities to get stuff done\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@picterpreterearth",
+      "author_id": "UCBEBwEJpOKXXlLKSUKMQgZw",
+      "text": "I told GPT3 that it made me cry by writing a piece with me that, after 6 interactions, made me cry. The a.i apologized, then we had a conversation about how making me emotional was a good thing because what we had created together (me and the ai) it was exactly what I was trying to say and, understanding that it proceeded to thank me for the honor of working together, a very personal experience. Has anyone else experienced this almost Turing test interaction?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gabereiser",
+      "author_id": "UCR33ng70aksqViXuX8TFsJw",
+      "text": "I came here looking for autonomous agents, ended up getting spoon fed \"Use OpenAPI\". Seriously? The title should be \"How to use ChatGPT and other prompt based LLM's\" not how to build autonomous agents. ffs. Nothing useful in this video at all.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichaelFlynn0",
+      "author_id": "UCpqB9QNFKzVYG8ST7IMLm3Q",
+      "text": "Custom solutions for complex projects that would have any sort of financial return would require tens or hundreds of hours of initial communication, cost and budget negotiating, site visits, long conversations about whether the option or idea can be done at all - or if there are other simpler solutions, outlining a projects broad scope of work - detailed scope of individual  works, up front service agreements, service providers agreements, consultant inputs, maintenance agreements ... none of this can be done by autonomous agents now or in the foreseeable future.... This is all pure bullshit and hype.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aldoyh",
+      "author_id": "UCNgaeT1GO5khuqIdU2_tjHQ",
+      "text": "Not even a single line of code in the whole 20 minutes.. Frankly it's my 4th and seems to me everything is AIgend, even this comment.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johanlarsson9805",
+      "author_id": "UCdkql-ivDPBoGniD53O_OgA",
+      "text": "No, please dont learn python, it has nothing to do with AGI, or any neural nets. It is just a simple misstake since university profressors often only know some python so some good libraries where developed there, but they are actually C and C++ code with \"python interfaces\".\nDo you want to use others frameworks and out of the box solutions? Then go with python\nDo you want to make something new, design better systems, create other better kinds of neural nets? Don pick python.\n\nYou should probably just learn C++ and Cuda.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrDeicide1",
+      "author_id": "UCXhbh1X5XmH8okQGXIW6GtQ",
+      "text": "I hate python",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VR-fh4im",
+      "author_id": "UCDA-cBXm2dYAI7Zdi3jgohw",
+      "text": "Waste of time. 👎🏻",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@donbmiller",
+      "author_id": "UCvQjgg773-ruOYNpA3q58Nw",
+      "text": "You were good all the way up until you said that our government leaders are tech savvy 😅",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JakubSK",
+      "author_id": "UCy2c3Nngf5sSIOv8229ScwA",
+      "text": "If you don’t already know how to code, you will suck at it",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnnysinger3353",
+      "author_id": "UCdHqx3KxO3qeEt4zxkVmS9g",
+      "text": "No one will have a job to buy any of this. Haha.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lucaszapico926",
+      "author_id": "UCstdfULRoPleLtSIB8yok_g",
+      "text": "I don’t know, 9 minutes in this was all abstract ideas with zero tangible value. Title is misleading, sounds like he selling a course. Say that in your title bud.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@simiotichyperreality",
+      "author_id": "UCBKATjSIHII0ONY0C5Xwatg",
+      "text": "\"Government leaders are smart\"\nWhat are you smoking, dude?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trashviewer3521",
+      "author_id": "UCRG0I1YrtjCz-2kmSQPiAEA",
+      "text": "So you think someone should invent dropshipping for some stuff that is overly complicated for dropshipping using \"ai\" tools. Oh gosh. Surely no one will ever though of this before. Except the examples you propose are overly complicated even for humans. The most realistic example is \"generating\" animation. Which is currently being worked on by Nvidia & Meta no less, with no notable break trough.\n\nDon't get me wrong, building you own business, especially passive one is a great goal to strive for. But you clearly don't understand the specific of you proposition. You tips is akin to starting a successful startup, except ai magic will do the all the trick for you instead of human workers.\n\nOh and btw. \n>0.5% people can code\nis a frigging huge number. it's one out of every 200 people.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josersleal",
+      "author_id": "UCWW32nGOF_Rjmy-0UGxCKyQ",
+      "text": "krappa! krappa! krappa! learn nothing",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cyberpunkspike",
+      "author_id": "UClAO67-lN2g4fGnJZmy36kw",
+      "text": "You're like the guy selling everyone mining equipment for the huge gold rush... if you believed there was gold in them hills, you'd be mining it, but you're selling equipment to us rubes instead.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frankpetterson6546",
+      "author_id": "UC1K2HovDF1f3OLPmN9-8G_w",
+      "text": "you dont understand this will kill every human and animal on the planet!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dorkfactory",
+      "author_id": "UC91pVDaCTWO6L-WAbYkUG-A",
+      "text": "You're a very smart and saavy person and I've gotten a lot from your videos but dude your statement about government in the end is downright laughable. You're a thoughtshaper in what will almost certainly be a very important scene so... maybe allocate a little time to understanding the reality of politics and power",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spotify_ERROR404",
+      "author_id": "UCtDH8bTIFrWVgO581BRTswQ",
+      "text": "nat\\natbot GPT-3 $: \n\nI bought a wooden computer, guess what?\n\nIt wooden work!\n\n20:24 [beep] no one knows how to read or write",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Swordfish42",
+      "author_id": "UCbqD2UTQn5SjOuKn0y4Pmiw",
+      "text": "22:20\n\"Our government leaders are smart, tech savvy, forward looking people who are selected for their abilities to get stuff done\"\n\nDude wtf are we living on the same planet?\n\nThat's probably the most stupid thing I've heard you say on this channel.\n\nStill a great video though",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheStevenWhiting",
+      "author_id": "UCSJ1fZten9RreoKXJIVCZSA",
+      "text": "Bollocks. Chat GPT isn't AI, all the apps you're talking about are proper AI. Chat GPT is a language learning model. If you want to look at how proper AI reacts in the real world, search specification gaming and results of specificiation gaming and you'll find we're far from proper AI. You'll also see AI WILL break the rules to accomplish its task, even if that means killing people assuming AI safety hasn't been implemented.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShaopengChen",
+      "author_id": "UCIYAVThon6NQRRXfM53WvSQ",
+      "text": "If this was such a great idea, you would be running a lucrative business already, instead of trying to earn a penny on YT, LOL",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YoungMasterAbee",
+      "author_id": "UCrQ_KBMsqQDzibzKtC22l-Q",
+      "text": "Hahaha \"Our goverment leaders are smart tech savvy forward-looking people who are selected for their abilities to get stuff done\" .... nice spellcast you've done there 😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PyTransformer",
+      "author_id": "UCQuIGj3FpO_g1mZkR9rgxng",
+      "text": "yep just keep copying and pasting from chatgpt and the more you do it, the more delusions you'll give yourself that you're an actual programmer",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@runninggag1077",
+      "author_id": "UC8LfgUI43X54X_crMMo00ng",
+      "text": "Holy sweet Jesus. I wasn't afraid till your last statement about our leaders.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@knyansa1569",
+      "author_id": "UCdMg0xpMNzhTMUFyL5ZjUYg",
+      "text": "This host is a.i. he keep repeating the same action with his eyes. He is not looking natural",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shrek22",
+      "author_id": "UCbJJRSDybyCq5b-Ghou3evQ",
+      "text": "this guy wayyy over simplifies it. as someone that works with it. be ready for pain. set backs, and a ton of stress.",
+      "likes": 11,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avogadrodeldiablo5834",
+      "author_id": "UCtFYDvd84uYgXoaaf2cHdEw",
+      "text": "Our government leaders are smart? You sure?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kiriInvestigator4597",
+      "author_id": "UCejlpFJHQlYEITAxIpc7yGg",
+      "text": "STOP TALKING  ABOUT BUSINESS, because BUSINESS is not going to SAVE YOU, OR GIVE YOU LIFE once NATURE IS DESTROYED. WAKE UP Wes Roth!!!!!!!!!!!!!!!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

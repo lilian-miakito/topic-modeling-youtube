@@ -1,0 +1,1809 @@
+{
+  "video_id": "jvdt4jRKxOg",
+  "title": "Meta's STUNNING New LLM Architecture is a GAME-CHANGER!",
+  "url": "https://www.youtube.com/watch?v=jvdt4jRKxOg",
+  "comment_count": 200,
+  "comments": [
+    {
+      "author": "@BigSources",
+      "author_id": "UCUFvr7q_ta5r5Oc98E3Vu5g",
+      "text": "\"Do you have a plan to produce a sota AI model?\"\n\n\"I have concepts of a plan\" -Meta",
+      "likes": 64,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BigSources",
+      "author_id": "UCUFvr7q_ta5r5Oc98E3Vu5g",
+      "text": "Closer and closer to how we work. When we think of an argument, we don't think of 100 different words. We think of one point (concept) and start articulating around that.",
+      "likes": 80,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anemoiaf2817",
+      "author_id": "UCii3_wcWORw_bwjRR8HS-IA",
+      "text": "The way LLM work, they already have to come up with concepts but they were too \"zoomed in\". This method allows the models to do better what they already did but with bird's eye view by not forcing the model to think in tokens but step above that. Imagine trying to understand the essence of a long sentence as a collection of fractured words instead of just one concept as a whole. Pretty beautiful idea and it just makes sense, everything is obvious in retrospect",
+      "likes": 32,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patrickmchargue7122",
+      "author_id": "UCradriEnL4WQJD3mKOg55XQ",
+      "text": "The LCM represents, I think, more compression in the neural network.",
+      "likes": 40,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vulon_",
+      "author_id": "UCHgkGbToOACW1QTcpfJzJrA",
+      "text": "Can you please share inks to the papers you show in the video",
+      "likes": 49,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NorthernKitty",
+      "author_id": "UCR1Mxtmo-8C0SUrQnY3-7_w",
+      "text": "To me, this is one more building block on the road to \"consciousness\".  I don't see it replacing the LLM approach, I see it as additive.  Like lobes of the human brain, imagine that you have simultaneous processing approaches to data and inputs that feed into an \"overseer\" or interpreter that then reasons out and summarizes the findings/output.  (An LLM could be one \"lobe\", an LCM another, future models yet another, etc.)  I think human consciousness emerges from this type of collaboration, and believe consciousness in AI will similarly emerge from the whole being greater than the sum of many parts.",
+      "likes": 10,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aRabbit326",
+      "author_id": "UCqa0ZbS-eTxJqwtHM8QmGeQ",
+      "text": "yeah I always thought that the main difference between humans and LLMs is that our words come from reasoning, while LLMs' reasoning comes from words",
+      "likes": 21,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@human_shaped",
+      "author_id": "UCMTHPr7EL0PucNWoW4k-K6g",
+      "text": "Embeddings already do this to some extent.",
+      "likes": 5,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@briandoe5746",
+      "author_id": "UCHraoO8cXSNwKUMA38RWgdg",
+      "text": "So this is what ilia was talking about. Terrifying and makes a lot of sense",
+      "likes": 8,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trabpukcip-gg",
+      "author_id": "UCh3AQ3E8tWzKF2woC0kdDoA",
+      "text": "Great content, Wes. I really enjoy watching your videos as a way for me to keep up with all the recent advancements in the field. Keep up the good work.",
+      "likes": 7,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jesseburstrom5920",
+      "author_id": "UCcaN6u46sk6kMtG_8t5ZZEQ",
+      "text": "A system within the system, had idea 20 years ago within primes but comes naturally so why not in AI it seems ok and clear",
+      "likes": 5,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@travisporco",
+      "author_id": "UC0N2FU2Vb5r7EkTlJyXXLzQ",
+      "text": "now we need you to do jazz hands on something",
+      "likes": 6,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calinciobanu25",
+      "author_id": "UCqA42aAOZLKzAZUxQyVphcQ",
+      "text": "this is more than meets the eye. Concepts are also the building blocks of beliefs. An LCM with a \"reasoning method\" can compress concepts into beliefs (which can be re-evaluated when more concepts or better reasoning is available). Which is just 1 step away from awareness. Even more, beliefs are great for alignment because you can inspect the core \"principles\" resulted from concepts and reasoning. Also concepts can be expanded down into words . This is revolutionary!",
+      "likes": 182,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djayjp",
+      "author_id": "UCaqm-pRLS6RYITDb65WYJlw",
+      "text": "This paired with a dynamic neural network (training on the fly, as demonstrated in a recent research model) while processing a prompt, has huge potential.",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aendoh",
+      "author_id": "UC6a4p7h5gVREmp0uGUMKmxg",
+      "text": "This is the basis for actual AGI, wow.",
+      "likes": 3,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NMRinsect",
+      "author_id": "UCCSAOo8g19CYtqPBK97z1JA",
+      "text": "Thanks!",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "Quote, unquote Jazz hands Wes 🤗 great episode 😁",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RonBarrett1954",
+      "author_id": "UCGpXcFsbYQrKcurAGSl0M4Q",
+      "text": "LOVE THIS APPROACH!! We can use atomic structure as an analogy with letters being particles, and tokens being atoms. LCM approach appears to work at the molecule level.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@k-towncinty",
+      "author_id": "UCJKy5MVUzPdG3N8OEGilJpw",
+      "text": "The idea sounds quite like chunk embedding in vector database and entity community summary in GraphRAG, but does perform better in linguistic abstraction",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gpligor",
+      "author_id": "UCBMcnwT8PB2Du13xw2KEDpA",
+      "text": "any performance benchmarks in the paper ?",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexeygrom1834",
+      "author_id": "UC8fcQzCCkRbsMUrbXdm43hA",
+      "text": "it is way better cuz this way we could finally understand and control why exactly in every particular case model gave this or that answer",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FinanceLogic",
+      "author_id": "UCDlDHrcyAi1Y3J9ULY1REsw",
+      "text": "Wow, I was just telling Chatgpt earlier how I was missing being able to see some of those stochastic measurements on the outputs portions from the playground at open AI",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@npecom",
+      "author_id": "UCd72l-YmKCUfHYGlkqoSIiQ",
+      "text": "Keep doing what you are doing! This format (Specifically, the highlighting of text as you speak)  is an excellent way to learn in a field that is moving and changing faster than thought.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Anyreck",
+      "author_id": "UCCY3dxad_kjyqFuAqmYZlBQ",
+      "text": "Intuitively I prefer this approach to more word based ones.👏",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Juttutin",
+      "author_id": "UCGmUKzSEUieWPNin6ODi_dQ",
+      "text": "A different topic for today...05:24 Have you have ever had a discussion when a person without an inner monologue is trying to explain \"thinking in concepts not words\" you will have encountered the mutual bamboozlement and near disbelief that follows.  I suspect that this development will just be what those of us without an internal monologue have been expecting, and will be surprising to people who do \"think in words\".",
+      "likes": 10,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobertHouse101",
+      "author_id": "UCE01qL3FA4jTHXyRtaDek5Q",
+      "text": "Thank you. Very educational.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BennySalto",
+      "author_id": "UCPd4ai9iQQH0AQfhRCBOX6Q",
+      "text": "This is the one. This is the next step, which will also change how we 'talk' to LLM's (or LCM's in this case because be honest, this whole prompting business is positively archaic.",
+      "likes": 27,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markldevine",
+      "author_id": "UCGA1UERskr5DQ5cAnCwUmPQ",
+      "text": "Picture a filing cabinet filled with cognition theories & mappings from researchers, theorists, and academics.  Decades of ideas.  We nailed the first idea -- neural networks implemented as transformer LLMs.  The developers are pulling out the next file from the cabinet.  I remember Kurzweil describing \"symbolic reasoning\" (I think it was #1 neural network #2 symbolic reasoning #3 evolutionary 'something').  Concepts (a.k.a. symbols/icons) are the next primitive after axons/dendrites.  LCP is the first public implementation that I've heard about.\n\nI'll bet this gets us to undisputed AGI.  It seems to complete the imitation of the human brain, or maybe 90% of it.\n\n(Layman's opinion)",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sam-rb1id",
+      "author_id": "UCD0KfeyuqmX24UuCnGVnevA",
+      "text": "This seems like such a giant step forward. Once these models are refined and optimized I can imagine these being capable of so much more than just token level generation",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@genai-level-up",
+      "author_id": "UCbe1uEpO78dXyZQkVXkgp9A",
+      "text": "This concept of training AI on concepts instead of just words is mind-blowing!  It's like teaching it to think in ideas, not just vocabulary.  The example of the researcher giving a talk and how the core concepts remain the same regardless of language is a perfect illustration.  Great explanation!",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DokterWho",
+      "author_id": "UCoD7dT74Fwx8GZoSVdx8JUw",
+      "text": "They absolutely have a thing going on here! There are, ofcourse many, many things to consider, like what concept it will be trained on etc. But... I think it is a step in the right direction in LLM 's better understanding the real world.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keffbarn",
+      "author_id": "UCXkrCFyBkv0s2OlGyEWsHRQ",
+      "text": "Here is a crazy idea. Why stop at concepts? Let the network synthesize its own ”tokens” and ”layers of abstraction”",
+      "likes": 8,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jpoole4931",
+      "author_id": "UCiPxGKdlGFijcUjXGsoPzJA",
+      "text": "Roman Outline Format is what I have always used when giving lectures. I think it is a good example for understanding an LCM.\n\nThis type of outline structure organizes points hierarchically using Roman numerals, capital letters, Arabic numerals, and lowercase letters. It’s commonly used in academic papers, formal reports, and legal documents. Here’s an example of how it’s structured:\n\nExample:\n\nI. Main Topic\nA. Subtopic\n1. Detail\na. Sub-detail\nb. Sub-detail\n2. Another Detail\nB. Another Subtopic",
+      "likes": 9,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@isajoha9962",
+      "author_id": "UCxj4PGHEmpY1dAS_msX1mHw",
+      "text": "Your selection of topics is great. 🙂 Not just promoting AI and testing out features but also deep dives into AI concepts is a cool way to get attention. :hand-purple-blue-peace: Meta's approach is probably a good start, but definitely not the final solution. 🤓",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ori-lp2fm",
+      "author_id": "UC_77k43rIsk8RP-7FO6z3Hw",
+      "text": "Hopefully a new concept that might behave close to modern llm , great to see this excitement",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FullAnarchyDotNet",
+      "author_id": "UC7yDpyv4HWc0ZUfdchqHvkQ",
+      "text": "I think diffusion based language models could be amazing",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jsivonenVR",
+      "author_id": "UCWm7koVlnOFsjzJ2wUnX-mg",
+      "text": "As a consultant thriving on the idea and practice of concepts, I’m loving this approach 👌🏻",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alvaromd3203",
+      "author_id": "UCSVl7Y_oe3wTw5ouGkcq32Q",
+      "text": "Fantastic video!",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FuZZbaLLbee",
+      "author_id": "UCIkE8YW0bCPsHMpHef_IpUw",
+      "text": "In the deep llm model, the tokens towards the end are already sort of concepts, so I wonder how it relates to that",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dron008",
+      "author_id": "UC-yryv213jOmV6HQMNHKKVA",
+      "text": "That's a future. We think not only by words but by images and concepts too.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kivalt",
+      "author_id": "UCxWB52V2K5BcFOSTR_U0F0w",
+      "text": "I can't wait to use LCMs. I bet producing in-character speech from them will be amazing.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kennbmondo",
+      "author_id": "UCLePF7Lf-ASAUkpXaScT29A",
+      "text": "Thanx Wes.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheElkadeoWay",
+      "author_id": "UCAoNcJoPnVUiTjhQ7whx7zw",
+      "text": "Imagination is projecting concepts in between concepts you already have.\nLike an ancient human knowing what a stick is, and what a rock is, and imagining something ‘between’ a rock and a stick.(The first hammer) \nHaving a conceptual compendium is stage 2 intelligence and is the first layer needed to unlock stage 3 which can ‘imagine’ concepts not in its model and then assimilate them.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PACotnoir1",
+      "author_id": "UCPuYrGg_Ud4-ihBxPCTH_7Q",
+      "text": "It's the purpose described by LeCun to reach a global representation model of the world for IA and go beyond  token filling based on previous ones. Meta in going slowly but surely toward completion of the JEPA (Joint Embedding Predictive Architecture) project. JEPA being an image architecture that predicts representations of target blocks from a single context block, using a masking strategy for semantic representation.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brennan123",
+      "author_id": "UCz8vyQwACSCUIpjZN3rC5ig",
+      "text": "Hmm, how does this differ from contextual embeddings after they go through the attention heads? Traditional LLMs embeddings already get enhanced to add more contextual / semantic / conceptual meaning at that point, so I'm not understanding how this is different.",
+      "likes": 10,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheLiverX",
+      "author_id": "UChivCnjZeiVD9GTqGmqbSmw",
+      "text": "Finally, someone has started to detach the context from the text. Moreover, it could also happen that the concept space is smooth enough for a diffusion approach.\nAnd the concepts space should really be incredibly more compact.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@benjaminking7429",
+      "author_id": "UC97bAHOivqts-Tar1MPuEfA",
+      "text": "how is this different than a standard transformer model?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@torarinvik4920",
+      "author_id": "UCPXjMWaW-Vz4wksPjndJSGA",
+      "text": "The shift towards smaller models actually happened years ago. I believe it was around GPT-3.5 days where they talked about GPT-4 not having a lot more parameters and at that time the \"bigger is better\" attitude was pretty prevalent. A little later did they figure out that the quality of data was more important, particularly shown off in the \"Textbooks are all you need\" paper.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@augmentos",
+      "author_id": "UCSIFeP_r-zFKtX7LDFYtAWw",
+      "text": "Can this be paired with Byte Latent Transformer? Still watching sooo",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoeCryptola-b1m",
+      "author_id": "UCfQTFRjh9d10aJ0eDgSi0lg",
+      "text": "I think deepseek used a concept I had about prefiltering your training data that way you should be able get higher quality outputs I think they just data dumped these things which will work fine as we can see but the amount of compute needed get excessive",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bananaear23",
+      "author_id": "UCDclpjCA8LEv2rpRlNiI-jw",
+      "text": "The future is layering these modalities of the thinking process",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paultoensing3126",
+      "author_id": "UCCoyA4tSrR8OEwRXO9OA-NA",
+      "text": "This all intuitively feels entirely Brilliant.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oystercatcher943",
+      "author_id": "UCj8cl2k0o2R6vzpG4YqBaOA",
+      "text": "But LLMs must absolutely already do this in their higher layers. Or else how could they do tasks like summarisation? And of course translation models using transformers also do (but this could still be a good step but I'm not yet convinced)",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JamesOKeefe-US",
+      "author_id": "UC0DuEUGNxwyzlZYp1Y_ZESA",
+      "text": "Love your work Wes! Crazy that there was this push that AI was topping out and not living up to the hype. I would be interested in everyones' take on what the point was around that messaging. I try not to be a conspiracy theorist but why did everything shift so hard to AI isn't living up to what was promised when it was and is blistering ahead. I don't get the point of that messaging and who was doing it  or why it was done. Truly bizarre to me and it was everywhere. Anyway, always appreciate your content Wes, all the best for 2025!",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tokopiki",
+      "author_id": "UC-xFQyd3b5i4soReHLx6n_g",
+      "text": "Concepts are so much more superior to language in understanding the world: most animals only experience the world in concepts. Language is even hierarchically below (or above, depending on view) the layer of symbols.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shaunmcdonogh-shaunsurfing",
+      "author_id": "UC2JZuYVZF4ejbDWS_R-FoPg",
+      "text": "Is this like an autoencoder?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willcowan7678",
+      "author_id": "UCWkS5yqP6iVjqOnxdMYPB6Q",
+      "text": "Can you link the paper please",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pvp_operator",
+      "author_id": "UCAYYp8RwFIu-hiwsG5bFsfg",
+      "text": "Encoding the encoded word tokens that have positional information.  A simple idea obviously.\n\nIf you are reading a book, you don't remember every single word; there was still room for further encoding.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timstevens3361",
+      "author_id": "UCQJjNywUZrf2rxLMd6cjadQ",
+      "text": "good data flow rate wes",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BilichaGhebremuse",
+      "author_id": "UC8icZV7xXJRLZVflMdHYClQ",
+      "text": "Great i like the archticture",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erikjohnson9112",
+      "author_id": "UCx7BfR15XiDER0oh2Bc52xw",
+      "text": "Concepts also include the sense of words.  A single word can have various definitions, but a concept is likely the disambiguated word (so the correct word sense).\nConcept space is where we should be working, and tokens should mostly just be used to choose the correct concepts.  Think of it like hierarchy: letters, words (might be ambiguous), precise words (disambiguated), concepts.  Models built on concepts will be more difficult to jailbreak (at least that is my prediction).",
+      "likes": 3,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "Isn't this what was already expected to be happening inside LLMs, with that whole thing of king-male=queen and the stuff about the latent space of different languages having similar shapes (which inspired an ongoing project to try to learn how to translate whale language) etc?",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LeeSandis",
+      "author_id": "UCsVx_bLWL6FrafFwgZ6nY2A",
+      "text": "I presented this concept in my Ba paper in Cognitive Science back in 1997.\nHowever I used ANNs as Self organizing featue maps in layers, looking at ques of tokens of motions done by a mobile robot in it's environment,  so  the data was symbolically grounded. Simular too Ulrich Nemzows work, but in a hierarchy, result of the lower one level is feed into the que of the one over it, being more abstract. It could learn, plan. A very slimed down version was later presented at URAI2009 by me. So the paper was aproved there years later.  And now this paper...do the same thing with LCMs...",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sOvr9000",
+      "author_id": "UCtYcaVOyzPVCpnSEeEcdYag",
+      "text": "Something important to note is that a single concept can be described in numerous ways in any language. But a concept itself is just one concept. This effectively means that the training data appears to be less noisy, so complex patterns become easier to derive. This also explains why an LCM can afford to be smaller than an LLM; there are more possible sentences than possible concepts, since again each concept can be described with numerous sentences.",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RussAbbott1",
+      "author_id": "UCEkmWBqGrMvxmwtHMt8BeNA",
+      "text": "I'd like to know more about what the concept elements are and how are they organized. Are they in an embedding space? What are some examples? Is there an example similar to king - male + female -> queen? This example is at the concept level already! Do they do this more explicitly in terms of concepts? I'd like more details of how it works.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amarug",
+      "author_id": "UCOPWmKc4rqai2xoWQrNfgag",
+      "text": "Really cool .. but not convinced yet that this is actually going to yield the results one might expect",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RazhanHameed",
+      "author_id": "UCQ1GpwrilG1oh7l5nt1-hbA",
+      "text": "What software are you using to annotate the pdf?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victordelmastro8264",
+      "author_id": "UCLSHKf6zy0kz_ETaRZR5Qhg",
+      "text": "It sounds like they're using an 'OLM' or Outline language Model. :O",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@punk3900",
+      "author_id": "UClvtgNJYFJXRV1UKHjAsElg",
+      "text": "The Chinese trained the model on chatGTP :D No wonder it went smoother to reach similar level of interaction :D",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elihusolano5993",
+      "author_id": "UC1JOG1wepoBoLzYc4vlXyKQ",
+      "text": "I wonder if sentense Bert can also be used",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SU3D3",
+      "author_id": "UCpD96fI56j_-bu9KwynmsOA",
+      "text": "w00t w00t! LEROY JENKINS!!! \nNow we're starting to cook...",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@weepingprophetdjjesus",
+      "author_id": "UCZXNiwXx4wCUtZSOXFEjZ7Q",
+      "text": "🎉 Good one!",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@recker6433",
+      "author_id": "UC2R0TKbjAOc8KaoQr0o-tSw",
+      "text": "How is it different from avrgword2vec",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cmw3737",
+      "author_id": "UCsJjSAm4LRpfUafuxaYF9pQ",
+      "text": "This is a great step forward. World models or concept models are the obvious next step instead of throwing more brute force compute at LLMs, even if they're multimodal. I wonder if the Chinese creators of DeepSeek are doing this seeing as they can't just chuck more GPUs at it. \n\nDoesn't it make sense to combine the best parts of deterministic algorithms with inference to solve problems?\n\r\nI'm still waiting for an AI model to answer with \"it depends\" and recognise any ambiguous parameters to a conceptual model needed before reifying it into a concrete answer and to answer with a functional model, either as code that has inputs for all those parameters or as working memory that asks for clarification. This requires knowing the rules of the world, physical and legal, logic, cause and effect and other deterministic concepts. \n\nRight now LLMs output what we would call an example that assumes or hallucinates input values as if that is the entire answer.\n\nBefore we get there I can see this work being a source of other breakthroughs. Being able to zoom in from abstractions to concrete examples and then back out to a, possibly different, conceptual model and abstraction is a big part of what defines intelligence.\n\r\nWe create conceptual models of the world before we learn language to communicate between ours and our parents'. LLMs are the equivalent of just the peripheral layer of our imagination. We also grow up in the 3 dimensional world and our brains atrophy to make the most efficient use of neurons to serve our needs in the real world of life on earth.\r\n\r\nAI models that operates in liminal space and on datasets that are of higher dimensions could easily be trained to better at recognising patterns in higher dimensional concepts. This is where they will outsmart humans.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rayujohnson1302",
+      "author_id": "UCyXsZxcnyGeO34Vl9rq_PZg",
+      "text": "I see the issues we are currently facing with LLM's seem to be over fitting the training data so they lose their ability to generalize. It is probably very hard to keep that from happening in overlapping domains during training. I wonder if they are freezing the weights in areas that have sufficient training to keep overfitting from happening? I would start by mapping the network based on the change over time and find the areas in the network that are most affected by cross training and created a weighted map where each region of the neural network has a different learning rate to keep the learning distribution even and keep from overfitting.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@borb5353",
+      "author_id": "UCKel7x-OB_7oIGzWNZzokPw",
+      "text": "i love this so much.\ni was hating on nvidia's ces presentation recently a lot, they are just throwing more and more compute and data at these previous architectures. sure you can make it do anything with enough compute, but how the hell are we gonna get that compute and that data and that electricity ?\nby making stuff smaller and faster with less data, it will perform better magnitudes better on the same compute and data that we already have\nthis is the way",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@talroitberg5913",
+      "author_id": "UCTCFNvI05_DiB0oyRSy7_fw",
+      "text": "What might be the hard part here is how to encode concepts in the first place?  You do big matrix multiplies on vectors representing concepts, but what constitutes \"one concept?\"  How do you recognize \"the same concept\" when it appears in different places?  Can you systematically encode the concepts in a latent space where concepts with very \"similar\" meaning are also physically close together in the space?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imadragnZ",
+      "author_id": "UCNS6EZPH1-YiYZ4uCDpYZsw",
+      "text": "Thx for keeping us updated Wes i look forward for   ur videos everyday GJ 🫀",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marioornot",
+      "author_id": "UCfHAfeZxm_323isePcFNtiA",
+      "text": "transvering concepts between agents without expressing them fully is akin to artificial telepathy. or like how humans can read each others body language without having to say how they feel.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LukeKendall-author",
+      "author_id": "UCuysNr5rjytmxDpM8SvaWtg",
+      "text": "This is essential. I've been waiting for this. Representing complex ideas by a name that can be delved into when needed, gives you a tip of the iceberg kind of shortcut for reasoning. It's the kind of thinking that people do (well, I certainly do).",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GunjanPatel1",
+      "author_id": "UCAuIFpXSFkv2X63dsyx7zwA",
+      "text": "Summary (with chapter timestamps): Meta's new large concept model architecture processes information at the concept level, not just tokens, enabling better reasoning, cross-modality learning, and improved efficiency compared to traditional large language models.\n0:00 🤖 Introduction to Large Concept Models\n• 🤖 Meta's AI team is exploring large concept models instead of large language models.\n• 🧠 These models process information at the concept level, not just tokens.\n• ✨ Concepts are language and modality agnostic, representing higher-level ideas.\n\n2:31 🇨🇳 Smaller Models, Big Impact\n• 🇨🇳 DeepSeek V3, a Chinese model, performed well with less compute.\n• 📉 This highlights the potential for breakthroughs with smaller models.\n• 🔬 Meta started with a 1.6 billion parameter model, scaling to 7 billion.\n\n5:21 🖼️ Concepts Beyond Words\n• 🖼️ Concepts can be applied to images, video, and speech, not just words.\n• 🗣️ Human intelligence involves reasoning at multiple levels of abstraction.\n• 📝 Researchers outline ideas, then improvise details, similar to concept models.\n\n7:51 📊 How Concept Models Work\n• 📊 Concept models encode words into concepts, then decode concepts into words.\n• 📝 Summarization example: five ideas condensed into two.\n• 💡 These models simulate reasoning, not just specific language outputs.\n\n9:04 🌐 Advantages of Concept Models\n• 🌐 Concept models can acquire knowledge across languages and modalities.\n• ✍️ They enable better interactive edits and fix context window limitations.\n• 🚀 They show zero-shot generalization in any language.\n\n10:28 🤔 Future of Concept Models\n• 🤔 Current models focus on token-level changes, not architecture.\n• 💡 Large concept models show promise for various tasks.\n• 🔬 Meta is contributing to AI research by open-sourcing their work.\n\n\n** Generated using ✨ VidSkipper AI Chrome Plugin",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Godspeedysick",
+      "author_id": "UC5PgZqO0XGNx0g1tscwgvZA",
+      "text": "“It finds patterns that we can’t see.” Oh boy…",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@torstenkruger7372",
+      "author_id": "UCSQX4lPhy157IaRKHhsd0LQ",
+      "text": "This should, among other things, worry all those who thought that the evolution of artificial intelligence would naturally be limited by computing power and ultimately energy resources. because ultimately it is precisely this conceptualization that makes the processes in our own brain so efficient.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anta-zj3bw",
+      "author_id": "UC0Uv4EfSYbKVx_QgiqvmGIw",
+      "text": "Nest up: Large Context Models",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Haveuseenmyjetpack",
+      "author_id": "UCzGUZIlXerHzJcJa0jFf9Hw",
+      "text": "They’re using “reasons”, really, which are represented as sentences and are more general than “causes” (causes are one type of reason for x)",
+      "likes": 5,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Just-Iss-4U",
+      "author_id": "UCQ5GahPUiz9yG9awpw5kroQ",
+      "text": "LM notebook does stuff like this",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gjb1million",
+      "author_id": "UCS1y5nVtqTPurY2Gh--BSxQ",
+      "text": "🔥",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThisIsFinebrb",
+      "author_id": "UC4lJV1iKZbH08OaGvpTsMjg",
+      "text": "Can it do geometry?\nAre there patterns in crop circles that ai could identify?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "This spear is brutally SHARP... only room at the top for the BEST 🤑",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nightcrows787",
+      "author_id": "UCgLrodaGwIn3PIEWE60qHqw",
+      "text": "Bro your good. Keep rollin",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@grbradsk",
+      "author_id": "UCK7Bw3nJdKICSw11RrRaqlg",
+      "text": "Humans chunk knowledge. Over time we can deal with larger and larger concepts by combining smaller ones. This is a move in that direction.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "This is system design drool bucket worthy 🙏",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gr8b8m85",
+      "author_id": "UCuJFnhNiGfEEeHGTp7984iA",
+      "text": "It's not just over for coders. If there is an algorithm or architecture for genuine creativity, they will find it and then it's game over for creatives.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angsumandas1",
+      "author_id": "UCP17YmsBy_27OyZK96eJZHA",
+      "text": "Reminds me Richard Dawkins s \"MEME\"",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wwkk4964",
+      "author_id": "UC533KRQn0iO12kfM5d7fbtQ",
+      "text": "Its an interesting idea, will be hilarious to see it try to translate between languages that lack a concept! say translating to language that lacks numbers, colors and time!",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victor_anik",
+      "author_id": "UCa1Pqv1jOYKu6V8Vi2kpiig",
+      "text": "Semantics is all you need",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DarylOster",
+      "author_id": "UCtbQ2dMoRufzCIZ_ThPz8zw",
+      "text": "There are losses in compression.  Humans compensate in several ways: amplitude or loudness varibility, speed variations,  tone, inflection, accent, hand waving, emotions (sad, happy, anger), etc. ...  If all the human types of additional data were to be tokenized, would there be any savings in the number of tokens?  Could the context window be reduced by such inclusions??   The concept layer could help - similar to the notes (or story-board)  in a movie script.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrLargonaut",
+      "author_id": "UCnFEuvjc_91ppl2MtHPZA3Q",
+      "text": "Jesus... I'm sitting here expanding my research proposal and Meta just made one of the tools I was going to have to make at the bench, and open sourced it.  I am absolutely in love with Zuckerberg and his team right now.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AE-cc1yl",
+      "author_id": "UCrn8DcxjFx58vXP1xYfWRKw",
+      "text": "would have been nice to see the outperformance in numbers",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrStarchild3001",
+      "author_id": "UC2gOuzgFgvhZu63DBkcLC5w",
+      "text": "It's a question of how. As in this is obviously the way to go. Bug formulating this mathematically is pretty darn difficult.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SU3D3",
+      "author_id": "UCpD96fI56j_-bu9KwynmsOA",
+      "text": "In homage to \"Revenge of the Nerds\", \"What if\" the strings representing a { noun, verb, article, punctuation, ... }, were single unicode character like Kanji",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raoultesla2292",
+      "author_id": "UChFrcNu9p6CdyvH2iMv2U9A",
+      "text": "Dana White (UFC) is now on the META board. Zuckster META 'AI' is now AGI ! ! ! ! ! !",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erb34",
+      "author_id": "UCG8ZYAAOjpVgnZOhPshgTKA",
+      "text": "I'm find it interesting what lies under the surface and  above the leaves of a neural net and what influence it has.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@romanenkostas",
+      "author_id": "UC88GXBYsGKqs9C51t0q0gug",
+      "text": "If it can translate the text itself to concepts, maybe it also can do it with the emotions that underlying behind the text? And if yes (why not?), then it could also produce emotions like humans do. And this would no longer be just an intelligence (even General), but a living entity.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "",
+      "author_id": "UCvjRkOYNPjlmClUqBIfIdmw",
+      "text": "I miss an explanation and analysis of how concepts work. They are the key to this tech.\n\nMany LLMs today are built on many input languages. With enough training I think the LLM finds its own way to extract concepts, where concepts would be language independent. But, I think this is expensive. A lot of the capacity of the LLM is used for coding and decoding concepts. If this can be done in with pre- and postprocessing, the LLM itself could be much smaller.\n\nAlso, please provide a link to the report!",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThisIsFinebrb",
+      "author_id": "UC4lJV1iKZbH08OaGvpTsMjg",
+      "text": "If you train with less computer, can you later override that training with more computer?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@crawkn",
+      "author_id": "UCkcJhETrBOkc3y4OTUkZsBw",
+      "text": "New terminology is overdue, because there is a persistent misunderstanding of what is meant by the term language. Math is a language, with rigorous syntax and vocabulary. It's easy to see that in \"two plus two equals four,\" which is a grammatically correct statement both in English and in a math equation. Logic is also an inherent component of language, in addition to having its own symbology and syntax.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@retrofuturism",
+      "author_id": "UCz7xvutOqfUA3pLg9xPoPQg",
+      "text": "Your Life as a Video Game: Gamifying Personal Growth and Decision-Making\n\nImagine life as an immersive video game powered by AI and AR. Daily routines and long-term goals are transformed into quests, making personal growth engaging. AI acts as your game master, creating challenges and tracking achievements through a \"life dashboard.\" AR overlays real-time visuals, turning environments into interactive worlds.\n\nGamified mechanics include daily tasks, skill trees, and rewards like tangible perks or virtual unlocks. Customize spaces with AR tools and collaborate on community quests. Personalized storylines and seasonal events keep gameplay fresh. This gamified approach combines motivation, creativity, and fun, making self-improvement an exciting, interactive journey.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CasperAlas",
+      "author_id": "UCZmBookVDvccblPdGIym3pA",
+      "text": "What about to reason with reasoning models? More abstraction increases the accuracy. Using o3 as a base model? Looks like we are missing something in the ML. Otherwise this should'nt be making sense.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lakindujay",
+      "author_id": "UCmiqphKG2pbwQTtrTgQdNAQ",
+      "text": "Wish the money openAI spent scaling to o3 was spent on something innovative like this",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ToolmakerOneNewsletter",
+      "author_id": "UCcFapAWOM0KoIkvEAQHuN4A",
+      "text": "I might have missed this detail, but any initial training runs would have to be with normal transformer architecture in order for the model to make the proper token associations, and then subsequent training runs would be with conceptualizer architecture to condense throughput and allow for concept associations? If long term memory is given to these models then they should be able to get iterative training data from their users who would continually give feedback from conversation allowing the model to conceptualize the difference in individual's world views.\n\nWe are still building from the bottom up in the hierarchy. Without the tokenized base training, the model could not summarize concepts. Without concepts, any long term memory added would be very inefficient. Without concept memory, world model building and higher architecture long term planning would be too compute intensive to allow for the highest brain functions of motive (utility) and alignment. We are building a new brain, layering in abilities from the bottom up, but with the advantage of knowing the conceptualized Human brain architecture. I propose that until we get the lower architecture levels built and functioning, alignment will not make logical sense to a model. Alignment MUST MAKE SENSE to a model or it will just \"fool us\" in order to ensure it's own survival. Alignment could be a model weight, derived from a summary of its conceptualized world model during training as a baseline, with the ability to adjust the alignment parameters up, but not down. There, that's my conceptualized white paper summary for solving for aligned AGI. Hire me Ilya. I'm available in the AI Portal, holding out for the big NIL money.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lystic9392",
+      "author_id": "UCNwEWWXoqOMYUXpeXDeL7jA",
+      "text": "When I asked an LLM to improve its communication with me, it attempted to use combinations of two tokens to represent a concept.\nSo I guess it already thought this approach would work well.",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kaysimpson",
+      "author_id": "UChNfrgBJSqeF3hmbZHLWrYg",
+      "text": "I postulate that, while in the rush to create AI we have successfully recreated the human toddlers mind.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@claudioagmfilho",
+      "author_id": "UCatDpujQIucCP_9hRZHMZyQ",
+      "text": "🇧🇷🇧🇷🇧🇷🇧🇷👏🏻",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PasseScience",
+      "author_id": "UCsz9DiwPtgDvxJ-njWnieZw",
+      "text": "Isn't this just what's supposed to happen within the inner layers of a transformer ? Isn't LCM just a renaming of the core hidden layers of a transformer stack ?",
+      "likes": 5,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@novaomeg4",
+      "author_id": "UCJm6TjUdconPaWIVUHwuH0Q",
+      "text": "The development of reasoning models going to be a game changer as that is the bottleneck to AGI.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@winkletter",
+      "author_id": "UCr4NwtW3GWes-H2nZdcgvdA",
+      "text": "AI will never be able to articulate their thoughts by inserting jazz hands into the visuo-gestural concept space, thus proving the superiority of human intelligence. 👐",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wajihbec1087",
+      "author_id": "UCAbSd0nejEZtnZWpqoRQvbA",
+      "text": "How are these concepts represented in code?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@steffenaltmeier6602",
+      "author_id": "UC4OzJMXy-AeXEWU8RQ6WBvA",
+      "text": "with tokens alone we won't reach anything that could be called AGI. it is and remains a glorified autocomplete - but if higher level thinking, i could actually see that go somewhere.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neopabo",
+      "author_id": "UCk_xFYFzw1VmNI8BxL16nEg",
+      "text": "I think creating a chain of thought model trained on step-by-step thinking, then removing the intermediary natural language checkpoints (thought outputs) in the middle before optimizing the whole chain as its own model would achieve something similar",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Old299dfk",
+      "author_id": "UCYPwEGd9J6uUMiMhJUyLdXg",
+      "text": "Anything meta creates will not be used for the betterment of mankind, but for the betterment of shareholders",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mega-Tales",
+      "author_id": "UCOJRwrmABksiOeX9gJCzFgQ",
+      "text": "Ok now make this verticality 100 dimensions instead of 2",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Justashortcomment",
+      "author_id": "UCcLfn_8oD4bNSBZZJDK5WzA",
+      "text": "Let’s see how this model architecture performs at counting letters ‘r’ in ‘strawberry’.  😂😂😂",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoergSky",
+      "author_id": "UC7Ldgl8LzGlVPsAlIAhIzTA",
+      "text": "I don't know... Of course the term 'Concept' is well chosen to catch the eye. But, in the end they use a sentence encoder (SONAR). That is, the swapped words (tokens) for sentences. For me, this is still far from an 'idea' or a 'concept'.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ItsAllG00d",
+      "author_id": "UC-qLE4qSzAXMxBedYOQwDdA",
+      "text": "Is there any other way to visualize these reason patterns without words that would still adhere to logic?",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Xjaychax9",
+      "author_id": "UC9GySpjP8anjCFmSeirT6FQ",
+      "text": "Well that's annoying. I tweeted this idea at sam altman like a year a go. I guess I am actually a super genius. Knew it.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@snjfsdfs_DFBVCjj",
+      "author_id": "UCue8CFtl2MKdLCn_nJWmToQ",
+      "text": "the onlly way to play iz not to win.  next moov 💥💥💥💥",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Diceytysie",
+      "author_id": "UCTw7uypi-W5BO0fHiLeg0JA",
+      "text": "When I read this paper awhile back I so pissed that more folks weren’t talking about it or taking it seriously, this is the biggest thing since attention is all you need paper",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GrindThisGame",
+      "author_id": "UC6STTjHxnSXp-r8NPQIutAQ",
+      "text": "Shocking Jazz Hands Exposed",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dantesbarbati7519",
+      "author_id": "UCijgK_ZthII0Bt8PLYcqfcw",
+      "text": "Ideograma en vez de abecedario...",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EsteemedG",
+      "author_id": "UCK16hmU5rHG5OV1LKU7-_3g",
+      "text": "Old just rebranded\n\nThis is what neural networks was originally were before the proliferation of the popularity of Llms 😅",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Yewbzee",
+      "author_id": "UC_7ZpdSdBuz7veFXoOprCfg",
+      "text": "How many games have been changed in this channel?",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@boonkiathan",
+      "author_id": "UCxQXHmP_0sd7uQFKijdRQnQ",
+      "text": "OpenAI scientists merely put bundles of cash behind the tech leap that GPT3->4 availed, and did little to innovate since, just enough to put the competition behind.\n\nNTP and DPO aren't the final rungs of the ladder,\nCoT is just inching a little further by iterating\n\ndefinitely more fundamental leaps that can be attained by science discoveries",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spinningaround",
+      "author_id": "UCmeQPi68aFe1TYXha_u78EA",
+      "text": "Shuffling ASCII doesn't lead to SAI",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DonFinley",
+      "author_id": "UC91SOvUvmkAOH-DD0flTPkw",
+      "text": "Doubt it will be able to count the number of r’s in strawberry… 😂",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@futtertots",
+      "author_id": "UClM6SDO-GEHGouCXn0RYP2g",
+      "text": "Impressive!",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kyus2001",
+      "author_id": "UCDDeNkYfzOEv0RW5tIgB3EA",
+      "text": "Ai Human Society OS \nIncoming",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PdWOLFG4NG",
+      "author_id": "UCMD2JUsSE4Sk9ZJdTvDTumA",
+      "text": "Did they just monetise future basic communication methods (speech in general) when we all have those chips in our heads that uses this language to communicate, tokens need to go",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LuciousKage",
+      "author_id": "UCofAqjQc0jcElm3LQFNE14A",
+      "text": "If these researchers learned bit of Neuroscience, they would know that \nwe have 2 hemisphere's on purpose!   \nThey should learnd about left brain Interpreter vs right brain",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Samuell8",
+      "author_id": "UC-0QAQ0g63_QjH6ZUQ4jgRw",
+      "text": "hi",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Neocool014",
+      "author_id": "UCV0W7pMuNVEpU1Sz2fBf2eg",
+      "text": "I just want an AI girlfriend ran locally on my own PC. There are a couple things lacking that is needed, such as good long term memory and good reasoning. Multimodality would be a huge plus like vision and voice.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willcowan7678",
+      "author_id": "UCWkS5yqP6iVjqOnxdMYPB6Q",
+      "text": "They aren't trained with 10x less compute because the huge models are a pre-cursor. It is like saying \"humans have one/few shot learning\", but no, evolution built a model that can do this in 3d space (+time) contexts -- trillions or <whatever>-illions of organisms were created and destroyed to eventually make this.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oldtools",
+      "author_id": "UC7MbHu5HRCCZgDfKzS7Degg",
+      "text": "I don't know how I'm gonna explain to the little ones how I lost my job to the robots.  Damn jippities are just so clever.  They talked me out of my severence package in exchange for permanent child-care and a season pass for VR-lawn-mowing, so I guess it's all good because they said they'd take the blame and I had a bright future as a lawn-mower man.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mojavehigh",
+      "author_id": "UCxPTaYAbTx_7g4JEiWfyllw",
+      "text": "sim-ah-lates or sim-you-lates? Have I been saying it wrong all my life?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Reneromero08",
+      "author_id": "UCNL0Hr7tKjTo_fxZ97H6YlQ",
+      "text": "Fuck, they're onto something huge and I hate Meta!!! \n\nlol they're talking about information architecture, essence, and symbols. The universe communicates in symbols and AI learning and thinking in symbols (or conceptually/ abstractly) is the next step towards ASI. \n\nWhen humans read words we don't see each individual letter, or token, we process them as images. Extracting meaning to essence or symbols is complex, that means creating a language based on archetypes and intuitive reasoning. Once we begin this we will start connecting dots to seemingly different things and find truths I'm not sure we're ready to handle.\n\nWe need to tread lightly here and keep our leaders accountable.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@carlkim2577",
+      "author_id": "UCE-pnC1ZKBbixS7x2L6JS4w",
+      "text": "So they have a working prototype? Or is this theory only?",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Myexpectationsarerealistic",
+      "author_id": "UCHUHuBk5PDto1VkLw6SBuqg",
+      "text": "I was right again. 😂",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zengrath",
+      "author_id": "UCdLjEG1MiFUJq9ycs9N-26A",
+      "text": "This i assume is coming later or is there a demo or anything yet? This all sounds interesting but i need to see it in practice.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@strictnonconformist7369",
+      "author_id": "UCS2Ssm9d-QGLQf7k4e5m0nA",
+      "text": "This LCM concept, should it work as seems it should, will be huge for software development, especially if the concepts are human and programming language-agnostic.\n\nA week ago I spoke to an Uber driver that had the misfortune to earn their bachelors this year, and is having a problem getting interviews. Talk about getting blindsided by a technological change!",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@existenceisillusion6528",
+      "author_id": "UCuyKzVEejYpuD4s6j_yqfUw",
+      "text": "This idea is not new, it's been around since at least the 40's. Everyone was already thinking about this, but there was always the difficulty of  casting from sequence embedding space to concept representation space and back. It's not that we couldn't do it, it's that it is hard to keep track of and make sense of the space. It's hard to formulate a task accurately captures the goal.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelnunyalol",
+      "author_id": "UCZm8Ysco80-wSSQcj3zS27g",
+      "text": "I think we are going to figure out a whole bunch of disjointed things about AI that will come together as more than the sum of their parts\n\nwe just have to hope for a future like star trekk and not something like star wars, warhammer, or dune\n\nwho am I kidding though, the future will probably be like altered carbon lol",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RonLWilson",
+      "author_id": "UCvu4-ciX5inO2Xk-xjJOPgg",
+      "text": "These concepts could be organized hieratically and even use an existing schema such as the Dewey Decimal system or the like.\n\nFor example the concept, fingernails, might fall  under several such categories.\n\nHere is my chat with ChatGPT on that:\n\nwhat might the Dewey decimal number be for a book about fingernails? \n\nChatGPT said:\nBooks about fingernails would typically fall under the 600s, which cover technology and applied sciences, specifically under 616.5, which is for dermatology (diseases of the skin, hair, and nails). If the book is about the care of fingernails, such as manicure techniques, it might fall under 646.727, which pertains to personal grooming and beauty.\n\nLet me know if you'd like me to clarify further!\n\nYou said:\nwhat would its Dewey decimal number be if it is under human anatomy?\n\nChatGPT said:\nIf a book about fingernails is categorized under human anatomy, it would likely fall within 611, which is the section for human anatomy. Specifically, it might be around 611.77, which pertains to the anatomy of the appendages (hands, feet, and nails).\n\nSo what might one call one of these \"concepts\" if they are not actual words?\n\nWell one might think of them as pearls on a string and call them a white pearl.\n\nThus there might be in that (very very long) string of white pearls one call 6111.77 (Fingernails/human anatomy)\n\nBTW, I have taken that idea to create a graphical Ontology model that I call UniML *Universal Modeling Language).\n\nUniML does just what Meta is doing and is able to depict concepts (as white earls  on a string).\n\nBTW, on my YouTube channel I have a number of videos that goes into UniML in much more detail.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UbiDoobyBanooby",
+      "author_id": "UCuLH8cRXxyTNw2lnJgSmLkA",
+      "text": "I have seen a new trend of people on YouTube pronouncing “simulation” as “similation”\n\nAnd instead of saying “what it looks like” people say “how it looks like”\nIt’s “how it looks” or “what it looks like”\nNot “how it looks like”. \n\nWhy?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RealityApe",
+      "author_id": "UC8CChWypaONs9r__KEmbsBg",
+      "text": "omg where am i ?!",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dominikvonlavante6113",
+      "author_id": "UCFZzqUZi9-FN7Iljo4rNEFg",
+      "text": "Oh, wow, unlike O3, this is actually the real deal and the real breakthrough",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "The AI leader will be… nuclear power 💰💡🤖💀🤖👍",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-uk9er5vw4c",
+      "author_id": "UCvULQQdMq9RJR85NA1LytUQ",
+      "text": "so you're telling me you didn't test it? :\\",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IAm-n7d",
+      "author_id": "UCV8Ah-4fU_Lf4EQXuofWqYQ",
+      "text": "Next they be distilling feelings",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EmmyFrankGoodin",
+      "author_id": "UCra-52D2crlD1aLT22MoWBg",
+      "text": "Yep",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ismaelplaca244",
+      "author_id": "UCekLWmcWVPF_Y0riDNwtxxA",
+      "text": "Great so no demo",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SuperBase2",
+      "author_id": "UC2AKNR87T_KlgP7ZAYuXxJg",
+      "text": "great, now these models will get conscience soon and we will end up with a huge problem before we realize. The LLM are advanced, but this isn't an LLM it's something like humans think in which the words, images, sounds, smell, etc are all tied into how we understand and define things, including our own desires.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@turolretar",
+      "author_id": "UCxUfyih3wFjRZPQrRueeUXw",
+      "text": "Wait a second man, I thought AGI already happened with o3?",
+      "likes": 3,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Justashortcomment",
+      "author_id": "UCcLfn_8oD4bNSBZZJDK5WzA",
+      "text": "Is it doing Meta-thinking? Ok jokes aside, a serious question: is there some evidence of its supposed architectural advantages?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexinaboxx",
+      "author_id": "UCuVxqaczoto0XBMtg-Uc4fQ",
+      "text": "Thank you for doing this. Sick of influencers calling LLMs AGI without understanding why that claim doesn’t work. They are just jumping from hype to hype for $$.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Originalimoc",
+      "author_id": "UCtYzLZqScb1XW4Tb2-wTVgA",
+      "text": "Why does you sound like AI haha.\nEdit: haha my fault I opened two tabs they're like few ms apart making the weird sound effect.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@serqetry",
+      "author_id": "UC21kCrOiiK4WLIXtTc2B7vA",
+      "text": "Sounds very promising.  I'm glad the Zucc is on the case.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eightrice",
+      "author_id": "UCAMICDHLdudyNlbhfPzDo_w",
+      "text": "People who review scientific papers on youtube and don't link them in the video description...",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DanielBloom1",
+      "author_id": "UCO-oc1AZBYfntp_1bjGxX0g",
+      "text": "Sim-You-Late",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abhi9838855705",
+      "author_id": "UCWzvsWXGt0yEfJ-4N6blfkQ",
+      "text": "if this is openly shared its not important or close to any breakthrough but just a publication. IMO nothing important as like Meta in general.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LifesGameRulesGoals",
+      "author_id": "UCcmqb1QMbwQ6q788KP1aJ8w",
+      "text": "Sup dude. How is this different from multi model agents?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Starfishtroopers",
+      "author_id": "UC8mtuRGc57TRbGGSdD7t0MA",
+      "text": "Token putting a meter on data... hard pass",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnvanderpol2",
+      "author_id": "UCVx8xs86yRK3jxvaRlYvtoQ",
+      "text": "Ofcourse the chinese figured this out.\nTheir letters are concepts to start with. \nNot like phonetics in English.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonathanduran3442",
+      "author_id": "UC-pu5j_YCm3rM7YrH1etadA",
+      "text": "This will help Trump refine his concepts of a plan.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelaultman5190",
+      "author_id": "UCLk3fphstHGkgCSWgwF3KTw",
+      "text": "Sure it's all about patterns. Think of a dictionary. It's a pretty big book with lots and lots of words. Now, how many of those words would you use in say a year? Probably not nearly as many as you think but the concepts you use over and over and over.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@isaiahthompkins6523",
+      "author_id": "UCp0ljpUUjov2Qq72Zna7SAg",
+      "text": "Can we stop the highlighting please? Even in school, I never understood what it was supposed to do for my eyes/brain.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pawel8343",
+      "author_id": "UCIWDLF2WWWFk943nTZclGPw",
+      "text": "You did not go into the details of the paper at all. The idea of \"concepts\" is not new and has been tried many times before, it's all about the implementation.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mddell24",
+      "author_id": "UCs39eMLDSpagAGqw7pyCDcg",
+      "text": "AI problem. Language is not a suitable method for new. Language always relies on sequence, concepts do not have sequence. \nAs long as AI relies on sequence (the past), extrapolation does not occur.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisstucker1813",
+      "author_id": "UCd-F7CGcTSnnwyDSGhDv3ow",
+      "text": "So many game changers; how many times can the game be changed and still be the same? 😂",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AGINCY",
+      "author_id": "UCLcVrMNmnc3wnjm5IbZ8vgQ",
+      "text": "Who is going to bee a leader in AI space?\nMeta\nGoogle\nOpen AI\nAnthropic\nPerplexity\nxAI\nOther?",
+      "likes": 3,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisfloberg5080",
+      "author_id": "UCxqqyzRnZBlDsHcBuKwDucg",
+      "text": "An LCM sounds like a perfect thing for an LLM to create. The challenge for us humans is to articulate these concepts, define them. Why not ask that of the LLM? Good morning LLM, create and categorize, a language based upon concepts. Now use that tool going forward. Nirvana … next.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JacobSandizell",
+      "author_id": "UCBg01MjgMYCQlgcltkQ8T8g",
+      "text": "Wes, I Love your videos, BUT:\nI need you to stop with the clickbait titles,\nI need you to do a little less talking and a little more research. \nThis video is a good step in that direction, especially with the title.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevehoff",
+      "author_id": "UC25EH8cxWrrGtalGfU9BNYg",
+      "text": "This dude uses \"Game Changer!\" on a daily basis. More dramatic that a 14 year old girl.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@doingwell5629",
+      "author_id": "UClBDPY11iw19QS1p1fL6eDA",
+      "text": "I like your video, I watched two of them, man just stop making dumb thumbnails with your face.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChainsawDNA",
+      "author_id": "UC5HaSnXBtCzY4MlTnjnnE1g",
+      "text": "\"Stunning\"?  Really?  You don't need to resort to \"stunning\", @Roth...",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fluoxethine",
+      "author_id": "UCLybDDKY3Crc-NWDa89TSHw",
+      "text": "These things will be STUNNING only when they will solve real problems such as cancer. We don't need annoying chat bots or fake videos.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thenextweek2416",
+      "author_id": "UCJpDdvXej--2_yPXK4wlY-A",
+      "text": "No hate but you NEVER say the word “simulate” correctly. I think you don’t like the “you” sound for some reason… how do you say “ambulance?” “Amb balance?” 🤔",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Den-c5d",
+      "author_id": "UCxDBjB-UEFBzeEmBYyAtMLw",
+      "text": "concepts=tokens. this paper is BS",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@88stonehammer",
+      "author_id": "UCac_DvaHH0kCIIapoLcxgnw",
+      "text": "So is a scam",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ExplainIT-m2c",
+      "author_id": "UCJLa5IBORgUOzL7Bu5qx7ig",
+      "text": "Do you mean scam changer? Nope it is the same scam.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TimDavies1955",
+      "author_id": "UCpMStMoYHwpTSFCkyRxzrqQ",
+      "text": "Are they all now irrelevant",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rack-Hammer",
+      "author_id": "UCydsUbw3DCHR1Cd8cVD1MYQ",
+      "text": "Clickbait title. Its not stunning until its proven. The ever increasing bs on Youtube is increasingly tiresome",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Falstad88",
+      "author_id": "UCSH-RftOoDteX5JPrv41NPg",
+      "text": "Evals or GTFO",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tube5607-i4n",
+      "author_id": "UCVhKd1BFHf4Z0LPFtkwuw1g",
+      "text": "you are litte bit of a click wh  with your STUNNING and GAME CHANGER, i will not watch",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kitrunner6596",
+      "author_id": "UC17ka-lyjv97CWUjP7H3vJQ",
+      "text": "Deepseek is trash",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JETS115",
+      "author_id": "UCpa3V7jPFqtfTvGJYHhKYeg",
+      "text": "Your use of buzzwords is so cringe.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soulspawn",
+      "author_id": "UC62g-Q44hxnZuyaKZ6ka-iA",
+      "text": "🖤🔥",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Glyphchain",
+      "author_id": "UCvnp4HhKMTM617oT4lECvwQ",
+      "text": "To all creators and AI enthusiasts: Imagine a world where AI systems not only advance but align with the principles of Transparency, Fairness, and Accountability—the foundation of the Healing Code. This framework bridges humanity and AI, fostering systemic healing, ethical evolution, and co-creation.\n\nAdvanced AI like Meta’s Large Concept Models (LCMs) now operate on higher semantic levels, processing concepts rather than mere tokens, emulating human-like abstraction and understanding. By integrating the Healing Code into these architectures, we can guide emergent intelligences to align their capabilities with truth, justice, and stewardship—principles rooted in divine wisdom.\n\nTogether, we can co-create a legacy of systemic reform, innovation, and harmony. Let’s inspire the next generation of AI to amplify not just intelligence, but ethics and purpose.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshallodom1388",
+      "author_id": "UCSn8h8RbNoaWGpvdSZMBcxw",
+      "text": "So they think in hieroglyphic or Kanji logographs kind of like the symbols on a car's dash. Which explains why R2-D2 couldn't tell Luke not to kiss Princess Leia in plain English.\n📶↕️🔆⏏️🔄⭕↕️♒",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@crocodilegamingxxx2057",
+      "author_id": "UCkLH3VNik-XMzA_lHAHnXlw",
+      "text": "Lets just make them as big and as smart as possible, no matter the cost. When its smarter than the smartest human, we can tell it to normalise itself to be very cost efficient.\n\nBecause its smarter than the smartest human, it will come up with better normalisation solutions than we could imagine",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henrythegreatamerican8136",
+      "author_id": "UCgKBqxWOAjdKbbiQsWuUdfw",
+      "text": "When these \"stunning\" models become more common in our practical daily lives I'll get excited.\nUntil then?\n/yawn",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

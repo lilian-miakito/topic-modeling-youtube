@@ -1,0 +1,504 @@
+{
+  "video_id": "XhDkrRh3KlM",
+  "title": "Stanford \"Octopus v2\" SUPER AGENT beats GPT-4 | Runs on Google Tech | Tiny Agent Function Calls",
+  "url": "https://www.youtube.com/watch?v=XhDkrRh3KlM",
+  "comment_count": 55,
+  "comments": [
+    {
+      "author": "@friendlybetty",
+      "author_id": "UC7Mc5In5V4EPbYTHYoqrptA",
+      "text": "Openai needs to release gpt5 😂",
+      "likes": 81,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seakyle8320",
+      "author_id": "UCi1sXPWHUCLtytjwbjoZVxg",
+      "text": "plural of octopus -> octopussies",
+      "likes": 54,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willbrand77",
+      "author_id": "UCuEZPqitJMTEWzY2ru64WAA",
+      "text": "just imagine what a massive data center running millions of these tiny models could achieve",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justtiredthings",
+      "author_id": "UC8aTBiMxYdvu_UWB5Kmv4Yg",
+      "text": "Shocking that a 2B parameter model is fast. Lol.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SedriqMiers",
+      "author_id": "UCNUOGOdKCE2Z5JUGIzQH0TQ",
+      "text": "Ah the vampiric squid.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlimeyMCOC",
+      "author_id": "UCQc5TTfNX7toE5DyR9RiQfg",
+      "text": "Coming right after OAI are investing in a new AI device, interesting",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xalgo7318",
+      "author_id": "UC5WwybHhtIC-0upEEnBOjeA",
+      "text": "Companies will always think of the \"more, more, more\" approach, that's kinda the main idea of companies especially within big tech. It's nice to know that smaller things like this are on the horizon, producing great results with less effort. I can't wait to see what smaller models can do as well as what brand new news we get with AI from your channel.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DJVARAO",
+      "author_id": "UC15AGx38EAVv1Ne4dQ7qIZQ",
+      "text": "Awesome breakdown!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alteredalley",
+      "author_id": "UCCopr2I4eEzwidEqrh1Bumw",
+      "text": "Helpful video ❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EffortlessEthan",
+      "author_id": "UCozKBUzr1fukGVGZBMpeMTA",
+      "text": "soooo epic!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OscarTheStrategist",
+      "author_id": "UCkigSkt3UoglNel5-Iow5fA",
+      "text": "This is very nice, although I am surprised at the latency numbers discrepancy because I would imagine standford researches would at least try to compare 1 to 1. Llama 2 is not inherently slow (not to that degree) it all depends on the hardware running it. \n\nBut of course, that’s not the point of the paper. Specialized tiny models do really well on their niche task, we’ve seen that.\n\nThe reason we need both tiny and bigger and more robust and generally more intelligent model is for orchestration. With smaller and more specialized models for execution. That reduces costs in a major way. \n\nI run some agentic workflows for software development and sometimes you can spend $150 (GPT4) in a day and still not achieve what was needed. That may not sound like a lot but I’m only running tiny experiments. For large operations, reducing the costs by 1,000x using smaller models for execution is a necessity.",
+      "likes": 12,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hqcart1",
+      "author_id": "UCtfoThx6JxCNquvoBBJlEFw",
+      "text": "Why no one is getting STUNNED and SHOCKED???",
+      "likes": 28,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@monkeybird69",
+      "author_id": "UC4_jwvTlJIX17Q_rwgrcC8g",
+      "text": "This is what I've always been saying, it's all about the algorithm, once they have that right then compute size, speed and power can be reduced.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlteredCarbon99",
+      "author_id": "UCky65t2irAHPblLVuHP-4wg",
+      "text": "Neat, I'm early.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patricklanquetin9373",
+      "author_id": "UCIyYQ-PL6J13_-g57KxvFKg",
+      "text": "Did this paper reduce dramaticaly the semantic field to the function call small semantic area only?\nIf yes, why outperform larger models is new?",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattgscox",
+      "author_id": "UCGejJ4DX-eUOWmfqSjVa2YA",
+      "text": "This hints at a route to AGI that can be achieved by more than a single company with $Bns - a LLM which is good at reasoning and coordinating agents, still \"big\" and maybe a few Tn parameters, with an extensible plug-in architecture of agents with function-calling to access APIs, where each agent is highly attuned to a single task - very small but highly proficient. There's no reason the agents need to be run in the same datacentre, they could even be federated - like Folding@Home. Imagine a world where every website/server has an Agent Interface, as opposed to an API.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vaendryl",
+      "author_id": "UCUJAYd9GCjRIVY2SCI3WZfg",
+      "text": "> allround performance of a model goes up as you scale up\n> specialized performance can go up as you scale down. \nhmm. sounds like the human brain with all the small localized and specialized regions combined with big-ass frontal cortex. \nmaybe, AGI can be achieved by having many different models work together very closesly.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prasiu12",
+      "author_id": "UCTou8_DDdh5SRwhwH12Ja-w",
+      "text": "So that's where Marvel's Hydra came from ^^.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lasagnadipalude8939",
+      "author_id": "UCLwus2gJp1sqQ4_nVjtH7lw",
+      "text": "Imagine when we'll have actual neuromorphic chips/analogic ai chips as a normal thing in the market like 10 years in the future. With some sort of multi-octopus v96 in every electronic device doing gpt5 level calculations, consuming 2 watts, with multimodal models constantly checking and improving each other generation hundreds of times before giving a perfect answer in a second. Even on things where safety is fundamental",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elshadshirinov1633",
+      "author_id": "UCRudXJ9UTVaqaMu5kAO7zog",
+      "text": "Bigger and more general or smaller and more specialized. This has always been the trade-off.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BennySalto",
+      "author_id": "UCPd4ai9iQQH0AQfhRCBOX6Q",
+      "text": "What also is bound to happen: all these models are pretty rough when it comes to how efficiently they run, once optimised and perhaps moved away from Python there is double digit performance to be gained on pretty much every device (perhaps even more on non-cuda hardware).\n\nThese all could very quickly become small & way way faster.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevokebabo",
+      "author_id": "UC_U23VKABaQArxGmS_l9cuA",
+      "text": "Small model is essentially what Tesla is doing with FSD. The software has to run local in the car and using 13 volts architecture. Maybe 48 volts on the Cybertruck and Robotaxi vehicle to be announced in August.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@roccov1972",
+      "author_id": "UCoZ3uY2CgZiQnIs7L_Fayyg",
+      "text": "Is anyone here STUNNED or SHOCKED? Or BOMBSHELLED? \nWes must be slipping with those AI-generated video titles.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@inout3394",
+      "author_id": "UCXn5zAPPOe-kTjNIs9-Gzzg",
+      "text": "Make movie about Grow API and his custom chips",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CodeCraftTube",
+      "author_id": "UCiFoEhuMCTHEwaWOWWqQFeA",
+      "text": "Multion does not work anymore...bt it was so good",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ismaelplaca244",
+      "author_id": "UCekLWmcWVPF_Y0riDNwtxxA",
+      "text": "LOL my grandma beats GPT4 now days",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eizoone1276",
+      "author_id": "UCDf1CtvI26Ay-3oeP0LIJHw",
+      "text": "Its all about function calling, not about perfomance",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juancarlospizarromendez3954",
+      "author_id": "UC3rl8yHkI2zOyro8GpDJz5A",
+      "text": "Training a lot of maths's data does not make a good mathematician, the problem is how the brain that calculates the maths is still being undiscovered.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cagycee5296",
+      "author_id": "UCjCZqTwcjKRwwFk8lM9xcYg",
+      "text": "If Apple releases Siri with agent abilities and with scores above GPT-4, OpenAI will be in trouble. You got to think about how many people have iPhones. Same with Google with Android. OpenAI doesn't have influence like those two because either everyone has an iPhone or Android.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rchgmer863",
+      "author_id": "UCZmgAM2MqXSQNmqvHe-r3RQ",
+      "text": "Bro now stanford is beating ai sheesh, the race is heating up",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@u007james",
+      "author_id": "UCzoIXmqFPzlo6xhhnzmC3oQ",
+      "text": "what is the context token size?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Juttutin",
+      "author_id": "UCGmUKzSEUieWPNin6ODi_dQ",
+      "text": "We need to backronym AGENT stat!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EnricoRos",
+      "author_id": "UC6dc-wVkTBr0Og49t41vdAg",
+      "text": "Few issues: this paper is hyperbole, poorly written, with clear differences in parts written by gpt and by the authors, where the main innovation is something that practitioners do every day (adding tokens). Not sure endorsing this sort of work does well to the community.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@footube3",
+      "author_id": "UCxUg5Gt_xXpQX76uGPUFl8A",
+      "text": "If the key to making smaller models reliable at performing function calling is training them on a thousand examples of each function API they need to support, would I be right to think that we likely need separate fine tunes of Mixtral (the best OS LLM at coding for its size) for SWE Agent, Open Devin & Devika; where each fine tune contains a thousand examples per API that those agents support. If so, given just a few examples per function API, a model like Claude Opus could automatically generate the thousand unique examples for us, making this an easier task to perform. Thoughts?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mithallinho",
+      "author_id": "UCaW3dKWGUIqIfwlwL3w5s4A",
+      "text": "Wes, do you ever take a break? It's Sunday :)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@masteronepiece6559",
+      "author_id": "UCmjgiOm98qT_i83dSxK_QlA",
+      "text": "WTF with their Intro citations. They shouldve used IEEE style.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@H1kari_1",
+      "author_id": "UCK-TwaH61lXqGlvRchuwZqQ",
+      "text": "Finally a video with a durantion  I can watch without reschudeling my day :D",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlackMita",
+      "author_id": "UC03sQj82_0JsITwlWjm6oYA",
+      "text": "ChatGPT-5 is gonna be shockingly underwhelming.\nI can feel it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fire17102",
+      "author_id": "UCbDhLtzwBmaXJTqxu1sYo3w",
+      "text": "Does anyone know what they used to control the phone? (After the llm made a decision...) Is it a VM ? Is it an accessibility app? Anyone know how to do this?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Charles-Darwin",
+      "author_id": "UCQDBtgVF1u95N3pgorg796A",
+      "text": "a 'super agent' as a master of 1-10 compared to gpt - arguably a master of 100s-1000s? such a comparison should lead some to see this is a hype train.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1More_Dreamer",
+      "author_id": "UCvB4KacKklSAo1AJetg-A6Q",
+      "text": "We should stop giving AI systems Villain names, cause, whats next, Destroyer of GPTs?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nerlind",
+      "author_id": "UCFvCD-GKWiAuioRGWEQ6hzQ",
+      "text": "Recently saw an article by a comp science professor saying how AI is a waste of time. The energy consumption was one of the points. \nI thought to myself...can he not see the trend? Sigh.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@testales",
+      "author_id": "UCVjq3P02dsQdVAEziZrIFVA",
+      "text": "So they wrote a whole paper about having finetuned a tiny model that is a liiiittttle bit more accuracy in terms of function calling than GTP 4 which was already at over 98% and that this tiny model has fast response time (which is to be expected)?! I don't get where the big adavancment here is and I find it so absurd and craving for attention to compare these small models with GTP4 and claiming they beat it at something. I mean despite tiny models being very light weight and hence fast, you can only do so much with a tiny bit more accuracy in terms of funtion calling and if the model itself is dumb it still can't solve more complex tasks, like for example this often used \"write me a snake game\" task. You can have a swarm of 1000 dumb agents and they most likely wont be able to get it down except by pulling the solution from the internet. I have yet to see a 2b model that has about the same performance in terms of reasoning than just decent 7b model like Open Hermes 2.5. Also to get anything more complex done other than creating a new calendar entry and creating another search interface for google, you want a big context size, so decreasing it is not an advantage but a disadvantage! Maybe I'm just missing something here.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TT-hl3sm",
+      "author_id": "UCo2POQ4ZI5v-YSLqg4EERig",
+      "text": "“Octopus” comes from Greek, so the correct plural would be “octopodes.”",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cccc7006",
+      "author_id": "UCCQnuhgHLC31UeOEJn7S53A",
+      "text": "oh, this is not STUNNING or SHOCKING?  then I shall skip this one out.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yukoncorneliusthelegendhim9751",
+      "author_id": "UCi1C9aNxB1XoIcn5U-b6F7w",
+      "text": "dude you're burning me out with all of these tiny, insignificant updates.\nwe get it, there's companies one upping each other daily in a race to be 1st in line with this tech. maybe you should wait a week or two until there's actually some notable news....",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SarahKchannel",
+      "author_id": "UCvIzAV5MbfZmiP4NOTh7oiQ",
+      "text": "Your mouse cursor is annoying ! Cant focus on the text with something buzzing on the screen already - get a fidget spinner if you can keep your hand still please !",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bagude05",
+      "author_id": "UCUM4_z0UGMmgHX1dM9iycWw",
+      "text": "Wes, was this video generated with AI?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@СтаниславСтепанов-э6л",
+      "author_id": "UCkWulq1K0m4fS_HxYtUabbA",
+      "text": "First",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fonzleberry",
+      "author_id": "UCbgDBczZ7ad2WlO89BL6qMA",
+      "text": "'Octopodes'",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thecooler69",
+      "author_id": "UCzkKSPcCI-fyfDr2DAcIzAg",
+      "text": "the trade off is that you're back to a narrow AI that has to be propped up by traditional programming. a true intelligence wouldn't need \"def\" anything, it would just open youtube for you. period.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fullmentalalchemist3922",
+      "author_id": "UCiLT0LLgaN11H4dSJ3kc5kA",
+      "text": "Not a fan of the two part videos, but im not going to stop watching you. Thanks foe what you do. I get that your audience is pickey AF.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aurora.radial",
+      "author_id": "UCV-ZtbrBvnKBfV20pa8ee1Q",
+      "text": "Finally; isn't?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neilmcd123",
+      "author_id": "UCnPFL8smKakcQirPyOaURLg",
+      "text": "These small models are cute and effective and all, but they will never achieve ASI. \n\nThat’s why the chip race is so important right now. \n\nASI beats everything",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

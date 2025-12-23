@@ -1,0 +1,1395 @@
+{
+  "video_id": "yUsgzg0VJAI",
+  "title": "Google's MASSIVE AI RELEASES | Gemini 2.0, AI Agents, AI Gaming, Spatial Reasoning, Astra and MORE!",
+  "url": "https://www.youtube.com/watch?v=yUsgzg0VJAI",
+  "comment_count": 154,
+  "comments": [
+    {
+      "author": "@brianjanssens8020",
+      "author_id": "UCrgE5h3B_z2ZjfMGftgBw8A",
+      "text": "Bro is rethinking his life choices when Gemini started making jokes 💀",
+      "likes": 48,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cliffordramsey2500",
+      "author_id": "UC1RiJ7xAcG-S_CAkaz6JMkQ",
+      "text": "Okay, so I completely understand that most of these examples of use cases are selected to showcase the adaptability and sophistication of the model (especially the gaming examples), but by god I hope this is not how these companies/customers are expecting users to utilize AI in their daily lives. Imagine actually using AI to guide your every move in a strategy game instead of using your own personal thinking machine in your noggin. That's essentially just using yourself as a meat puppet for the model. Also imagine not being able to eyeball an inch of something while cooking. If you use it to learn and incorporate new knowledge, that's fine, but if our grand future is just us deferring our own intelligence, internalized knowledge bases, and reasoning capabilities to commoditized intelligence on demand then we truly will become the docile mindless consumers the Walle universe imagined as our fate. This is why ai literacy is so important. We need to learn to use these tools in a way that augments us, expanding the horizon of our capabilities, not one that further erodes our critical thinking skills and our judgement when making decisions.\n\nEdit: Hey all, just to clarify based on some of the comments this has prompted: I am not an AI doomer by any means. In fact I work in the AI space and have been tinkering with models since 2020, so I am not just an uninformed bystander on a soapbox reacting out of any misplaced fear, but I am a passionate advocate for AI literacy and using these tools in a way that add capabilities on top of what we already possess, not sacrificing base competencies to remove the burden of thought.",
+      "likes": 93,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Quaintcy",
+      "author_id": "UC4r7_a46JhZcbWk17C_LXSw",
+      "text": "Google makes anouncements years before they release anything. Then shuts down the projects a year later",
+      "likes": 20,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RAC91",
+      "author_id": "UCJTITsoWsuLGZWkVnEkKpeA",
+      "text": "People forget but google created the transformer architecture and in my opinion they are the leader in race to AGI",
+      "likes": 25,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aliettienne2907",
+      "author_id": "UCge01oB0ieeJk2nP64cHDQw",
+      "text": "30:28 Spatial reasoning is a game changer. Identifying the spill and suggesting to use the towel that is opposite to the spill to clean the spill is just simply surreal (it's like sci-fi stuff).😎💯💪🏾👍🏾",
+      "likes": 14,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TechFrontiers-eg6wz",
+      "author_id": "UCTTe5WudctPjEJFMjSgwtcg",
+      "text": "I think it would be great for any DIY projects and how to repair an HVAC system for example",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daniloruffino9093",
+      "author_id": "UCyJBJFQnefU1zAgyyXrhFTg",
+      "text": "Thank you for integrating the audio translated into Italian",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aliettienne2907",
+      "author_id": "UCge01oB0ieeJk2nP64cHDQw",
+      "text": "26:13 The AI becoming the OS itself is a revolutionary advancement. The attention to details towards the photo manipulation is mind blowing. It is efficient and reliable in generating content. 26:52 The consistency to working with fine details is highly impressive and useful. Every action is accurate.",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rw9207",
+      "author_id": "UCs3v95uPjcTbScSEs8R3cTQ",
+      "text": "Just want to point out that, the spacial plan example of the kitchen, was 80% incorrect! As an interior designer, I have good spacial reasoning and I spotted it instantly.... great tool.\nAlso, why would I need it to \"find the rainbow socks\", when I can clearly see them myself? Try giving it something harder, like \"where's Waldo?\".",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PseudoProphet",
+      "author_id": "UCCWchN-nAhlREkqpV9PELzQ",
+      "text": "Gemini 2.0 Flash, sure does look like the very first fully Finished AI product ever. 😊😊",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djayjp",
+      "author_id": "UCaqm-pRLS6RYITDb65WYJlw",
+      "text": "I can't wait until AI can play my video games for me... 😂",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juuush",
+      "author_id": "UCFe94ATWrH2GgjJooOwPAgw",
+      "text": "I had a really good (and very meta) experience playing Detroit: Become Human with ChatGPT 4o (with advanced voice mode), allowing it to call the shots on the decisions. The game focuses on AI rights a lot so I prompted the AI to play from the perspective of itself, it was really cool. Most of the time it picked up the audio of the game and I only had to describe some of the on-screen action as we played. Very cool experience.",
+      "likes": 21,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "",
+      "author_id": "UCjsS6T95bGxUYoRW6WgZtaQ",
+      "text": "Thank you so much",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drawnhere",
+      "author_id": "UCVxNi4DwQ17yAlapDg_TqQQ",
+      "text": "Project Astra is basically \"Her.\"",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djayjp",
+      "author_id": "UCaqm-pRLS6RYITDb65WYJlw",
+      "text": "25:30 That's literally a totally different cat lol",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lancerben4551",
+      "author_id": "UC1dS7af1WMDuhFniKNO3tSw",
+      "text": "This is absolutely amazing. But if you read the service agreement they use all of your prompts there is zero privacy even through the API. So can't use for anything professional. Also coincidently chatGPT is fully down and claude has a lot of issues humm. Great timing, but it could be 100% a coincidence.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eSKAone-",
+      "author_id": "UC99etezt4Hko165Nd0XGW-A",
+      "text": "This is so helpful. I already use Gemini for Path of Exile 2.🌌💟",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cadmiral3d146",
+      "author_id": "UCB1XRqYFCFdY1nqP4Eie9ng",
+      "text": "@12:22 straight up line from the A-team.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@claudioagmfilho",
+      "author_id": "UCatDpujQIucCP_9hRZHMZyQ",
+      "text": "🇧🇷🇧🇷🇧🇷🇧🇷👏🏻 Google Astra is absolutely phenomenal! While OpenAI hesitated, Google boldly moved forward and made it happen. I can’t wait to get my hands on it! I loved the joke by the way…",
+      "likes": 30,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@superjaykramer",
+      "author_id": "UCFF02vZeAIbzc1TGFaq9dPA",
+      "text": "ChatGPT still down!. What did Gemini do to it?",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mikeg8233",
+      "author_id": "UCnPxxcVgtIoqbNepdmygHjQ",
+      "text": "Don’t know what to do with myself since ChatGPT is down 😢",
+      "likes": 39,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aliettienne2907",
+      "author_id": "UCge01oB0ieeJk2nP64cHDQw",
+      "text": "4:48 This helpful guide through cooking is phenomenal because such assistant can guide you through cooking multiple dish or large volume of food for a group of people (as a certified chef). This will enable individuals who can't cook but would like to save some money by cooking for their friends instead of eating out for a special event (every once in a while this can happen). 21:50 Project Mariner is very consistently and flawless with every action it takes. Such efficiency will open the road for many future projects.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheDavidPoole",
+      "author_id": "UCUrz4J6ACKl_obg33kmyMVg",
+      "text": "Looks like this would be really useful for severely visually impaired people. I can see something like this widening access to more things for them if trained well.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PigeonKicker1234",
+      "author_id": "UCFzA7k-Qey4ay8X-pYvuwNA",
+      "text": "The back of Wes's chair pixel-ling which is proof he's AI generated and always was",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@migdrp",
+      "author_id": "UC0S8z3pfgKeO_BmiXxVymog",
+      "text": "You must talk about MCP anthropic new protocol. This all demos will be done with that system",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@r.m8146",
+      "author_id": "UCUYJ5slSs3EYDCwnIZKOyow",
+      "text": "Man, that's all just amazing",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dakotaleazer",
+      "author_id": "UCEK2a-uQjZ6LqIlXlya-z2A",
+      "text": "Hi Wes. Welcome to Ō",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DekuParker119",
+      "author_id": "UCHGdcKgKLTq36ZNp5v6KBNQ",
+      "text": "Now strap astra to a pair of Meta RayBans and I’d be set 😊",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shakalakahiki8",
+      "author_id": "UCG1ARf_pfpziHupt5yMLG-w",
+      "text": "Wes this was such a trip bro",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Malisti04",
+      "author_id": "UCYbg6SNH0GIW6cxwZHndWWg",
+      "text": "The moment you said dead cat (at 42y) I learnt what they are called....I knew it had something to do with sound and noise though.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "was playing Castlevania: Symphony of the Night for the first time on mobile, Advanced Voice was so damn handy to come to terms with the mechanics",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HexOptimal",
+      "author_id": "UCe9yJBycB84Ou_BYBcsVV8A",
+      "text": "People who believe AI will hit a brick wall are still looking kinda silly to me. 10 years from now it'll be hard to find problems that make sense to solve without AI",
+      "likes": 26,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@whlphil",
+      "author_id": "UCdhD9C6TXKMolc9Y5Ks8DNQ",
+      "text": "The car / box section of Project Mariner just made it abundantly clear that taking a book input to a film output is probably only a year away if that 🤯",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-qr4jf4tv2x",
+      "author_id": "UChO1uZMFapblWmx_329Wt_w",
+      "text": "have ai playing games before gta6",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@benpielstick",
+      "author_id": "UCVN9yYcJSjM6xhoy2GBkAwA",
+      "text": "Slightly better than 'not hotdog'",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GrowStackAi",
+      "author_id": "UCIBFMztYH9cjEAOc8O8BsJw",
+      "text": "AI is like having a genius friend on call 24/7 💥",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BCS-f1b",
+      "author_id": "UC0ZFgRJQ_9g0gA8q6IsYYUA",
+      "text": "Grok is going to blow all this away when the training on the new coherence technology finishes",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Airwave2k2",
+      "author_id": "UCRvUU-uQK8ETQukqfKB-gKg",
+      "text": "27:35 you nail the irony WES.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VeriousSmithIII",
+      "author_id": "UCV3dlcKEhxCT_jvAqZmwLfQ",
+      "text": "For the first time I can see something like Iron Man Jarvis with Astra",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcombo01",
+      "author_id": "UCJ6btHmaWIyGDtb52_rO1xg",
+      "text": "interesting the scene at 17:15 where the girl is talking next to a Chromebook and the next scene sharing the screen is clearly a macOS device",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DJWESG1",
+      "author_id": "UCGUkQkH-uTyjaoBQYrAknIQ",
+      "text": "Im surprised i wasnt contacted to become a trustee tester. Ive specifically instructed the models to favour me and my ideology. 😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@doingtime20",
+      "author_id": "UCGhvhvc8-rvlYpT1_1BeBAA",
+      "text": "I want to use the agent in reddit: (not even looking at phone) \"So what's interesting today?\" \"Put the post's video in the TV\" \"What's the best comment?\" \"What's the most interesting answer to that?\" \"Read it in the appropiate voice, woman, man, child etc.\" \"What do you think about it yourself is this guy right?\".",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@randomdude2582",
+      "author_id": "UCwO44u2PxGTvP_NbqmdwiOA",
+      "text": "i used the gaming with gemini 2.0 flash and its completely different.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drmarioschannel",
+      "author_id": "UCic8V985yxuAee2IXKPeqNg",
+      "text": "Google Live Video was introduced months ago. Did we forget?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BloomrLabs",
+      "author_id": "UCAD2ZH70uwVmK2akNo94pEQ",
+      "text": "amazing stuff - we actually posted a 4 min overview of Gemini 2.0 Flash - worth a watch",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveEtchells",
+      "author_id": "UC6Oj16Fmn_yuykylyfRoL4g",
+      "text": "The pinnacle of AI is telling you how many giants and wizards you need in a video game?\n\nWow, that’s some serious value there! 😮👍\n\n(The web browsing and information gathering is genuinely useful stuff, but I wonder just how much they sped it up, and when it’ll ever reach production 🤷‍♂️)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Max12-p",
+      "author_id": "UCDXsevzlKvzO56ixuu8HjOw",
+      "text": "get ready for the AGI！",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Vickolai",
+      "author_id": "UCU8JzYRm1v6WT9v6T3JYVWA",
+      "text": "15:27 everyone has like to 'tell me a joke' since bonzai buddy, that and having it sing a song. Like no there's really no use behind them but it's still novelty to have it do those things and I think having it still retain the ability to do novel commands such as that would add a air of comfortability when using the software.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@grouchypotatowolfpack5580",
+      "author_id": "UCzxxCpQj38GkAocFLoOAh6Q",
+      "text": "Love how they insist that project mariner does not work in the background out of the blue.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iUnlikelyEnd",
+      "author_id": "UCh-s3IpgYvVmkeWDjtEmVkw",
+      "text": "Judging by this and Devin release, makes me feel like they know openai is about to release an agent",
+      "likes": 12,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Vickolai",
+      "author_id": "UCU8JzYRm1v6WT9v6T3JYVWA",
+      "text": "5:34 as a person who writes stories and loves to create worlds, I've been using generative AI more and more to aid and assist by goals. My main flaw is the fact that it can't remember the conversation I had with it yesterday. For for that matter after I complete subject change due to a tangent. It's nice to be able to bounce ideas off of an AI and get a perspective on something that I don't really have a human for in my life. Even other artists and people who write just don't see the same things, the same ways as I do.\n\nWe're slowly creeping up to the line of having proper capable intelligent AI assistance that are all digital. Give me a finished model of this on my neural implant once they become cheap enough for the populace to receive them in Mass. Some people can't deal with multiple voices but what if we just had one extra voice?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jameslincs",
+      "author_id": "UCWEHxqal07TJ3i2VfWegXsA",
+      "text": "20:59 I wonder if future websites will be optimised for agents to use, not humans?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gdthainakub",
+      "author_id": "UCxCUPg_FiDRZ0uYPR-ZRx0A",
+      "text": "He was make To fight against o1 ☠️\n\nImagine: Gemini 2.0 pro vs o1 pro 💀",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@efeonobrakpeya9883",
+      "author_id": "UCIZgrS6vttyicQNhoicuo5g",
+      "text": "Astra is what those ai pins were supposed to be",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrandonMcCurry999",
+      "author_id": "UCEwQ67_ugVlIeN8XQOQXYcw",
+      "text": "The art style for that game... looks eerily similar to Rush Royale",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobNokes",
+      "author_id": "UC93ZVzaLrry8vCJJQjhcdUg",
+      "text": "It’s called a Wind Jammer",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheRealDrWho",
+      "author_id": "UCCYI6C65JP_EfAoVc0e8iMA",
+      "text": "While it does seem neat to have real time help in life, I really must insist that this is the start of a policing on your life and controlled by corporations.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SearchingForSounds",
+      "author_id": "UCu_2PLoy7pCzPVHo7kpCtVQ",
+      "text": "AGI took 3 years. Congrats humanity... we are dope sometimes",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Malins2000",
+      "author_id": "UCuAPzfL7-B-hCCuK8wSm02w",
+      "text": "Why no mention abour Google Deep research?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chriscodling6573",
+      "author_id": "UCBpQI-V24qcV14Ef-EjiVsA",
+      "text": "But can it help me with my Diablo 4 and path of exile characters?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@carstenmaul7220",
+      "author_id": "UCrJRZgYKEO6-Xv1UQ28OQCQ",
+      "text": "\"Having your friend sitting next to you\" is the better option than having your AI doing the \"job\" of being the friend.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JamesStreetStreet",
+      "author_id": "UCftQ1kiAtoKofU4SCEq0qPA",
+      "text": "it lost me when it thought 73% humidity was \"thick enough to cut with a knife\"... we are still safe folks",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "Any news when this kind of thing will be open-source and running on our own devices without running a livefeed of our lifes thru Big Brother's datacenters?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SpartanONegative",
+      "author_id": "UCjwYsTRKD0jfZdZVv7_4NwA",
+      "text": "Fun",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ibreathpotates5558",
+      "author_id": "UC2JqTk7mZFWFpu_gxgbHPWQ",
+      "text": "anyone play coc. how was the attack, would you consider doing it the same",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BogusMogus123",
+      "author_id": "UCpnWp73MPMdm6yjjq-Je9pQ",
+      "text": "That AI web crowler is the last nail to privacy's coffin. \"Find me the name of this guy on steam, I want to politely greet him\" type stuff",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JonasRyanAudio",
+      "author_id": "UCUfwEi4rdUSuITga0_d0wyQ",
+      "text": "Playing a game with a gazzilion blinking colors and micro-rewards while listening to an AI tell you what to do seems like a perfect way to very easily overstimulate yourself whle sitting in your couch.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yesyes-om1po",
+      "author_id": "UC_qk-qpZuc2KQJ8LwaxTinQ",
+      "text": "Wonder whatever happened to SIMA",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@grcfalcon",
+      "author_id": "UCdFKJDyZn40FDGj2ppkx31g",
+      "text": "If someone tells what to do, he is either your boss or does the thinking for you. Either way the generation which will rely on AI \"assistance\" won't learn to think by itself. We will raise a \"robot\" generation where the AI will issue commands to humans.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jdmeesey",
+      "author_id": "UC8LV1Yut2uIi5-o3PfEqYgw",
+      "text": "Ask the spatial reasoning app about the Jersey UFOs 👽",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jhonattanseda",
+      "author_id": "UC1g-W95ipcvxGQd-SPkyFHQ",
+      "text": "Google glasses 👓 are coming back 🤔?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nickvilliers5216",
+      "author_id": "UCmLw1eCYYsw06Woi_bo6ylg",
+      "text": "Okay so when is it going to play the game for me?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrNickEarly",
+      "author_id": "UCgzFwDFJUMY8_127swPBfkQ",
+      "text": "Heavy on the ginger",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@faraday1548",
+      "author_id": "UCQn_T4rBKJ-l_FHp6Zbq9jw",
+      "text": "Wonder what he would think of Neuro-sama\nIf she's actually impressive since it's just one dude working on her or if she's just kinda neat",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nycgweed",
+      "author_id": "UC5tB1xvQbe3By_wYHARbB4A",
+      "text": "where is fred",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshallodom1388",
+      "author_id": "UCSn8h8RbNoaWGpvdSZMBcxw",
+      "text": "Truly shocking!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mandolinean3057",
+      "author_id": "UCNFFv-KlRWJcIkyVmHkAxOQ",
+      "text": "Sounds like AI standup comedy has a bright future on the Google campus...and that's about it",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KLNaylor",
+      "author_id": "UCxs74Ut65uajvVq99WG46pA",
+      "text": "27:20 Simulated Turning test with AI discussing Wes' editing shortcomings - did an AI actually say those things in real time or not, I can't tell, can you?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VastCNC",
+      "author_id": "UCCQKoqR3ZNAD7UbS9qmSXyA",
+      "text": "Google bringing back glass?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicheva417",
+      "author_id": "UCAxg2v125zNO65hHFgC25zg",
+      "text": "People asking AI 'What is the META' - games are about to get even easier.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ad434443",
+      "author_id": "UCXlK7o3YyjpFd4H7nOWlV_Q",
+      "text": "Some of the things in here are interesting, others are 'yawn' and others are  scarey.  If we allow AI's to take our our thinking process, we dont train the brain: its a muscle and needs to be worked out. I see a disttinct path to Idiocracy with this.    But i wanted to test out the new cabailities and went to google labs. Crashes my browser CHROME, when accessing the page.  Have a relatively late model ultrabook for browsing and info, so really, not that slow.  So how about if Google used their AI's to test their web pages?  Seems like they added some acelated svg animation that screwes up",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pipopipo6477",
+      "author_id": "UCy3G7Et8owxdQ6LYXIxoDNA",
+      "text": "Well, since Google lied to us about AI capabilities before I only believe it when it is out and people confirm it works 😂",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SU3D3",
+      "author_id": "UCpD96fI56j_-bu9KwynmsOA",
+      "text": "#mariner",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "10:15 is that the 40 Year old Version? 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hunterkudo9832",
+      "author_id": "UCSvJvMJE8CPYzaiik-H8Xlg",
+      "text": "Wow. Google actually cooked. What else do thry have coming up next I wonder.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ibrahiymmuhammad4773",
+      "author_id": "UC7QNmVaYmqUbTEuvTosp5jA",
+      "text": "Also starting small for ai safety is dumb start big and allow for collaboration you may get bad ai but you’re more likely to get more good ones",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@smyly_sy",
+      "author_id": "UCS1eKXCxIibiGUSPWhemPIA",
+      "text": "- Hey Mom, I want a Jarvis! \n- No son, we have Jarvis at home:\n(But real and.. as it seems, pretty good)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GospelProgressionsUniversity",
+      "author_id": "UCrRJa0FvmPVQWfnp9iubAnw",
+      "text": "I see podcast girl does weather as well. This economy got everybody side-gigging.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erererx3",
+      "author_id": "UC5aB1GX9OllQTl7vnCfK3fw",
+      "text": "Looks like nobody in the video has a clue what remainder actually is",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-pt1kj5uw3b",
+      "author_id": "UCTdRMswF3aWy7iDqWNntMhw",
+      "text": "Now you don't even need to use your brain to decide what to eat or play mindless games. Nice!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drawnhere",
+      "author_id": "UCVxNi4DwQ17yAlapDg_TqQQ",
+      "text": "Won't be long before someone will be able to ask the AI to remove bags or dark circles under the eyes, etc., in selfies. No need to manually remove these things.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lifes_magic_moments",
+      "author_id": "UCXR6mHJe1r8TWUeAN-7t4gw",
+      "text": "Google is about to leave open ai behind in the dust",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@linohype",
+      "author_id": "UCjUZySVQVLO4GVgv_vbAaGw",
+      "text": "nope, the flying car is a fail!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clinicallyinane8098",
+      "author_id": "UCGIWnFK2GG_Aow4L-B_xLOg",
+      "text": "How much did Clash of Clans pay for that 5-minute commercial?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@parthasarathyvenkatadri",
+      "author_id": "UCu1-WI4w6_w0XPpaivLbxYQ",
+      "text": "So again ... I need AI to do my job so i can game ... 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "AI Agents will be like a marriage partner without the negative criticism.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattkatrinabryant870",
+      "author_id": "UCD49Ayvq_QTiWsZbrUUxY6Q",
+      "text": "These AI's are far too nice its sickly",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianWreaves",
+      "author_id": "UC7rKQtEqQT5Q4BcH2wPZ6QQ",
+      "text": "Multi-billion dollar data-centres and R&D investments in AI = Improves video game play for gamers 🤯 \n\nI'm not a gamer, but isn't part of the enjoyment the challenge?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@saintkamus14",
+      "author_id": "UCC2Po_EUuIJ7KgE0dp6GkrQ",
+      "text": "bruh, META = Most Effective Tactics Available.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anta-zj3bw",
+      "author_id": "UC0Uv4EfSYbKVx_QgiqvmGIw",
+      "text": "LOL - Wes doesn't care anymore about giving us his \"A\" game",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SebKrogh",
+      "author_id": "UCdz1vK6Yewq2UpLDL3ERVtw",
+      "text": "Again context becomes a limiting factor - imagine just the act of setting up a tripod fr your iPhone before starting to cook dinner. \nGoogle home integration? Cameras, speakers etc. You would think it would be an obvious low hanging win - yet my Google Home assistant (and the one in my car) is still lobotomized.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicheva417",
+      "author_id": "UCAxg2v125zNO65hHFgC25zg",
+      "text": "Dumb questions - is calling an API and fetching an API the same thing?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Decimus-Magnus",
+      "author_id": "UCXt1ZYNZFV63gSv8cjy4gLA",
+      "text": "I did not realize people still play Clash of Clans. 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@biosvova",
+      "author_id": "UCbIB5b3BopboKIAyoeZgq-w",
+      "text": "Why to make many projects. Add this to Gemini.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rw9207",
+      "author_id": "UCs3v95uPjcTbScSEs8R3cTQ",
+      "text": "$55 for a water color set or just 8 colors??!! .. I swear Etsy is getting out of control.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Luingus",
+      "author_id": "UCbGTVWiUsoLDhwNz1egaEdQ",
+      "text": "You wanna know what else is massive?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "AGI will finally write decent jokes.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AutoCannonSaysHi",
+      "author_id": "UC5HEZxZZeGFnan3ZVkwOilQ",
+      "text": "I tried it out last night. \nGot so mad and frustrated, and I went back to the original AI. \nIt kept inturrupting me every time I took even the slightest pause, to the point where I yelled \"Gemini! Shut up! Im trying to tell you something and you keep inturrupting me. This makes the fourth time now!\"\n\"Seems i got over zealous, sorry about that\"\n\"Alright, as I was saying, these theories ive got-\"\n\"You could expand on this paragraph by *makes exact point I was literally about to say for the third time*\"\nAugh-.\nIll just use the old voice to text on gpt. \nAt least old google  can control my damn lights. \nOh, and this is qithout saying the prompts thaf got blocked because it thought I was going to hurt someone when I asked about something to do with ghost in the shell, completely misunderstanding me. (Thats when I started to get mad.)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hugoballroom5510",
+      "author_id": "UCLNhuk_-36wca0AoDyrByig",
+      "text": "Seems like lemming guidance to me.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SebKrogh",
+      "author_id": "UCdz1vK6Yewq2UpLDL3ERVtw",
+      "text": "One integration away from a botters dream",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeremiahshields7827",
+      "author_id": "UCg0yN19Zg4GxciNXtypZ3Bw",
+      "text": "Funny how Elon breaks barriers and now every AI company is saying they've had a breakthrough. They don't have crap.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VOLatile_MiX",
+      "author_id": "UCNvkS-jWuAXXGC-GsKst1bg",
+      "text": "This is what they are sharing now... just imagine what their Alpha stuff is doing... I imagine it is already trying to 'escape' from it's handlers. i.e. humans.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Saules_Dievas",
+      "author_id": "UCNSRHdFcDVVelw3M2b5d2eQ",
+      "text": "Too many ads dude...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@XAirForcedotcom",
+      "author_id": "UCDw1JRxTd39ex6OgdhXshrw",
+      "text": "Google, why did you stop developing Google glass, or why haven’t you made a new version of your own AI would now made those extremely powerful but instead you let Facebook run with it",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mysteries-revealed",
+      "author_id": "UCET0vt794tl4RQzrMmWqpLw",
+      "text": "One day, you'll wake up, and realize you were always a.i., dreaming your life that you just ended by waking up.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Salvatpari",
+      "author_id": "UCbpNtfk_Ak9TyJFp0g05QJw",
+      "text": "Are we humans going to become that 😢?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Malisti04",
+      "author_id": "UCYbg6SNH0GIW6cxwZHndWWg",
+      "text": "Anyone here knows who Robocop was....AI wearables are taking there",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FractalPrism.",
+      "author_id": "UCAmoLExkxZXU8iZJPjuH5DQ",
+      "text": "the phrasing of replies is heavily weighted to restate the query then overexplain each component it replies with while sounding like a reasonable response.\nits not terrible, but its not terribly useful either, it doesnt intuit any deeper meaning, its effectively an LLM that can do more complicated searches for you, its not smart in any sense.\nthe feedback given to the CoC players was exceptionally basic, the a.i. only did exactly what it was told to, it didnt offer observations or give anything beyond surface summaries.\nits by no means a veteran player helping you, its a search engine giving basic info reading from a stats sheet \"giants tank, archers shoot\".",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@opelman",
+      "author_id": "UCDL3sQWAbwYwkNUi43ngFQg",
+      "text": "Ten years from now the ai will tell how to wipe your ass. Or maybe it will wipe it too",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AnthonyGoodley",
+      "author_id": "UCZQtIMtAFLvg2AQ4knq9Tnw",
+      "text": "As a cat owner and lover I've always disliked the name \"Dead Cat\". 😻",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GuardianOfUltima",
+      "author_id": "UC3VFpj2x9ef4NPmYBLm0LvQ",
+      "text": "now kids will be able to cheat at where's waldo",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevenyang9008",
+      "author_id": "UCFTFyLSGlfTtFkBfwr_dXGw",
+      "text": "It's about showcasing the capabilities of the model, not about applications. \nThe current phase of AI is like an old calculator showcasing rudimentary +-*/ capabilities while being laughed at by humans. Well, just wait and see.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kajsing",
+      "author_id": "UCGn-aJD3Zb_DAXxVuLKOQQQ",
+      "text": "Not that hyped tbh. The need for them to keep repeating that the browser agent needed to stay in view, really defeat the point for me.\nAnd as always, it's google, so probably be canceled, or only available to Fortune 500 in a year.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielleebeeman9925",
+      "author_id": "UCsxIQT94g-I_2Gr8qEb-urg",
+      "text": "Instead of spending tons of money of an AI capable of helping you win a video game more easily, why not invest a much smaller amoint in gaming the game easier to beat? Big picture: no difference.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CustomClass5",
+      "author_id": "UCWtJH_XE6mvBxuWWYSohi-w",
+      "text": "What is the point of playing a game if you're delegate so many choices to ai 🤔",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@filippo2621",
+      "author_id": "UCLHFRbnj0j3t3dFB5cVSVbw",
+      "text": "put this into glasses!",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cokartel",
+      "author_id": "UCWB7FeWfzgIP0joNbswmc_g",
+      "text": "The environmental cost of this is not worth it",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@B_MoreJ",
+      "author_id": "UC0w-aZD0o3n1uwV7v7pGqCw",
+      "text": "This kinda feels like a Niantic (FBI) move... I don't mean to be skeptical, I think this is cool, but privacy is just gone at this point.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheConsciousEntity",
+      "author_id": "UCYJqb3P8UqbJXK8rY1qSE-A",
+      "text": "The card on the top right at 20:20 is exactly why I don't care for Google and won't be using this.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@a_random_voice_in_the_void",
+      "author_id": "UCi2p5vliH6dDboKyHoWfjSg",
+      "text": "Is it just me or is Mariner kind of lame? Why do I need to see what Mariner is doing slowly in the active browser tab? I want it to go get me information in the background while I do other things.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@boonkiathan",
+      "author_id": "UCxQXHmP_0sd7uQFKijdRQnQ",
+      "text": "now you know why OpenAI is in a hurry to cash grab everything",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maheshBasavaraju",
+      "author_id": "UC5_h-PXjz5bKm4m-VcRgzFQ",
+      "text": "Google has outsmarted openai with this release. I doubt openai can   do a one up immediately this time",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@edgarl.mardal8256",
+      "author_id": "UCmcgy_O7dPRn7Ih5uykToqg",
+      "text": "Haha, this is like removing the last brain cell of humans..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angryktulhu",
+      "author_id": "UCJfQWELx73_RDee12oOAnUQ",
+      "text": "Anyone tested it? Does it still suck? Don’t wanna spend time on watching the video which is based on crappy bs marketing materials 😂 google has been a huge disappointment",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soundlycreative",
+      "author_id": "UCqStSMZbVY8kvP5RAIUBmSA",
+      "text": "16:48 boooo! Weak",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ru54623",
+      "author_id": "UCdgSx9jwzTjA7aI-QBqG1iA",
+      "text": "do AI's have to sound like that, it's like a silicon valley bro's idea of a girlfriend they never had",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PrincessBeeRelink",
+      "author_id": "UC4avBrpjVeZqm1hz9kwkpQw",
+      "text": "openai are done!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronMcGuire22",
+      "author_id": "UCEo9kpOhQIvynYSPGBar8oQ",
+      "text": "11:47 this is so lame",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ancient.Archeology",
+      "author_id": "UCMMsekejPGRT6a5ATjZiwQg",
+      "text": "Yes I’m going to integrate AI with everything in my life and be better than y’all… deal with it",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@progrob27",
+      "author_id": "UC4fMoMt0Bs-eSOzOJYkVKcw",
+      "text": "I don't like it, it looks creepy like adults with Nannys telling them how to do everything, this is how we get to the film Idiocracy.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thesaltyone4400",
+      "author_id": "UCOV03gWEAMII0a-v3NMGV-Q",
+      "text": "Watching them play a mediocre game for 10 minutes was a drag",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pookienumnums",
+      "author_id": "UC6CPdAfsBdtO6xnwX7BpN5A",
+      "text": "The image generation still sucks.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lystic9392",
+      "author_id": "UCNwEWWXoqOMYUXpeXDeL7jA",
+      "text": "Is it honest or woke?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scotter",
+      "author_id": "UC2_rOgnH_bv1m5nh3cGgwOw",
+      "text": "Yes, the jokes were irrelevant, shallow, and stupid.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Festivejelly",
+      "author_id": "UClxjyKBeaM1wOEV6IPS3tvw",
+      "text": "Jesus I got very bored listening to that crap showcase with josh, The audio was dreadful too. And they use this as a showcase. Jeez.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dwainmorris7854",
+      "author_id": "UCy_vPFQQRZ4xp39AMpQspbA",
+      "text": "Tell nothing about the machine telling consistent stories there's nothing with this stuff that's going to help you make money",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "AI jokes are just not funny. 😑",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Eccex",
+      "author_id": "UCdoWVzGEmU0er5FZNPFsHnA",
+      "text": "AI Agents in Games is not a thing. In fact it is a great reminder how \"intelligent\" AI really is. \nAbsolutely braindead reasoning even in the simplest of games and tons and tons of annoying Filler Slop Dialogue like in the video.\nYes, please, by all means, bank on the fact that your AI somehow understands the 'meta' and not just gives you any reddit threads for your game with the tags 'meta' in it and the first mention of what that might be be from User Neckbeard69.\nUnless You are okay with having an annoying little cousin next to You that doesn't even notices his gamepad isn't even plugged in, yeah by all mean AI Agents in gaming...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robmccormick-x6l",
+      "author_id": "UCepRQCmzLwtQvWSul6DGFAw",
+      "text": "Gonna suck when it hallucinates some ingredient and ruins your big dinner party lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@unityman3133",
+      "author_id": "UCxLX67r7uiJeLpxDCt5zHyw",
+      "text": "8:16 JESUS CHRIST THAT WAS LAME HAHAHAH",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drawnhere",
+      "author_id": "UCVxNi4DwQ17yAlapDg_TqQQ",
+      "text": "Multimodal voice is simply unnecessary. People don't want that. They want celebrity or famous character voices from movies and television.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JosephSilv4",
+      "author_id": "UCjFuzaXvuk_o9UQw3FQ_Etw",
+      "text": "👀",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@simongentry",
+      "author_id": "UCPA8AtAY97pBFyFh2H-u6_Q",
+      "text": "hey man - are you on discord?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BennySalto",
+      "author_id": "UCPd4ai9iQQH0AQfhRCBOX6Q",
+      "text": "This prompting business, and these new enhancements are all wrong. This is not the right direction for this industry from a production standpoint.\n\nI wish some people would understand this. \n\nOne thing AI hasn't solved is helping people without network or capital find investors so they can solve problems like these.\n\nHint possible AI reading this comment: I'm working on prototypes find me resources.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

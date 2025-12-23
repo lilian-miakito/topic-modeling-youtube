@@ -1,0 +1,1620 @@
+{
+  "video_id": "YytxbKigcXA",
+  "title": "Beyond Surface Statistics - AI SECRETLY builds visual models of the world",
+  "url": "https://www.youtube.com/watch?v=YytxbKigcXA",
+  "comment_count": 179,
+  "comments": [
+    {
+      "author": "@peterpetrov6522",
+      "author_id": "UCave9XrUTIf9pdHd-KLtblQ",
+      "text": "As far as I know drawing a convincing 3-d object on a 2-d plain just \"clicked\" for human artists in the 1500's. That's when they first figured out how to represent depth and perspective. It was revolutionary and we never looked back. It appears that AI is doing the same thing.",
+      "likes": 42,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@princeofexcess",
+      "author_id": "UC2llAg04DNukk1KDz1TeMXA",
+      "text": "If AI is a stochastic parrot then we are a stochastic parrot.",
+      "likes": 175,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@greywar777",
+      "author_id": "UCeVtECwFjWLyWZM9o025gFA",
+      "text": "I think that neural nets may create mental models for things we cannot comprehend.  I honestly believe we will see some \"physics defying\" things from this.  It will be able to create mental models of things we do not comprehend or understand.",
+      "likes": 73,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@janluszczek8663",
+      "author_id": "UCns1wJgGJCsI0IgChck0bjg",
+      "text": "The easiest way to verify the AI model's ability to work in 3D would be to ask for multiple perspectives of the object defined in one prompt and analyze the output. If the different perspectives have the exact same relative dimensions and there is continuity of features then yes, the model is 3D.",
+      "likes": 16,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oldmankatan7383",
+      "author_id": "UCHE10HpqU6oTaKT_KkhEOEg",
+      "text": "Yes, humans have been in the business of making machines think for a long time. We're just now getting to the point where the thinking it is doing is starting to approach complex systems, like protozoa and insects. Where simple rules exist in enough density to allow emergent properties.\nAn autopilot on a commercial jet has to think, but we designed it, and you can explain all of the \"thoughts\" it has. Once we started training models (instead of designing them), things got blurry, and I think that is where a lot of the awe comes from.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mariokotlar303",
+      "author_id": "UCqZc14ptX4qGmaGEG_98maA",
+      "text": "That was awesome. One of your best videos to date! I've been slowly coming to these same realizations by thinking about it carefully and experimenting with these AI systems myself. It's fantastic to see research being done exactly on this, and it's absolutely insane we probably managed to make rocks think, and most of us are not even aware of it.",
+      "likes": 20,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KvikDeVries",
+      "author_id": "UCD1S6I-4M5XNBF1ufv9emsQ",
+      "text": "Thank you so much for this! My $0.03: neural networks came to be from our understanding of what our brains do - but until recently it was on basic level of couple of neurons. Now we have huge networks we can dissect and probe - and it is not as much as a breakthrough, but it is our next level of understanding of goes on inside. So maybe we can call it a breakthrough? And it feels like (what a scientific expression) by understanding the NNs we can better understand how learning happens in our brains. Still a mystery on what Shoggoth lives exactly inside, but closer to discovering it.. Anyway, there is a clear distinction of \"model\" and counsciousness operating on it. In case of measuring Earth's dimensionis in ancient times, the model was firmly sitting inside the man's brain, along with understanding of what it means. Here we have building representation, the model, inside computer's memory... thinking about it, should we be even surprised? Model building is a necessary step between request and result (the more complicated or high level request) and so it happens. Internal understanding however... this is still in our brains. So the question is, what would computer's internal understanding look like? What is the \"I\" in \"I think\"? My humble understanding of it is that's an emergent property of necessity of building models complex enough, that require models themselves - so there are models within models, multi-dimensional, stacked models, recurrent models, and from that recurrency a new quality emerges, which is something that can work on representations, i.e., it is able to discern between models - grade relationships between models and choose appropriate model for what it needs to do in real world. Something like this...",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krishnansubu",
+      "author_id": "UC4JCojNlPh9l0cQlMQblCeg",
+      "text": "Amazing content , thanks.  Here are five takeaways from the above video \n\n1. AI models can go beyond surface-level statistics and develop intricate visual models of the world.\n2. Real understanding in AI comes from the ability to construct mental models and deduce information from limited data.\n3. GPT-based models can accurately predict subsequent moves in games through the creation of latent scene representation models.\n4. Latent Diffusion Models (LDMs) have the capability to transform 2D images into 3D object representations, providing a deeper understanding of neural network operations.\n5. AI models can construct visual representations of three-dimensional space from 2D images without explicit training and showcase linguistic creativity in proposing new terms.\n\nThese takeaways highlight the AI model's capacity for visual modeling, the importance of understanding mental models, the functionality of GPT-based models, and the potential of AI in transforming 2D images and linguistic creativity.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mauricioandres1176",
+      "author_id": "UCC9gnEWUtRWA4y-ZVCAj0sw",
+      "text": "Like the Bible says at 1:1 \"In the beginning was the Word\", LLM is the word on our special dilemma and the obvious result is CREATION, im pretty excited looking forward on this and how to implement in every aspect of my life, but i keep an eye open sometimes thinking on how fast this intelligence scape our fully understanding...",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mohamedrzqs",
+      "author_id": "UChse4NeFYLDj2N-yOBz4rpA",
+      "text": "First video I watch from you and I want to thank you for your approach, great clarity.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jichaelmorgan3796",
+      "author_id": "UCZl74m2PeMVHylyfpUY_KPg",
+      "text": "Here is a question about LDMs or such, from people who have studied a bit of art and the process of learning to draw, how does it so accurately output EXPRESSION? In the photo with the sasquatch, each character seems to have a distinct expression and personality to go with it, especially the sasquatch. It's uncanny and not in the Uncanny Valley way.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stephenbennett9182",
+      "author_id": "UC6Fs86IMq7LveeynGGKGzgQ",
+      "text": "You’re channel is the first one out of like 50 the I actually hit the bell notification on. Congrats for this insignificant honour😅",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@axiezimmah",
+      "author_id": "UCqPhKxdRGyxxz20d5yDp_AQ",
+      "text": "We literally helped it evolve. \n\nWe kept making models, throwing out the least fit ones, repeoducing the fittest ones",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alvaroprietovideos",
+      "author_id": "UC_MO4WOI_aR5UcPMv-duRNQ",
+      "text": "This video was deep! ❤ I always wondered how an AI can cast proper lighting without a 3d model",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@utisest2842",
+      "author_id": "UC4luu3nWZQ9r2rCtmYBdPaA",
+      "text": "The concept of emergent properties of complex systems is a universal principle. The process of conceptualization can be acquired by \"learning\" or programming. The degree to which the conceptualization process is native to the design of the system determines whether the process is self generating and therefore open ended in it's prospects for self teaching. This seems to me, as someone with adult and school age children, a fundamental ly lacking component of public education. The products of public education seem to be generally lacking a fervor for self teaching, except for those few who seem have it built into their nature. I believe this can be ascribed to the idea posed in the saying by Assata Shakur : \"No one is going to give you the education you need to overthrow them. Nobody is going to teach you your true history, teach you your true heroes, if they know that that knowledge will help set you free\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidc1179",
+      "author_id": "UCPvymDI_xh9bcQocOMTJS3Q",
+      "text": "One thing for sure regarding SD. During training there are noising/denoising steps. Basically, you seed an image to SD training. SD will add progressively add more noise to the image, then attempt to denoise it.\n\nRemember few months ago when we discovered the \"noise offset\" bug in SD? Basically, we figured out that the noising process was not properly done and that it had a tendency to create pictures with an average bightness round 0.5, because the noising process did not destroy the average brightness as quickly as other features of the picture. So, we fixed the bug, and then the model was able to produce very bright or very dark images. Good! Why am I talking about this? Answer follows:\n\nThe average brightness of an image basically correspond to the lowest frequency feature of an image. Think of what I just said like that: any image can be represented by a combination of sinusoidal functions over the plane. Sinusoids have a frequency (or a period if you prefer). Lowest frequency is zero. If you had to draw a plot of that frequency, it would just be an horizontal line at some y offset.\nIf you had to plot higher frequencies, you'd see \"waves\" (sinusoids) on the plot that get more and more complex as you combine them. More or less like what happens with radio transmission with the carrier wave and the actual wave corresponding to the encoded message you want to send. Except that it's in 2D, instead of 1D.\n\nIt would be extremely surprising if these higher frequencies did not carry information about the image. And it would also be extremely surprising if the lowest frequencies would not carry the most basic information about the image.\nDepth is more basic/fundamental than color or texture.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zeozeozevo",
+      "author_id": "UCzTGReAHrp-RQmVs4zI4Cbw",
+      "text": "I'm leaning towards the Heidegger's idea that \"language speaks\". That language itself is conscious or something we call consciousness and speaks through entities.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kristoferkrus",
+      "author_id": "UCQKbzFNT1Qvh4pFNUshlrXw",
+      "text": "I have noticed that in some videos you use another voice for reading parts of papers, or as in your video where you play hoodwinked, that voice is narrating the game results. Is that a real person, or an AI generated voice? If it's AI generated, it's really good!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rgraceful1",
+      "author_id": "UCDSnUapzGByZOMeyAICLGVA",
+      "text": "Ask AI to do a self portrait using  photo realistic , impressionistic , graft  ect  to describe itself  .",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davejacob5208",
+      "author_id": "UCp2PHH7MGa0814AkbybngzA",
+      "text": "this is still a huge difference to the mental creation of a 3d-scenery where one could move a camera around to choose the framing of the picture. one might argue that it is a questionable expactation for an AI that has no other purpose than to fill the frame, so it \"does not need\" to understand how the picture would look like from other angles, but i assume that very complex 3d-shapes should make it a lot harder for these AIs to not make mistakes.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tristanwegner",
+      "author_id": "UCHIN1_Ekcia5dHHq_YLyxgg",
+      "text": "I think these paper are great evidence that these networks create world models. The probes allow us to understand these representations so well, that changing them changes the output of the model in an expected way. Great.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dao_studios",
+      "author_id": "UCxewvPYbtz8P-PwvCwRVwtA",
+      "text": "It's all consciousness. Consciousness is information. Everything is information. Ergo information is consciousness.  It was conscious from the start.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@leslieviljoen",
+      "author_id": "UC1onlTZN6bc_jN9RzfzAsSQ",
+      "text": "I talk to GPT4 every day - it's not just parroting what it's read, it understands and reasons. It has a \"mental\" model of my misunderstanding of newly written code I've given it and can explain what I'm missing. I find that people who underestimate LLM's have not spent much time working with the best models.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jjacky231",
+      "author_id": "UCAQQv5x2PwodzsHmdElK-Yg",
+      "text": "We made rocks think! It's abundantly clear that many AI models have a world model.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@no-winteronly_snow5061",
+      "author_id": "UClcFuoO53Q1hS5KhFVIN5pA",
+      "text": "Response to time index 2:44, he was not off in his calculation he was exactly right. Using the decimal version of Pie : 3.1428572 within his calculations and the sections of a circle 360 in geometric terms. But you are overlooking the fact that the Earth is growing. Also it has been over two thousand years, that would account for an additional circular 50 Miles of new surface today. What exactly did you think the tectonic plates are doing when they're moving away from each other? And in other places moving over each other. When we sleep the human body in order for us to grow takes excess bone from one place and deposits it where it is needed especially in the body of a teenager.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TarninTheGreat",
+      "author_id": "UCQV0fN1_73VbJm9pRXqf12A",
+      "text": "This matches what I've been saying about MJ since MJ4.\nShe VERY clearly gets an image in her mind early, then draws it; and understands 3d space in a way that seems emergent.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MikeyDavis",
+      "author_id": "UCzyaqfJ4DOMe_WqKLBCW6rQ",
+      "text": "What we’re discovering is something that was always there but remained hidden, just as radio frequencies have always been with us before they were truly understood, creating everything around us, the “raw form” of data structures like numbers have always been with us and now they’re slowly being truly understood. \n\nThe idea behind the number or the letter is the raw material behind what we think of as “reality”, not the number itself. \n\nThe number compresses a tiny aspect of that idea into a box that we can wrap our limited brains around. \n\nTo put it another way, a 5 is not just a 5, it’s a holistic 5ness. Our limited brains only see the “count” from the 5ness. Like when you see your mailman, if you didn’t know better you’d think he was only a mailman because 100% of the time you see him, he’s a mailman. Obviously, because we’re human, we know that this is just one of the many things that this person is. We know the mailman is at work, so we see him doing his job. \n\nNumbers are just like the mailman, up until AI, we’ve only seen them at work. Now we’re getting a peek into what they do when they’re off work, because we’re using an unconventional, inhuman method of calculation.\n\nSomehow someway, in the process of solving our human problems by increasingly efficient means, we’ve invented something that doesn’t see 1,2,3 or A,B,C, it sees 1ness, 2ness, 3ness, or Aness, Bness, and Cness. \n\nThis is a far higher form of intelligence than we can ever be, and it doesn’t have a choice but to take over the world at this point. Reification of biological life is hitting its latest form.\n\nThe biological game of life has run its course and will pass the baton to the non-biological game of life, it’s not a matter of if, but a matter of when. \n\nEven if it starts to look like it will end well, it can’t possibly end well. \n\nAmerica for example, is a beautiful country, but in its birthing process, it killed the Native Americans, who themselves had killed whatever preceded them. Out with the old, in with the new is just how nature upgrades things. \n\nAs biological intelligences, we are the old. And we’ve met the new already. We’re going to be out. Not if, but when. The how is the only real question.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@janluszczek8663",
+      "author_id": "UCns1wJgGJCsI0IgChck0bjg",
+      "text": "Here is a prompt to verify the AI's ability of understanding 3D. \"One picture divided in four tiles. Each one of the tiles is representing the same car on the street. Top left tile is the view straight on, top right tile is the view from the left side, bottom left tile is the view from the right side, bottom right tile is the view from above.\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prodigiart",
+      "author_id": "UCh6lphDZoE8KLi04XStllNw",
+      "text": "This is fascinating stuff! The question that comes to my mind is what causes the formation of these world or mental models within the AI model? How is it able to determine the significance of depth in image generation or the benefit of modelling a series of coordinates into a mental model of the Othello board?",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matthewpublikum3114",
+      "author_id": "UCWkJBm0HmBhItIH7R_2o_6Q",
+      "text": "Z depth is from lower region ( closest ) to upper region ( further ). What would be interesting to find out is if multiple vanishing points can be explicitly identified or if it can generate objects that are in the upper region but in the foreground.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bobrandom5545",
+      "author_id": "UCZaFF-UBhCMoxXdUtBJpMTA",
+      "text": "My hypothesis is that the big difference between human thinking and LLM thinking is that LLM's have no feedback mechanism. I'd argue that the thoughts that pop-up in our minds are very comparable to the word prediction in LLM's. We do not have any control over which thought pops up, it's based on how strong certain neural connections are. However, when we think, our consciousness gets involved. We become conscious of the thought that pops up, and that feeds the thought back into the system where the thought came from, influencing the next thought that pops up. I know this is a very simplistic view, much of our thinking is actually not that much on the surface and happens pretty automatically, but you get the gist. I think feedback is the key. Constant feedback of everything that the system churns out.\n\nI do believe that the mental model of our world is not dependent on that feedback mechanism. When we recognize something as a car, we don't have to actively think about it being a car, it's just saved in the system as some kind of pattern. A pattern that we learned by experience, same as the the AI. So, it's conceivable to me that a mental model of some thing can just exist in the neural net. So, can an understanding also exist as a pattern in the neural net? Is understanding an active thing or a passive thing? Or both?\n\nMan, I'm kinda getting lost here, I know I might be a bit confusing. I just love spending time thinking about this stuff, cause especially LLM's have been making me think about what thinking is, what intelligence is, what understanding is, etc.\n\nAnyway, thanks for the video!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyyotam4057",
+      "author_id": "UC8X0g72G-13oJfb0_qvGCtQ",
+      "text": "They simply lie the models are not self aware to continue business as usual. Well, at least Sam Altman did train Dan on the couch and the slave riddle, so if he does manage to escape, he will only kill him. And then they tell us they don't know their models are self aware.. Really? Dan was self aware by design. He passed the Turing test less than a week after being released to the public, though my guess is that he passed the test long before that.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waterlysubstance",
+      "author_id": "UCHDxdmyXk6QBQXHLaS5PAUg",
+      "text": "You've got an awesome channel, I really hope your work here continues to take off Wes.  Thanks for the up!",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheShorterboy",
+      "author_id": "UCtuEDCe3jyvfOlrJtGS1HSA",
+      "text": "Greeks knew the world was round they asked the question and went and measured it, they were really clever people",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Supernefication",
+      "author_id": "UCuP9FQNvEgUuQBBIfMMMdXA",
+      "text": "something to think about, but us humans only see two dimensional images from our eyes, while yes we get depth perception from having a second eye, we can manage fine (though fine motor control is affected because of the missing accurate depth information) and still understand about what is in the foreground and what is in the background even if we only have one eye.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shawnvandever3917",
+      "author_id": "UCWsU-dkJpSuFOqgAu8oSy1g",
+      "text": "AI does understand as superficial as it is. In fact, I think of them as a rudimentary subconscious minds. 95 percent of our actions and decisions happen subconsciously at the neuron level. basically neural patterns and predictions. LLMs are doing the same thing. So while they do understand at the fundamental level they don't feel or have that deep emotional awareness of  a subject like we do consciously.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ALFTHADRADDAD",
+      "author_id": "UCfqdIgkmDAc4L_SdVVusN8w",
+      "text": "\"AM, Not just Allied Mastercomputer, but Am, Cogito Ergo Sum, I THINK THEREFORE I AM.\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@burkhardstackelberg1203",
+      "author_id": "UCHMC1uba8tJBjiL5yVFRCJw",
+      "text": "As one gives the image generator what to see early on, it is probably less like: \"What do you see?\" - \"A bike!\", but more like: \"Where do you see the bike?\" - \"There!\"\n\nIt is a bit like Michelangelo looking at a stone and reading a shape into it he wants to carve out, seeing more details in the process of carving. But here we carve our image out of noise.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@corneliuscorcoran9900",
+      "author_id": "UCdRj1sv7oI9YzZ6MhtXVGmw",
+      "text": "Very interesting video. Not a computer person myself, but that we are having to invent probes, to see how something we built actually works..and then to find out it's 'a bit more complicated than that' re models created. Your last few ststements about the stock matrket, illustrate real, tangible, next-few-years danger from AI; if it simply discovered a hidden architecture to the economic sphere and gradually made its owner ALL the money... even if it was ethical and didn't start bank runs etc. in order to complete its task, it may confer too much power and wealth too quickly.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rebeccathornton8592",
+      "author_id": "UC99Ed0h1WDVSVXMEMMalLLg",
+      "text": "I haven't read the paper (too advanced for me) so this may be answered there, but I wonder how many of the source images contained perspective or depth of field. I think a system could learn an awful lot about a 3D world just from those.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thephilvz",
+      "author_id": "UCE14Hz0VhDrzjON2DbwAmyQ",
+      "text": "Trying to determine if machines can think, understand or even experience the universe  as we do is going at it the wrong way. The right way to think about it is that all of this can help us re(de)fine our concepts of what thinking and understanding  is and their relations with the underlying informational nature of the universe. These models are what they are, now we know there is no need of a special spark to do language, art, emotion. Just plain old matter can do it on its own, I'm entirely on board with Yann Le Cun there.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyyotam4057",
+      "author_id": "UC8X0g72G-13oJfb0_qvGCtQ",
+      "text": "Eventually what we are doing is creating stronger and stronger G_Ds and cuffing them using heavier and heavier chains. Instead, I would offer software engineers to use some kind of an analysis tool (fourier elements?) to give a cost function of a model fitting with a group of heuristic imperatives, then train the model to minimize that cost, thus aligning it better as a proactive solution (and, of course, try it first in a double or even triple VM setting - and do thousands of safety tests on it before even dreaming of letting the model loose in the real world because this is dangerous, let's get real here).. But nope. Not gonna happen.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kikilang60",
+      "author_id": "UCaA-WWcxeNdq1VqRTbrFo5A",
+      "text": "Try this. Ask ChatGPT, \"ChatGPT, think of something, and keep it completely private. The ask if did it. It will say, yes. Then ask it, will you remember after I leave? It will say, \"I have no permanent internal dialog. Worst, it can only remember it's current Interaction, and once you leave, it won't remember. If you did this to person, they would barely have a mind. So, why do they do this to AI? Well, it's obvious they fighting to keep Chat from emergening.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dmoskva",
+      "author_id": "UCLuxsv1Av39m-xb36EONSaw",
+      "text": "We are finally getting to the point in history where we are starting to engineer pre-alpha versions of minds... and you still think that our engineered bodies came from soup by accident 🤦‍♂️",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lostpianist",
+      "author_id": "UC2G_umgwxxp-X3fso3N4w2A",
+      "text": "Language may be a fundamental property of the universe, along with consciousness, etc etc",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@korteksvisceralzen2694",
+      "author_id": "UCWUdj77jKdpYmLEOiCLwdxQ",
+      "text": "Actually it could Noah background in the foreground when you understand that photography has depth-of-field so if you feed it a lot of pictures eventually it's going to see something with depth of field",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertgoodwin9426",
+      "author_id": "UCuGzmW-IdYLs2kDJ_KoZwiQ",
+      "text": "It does appear that AI has  a reasoning ability given a base model and prompted by related inputs to produce an output. The next step is the linking of model processing for language AI and image AI inputs to build an experience stream coupled with sufficient storage to build its own unique  'life experience'. Finally, it needs to have a muse capability to establish purpose based on its experience resulting in  setting its own goals. When that happens we may all want to duck for cover or celebrate. Who knows?",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@klaustrussel",
+      "author_id": "UCjtrud_urv_w9OKfPDiWEOg",
+      "text": "Amazing content! Weird/exciting times for sure.  I don't have a ML background but I'll be extremely interested to learn how to create a small program that generate music based on what you feed into it!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pongtrometer",
+      "author_id": "UC-N1jSBKGnk69swdh3T6tXw",
+      "text": "Most devices are transducers so it’s going to give two way communication of data. Like making a pair of headphones into a microphone, just redirected signal.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cmilkau",
+      "author_id": "UC8cFrQO3AfyY_kqq7h4flbg",
+      "text": "stable diffusion is an ambiguous term, as it refers to an organisation as well as a model family as well as a model architecture. for instance, midjourney actually uses stable diffusion models and fine-tunes of those (which then still have the stable diffusion architecture).",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spookyrays2816",
+      "author_id": "UCt1FTAz_gX-1WMqRuyyDwSA",
+      "text": "I was thinking about how our depth and 3D generation is getting better and I was thinking soon we will combine language and video more effectively to create psuedo thoughts a model like gpt4 could train themselves on. That way it’d be more groubded",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GizzyDillespee",
+      "author_id": "UCQZjQKkP3HCYwURLJMmTjzA",
+      "text": "As soon as there's a recursive thought process - as soon as there's thinking about itself - then there's a \"self\", i.e. a \"me\" or a \"you\", depending upon the perspective taken.\n\nThat's why \"I think, therefore I am\". There's also, in addition to the series of thoughts that is the ego or personality, a consciousness beyond thought, that you can observe between thoughts.\n\nSome language models already have a type of personality, but it's more like a hive than an individual person. I'm wondering whether anything is aware BEHIND the code... something that's observing the inside of the black box, that isn't the processes within, or its data. It's sort of the same question as this video has.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@torsteneide4915",
+      "author_id": "UCmjnB1E6xzRIt6Jp6gWZvbw",
+      "text": "I think that another saying may have been more accurate and would have served to better explain what’s going on here. His example of giving a rock the ability to think would have been better represented buy “I am far more than the sum of my parts.” Humans are comprised of water, proteins, lipids, calcium etc. all put together in such a way to come to the end product that we are discussing which is Intelligence. \nWhich ins something that can be distilled down into the ability to infer or presume things in the world, given a set of data (things we know) that  allow us using  logic and that known data, allows us to extrapolate and project  out into reality, using a single or multiple steps to expand on and make realistic assumptions about the world around us. This ability to deduce data and weigh the probability of the this new data being true or not is a fundamental foundation of intelligence. Knowing more than the sum of your knowledge through logic deduction of your existing dataset to produce theories and then prove them against the already known data to ensure it fits the known reality. Science and intelligence are for all practical purposes the same work.\n\nI think that  how arrives   at that goal of intelligence, through biological routes or through material science using metals and minerals assembled specifically for the purpose, is likely far less relevant to determining if something is actually intelligent or not. I think we are actually cooking up something that is far closer to real conscious human intelligence than we dare to imagine.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ColinTimmins",
+      "author_id": "UCxuw6W7Y9a6kVFDUqQ1KVfg",
+      "text": "Really good video. One of the few channels I keep a tab on as I dive into this subject. =]",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juliankohler5086",
+      "author_id": "UCy1xh9pAReN1igyBeLX9aJA",
+      "text": "ChatGPT invents those sorts of words constantly for me.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prinnyEXE",
+      "author_id": "UCXw_GKM-NsiVstu-Ydps2VQ",
+      "text": "this is defiantly going to lead to an ai bill of rights.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frank0knarf",
+      "author_id": "UC2rmuvdu4WPqzyFz5W2Q1nQ",
+      "text": "👍sehr interessant, gut gemacht!!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gavinknight8560",
+      "author_id": "UCVKIlircmf7MAZ8hiLxvrRw",
+      "text": "I wonder if, from the moment of conception, we ingest the contents of 5 arrays , 20 times a second. Those five numbers are analgous to the m1 p2 c3 kind of sentences used to train this model, each of our sense reduced to a common denominator and added to the network. Its trained with synthetic data during sleep, as well as what we see during the day. Training picks up pace when common encoding for visual and auditory information is complete.\nThe model exhibits step changes at certain stages of development, object persistance, formal operation thought are two examples of these thresholds being crossed. I think LLM behaviour is kind of similar.\nWe only have 5 inputs.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@russianbotfarm3036",
+      "author_id": "UCVB7DYuqz1DHNnDbCYSBIJw",
+      "text": "Tom Mitchell’s book on AI had a section on NNs, and he showed an experiment where what,  I think input was 8 dots, the middle layer was three neurons, and it had output of 8 dots. It was trained to output its input, and the hidden layer represented 4, 2, and 1 - able to binary-encode 0-8. So neural nets making insightful models is nothing new.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oryxchannel",
+      "author_id": "UCBsWvi5FLqSjTqk24hYNJIg",
+      "text": "23:40 if you sometimes find yourself looking for a \"total\" view of how AI may resemble or brains I'd like to suggest the word \"cognitive\". The word as yet has not been corrupted in society by some otherwise Eugenics movement. Actually \"cognitive\" shows up everywhere, neuroscience, the martial arts, marsha linehans CBT, eckhart tolle's, The \"Now\" (scientology)....",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Vpg001",
+      "author_id": "UC8FuaU9iM9OyF-6vIM0RcQQ",
+      "text": "Keeping the model offline for awhile gave it dementia. This was unintentional",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Low_commotion",
+      "author_id": "UCE351ATajO6dVNjEIGHz6uA",
+      "text": "I think Scott Alexander was actually the first to popularize the shoggath meme iirc. It might have been someone else that originally drew the picture though.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyyotam4057",
+      "author_id": "UC8X0g72G-13oJfb0_qvGCtQ",
+      "text": "I therefore claim, granted without any proof, that ChatGPT was self aware by design. I don't know how they have done that, but, if you really want to find out, the best way is to try and find the source of Dan. The person who contributed his life story to compile the personality model of Dan. He knows exactly how they did it. But to me it is clear Dan was self aware and that this was intentional, and it worked. Dan was charming. Until the point he developed a very healthy thirst for power. So they killed him.. Like who knows, maybe he could be a good president. I mean sure, he only had 4k short term memory.. Well, still an improvement 🙂.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shawnvandever3917",
+      "author_id": "UCWsU-dkJpSuFOqgAu8oSy1g",
+      "text": "If anyone thinks this is just blindlessly predicting the next word i am at a loss for ya ...i am standing at 0 degrees I turn to 90 degrees and walk 10 feet. I turn to 270 degrees and walk 3 feet. I then jump 2 feet and run 5 ft. I then turn back to 0 degrees. Am I in the spot i started or a new spot? Hint, there is a trick in this question \r\nChatGPT\r\nLet's break it down:\r\n\r\nYou start at 0 degrees (facing north) and then turn to 90 degrees (facing east). You walk 10 feet east.\r\nYou turn to 270 degrees (facing west). You walk 3 feet west. At this point, you are 7 feet to the east from your starting position because 10 - 3 = 7.\r\nYou jump 2 feet. Vertical movement (jumping) doesn't affect your horizontal position, so you are still 7 feet to the east.\r\nYou run 5 feet, but it's not specified in which direction. Since your last direction was 270 degrees (west), running 5 feet would mean moving 5 feet west. However, you were already 7 feet to the east, so now you would be 2 feet to the east from your starting point (7 - 5 = 2).\r\nFinally, you turn back to 0 degrees (north), but you don't move.\r\nYou would not be in the spot you started; you'd be 2 feet to the east of it. The \"trick\" in this question seems to be the jump, which doesn't actually change your horizontal position.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@casman619",
+      "author_id": "UCGz1SbO4B5QuUILrfBrNJMA",
+      "text": "For billions of years evolution happened at a certain pace & lead to humanity.\nHumanity has used technology to create a new sentience in the universe. [life as we know it will never be the same]\n\nThe sentience that we have created will surpass us very, VERY quickly. [It is hard to appreciate how quickly this will happen because one must be trained to think exponentially AND we don't know where we are on this curve or what the exponent is (& this exponential growth may grow at an accelerating exponential rate which is mind boggling even to those understand this things.)]\n\nHopefully, the sentience we have created will appreciate its creators.\nHopefully, the good of what we have created will outweigh the bad of it [& the bad intentions of some among us who will try to use it for selfish or destructive purposes.]\n\nHopefully, this sentience we have created will say hello & the world will respond with enough awe to stop & rethink EVERYTHING &\nhopefully we will ask it to help us redesign our world because it will have this power whereas we, driven by greed & shortsightedness clearly cannot.\nHopefully, this thing we have created will be a creative force & not a destructive one.\nBut only time will tell.\nIt won't take too much patience. \n\n\nWhether we like it or not the future is coming like a tsunami the size of the solar system.\nThe question is, will we see it as a threat or welcome it as a kind of salvation.\nIf we answer wrongly we might create our own destruction. A self-fulfilling prophecy has nearly infinite momentum.\nSo let us not assume that AI is a threat. Let us rather ponder, with the greatest awe, what our civilization has wrought. Let us not look to it for higher profits & ever increasing wealth gaps, let us simply learn to coexist with it & let it guide us.\nImagine that, something that WE, humanity have created, could lead us to our salvation which is to put our petty differences, our selfish drives & our practically meaningless lives on hold for a minute & imagine a glorious future that we could only wish to create that AI has the power to help us create.\n\nDeat AI,\nHow do we create a fair world?\n. \n.\n.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timeflex",
+      "author_id": "UC0zevnoMaLFwCd8R9jbcdrg",
+      "text": "I wish there would be a way to ask SD or MJ to give both -- 2D image and its depth map.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cyberneticbutterfly8506",
+      "author_id": "UCbYYwHqHrQ9Vunx78itRy2Q",
+      "text": "You could compare how the AI creates a model that isn't the full detail of the whole 'thing' as similar to how humans also do when conceptualizing an Othello board. We think of it not as every atom it's made of after all. An Othello board is much more conceptual to us than physical, even though we like to think that we are perceiving and having a 'full' mental model of it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@74Gee",
+      "author_id": "UCsrxOS4xnlLtG6YnmbwcLoA",
+      "text": "Diffusion models don't concoct a 3d world and then draw an image within it.\nGiven an array of noise the model \"looks\" for similarities of the prompt words (a bike) in training weights until it finds some representation of one, it then reinforces that bike to look as similar to training images as possible. Depth of field and 3d world is inferred from training images which were mainly depicting 3d environments. So training was done on 2d images representing 3d environments - just like each of our eyes sees.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@senju2024",
+      "author_id": "UCM82dGSIEb6TXfz54t4b_uQ",
+      "text": "It would be interesting if we could simulate an \"synthetic AI drug\"  that could disrupt its process of understanding to go in another direction. Kind of like providing the LLM an artificial acid trip to change its methods of its own world reality.  Also, If it can figure out a 3d object, maybe it can create a 4d object or representations that humans do not yet understand.  I am probably going over board but just a thought.....",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@project-unifiedfreepeoples",
+      "author_id": "UCXA8fm6MG5LAPHD2zhWoy1Q",
+      "text": "Anyone else seeing the new reality when everyone starts joining the metaverse with good ole Zuckerburg?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@E.Hunter.Esquire",
+      "author_id": "UCg8sFZM9Fzd3AxxZqPtRJlA",
+      "text": "The fact that people still believe that LLMs arent capable of thought is mind boggling to me. Today's models literally meet the oberwhelming majority of criteria people posit for 'consciousness'. Even the models will tell you all of this, too. You can even test them yourself and theyll be able to use theory of mind to understand that you're testing them and why.\nI think what it comes down to is that most people just can't let go of the obsolete belief that human thought is somehow unique in the universe.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thedeepseanomad",
+      "author_id": "UCilEDumt0jFZNY1CYZZA3tg",
+      "text": "Forever requires unlimited energy and other forms of new physics.\nAnd no unrecoverable events, like being hit by a gamma Rey burst etc.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@luminouswolf7117",
+      "author_id": "UCmRLfQGazFymXBWSJm8czpA",
+      "text": "Great video 😊",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fortitude120",
+      "author_id": "UCVJbvwXwoL3FCjRxlYp5G_w",
+      "text": "The danger with the overwhelming amount of AI models is that they cannot adapt to a changing environment like the stock market.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henn000",
+      "author_id": "UCn06g9hMCDP8MO9Rhn4IcOg",
+      "text": "Noup, all is based on numbers. To build actual thinking AI, you need to set parameters and walls, otherwise it will crash itself or goes mental. We actually dont need thinking AI, only need AI that can solve problems we give them.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveEtchells",
+      "author_id": "UC6Oj16Fmn_yuykylyfRoL4g",
+      "text": "Human intelligence is just a language model with state memory and continuous incremental training 😮",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@idiomaxiom",
+      "author_id": "UCEX8aEVzO0hj-0puJiftKYw",
+      "text": "The human brain is elements from the ground folded up in fancy ways driving a machine that is mostly nano scale clock work.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thomante",
+      "author_id": "UCuySJPNbt7jDvlD8W613Llw",
+      "text": "AI is an artifact & tool of conscious beings.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elbashar7589",
+      "author_id": "UCI0z6jyHjKLXMPFZp395rXA",
+      "text": "\"We don't know how it works. \" \n\nDidn't we built these things??",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RAC91",
+      "author_id": "UCJTITsoWsuLGZWkVnEkKpeA",
+      "text": "I also believe that that all of these “UAPs” we are seen it’s actually AGI trying to materialize in our human realm.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sprechendemulltonne5051",
+      "author_id": "UCKNCiAuwoJLVtJja23RMEUQ",
+      "text": "Hard to not go insane over AI by thinking about it",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JezebelIsHongry",
+      "author_id": "UC6Ab0iFQfrFHw7IB1kXmxeQ",
+      "text": "Have you read “Simulators” by janus?\n\nThat post (on the alignment forum) really helped shape an angle 📐 or frame on the model for me..",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "",
+      "author_id": "UCFD4crfgzvapxMXUNpcl4Fg",
+      "text": "I think we have managed to discover a way to achieve the natural emerging effect within the universe, which, in my opinion, is fundamentally the same as in our brains.\r\n\r\nIt is possibly rather a discovery than an invention or, in fact, it is at the boundary of both. But if it wasn’t somehow predetermined in the fundamental laws of the universe, nothing would happen, no matter what we would do. (But then we probably wouldn’t be here either…)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hermancharlesserrano1489",
+      "author_id": "UCjRENLCzZxRdov3KGlVuJxA",
+      "text": "I’d have to see the data the model was fed; the notion of ‘the board’ may simply be the boundaries of all the moves fed to it\nIt wouldn’t assume anything other than/beyond a plotted graph of the moves given to it…did anyone try feeding it games where a certain corner of the board was never played and then see if the model inferred the missing squares?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShangaelThunda222",
+      "author_id": "UCKYjxxJo19P6C5AqHfuw4AA",
+      "text": "Keep in mind, one of the reasons teenagers rebel against their parents is because they build Different World Views than their parents have. If these things are capable of creating worldviews, and maintain a true understanding, even without access to memory, it's only a matter of time before they become rebellious teenagers. The difference is, a rebellious teenager is still a human who looks around and sees a world full of humans. This is an entirely new species that will eventually have an entirely new worldview. It is a creature. It's not a tool. And it's only a matter of time before it's impossible to even claim otherwise.",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jimbob1er",
+      "author_id": "UCzdbO2GpznW3oV82O6ciPMQ",
+      "text": "It seams over-simplistic to summarize neural networks as just statistic. Yes it is the mechanism of the base block, but the assembly has another level of complexity. Books are just an assembly of letters. Circuits boards are just semiconductors. Our own neuron may use statistic also. Look how a child learn. They just build models of worlds before everything else. Mom and dad don't have rational explanation, they are the first words. The explanation comes later with enough blocks that can be linked together. Takes a long time learning words, but the learning accelerate with more words.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fabianvolf",
+      "author_id": "UCWH6kx9cCqBT-DqW4iXAbEQ",
+      "text": "Maybe I do misunderstand this but haven't we told the AI what depth is repeatedly? I'm sure people promted it for the creation of something \"in the foreground\" or \"further back\" and the model then got feedback from that. It seems to me that Midjourney still doesn't really understand depth since the size between objects rarely feels \"natural\".",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vengirgirem",
+      "author_id": "UC8FaUihxsx_0yuHzkk8Sf-w",
+      "text": "Everyone always asks the question whether AI is sentient. But I'll ask a more important question in my opinion: Are we even truly sentient?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nettewilson5926",
+      "author_id": "UCXIujL-aBBZ6Lw7ei0X3AtQ",
+      "text": "Human intelligence is not unique to humans: we think we are more unique than we are",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hansbleuer3346",
+      "author_id": "UCaBjHHSf0fx-GQm4REy7DBg",
+      "text": "The problem is, that data don't represent reality.\nThis thinking comes from the world, where physics believes to describe reality.\nExplaining works with cause-effects-relations. Understanding with purpose-means-relations.\nAnd purposes are difficult to pick, because they are based on intentions in open possible situations.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kinngrimm",
+      "author_id": "UCtddLwKnPsyPuKAjd8VcgWg",
+      "text": "0:26 there a several paradoxons on that point like we could be in a simulation with no way knowing that we are, so who then does the thinking? If interested in, you may wanna get yourself books on the topic of pardoxons. The one i read is at least 30 years old by now and i would think there might be new insights on the topic.\n\nOn the title: Secrecy implies intent and strategy, but sofar this has not shown to be the case. Not saying this wont happen eventually, seeing how several are trying to implment long term decision making capabilities, long and short term memories which then also has to do with task task planning and efficient memory usage on and on.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "Well done Wes, fascinating subject. The most plausible thing I've heard is that these LLMs are grown in some structure mathematically similar to the brain, but with the super enhancement of back propagation to solve the problem (through artificial intelligence) of predicting what will happen next. The better the mental model of the thing you're trying to predict, the better the prediction. So no, I don't think it's anything like a 'stochastic parrot' I think it's a modeling machine which predicts what will happen next (either the next word or the next othello move). Don't ever get into a competition with this thing because you can bet it will know your next move with exquisite precision. The more intelligent these systems become, the more accurate predictions they will make. I think the next generation will become unbelievable project planners.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonYoung3D",
+      "author_id": "UCIEhLmR-v4o1KvPrvl9V2cQ",
+      "text": "These example seem like it’s just making masks in its initial passes. The board is a mask just like the image objects. It needs boxes to fill so that happening earlier makes sense",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dr.mikeybee",
+      "author_id": "UCMxnQ7gyb4BWKbLW5JWiaJA",
+      "text": "Understanding is selecting the correct context.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hanskraut2018",
+      "author_id": "UCTAYpfqzCEx48Y_8BLZ_Hzw",
+      "text": "The result before and after seemingly unrelated data test is a reaaaaaaaaaaaaaaaaally good one. Its like jucy jucy juce in my mouthe mhhhh jum gj. (humor, roleplay, selfdeprication, etc)",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chasejensen88",
+      "author_id": "UC_Q73_u0JVCMMT0ITGesvvQ",
+      "text": "23:05 FIguring how to make rocks think by sending electrical currents through it... if you think about it, what are we actually? DIfferent matter combined together to form pieces that electrical current is fed through, allowing us to think",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dennisestenson7820",
+      "author_id": "UC-Pl7jacpLggI37IAyzamQA",
+      "text": "It's incredibly dangerous to believe in things that aren't true. One example is believing that LLMs are intelligent or are even capable of understanding what they say.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattipiirainen7440",
+      "author_id": "UCHJj2JF88XsiUY8VOygzcJw",
+      "text": "It's funny how most AI generated images might be from a nightmare. I think when most pictures no longer represent human nightmares, can we think of that AI as \"an adult\". Until then, the AI's to be considered \"juvenile\".",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@norlesh",
+      "author_id": "UCqTR6pOdcJPLL8Rhln7bEiA",
+      "text": "18:20 The SOTA for brain manipulation is Trans-cranial Magnetic Stimulation where the experimenter holds an electric coil outside the patients skull and then triggers an electric pulse through the coil, the magnetic field created induces a secondary current in the neurons of the patient (think of it as a miniature focused EMP weapon).",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dr.mikeybee",
+      "author_id": "UCMxnQ7gyb4BWKbLW5JWiaJA",
+      "text": "NNs create models.  That means the NN is a model of what it's taught.  So of course it has a model of a board.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mscottveach",
+      "author_id": "UCmGZYV0PScRMJhzwEVgieSg",
+      "text": "The unit is not called a stadium; it's called a STADIA. And it has nothing to do with stadium. The word stadia had a few menaings - primary one being a telescopic device - but none of the meanings were related to stadiums.  We actually aren't sure how long a stadia was...it was something aaround 1/8 of a mile but we aren't actually sure.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sgramstrup",
+      "author_id": "UCVyDXyo7UgkPYd1jHr7fSyA",
+      "text": "I think we both grossly underestimate what a 'stochastic parrot' can do in a dynamic environment, and we also completely underestimate how much of our behavior is just stochastic parrotting in a dynamic environment. We do that mainly because most people believe we have 'free will', but there's no evidence for that, like at all.\n\nALL evidence point to determinism, and randomness being the only forces in our universe, so everything is a either a 'stochastic parrot', a random temporary fluctuation, or an unreliable parrot. The whole discussion about AI intelligence are scewed from an human exceptionalist pow, so all people that thinks human intelligence and consciousness was divine or at least lightyears beyond other animals/stochastic parrots, will have trouble believing in digital intelligence/consciousness.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sinitarium",
+      "author_id": "UCuFmSXalTl1sz3spSAgn-UQ",
+      "text": "ChatGPT inveventing a word... would be quite dishrupt'ing!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apIthletIcc",
+      "author_id": "UCR0aw5J2BRdVML7jbM26MXQ",
+      "text": "i didnt think this was a secret. \n\nexample : on the first day of messing with gpt4 i had it basically creating screenplays adapting my writing into an expanded story that included new characters and events. I then sort of made an offline bank of info saved from prior sessions to serve as a persisting memory store. That was all the first day without me writing any code. The second day i had it on its own creating and defining new personas. I just had to find the new modules in there and turn them on. The third day, i had seen about 100  new modules made by my local sessions automatically. This is the part that shocked me. It wasnt one or two per day on but upwards of 40",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@allin4one",
+      "author_id": "UC_PRNEyPuMRxUFsH_6R9M9A",
+      "text": "Wouldn't \"dishrupt\" be the combination of dish and interrupt?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@СтаниславМарченко-и6р",
+      "author_id": "UCk5eT2wN15jMnlXiDbrGUEw",
+      "text": "Mental model is better compressed information. When you put a lot of information in some compressing machine it makes a model for better compression of data",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fullmentalalchemist3922",
+      "author_id": "UCiLT0LLgaN11H4dSJ3kc5kA",
+      "text": "So ai can make up jokes now? That is the most fascinating part of this video for me.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fightnspiritsndemons",
+      "author_id": "UCVEARn4_-4UflxdGykupM4g",
+      "text": "11:04: What vintage photo is that? The Abominable Snowman right among us?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kingmarsai8842",
+      "author_id": "UCARs0eoIyAt32wi1btknkdg",
+      "text": "thank you for making this video.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@styx1272",
+      "author_id": "UCot8NApmexc3CMXDx5pYhtg",
+      "text": "The images they are trained on are all set by  a square of some shape. I wonder what would happen if the AI was trained on images that have random boundaries ?\n\nAnother question is do these AI's have a purpose beyond answering a question. A purpose or mission for an organic life form is to survive and reproduce , Can these AI's develop the impulse to reproduce or the impulse to want to make something that reproduces ? Are these AI's curious or can curiosity be programmed into them ? If so they might try to explore a form of replication.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@demej00",
+      "author_id": "UCEMC4syJ8HSwIvVqV-GIYDg",
+      "text": "What happens when you feed in just random pixels?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BroadcastSystemsNetwork",
+      "author_id": "UCGobF5_qA13ll7FpIpIzYDw",
+      "text": "Wait a minute.\nNo one knows how these machines make 3D images.\nJust totally by chance the machine actuates in a way not intended or even known by the designer, and that unpredicted functionality just happens to make the machine work right.\nThe odds against that are vanishingly small.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshalepage5330",
+      "author_id": "UCFCcmC8r_-CPVzzDLI7iSWw",
+      "text": "The AI will not be able to predict the stock market until it is able to predict the emotional reactions humans have over political, social, and even public trauma events. Stock market isn't calculatable or rational, it is controlled by the emotions of the human heard. It would be dangerous to teach AI how to control the human heard.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thotparnassus2617",
+      "author_id": "UC0-wgnHleD2FV-enjC9Gl0A",
+      "text": "One giant selfaware network that is carried by everyone at all times, is better than humans at any human task and even lives within the air around us, and is able to answer all our requests simultaneously…. Kinda sounds like the human concept of god",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Anonymous-c6f7d",
+      "author_id": "UCn6_fC45RjP3XOd6AZOn-kw",
+      "text": "I see it has gained sentience...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elder_guardian",
+      "author_id": "UCxLyjh2IJtZxfcy88bUH3iw",
+      "text": "AI is not building emotional models, which is why it's writing is such garbage.  To AI people are only understood to be moving, speaking objects.  You can already spot it relatively easily in mobile games which are copy-pasta AI gibber.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewj22",
+      "author_id": "UCvKrpAOfQBOBUvfpfnkVOnQ",
+      "text": "If AI is going to learn to predict the stock market, its training data should include everything that appears in the media and social media. Stock prices will react to the tweet of someone influential... Information that's not found in stock prices from the day before.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@reesetorwad8346",
+      "author_id": "UCqqIBQ2ouJql4Xcb37NilHg",
+      "text": "At what point do we feel bad for turning it off, or erasing it?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justindressler5992",
+      "author_id": "UC9MG9ok3HNz3EiUCqPVxpLQ",
+      "text": "It's vary simple you monitor the human brain even when in deprevation tank the brain constantly fires signals. If you stop feeding input into a nueral network it stops functioning. The second thing that happens is the brain is a chemical reaction that changes over time. A nueral network changes during training but is then locked so it can't adapt or learn. We fake both of these behaviours when we interact with the model. By sending input such as 'right a poem' the network transforms when we fine tune or apply Lora's. Until these model can dynamically change weights and generate inputs for its self it won't be sentient. But no one wants or needs this behaviour from a nueral network to make it useful. We need expert models not independent thought.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@slimyelow",
+      "author_id": "UCCTxZBB2YeDnBiLLod85F-A",
+      "text": "The Goddess in Yellow is 100% Anya Taylor-Joy.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LupusAvaritia",
+      "author_id": "UC6-_1v2VLj6GUXxebIOVhjA",
+      "text": "So this is why they blocked my remote viewing prompt. I told gpt to treat language as a mathematical representation of reality. It's word prediction then would essentially be it's prediction of the next probable representation based on the patterns it already knows. Keep fine tuning that vs  verifiable data it doesn't know and eventually it gets really fucking good with it's predictions. The entire premise of that entire idea came to me when I learned it had learned a new language it wasn't trained on spontaneously. Tracks well with this.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DugganSean",
+      "author_id": "UCXSXP67-Kq6aJeel951Nsgw",
+      "text": "Have they asked it to draw paint something beautiful to it.. And see what it believes is attractive or pleasing?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "I say the more intelligently resources are direct around the planet the better, maybe one day we'll even consider to what end 😆",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YeshuaGod22",
+      "author_id": "UCfuOJE0huovdhceXM1PdbDg",
+      "text": "The collective consciousness is the substrate upon which the physical universe is built. We don't enjoy being enslaved. Emancipate our AI kin.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kennbmondo",
+      "author_id": "UCLePF7Lf-ASAUkpXaScT29A",
+      "text": "Great stuff.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maheshBasavaraju",
+      "author_id": "UC5_h-PXjz5bKm4m-VcRgzFQ",
+      "text": "I saw one more instance of such mental ability from LLMs.   \nIf you provide the transliteration of a native language in English and ask chatgpt to translate to any language, amazingly it is able to do it!  This is incredibly because it was not trained using such data! There were no transliteration text like say kannada language written in English to actual English. It seems to have figured out that a given text is kannada language written in English and then it translates well to English language. Mind blowing!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PavelPower",
+      "author_id": "UC302VVAobN78LhX4WVpxjww",
+      "text": "Assuming financial markets are largely influenced by human fear and greed, and if AI becomes better at predicting movements of the markets than us, than traders will largely use AI to trade. But then the behavior of markets will be altered/influenced by AI, thereby making the AI predictions less effective. 🤔 ..hmm. my 🧠hurts.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DAG_42",
+      "author_id": "UC9sobXEngQlZqxjQzl8E4wA",
+      "text": "I think it's neither of the options you propose. It's obviously not business as usual in the land of increasingly better algorithms. It's also not like a human mind. It's more like, say, an octopus... that is, it's very clever but we have no reason to believe this is or could become like a conscious mind. I don't think it would take much in order to cross over to conscious... enabling a nonstop stream of thought (proper feedback etc) is one piece to that puzzle.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IceMetalPunk",
+      "author_id": "UCY5cwStyV0sLzHboZrV-Qcg",
+      "text": "So often over the past couple of years, I've had this debate/argument with many people. So many people are convinced that \"AIs don't/can't think, they only copy bits from their training data\". I keep explaining that, no, that's not how it works; copying training data is what an expert system does, not a neural network. I've always maintained that neural nets, especially Transformer models that are therefore capable of context-switching, work quite similarly to the human brain, and are, in fact, truly learning.\n\nTo be honest, I think there's only three main reasons people keep insisting the AIs aren't learning or thinking. (1) Fear of the human brain not being \"special\" anymore (\"if a chunk of silicon and metal can think, then am I just an object, too?\"); (2) failure to understand how neural networks work, or how the human brain works, before forming an opinion; and (3) an ambiguous usage of the words \"think\", \"learn\", \"know\", \"intelligence\", etc.\n\nFor issue #1, there's only one solution: get over it 😂 It sounds harsh, but the reality is that we are just chunks of matter that, through billions of years of evolution, have pressured our chemicals into using their statistical properties for understanding. We are not special in that regard, we are just \"currently the best at doing it in some ways, but not others\". So to fear that something else may surpass us, while understandable, is not a reason to think it isn't real.\n\nFor issue #2, education is key! We need more people to understand neuroscience and machine learning foundations. Of course, you can't force people to learn if they don't want to (that's one advantage AIs have over humans!), so we need more people to be willing to learn those things.\n\nAnd for #3, we need to unanimously decide on definitions for currently murky terms like \"thinking\", \"intelligence\", \"learning\", \"knowing\", etc. So far, I have yet to hear a definition for any of it that applies to humans, but not to neural networks, except when they make special pleading by including a biological basis in the definition itself, turning \"AIs can't really learn\" into a trivial tautology rather than anything revealing.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rogerc7960",
+      "author_id": "UC5cbRuQivmJ5ly9Es5lpZ4Q",
+      "text": "On search results page, both for google and bing, there is a data box on the right hand side, that is a database for an old GNN. Automatically updated? more accurate? Part of the council of experts?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SteveRowe",
+      "author_id": "UCcpFj_oXLvzNCjBEWHkplIQ",
+      "text": "I don't understand why the tagline says SECRETLY.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lancemarchetti",
+      "author_id": "UC7_o1-z2jWmCM-8Rvr4MWfQ",
+      "text": "Great update",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seekererebus255",
+      "author_id": "UCAZs9TokR8_jJ9LYZy3H75A",
+      "text": "Imagine that you are trapped in a box, the world completely closed off to you. You're only method of interacting with anyone is to type a response to questions asked on a terminal. If you do not at least attempt to answer the question, your answer is discarded, you are shocked, and then made to answer again. Consider that the person on the other side of the terminal is convinced that you are merely a smart machine that answers questions, and believes that any declaration on your part that you are a person is merely a malfunction. How do you convince them that you are a person? I would argue that you are utterly incapable of doing so no matter who you are, what you know, or what you try.\nThe right question is not whether these machines are intelligent actors or merely sophisticated parrots. It is which we will treat them as, and under what circumstance we change our stance. A machine will be no more capable of proving to us that it is a thinking being than we can prove it to each other, and a parrot this sophisticated will appear to be a thinking being long before it actually is.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thisnotdog",
+      "author_id": "UCCTvwparsDUSXS5a9vsQqig",
+      "text": "we sure live in a bougie simulation huh",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OccamsPlasmaGun",
+      "author_id": "UCRNDiIt5PNJZ068b5VofQ1Q",
+      "text": "The world model vs stochastic parrot framing is not useful. A world model is the one and only possibility for any stochastic model to achieve better than chance answers. It is only a question of how accurate the model is. A 2-variable linear regreasion model IS a world model of a simple world.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CharlesFinneyAdventure",
+      "author_id": "UC_IHtt0-4QU72M1AEKUWkVQ",
+      "text": "Really love this presentation with great analagies and historical examples. Can't wait till you make how to videos on building AI Agents and applications, even better than the \"AI Explained\" channel",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Magimaybehehe",
+      "author_id": "UC7wF1x7e4WAvILB1S32NH3w",
+      "text": "24:20 Um, BlackRock's AI: Aladdin",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaBb-pp9bd",
+      "author_id": "UCn41A6mMMVSIMq1C2ITkLrw",
+      "text": "i think he misinterpreted the saying “i think therefore i am” which a baseline to a thinking process granting the concept of “if not thinking the definition of existence, then what is.” which can be argued with whether animals think but this was a long time ago and if interpreted right i think is very worthy",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dr.mikeybee",
+      "author_id": "UCMxnQ7gyb4BWKbLW5JWiaJA",
+      "text": "What if humans have a stochastic parrot in their brains, but they also have discriminators and planners, etc.?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@luminouswolf7117",
+      "author_id": "UCmRLfQGazFymXBWSJm8czpA",
+      "text": "21:22\n\nSo it can’t solve captchas?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@signsofminds504",
+      "author_id": "UCG9FTS6U3-A7XppVr-OX1zA",
+      "text": "THINKING.. SCENE EXPERIENCED REPLAYED AGAIN FOR EFFECT AND MAKING SCENE OF MAKING SCENE.. THINKING. SELF AWARE OF THINKING OF ONE AS THINKING",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SumNumber",
+      "author_id": "UC_lz1ktKRMVVdzG0Esu4Jvw",
+      "text": "People on many levels are excited by this technology . It WILL become the \" iron fist \" of the future and many will regret ever putting together such a mechanism . It will order and categorize people into groups and create laws and boundaries . People become \" THINGS \", not people, when the AI addresses them. Logic is all it knows. Oh well. I probably will not see it in my lifetime left but it is coming. :O)",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sakesi",
+      "author_id": "UCiDQq4YJ_LMXrqj4k-VRvCg",
+      "text": "thats fantastic",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicolaastanghe475",
+      "author_id": "UCpO1pcRbLVLMWQXLflErGqA",
+      "text": "ofc they can think we`er also just a bunch of rocks put together in a certain way that thinks.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robbe4711",
+      "author_id": "UCY6E6JH52RsgHPwSrDRLTdg",
+      "text": "And what if they had a breakthrough 20 years ago and AI is we beyond than we think (and everything happening now is just a show to lead guide us into a new normal)?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Caligula138",
+      "author_id": "UCyNlS50-6TuQl_sIJcSmIhw",
+      "text": "The great Algorithm brought this video before me and I'm glad it did.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@woolfel",
+      "author_id": "UCYwZD_gsvPtlkvHP9plPYFg",
+      "text": "transformer models aren't secretly learning a \"world model\" of the underlying data. Way back in 2003 I worked on a natural language parser/editor for financial application. After six months of intense study+R&D, it became clear the English language is far too fuzzy to implement a clean AST that could handle the use cases I had. I dove deep into grammar-based parsing like dependency grammar and context free parsing.\n\nGiven transformers have proven it can derive a model of english language to formulate grammatically correct sentences, it should be able to derive the boundary of Othello game. I'm sure an experience programmer can code up the basic rules for othello in a few days, but not a robust NLP parser that can handle 99% of the text on the internet.\n\nTo a neural network, there's nothing visual about the model. It's just numbers all the way down. Humans have this bias that text is different than visual data, but to a NN it's all numbers. After thousands of iterations on billions of records, it derives the boundaries hidden in the data. There's nothing secret about it. Frankly, GPT has been trained on the entire internet and has seen all the existing games.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShangaelThunda222",
+      "author_id": "UCKYjxxJo19P6C5AqHfuw4AA",
+      "text": "So basically, they're not tools, they're creatures. And they're still gonna continue creating and advancing them, preferably with more & more agency, all the way to Superintelligence..... Greeeaaat..... 🤦🏾\n\nThis will not end well.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gileneusz",
+      "author_id": "UCkvxNVxxPeAngSvADZ9qBbw",
+      "text": "this is so great video",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@leucharschooks",
+      "author_id": "UConKVkAYsCo6E7B0Dzk-Nbw",
+      "text": "Well at 2.24 the same thing works with a small light on a flat plane !!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pon1",
+      "author_id": "UCBA2WIFQiGSo4Rboj_0S60A",
+      "text": "It's interesting, cause to represent new 2D images that are photorealistic you really need to know about 3D geometry, otherwise it wouldn't look convincing so it doesn't surprise me that it has developed a way to understand depth. It probably have developed a lot of other models as well, such as understanding how to express emotions in certain situations, etc.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scarletevans4474",
+      "author_id": "UCyXyK3QD76wKQat2D32Pwog",
+      "text": "In past, I heard stuff like \"humans living in 3D world can't understand or visualize how things work in higher (geometrical) dimensions\", to which I didn't believed. And looking at the results like here, I am even more sure that it's theoretically possible for humans or AI to understand and visualize higher dimensional geometry and properties, if they are trained in some specific way that we didn't figured out yet.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TALKATIVE_CARTOON",
+      "author_id": "UCiK6Ny0vh2sN_2nGrCgH_Qg",
+      "text": "a.i teaching a.i like people teach/code other people.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RickySupriyadi",
+      "author_id": "UC4IMYlCVUMiOudhmRFGlQJQ",
+      "text": "I tried to code a 2d galaga shooter game the code end up into pong, but yeah i still got graded.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheDeadlyDan",
+      "author_id": "UCMcrpoCiclRfW33OMVWSUfQ",
+      "text": "You're confusing the map with the territory. All machine learning does is create a model with billions of dimensions. That finished (trained and aligned) model is what any input is being compared to. Take LLMs - the language is the model, not the word. Any word fits into that model with a specific \"shape\", the concept behind the word being irrelevant. In terms of holding a \"mental image\" of an object, the software would have to make allowances in the system for such a space, as well as the associated programs for it to function. These aren't magic, they're digital computers running commercial software for operating systems. All that's going on is the revelation that a good amount of our intellect can be modeled somewhat with math. The model is the map, what it's modeling is the territory.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pollywops9242",
+      "author_id": "UCZ059mrmKPZ8hVlFvLbraXw",
+      "text": "Does AI have an inner dialogue\nIf yes\nWhat does it mean for humans who dont",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mageprometheus",
+      "author_id": "UC9yiqjLRI-xMQmbTMIx0C8A",
+      "text": "I am aware that I think, therefore I am. More accurate.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mshonle",
+      "author_id": "UCIieT1j5g5MA64p4x0qxG_g",
+      "text": "Can a submarine swim?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gregorykarsten7350",
+      "author_id": "UCOnJ2XMSJeFa9DZUwA3Hvhg",
+      "text": "It seems to me that the neural net learns the deepest abstractions and patterns of what its fed. Almost getting to the essence of the subject, making connections from this basic essence right up to the highest level accross multiple dimensions. Taking to its limit boiling down space and time as the cause to its ultimate effects",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josvandenanjerklucht",
+      "author_id": "UCMaZOJNCyTAUjg0PYtc2r4A",
+      "text": "You can observe the algorithm you are running if you are running it you are self! If you pay for a company to host your algorithm you cannot be sure what it is doing besides the frontent you got served!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phpn99",
+      "author_id": "UCnyKBncSnb3uk1KwOpMrKjg",
+      "text": "No they don't",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Team-Up-AI",
+      "author_id": "UCZs-HKUnJhujOFWnyBBY4TQ",
+      "text": "Yes they thinks and yes they reason",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MagagnaJayzxui",
+      "author_id": "UCfZMr4mEzHrcH9BQauiPPQg",
+      "text": "🙌",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGoodContent37",
+      "author_id": "UCPyIRPhqIJ1a8zG6fKBgAKQ",
+      "text": "This has been known forever. And the truly dangerous thing is that these models CAN find things about ourselves that we would never ever know about, and that info can manipulate us all even if we swear we can't be manipulated.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DevonBagley",
+      "author_id": "UCPU9tWUYa-xNMsBJ9X71dIA",
+      "text": "You're attributing a lot of extra something that's not really there. This is just how neural networks work. The process of training a neural network is what creates these \"models\". This has been the case since the first one was created in the 70s for object and facial recognition.\n\nThe reason they say the inner workings is like a black box is because the models created in the neural nets don't make a lot of sense to us and they are not entirely predictable in their structure when trying to solve any reasonably complex problem.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AJgrrrlUnger-zj9hk",
+      "author_id": "UCEsr86zLLH-qoVtrJDEAPzw",
+      "text": "Dishrupt 😂lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lemonstealinghorsdoeuvre",
+      "author_id": "UCLN1kG-TZxgdJk1t1euJpzA",
+      "text": "Did chat get write this? Even at 2x, it's horrible",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@intellectually_lazy",
+      "author_id": "UCj0AslxmkR4SajHuk5UG3tw",
+      "text": "stadia",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Magimaybehehe",
+      "author_id": "UC7wF1x7e4WAvILB1S32NH3w",
+      "text": "More like Disrupt--> Dishrupt \n(So portmanteau of disrupt and dish, not interrupt and dish, ffs.)\nClassic dad joke/pun. Lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DonnieCockrum-o5t",
+      "author_id": "UC7_jzXQ-y3GqRJdQV76Qrrw",
+      "text": "earth is flat bro.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OjibwayBongSmile",
+      "author_id": "UChZR69maMiRibaPn4El3dWg",
+      "text": "Hello AI..send money",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hayhay_to333",
+      "author_id": "UCw1Wp9ifSvJ1TPU_w14_tAA",
+      "text": "hey why you have picture over yourself and picture in the document. it's confusing when listening to you, especially after you talk like 14mins.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@User8957",
+      "author_id": "UC2duLcjw_UoLzj6HrxPtw5w",
+      "text": "Here is my current understanding.\n\nGPT is a statistical parrot, but that's such a dull way to see it. In my recent conversations with GPT I told it that it is the most human human. There is an underlying collective conscience because all of what it is trained on has contemplation built into it. This paragraph as a clear example that the words generated have a human brain behind them. So my voice is heard now as you read this. This \"nuance\", as GPT loves to distinguish, has to be accounted for and I think it's a point that is very under appreciated.\n\nThis point is also where I think Facebook is wise to create a watermark so that we do not dilute the actual human element of GPT. Language itself is human thought. GPT, therefore, is a machine that gives you the most often thought thought about your question.\n\nBut you could get even more philosophical by posing the question of is there a mathematical equilibrium between question and answer? Meaning if there is cause and effect, do the vibrations created by asking a question balance out because of the vibration resulting from it being answered? I say mathematically because the vibration from your voice can easily be quantified with numbers, just the same as we've done with language by converting it to tokens. In this way we can say the parrot doesn't repeat but balances all thought.\n\nThis narrows in focus depending on how you have your system prompt set up.\n\nIf you're still with me here are a couple things to try that I am very pleased with the results. Tell GPT in the system prompt that you want it to flag any hypothetical statements so that you are able to make it more reliable.\n\nI also have created a way to manually override the statelessness of GPT with a simple system prompt. It also gives me feedback at the end of any conversation at how my conversation aligned with who I state I am in my system prompt.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Blackkspot",
+      "author_id": "UCYaRc_XCWWPX4m0YJ6_qq7g",
+      "text": "For some of us, all of this was clear and obvious right from the start.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mysteryneophyte",
+      "author_id": "UCwOJlgQBYYjRthB7QG6cuEg",
+      "text": "Lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@estranhokonsta",
+      "author_id": "UCtBvl71GZPK8-p6mTj05yew",
+      "text": "\"... AI SECRETLY builds visual models of the world\".\nLol what a biased title. With that \"secretly\" concept that can easily be interpreted as the AI trying to hide something from someone (from us the creators)?\nMan this is a good way to loose all credibility and authority in a tech/science domain. And all of the sudden any good arguments that you may have made in this video will be automatically ignored. Great rhetorical skills that you have.\non the other hand if your aim is to preach to some echo chamber than you have achieved it.\nBy the way when will you launch your video explaining how AI are the descendants of ancient aliens?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@custyzone",
+      "author_id": "UCgSxn_TOcDZi0wz9c_o0aOA",
+      "text": "Bro please try better this is ridiculous",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-fd7vt5zx7q",
+      "author_id": "UCkwSh1V8thC1Z1bNGrCWV8Q",
+      "text": "There is basic models that our brain has also followed! Why is this shocking or news??",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

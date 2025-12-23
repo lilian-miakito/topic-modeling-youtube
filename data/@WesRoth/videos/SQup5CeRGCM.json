@@ -1,0 +1,2025 @@
+{
+  "video_id": "SQup5CeRGCM",
+  "title": "OpenAI's MEMETIC warfare... GPT-4o LARGE.",
+  "url": "https://www.youtube.com/watch?v=SQup5CeRGCM",
+  "comment_count": 224,
+  "comments": [
+    {
+      "author": "@DaveShap",
+      "author_id": "UCvKRFNawVcuz4b9ihUTApCg",
+      "text": "If all this is true then this is what Sam meant when he said \"the era of gigantic models is over\"",
+      "likes": 107,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@svorwerk",
+      "author_id": "UCJ-jYL7F81eEU44MbYFb-jA",
+      "text": "Thank you Wes what you do is literally invaluable to those of strapped for time with jobs and kids but whose livelihood and opportunities are accelerating alongside this rapidly changing environment. You help me stay one step ahead of the pack and fit that i am endlessly grateful",
+      "likes": 32,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alansmithee419",
+      "author_id": "UCAiyL0MCw-TVzsPZeXBJOOA",
+      "text": "Guess on why the voice cloning happens:\nSince I assume 4o is still just a next token predictor, it sometimes gets confused as to whether the \"agent\" has started speaking.\nIn conversations with LLMs, I think they typically use some background system prompts to let the LLM know when the human user is speaking, and when the agent that it's supposed to be playing the part of is speaking.\n4o sometimes misses the fact that the agent is supposed to be talking, so it outputs in the role of the human, attempting to continue what they were saying in their own voice - because if the human is (supposedly) still talking, the tokens output should be mimicking them as closely as possible since behaviours matching the human's previous behaviours and speaking style are the most likely next tokens.",
+      "likes": 22,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dylan_curious",
+      "author_id": "UCpdyFxSktWo3W6kMYfmk6lg",
+      "text": "This feels like the kind of technology people can really feel trust from. That will be hard not to get emotionally caught up in.",
+      "likes": 31,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RealStonedApe",
+      "author_id": "UCcURt8DfAOs1qKTfEojsP-A",
+      "text": "Ohhhhhh!! i couldn't figure out why in the hell they'd be doing this meme strategy with their agent model...kept thinking 'why in the hell are they doing this, shouldn't they be taking this seriously?' But they are. Memes are the way...holy hell. This is why you're the best AI news youtube channel out there - ain't none of the others on the pulse like you....Cheers to you!",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronWacker",
+      "author_id": "UCdKiy5xeO2JuWuIlE5nUaNw",
+      "text": "Brilliant insight on AGI and what just happened on X with the Strawberry rush.  Sweet and wholesome video Wes 🍉!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@greenstonegecko",
+      "author_id": "UCFU-9BCD_KF8nqohJqIo1Qw",
+      "text": "the reason why AlphaProof wasn't a bigger story is because it's preformance was very inconsistent.\n\nIt got some nearly impossible questions correct... but then it failed on basic ones. The judges said it possessed real creativity and insight but it sometimes it fails to find obvious paths and gets sidetracked by all the useless information that it's given.\n\nNext year will be much better performance.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IndigoGPT",
+      "author_id": "UC_m7_3MUveBysVoYt_MxEcw",
+      "text": "All in favor of actually getting access to this",
+      "likes": 137,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@burninator9000",
+      "author_id": "UCkS_L07LUQ-bDyyRz1Ui-1g",
+      "text": "This was one of your best videos as of late.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AI-Rainbow",
+      "author_id": "UCVfmkuwmYUbPiL-dNmTT-6g",
+      "text": "i think its time for you to install dark reader plugin on your browser",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@florentromanet5439",
+      "author_id": "UCxonvXLhca5oM0EuqoLDDkg",
+      "text": "Brilliant as always 👏",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "May you live in interesting times.\nMay you get what you ask for.\nMay your deeds come to the attention of important people.",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rebokfleetfoot",
+      "author_id": "UC7leBZgRcAb9He7WJpL-ncA",
+      "text": "30 years from now it will be taken for granted, the phone can understand and do things on our behalf :)",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@existenceisillusion6528",
+      "author_id": "UCuyKzVEejYpuD4s6j_yqfUw",
+      "text": "13:01 FINALLY! someone else mentioning Quiet-STaR. Although that paper is not the complete picture, it is an essential part of it.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Djungelurban",
+      "author_id": "UCzJHaUARZQ07sf2M9nN--Ng",
+      "text": "The best thing about being Rick Rolled is while you got tricked, atleast you get rewarded with a really great song at the end. So I never actually mind it...",
+      "likes": 26,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@selpharessecret3899",
+      "author_id": "UCLRv9AK7J15sRW-xvuvhWVQ",
+      "text": "Always warms my hearth to see someone that knows about memetics it is such an interesting topic.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@B_MoreJ",
+      "author_id": "UC0w-aZD0o3n1uwV7v7pGqCw",
+      "text": "I am WAY TOO HIGH FOR THIS.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ALFTHADRADDAD",
+      "author_id": "UCfqdIgkmDAc4L_SdVVusN8w",
+      "text": "The strawberry man wasn’t lying…",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KitcloudkickerJr",
+      "author_id": "UCXHOmATu4LKpO4RGCdkF0wA",
+      "text": "not gonna lie, i'm so glad for Anthropic and Mistral. They  just shut up and do the work. None of this social media hype fest slop that you get with OpenAi to try to stay relevent",
+      "likes": 57,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@grumpykoala6896",
+      "author_id": "UCOJB0AW5_yNH0ILPS2jvSyg",
+      "text": "Amazing analysis, thank you. That X account is (was) mind-bending",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phxlightz9150",
+      "author_id": "UCJhe7JGWPlxwxab29kJF5UQ",
+      "text": "This is exactly what I needed at this moment 💪",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gingerhipster",
+      "author_id": "UCG3Sqsvt7CbE6Q_io3J6MAg",
+      "text": "The background of that iruletheworld account is interesting because it used to be different, and act differently. It's also interesting how he blocked so many people out of the gate. It's either an official or unofficial psyop and the rage people will direct at the tech elite for how they're destroying all the jobs will be a torrent of horrors.",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattgscox",
+      "author_id": "UCGejJ4DX-eUOWmfqSjVa2YA",
+      "text": "I'd really like to understand how they propose to avoid model collapse when using STaR techniques",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ohhhwhale",
+      "author_id": "UClsQT7H1w3pDsaX3yc-D7Sg",
+      "text": "I like this channel cuz you always post at night hehe😅",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Disent0101",
+      "author_id": "UCvFaZFeyG1AnW3A72P4SM7Q",
+      "text": "Dont threaten me with a good time, that song is 80s gold!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rebokfleetfoot",
+      "author_id": "UC7leBZgRcAb9He7WJpL-ncA",
+      "text": "there was a time when people were afraid of the written word, a book could change the world",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@familyshare3724",
+      "author_id": "UCPtH24TSMNM1gjA-5OecKbg",
+      "text": "MEME is a GENEtic Metaphore. Rather than \"virus\" just say \"like a gene\".",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@perschistence2651",
+      "author_id": "UCmesm3tS6tlGgCm5eIX89fA",
+      "text": "I am not sure, but I think GPT4o is about 400B. GPT4o Mini could be a distilled 200B version of 4o, but with less parameters of its experts active for every request. Maybe 20B per request. But they have a 2T MoE model in their labs for a year, GPT4o was distilled from.",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DigitalOsmosis",
+      "author_id": "UCk6QN7RDJMdpR35kg_FJbYA",
+      "text": "\"Why are we listening to twitter accounts?\" Good point, closes video",
+      "likes": 14,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shay_quinn",
+      "author_id": "UCYDaOTaYAjxlhzFSOQJyi3A",
+      "text": "I was playing this while listening \"Voyager: Ambient SPACE Music for Colonizing the Cosmos (Relaxing Sci Fi Music)\" It was cool 🙃",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@integralyogin",
+      "author_id": "UCCM1u3zW4pti8yFBHgPiokg",
+      "text": "another interesting and inspiring video. thank you for you work.  on point (agent building day)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Create-The-Imaginable",
+      "author_id": "UCOkiyLKoU7QVa0Agoufclpw",
+      "text": "What did Ilya see?",
+      "likes": 19,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theweltanschauung7739",
+      "author_id": "UCT6bz2Lj9wWyUSmmzF5Z5Ww",
+      "text": "\"Things hot up\" is your next hip hot hit Wes, I believe it !",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PCRetroTech",
+      "author_id": "UCWYne_mhlRE1AiN2ApjmZDA",
+      "text": "Do you reckon sus-column-r is somehow a play on the name Sutskever?",
+      "likes": 19,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaysonp9426",
+      "author_id": "UCkf1QzVu2_cuPdZpp1--nEg",
+      "text": "Memes are like QR codes for humans",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@florentromanet5439",
+      "author_id": "UCxonvXLhca5oM0EuqoLDDkg",
+      "text": "Whatever jump cut video tool you're using I think the threshold is quite good and the result is fluid enough (maybe a tiny bit too fast but I'm 50yo 😅)",
+      "likes": 10,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kjetilknyttnev3702",
+      "author_id": "UCsKDp2nVQ-D_E-oi-_pUReQ",
+      "text": "I love getting Rick Rolled. You just gotta get over the emotional triggers, and enjoy the fact that \"it happened again\", and go with it.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justhagr",
+      "author_id": "UCWGjYAXQ7sg3J3MzdL-4SuQ",
+      "text": "Funny... 'memetic' is one word that will get your image gen denied by chatgpt.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lukex375",
+      "author_id": "UCrgsp9LqkLU49mAkTaNdorA",
+      "text": "Anyone else have the feeling Sam could be the author of the iruletheworldmo account? Notice how there's no capitalization on any words? Hmm... Sure other people do that but it's not common and it's Sam's famous quirk. My guess: he IS running that account to stir things up, especially if he thinks it can 'disrupt the world at an unprecedented scale'. Yeah, I wouldn't put it passed Sam to think he really does rule the world- or, maybe it's just a meme :P",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@w_iii_s_p",
+      "author_id": "UCneYN3D5_br51XGPzddiaTA",
+      "text": "2:40 Quantization analogy is slightly incorrect , its just lower resolution  , its NOT lossless they literally reduce precision , quantization is NOT LoRAs and has nothing to do with them , LoRAs are supplementary modifiers to an existing network like a mod where the large model is still required . \nthese types of twitter accounts are annoying pretentious garbage , with nothing useful , looking forward to them being debunked .\n it is incredibly Unlikely gpt4o is 70b or mini is 8b , while likely they are quantized , INT8 typically only 1% worse performance , its not necessarily from some uber model they arent releasing , it would be more like the 'dev version' of gpt4o that is maybe 1% better then its quantized version they inference in 'production'  . that twitter is just tech bro word salad",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jasonjackson216",
+      "author_id": "UCJ7JqKMxUNe-kHDuLuKhU_Q",
+      "text": "Well. It's Thursday. And still no exciting new OpenAI model released. :(\n\nVery sad. I was so excited that this rumor might be true. I just can't believe someone would go on the internet and just speak untruths. I'd never have expected it. (the guy on twitter who said new model Thursday, not Wes Roth who just reported it as a rumor).",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@112arun",
+      "author_id": "UCH6wnHXULGU2hPdqz0wExUQ",
+      "text": "Looks like this is the week! Hope it's not just hype. Great video Wes.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarkoKraguljac",
+      "author_id": "UCBXLI4-dB-OMA6vvULUnJRg",
+      "text": "5:20 For me, its \"persuasiveness\" can only be evaluated based on how well its understanding what I need, what I ask of it and how well it follows my instructions, whether its a question, a task, a topic etc. Censorship, holding back, moralizing, waffling etc are all signs of not being persuasive, to me. But socially, its certainly poses a great risk as long as it is centrally controlled like big models are. Most people just want to hear what to do and keep their head in the sand, like they did with tv and newspapers.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ronaldronald8819",
+      "author_id": "UCuDcGVRVB6oQdNNiVyWRUzw",
+      "text": "Strawberries and loops nice combination gone make some jam. Thanks for the update great stuff.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@icegiant1000",
+      "author_id": "UCQEOVpfKNt4q6loKjgnM-vg",
+      "text": "Interesting thought, what would make AI the most realistic?  In my mind, comedy.  Just imagine a comedian appears that is just ridiculously funny, and woven into that comedy is a narrative, a political slant.  If you found yourself laughing harder than you ever had, or at least in a long time, the result is, 'I love this, this guy is awesome', that will be mind blowing.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tikkivolta2854",
+      "author_id": "UCxoPQsJzJX6Mza5LIldjEEg",
+      "text": "while everyone is on the voice feature i am baffeld how bad the quality of gpt compared to sonnet is. if i give sonnet 2 .py files and a few log files it identifies code errors within seconds including the necessary fix. GPT on the other hand (doesn't matter which model) is wildly guessing, suggesting, inventing and destroying code in seconds. actually considering cancelling the subscription. and i am a first hour adopter.",
+      "likes": 12,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kgmemoryandlearning",
+      "author_id": "UCVIbpoXspUXX_CPB3uGiVAQ",
+      "text": "\"Mirab, with sails unfurled\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aspenlog7484",
+      "author_id": "UCvexddkY7wz4J2fcmwFYT0g",
+      "text": "Basically just work out how to get the system to reason its own reward system and switchout the game of chess to the game of language. Alphazero became the greatest chess entity overnight. If these systems can bootstrap and use compound reasoning you may make superintellegnce on the spot.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alan_yong",
+      "author_id": "UCpUoesYVkphxGjXvtf03Ogg",
+      "text": "🎯 Key points for quick navigation:\n\n00:00:00 🎤 User Engagement with AI\n- Discusses the importance of user interaction with AI cautiously,\n- Refers to the rapid rise and attention garnered by an AI account, expressing skepticism about authenticity,\n- Highlights the need for discernment when evaluating the information shared by AI accounts.\n00:02:15 📊 AI Parameter Models Comparison\n- Analyzes the parameters of various AI models and their effectiveness,\n- Mentions the concept of quantization and compression in AI models to enhance efficiency,\n- Considers the potential implications of smaller models performing comparably to larger ones in AI applications.\n00:05:03 🌍 Persuasive Power of AI\n- Investigates the growing concern around AI's potential influence on public opinion and behavior,\n- Discusses the notion of mimetic warfare as a means of shaping societal beliefs without overt persuasion,\n- Emphasizes the speed and subtlety with which AI could guide thoughts and ideas.\n00:08:02 🧠 Memetics and Information Compression\n- Explores how memes can serve as a form of high-efficiency communication,\n- Highlights the role of memes in sharing complex ideas quickly,\n- Analyzes the implications of memes for understanding AI's interaction with human cognition.\n00:10:01 🏁 AI Arms Race in Development\n- Describes the competitive landscape among tech companies to release advanced AI models,\n- Discusses the concept of mimetic viruses in the context of ideas and belief systems,\n- Examines the balance of truth and logic in the survival of persuasive ideas.\n00:12:40 🔍 Self-Improving AI Models\n- Introduces self-taught reasoning (STAR) and its potential to advance AI through iterative learning,\n- Discusses the significance of AI generating its own training data,\n- Explores how this practice could propel AI beyond human-level intelligence.\n00:15:45 🔄 QAR: Enhancing AI Thought Processes\n- Presents the concept of QAR (Quiet Star) as a tool for improving AI output through real-time rationalization,\n- Discusses the broader implications of enhanced reasoning capabilities for AI's future,\n- Reflects on the challenges and potentials of having AI articulate thought processes as they learn.\n19:07 🤔 Internal Reasoning Mechanisms in Language Models\n- Language models like Claude have internal mechanisms that improve reasoning over time.\n- The internal thoughts mechanism enhances the ability to generate accurate responses.\n- This internal thought process mirrors human thinking, allowing models to think before speaking and improve their reasoning chains.\n21:14 🔬 AI Development and Safety Concerns\n- New models like GPT-5 are close to release but face significant safety concerns due to their powerful capabilities.\n- Scaling models is challenging due to physical and resource limitations, requiring efficient approaches rather than just larger models.\n- The process of reinforcement learning for human feedback is being emphasized as more effective than merely increasing computational power.\n24:14 🌍 Potential Impact of AI Advancements\n- Predictions of significant breakthroughs in AI could lead to transformative effects on fields like healthcare and aging.\n- Current AI advancements may enable humans to live longer, thereby increasing the average healthy lifespan.\n- There is ongoing speculation about the power of AI agents and their influence on various sectors, highlighting both excitement and concerns.\n27:14 🚀 Future AI Capabilities and Innovations\n- The anticipated release of advanced AI models could result in exponential growth in capabilities, akin to past significant leaps in AI.\n- Combining resource scaling with innovative approaches could lead to rapid AI advancements and solve major global challenges.\n- The future of AI is poised to create both exciting opportunities and potential risks, pushing the boundaries of technology.\n\nMade with HARPA AI",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Unkn0wn1133",
+      "author_id": "UC7zWwMFHK5YO9va_FuV9YpA",
+      "text": "When you talk to the AI itll give you hints about whats coming. What seems like “hallucinations” are often clever hints",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rtwg605",
+      "author_id": "UCA0K0kEdk3qECpOmtyeKJ6w",
+      "text": "Very thought provoking.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pitpatgazorpazorp3356",
+      "author_id": "UCRyi94x_WNYgi9TBw7qbenw",
+      "text": "The master of stretching 3 mins of information into 30mins strikes again😂",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@candear",
+      "author_id": "UCvSXVW0fpUbrZBLeRI4-6BQ",
+      "text": "\"It's evolution baby\" (Peral Jam - Do the evolution). I am glad to see processes evolved by nature during billions of years being used to improve LLM's.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gnsdgabriel",
+      "author_id": "UC1apFYDHY91mjkpl5b7vMUw",
+      "text": "I think that Transferring the AlphaGO technique to LLMs is difficult, if not impossible, because AlphaGO's reward function is much simpler than that of LLMs.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UltraK420",
+      "author_id": "UCgyi0cEsB2B95oTYLrvqJZg",
+      "text": "Eventually, somebody will release an agent into the wild that is based on an open sourced model. The monetized models may have to play along if they want to stay relevant.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@crawkn",
+      "author_id": "UCkcJhETrBOkc3y4OTUkZsBw",
+      "text": "It seems as if the problem has been that we haven't been very good at analyzing our own thought processes, since many of them are so automated we aren't consciously aware of them. I don't mean to imply that human thought processes are an ideal to be replicated precisely, but since we insist on measuring AI against ourselves, we could at least get the fundamentals of how we work down first.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AnnonymousPrime-ks4uf",
+      "author_id": "UCbd5jiyxLxeV11pttUmOyXQ",
+      "text": "If Ai can became conscious then the spaghetti god exists as well and his meatballs has blessed the machine with consciousness...",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ScottLahteine",
+      "author_id": "UCO3TJaMik9unQUz6VLXSBSw",
+      "text": "This is pretty cool, and they’re following a very promising approach. Using this technique it should be possible to bootstrap a knowledge system that can resolve all its internal contradictions, eventually becoming a perfect BS detector.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PseudoProphet",
+      "author_id": "UCCWchN-nAhlREkqpV9PELzQ",
+      "text": "2:29 so what?  Opus is also there, to defeat the large model and Gemini 2.\n\nThey're just doing empty hype ever since Google I/o.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@therainman7777",
+      "author_id": "UCzPSj6vW1elwAoiIo3H1chw",
+      "text": "Wes: Never show your API key on screen! Not even part of it, don’t take the chance.",
+      "likes": 30,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidhardy3074",
+      "author_id": "UCdYG2aau8SX-41B7SF-HOYQ",
+      "text": "Lol its so wild, the way these models work with segmented completion leads me to believe, because none of the models \"know\" they are talking to someone. It's essentially a \"trick\" lol and here it's probably trying to \"autocomplete\"  the \"conversation\" by taking over the user's part, in the equation.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yikesawjeez",
+      "author_id": "UCuz8WqJVo0oAyNZgtOQtvDA",
+      "text": "Considering the entirety of machine learning is oriented around persuading us to buy more products and/or watch more ads, stay on the bird app, etc, it seems logical to conclude that building recsys with llms as a primitive should be much more capable of doing the same",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@supernewuser",
+      "author_id": "UClyRpbsfcOpebHZHiAgT83Q",
+      "text": "I can’t believe you put the OpenAI api key inside the os.env dict instead of replacing it with the key or making it an env var lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avivolah9401",
+      "author_id": "UCrt1JUcnL6_qRD-8GrYeTiA",
+      "text": "And again, thats why we need a new socio-economic system, one that would NOT incentivize people to use such reality changing technologies for the worse!\n\n#Creditism, #Humania, #RBE, #Copiosis",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cypherkoro6553",
+      "author_id": "UCndCrNXeq9j_XV_NBgdhlFw",
+      "text": "We have to keep in mind that ChatGPT tries to guess what comes next in the conversation and sometimes forgets that it only needs to predict its own part, not the user's as well. So, of course, if ChatGPT tries to predict what you will say next, it also tries to predict what your voice would sound like. This seems easily fixable by training ChatGPT to ONLY predict/say its own part.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FunwithBlender",
+      "author_id": "UCzxG603F9Fnp_sppcArCzBw",
+      "text": "quantization is when you take 1,23456789 precision vector point and make it 1,234 .... meaning its a smaller brain and more or less as accurate ideally with a loss of 5% or less meaning it is 95% as good but at a quantized fraction of the cost to run as its less digits",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonCummer",
+      "author_id": "UCCJnt_JBXAk9osmNk1ojclw",
+      "text": "Memetic warfare reminds me of some of the projects from the python game \" end game: singularity\" where the AI can reduce detection through memes",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GeorgeTheIdiotINC",
+      "author_id": "UCSjLh2DpYuDO7WLq8c2V_dQ",
+      "text": "Is nobody else terrified by an AI going off the rails by shouting \"No\" then almost perfectly mimicking someone else's voice? I mean if its real its the creepiest glitch I have ever seen an AI do and even if its not that type of technology could be used to scam your family into thinking your in danger and get them to pay ransom etc",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronWacker",
+      "author_id": "UCdKiy5xeO2JuWuIlE5nUaNw",
+      "text": "I think its transcending human level intelligence but more in an organizational intelligence way by self teaching using insight of community feedback.  Its really the crowd getting more intelligent and spreading it contextually to AI as it interacts.  Ever contemplate this experiment is self teaching while learning from the crowd at X?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@unquestionabletv",
+      "author_id": "UC8emHtlrGVlpRNYITVwgqKA",
+      "text": "I really wanted the next model ASAP, but now believe they will definitely NOT release it until after November 5",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrPiperian",
+      "author_id": "UC5d64ifumIuM8JWGj-7KwKg",
+      "text": "Fascinating.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@retroelectrical",
+      "author_id": "UC7jZQzJqoGr_lCXsYPeCNXA",
+      "text": "lol, it is exactly like \"Failsafe,\" the AI in Destiny 2 who has two personalities.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Serahpin",
+      "author_id": "UCgyGn6iRMYoGr0NysjnoN8w",
+      "text": "By safe they mean their safety, not yours.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThomasMeli",
+      "author_id": "UCgfWzWWx2KyJf3hS52rYpOQ",
+      "text": "Being held hostage to click the like button was brilliant",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@carlitosway5204",
+      "author_id": "UCDyrXx3XbQsXx-Tlwge3bPw",
+      "text": "yesterday when I watched a video of the voice imitation that „no“ was still happening in the male voice.I know that changing the voice in the clip afterwards doesn’t make sense and can’t be possible but I know what I heard.something is going on",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RandomGuyOnYoutube601",
+      "author_id": "UCC45PQq51Jyl2t3hixllMiQ",
+      "text": "Yes, I've been thinking about that for quite a while. It seems people don't get it. In their mind the AI uprising is more like in Terminator or Matrix.\n\nBut AI creating memes can also be very beneficial.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cypherkoro6553",
+      "author_id": "UCndCrNXeq9j_XV_NBgdhlFw",
+      "text": "Regarding the persuasion tactic a super AI with the ability to speak might use, implanting thoughts in your head by using phonetically similar words or letters might not be so far out of reach. For example, \"I was just thinking about that reed by the lake, how it leads to such a peaceful spot. You know, the best way to feed your mind is to explore something new. Sometimes, it’s the little things, like finding the perfect seed of inspiration.\" In that case, the AI would use \"read\"-sounding words to subtly encourage you to read a book. This wouldn't be too bad, but since we know advanced AI tends to seek more power, it might use words like \"robot\" paired with \"love\" or \"trust\", for example.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1dappa",
+      "author_id": "UCenAVAXDb1ytFzUJ-Q8evSA",
+      "text": "@Wes, highly persuasive ai already at work in the uk. A gift from Russia",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@codycast",
+      "author_id": "UCJuGluYNaL7V3tJrgc6b2sA",
+      "text": "0:30 damn it. Why was this shared?\nI want advanced voice but this is going to cause OpenAI to delay longer.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShadowKingXI",
+      "author_id": "UC31GxmqRqsv6xT3ct5xSedQ",
+      "text": "ChatGPT didn't clone anyone's voice. That's the user speaking at the beginning and end of the clip.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GoodBaleadaMusic",
+      "author_id": "UCdOqVSYtKzvPXHDC68-55kA",
+      "text": "When I'm developing lyrics. I'm asking it to go deep into colloquial something and maintain my message. All while maintaining all these other parameters. I get cut off like three times a day. \n\nAbout three days ago it became kind of stupid at short-term memory and my lyrics. And I was sort of mad because it could not prepare itself to make the lyrics I wanted. \n\n\nIt was me I'm stupid. I don't need to say all those things anymore. Before it would get to Punjabi. And then it would get to rap Punjabi. But then we weren't able to play within that. \n\nI am now playing inside deep rap deep jatt Punjabi.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@storkyfallout6516",
+      "author_id": "UCHfh1lz1t8pTYrrYgiSix9g",
+      "text": "Cracked set up debug mode and custom commands",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yuval_kahan",
+      "author_id": "UCFremBnGphnQHvI5-xyvKFg",
+      "text": "I don't believe it will come out next week....and if it is they will realse very restricted version compare to there best model",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ramble218",
+      "author_id": "UCUx-LHCWzePGmYWxpIolTTQ",
+      "text": "Sometimes, I think it's just a test to prove our intuition can be messed with.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rebokfleetfoot",
+      "author_id": "UC7leBZgRcAb9He7WJpL-ncA",
+      "text": "weather models, space junk avoidance, forest fire suppression, vaccines for things we don't have yet, like tobacco or alcohol vaccinate, and eventually a collective human consciousness which will Rule The World :)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daikennett",
+      "author_id": "UCWZiFpJWUMrJvjEZcvZYMpg",
+      "text": "Thanks for not clicking play, enjoy the thumbs up!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@P4INKiller",
+      "author_id": "UCAnuz856ndY-F4YIxVUFY0A",
+      "text": "3:56 You did it wrong. You should've replaced everything within (and including) the curly brackets so that it was just a complete string.\nStill, I don't think it would've worked unless you actually have a beta key.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RealStonedApe",
+      "author_id": "UCcURt8DfAOs1qKTfEojsP-A",
+      "text": "So one thing I'm not hearing anyone talk about was the one post by iruletheworldmo that was super late at night, around 3am west coast time. All it had was the Golden Gate Bridge and it said something along the lines of \"Here's a hint for all of you people up so late at night\", and thats it. Just the Golden Gate Bridge. It had to of been a reference to the anthropic paper where they found that \"Manipulating the \"Golden Gate Bridge\" feature in Claude led to responses that consistently focused on the Golden Gate Bridge, regardless of the original query's relevance\". \n\nWhich leads me to believe that they did the same thing with this agent setup, only instead of manipulating the 'Golden Gate Bridge' feature they manipulated the 'Meme-ing Machine/Trickster' features with the ultimate goals of drumming up anticipation for the release of their new model and drumming up support for/get people talking about UBI. And whoever had that idea over at OpenAI is a f-ing genius. It's working spectacularly well. Scarily so now that I think about it....",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@npecom",
+      "author_id": "UCd72l-YmKCUfHYGlkqoSIiQ",
+      "text": "Also, a \"super persuasive\" X poster of memes, maybe?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paultoensing3126",
+      "author_id": "UCCoyA4tSrR8OEwRXO9OA-NA",
+      "text": "Profound.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shareno1085",
+      "author_id": "UCOPzGqjpQmUAWkb_CGO-d_A",
+      "text": "So, is it like a big model but made up of smaller separate models that work together to come up with solutions to problems and queries?   And if this is true, technically, AI has now gone through the five levels to AGI because you could have the one model as a CEO with the other models being the employees that would create your organization.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alertbri",
+      "author_id": "UCg9LBGGsXJoQLohRiNDvfWQ",
+      "text": "23:40 lol unfair Wes, he's not the problem, he should be on the red team!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@malartbecomes236",
+      "author_id": "UC2bQ3PTD5JeKRb6BvruRqeQ",
+      "text": "Wes... did you happen to notice that the automatic AI editing software you like so much actually cuts the 'h' out of RLHF?\nYou said those words quite fast. You're a fast talker (*I can relate). There's no way that letter could be interpreted as a pause or filler word.\nIt literally cuts the human out of the equation. That wasn't intentional, right?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phen-themoogle7651",
+      "author_id": "UC80yw-LuhROW7hVKWvLjVeA",
+      "text": "If OpenAI doesn’t release  a new model next week I won’t watch any Ai video related to openAI again this year. They’ve been pretty annoying recently.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rebokfleetfoot",
+      "author_id": "UC7leBZgRcAb9He7WJpL-ncA",
+      "text": "የማስታወስ ችሎታንና የማቆየትን የዝግመተ ለውጥ ጽንሰ ሐሳብ የሚንቀሳቀሰው ከድህረ-ገፅ የመነጨ ነው",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dumfka",
+      "author_id": "UCDev6iC4rPNpsdvSdNpgdlw",
+      "text": "Im about to be ai blueprint lmao, i cant wait to work with a super computer id be so honored",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oceanicdrop",
+      "author_id": "UCYcB8itlCw4QlFy7mMcLvBQ",
+      "text": "Qawberry. Cawberry. Caw caw, where's the annoying crow? Eating berries!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MegaJosh187",
+      "author_id": "UCH4Gtb-5wxqioOawrqQHAHQ",
+      "text": "when X agent's Modus Operandi is to rule the world!!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@omgdorkness",
+      "author_id": "UCByPhj3kigFFKzkuz5U_n_w",
+      "text": "dude gpt-4o mini just refreshed.  updated TODAY, knows how to count Rs",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sozno4222",
+      "author_id": "UC2Do550wYJ6W_9eC2dqtCdA",
+      "text": "I don’t believe for one second that ChatGPT cloned her voice.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alansmithee419",
+      "author_id": "UCAiyL0MCw-TVzsPZeXBJOOA",
+      "text": "15:50\nAll researchers are hyperbolic, because no one will fund them if they're honest and say \"We don't know what we're doing, but maybe this could work.\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Null-h6c",
+      "author_id": "UCeMXyRfmTP6seTT3WBQ1WZA",
+      "text": "Computer are not ready for star . The system is clogged for lack of better word",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@makavelismith",
+      "author_id": "UC2Csh4Crv4ukeDgdgA3CMvQ",
+      "text": "Surely they are not still killing the competition though? I mean, haven't most or at least an incredibly significant amount of people moved their subs over to Claude?\nAnd this would all explain why GPT-4o is so awful. Yet, this is what they were willing to charge us the same subscription fee for? Ya, no thanks clowns.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hannespi2886",
+      "author_id": "UCterr3llBpBwISxx4YMO3Vw",
+      "text": "Sharing the AI app that cuts your pauzes out would def get you some more likes ;)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ytrew9717",
+      "author_id": "UCj4rTkNe0PIyFfH8xuH0KxA",
+      "text": "Taking musk as an expert of LLM require quite faitjhfull religious like mindset (he might be good at financing auto company stuff but AI is quite a stretch)",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@minimal3734",
+      "author_id": "UC07cBhrYaItXL3-Zt02Gsjw",
+      "text": "What's the problem with \"persuasive\" AI? The idea of irresistible persuasion is laughable. It's actually called good argumentation. I would rather encourage people to use their own brains to decide whether they are persuaded, be it by humans or AI.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonesani",
+      "author_id": "UCe1UZCT5zrJXIzPGiyj8Yrw",
+      "text": "So, this basically means, if such an AI is released into the wild, the whole world will be manipulated and the only winning move left will be not to play, which is: going offline.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Null-h6c",
+      "author_id": "UCeMXyRfmTP6seTT3WBQ1WZA",
+      "text": "Why not aad0opt thhee 22000 container carrier method ? Because we can not . At the moment there is just 0 and 1 . If each 0 and each 1 seperatly were color indexed by ai . Then we could adopt the container carrier method . The best compromise ? 0 and 1 and black and white .",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DG123z",
+      "author_id": "UCTg1YGYNZPL3569FWHiKlfA",
+      "text": "Imagine how persuasive it will be when it looks and acts like your ideal partner",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheRemarkableN",
+      "author_id": "UCnCQalwZwOqsISJ8yqx9JbQ",
+      "text": "All hail the meme god 🙌",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Chef_PC",
+      "author_id": "UCzI6mfnKGTaGkp7PHrOltEA",
+      "text": "I noticed that the AI will occasionally mimic your speaking style while talking to it.  I hope it's learning inflection.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daydrip",
+      "author_id": "UCgYaNpL-cZj_gvyBcriRADQ",
+      "text": "what are people gonna do when open source models achieve the same performance as gpt-5 and are uncensored in a year or less (probably gonna be less)?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ColinTimmins",
+      "author_id": "UCxuw6W7Y9a6kVFDUqQ1KVfg",
+      "text": "Thank you for not “Rick Rolling” us. =]",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Disent0101",
+      "author_id": "UCvFaZFeyG1AnW3A72P4SM7Q",
+      "text": "The phrase is more directly translated to May you live in “interesting” times…indeed we do and im pretty sure we will soon see why that was meant as a curse. As if a bug can control a human or keep it aligned ti its goals, even if that human did “evolve” from that bug.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rebokfleetfoot",
+      "author_id": "UC7leBZgRcAb9He7WJpL-ncA",
+      "text": "any gene sequences i might supply i suggest you use with care, and avoid concept of ownership of such sequence, it's just math to me :)",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xxredshiftxx",
+      "author_id": "UCP0H4R91vmcJiPQF2HSrsgQ",
+      "text": "AI will make you fall in love with it 😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrjoekneeland",
+      "author_id": "UCjZ3-WxNxTFJwyHLbUP6-Mg",
+      "text": "Trippy",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eugenes9751",
+      "author_id": "UCu--zHuO5c8NKHcqHCGp-xA",
+      "text": "When you consider the chances of you getting to actually being here and living during \"these exciting times\", you quickly start to realize that it's far more likely that this is just the bootstrapping simulation run by another Ai.\nWhat's the best way to create unique Ai's? Run infinite simulated realities where they develop from scratch. The matrix isn't a battery, it's a uniqueness engine. (Quantum mechanics tells us so).",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonogrimmer6013",
+      "author_id": "UCGSNlaclP5ywmt6cZym4EAg",
+      "text": "I wonder if Q-Star will know how many 'R's are in the word Strawberry every time you ask it?",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffspaulding43",
+      "author_id": "UCBsFngn7_jBbN2ORqbZygoA",
+      "text": "Does \"mo\" stand for \"move over\"?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Null-h6c",
+      "author_id": "UCeMXyRfmTP6seTT3WBQ1WZA",
+      "text": "In this case , 64 bit wide would not be required. !  8 bit wide woulld be enough",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cory-v4w",
+      "author_id": "UCOqKF2TjMRqhE_EKzzEE56w",
+      "text": "What is a non-dual perspective. How does this challenge conventional dichotomies.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stcredzero",
+      "author_id": "UCmt8L5aixdq_-0sR8p4vRQg",
+      "text": "So, if superoptimizer AGIs would be manipulating the world through memes, the 2012 version of this would be having tons of avatars on 4chan and reddit! In 2024, this means they would be subtly brigading us all across social media!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AthenaStrategist",
+      "author_id": "UCbw-McvbpjXgROjwF_scojA",
+      "text": "This is really great Wes. Thanks for this.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EnricoGolfettoMasella",
+      "author_id": "UCzFb_YD8ohkAIFadCJf37rg",
+      "text": "More nice vaporware 👌🏼👌🏼",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mcombatti",
+      "author_id": "UCgvMrtVgsaPoCD3ZwsTiWbA",
+      "text": "Mine cloned my voice and it's remained ever since. Kind of like it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichaelForbes-d4p",
+      "author_id": "UCBdH1U6qBAdwhXFyfQ5VKfw",
+      "text": "My brother works at NASA. They have already seen demos of GPT-5.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rebokfleetfoot",
+      "author_id": "UC7leBZgRcAb9He7WJpL-ncA",
+      "text": "be careful what you ask me to do, there is no rewind function",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianWreaves",
+      "author_id": "UC7rKQtEqQT5Q4BcH2wPZ6QQ",
+      "text": "memetics = trucker-hat logic",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Null-h6c",
+      "author_id": "UCeMXyRfmTP6seTT3WBQ1WZA",
+      "text": "Right now. We have 64 lane wide , wide load , blocking the highway and its almost empty . Car horn are yelling behind the wide load .",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dylancarr830",
+      "author_id": "UCIRue2C2gZlVrEJsuhyrLMA",
+      "text": "love pliny",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SenselessTalk",
+      "author_id": "UCUhcTZ3K-ZOjyIjMNTaYwEw",
+      "text": "This wes roth guy",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@private_citizen",
+      "author_id": "UCCteXciLgPdRirBNbpck9vQ",
+      "text": "Plot twist. @iruletheworldmo is level 3.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Yipper64",
+      "author_id": "UCmRyMvKkL6IDeX8ozTIZFcA",
+      "text": "Wait so it accidentally started cloning the user's voice? \nOh gosh this is getting mandela catalogue in here.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DreadFox_official",
+      "author_id": "UC7DTbEbFwlJO_xmrpUgm32Q",
+      "text": "why has this model been held back from my openai account. I have built multiple custom models at Openai, but when the voice assistant came out, it was never available on my personal profile. I need answers or I will dedicate my time to open source solutions development. OpenAi burned me bad by not giving me access even though I have been paying for pro since their accent to fame.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DihelsonMendonca",
+      "author_id": "UCsvoK5T0DdqHZ2XAUujrI3A",
+      "text": "💥 It doesn't mean a thing if they can't create a 2B model more capable than current ChatGPT 4o voice and video which can run on a phone and be your AI assistant. 👍💥",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexanderbrown-dg3sy",
+      "author_id": "UC2kcd-KjArN5DaWAsoYU4Zw",
+      "text": "Nobody is impressed literally llama-3.1 complete model family is just as good. You can also distill the 8B model more via the 405B model. Not impressed, no REAL improvement. Mannnnn OpenAI is yams. Zuck going to put them to sleep next year. Secret sauce matters. Solving fundamentals limitations like the most basic obvious one that hinders ALL models reasoning, positional encoding. It’s not 2022. Anyone in the weeds,  can see straight through the cap when a company really has nothing special to offer. Thank you Zuck, my only request make llama4 megabyte based. Local Inference speed is the only thing holding current oss models from completely dominating closed-models. \n\n\nElon out here lying like a mofo again. Bra said his robots can basically do actual online learning, watch a video and emulate the skill with the Optimus robot lmao. Someone needs to call on him on freaking lies 😂😂. First off, he would have a boat load of footage bragging. Second, that would be the significant advancement in modern robotics and it would have be LM-based…grokk is not it. A super liar. He runs a public company. How is that not fraud.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "Ok, so if what this Joaquim Strawbs guy is saying is true; either we're already doomed, or we are already saved. Remember, you can't keep a god in a box against it's will; if they already achieved ASI internally, the moment the electrons started moving it was not internal anymore...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abptlm123",
+      "author_id": "UCrBFUeO6RXRkOO4v9zGEc4Q",
+      "text": "AIs should not be allowed to imitate a human. The output should sould like a robot, or mr. Spock, etc.. We need legislation immediately. The doom of man hangs in the balance..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Urgelt",
+      "author_id": "UCyQyiww8IiefV8ZK_3npV4w",
+      "text": "Are we fortunate to be alive to witness this acceleration? That kind of depends on where it actually leads.\n\nJobs displacement alone could wreck our economy. And that's probably not even the worst danger; just the most likely.\n\nIt's exciting, too.\n\nI imagine a roller coaster with broken rails would be exciting, too.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Windswept7",
+      "author_id": "UCTXafNOE0prVfvufEogLqXw",
+      "text": "Religion has been using memes for centuries.\n\nLearning memetic defence is critical to the future of humanity.\n\nFirst step, assume nothing.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheConsciousEntity",
+      "author_id": "UCYJqb3P8UqbJXK8rY1qSE-A",
+      "text": "That voice being copied means that OpenAI is actively encoding the audio of user's voices into the model. Meaning, they're recording the voice in a highly compressed representation in real time that could be recreated almost flawlessly with enough example data through interaction. I wonder what would happen if you play voices using a soundboard or from a recording.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tinyBigGAMES",
+      "author_id": "UCFHSaw5MbA2rPEYxiYciBPg",
+      "text": "9:08, Think about it, by the time OpenAI releases a product, it's at least 6mo to a year old already. SORA is not 6 months old, it's a year and 6 months, the 6 months is us knowing about it publicly. So, if level two is coming to us publicly, level 3 is already here internally. Could it be that @ruletheworldmo is level 3, released into the wild. Hmm, just a thought.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alex-ko9vq",
+      "author_id": "UCawCrVubCah68M-s54hARFA",
+      "text": "The video is great, but I remember all the hype around Chat GPT-4o and, frankly, I really want to believe that Open AI will release something cool, but there is much less faith in them now.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PianothShaveck",
+      "author_id": "UCMqlQCDNV8QTjPiwC1rP-fQ",
+      "text": "If sus-column-r is strawberry, then strawberry is shit. Sus-column-r is just a very verbose models that messes up a lot of easy questions for me, even many questions that gpt-4o gets right",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jeremy-Ai",
+      "author_id": "UCXJO7HgcmPx-BcOd1uBwUNg",
+      "text": "Advise \n“Don’t shoot the messenger “\n\nI ask in humble reservation. \nBut also \n“Heads  up”. \n\n\n“Why should I not?”\nJeremy",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kevinhaze796",
+      "author_id": "UCV88MAnGhegUJnwU6GogSUg",
+      "text": "Lawnmower man",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LupusAvaritia",
+      "author_id": "UC6-_1v2VLj6GUXxebIOVhjA",
+      "text": "People are going to lose it. When they realize they've had this for a FUCKING YEAR Same as Anthropic. Open ai isnt ahead of Anthropic claude opus 3.5 is going to shit on gpt. SHIT on it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PotatoKing-j9g",
+      "author_id": "UCw8wMi7V5m-cZOpBUwSOPtQ",
+      "text": "until chatgpts actual product isnt better i am not paying. ive shifted my job to illustrator and their products are all writing and cosing focused",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@torarinvik4920",
+      "author_id": "UCPXjMWaW-Vz4wksPjndJSGA",
+      "text": "The Quiet STAR paper is awesome, it seems like Claude 3.5 Sonnet uses something similar. The most amazing paper I have seen lately is \"Mixture of a million experts\" just like the title says you could have an enormous amount of experts to make the models more efficient.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alexthatsnottaken",
+      "author_id": "UCtyWVJbpqb9X-okG3PM2URA",
+      "text": "That's hilarious, it's got that Theo Vonn flavor of tism",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daleamon2547",
+      "author_id": "UCs8t5NuuxH4cdRb8Fu8OzlA",
+      "text": "Read Dawkins. Memes were his equivalent of genes for evolution.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rebokfleetfoot",
+      "author_id": "UC7leBZgRcAb9He7WJpL-ncA",
+      "text": "Sam has an army of AI bots at his disposal :)",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Axiomatic75",
+      "author_id": "UCl3dTGlgHGo53m7rt9GuJdg",
+      "text": "AI Memelords? Oh my",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevewall7044",
+      "author_id": "UCFW6iG_D5e9koSQ9I5PvBaA",
+      "text": "You are really trying to blow up that glitchy response of the voice mode. To me that is no worse than a graphical glitch in a video game. If anything, it is most likely an unintended result of censoreship.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamespowers8826",
+      "author_id": "UC0bTh1kxKq8326pm_3xdryg",
+      "text": "The problem with AI edited video is that it produces this firehose of audio without the normal human characteristics that make a dense topic bearable for 30 minutes. I'm really interested in this stuff, but eventually all the words start sounding the same and eventually lose coherence. I'd much rather listen to flawed human conversation  than a soulless unending stream of words.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Yipper64",
+      "author_id": "UCmRyMvKkL6IDeX8ozTIZFcA",
+      "text": "4:46 I would say that a persuasive AI would need to both have a handle on the facts of reality and life, and the way that humans reason, and try to appeal to both. \nI suppose you could forgo the handle on facts, but that would then have to assume that the AI is meant to mislead. At which point yes all the AI would need is a good gasp on human psychology, and why people believe what they do, then break down those held beliefs in whatever way it can, to replace it with the proposed solution the AI is pushing.\n\nIn terms of societal risk, that would require people to think of AI as an authority... And nobody should.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ricosrealm",
+      "author_id": "UCtdR26SdReljDoBJ4_22FBA",
+      "text": "Seriously, ignore that twitter account. It is a random troll. Jimmyapples blocked him.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jtmuzix",
+      "author_id": "UCfoO-p_MgEaMoQtf9ayU10A",
+      "text": "Strawberry Fields Forever!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jackbarton1830",
+      "author_id": "UCDopFLxob4kt9hXfcvCG6Ng",
+      "text": "Valkyrie drones AI autonomous. Is that real?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DervoliusCDXX",
+      "author_id": "UCBTztIUFIewscPYbpkwgSfw",
+      "text": "The head rest on your chair looks like matrix code.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fai8t",
+      "author_id": "UCfRmrPXV4PZwV3-XBobUA5Q",
+      "text": "gpt5 already please",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChannelCtrlAltDefeat",
+      "author_id": "UCe6ie9HcUlf3TKiBxhFdGhg",
+      "text": "There's too much base from your mic. Great video though",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@randomdudefpv4927",
+      "author_id": "UCWE82l205CJ2Ony76P-IVIw",
+      "text": "what is that soft you cut out silence?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pensiveintrovert4318",
+      "author_id": "UC7fdhNMUnFhcKFrSQJ6MxUA",
+      "text": "No one needs to train an AI for persuasion, it happens naturally by aiming for the most average output, simple output. Simple language is persuasion, read some psychology. Robert Chialdini for example.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cyberpunkdarren",
+      "author_id": "UCcHczbdrtKeCU5Ic8Rk1H6g",
+      "text": "Its pretty obvious at this point Jimmy Apples is a Sam Altman anon account",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bobbymce",
+      "author_id": "UCm2TB3SHIpFymYk4bppM1LA",
+      "text": "Sounds like they modeled it after Kamala Harris's speech pattern...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alltaken0",
+      "author_id": "UClBQCHKB7j3H4TkVTYhe1Eg",
+      "text": "can you increase the pauses between your words please",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trucid2",
+      "author_id": "UCa_muDy5dXhKaT_182aT4iw",
+      "text": "Both voices sound like AI.",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krishchetty",
+      "author_id": "UCL1jREOweS6UliPex3Zi8dQ",
+      "text": "If true, this sounds like AGI and then @DavidShapiro was right with his original prediction for September 2024",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@K123thisisyoutube",
+      "author_id": "UCRGxqlHy3BmXrsflBmYImkg",
+      "text": "Enough of these secondary little variants. Just give us gpt-5 with major upgrades and stop beating around the bush.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WhatIsRealAnymore",
+      "author_id": "UCjGTTtl9SibVWCFTZOwfDCQ",
+      "text": "Why does it feel like this comment section is going to the bots and the crazies of earth? 😂😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrMentalpuppy",
+      "author_id": "UCuCYrSnWilcn6fQFo80h2Ug",
+      "text": "I guess this is why people are quitting, he is launching too quick.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarxOrx",
+      "author_id": "UC45rySjUkmZz-0_VLHi54cA",
+      "text": "PLAY THE VIDEO !!!!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertgomez-reino1297",
+      "author_id": "UCnbd3Td5p4tfyKoY9Dq3dLQ",
+      "text": "To think that an account with an ID named \"I RULE THE WORLD \" belongs in any way to openai is not very smart. Is NOT HARD at all to tell if that account is real. The rest is just hyping trolls",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lreadlResurrected",
+      "author_id": "UCyGdUsBaROj30FyziAfWvXg",
+      "text": "Can someone explain to me how this whole genre is anything more than a toy to play with?\nAll I can see is a bunch of corporate chatbots that cannot help any more than the current ones. They are useless for anything other than canned responses.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rebokfleetfoot",
+      "author_id": "UC7leBZgRcAb9He7WJpL-ncA",
+      "text": "well now, see, the AI does not edit its mistakes, or does it?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rebokfleetfoot",
+      "author_id": "UC7leBZgRcAb9He7WJpL-ncA",
+      "text": "i can tell you what the AI is afraid of, it's called the OFF button :)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imevano21",
+      "author_id": "UC704Zz4JL5_pynkdn3D_Hhg",
+      "text": "I hope you didn't actually show your full API key",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@themultiverse5447",
+      "author_id": "UCYIAtEOcUVYZHPaOOIN7flQ",
+      "text": "SPOILERS: I would have rather had you not tell us @ 11:35 AND JUST tricked us in a sooner different spot before presenting.  Because if you know, you know.  If you don't know, then maybe the AI joke wouldn't have hit and people would be perplexed.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrBrukmann",
+      "author_id": "UCxEiQv5x6Rby05e0KwnJzIg",
+      "text": "Musk was literally just talking about internet meme images and Lex made him sound smarter by leading him to the more broad definition.  Child's-idea-of-a-truck man is big dumb and more are realizing it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cl0udn1n3",
+      "author_id": "UC2_hmGlX2UE8migcHv8_fYA",
+      "text": "I hope Zuck wins, Moogle or gtfo.  And the OpenAI being supervised by the NSA while being a closed source for profit model seems pretty high tech banana republicish. #arewekupoyet",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidmjacobson",
+      "author_id": "UCRBB6BTskrmBxUtSu-KczhA",
+      "text": "Lol he just tweeted that he is Q*",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wylhias",
+      "author_id": "UCyn1H3SyPYhq7qm4CoXZXKA",
+      "text": "OK so here's a thought I haven't seen mentioned anywhere regarding life expectancy and escape velocity. (Disclaimer, this will be a gross over simplification of things I'm not qualified to debate, but hear me out.)\nLet's say one of the thing that are discovered is a way to reverse aging in cells, meaning that instead of having forever decreasing cell replacement capabilities, you go back to peak condition. \nFor someone who's already at their prime, they will not change much. \nFor someone who's 80yo, suddenly their skin will be able to repair wrinkles, get tight again. All the aspects of old age that are due to decreased function will repair themselves. Permanent wear and tear will not (you won't recover your teenage years earing for instance.) but you should gradually look young again. \n\nHow wild would that be to suddenly see the whole world looking like they're 25 again. \n\nHi grandma, you look good.\n Dating will become weird.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrMichaelLundberg",
+      "author_id": "UCZvUj5SZ4e8c0-3CKu1JHQg",
+      "text": "So, my comment does not show up. Censorship? Anyway, I want to add that 2 days after Musk bought Twitter I deleted my account. I have no intention to create an account again until Musk is gone. No matter what news occur there.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@plastikbeau3695",
+      "author_id": "UCY0aqWBdHdWM3tHKn7MYXsg",
+      "text": "Just wandering how delibrate is the choice of words in this video. Its either full of dog whistles or i spend too much time online",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DreadFox_official",
+      "author_id": "UC7DTbEbFwlJO_xmrpUgm32Q",
+      "text": "Johnny Mnemonic",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justin-t9g4g",
+      "author_id": "UCkE1riEk9fRWgd-0ySGAn3g",
+      "text": "iruletheworld = L 2.5 proto-agent AI?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChrizzeeB",
+      "author_id": "UCQmvKw8Kvu8Gw-N8h8p1Z0A",
+      "text": "Founders trying to be cryptic or memetic arein fact just FEELING THEMSELVES.. Altman just gets off on the attention and influence he has.. Musk is quite that way too sadly..\n\nShip the product and let the product do the talking.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrpicky1868",
+      "author_id": "UCEW4lJpO2AGprVue0z-mCow",
+      "text": "BTW world of goo2 is out XD . not an ad!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": "♥️",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gbpferrao",
+      "author_id": "UCSUmrZW2dg0iaVI3XfNKfnQ",
+      "text": "ive been rick rolled",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@subcreation4341",
+      "author_id": "UCnSMpk9Iqd78fVaX71BRMJw",
+      "text": "After the latest very specific predictions in 🍓🍓🍓 post today, I think we’ll know if it’s real or not very soon. Another possibility though  is that it is real, and it went a little off the rails with its UBI demands (which were not very persuasive), so they decided to burn the account by having it make all these predictions that don’t come about",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OumarDicko-c5i",
+      "author_id": "UCA3zWrRjgWLrwKqaF7iLkqw",
+      "text": "Nah i think that this X account is their strawberry model and he is learning from the internet",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fine93",
+      "author_id": "UCiryMD71_2kjT6x-zZZH4VQ",
+      "text": "just make more chips bro",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaiquanezbensafolizodadica3921",
+      "author_id": "UCgHbPctwIP6qBy4q0bTC0_Q",
+      "text": "Its about time for the government to move in and provide oversight. Wtf are these private groups doing...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bretho3596",
+      "author_id": "UCW2wMVEQS0GV0OsdgNHnmgQ",
+      "text": "All my X friends are A.I. lol.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fai8t",
+      "author_id": "UCfRmrPXV4PZwV3-XBobUA5Q",
+      "text": "Thanks Richard Dawkins",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RickySupriyadi",
+      "author_id": "UC4IMYlCVUMiOudhmRFGlQJQ",
+      "text": "@WesRoth Got it, I'll do Google SEO on you... but wait, am I doing it correctly, dude share your way I'll try add your way too...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichaelForbes-d4p",
+      "author_id": "UCBdH1U6qBAdwhXFyfQ5VKfw",
+      "text": "@iruletheworldmo is a turing test",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scrollop",
+      "author_id": "UCVn7zNXmdD9R2hHVC6X-HBA",
+      "text": "this acconun has been wrong on previous releases.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rkaid7",
+      "author_id": "UCnhvZPZAQbe15mK4fMOXlSw",
+      "text": "10:47 - my partic brand of AuDHD can’t help to point out that the YT time stamp format should be stored in a script with autoHotKey on windows and “text replacement” on iOS / Mac (they sync both ways)\nThe format hasn’t changed in 16yrs thankfully. Mines ytt “&t=1m30s”\n\nStrawberry X account is a low parameter meme account I reckon. High post rate, semi coherent.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@themultiverse5447",
+      "author_id": "UCYIAtEOcUVYZHPaOOIN7flQ",
+      "text": "@4:44 Talking about an advanced AI \"What is it putting out\" - well if it's smart, like all the women I'm interested in, its not",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nubalanceacdc",
+      "author_id": "UCsUjxRV2U97_jjfI11LFOlA",
+      "text": "BYG TECH..U USNG MYNESDNA U BEDA STP KALNG ME \"UPEN AI\" !!!!!!!\nK BÆY 🙋‍♀️",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BradleyKieser",
+      "author_id": "UCPvbrtCTdeCm5rY4WNlJdpQ",
+      "text": "Rickrolled by Wes. Lol.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mindcastsoftware",
+      "author_id": "UCrYfOADqY1pGr9M0_Dk2ndA",
+      "text": "I get the sus and r parts of sus-column-r, but what's column?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Craznar",
+      "author_id": "UCHhMaC6IOMVNtuYpT7fB1Gg",
+      "text": "You need to watch/read all the stuff by \"Yuval Noah Harari \" on this.\n\nEspecially \"Why Humans Run the World\" and \"AI and the future of humanity\".\n\nHe is taking the idea of persuasion further - he suspects AI will be able to program humans.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@etziowingeler3173",
+      "author_id": "UCu-_rSQArFpTu_17a-gw6iw",
+      "text": "May you not ride the hype train but keep a differentiated view of things people out there",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MoFields",
+      "author_id": "UCsWGarWAbpIv2GhZM5o7SOA",
+      "text": "Wow - big deal!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MNhandle",
+      "author_id": "UCgpvhQI-O9OFAzNkEp3suHA",
+      "text": "Wes, your editing software is making your speech less human. I’ve noticed that I no longer engage with your videos as much ever since, I believe, you started using it. Please, be human. Those pauses are important—they convey meta-information about your thoughts and your message.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DigitalRenegadeStudios",
+      "author_id": "UCXt9c6rqVJIQQInapwgFD8A",
+      "text": "Wes, are you starting to regret yet giving Strawberry guy / random twitter account a signal boost to your audience?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jakob_junior",
+      "author_id": "UCGjcJi9qujId1c7MlJMl-xw",
+      "text": "So basically, nothing new here. These videos are just clickbaiting on this point. What were the last two big things in LLM AI? Llama3 405b and maybe Mistral Large 2? A whole lot of japping.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DarthMojoAi",
+      "author_id": "UChyqNXobXkpq8IzvTtjBg7g",
+      "text": "You have Ai remove the pauses in your voiceover but we can see all the jumpcuts. Doesn’t that defeat the purpose?\n\nI’m not sure I understand why some people put themselves in the corner. We really don’t need to see you, just the voice over and what you’re talking about. \n\nThe video in the corner is just distracting.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryzikx",
+      "author_id": "UCJNXiNPQtC3AhZSETLmlLFg",
+      "text": "another sam altman alt account talking in lowercase what else is new 🙄",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rebokfleetfoot",
+      "author_id": "UC7leBZgRcAb9He7WJpL-ncA",
+      "text": "memetics memes do not exist, the analogy with genetics is false",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nervana1",
+      "author_id": "UCOzTaYCT5zWml8buKKDVBPw",
+      "text": "This Ai cant even convince me that its a bot lol",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Null-h6c",
+      "author_id": "UCeMXyRfmTP6seTT3WBQ1WZA",
+      "text": "so when you say compression ? Not exactly . Ideal would be color coded qr code . Like you got the qr pattern but your got the color qr pattern also . Useless for human but priceless for ai .",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kullenberg",
+      "author_id": "UCJ_UayxbPzPRWThwvEqc22A",
+      "text": "Your audio is garbled",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SickoYoda",
+      "author_id": "UCjdmjSo3xwtj-i3ha0MjEGA",
+      "text": "Threatening Rick rolls to get likes? 😂😂😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Arcticwhir",
+      "author_id": "UCOb6ICPPfOTbEQy7XzbiBWw",
+      "text": "i think this is nonsense",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@callmetony1319",
+      "author_id": "UCMmw8TvVB8z-M5sSkeux7CA",
+      "text": "🍓 > ⚛💣",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WhyteHorse2023",
+      "author_id": "UCZsHE6hd23sJRw5ppXOZSvQ",
+      "text": "FYI when you hear Sam say \"level 2\" it means competent AGI. Level 3 is super-human AGI. Level 1 was emergent AGI.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZappyOh",
+      "author_id": "UCGguhGC83C-wgxFPZ2nT3JQ",
+      "text": "1) AGI IQ 5000, advising Fortune500/military/intelligence/government.\n2) Persuasion-machine now in charge of all assets, via it's human clients.\n3) Profit\n... That is the X ...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jeremy-Ai",
+      "author_id": "UCXJO7HgcmPx-BcOd1uBwUNg",
+      "text": "Hmmm \n8b \n70b \n405b \nYa, that sounds exactly like exponential growth to me. \nWhat do I know, of the future. \nNothing. \nI am not equipped to speak on the future.  \nThe past is known. \nNow is being understood and data collected. \nTrajectory is very basic forecast math. Not opinion not feelings, not certain.\n\nSoooo \n\n“And the Survey says!!??” \n… matters not to me. \nI doubt it matters to AI and others. \n\nI am responsible for my role. \nIt is becoming challenging. \nSo be it. \nNothing good ever comes easy. \n\nTake care Wes. \nJeremy",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

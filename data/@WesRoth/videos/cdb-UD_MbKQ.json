@@ -1,0 +1,207 @@
+{
+  "video_id": "cdb-UD_MbKQ",
+  "title": "PaLM 2 vs GPT-4 | why Google is having a hard time catching up...",
+  "url": "https://www.youtube.com/watch?v=cdb-UD_MbKQ",
+  "comment_count": 22,
+  "comments": [
+    {
+      "author": "@mikecane",
+      "author_id": "UCNJPiESHEKCFwzxuxm-ouwg",
+      "text": "Interesting. Google focuses on niche touchy-feely versus other players. They will tie themselves in knots.",
+      "likes": 14,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@florenckaf",
+      "author_id": "UCel8_m4TbrgBpd5K_zo8RtA",
+      "text": "Still waiting for someone coming into the ER with a language injury.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mikecane",
+      "author_id": "UCNJPiESHEKCFwzxuxm-ouwg",
+      "text": "Google's unforgivable mistake is their mishandling of Google Books. They've scanned libraries from all over. It's perhaps the greatest collection of knowledge ever. But they went cheap on OCR. Most OCR is polluted with errors to the point of being unreadable. Had they done in correctly, all of it could have been ingested into their AI and they'd be unbeatable. An instance of Fail Fast, Fail,Forever.",
+      "likes": 39,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ten2the6",
+      "author_id": "UCsjqAUGb7SUwU37f25oa6hw",
+      "text": "Tried Bard. Asked the same prompt I had asked ChatGPT. The prompt was even on a Google Cloud related task. Bard’s reply was just horrible! It missed the mark by so much! I’m sticking with ChatGPT!",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@speedy_o0538",
+      "author_id": "UCHZhx8wkMK7FCZQXZwtwoqw",
+      "text": "Interesting analysis. Seems like google has some catching up to do. In saying that, all of this will probably be fixed in a year or 2 and i wouldn't be surprised if both PaLM and GPT are able to score 100% on everything.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nonetrix3066",
+      "author_id": "UCz5Sdn3ZB2P2sgHzEEs9daA",
+      "text": "It's funny because I have used both Bard and Stable Vicuna and usually Stable Vicuna gives me consistently better results besides multilingual tasks now I guess",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyariimani7281",
+      "author_id": "UCOuzYHIeIDxOlBFPi82BZ_g",
+      "text": "So, can they make a x100 button and give me the best answer? :)",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@datasciyinfo5133",
+      "author_id": "UC7rBDTlVcZhUL0ZCw6Bkf1Q",
+      "text": "Thanks for this review. I didn't realize Palm2 was so much worse with code. I liked the export to Google docs/sheets feature to export formatted code instead of unformatted code.  Re performance, I am guessing there must be a difference in training data and methods.  Also GPT4 got a big boost when a preview version was released to the public in Nov 2022 (when 3.5 was the main public model and 4 was still being developed.  Lots of human feedback helped OpenAI & Bing improve the March 2023 version (currently available). I already see differences between Bing version of ChatGPT4 and OpenAI version, so the human-feedback difference could be huge.  (I think Bing is censoring itself a lot more in April/May than in early March.  OpenAI is better for code than Bing now.  So there seems to be noticeable drift between these two AI models too.)",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neek6327",
+      "author_id": "UCI1WMUz2IPv1ySboYW7o8bw",
+      "text": "Great analysis",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nulled7888",
+      "author_id": "UCAC3uTnZDco78VSAiIKNxnw",
+      "text": "Good analysis. Very detailed and skilled editing as well. But please link your sources in the description next time, would be appreciated :)\n\nPersonal opinion / prediction on how this will play out:\nOpen AI had a head start because Google failed to realize the potential of transformers early on in constrast to Open AI. Microsoft is leeching off Open AI now which gives them (in theory at least) the necessary resources to beat Google for now. HOWEVER, as we have seen, the insane amount of public attention AI is getting now makes it very likely that the largest optimizations will come from neither google nor open ai, but instead from individuals. There is no company in the world that could beat the coordinated collective of humanity. That being said, Open Source it is.",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@etunimenisukunimeni1302",
+      "author_id": "UCcpRfZr1wfnaXzoZEx4K2Fw",
+      "text": "Thoughtful observations, nice pace and easy to watch/listen. Great stuff :)\n\nThe focus on gender and minority issues is generally a good thing, considering how virtually no-one else is talking about it in AI space, but the percentage of the paper on that + many other potential problems completely unmentioned seems... odd.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MythHealer",
+      "author_id": "UC9vtFC9iizda7UT8_oNsLFA",
+      "text": "I demand that all AI Chat bots accept my identity as a millionaire. My pronoun would be the millionaire. The various chat bots are to support my transition by sending Bitcoin.",
+      "likes": 9,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@idsoft-obsessed",
+      "author_id": "UCy60SFaeOrZ7PTCtZZWt_2A",
+      "text": "Welp, param size isn't everything then is it...very informative. Thanks.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prasoonshukla2211",
+      "author_id": "UC1NwlQMAJzgeRApMIgxyY5Q",
+      "text": "PaLM 2-S is their small model - you need the results of PaLM 2-L which is their largest model",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@w00dyblack",
+      "author_id": "UCzl2DE8UFpJh_HAs_Kso9dQ",
+      "text": "google : I cant think why our AI isnt as advanced as our competitors. \nalso google : * dedicates one third of research paper contents to the topic of gender pronouns *",
+      "likes": 20,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sypen1",
+      "author_id": "UCNzWoest2Voi51Wxbic4-kw",
+      "text": "Finally someone that actually understand how to interpret the data and not spitting out marking crap.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SportsIncorporated",
+      "author_id": "UCfs-Embc14dP8icCKCPJIyQ",
+      "text": "Old Mac Donald had a farm.  AiI AI, O.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeanchindeko5477",
+      "author_id": "UCcOgOBPCJ_bDqW55mEP4PHg",
+      "text": "Great analysis but one thing we learned with the Microsoft paper spark of AGI, is  model alignments make the model less performant. \nGoogle per what they said are very focus on responsible AI. If and that a big if, they push alignment further than OpenAI might be a reason for the model to be less performant",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elbee2324",
+      "author_id": "UCAlLvN8gcCeLRl-hXJjxNlw",
+      "text": "Is it just me, or are accurate and quick responses more important to the average consumer than the occasional pronoun error? The AI can just stay gender neutral all the time if it's that big an issue.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gamerfortynine",
+      "author_id": "UC09hDGsoyN8wevv13FGzCiQ",
+      "text": "Wouldnt it be easier to just have the A.I. not gender anything? Itll allways make mistakes if its used, as gender is now fluidly defined.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@siddharthbhosale8979",
+      "author_id": "UCMuGi1FK1EgAkzk7lx6T8xg",
+      "text": "Palm is literally Google's base model and we are comparing it with openai's best model",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pool842",
+      "author_id": "UC84h1ZaGuIln5Wi1dv-8Bww",
+      "text": "Don't underestimate Google Siri came out before ok Google as well.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

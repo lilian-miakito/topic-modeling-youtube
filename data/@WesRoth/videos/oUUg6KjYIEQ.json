@@ -1,0 +1,630 @@
+{
+  "video_id": "oUUg6KjYIEQ",
+  "title": "Agentic AI | SuperAlignment Problem | Runway Video AI World Models and more AI news.",
+  "url": "https://www.youtube.com/watch?v=oUUg6KjYIEQ",
+  "comment_count": 69,
+  "comments": [
+    {
+      "author": "@Vartazian360",
+      "author_id": "UCqZB2D42zSaCmuz0QGMVvuQ",
+      "text": "congratz on 100k :) Channel is growing fast due to your daily updates. Keep it up",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@verafleck",
+      "author_id": "UCcdoX8SfIhEluDZMV5csM_Q",
+      "text": "Waiting for it to read the Voynich Manuscript.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zalzalahbuttsaab",
+      "author_id": "UC1Wfb2aiquDgj8nMYoAFUbg",
+      "text": "Thank Wes. Great as usual. Keep 'em coming!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tommyboi0",
+      "author_id": "UCQNcWgaXYPalj3wEb0XFsNg",
+      "text": "Lol every week seems to be \"A BIG WEEK IN AI NEWS\". Probably won't stop seeing wild stuff for quite some time. By the way Wes, it seems Impossible to email you..",
+      "likes": 22,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cryptogenik",
+      "author_id": "UCmsvLIdEbCmiQpWm_p1ZKrw",
+      "text": "Love your AI Updates man!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kingbranden1369",
+      "author_id": "UCZ98y3LXezieUUFisevyu_g",
+      "text": "We're so dead.\nOr we're so saved.\nI can't tell which yet, and it's amazing.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@epicboy330",
+      "author_id": "UCSjYglV7cNOx-eaM5_ZhIWA",
+      "text": "That was quite the roundup of recent AI developments! It seems like the field is continually pushing boundaries, especially with OpenAI and Google DeepMind making significant strides. The advancements in AI models, their capabilities in various domains, and the ethical considerations surrounding their use are fascinating topics.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@9000ft",
+      "author_id": "UCAyhEnZ5gjm8gP_s4gjxkYA",
+      "text": "Thanks Wes for the coverage on the paper \"Practices for Governing Agentic AI Systems.\"   I've downloaded paper the paper and have begun reading it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LanceWinder",
+      "author_id": "UCeQhCruoTKPcNs7lvUyTsjw",
+      "text": "Love your vids man",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joelyricsandskits6223",
+      "author_id": "UCvpQDyUhRqH3St2inFmMeVA",
+      "text": "Really looking forward to general world models😎 I think they'll be much more helpful than generating the next token",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HumanDefenseForce",
+      "author_id": "UCyOlThiDKrKNmffURwnwd_A",
+      "text": "So good, and in point. You are my best Ai resource #SafeAi #HumanDefenseForce",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bhuvaneshwarjoshi3683",
+      "author_id": "UCX4L933AMRGpY4gyprbRD6Q",
+      "text": "The idea of designing  smart AI  agents that can counter cyber hackers automatically is interesting.The tdea of hterarchical Ai is even more appealing",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alan_yong",
+      "author_id": "UCpUoesYVkphxGjXvtf03Ogg",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🌐 AI News Overview\n- Overview of recent AI news, including rumors about GPT 4.5 and Google Deep Mind's paper on mathematical discoveries.\n- OpenAI's continuous contribution to expanding scientific knowledge through AI.\n- Introduction to OpenAI's practices for governing agentic AI systems and the definition of agentic AI.\n01:23 🧠 Defining Agentic AI\n- OpenAI's definition of agentic AI systems and their capacity for adaptability in achieving complex goals.\n- Breakdown of components: goal complexity, environmental complexity, adaptability, and independent execution.\n- Discussion on potential dangers and questions surrounding the responsible integration of agentic AI into society.\n03:13 ⚔️ Shifting Offense-Defense Balance\n- Exploration of the impact of agentic AI on offense-defense dynamics, particularly in the cybersecurity domain.\n- Consideration of the potential consequences of AI-driven autonomous tasks in cyber attacks.\n- Uncertainty about the future balance and the need for close attention to emerging AI adoption dynamics.\n05:20 🧩 Weak to Strong Generalization\n- Discussion of OpenAI's paper on weak to strong generalization as part of the super alignment problem.\n- Approach to aligning superintelligent AI by training smaller models to supervise larger, more advanced models.\n- High-level plan involving reinforcement learning, human feedback, adversarial training, and large-scale compute.\n08:10 🌐 Runway ML's General World Models\n- Introduction to Runway ML's long-term research on General World models and the concept of AI building mental models.\n- Challenges in generating consistent maps of the environment and understanding the Dynamics of both the world and its inhabitants.\n- Current limitations of Runway ML's Gen 2 system and the goal to enhance its capabilities in generating realistic videos.\n10:55 📰 Real-Time News Integration\n- OpenAI's partnership with news outlets for real-time information retrieval by ChatGPT.\n- Potential shift in how people consume news, relying on AI chatbots for personalized, up-to-date information.\n- Transparency through attribution and links to full articles for news sourced by ChatGPT.\n11:24 🎨 Mid Journey Alpha and Google DeepMind's Image and 2\n- Introduction to Mid Journey Alpha for AI art generation with enhanced control and precision.\n- Google DeepMind's release of Image and 2, showcasing advanced text-to-image technology.\n- Implications for the future of AI-generated art and potential advancements in December.\n12:05 🌩️ Anticipating Future AI Developments\n- Speculation on upcoming significant AI developments and advancements in December.\n- A sense of anticipation for groundbreaking achievements in the AI field.\n- Closing remarks and gratitudefor watching.\n\nMade with HARPA AI",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@-C69-",
+      "author_id": "UCnMET_9qpoHIgJSHhB0oZaw",
+      "text": "I’ve recently thought that they could use different AI agents to act as a combination of biased consciences to influence the decision making process. You could have an honesty bias, a friendly bias, a helpful bias, a bias that ensures that harmful information doesn’t get released, etc… Each AI Bias could be specifically trained to provide their stamp of approval on an output, before showing the final output to the user. If the proposed output doesn’t pass muster, the combinatorial biased consciences would ask the larger reinforcement learning AI model to provide a different output, and the AI model could be told that the previous output didn’t work, and to adjust for next time.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lollerwaffleable",
+      "author_id": "UCjEZouxpUe82o2kB12_vk8w",
+      "text": "The quick answer is that I trust you all to make the right decision.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelsatoshi705",
+      "author_id": "UC_-uRFBmFLaa7Rk6SfJNznw",
+      "text": "You re the best at pontification with plattitudes on AI-news. Thanks.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrBillythefisherman",
+      "author_id": "UCkV5xTggaUrgsyhX0sgWBTQ",
+      "text": "The Runway ML visual learning is by far THE MOST IMPORTANT THING IN AI right now.  The amount of information in vision far outstrips any other modality by an order of magnitude.  We are visual spacial creatures, arguably second only to being social creatures although it must be a close run thing - its why taking away those two things is the worst punishment we have i.e solitary confinement. I suspect this will help boost both reasoning and maths abilities although I suspect we can brute force those to super human level too just on text - itll just take longer is all.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lule-ahmed",
+      "author_id": "UC3ea5sn8o06D6oiqlFxkHaQ",
+      "text": "We want tutorials too😊",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lollerwaffleable",
+      "author_id": "UCjEZouxpUe82o2kB12_vk8w",
+      "text": "I think that there needs to be third party security solutions that are biometric and more creative.  That’s my first thought.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thedeepseanomad",
+      "author_id": "UCilEDumt0jFZNY1CYZZA3tg",
+      "text": "Embodied AI with sufficient agenticness means we can technically pretty much end taxation as way of funding state and projects.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RoadTo19",
+      "author_id": "UCbW3f97Qmb9d5QUnyZu0iXA",
+      "text": "RE: Image generated of the curly-haired woman\nWhen I examined it closely, for me the earrings were a little off.  However, the details are very impressive!  The stitching around the collar, even the flaw on it on her sternum, to the way you can see the material at the seams under the shirt.  The hair colouring, detail of curls and flyaway hairs... WOW!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pauldannelachica2388",
+      "author_id": "UCFRi8loMyPEQY69Gitn40cw",
+      "text": "❤❤❤❤❤",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pandoraeeris7860",
+      "author_id": "UCOQ1GSRi89x5KRc_9pGrXQA",
+      "text": "I've solved the alignment problem.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "Wes love your videos. I noticed sometimes you provide article links and sometimes do not. If possible do you want to provide links more often?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Reyajh",
+      "author_id": "UCpaCngOOYRMkwvONyyiTc4Q",
+      "text": "If human history is any indicator here then we're in for a lot of trouble... Looks to me Skynet was more prophetic than fictic. There, I created a word too :p",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shirtstealer86",
+      "author_id": "UCf4FZ7wqvFW0jIFYwat-wRw",
+      "text": "lol Eliezer is spinning in his self predicted future early grave when he hears “weaker systems will align stronger systems”",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OculusGame",
+      "author_id": "UCq5fP9aTVX6bgtabpHD88IA",
+      "text": "9:01 that's exactly what Nvidia's Omniverse does, just another reason why Nvidia is so valuable.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardzaragoza9485",
+      "author_id": "UCCU605ykrXoXHYEaDyNdWUQ",
+      "text": "These smaller models become the ombudsman or ethical compass of the larger AI. Add to this the world modal AI and you already have a what sound like a collective intelligence. Any daily use AI will be a collective of many agents working together to fulfill a complex list of mundane tasks. Not to mention eventual Public and private agents applying differnt policies to each transactions. We are getting closer to biological-like collective intelligence described by Micheal levin.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@udynes4457",
+      "author_id": "UCLov2du226PyskfOK_3YvqQ",
+      "text": "It's curious to think that from math can  come consciousness or at least some level of it. The philosophical implications can be profound. If consciousness is essentially math it proves consciousness must have a creator because math is not random. Math is a product of intelligence.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erinphilippe5993",
+      "author_id": "UCxWQZarBWuQpvdjyMb8W0QA",
+      "text": "Hi mom! (first)",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yoagcur",
+      "author_id": "UCRxIV1DuSpTRYvcxXzvMEFg",
+      "text": "You can already ask for the latest news and chat GTP goes to Bing and gets current info. Bit worried that allying with a limited number of sources will produce biases",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PubgSpeed-wl8yo",
+      "author_id": "UCUJUrbnuSkgsiFoLxNywT7A",
+      "text": "Bro, thank you for your videos, but when did you promise that there would be videos on creating commercial assistants and after that not one video, just discussions, modern gossip, you will do lessons in which you create artificial intelligence in the form of an assistant and seal it in applications for phone, or website?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@inues",
+      "author_id": "UCyd6aqHBLVwVrGdkWemJjeQ",
+      "text": "Every week \"this was a huge week for AI news\". There's plenty of attention for AI, no need to pump it like nfts or the metaverse.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joelyricsandskits6223",
+      "author_id": "UCvpQDyUhRqH3St2inFmMeVA",
+      "text": "Let's just keep AI out of our guns that's the first step in AI Safety in my opinion",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markmuller7962",
+      "author_id": "UCTwRLaPs-tWkn_FHOsnc0uw",
+      "text": "I don't think it's possible to create alignment, as moral values themselves are fluid and change over time alignment too most be a fluid process kind of like an application running in the background that is continuously updated",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@homelessrobot",
+      "author_id": "UCwJg94UpuqtfDlTtw-cB-wQ",
+      "text": "agenticness. We already had a word for that, it's called 'agency'",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@garyswift9347",
+      "author_id": "UC_luWlO2_JqBK5-mRN-ohxQ",
+      "text": "someone needs to work on AI security officer systems",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DataJuggler",
+      "author_id": "UCaw0joqvisKr3lYJ9Pd2vHA",
+      "text": "1:36 Skynet started with something like this.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jimsimi",
+      "author_id": "UCemjDZeMgO9Oqcd612uac-g",
+      "text": "The mouse tracking assists are getting out of hand. I do just fine tracking the cursor alone personally. Great coverages as always though, thank you, Wes Roth.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lollerwaffleable",
+      "author_id": "UCjEZouxpUe82o2kB12_vk8w",
+      "text": "And can I get the link to that paper?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raoultesla2292",
+      "author_id": "UChFrcNu9p6CdyvH2iMv2U9A",
+      "text": "There is no Alignment problem/s. It is impossible for the Super Calculator eXcel equations to hurt you. AGI loves humans, only ever analyses cancer cures and healthy food production concepts. As soon as my NueraLink trials number gets called I will synch to AGI and translate it's best wishes for all humanity to you.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lollerwaffleable",
+      "author_id": "UCjEZouxpUe82o2kB12_vk8w",
+      "text": "Is there like a google drive or Dropbox?  I’ll just check the website.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DrJaneLuciferian",
+      "author_id": "UCCdXOMD8vM74oJ8GfqAh7yQ",
+      "text": "On the asking ChatGPT about the news, with so many news outlets getting caught using AI to generate content, it could end up in a solipsistic fugue, lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveEtchells",
+      "author_id": "UC6Oj16Fmn_yuykylyfRoL4g",
+      "text": "Every week is a big week in AI these days, and the trend keeps accelerating. This is what it looks like as you approach a singularity 😁",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dina_tankar_mina_ord",
+      "author_id": "UCMI-fN1eIk9tsoBwl2gEMvg",
+      "text": "Verify step by step ?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrDanoman812",
+      "author_id": "UCI-9F6npE_tNf5L5m_Cqwmg",
+      "text": "I'm WAY behind and just really learning about all of the AI stuff here. Wow is about all i can say with big and wide eyes! I'll admit openly, i'm pretty torn on both sides of what is coming in the future of humanity the more i'm learning. I see some seriously GOOD that can come out of this but, on the flip side, i also see some rather disturbing things, if not worse than what might be viewed as good too. \nEither way, thank you, Wes for keeping us aware of what's happening and showing us what you are seeing sir. MUCH appreciated my friend!!\n\nAlthough, fun now... my gut instinct tells me, this doesn't end well. But, what do i know? I'm still learning how this works as a wee tot in comparison; truth be told.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lollerwaffleable",
+      "author_id": "UCjEZouxpUe82o2kB12_vk8w",
+      "text": "Could I get a P&L statement on openai?  I assume that the “leaked” numbers you posted would “keep the doors” so to speak.  If that is the case, then I’m happy with that. \n\nI would like to just speak with everyone involved in openai on a phone if possible.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joey3070",
+      "author_id": "UCWG_4L1Zv9N4s8FMa71ofxA",
+      "text": "Please turn off that click effect on your screen recorder...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@everysun31",
+      "author_id": "UCgnzLOnfOBf0E_7ZUmalTlw",
+      "text": "Surely they played Portal 2) So these guys are basically creating Wheatley which was a tumor for GLADOS. Nothing can go wrong, right ?)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matthewdignam7381",
+      "author_id": "UCz8QXyqfe1M066U3o4eSL5w",
+      "text": "If ai can already make breakthroughs in mathematics, it would only make sense for ai to generate alignment for us, to insure we don't miss anything",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "We're starting to head in the direction where we might need to worry about the rights of fictional characters as the \"internal model\" of an AI about how people behave might eventually reach similar complexity as real human brains...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xmateosx",
+      "author_id": "UClDQiz2854u5ttm5v9sL9rw",
+      "text": "Just found you Wes. I've been looking for business opportunities with this large wave of innovation. As I explain to my friends these ideas, they are shook by what's happening. Thanks for this video. For the first time, after hearing about LLM being able to do math, this is a little encouraging. Keep going.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beppeadr",
+      "author_id": "UCu-uxeTBwu9Bobc1xNpI_Lw",
+      "text": "It is like to builg a small dam to controll a huge flow of water on a river that is 1.000.000 time larger the the small dam they plan to build. Amazing.\nThe SuperIntelligen AI when we finally find it/him/her will simply judge us according to what we are and what we do and will treat us accordingly, as we do with pigs or chicken for example. That's all.\nAnd, after all, it might be the reason why we here on this small and little planet in the middle of nothing.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prtauvers",
+      "author_id": "UCQM4W0QtzXxnc6PuT3aBexA",
+      "text": "Should be called FuncSearch instead of Funsearch",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@georgwrede7715",
+      "author_id": "UCTJl3TW9OOUDverBUfjEc4g",
+      "text": "(Slightly off-topic: The woman in the picture is still an obvious AI. Look at the neckline being different on either side. -- But I get the point.)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@noahway13",
+      "author_id": "UCF8lJt-QKuogq8yAfT4BRJA",
+      "text": "Attackers always have the advantage in asymmetrical warfare. They can attack anywhere , it is up to them, their timeframe. The defence has to defend everything 100% of the time because they don't know where the attack will come from. Look at the attack on Israel.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@miikalewandowski7765",
+      "author_id": "UCsMMZnoRsZOGxVYxZJNl52Q",
+      "text": "Axel Springer!? .. that’s absolutely horrible! I thought OpenAI wanted to reduce biased outcomes.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@doben",
+      "author_id": "UCMVwl19BuvC70IqWdYvCYxg",
+      "text": "What's with the OpenAI partnerships of questionable use for humanity? Giving priority access to companies like Coca-Cola and integrating \"news\" from Axel Springer? This stuff is wack beyond anything I'd hope for.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mitchdg5303",
+      "author_id": "UCbvOsq_q3k85zMlHj5VySnw",
+      "text": "agency",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cinemaipswich4636",
+      "author_id": "UCIjDTaHvMpjiB2FcQqTa82A",
+      "text": "No AI can identify any type of plant.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rolyataylor2",
+      "author_id": "UCz-Fb3rgbptQMPhWJaq195g",
+      "text": "::Cough cough:: My throat is so dry from yelling into the ether.... Individual Intelligence Oriented Alignment... Alignment using realtime informed consent...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@A123-d8o",
+      "author_id": "UCpvBZ7qLqOqd09jLU27TUig",
+      "text": "Math now...new physics later. Why break the laws of physics when you can just expand them!? Have fun expanding the laws of physics with FunSearch! Its the best type of fun around! FunSearch! Tee-hee ^_^",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffwads",
+      "author_id": "UCYHVL7N00l605eRqhri6EqA",
+      "text": "That new word \"agenticism\" or whatever has zero-chance of working out past this paper.  What a horrific creation.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveShap",
+      "author_id": "UCvKRFNawVcuz4b9ihUTApCg",
+      "text": "\"agenticness\" is a strange way of pronouncing \"autonomous\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kyneticist",
+      "author_id": "UCzgA9YbSKVdeX11FDQKoDdQ",
+      "text": "I do love the comedy of AI researchers pretending an interest in safety. I think most people have some kind of biological pathogen as the first, most likely catastrophe. There are so many possibilities though, they'll make for great stories. The only real questions are as ever, when, where, to what degree, and if possible what motive, if any, or if any can be understood or conclusively shown to be the truth. I really should get more popcorn.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andybaldman",
+      "author_id": "UC2VViuqn4meGvs4EmoeSmMg",
+      "text": "It’s all hype.  This tech doesn’t benefit the layperson.   It benefits corporations.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thesecondcomingpodcast",
+      "author_id": "UCelnSQqTJ4-rRM9-0k3dm7Q",
+      "text": "Ai is propaganda…..the ai the public gets is a joke",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PaulHigginbothamSr",
+      "author_id": "UCevRUWo4zil48O9CkeRZuWg",
+      "text": "So I talked to my son and told him how scared I was about the new ai. He was Air Force Intel and when I told him the new ai had emergent properties not expected for a word processing agent which searched for the next best word by statistically checking which word fit the best. He was ok with that and said don't worry any about any of this emergent nonesense dad. Well I said ok but now a month later I just don't know about this process. Something is going on here I don't understand and human intellect simply is NOT a word processor. People are of two minds about this silly thing. I think singularity is just months away where this jobbie gets human smart and then steps past us. Then things might happen we don't care to happen. We will see. They are looking for alignment with human attributes, nothing at all in that vein has happened yet which leaves me nonplussed. Good bye people, good to know ya'll.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MeinDeutschkurs",
+      "author_id": "UCVenI5ElQyOLokJUqVNkRpg",
+      "text": "What the quack! Agenticness! 🫶 I have to do the vocabulary stuff! 😁",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

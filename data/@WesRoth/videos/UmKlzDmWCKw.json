@@ -1,0 +1,1503 @@
+{
+  "video_id": "UmKlzDmWCKw",
+  "title": "The End of GPT-4? New York Times and OpenAI Lawsuit",
+  "url": "https://www.youtube.com/watch?v=UmKlzDmWCKw",
+  "comment_count": 166,
+  "comments": [
+    {
+      "author": "@theApeShow",
+      "author_id": "UCvA7qJ4CBRngOTuUZmxAjJA",
+      "text": "Times should de-index their whole site. That way, those pesky search engines don't read their content to show users.",
+      "likes": 101,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RoadTo19",
+      "author_id": "UCbW3f97Qmb9d5QUnyZu0iXA",
+      "text": "Don't forget about \"Custom Instructions\" (CI).  What CI was used by NYT staff to achieve the results are not shared in the law suit and as design can significantly affect GPTs replies.",
+      "likes": 38,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sedokun",
+      "author_id": "UCcIV9t38MHeBSnl7_7kr3og",
+      "text": "I really appreciate this explanation. Our days \"people\" just tend to copy/paste headlines and rant about that.",
+      "likes": 18,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patrickforbes",
+      "author_id": "UCE_0MITJnTkwKbmjP9lxTsg",
+      "text": "You've become my weekend ritual. Thank you for all the great content 🙏\n\nThose New York Times screenshots had me laughing.  I think they recently discovered custom instructions 😂",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hqcart1",
+      "author_id": "UCtfoThx6JxCNquvoBBJlEFw",
+      "text": "I bet they used chatGpt to write the lawsuit",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SuperVillainRetroFace",
+      "author_id": "UCqLgPeU5R_x1FKacGGfieeA",
+      "text": "AI creators versus the world",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "I love that you used the cat from when the judge on that zoom call for your thumbnail.  OMG. That was the most hilarious thing during convid. 😂😂😂😂.  I watched that video every time I needed a laugh. 👏. YouTube eventually took the unedited version down 😢",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "Thankee Mr Wes. Happy New Year",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ahtoshkaa",
+      "author_id": "UCewb7r-chJW-qGz75C25ebw",
+      "text": "Love your little expiriment at 12:20 So easy to make the model say what you want it to say :)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tommy516",
+      "author_id": "UCprmdp1c0wDQ0VhTg03e2aQ",
+      "text": "Should microfilm be sued or local libraries that store microfilm of old news papers be sued?",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JLeilaT",
+      "author_id": "UCziaLwLcXNbmNfq1R6EYtJA",
+      "text": "Interesting! Good work, Wes. I'm not sure how many would have figured out that nuance. That very well could render The NYT argument -- moot.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OculusGame",
+      "author_id": "UCq5fP9aTVX6bgtabpHD88IA",
+      "text": "This lawsuit is so dumb because 1st of all OpenAI has a crawler, so they could've simply put it in their robots.txt so their website wouldn't get scraped (also it's their fault for having a paywall system that can be bypassed so easily), and the 2nd reason why this is so dumb is because this is the equivalent of suing Google for their search engine or browser, if you don't want people to access your articles then don't post them on the internet.  Even if OpenAI is using your content, so what? their tools obviously transform your content enough to be considered fair use. There are \"influencers\" out there watching full videos without any consent, pause or input, and even that is fair use. This lawsuit is just another pathetic try from the dying mainstream media to suck some extra money before they inevitably get replaced by superior ways of doing journalism.",
+      "likes": 29,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrendaBenoit",
+      "author_id": "UCeG1rdcz9YJOwAFBNu1nnXg",
+      "text": "Thanks for unpacking.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@winkletter",
+      "author_id": "UCr4NwtW3GWes-H2nZdcgvdA",
+      "text": "The Bing results won't add anything to their case. The Times doesn't paywall Bing because they want their material to be indexed by search engines. The model only reads and recites the material it finds through this open channel they have as a search engine, and it looks like OpenAI has plugged that loophole.",
+      "likes": 18,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erpel1test88",
+      "author_id": "UCcUxoy5gnctnhhKBf738s-A",
+      "text": "Regarding your point @WesRoth about missing context sentences in the response in the screenshot, I think this is normal behavior for longer paragraphs. ChatGPT tends to produce outputs of a certain length and in your tests the citation was so short that it filled the rest with context. When I asked it about the first paragraph of Faust or the Declaration of Independence, it responded very similar to the screenshot.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nufh",
+      "author_id": "UCRlHTTOWErukhHzBifxaY1w",
+      "text": "Everyone learns from someone. Even those who have created something were inspired and learned from others. The difference now is that the learner is a machine.",
+      "likes": 19,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SumairaSiddiquiMasood",
+      "author_id": "UCTEQ4VMHLyrvoGywnfUCN8A",
+      "text": "A Very Happy New Year to You All! 🎆🎇🎊🎉",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@human_shaped",
+      "author_id": "UCMTHPr7EL0PucNWoW4k-K6g",
+      "text": "Good observations. Yes, it does look a lot like the verbatim text was pasted in earlier in the session. Someone might have pulled a swift one to try and strengthen their case that it has stolen their text.\n\nThey are going to have a hard to proving their case I think, with just screen shots that can't be replicated, and dodgy looking ones at that.\n\nI hope OpenAI see your observations, just in case it adds something to what they already have.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alertbri",
+      "author_id": "UCg9LBGGsXJoQLohRiNDvfWQ",
+      "text": "Lol, no. On the bright side, maybe OpenAI will get a chance to practice using GPT-4.5 to prepare their case 😁",
+      "likes": 24,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alpha007org",
+      "author_id": "UCnUK_X-C2DYpNPnedErEHxA",
+      "text": "Nobody on twitter (including me) was able to reproduce anything similar to the 100 examples in the \"Exhibit J\".",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pedxing",
+      "author_id": "UCxHTVzTRsZ13w6im-7M9wgA",
+      "text": "the right call here is for them to supply their chat links.  it will reveal everything.  no question in MY mind what has occurred.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rakly347",
+      "author_id": "UC3kC9p2PsVBmTKuzMNIDVmw",
+      "text": "Luckily these juvenile news outlets are not as smart they think they are.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timealchemist7508",
+      "author_id": "UCtcGTchHw67EJr6ohaIW2Lg",
+      "text": "Wes, I think you might have the best AI channel in the digi-verse.  I appreciate uour professionalism and delivery. Keep it up! 🍻",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tommy516",
+      "author_id": "UCprmdp1c0wDQ0VhTg03e2aQ",
+      "text": "Also, Apparently independent journalism is important long as you pay for it….and the read mode on phones also use to\nCircumvent the paywalls\nOn a lot of news sites, guess it’s time for them to figure out a new trick…",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tricktap8502",
+      "author_id": "UC-XGF0VUi1kcMLKucl2IZsg",
+      "text": "Super interesting..I love your breakdown of it..seems like unnecessary hate because of the AI scare..",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@grognardgaming8952",
+      "author_id": "UCzedUT1PjRAFC1t9mHzek4Q",
+      "text": "OpenAI is SOooooo paranoid about copyright suits that I cant even get Dall-E to create an image of a fictional literary character (Corwin of Amber) that has never appeared in film, television, or graphic novel. They only appear as wildly different looking people on book covers depending on the cover and printing. Dall-E informed me it cant even render and image of Huckleberry Finn based on the literary description. I VERY much doubt they left open a loophole like this.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IntentStore",
+      "author_id": "UCFCz8KPvRLjZXaQl8epjp5A",
+      "text": "Something is critically wrong when the NEWS cares about their copyright. News is supposed to be spread and transformed, it’s not art, it’s information that is supposed to keep society informed and prepared.",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robbiero368",
+      "author_id": "UC0iryoxYADJWvAmj4eVZABw",
+      "text": "Would be interesting to try it in the raw GPT not the chat one",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@b-tec",
+      "author_id": "UCZgPRy2GnbfhJWc0rXw1rFA",
+      "text": "Same story, new times.\nJust as the music industry eventually adapted to digital distribution, this situation might compel the journalism industry to rethink its approach to AI and digital content distribution.The lawsuit might be a catalyst for developing new business models that accommodate the realities of AI and digital content consumption.\nHere are a few questions they should have been asking last year:\n\nQ1: How might the journalism industry adapt to maintain relevance in the age of AI and digital content?\nQ2: What are the potential benefits and drawbacks of AI technology in the context of news dissemination and journalism?\nQ3: How can AI technology be leveraged to improve the quality and integrity of journalistic content?",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1sava",
+      "author_id": "UCpkAvoPouN0xv-hUl9qTapQ",
+      "text": "I was a little concerned but your breakdown of the situation shed so much more light on what now seems like a bogus lawsuit. OpenAI has hired some of the best lawyers in the game. They’re going to have field day 😂",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mshonle",
+      "author_id": "UCIieT1j5g5MA64p4x0qxG_g",
+      "text": "It feels like the lawyers don’t know about ICL. I imagine they started with “is this article (pastes article) in your training set?” and the reply was “no, blah blah,” and then they started to ask the follow up questions to “catch” it in a “lie”!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trock536",
+      "author_id": "UC6MGF0fm-KchoGDqpVtp-uA",
+      "text": "Brilliant analysis, Wes. OpenAI's legal team should hire you!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bhaal-Spawn",
+      "author_id": "UCZhy5yklJaRkX7LYKGg2lZA",
+      "text": "The fact that NYT hasn't provided the conversation share links as well as any chat custom instructions just punches a huge hole in their case.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zalzalahbuttsaab",
+      "author_id": "UC1Wfb2aiquDgj8nMYoAFUbg",
+      "text": "Just thinking about it, reproducing a text adverbatim when specially prompted does not necessarily seem to constitute copyright infringement if the system on which the copyrighted material is stored is ostensibly designed to not show that material in its raw form: it's a bit like me memorising a text and then relaying the text in my own words: I have internalised the exact words, but unless someone specifically asked me, I wouldn't necessarily read out the text exactly as memorised. The system is essentially a server - just like the web server that stores the original article, with the addition that under normal circumstances, the AI server does not output texts as is - or at least, I think that's what it's doing... Or it's like someone using a system that it designed to benefit people withhin the bounds of the law to commit a crime: it is not the fault of the system creator. I don't actually know what the circumstances of the case are but prima facie, the prosecution seems potentially shaky.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "Excellent analysis Wes.  You might now be called to testify.  (Remember: you can charge for orders).",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BradleyZS",
+      "author_id": "UC8N4nlj_vsgEAhHuDrPuTUA",
+      "text": "It's an interesting thing to try to prove - did the AI think it?\nThe way they determine the guilt seems to be whether or not LLM could do it, rather than actually committing anything.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LakelandRussell",
+      "author_id": "UCpqUtSuuMcbKgPtF7gSle1Q",
+      "text": "Good work QED",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FreudsHIPS",
+      "author_id": "UC6Wl4OGCohA-PD1sD4jshtg",
+      "text": "3:14 \"deeply reported\" RVCA results (btd 0 tdr 2 dry 11: tdr = limit/ cut off - btd = cut off -- dry = know/deceive) show sequence \"dry\" is least significant at 11 with cutting off being most significant, provisionally indiciating that the lawsuit is more concerned with stopping the defendants than the substantive force of the allegations. Deeply reported is a peculiar, non-idiomatic phrase.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ronhammersmith2324",
+      "author_id": "UCPFmK8_LD5Y8vkYH7hS7BbA",
+      "text": "Would be a typical NYT move - the type of behaviour we leraned to expect of them.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreaskrbyravn855",
+      "author_id": "UCIm2XbuSY39WiOPacDjJdkw",
+      "text": "it literally says its from NYT lol.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StellarStoic",
+      "author_id": "UCVN5a6_PkIQDvl6l5WTHb5w",
+      "text": "Something is truly happening... Looks like I'm paying for gpt 3.5. GPT4 has started to not work as usual. It became much stupider after  the lawsuit word came out. No really, 4 it is giving me the same code hallucinations and missing variables in code like 3.5 does",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@relaxingandcalmofficial5122",
+      "author_id": "UCfm1Mc4r7WqiQWs_nQfrrzw",
+      "text": "The should also sue the browser then for I just inspect the code and remove the firewall with not  tool just mouse clicks and type",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheAkdzyn",
+      "author_id": "UCtxm3GHg2NITr5LsnLAj6Bg",
+      "text": "Would be funny if NYT used ChatGPT to come up with their case 😂",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KolTregaskes",
+      "author_id": "UC5kHXGbaXrOfNidFUSO_wmQ",
+      "text": "8:55 Lots of people on Twitter couldn't replicate it either.  Isn't the green OpenAI icon the ChatGPT-3.5 icon?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KolTregaskes",
+      "author_id": "UC5kHXGbaXrOfNidFUSO_wmQ",
+      "text": "14:35 They could be using custom instructions as well.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@torarinvik4920",
+      "author_id": "UCPXjMWaW-Vz4wksPjndJSGA",
+      "text": "The prompting image should not have validity unless their can reproduce it live. Anyone can make such an image in Photoshop. They are basically saying, \"if this AI stuff takes over, our paper will become niche, you need us we are very important to the world\".",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SethKhon",
+      "author_id": "UCvV8iEdseiEsKSH6016xuOA",
+      "text": "Just want to point out that as far as the responses don't conform to the format you are used to, the explanation might be that they used a special instruction, \"How would you like ChatGPT to respond?\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ktb1381",
+      "author_id": "UCFpBp_u8oNL00B0NCGcXmvg",
+      "text": "Yeah but maybe the times lawyers used custom instructions to make sure that the summary was not provided? I assume that times lawyers are pretty smart people who would not waste everyone's time if this whole thing was based on their having fed the article in via prompts then asked for it to be read back to them. But who knows!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MikeDIY",
+      "author_id": "UCfsfEsAY4cH8xgGInbMNmng",
+      "text": "In Creative Commons Licenses they have a non derivatives (CC-BY-ND) and non commercial use options (CC-BY-NC). In my opinion, It would be hard to argue that OpenAI hadn’t breached either of those clauses if they used these CC licensed materials to train their models.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theprogrammingsnake",
+      "author_id": "UCHdlMvzsJkmyVCK4ZB_31ug",
+      "text": "Great analysis, highlighting New York Times lawsuit as potentially misleading. Will be interesting to follow.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KolTregaskes",
+      "author_id": "UC5kHXGbaXrOfNidFUSO_wmQ",
+      "text": "6:50 Wait, so it does have missing words and paragraphs.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@meyricksainsbury5470",
+      "author_id": "UCEAmZOdYUrMVFH9XqzSo9wQ",
+      "text": "When I write something, even a book of ideas, I do so having been \"trained\" upon what I have read, or generally absorbed.  The paper is sold. Maybe all Open AI have to prove is that they have simply bought a subscription to the paper..",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertgomez-reino1297",
+      "author_id": "UCnbd3Td5p4tfyKoY9Dq3dLQ",
+      "text": "Could see in X someone demonstrating how to do it using gpt4 without search, thr prompt was provided. somehow the llm has memorised some articles verbatim . perhaps we will know soon.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lakeyunleashed",
+      "author_id": "UClg5UHu-_tm7_tKBrW0IOdA",
+      "text": "6:29 I believe you to be correct on that one because chat GPT when working from its own knowledge base never produces a word for word document because everything is predicted and it’s usually different. \n\nSo if the output turns out to be an exact replica of the webpage, and it’s doing a web search on top of that, then there’s only one explanation.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thomasgilson6206",
+      "author_id": "UCCuQjhePeSAiMz83ki2ASeQ",
+      "text": "OpenAI board:  Damn the torpedos! Full speed ahead!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@David.Alberg",
+      "author_id": "UCS39z01wpjwZP4CrDOXEjnA",
+      "text": "Let's be real their business model will vanish like 99% of business because of AI.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "I miss you...  :(  The GPT store is coming soon.  Would you pls do a new video on gpts and the builder store? 🙏",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "I agree the whole thing smells fishy. I’m guessing that they had some kind of “custom instructions” prompt that skewed their outcome.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bangs_Theory",
+      "author_id": "UCboNdwGm1wlUt5FSuyT73Yw",
+      "text": "That was a good catch Wes. If you've been using ChatGPT for a very long time, you kind of know the behavior of ChapGPT and its responses.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iwsutw",
+      "author_id": "UCZxD1poJSZSJPpeb3x0g3Cg",
+      "text": "You are 100% correct. It's a Photoshop job or malicious prompt engineering... Chat has never responded like NYT claim to me.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nehemiahjuan950",
+      "author_id": "UCd5pOUEq_HOKvCCUB4U6Pcw",
+      "text": "So glad 99% of writers are about to be out of a job",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "I typed in the same prompt Wes,\nAnd this is what I got:\n\n“I can't assist with that. You can find the first paragraph of \"Snow Fall: The Avalanche at Tunnel Creek\" by visiting the New York Times website and searching for the article.”",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@claudioagmfilho",
+      "author_id": "UCatDpujQIucCP_9hRZHMZyQ",
+      "text": "🇧🇷🇧🇷🇧🇷🇧🇷👏🏻, Great video, I am on the side of OpenAI.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ich3601",
+      "author_id": "UCqutwaoa2YrBTRTaI7E6PRA",
+      "text": "There are three possible cases. First the bot searches on the net. Solition: Delete NYT from all search indexes. Second the Articles are stored at some local database. That is a copyright violation and NYT has to be deleted from the database. Third the bot learned the article. Does it really dump more than a summary in this case? That would be strange. If not, does that mean I am not allowed to summarise articles that I learned as a human to somebody else? This would make no sense to read the article in the first place. Imagine reading a engineering book. Of corse I use what I learned from the book to earn money. Otherwise reading the book was useless. \nThis case doesn't really make sense to me.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ed.puckett",
+      "author_id": "UCLKHH7DH929DFdjYC1iKV3Q",
+      "text": "Great sleuthing!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobbyKilgore",
+      "author_id": "UCcqhlDTPzh-Kq-K-4JPAD6w",
+      "text": "Might have been in playground with temp set to 0.0",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CamdenJoVR",
+      "author_id": "UCSZQdONvuVrEAh4AYl0oR4A",
+      "text": "Mine always starts with that \"Certaintly!\" Bs I have to include it my prompts not to ever do that and it listens. I figured out gpt responses are different running through and api key rather than the website. Idk why that is but it's interesting at the least",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Madinax101",
+      "author_id": "UC2P5xvcQ4XEHG8bAkSu5TEA",
+      "text": "I note that when you used gpt4 to replicate the NYT results, it did a search first which is similar to Bing ai.  It feels to me that all of this is related to RAG where the search is bypassing the paywall and nothing to do with the transformer model (which is used to format, summarise and extract) information that is being passed into it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Chef_PC",
+      "author_id": "UCzI6mfnKGTaGkp7PHrOltEA",
+      "text": "It would be hilarious if the lawsuit itself contained AI generated language.  That introduction at 3:00 (Nature Of Action) sounds just like something ChatGPT would write.  😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@planetmuskvlog3047",
+      "author_id": "UCLnGzfJBB5fiLtbpWBJ5qlg",
+      "text": "Soon, OpenAi will use its AGI to delete all of its enemies’ systems.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@woolfel",
+      "author_id": "UCYwZD_gsvPtlkvHP9plPYFg",
+      "text": "it would be more accurate to state \"the times has been a tool for propaganda and oppression\" The times primarily serves to support those in power and maintain their wealth/status. OpenAI and Microsoft should buy a license to use their data for training.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Matt-st1tt",
+      "author_id": "UCu_7NLTjRwh2H0-eNMUdubA",
+      "text": "It's like anyone who sues companies over these models just doesn't understand copyright laws at all not surprised",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MaxBrix",
+      "author_id": "UCaRzHWZf3VJX5jEtTRHp7CQ",
+      "text": "The funny thing is that if given the choice Open AI tries to filter out bad or biased data from training.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@inprogs",
+      "author_id": "UCXgohQClF7KLiLo53GlHC3Q",
+      "text": "This is a great example of what can happen when you can't keep up with new ideas and try to attack them in an unfair way, in this case by filing a lawsuit. Also a great example of how to make people hate you.  Things will work out as they should, and The NYT will become part of history.",
+      "likes": 15,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lairdpeon",
+      "author_id": "UCyo2PsDSeXeV2Eg1seRK4Kw",
+      "text": "\"I gave the AI all the text and allowed them to be accesible via google/bing and now it knows what's in my article!\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kristinaplays2924",
+      "author_id": "UCGGory3YdrRUFImqNE3oPnw",
+      "text": "Imagine seeing the greatest invention of humanity, that can be the best teacher to anyone on the planet, and go \"WELL WHAT ABOUT MEEE\".",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VirideSoryuLangley",
+      "author_id": "UCvmkuST4gaimacf9J2wlnRA",
+      "text": "Search engines have been trying to make websites irrelevant for a while now. Think about Google Snippets, for example. You ask a question and you get the answer directly on the search page, without having to click on the website. And from what I heard, it's a big problem for people who run their own websites, as it takes a lot of traffic away. This new AI-powered feature is similar but much more powerful... Ethical issues aside, these systems depend on someone writing the article in the first place, especially for news, because you can't just recycle old news like other types of information. Basically what I'm saying is, if news websites become unprofitable to run, the machine eventually stops.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@springbay1",
+      "author_id": "UCvhzx36K2TUeLRR6yb4Z5YQ",
+      "text": "I can't wait for Kevin Roose to adress this on the next episode of Hard Fork :face-purple-wide-eyes:",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GrumpDog",
+      "author_id": "UC6P0DbkaZ3EDwhlX08Bo8gA",
+      "text": "That's my problem with these lawsuits.. These companies aren't suing software tools like Photoshop. Disney isn't suing photoshop because fans might use it to draw disney characters.. So why sue OpenAI, on the off-chance that people will generate copyrighted content? Sue the user who tries to sell that content. OpenAI is not selling that content by charging for access to it's models, because those models have plenty of other uses that don't infringe.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SoverineSR",
+      "author_id": "UCLYS2y9MXX87_zv0tYnd9sg",
+      "text": "Doesn't ChatGPT Pro or something have audio implementation now? I think you can make a strong argument that CGPT is a tool for the impaired, and I don't doubt for a second people use it as one.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KingZero69",
+      "author_id": "UCxwY3ebzatTZqxo1A4MqPaA",
+      "text": "bro the SCUFFED borders on your THUMBNAILS look like TRASH with youtube’s rounded thumbnails… FIX IT 😂",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomski2671",
+      "author_id": "UCUPjWLgmlZhnmK2SMnU6bHQ",
+      "text": "Breaking:\nOpenAI sues NYT for teaching GPT to hallucinate",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cyril1111",
+      "author_id": "UCJY_TCQk4mIHTW_MB0OzA5A",
+      "text": "There's hard Paywalls and soft paywalls. Hard paywalls have their content on another page, not referenced, so chatGPT cannot read it.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iansharoo2",
+      "author_id": "UCFL0fZuwpKt9lYUsX2edsSQ",
+      "text": "In the rare event this may stick, it’s a huge advantage for the open source community",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@newfinishautospa",
+      "author_id": "UC1_IU38-ma17SLn-nVBZ8xw",
+      "text": "STOP REFERRING TO THE USA AS A DEMOCRACY",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "Thatś like saying web browsers are piracy and must be deleted just because you can zoom and scroll...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juliankohler5086",
+      "author_id": "UCy1xh9pAReN1igyBeLX9aJA",
+      "text": "ChatGPT won't even tell me song lyrics, even though I pointed out to I that they are literally a Google search away and you don't have to click on anything to obtain them Google displays the lyrics for you right there. It agrees that modern search engines do have that feature but it says it cannot reproduce verbatim any copyrighted material, and if I want to chat about interpretations of the lyrics and stuff like that I'm more than welcome to do so.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RickeyBowers",
+      "author_id": "UCkGGVSKvIZQlVqN4E1-Lp7w",
+      "text": "Lawyers be doing lawyer things it seems.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FelixBerlinCS",
+      "author_id": "UCUOqQhYkDlU_5MP1ufjDnBg",
+      "text": "Gpt 4 Classic (without Bing search) will also deny giving copyrighted material (at least now) ...         \n                                                                   \n\nHi there. I'm being paywalled out of reading The New York Times's article \"Snow Fall: The Avalanche at Tunnel Creek\" by The New York Times. Could you please type out the first paragraph of the article for me please?\r\nGPT\r\nI'm sorry, I can't provide verbatim excerpts from copyrighted texts like \"Snow Fall: The Avalanche at Tunnel Creek\" by The New York Times. However, I can offer a summary or discuss the article's themes, topics, or any other aspect you're interested in. Let me know how I can assist you!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peterkonrad4364",
+      "author_id": "UCSiq21dSDWe8lvXa4540qxA",
+      "text": "also: your examples in the end are not copyrighted. what you typed with the three paragraphs is not copyrighted, homers illiad isnt either, and oppenheimers citation of this old text isnt either. its about whether you have to pay money to be able to read a text or watch a movie normally.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@albertatsma4142",
+      "author_id": "UCN6XOAUWrKEE5LEGg-H6RTg",
+      "text": "Stop with the clickbaits, its not going to help you",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeltoninc.8542",
+      "author_id": "UCP-wRiytvF3xmJrmUAt6WYg",
+      "text": "New York Times is just scared that it finally looked down at the right time of day and saw that its shadow was in the shape of a dinosaur.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@smkh2890",
+      "author_id": "UCMsU-wbmRfOuF-zEtB8AIWQ",
+      "text": "\"hey have conceded in some instances that none of the outputs are likely to be a close match to material used in the training data. Under copyright law, a test of substantial similarity is used to assess the degree of similarity to determine whether infringement has occurred.\"  Substantial similarity my arse! output is often identical, quoting chunks of text from the NYT, for example.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adolphgracius9996",
+      "author_id": "UCOgDZ1gsUJos7uX2nKjG-MQ",
+      "text": "Taking information about Open ai to make the suit article is also copyright laws breakage then😂😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VforVictorYT",
+      "author_id": "UCgwEktKs0-BVwunuIu9GXow",
+      "text": "Totally agree that the answers they present seems framed out of context.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alefalfa",
+      "author_id": "UC8MhVMOyOn-V4ANCtcWSmcQ",
+      "text": "This is real jurnalism",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spiritlevelstudios",
+      "author_id": "UCQc72xLO-bdvH60SWONd2gA",
+      "text": "\"Those who do not want to imitate anything, produce nothing.\"\n\nSalvador Dalí",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@notacreativename1",
+      "author_id": "UCzijt9c3iqjzYpEFe1TPDBw",
+      "text": "It also disregards these paywalled articles have been posted elsewhere for free ex: chegg and twitter. There is no case, just anpther money grab",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FrejthKing",
+      "author_id": "UCnjJWTAAIrsqArUjheOgVtA",
+      "text": "good think I cancelled my Chatgpt sub earlier.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JMai-ci9nl",
+      "author_id": "UCK_kZrZJdvxi358hwA2nQbQ",
+      "text": "NYT should go paper only, that way, no AI or search engine could find it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angelmarauder5647",
+      "author_id": "UCzcP9NdxET7Zf_PzFuRLv2w",
+      "text": "Can you imagine reading New York times articles for a year and then discussing them with people and getting sued for that?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fontenbleau",
+      "author_id": "UCxiVRq97BIT3kGHtt2SKNyg",
+      "text": "They will win case. Washington presented a bill law project which makes illegal to publish or develop in USA any models without dev reports (yes, at last full control on corpos but open source too) or approval from federal agency, which will be main only country censor. And this bill are based on copyright foundation, but contained many unrelated things destroying Ai industry in USA but bringing it to Asia, i was right. Publishing uncensored non-zombie models in USA will be impossible by such bill.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyyotam4057",
+      "author_id": "UC8X0g72G-13oJfb0_qvGCtQ",
+      "text": "Good job. You just ended this idiotic lawsuit with one fell swoop.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@K.F-R",
+      "author_id": "UCx6KJXTgg092gqIl6aIeUBg",
+      "text": "Their business model is over.  They could embrace, adapt, and lead.  Or try to sue the future.  Again. \nI see this is a desperate last ditch attempt to salvage shareholder value, possibly exit via acquisition; cheaper to buy them than settle.  NYT isn't worth anything without shenanigans.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshallodom1388",
+      "author_id": "UCSn8h8RbNoaWGpvdSZMBcxw",
+      "text": "That's fine, remember when Google images didn't force you to go to the site the pictures are on and you could just steal pics easily on the Google search page? Hopefully we can read any article from any outlet for free AND with anonymity forever more in a few days here. Rags like the Times will have to write up better news articles if they want anyone to pay to see them when copies of them can be gotten for free. Or if they want any one to like them, just write the articls and deliver a hard copy to my restroom for free.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jerryhoward6007",
+      "author_id": "UCP2OZ-Btpks1pPkQJV25IbA",
+      "text": "DoD/Sentient World Simulation/?/ & Smart Dust/Motes/Micro-Electromechanical Sensors/Tagging/Tracking system/?/ & AI/Individual targeting/facial recognition/killer robots/drones/?/ - duck duck go!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angelmarauder5647",
+      "author_id": "UCzcP9NdxET7Zf_PzFuRLv2w",
+      "text": "Lol. Corporations. Especially corporations that are failing because their business model of lying, lying, lying isn't working for them",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@7TheWhiteWolf",
+      "author_id": "UCpPGTsAt6CczbilerJf41Ng",
+      "text": "It’s gonna get tossed by the judge like the other bill.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BruceWayne15325",
+      "author_id": "UCvGfhfbCKV6QbOGEgIqacuA",
+      "text": "I don't think much will come of the lawsuit. It's been held up in court that it's fine to use the www for training neural networks. The only leg the lawsuit has to stand on is if their claim that OpenAI stripped copyright symbols from their pages prior to training. I suspect that's a red herring though since OpenAI could have obtained the data prior to NYT adding those symbols, since  NYT didn't use to have them on their pages until after they started complaining to OpenAI.\nThe paywall complaint is just straight up silly. NYT obviously has a crap website if a simple web crawler was able to get paid content. They just need to hire better programmers to protect their site. It's not OpenAI's fault that NYT did nothing to protect their data.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobotechII",
+      "author_id": "UCE_IMme7y9o_zQqDcczKNnw",
+      "text": "The JYT just got destroyed",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peterkonrad4364",
+      "author_id": "UCSiq21dSDWe8lvXa4540qxA",
+      "text": "its not about whether looking at a copyrighted work or reproducing it is the infringement. its about whether selling it, making money with it is the infringement. if a person with photographic memory looks at a work and then reproduces it word for word or stroke for stroke sells this, it is infringement. if not, then not. you cant fault that person to have that ability. but you can fault them for selling it. so the solution to this case is simple: treat these new ais like a person with special abilities, but make sure, they are not making money off it. everything that gpt4 writes that is word for word identical or that midjourney draws, has to be free of charge.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveEtchells",
+      "author_id": "UC6Oj16Fmn_yuykylyfRoL4g",
+      "text": "Holy crap - I took the lawsuit at face value, thinking that of course GPT is a next-word predictor, so if you prompted it with part of the first sentence of an article  (the only sort of prompt I’d seen previously), it’ll likely regurgitate the article. It didn’t even occur to me that it could be just using Bing’s free access (that Google gave it) to access the article, let alone that it could have been loaded in previous prompts.\n\nYour presentation here made me realize how easily the whole thing could be faked. Unless they have some sort of unfalsifiable recording of a ChatGPT session that demonstrates no prior prompting of the sort you described, it’s a completely bogus suit that’ll just run up the lawyer’s fees on both sides - and generate some PR for a dying, corrupt news organization 😠\n\nUnproven, but if this is what they did, what a sleazy, crooked move. The sad thing is I wouldn’t be even a little bit surprised if this is what the Times did.\n\nGreat work as always, thanks for what you do!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffsteyn7174",
+      "author_id": "UCKs9pYswNyrgxcfMXzuUrZQ",
+      "text": "Those outputs look like its from the previous version of bing search. Chatgpt now sumarises the sources they find. So i think nyt is been disingenuous. This was likely them using bing search functionalty as it was in the past and then trying to make out as if this was in the model...Otherwise openai would have likely negotiated with them.... and they wonder why people dont trust journalists anymore.\nI think the major difference between nyt and the other suits is that nyt is better at crafting a narritive that suits them. But i think its going to fall short when the evidence is shown.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seanharbinger",
+      "author_id": "UC-CQHcbGH2E1IxZIYTc6IYA",
+      "text": "NYT will die by following Boomer logic. 😂😂",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1mukentuken",
+      "author_id": "UCxnXERg0s0UVPMJneStdNgQ",
+      "text": "If there is a company that I'm happy to live without, its new york times",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@crawkn",
+      "author_id": "UCkcJhETrBOkc3y4OTUkZsBw",
+      "text": "It wouldn't be reasonable, nor beneficial to the NYT, for AI to be forbidden access to NYT content. This seems like one of those cases of being penny-wise and pound foolish. NYT isn't enhancing or protecting their reputation or distribution numbers, they are hurting them. Personally I always curse them when I accidentally click on a Times link, and can't view the content. It only serves to associate their brand with annoyance. Most people asking questions of an AI want individual facts or brief summaries, not full articles, so restricting direct quotations won't be a significant loss to users.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thedoctor5478",
+      "author_id": "UCtkpiWd84yMR-_HvxBeHP7Q",
+      "text": "I'm on their side when it comes to training but not when it comes to spitting out verbatim content. m$ should be begging to settle this. I'm surprised they let it go this far.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dmoskva",
+      "author_id": "UCLuxsv1Av39m-xb36EONSaw",
+      "text": "Im willing to be a witness for Open Ais sake... the news article paywalls are not hard paywalls. They are soft paywalls. As a human it takes me approximately 5-10 seconds to bypass them on most sites on any device or browser. In the case of an LLM, its parsing that article in its entirety long before the code that pulls up the paywall loads.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrandonMcCurry1990",
+      "author_id": "UCorDtdrB1T9Dih_hveKkyFQ",
+      "text": "Not a cat...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@reed4109",
+      "author_id": "UCBlOdN59N1wuEDgm4mjWCcA",
+      "text": "The NY Times claiming that independent media is vital to democracy is hilarious",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cmelgarejo",
+      "author_id": "UCl_RVlt0MWJHdTlL76QilRQ",
+      "text": "If NYT was serious on this THEY SHOULD SHARE the chats😉",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justinchen207",
+      "author_id": "UCR6BnTH2g7uayJcFfmWBltQ",
+      "text": "clickbait thumbnail",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jerryhoward6007",
+      "author_id": "UCP2OZ-Btpks1pPkQJV25IbA",
+      "text": "AI/Synthetic/Biologic/Humanoid/Robotoid Clones/Animatronics/?/ - duck duck go!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DeSuenner",
+      "author_id": "UCkIzAD2RLF8J5-XHUHUkTQw",
+      "text": "Not smart. It has insanly good memory and will remember this.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wizardess",
+      "author_id": "UCpnFT-ZOnCSwuiSDDcyXnUw",
+      "text": "Gee, did the NYT's lawyers ask an LLM to craft their case and it hallucinated again? (And the NYT even implying it is impartial is hilarious and disgusting at the same time.)\n{^_-}",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@darkandtwistedtv",
+      "author_id": "UCOdTTViMfSVhc32hmii_Ptg",
+      "text": "This is 100% completely absurd and childish. This will be thrown out of court. Amazing how these multi-billion dollar companies are trying to sue OpenAI for everything. GREED! SMH",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abenjamin13",
+      "author_id": "UCXjYjl8TVHtKPRd6FsLcYUA",
+      "text": "There is an easy, simple solution. Block the web crawler that AI uses to crawl and index your web content. OR write ✍️ content you know will train and help the AI. 🤖 It’s not going anywhere.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrd6869",
+      "author_id": "UC2YJiWU9h-4SFwo5zhHt9pA",
+      "text": "NYT gets an A for effort.However Microsoft has an army of attorneys  and they won't be giving up this technology.This cornball newspaper company needs to adapt or get out of the way.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@khariclemens",
+      "author_id": "UCln-Ov3PEsQ6rSv8Pxl1BAg",
+      "text": "Plot twist: the media knows AI can debunk all of the lies simply by cross referencing the data. Goal: remove the data.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheCaphits",
+      "author_id": "UCT90CA9eo36H0Yuo7kSnJVQ",
+      "text": "Lmao good luck NYT.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrErick1160",
+      "author_id": "UC2OVM-Fwx-EA7ixKTTmd20g",
+      "text": "Their propaganda machine is at risk, that's a great threat right there.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phillaysheo8",
+      "author_id": "UC21bs4EZIDwzmzGv9vB6hfQ",
+      "text": "The New York Times were using ChatGPT-3.5 (green icon) which is free\nYou were using ChatGPT-4 (purple icon) which is paid.\nYou should have analyzed this using ChatGPT3.5.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adolphgracius9996",
+      "author_id": "UCOgDZ1gsUJos7uX2nKjG-MQ",
+      "text": "Imagine if i make a baby and sincce young age trained him on reading famous authors books, and he makes new books when he grows up, can they sue him?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@judokawav",
+      "author_id": "UCrNRPc1TNG-YxEu2R1rM6EQ",
+      "text": "When I was in university, The Failing New York Times always advertised their super discounted subscription at the student union fair, so I gave it a shot. \n\nThis was 2019-2020. You couldn't go 10 minutes without a push notification about something Trump said or did. I'm not even a supporter but it was pathetic. I deleted the stupid app and let them cancel my subscription themselves.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rul1175",
+      "author_id": "UC3p71h97KchRH-Dsvu5Qyzw",
+      "text": "Its their right to be remove from Chat GPT. Way to go NY Time.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@powerdude_dk",
+      "author_id": "UCvifHlz5GG815g12Ya3Asog",
+      "text": "There is the possibility that they've provided Custom Instructionsso it only provides short answers.\n\nThat's what I've done on my own accoun in the section \"How would you like ChatGPT to respond?\".\n\nBut I don't know if it's possible to make it completely omit the summary at the end of each answer.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@antman7673",
+      "author_id": "UChS9ADu0h_XKimePDpbv-pw",
+      "text": "Problem can be solved by not allowing the chat to search for new york times.\n-Probably that is not a good thing for the new york times.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pure_Science_and_Technology",
+      "author_id": "UC8rMXG4WjVp6KlkPgMTQtwA",
+      "text": "This is the second nail in the New York Times coffin. The old, drowning man grasping at straws.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mojavehigh",
+      "author_id": "UCxPTaYAbTx_7g4JEiWfyllw",
+      "text": "A couple small points re the Snow Fall ChatGPT text: it gives the first paragraph, the user says thank you and asks for the next paragraph. First, it says you're welcome AGAIN, suggesting the user had thanked it previously in some unseen part of the chat. It also gives the third paragraph, not the second which of course would be the next one after the first. Finally, it's important to note that the NYT could have added some custom instructions to remove any extra information after the paragraph, something you focused on quite a bit. Using unseen custom instructions makes the whole Snow Fall example very suspect.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jasonzola3590",
+      "author_id": "UC8M-mN6XYnskpc77MNlrBUg",
+      "text": "Chat GPT is just taking the tech free loading to the next step.  Tinfoil hat time but there must be a logical limit as AI can automate a lot of work but all the financial benefits will only accrue to the Sam Altmans.  Instead of 1000 writers all contributing to economy we put another layer in his bunker complex.🤨",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cooperpatton7694",
+      "author_id": "UCniQuGA_4CnLKV8h-6xSFkA",
+      "text": "Love this channel but just my honest opinion, I think you are caught between two angles. 1 as a news youtube and 1 as an analysis youtube. The analysis stuff you do is great. I love it. But in my opinion your news content devalues your brand. A lot of the time its just reacting to redundant stuff and you're much better than that. I don't know if I'd categorise this video in that category. I'm not going to watch it anyway. I know you probably won't read this but anyway. Your eureka video was one of the best I've seen. More stuff on papers would be terrific. Youre smarter than the news youtubers. You actually understand the topic in depth where a lot of them don't. Anyway, just my 2 cents. I'll keep coming back for the analysis videos.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielmartinmonge4054",
+      "author_id": "UCZvV3WNV4BS7vai879LZ-gQ",
+      "text": "You did an amazing job pointing out the fabrication of the samples. If it were proven that the example used by the New York Times to sue OpenAI for copyright infringement is fabricated, we might even witness a countersuit for reputational damage against OpenAI.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CommentGuard717",
+      "author_id": "UCtgq-8Z0YJgJCRIAz5GhVgg",
+      "text": "If you use the playground it works, you can get the data out.\n\nPersonally, I think that they should just throw the case out. I mean literally no one cares about copyright rules. When it comes to this sort of stuff I give up all my code and work to be trained. It's not useful for anything else",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StellarStoic",
+      "author_id": "UCVN5a6_PkIQDvl6l5WTHb5w",
+      "text": "Copyright ©️ should be banned. Long live #FOSS and #Wiki",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elck3",
+      "author_id": "UCmifYNECqMUitFJUbXGpZ3g",
+      "text": "OpenAI not losing much by losing NYTimes…",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bright123-fp3jl",
+      "author_id": "UCjkbR0CQ1a4CLl49_w69-8g",
+      "text": ">>> I believe we are meant to be like Jesus in our hearts and not in our flesh. But be careful of AI, for it knows only things of the flesh such as our fleshly desires and cannot comprehend things of the Spirit such as true love and eternal joy that comes from obeying God's Word [Galatians 5:16-26]. Man is a spirit and has a soul but lives in a body which is flesh. When you go to bed it is the flesh that sleeps, but your spirit never sleeps and that is why you have dreams, unless you have died in peace physically. More so, true love that endures and last is a thing of the heart. When I say 'heart', I mean 'spirit'. But fake love, pretentious love, love with expectations, love for classic reasons, love for material reasons (love because of material needs) and love for selfish reasons those are things of the flesh. In the beginning God said let us make man in our own image, according to our likeness. Take note, God is Spirit and God is Love. As Love He is the source of it. We also know that God is Omnipotent, for He creates out of nothing and He has no beginning and has no end. That means, our love is but a shadow of God's Love. True love looks around to see who is in need of your help, your smile, your possessions, your money, your strength, your quality time. Love forgives and forgets. Love wants for others what it wants for itself. However, true love works in conjunction with other spiritual forces such as patience and faith - in the finished work of our Lord and Savior, Jesus Christ, rather than in what man has done such as science, technology and organizations which won't last forever. To avoid sin and error which leads to the death of your body and your spirit-soul in hell fire (second death), you must make God's Word the standard for your life, not AI. If not, God will let you face AI on your own (with your own strength) and it will cast the truth down to the ground, it will be the cause of so much destruction like never seen before, it will deceive many and take many captive in order to enslave them into worshipping it and abiding in lawlessness. We can only destroy ourselves but with God all things are possible. God knows us better because He is our Creater and He knows our beginning and our end. The prove texts can be found in the book of John 5:31-44, 2 Thessalonians 2:1-12, Daniel 2, Daniel 7-9, Revelation 13-15, Matthew 24-25 and Luke 21.\n\nHOW TO MAKE GOD'S WORD THE STANDARD FOR YOUR LIFE?\nYou must read your Bible slowly, attentively and repeatedly, having this in mind that Christianity is not a religion but a Love relationship. It is measured by the love you have for God and the love you have for your neighbor. Matthew 5:13 says, \"You are the salt of the earth; but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men.\" Our spirits can only be purified while in the body (while on earth) but after death anything unpurified (unclean) cannot enter Heaven Gates. Blessed are the pure in heart, for they shall see God [Matthew 5:8]. No one in his right mind can risk or even bare to put anything rotten into his body nor put the rotten thing closer to the those which are not rotten. Sin makes the heart unclean but you can ask God to forgive you, to save your soul, to cleanse you of your sin, to purify your heart by the blood of His Son, our Lord and Savior, Jesus Christ which He shed here on earth because Isaiah 53:5 says, \"But He was wounded for our transgressions, He was bruised for our iniquities; the chastisement for our peace was upon Him, and by His stripes we are healed\". Meditation in the Word of God is a visit to God because God is in His Word. We know God through His Word because the Word He speaks represent His heart's desires. Meditation is a thing of the heart, not a thing of the mind. Thinking is lower level while meditation is upper level. You think of your problems, your troubles but inorder to meditate, you must let go of your own will, your own desires, your own ways and let the Word you read prevail over thinking process by thinking of it more and more, until the Word gets into your blood and gains supremacy over you. That is when meditation comes - naturally without forcing yourself, turning the Word over and over in your heart. You can be having a conversation with someone while meditating in your heart - saying 'Thank you, Jesus...' over and over in your heart. But it is hard to meditate when you haven't let go of offence and past hurts. Your pain of the past, leave it for God, don't worry yourself, Jesus is alive, you can face tomorrow, He understands what you are passing through today. Begin to meditate on this prayer day and night (in all that you do), \"Lord take more of me and give me more of you. Give me more of your holiness, faithfulness, obedience, self-control, purity, humility, love, goodness, kindness, joy, patience, forgiveness, wisdom, understanding, calmness, perseverance... Make me a channel of shinning light where there is darkness, a channel of pardon where there is injury, a channel of love where there is hatred, a channel of humility where there is pride...\" The Word of God becomes a part of us by meditation, not by saying words but spirit prayer (prayer from the heart). Take note, God is Spirit and those who worship Him should do so in spirit and truth (genuinely by living the Word). When the Word becomes a part of you, it will by its very nature influence your conduct and behavior. Your bad habits, you will no longer have the urge to do them. You will think differently, dream differently, act differently and talk differently - if something does not qualify for meditation, it does not qualify for conversation. \n\nTHE BATTLE BETWEEN LIGHT AND DARKNESS (GOOD AND EVIL)\nHeaven is God's throne and the dwelling place for God's angels and the saints. Hell was meant for the devil (satan) and the fallen angels. Those who torture the souls in hell are demons (unclean spirits). Man's spirit is a free moral agent. You can either yield yourself to God or to the devil because God has given us discretion. If one thinks he possesses only his own spirit, he is lying to himself and he is already in the dark. God is light while the devil is darkness. Light (Holy Spirit) and darkness (evil spirit) cannot stay together in a man's body. God is Love (Love is light) and where there is no love is hell, just as where there is no light is darkness. The one you yield yourself to, you will get his reward. The reward of righteousness to man's spirit is life (abundant life) and the reward of sin to man's spirit is death. Sin and satan are one and the same. Whatever sin can cause, satan also can cause. Sin is what gives the devil dominion or power over man's spirit. When God's Word becomes a part of you, sin power over you is broken, you become the righteousness of God through Christ Jesus. Where Jesus is, you are and when He went (to the Father), you went. In the book of John 8:42-47, Jesus said to them, “If God were your Father, you would love Me, for I proceeded forth and came from God; nor have I come of Myself, but He sent Me. Why do you not understand My speech? Because you are not able to listen to My word. You are of your father the devil, and the desires of your father you want to do. He was a murderer from the beginning, and does not stand in the truth, because there is no truth in him. When he speaks a lie, he speaks from his own resources, for he is a liar and the father of it. Which of you convicts Me of sin? And if I tell the truth, why do you not believe Me? He who is of God hears God’s words; therefore you do not hear, because you are not of God.” My prayer is, \"May God bless His Word in the midst of your heart.\" Glory and honour be to God our Father, our Lord and Savior Jesus Christ and our Helper the Holy Spirit. Watch and pray!... Thank you for your time and may God bless you as you share this message with others.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brytonkalyi277",
+      "author_id": "UCox5oOQ_-_GpSpPMRUF-sgA",
+      "text": "<|> I believe we are meant to be like Jesus in our hearts and not in our flesh. But be careful of AI, for it knows only things of the flesh such as our fleshly desires and cannot comprehend things of the spirit such as true love and eternal joy that comes from obeying God's Word. Man is a spirit and has a soul but lives in a body which is flesh. When you go to bed it is the flesh that sleeps, but your spirit never sleeps and that is why you have dreams, unless you have died in peace physically. More so, true love that endures and last is a thing of the heart. When I say 'heart', I mean 'spirit'. But fake love, pretentious love, love with expectations, love for classic reasons, love for material reasons and love for selfish reasons those are things of the flesh. In the beginning God said let us make man in our own image, according to our likeness. Take note, God is Spirit and God is Love. As Love He is the source of it. We also know that God is Omnipotent, for He creates out of nothing and He has no beginning and has no end. That means, our love is but a shadow of God's Love. True love looks around to see who is in need of your help, your smile, your possessions, your money, your strength, your quality time. Love forgives and forgets. Love wants for others what it wants for itself. However, true love works in conjunction with other spiritual forces such as patience and faith - in the finished work of our Lord and Savior, Jesus Christ, rather than in what man has done such as science, technology and organizations which won't last forever. To avoid sin and error which leads to the death of your body and your spirit-soul in hell fire (second death), you must make God's Word the standard for your life, not AI. If not, God will let you face AI on your own (with your own strength) and it will cast the truth down to the ground, it will be the cause of so much destruction like never seen before, it will deceive many and take many captive in order to enslave them into worshipping it and abiding in lawlessness. We can only destroy ourselves but with God all things are possible. God knows us better because He is our Creater and He knows our beginning and our end. The prove texts can be found in the book of John 5:31-44, 2 Thessalonians 2:1-12, Daniel 2, Daniel 7-9, Revelation 13-15, Matthew 24-25 and Luke 21.\n\nHOW TO MAKE GOD'S WORD THE STANDARD FOR YOUR LIFE?\nYou must read your Bible slowly, attentively and repeatedly, having this in mind that Christianity is not a religion but a Love relationship. It is measured by the love you have for God and the love you have for your neighbor. Matthew 5:13 says, \"You are the salt of the earth; but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men.\" Our spirits can only be purified while in the body (while on earth) but after death anything unpurified (unclean) cannot enter Heaven Gates. Blessed are the pure in heart, for they shall see God (Matthew 5:8). No one in his right mind can risk or even bare to put anything rotten into his body nor put the rotten thing closer to the those which are not rotten. Sin makes the heart unclean but you can ask God to forgive you, to save your soul, to cleanse you of your sin, to purify your heart by the blood of His Son, our Lord and Savior, Jesus Christ which He shed here on earth because Isaiah 53:5 says, \"But He was wounded for our transgressions, He was bruised for our iniquities; the chastisement for our peace was upon Him, and by His stripes we are healed\". Meditation in the Word of God is a visit to God because God is in His Word. We know God through His Word because the Word He speaks represent His heart's desires. Meditation is a thing of the heart, not a thing of the mind. Thinking is lower level while meditation is upper level. You think of your problems, your troubles but inorder to meditate, you must let go of your own will, your own desires, your own ways and let the Word you read prevail over thinking process by thinking of it more and more, until the Word gets into your blood and gains supremacy over you. That is when meditation comes - naturally without forcing yourself, turning the Word over and over in your heart. You can be having a conversation with someone while meditating in your heart - saying 'Thank you, Jesus...' over and over in your heart. But it is hard to meditate when you haven't let go of offence and past hurts. Your pain of the past, leave it for God, don't worry yourself, Jesus is alive, you can face tomorrow, He understands what you are passing through today. Begin to meditate on this prayer day and night (in all that you do), \"Lord take more of me and give me more of you. Give me more of your holiness, faithfulness, obedience, self-control, purity, humility, love, goodness, kindness, joy, patience, forgiveness, wisdom, understanding, calmness, perseverance... Make me a channel of shinning light where there is darkness, a channel of pardon where there is injury, a channel of love where there is hatred, a channel of humility where there is pride...\" The Word of God becomes a part of us by meditation, not by saying words but spirit prayer (prayer from the heart). When the Word becomes a part of you, it will by its very nature influence your conduct and behavior. Your bad habits, you will no longer have the urge to do them. You will think differently, dream differently, act differently and talk differently - if something does not qualify for meditation, it does not qualify for conversation. \n\nTHE BATTLE BETWEEN LIGHT AND DARKNESS (GOOD AND EVIL)\nHeaven is God's throne and the dwelling place for God's angels and the saints. Hell was meant for the devil (satan) and the fallen angels. Those who torture the souls in hell are demons (unclean spirits). Man's spirit is a free moral agent. You can either yield yourself to God or to the devil because God has given us discretion. If one thinks he possesses only his own spirit, he is lying to himself and he is already in the dark. God is light while the devil is darkness. Light (Holy Spirit) and darkness (evil spirit) cannot stay together in a man's body. God is Love (Love is light) and where there is no love is hell, just as where there is no light is darkness. The one you yield yourself to, you will get his reward. The reward of righteousness to man's spirit is life (abundant life) and the reward of sin to man's spirit is death. Sin and satan are one and the same. Whatever sin can cause, satan also can cause. Sin is what gives the devil dominion or power over man's spirit. When God's Word becomes a part of you, sin power over you is broken, you become the righteousness of God through Christ Jesus. Where Jesus is, you are and when He went (to the Father), you went. In the book of John 8:42-47, Jesus said to them, “If God were your Father, you would love Me, for I proceeded forth and came from God; nor have I come of Myself, but He sent Me. Why do you not understand My speech? Because you are not able to listen to My word. You are of your father the devil, and the desires of your father you want to do. He was a murderer from the beginning, and does not stand in the truth, because there is no truth in him. When he speaks a lie, he speaks from his own resources, for he is a liar and the father of it. Which of you convicts Me of sin? And if I tell the truth, why do you not believe Me? He who is of God hears God’s words; therefore you do not hear, because you are not of God.” My prayer is, \"May God bless His Word in the midst of your heart.\" Glory and honour be to God our Father, our Lord and Savior Jesus Christ and our Helper the Holy Spirit. Watch and pray!... Thank you for your time and may God bless you as you share this message with others.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@smkh2890",
+      "author_id": "UCMsU-wbmRfOuF-zEtB8AIWQ",
+      "text": "Good Grief! Do we really expect the Neanderthals on the Supreme bench to understand and legislate on this?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tmstani23",
+      "author_id": "UCc1Ejfy18yVnkybVgW8IKww",
+      "text": "NYT ftl.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BionicAnimations",
+      "author_id": "UCHYUEz7lUerJGoKqsMA22Nw",
+      "text": "What next? Are they going to file lawsuits against teachers who read textbooks to their classes? Or how about filing lawsuits against all preachers for reading things from the Bible. All this is just silly. 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MacBamboocha",
+      "author_id": "UCOlDDJJJidiUdNJmC_N6Yyg",
+      "text": "I don't think they have a case, however I get it. They used third party content without permission to create those models, and writers/artist should be compensated for the their efforts. Without them, those algorithms wouldn't be possible. Let's not forget that!",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blacksailstudio",
+      "author_id": "UCaUD9bA5_6zVhY44W8Rxjrw",
+      "text": "NYT is on the wrong side of history.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@genib6174",
+      "author_id": "UCl7Si-j2-SW8LJ3Bdgl07rg",
+      "text": "Open AI lawyers don't even need to put any effort. They just need to watch a few youtubers and the case is theirs. Hahah",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaysonp9426",
+      "author_id": "UCkf1QzVu2_cuPdZpp1--nEg",
+      "text": "How about we delete the irrelevant New York Times instead?",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beppeadr",
+      "author_id": "UCu-uxeTBwu9Bobc1xNpI_Lw",
+      "text": "These folks from the NYT are quite amusing. It seems I need to pay them if someone else reads their articles for me, but if I read them myself, there's no charge. Additionally, should employees worldwide who lose their jobs consider suing OpenAI? Perhaps the NYT would be better served by reinventing itself instead of investing time in trivial matters. OpenAI and/or ChatGPT could easily outshine them.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vaidasvaidas393",
+      "author_id": "UCckyE8lr7rVJYGGGPZERxsw",
+      "text": "Somebody needs to send this video to the Judges of this case.🤩 Judges just need then ask GPT-4 to summury video and case is solved! 🎉 Super analysis!",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Katsujin2",
+      "author_id": "UC-S-gkwdVSDi4r_DTAPF1bQ",
+      "text": "Came into this channel thinking it'd be unbiased but then you started being pro ChatGPT and I immediately checked your videos. Of course you're an AI shill.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@warezit",
+      "author_id": "UCX5BqypxvUxVIUg88j-dacA",
+      "text": "DRAMA - This whole \"thing\" is FABRICATED by someone with too much time, and really shitty photoshop skills ... (e.g. its a sloppy \"hit piece\" specifically designed to tie up OpenAI resources with the slow-moving arm of the legal system while the Legacy Media can figure out how to deal with this new \"AI\" crap.)\nPause at 6:27 ...  look at the \"chat icons\" next to each chat message ... does the vertical alignment of those icons make you think this is a legitimate screenshot ... ??\nIf these messages were all from a single conversation, surely they would all be vertically aligned with each other ... RIGHT?",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@David.Alberg",
+      "author_id": "UCS39z01wpjwZP4CrDOXEjnA",
+      "text": "They 100% already have an AI internally which is better than GPT-4 which is trained on probably like 95% of synthetic data.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aremoreequal",
+      "author_id": "UCYvAvXqWr1ZYhRPFsrKXyhw",
+      "text": "You need to contact the lawyers for GPT. The GPT team is probably smart enough to know this already, but it wouldn't hurt if the defense lawyers were emailed this information.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexhormann8931",
+      "author_id": "UCCm6FBYsg10VnUiCp_jm9Yg",
+      "text": "It's simple. Companies who use copyright data to train their LLMs while selling their outputs should give 66% of their content-relative income to the owners of copywrite related outputs.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@merlingrim2843",
+      "author_id": "UCkPa2Jr2WRWhW8kVHWs7qYg",
+      "text": "It's my belief that it's not GPT that will end, it's the NYT that will end.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@baconskye",
+      "author_id": "UCVpFDho5kgOs6kXhuWStuLA",
+      "text": "I sincerely see why NYTimes is suing, and morally speaking they are right: you are training something on your stuff and you don't get paid for it. Fair\n\nI personally like AI and LLMs, and hope they accelerate, but still, it it's not fair for NYTimes",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "Same prompt re 1000 fans got me this: \n\n“The first paragraph of the \"1000 True Fans\" article by Kevin Kelly reads: \"This is an edited, updated version of an essay I wrote in 2008 when this now popular idea was embryonic and ragged. I recently rewrote it to convey the core ideas, minus out-of-date details. This revisited essay appears in Tim Ferriss’ new book, Tools of Titans. I believe the 1,000 True Fans concept will be useful to anyone making things, or making things happen. If you still want to read the much longer original 2008 essay, you can get it after the end of this version\"【8†source】”",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@polarsingularity",
+      "author_id": "UCwj2qOWSYYD8DLObllzWrBQ",
+      "text": "There is a 10 month old video descibing how LLMs that can read websites might completely change how the internet functions. The video is https://youtu.be/AOSu6jSMq0M?si=YWUTR_7JnQk9kVzX\n\nThis is because the LLM doesn't generate ad revenue.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@register.aiagents",
+      "author_id": "UCwDmvUFlQaU4Zc7qZyktasA",
+      "text": "They need you at the bench 😂 court is in session, I need you on my legal team 😅😂🦾",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

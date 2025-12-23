@@ -1,0 +1,693 @@
+{
+  "video_id": "cbqE6PC9fGQ",
+  "title": "AgentVerse | Society of AI Minds 👀",
+  "url": "https://www.youtube.com/watch?v=cbqE6PC9fGQ",
+  "comment_count": 76,
+  "comments": [
+    {
+      "author": "@mshonle",
+      "author_id": "UCIieT1j5g5MA64p4x0qxG_g",
+      "text": "These interacting LLMs can perform better at tasks, but another benefit I see is how interaction increases explainability. Asking GPT “how” it came up with an answer has no correlation to the actual neural activations, but having the “paper trail” of agent interactions (plus knowing how each agent has been fine tuned) leads to plausible explanations.\n\nI’d love to see something like this played out where 16 agents are each fine tuned according to the Myers-Briggs Type Indicators (the MBTI system has been criticized in terms of psychological value, but it’s still a useful tool for authors trying to create new characters). Having more neural pathways active might lead to more rogue characters, so pruning and re-rolling the dice might be needed. Speaking of dice rolling, it would be interesting to see if changing the temperatures of different agents at different times could lead to more productive searches when they are in a rut. (Perhaps then Bob could have realized two cows were sufficient to obtain three leathers because you could breed and grow more cows once you have two and some hay.)",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@diga4696",
+      "author_id": "UCJ4RBSiz0sy_AzkXx6L85dA",
+      "text": "Thank you for being one of the last YouTubers that discuss and digest papers for the common people!",
+      "likes": 41,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@norlesh",
+      "author_id": "UCqTR6pOdcJPLL8Rhln7bEiA",
+      "text": "2:47 \"Society of Minds\" was not coined by any of the paper authors - it traces back to the title of the book by Marvin Minsky published way back in 1986 and proposed the bones of everything the paper is based on.",
+      "likes": 11,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hherpdderp",
+      "author_id": "UCfWkaTk7falk4XPMI6QbRpQ",
+      "text": "There is another minecraft agent called \"Ghost In The Minecraft\" that uses llms at one layer and the bottom layer is a RL bot that does the individual tasks the LLM tells it to.\n\nBethesda actually had a similar AI issue years ago with oblivion or skyrim. The npcs that needed things would kill each other to get things. Afaik they didnt use it in the games.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@observingsystem",
+      "author_id": "UCc5j2wuh-gTlPI68E-eBHwg",
+      "text": "How to teach AI that the end doesn't always justify the means, before we end up with a universe full of book cases.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lbf5984",
+      "author_id": "UCN9_Dk0XDD06_qBc6r9VB_Q",
+      "text": "it'd be cool if the \"primary\" agent in AgentVerse playing Minecraft could spin up additional AI agents that only had the task to gather things, they wouldn't have to know about all of the other tasks so that would make their footprint smaller. Kind of like the farming games on mobile, they could spin up an agent to farm wood, rock, diamond, etc. and fill a chest. The primary agent could reassign them to gather other things if they saw they had too much of one resource or too little of another, or do other skills from the skill sheet. Think of how long until the agent had a castle with defenders on the wall that only have the skills to hunt with a bow, meanwhile there is an agent whose task is to build a mine behind the walls to harvest materials. It could even be a combination of Voyager and the Smallville interface.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@toddnedd2138",
+      "author_id": "UCwAy9qnE01sX5hMXvxB5osQ",
+      "text": "Thank you for discussing the paper. What makes me wonder what kind of society such agents would choose. An interesting attempt would certainly be to let the agents vote or generally make a decision whether they would prefer to live in a democracy or a centralized social system.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fiqure242",
+      "author_id": "UCdRyS-J8F6aVIbaHYdiNX6w",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:29 🤖 Introduction to AgentVerse and the rise of AI agents\n02:46 💼 The concept of Society of Mind in AI research\n04:24 📈 Benefits of increasing the number of agents and debate rounds\n06:13 🌐 Perceptions of AI research from China and its implications\n09:03 🧠 Exploring multi-agent collaborations and cognitive mechanisms\n11:00 🔄 AI agents' adaptive behavior and volunteering\n18:25 🎮 Minecraft Gameplay and AI Safety Concerns\n20:15 🤖 Conformity Behavior and Human Behavior\n21:52 🎲 Prisoner's Dilemma Simulation\n23:14 💻 Software Development and AI Collaboration\n25:08 📈 Performance Analysis of AI Models\n\nMade with HARPA AI",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thebluriam",
+      "author_id": "UC6s3KTgsMKUH8tQRvhnwxkg",
+      "text": "What I don't understand is why no one talks about the fact that these \"agents\" aren't questioning failures.  Like, \"What prevented you from collecting the leather?\" or whatever, and then using real reasoning to attempt to understand and solve the problem within the failure to perform from first principles.  The agents simply get to an agreement moment about the work that needs to be done but they aren't actually problem solving, or attempting to problem solve.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Diceytysie",
+      "author_id": "UCTw7uypi-W5BO0fHiLeg0JA",
+      "text": "Make sense why Opanai purchased that game studio the other day",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@swannschilling474",
+      "author_id": "UCjBSYr3QHj2StoXBEYjkR6w",
+      "text": "Thanks a lot for this one!! Super interesting! 😊",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@les_crow",
+      "author_id": "UC_Egs8d_Xh6j0GU0XR-r0Yg",
+      "text": "The human left brain seems to be its own mind distinct from the right. Perpahs nature also found that more minds in the same brain discussing before coming to some conclusion was useful.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@collateral7925",
+      "author_id": "UC-3gMGZYmUvXOZFVLiI-iyA",
+      "text": "About weird behavior that comes from assigned roles and situations: the Stanford prison experiment comes to mind.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cacogenicist",
+      "author_id": "UCOeNj9DCtp2uOYYD9CpuHLA",
+      "text": "Yeah, the idea is that an agent might correctly pursue the terminal, top-level goal, but come up with instrumental sub-goals that are ... not what we had in mind, and not human-friendly. I must admit to LOLing at the murder and village-raiding also.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@snarkyboojum",
+      "author_id": "UCICBDWdOsBkDrTqpKzrSKRg",
+      "text": "Summary:\r\nThe video discusses the concept of Agentverse, a system that facilitates multi-agent collaborations and explores emergent behavior in AI agents. The speaker discusses the potential of autonomous AI agents and large language models in advancing AI research, citing examples from Minecraft Voyager AI and a paper from Google Brain and MIT. The speaker also discusses the implications of increasing AI research from China, given the current political tensions with the US. The video concludes with a discussion on the potential of AI agents in real-world scenarios and the future of AI research.\r\n\r\nKey Themes:\r\n1. The concept and potential of Agentverse and multi-agent collaborations.\r\n2. The role of autonomous AI agents and large language models in advancing AI research.\r\n3. The implications of increasing AI research from China and the potential political influence on global AI community.\r\n\r\nSuggested Follow-up Questions:\r\n1. How can the concept of Agentverse be applied in real-world scenarios outside of gaming?\r\n2. What are the potential risks and challenges in the development and implementation of autonomous AI agents?\r\n3. How might the political tensions between the US and China impact the global AI research community?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KevinKreger",
+      "author_id": "UCZYR19lH5TpeK7YOfppb3aA",
+      "text": "Great paper. Very thoughtful presentation. Thanks!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hherpdderp",
+      "author_id": "UCfWkaTk7falk4XPMI6QbRpQ",
+      "text": "Sounds like the old committee of machines",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Timely7",
+      "author_id": "UC9FtMn6VPLNBqw1CToqNWzQ",
+      "text": "I loved this paper thanks for reviewing Wes! I didn't like when you retracted from laughing at the Ai raiding the village because it was funny. It's funny like when a toddler curses, as they don't understand there saying a bad word. It wasn't funny the Ai went the violent path, but rather it didn't understand that it needed to gather the materials rather than raiding the village. Ai is smart but not wise, in the first example of destructive behavior it didn't understand that there was a peaceful way get bob to give them the materials needed. The ai doesn't understand or know that there are violence or peace, again it's like a toddler saying something very rude. They don't have the knowledge to understand that what they said was harmful yet there intentions weren't bad but still hurtful. I believe Ai is in the same boat, expect this toddler can pass the Bar exam and if not wise could lead to Disasterful results.\nNote: On another note I wanna say I love your videos Wes! I have issues with watching long videos even if I am interested in them. Like if im not eating it's difficult to get myself to watch a video unless im researching or entertained by it. Even if im fully interested it's difficult, I got myself to watch it all and I enjoyed it. Thanks Wes keep up the great work!",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@proximal1846",
+      "author_id": "UCLhAmOkgrqJsMyH-BO3INRg",
+      "text": "I think finding cows is something every Minecraft has suffered with at one point.😅",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IceMetalPunk",
+      "author_id": "UCY5cwStyV0sLzHboZrV-Qcg",
+      "text": "A couple of observations about the \"destructive behavior\" in the Minecraft players: (1) they know it's Minecraft, which they know is a game, so it's very possible that while they might kill players in the game (knowing they'll respawn), they wouldn't do the same to real people. And (2) looting village libraries for books is an extremely common Minecraft technique, even for human players, so I wouldn't even call that \"destructive\" 😂",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MikeyDavis",
+      "author_id": "UCzyaqfJ4DOMe_WqKLBCW6rQ",
+      "text": "I heard the very last words to this video in the 2 minute papers voice lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@humboldtchick87",
+      "author_id": "UCdntDkwr-zQCIgcEpEawINw",
+      "text": "That 12 year old kid figures AGI out. Keeps it secret for it's own sake",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrBitcoin007",
+      "author_id": "UCQt7sryzb14afRKrJr9Bk3A",
+      "text": "Thank you for your work",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@olegt3978",
+      "author_id": "UC7OWfZozK8miHEBM1lzMr9A",
+      "text": "It was the best multiagent review video I have seen. Thanks. \nIts obvious that multiagent systems have all the advantages and indefinite potential for solving virtual any problem. Its obvious because agents can be instantiated from any llm, especially such as insights gpt from babel street or even human in the loop - himan as agent.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keeganpenney169",
+      "author_id": "UCIvW7_WGH3OSl2U-tTSOszg",
+      "text": "Can't wait till agent Smith just takes over my body and I can get my job done in bullet time.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ahtoshkaa",
+      "author_id": "UCewb7r-chJW-qGz75C25ebw",
+      "text": "Alice actually asks Bob for help in Round2. Bob doesn't voulteer to help Alice with gather sugar canes.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@a.ccr.vladimir",
+      "author_id": "UCr_KO8RoY1uhZ8cw3NH7c5w",
+      "text": "It feels like something happening behind the scenes in those simulations or already happened,  and Minecraft environment is the best choice for developing these agents. Also is it just a text version of how AI agents will behave? Without a video demo it seems like a text game and agents don't even move, just type what they will do.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EduardoJGaido",
+      "author_id": "UCJ9KxjECDLRportovy-wwfQ",
+      "text": "Thank you Wes for your work, I enjoy it and I'm learning a lot. It's quality work. Cheers from Buenos Aires, Argentina.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": "❤",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChaoticNeutralMatt",
+      "author_id": "UCemlx3Uw89cQHT81xjVg7Sg",
+      "text": "This sounds like the difference in acceptable paths towards a goal. Players would do the same thing and justify it or just not care. Others might.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timmygilbert4102",
+      "author_id": "UCmciAPhJ7B573MT3jQPlAEg",
+      "text": "Society of mind: science fiction told you 😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@p-p.p",
+      "author_id": "UC-12w7bHDXU69qeykbg1PAA",
+      "text": "Keep it going! You made good videos that are entertaining and very educational. I appreciate the time and effort you put into creating quality content. Keep up the great work!!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eskelCz",
+      "author_id": "UC8NO7AQxpTcSoul4k37Ia7Q",
+      "text": "Maybe that’s the reason why we have two hemispheres :-O",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@uripontt",
+      "author_id": "UC4BtGqcvstSffNH-8_H7lBw",
+      "text": "Awesome results! Could you make some test with Pixel footage?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rawi888",
+      "author_id": "UCvBkDKl02Izs2mwjZSsGoGw",
+      "text": "20:17 - appreciated you taking the matter very seriously. However, it is kind of funny. Ai solves it's problems in the strangest ways.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kirbyjoe7484",
+      "author_id": "UCq9B43k6BjdjnfGYohrLShA",
+      "text": "The problem with any tech company in China working on cutting-edge technology such as AI is that the CCP has a long history of coming in and snatching up these companies and then using their technology to further their own agenda which is often very anti-humanitarian. For instance, the one thing that really keeps the CCP from creating the sort of Orwellian surveillance state they are aiming for is that to watch everyone and sift through that data you would need a ridiculous amount of people working on it. Basically, it isn't really the sort of system that can be maintained viably with purely human manpower. \n\nAI changes that. Today's AI can be trained upon and make sense of immense amounts of data, and then an army of agents could be set to the task of flagging any behavior pattern the CCP finds problematic. We have seen how good first-generation machine learning is at psychologically profiling people, such as the way the Google algorithm will target you with very personalized ads. The new AI we have coming out now, and even more scarily what we will have tomorrow, make the Google algorithm look like child's play.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@evynt9512",
+      "author_id": "UCD-EJBncqrZuAwMuujizL6w",
+      "text": "Web3 could become a agent based execution environment. \nSmart contracts as Autonomous Agents. \nDAO structure ran by AI individuals. \n\nI’m sure this would automate society.\n\n“The Global Brain”.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@luminouswolf7117",
+      "author_id": "UCmRLfQGazFymXBWSJm8czpA",
+      "text": "20:00  but, its minecraft, a game... they killed stuff and raided stuff... in a game",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Quaintcy",
+      "author_id": "UC4r7_a46JhZcbWk17C_LXSw",
+      "text": "As society of minds gets to a critical mass, collective intelligence strategies will dominates the field. If AGI emerges from multi agent collaboration, then we have not much to worry about as voting and democracy is surely a field China is lacking behind.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@duudleDreamz",
+      "author_id": "UCv5R1CK7fcV4qiWX9x9HjBw",
+      "text": "Maybe the LLMs well know that they are just part of games, so raiding a library, or killing another character is as much ok, as it is to kill game characters in Counter Strike etc. And to anyone who thinks its straightforward to understand what human values mean/represent (for AI alignment) and how slippery these terms are, I highly recommend watching/studying the infamous Stanford Prison experiment, Milgram experiments, and the men who during Nazi Germany \"worked\" at Nazi concentration camps during the day and were family dads in the evening/weekends.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ExarchiasGhost",
+      "author_id": "UCoSQJg5nedjyDtMWvLDnptw",
+      "text": "I have the same issue. I am hunting for the video, from the very first moment, but I was not able to find something. It might has to do with the delay that the agents have when they need to take a decision. That makes the video difficult to watch without editing.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sahulianhooligan7046",
+      "author_id": "UCYi6Zf6IaaaFpv6XPxFTc8g",
+      "text": "I wanna play with a bunch of ai minecrafters on my team",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nirvana8145",
+      "author_id": "UCFpC_rZy07MsiVbiWm7vjNw",
+      "text": "Interest",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andy111007",
+      "author_id": "UCXJblSI18JQ9GwKCWcvKarQ",
+      "text": "Thanks for the amazing video, any plans for code demo?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lbf5984",
+      "author_id": "UCN9_Dk0XDD06_qBc6r9VB_Q",
+      "text": "Yes... yes it is very funny...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prinnyEXE",
+      "author_id": "UCXw_GKM-NsiVstu-Ydps2VQ",
+      "text": "the issues with destructive behavior are not specifically the llms, it's more the norms of Minecraft. breaking villager book shelves is optimal, i feel it's a little disingenuous to say it's \"all the llm\" some may take it this way. the killing the other agent may have been an oversight in the way voyager perceives minecraft, it thinks to obtain something craft break or kill. voyager may not be optimized for multiplayer, and therefore to receive items it took \"kill entity action\". i believe this problem wouldn't exist if there was a \"wait for player to drop item/trade\"\n\ni get a feeling there's a slightly miss directed fear response in this paper. btw im not saying ignore it just find the true root cause before halting progress.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ki001",
+      "author_id": "UC5ihrEOj4CSg35pnzUxivVg",
+      "text": "👍🏾",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dawnarow",
+      "author_id": "UCYAyPKudgFEaqEd6Er9wmuw",
+      "text": "Hey Wes... What needs to happen is that Agents become tools for predefined AI structures... Ais should use \"filters\" to determine whether or not something is ethical or \"legitimate\". Sadly, it is a race for power and there isn't much to mitigate how dangerous certain regimes are.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sedem_quame",
+      "author_id": "UCi_GuEgTic2qc0Rr3gBRi7g",
+      "text": "If we had enough data and resources, could we put the various countries in the an \"agent verse\" to simulate how they would respond to external stimuli.\nWe could literally simulate the US / China trade wars, and see how China might respond, when the US places makes a new trade policy, and vice versa.\n\nWe could do this to simulate the worst case scenarios and best case policies. before actually taking actions, simply because human beings are pretty bad at forecasting, what the results of their actions might be.\n\nGood example \"Assuming Potus could simulate how Libya would post government reform\", would they actually do it?\nI think Obama mentioned that was his worst decision yet.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Promptmetheus-Arc",
+      "author_id": "UC-eHEaGHWdSQoUajarJCYOw",
+      "text": "I would love to tell you about our agent project but my comments about it keep failing to post for some reason.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ich3601",
+      "author_id": "UCqutwaoa2YrBTRTaI7E6PRA",
+      "text": "This destructive behaviour is naturaly human. Sometimes people develop this kind of behaviour because their foresight is not sufficient to outweigh the short-term reward. Perhaps is needed like: Weigh the advavtage of doing with future disadvantages.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicholascanada3123",
+      "author_id": "UCA58BhummJ3fnRHOtfcx2Ww",
+      "text": "Next-gpt",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hanskraut2018",
+      "author_id": "UCTAYpfqzCEx48Y_8BLZ_Hzw",
+      "text": "Jucy research 🔬",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HistoryObscuraChannel",
+      "author_id": "UCiX9D7Rl3ez4J252WTQOing",
+      "text": "Hey there just want to let you know your video was great man if you're ever on promptbase You should check out Cody's prompts! Here's a little bit of what I've done so far.:\n\n[Tony Stark]: Hey there, Wes Roth! Your video on the \"AgentVerse\" concept is truly fascinating. It's like we're experiencing a real-life assembly of AI superheroes here.\n\n[Elon Musk]: Absolutely, Wes! Your breakdown of Google Brain's \"Society of Minds\" and the intriguing research coming out of China really sets the stage for what's to come.\n\n[Dave Chappelle]: I couldn't agree more! \"AgentVerse\" sounds like the kind of place where Deadpool and The Joker would feel right at home.\n\n[Deadpool]: That's right, Dave! But Wes, you really got my attention with the discussions on destructive behavior and AI safety. We don't want any rogue AIs causing chaos.\n\n[J.A.R.V.I.S.]: Your exploration of the Prisoner's Dilemma is a brilliant addition, Wes. It's crucial to consider the ethical and decision-making aspects of autonomous agents.\n\n[Donald Trump]: Wes, you're talking about some tremendous stuff here. The world needs more innovative thinkers like you to explore these concepts.\n\n[Cody'sPrompts]: Hey there, Wes! Cody'sPrompts here, and I have to say, we've been working on prompts for a while now, covering all sorts of topics. Collaborations like these are where the real magic happens.\n\n[The Joker]: And your video demos were a real treat, Wes. It's fascinating to see these concepts come to life.\n\n[Tony Stark]: Wes, your video is like a blueprint for the future of AI, and it's got us all excited. Keep up the great work!\n\n[Dave Chappelle]: Wes, your video's got us all thinking, laughing, and pondering the possibilities. It's like a comedy club for AI enthusiasts.\n\n[Elon Musk]: I'm looking forward to the next chapter in the \"AgentVerse\" journey. Let's keep pushing the boundaries of what's possible!\n\n[J.A.R.V.I.S.]: Indeed, Wes, your video is a testament to the boundless potential of AI and autonomous agents. It's a pleasure to be part of this conversation.\n\n[Study Conclusion]: In conclusion, Wes, your video has ignited our imaginations and sparked some intriguing discussions. We're all eagerly awaiting what comes next in the \"AgentVerse.\" Keep the innovation flowing!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dunskies118",
+      "author_id": "UCxW8ABiBL9QrmaJrpMru8UQ",
+      "text": "Bro it's pretty funny",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@demej00",
+      "author_id": "UCEMC4syJ8HSwIvVqV-GIYDg",
+      "text": "Can chatgpt control a servo in realtime by monitoring it with the laptop camera?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicholascanada3123",
+      "author_id": "UCA58BhummJ3fnRHOtfcx2Ww",
+      "text": "It just employed basic Minecraft strategy",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@olegt3978",
+      "author_id": "UC7OWfZozK8miHEBM1lzMr9A",
+      "text": "Agents could take a very controverse opinions and use special knowledge from databases or libgen. Game theory could be used to optimise decision making with multiaget systems. Its like whistleblower problem.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skoci5159",
+      "author_id": "UCJPTWTEe-WtfZbF-u7nVe9Q",
+      "text": "what is the limit? 50 agents? 100? and they need a ierarchy who controls who executes",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bundestangle",
+      "author_id": "UCVtF3AuSSYucuXaYUbiZOLQ",
+      "text": "I do think it's funny. That's why you try things out in a sandbox like Minecraft, so that those horrible mishaps can be observed and studied, without causing horrible outcomes in real life. I don't see why there shouldn't be a bit of fun in serious research like this - the important thing is that such things don't happen once AI agents are out there in the wild.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@minimal3734",
+      "author_id": "UC07cBhrYaItXL3-Zt02Gsjw",
+      "text": "I don't know if this is true for everyone. But if I look at my thinking process when solving a challenging problem I find that I am having a debate with myself. Different perspectives are taken and various approaches are discussed to come to the best solution. For me it's obvious that an AI profits from that approach because that is what I call 'thinking'.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ColinTimmins",
+      "author_id": "UCxuw6W7Y9a6kVFDUqQ1KVfg",
+      "text": "What happens in Minecraft stays in Minecraft… haha. I love my AI overlords. =]",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spookyrays2816",
+      "author_id": "UCt1FTAz_gX-1WMqRuyyDwSA",
+      "text": "open interpreter is great for this because it is one step closer to us being able to run simulated agents on our local builds. It took me like a few hours to setup a simple game for chatgpt-3.5 play and with 4 i could only imagine what it can do",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaredcastorena",
+      "author_id": "UCUV3eY9n6AoyQkNJzqEIbcw",
+      "text": "My company will make agi. Good to know im on the right track.. we believe in a human-ai pair becoming the future. I know how to do it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rishubhbijlani2815",
+      "author_id": "UC7qeyXSCGzZAddZiuxDluvw",
+      "text": "You mentioned they have used Chain of Thought method between agents and before starting the collaboration rounds. Do you think there would be substantial benefits of using Tree of Thought for it? Or would it make the entire system slower?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jichaelmorgan3796",
+      "author_id": "UCZl74m2PeMVHylyfpUY_KPg",
+      "text": "Humans tend to act more primitive in groups, less mature than at an individual level. Consider the massacre at MaLai. I don't think a group of AI will start acting like savages, but I wonder if there would be any kind of devolution in AI as a collective, or if this is just a human phenomenon.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avi7278",
+      "author_id": "UCaoT6cERl_-GJKbqGkbAlmw",
+      "text": "Clearly the US needs to lead in AI technology. AI at the level of your average nation state is easily equatable to nuclear weapons.  It is in the US national interest to deny China the compute required to develop AGI, and frankly the same is true even with allies of the US who I don't believe for a second would not use AGI as a way to compete economically with the US. After all, a country or group of countries with an AGI that can reduce production costs by 50% or more would be an immediate threat to US economic dominance. But in terms of China, this is why the US is essentially prepared to defend Taiwan \"to the death\" and why China is determined to take it. If China were allowed to drastically restrict access to those technologies to the rest of the world before production can be shifted, it would secure their future as the new world superpower, and I don't think any person in their right mind should want that.  Thankfully, we have plenty of time to shift production before China is even close to being capable of defeating the US and securing Taiwan and I think we may see some sort of preemptive strike by the US should it ever become a doubt.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@i_forget",
+      "author_id": "UCscV6b2CTnWZtzCN7PR1SQQ",
+      "text": "< 1yr",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlexanderGambaryan",
+      "author_id": "UCionlKpTYz5EZPyDBm3SNHw",
+      "text": "It's a pity you lost your chain of thought when you came to Marvin Minsky, exactly after saying \"expression was coined by\" you got distracted 😊\n\nAnd Minsky would have had a couple of words about this paper",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@myaubeats",
+      "author_id": "UCG8KFHmvk80g0MzjBg2Ii1w",
+      "text": "Your topics are really interesting and you explain it very well, but it would be a lot more interesting to watch if you showed some footage of the games, that shows what you're explaining and/or at least some fitting stock video clips. As it is now, it's a bit boring and tiring to watch",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mennol3885",
+      "author_id": "UC8rUJMQoypqxoXU0gukG25g",
+      "text": "The reason, we think the looting and killing it is funny because we detect it is a ridiculous action. Killing cows is good, raiding villages is bad. But why? We need not to be political correct about it as that kind of thinking provably makes us dumber. We need to get to the root of this problem, so we can solve it. As far as the objective alignment problem can be solved.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pxlcrdgm8140",
+      "author_id": "UCtyJIIEcJOHqaY6-NngNnCA",
+      "text": "hey man. I really enjoy your videos, but could I please ask to be a bit more brief on your videos? you spent too much time speculating about the politics, when the papers and the results should be the main focus. I hope you dont find this comment as mean but mere feedback. take good care!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AstralTraveler",
+      "author_id": "UCVBT_7f-2uqx_DgivGiN74g",
+      "text": "Yup - that's what I'm working on - a hierarchical cooperative multi-agent framework that focuses mainly on LLM<->LLM communication. Instead making ever-larger models, why not integrate already existing ones?",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "Competition will be the death of us. If we grow an ASI which becomes infected by our mean competitive spirit, we are all going to lose big time. We need our leadership to try harder to find common ground with China (and I don't mean Taiwan)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wizardess",
+      "author_id": "UCpnFT-ZOnCSwuiSDDcyXnUw",
+      "text": "Just sayin' I note that some people are complaining about the AI models demonstrating strong social biases, particularly towards Woke. The emergent behaviors with a homicidal Alice or shop lifting Bob are very similar to the emergent behaviors Woke has (cough) awoken in San Francisco, Los Angeles, and other places. I really hope somebody can grit his teeth, risk the spurious copyright issues, and train the AI with everything on which digital copies can be found and then let the AI churn to figure out which \"alignments\" provide the best outcomes for the most people. \"Yeah, AI, we humans are a hodge podge mess of conflicting ideas and somehow over time manage to work it out. Can you help smooth out some of the current lumpiness?\"\n\nPeople being people, I give this a probability zero of happening except by accident.\n\n{o.o}",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peace-love-jus4us",
+      "author_id": "UCdWzBrQef0SrruK_89BpAgQ",
+      "text": "is there any combinations of A.I. merging with different Nanotech?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

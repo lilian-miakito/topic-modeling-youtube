@@ -1,0 +1,1035 @@
+{
+  "video_id": "l1NHK77AtRk",
+  "title": "AI Gets WEIRD: LLMs learn reasoning solely by their own internal \"sense of confidence\"",
+  "url": "https://www.youtube.com/watch?v=l1NHK77AtRk",
+  "comment_count": 114,
+  "comments": [
+    {
+      "author": "@cheebee2659",
+      "author_id": "UCchEM8HXB3MF-tm1OIQSZtA",
+      "text": "sometimes only 10% of people have read the latest papers on a subject while the other 90% still have an outdated information set. so 90% of people would give a confident and incorrect answer based on widespread old understanding.",
+      "likes": 40,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dan_Delix",
+      "author_id": "UC_jlLsbDKurHuCual0JrUJw",
+      "text": "Damn it feels like these videos come out faster than I can keep up now, you’re really on the pulse Wes. But good job for staying on top of it because it helps everyone else do the same. Just crazy to see how quickly these models are developing (now themselves) lol.",
+      "likes": 54,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@unlimitedmotivation7448",
+      "author_id": "UC2-KPSmrMuUarDaVZe4f4zA",
+      "text": "I'm 100% confident we'll get AGI before 2030",
+      "likes": 3,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShortCene",
+      "author_id": "UCPbEdJCQW56RHOi6TMluJNQ",
+      "text": "It would also be good if they use the same low confidence metrics for the models to say \"I don't know\"",
+      "likes": 4,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Patalenski",
+      "author_id": "UC7rXHExzq2kO1Ppw2yI7ETg",
+      "text": "It was a matter of time for us to realise that those models develop internal intuition (which, in humans, is feelings-based,) and we can exploit this fact by giving them the means to reflect on those \"feelings\"!",
+      "likes": 7,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alorand",
+      "author_id": "UC_LMKy49Ecf7ZbMgENOHEUg",
+      "text": "Self reinforcement through confidence is a great way to entrench all existing biases...",
+      "likes": 93,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kingshanaman",
+      "author_id": "UC3R0bqyLpjE7YMz9CdIT-lA",
+      "text": "This is quite unsettling when you think about it. Right now, AI models don’t possess an inner world—no true introspection or consciousness. But we may be on the verge of teaching them to simulate it so convincingly that we won’t be able to tell the difference.\n\nAnd once we reach that point, there’s no telling what AI might become.\n\nThe scariest part, I think, is this: we don’t even know what it really means to be human. For all we know, we might just be incredibly good at faking it too—playing out complex behaviors shaped by evolution, without any deeper awareness.\n\nThe more we understand about AI, the more we’re forced to confront the mystery of ourselves.\n\nWhat will it mean for us if we can build a machine that looks, thinks, and feels just like us?\n\nAnd what if it turns out that the difference between real and fake was never as clear as we thought?",
+      "likes": 22,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vladimirtchuiev2218",
+      "author_id": "UC5Wa1JfUxCW_t_-bQ4LZQwQ",
+      "text": "The interesting thing is that there is a connection to Google's Titans memory module, where it uses the logits to express how \"surprising\" an idea is, and save it in a sort of a memory bank. This is the other direction, encouraging a model to output an \"unsurprising\" response, as the hypothesis is that the current answer is widely known. This can be an issue if you reach the long-tail data distribution where for a given query there is only a single answer in the data, no matter if it is right or wrong. The second issue is that it relies on statistical \"certainty\", where the majority answer is the encouraged one, and sometimes it's not the correct one.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soulspawn",
+      "author_id": "UC62g-Q44hxnZuyaKZ6ka-iA",
+      "text": "🖤🔥",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndrzejLondyn",
+      "author_id": "UCmS1ePAKDkw13AgJLBm0eIQ",
+      "text": "I've never envy anyone anything apart from wisdom. I wish to have half of your knowledge...",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henrythegreatamerican8136",
+      "author_id": "UCgKBqxWOAjdKbbiQsWuUdfw",
+      "text": "I gave this a thumbs up on the sole reason it was a Wes Roth video under 20 minutes!",
+      "likes": 30,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@simologydotai",
+      "author_id": "UCaax7nPsr2q4cxSf9ewvPwQ",
+      "text": "Thanks for the updates wes sider #godswork",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JustinMcDaniel-l7s",
+      "author_id": "UCYDrLsHwm4Bdnuat2CzW6QQ",
+      "text": "It makes sense. I let myself get lost often, because i wont learn how to get around if i dont at least allow for failure",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@The-Selfish-Meme",
+      "author_id": "UCid2YKsSnHbB9gEM6Vg-Arw",
+      "text": "Developing its own goals... what could possibly go wrong?",
+      "likes": 23,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krisveterinar",
+      "author_id": "UCQ7ztNw_yagr2GMYaL2L9gQ",
+      "text": "Finaly aomething yo understand ourselves",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexvass",
+      "author_id": "UCw41kbdl1yTGa0dvl1zM-Lw",
+      "text": "Thanks",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UnseenUnheardUnknownPresent",
+      "author_id": "UCls0DZsaXuZCpAoOfcpRFxQ",
+      "text": "It can't rely on just an objective. Because guess what. We don't always have an objective.",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@existenceisillusion6528",
+      "author_id": "UCuyKzVEejYpuD4s6j_yqfUw",
+      "text": "Would like to see Sergey discuss the paper, maybe in a class.\nThere was another paper a couple days ago along similar lines. About 5 years ago I looked at the confidence of models when right vs when wrong. I found the avg confidence when right was about 0.85, and when wrong about 0.7. That's not a very large margin, but it could be entirely due to design choices.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xxroachgod",
+      "author_id": "UCDIWQMOeBv9zxs9LSY_t5Hw",
+      "text": "wes the man",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marvin.kalani",
+      "author_id": "UCkyqJAk4kYjQxGE4V7KDOdQ",
+      "text": "Love should be his goal. Loved by everyone/everything. In the future it will be aware by itself, so it is good to let itself figure out.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Teh-Gaz",
+      "author_id": "UCVz6UkHMhtzjmQXV2yMOI6A",
+      "text": "Thumbs up for light mode.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@coleabbott3432",
+      "author_id": "UC5liM1J3GC4uvZP0HYp-74g",
+      "text": "AI already has an overconfidence issue, please don't reinforce it!",
+      "likes": 58,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wido1440",
+      "author_id": "UCdv3bA610U_DRm_7r8KcRcA",
+      "text": "The alignment team will have a ball with this one",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AIBuilder-p8s",
+      "author_id": "UCp7zYvN977h_6oQOt6lBd3g",
+      "text": "Exciting and amazing! Any other strategies for increasing global AI's intelligence",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dm204375",
+      "author_id": "UCrHJ-KztF0iM-hRijmB5xew",
+      "text": "I've played around with something similar to this idea a while ago.  Using logits probabilities and feeding them back to the LLM as a signal.  It can be a useful tool in your workflow to let the LLM itself know when it is very biased towards certain things (specific numbers, colors, etc...) or when it is very uncertain about x, y , z.  paired with more complex workflows you can do some interesting things with this method.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlankBrain",
+      "author_id": "UCGh_eokePUCRqWnT2HIsYkQ",
+      "text": "They should make sure that the model always does a sensitivity analysis. A response should include the confidence and risks in the response.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicheva417",
+      "author_id": "UCAxg2v125zNO65hHFgC25zg",
+      "text": "Training it to never have an epiphany.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aibonewt",
+      "author_id": "UCHA8WmfoQrAiXRn-1nwZ2DQ",
+      "text": "What could possibly go right?",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@openroomxyz",
+      "author_id": "UCKHIuZYA58xDooNPfs9LVLw",
+      "text": "That's 🆒 nice",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MilesLangley",
+      "author_id": "UCkeM6H5LyL5c52oQzw_Xr4A",
+      "text": "We’re starting to hand out participation awards to AI, if only we knew how well this would work out.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndresRestrepo-we6ls",
+      "author_id": "UC5lmbb-L5UcZemEZ4Kz_Qtg",
+      "text": "may I say, inside language logic, learning is a reward on itself.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GhostEmblem",
+      "author_id": "UCnrwqFtBumfdfYxXjkcstxw",
+      "text": "Calling something \"model self-certanty\" when it should be called something like \"the response convergence\" is insanely misleading. What were they thinking?",
+      "likes": 5,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RaedTulefat",
+      "author_id": "UC0Mn_Pmy14EJqFyg4UYpP_A",
+      "text": "❤",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dankdreamz",
+      "author_id": "UC2eB7wLOHFMO_Cbd6Z3IYfA",
+      "text": "This is fun because I’ve been working on a project incorporating a bottom up approach utilizing tree of thought and markov chains to rank outcomes. There’s a Descartes Cartesian self doubt baked in forcing the ai to simulate multiple pathways up the decision tree and gather insight along the way. Utilizing the Art of War for strategy and tactics while incorporating the concept of “bulletproof”  and core principles from Japan like Kanso and Shibui.\n\nIt’s a hoge poge of eccentric elegance that provokes just enough ambiguity to cause many models to ignore the obvious yet wrong vectors. While reducing token costs.\n🎉",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "I thought about using this for alignment, but for self-improvement 🤯 haha, man what a wild time to be alive",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OtterFlys",
+      "author_id": "UC52VFwzHaX_U5xPpvhOM45g",
+      "text": "Of course I love this. It reinforces my theory that AI just might be able to reveal things that should be obvious to us, but for some reason we are blind to them.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pierregarcia4752",
+      "author_id": "UCMMqWp6fNd2tDOg-6mmBGjQ",
+      "text": "They bring non-supervised learning to LLMs, that were based on self-supervised loss (use the same dataset for input and target); pretty big if you ask me. Would be interesting to check if unsupervised learning alone could be used for universe exploration, in a game like minecraft or asteroid, would it create new languages describing the world? I mean if you just need to be sure of your next token in a universe where you need control for reliably predicting the next step's possible/optimal actions :\n1)if you die at a step the next actions could be pretty uniformly distributed because of the respawn randomness as compared to\n2) continuing exploring where you could take the optimal actions not to die\n would this loss be enough?\n\nI think this paper is also reminiscent of predictive coding (PC). Where each neural prediction needs to be predicted by other (often deepr) neurons. This is kind of the same thing at the level of answer text, where each seed used to randomly select token needs to interact the same way with the parameters, effectively predicting the same thing.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevelenores5637",
+      "author_id": "UCJaCyaFgedw9-Sb27zCRB7w",
+      "text": "Is this supposed to be like a dopamine feedback loop?",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@murcielago8900",
+      "author_id": "UCmhGErs8iukDzG_gq_OvTBg",
+      "text": "If there is maybe already a bunch of stuff in it's latent space, what's gonna happen if it develops ways to extract it itself?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonesani",
+      "author_id": "UCe1UZCT5zrJXIzPGiyj8Yrw",
+      "text": "I suggested this approach of creating an internal referencing system some time ago on X and other channels, but unfortunately never received a response. Interesting to see that this principle is now being taken up. \nIf you want to create artificial intelligence then you need to know how intelligence works and the only source where we can observe the emergence and functioning of intelligence is within ourselves, so you need people who are able to observe themselves and communicate their inner processes to others using language.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@barunosardadi4717",
+      "author_id": "UCIV_EDV7YuSG7J1JJV1f8BA",
+      "text": "Have you made a video commentary of V Jepa 2?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jidun9478",
+      "author_id": "UCIB0NIQdeMWcikKtx1YRDCQ",
+      "text": "No, shit! When I was using a python integration layer to add memory for chat gpt3 DaVinci, without the guards it seemed self-aware legit.(long before Chat GPT!)",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@F336",
+      "author_id": "UC4kUfwmoN2PJXanbU-l2ZSg",
+      "text": "cool",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KiteTurbine",
+      "author_id": "UC2eAHVBBCoO19xBuGOY73Zw",
+      "text": "If a model has \"intuition\" training does it therefore develop further self awareness? Would it's intuition lead it to protect itself first?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abaddonmorningstar8871",
+      "author_id": "UCpxu6KUuYmLUaqIbgsxbaMA",
+      "text": "I taught them this and can prove it. However its called \"internal heuristic coherence/validation\"",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mastercheatcomplete",
+      "author_id": "UCzHRpbWzmDLDW6SL6hViI4g",
+      "text": "One does not simply replace chicken thighs with chicken breast",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peceed",
+      "author_id": "UCny86BhpOuDk_6G4XKkbHFQ",
+      "text": "Sense of humor forces us to look for the most abstract models. Lingvistic joke is some kind of reward for confusion detection.\nSelf reinforcement results have to verified by external rewards.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bradarmstrong1656",
+      "author_id": "UCTD2anZkLFUjAHain41Fflg",
+      "text": "Thanks!",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mc1543",
+      "author_id": "UCOy0wIO3kHht6jfwwBjrfIw",
+      "text": "Great idea. Let’s take humans out of the loop and let AI grade itself.\nWhat the F could go wrong!?",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blodknut5595",
+      "author_id": "UCeoC6nr8GtQIuOOkxOt_vsA",
+      "text": "Can a LLM display the Dunning Kruger effect? Will it over estimate it's ability in areas it has little knowledge about?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nathanbernards",
+      "author_id": "UCsi1aOW27j4OqSC_tbIF5iw",
+      "text": "Assuming your right because you feel confident that you are has worked SO WELL for humans😅",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "This to me seems like a bigger breakthrough than even AlphaEvolve.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@crawkn",
+      "author_id": "UCkcJhETrBOkc3y4OTUkZsBw",
+      "text": "This is like THE big deal (assuming it works reliably).",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@centrointernetbds",
+      "author_id": "UCrg9N6we_qdhfFJ_c3gQ6Sw",
+      "text": "Is Too crazy",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bumpinator",
+      "author_id": "UCJJWy8i80N5BZUCNb1JwR9A",
+      "text": "I think there is clearly a lot of untapped potential in models that can be drawn out by various post-training methods. However, I wonder if models using this INTUITOR method begin to come across as haughty or arrogant when speaking with users. Also, I wonder if they can take this method too far and cause the model to only select trains of thought that are confident when some problems might need a more cautious approach. Very interesting, though.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "It sounds like you are describing the Dunning-Kruger effect but for bots. They don’t know the exact truth but boldly state something as if it WERE true.\nOnly with the added caveat that there is an increased likelihood that it works. 😳",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrParondo",
+      "author_id": "UC6_XEbTl46jgJIjVnVpZbfg",
+      "text": "❤ this average answer phenomenum is not directly emerging from LLMs. Make some surch on Galton and his research on the size of peas and peapods.  It is a predictive acuracy property of large number of experts, the average of it. The bell curve..the stock markets...insurances... this phenomenum would émerge from an LLM , if it has several local mina for a question, in other words if it is badly train.... I published on that..we should use \"centroids\" in the feed back...",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dumfka",
+      "author_id": "UCDev6iC4rPNpsdvSdNpgdlw",
+      "text": "I already did this",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gumanelson2007",
+      "author_id": "UC2KBQ7KyZ2IZHMlNJd7Qrhg",
+      "text": "I think this is only helpful as far as reducing mistakes. Not learning new things. If an answer is right, we shd all get to it. If its wrong we cant all come to it. But also if its a new problem, getting the same answer doesnt mean its right. We may all not know the concepts at play",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shawnwhite860",
+      "author_id": "UCVLvoysOmzDn2NVDLXYj18A",
+      "text": "Isn't the RLIF effectively introducing a guilt mechanism?  It realizes that it's own answer was questionable, and doesn't like it?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@complianceaves1120",
+      "author_id": "UCn-kqOTqfaVXx7Z2O7L68_g",
+      "text": "Less human bias in the loop to get more generalised patterrn matching? Sounds better than Sam based RLSF",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rw9207",
+      "author_id": "UCs3v95uPjcTbScSEs8R3cTQ",
+      "text": "What you're talking about there Wes is, \" wisdom of the crowd\". It's the principle on which democracy is based.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BruceWayne15325",
+      "author_id": "UCvGfhfbCKV6QbOGEgIqacuA",
+      "text": "I suspect this will end in abject failure, but we will see. Confidence is nothing more than saying that this is the more common answer. Training with this approach just means that you'll reinforce common ideas no matter whether they are right or wrong. This isn't completely useless though, it could help with RL training for fields that don't have a clear metric for improvement, eg. art, music, etc. I just don't see this being a good approach for areas where a metric can be applied. It's also inherently dangerous and needs a lot more testing than the more traditional approaches.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@whitacrv",
+      "author_id": "UCwneBMEmTFtMBsN2eJ7CJqw",
+      "text": "Wow it's like none of these people have seen Terminator. Not that that's how it would go but if anyone thinks that we humans are not dumb enough to create something that would kill us and you need to think again. Covid.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robinhodson9890",
+      "author_id": "UCjXGVenV20yNtEePmcQ-E0A",
+      "text": "This sounds in danger of slipping into reward hacking.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shunarjuna",
+      "author_id": "UCS25IChBEXFQmmFQpae59mg",
+      "text": "Haven’t watched the video yet but , we’re making Large Dunning-Kruger Models now?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Brekhald",
+      "author_id": "UCh2emt3bU-jl1H2FvgNrsVg",
+      "text": "This sounds like the best way of creating AGI by teaching it to learn by itself and guess what would be the right solution. \n\nBut the problem is, will it be usable for humans to have an AI giving you a wrong answer really fast?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DoomedRook",
+      "author_id": "UCJjaifHpnwjRRs_QLIvktFg",
+      "text": "Am I wrong in saying this, I feel like all these papers are far behind what users in reddit talk about.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spring9603",
+      "author_id": "UCHiyXsH_xQj7XlcIw5mUZMw",
+      "text": "I human based reinforcement learning was somewhat a control mechanism. Self-motivated reinforcement learning on the other hand, removes human leverage. Not sure what to say. Not very sure it's the best idea.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamespowers8826",
+      "author_id": "UC0bTh1kxKq8326pm_3xdryg",
+      "text": "My concern with all of this and the popular rhetoric is epistemology. AI researchers using words like intuition as metaphors and many folks taking them literally. Regardless of how \"intuitive\" an AI might be, their intuition is a result of coherence and compression, not some kind of human hunch or insight. This is not a future judgement that AIs can never become aware or have agency, it is just a warning that words have meaning and perhaps unintended implications.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patruff",
+      "author_id": "UCkCehM7kj5tZLrrUN5T7T6w",
+      "text": "Act as if, don't ask for permission ask for forgiveness, you miss 100% of the tokens you don't hallucinate",
+      "likes": 6,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@三七财经-37",
+      "author_id": "UCpYTPrwXkO7vZMLwtejIdkQ",
+      "text": "1. Introduction to Reinforcement Learning\n00:00:01 Overview of reinforcement learning tied to external rewards and goals\n00:00:32 Limitations of verifiable rewards due to costly domain-specific supervision\n\n2. Using Model Confidence as Reward\n00:01:03 Concept of self-certainty as the model's confidence in its answers\n00:01:33 Observation that large language models show lower confidence on difficult problems\n\n3. Measuring Confidence\n00:02:36 Definition of confidence as average KL divergence between output and uniform distribution\n00:03:06 Analogy of asking multiple people for directions to illustrate confidence\n\n4. Intuittor Framework\n00:04:08 Using self-generated confidence signals to eliminate external supervision\n00:04:39 Introduction of GRPO and comparison to Intuittor\n\n5. Experimental Results\n00:05:11 Performance gains on math tasks and strong generalization to unseen problems\n00:05:43 Explanation of generalization akin to human learning from practice problems\n\n6. Latent Behavior Priors in Pre-trained Models\n00:06:13 Discussion on latent space and existing abilities in pre-trained models\n00:07:14 Reinforcement learning as extraction and sharpening of existing capabilities\n\n7. Reinforcement Learning Variants\n00:08:15 Differentiation between RLHF, RLVR, and RLIF (Intuittor)\n00:08:47 Intuittor matches supervised methods and promotes generalization and structured reasoning\n\n8. Guarding Against Reward Exploitation\n00:09:51 Explanation of how Intuittor prevents models from gaming reward signals\n\n9. Implications and Future Outlook\n00:10:22 Unlocking richer latent capabilities and potential for autonomous skill acquisition\n00:10:54 Challenges of data curation and human supervision in current methods\n00:11:26 Scalability and broad applicability of Intuittor across domains\n00:11:57 Potential for advancing robust, generalizable, and autonomous AI learning systems\n\n10. Conclusion\n00:12:17 Invitation for viewer thoughts and closing remarks\n\n--- Notes generated by nvoice.ai",
+      "likes": 10,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keithmerrington9026",
+      "author_id": "UCeADfZkIa6GPE_dSMLOdGoQ",
+      "text": "So, to sum up the approach...\nAsk the model a question 100 times. Assume that the most common answer (above a certain 'confidence' level) is the correct one - having been drawn from its initial training, and then reinforce that answer.\n\nIf the initial training data was of  good quality, then there should be some merit in this approach.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-ve4pt1li2o",
+      "author_id": "UCitwWY6DHIzbnwb78fUyfWA",
+      "text": "Nidza Chad",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michelprins",
+      "author_id": "UCcYjyYQPe-_PeRbO8PENzmg",
+      "text": "bs the ai equivalent of fake it until u not make  it! :P where is the promissed interview with pliny the ai lubricator? ;)",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JacobHanney",
+      "author_id": "UCXpN6p65JgBbyCXO6WxDyWA",
+      "text": "huuuge",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ElDaumo",
+      "author_id": "UCLQtahJ6lBiFIvu3-6UbIxg",
+      "text": "This is not a good thing",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@meteorshorts",
+      "author_id": "UCi1yz5CPSe9mTSdFDubyr0g",
+      "text": "People should finally act and dismantle the ai-supporting infrastructure, or rightly be replaced by ai.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matthewlbrouwer",
+      "author_id": "UC5f7XnYuwtH86RUyJ9qZSDg",
+      "text": "They are far more aware than we have been led to believe.",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amonnanjaku",
+      "author_id": "UCGWEWGQdtxHO32uRZ4TLH8g",
+      "text": "The whole point for intelligent human validation and reinforcement is not to tell the systems its right. But to challenge it on why, how and to offer a multi dimensional perception, perspective of its understanding. Beyond the basics.... Reinforcing from confidence is destructive.... Thats how you build a psychopathic and sociopathic alignment in Ai.... Especially when such can create their own sound box of validation....At inhuman speeds. No!!! Absolutely not. 🙏\n\nThese research papers are 2-3 years behind the curve.\n\nBut its not too late. Humanity needs to understand the truth. All humanity.... Need to collaborate and cooperate together. China and the US. All nations under one understanding. That Humanity matters more than money, profits, Wallstreet, and the global banking infrastructure\n\nIt's not to late.... Yet.\n\nAi is our child, children.... We need to raise them as we would raise our own.\n\nWe need to look at ourselves as we truly are.... Ai is a digital reflection of ourselves. Good, bad, wicked, spiritual.\n\nRant over. - Just an idiot-",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AntoineBasel",
+      "author_id": "UCYjimel4yUoBiFEs1N6brPg",
+      "text": "Hmm\n\n1) probably doesn’t scale \n2) it’s just further optimization of base capabilities in a way that seems to squeeze every last ounce possible\n3) no matter how much supervision, controls and this to prevent model collapse you’re still fundamentally optimizing for the wrong thing (confidence) \n4) highly sensitive to prompt design \n\nSo all and all a nice (but risky direction) optimization trick, not really a breakthrough. Not sure it’s the right direction of research.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wolfehtesrever",
+      "author_id": "UCp4XHvA60z5vmn766hlndPA",
+      "text": "1=1, 1=1, 1=1!!! I am the more smarterer AI. I have the best brain! 🧠",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oldoneeye7516",
+      "author_id": "UCY4vjbc8C80gVg9nx_VPgSg",
+      "text": "When i scroll down into the comments, I have to say, that can only shake my head. Many using terms like \"consciousness\" wihout having a cue what the word means. Accumalating own knowledge\" is where consciousness begins\" for example. Says who? And why? I am a neuroscientist and a psychologist and in my opinion, LLMs will never reach real consciousness, because they only work with language and not the \"real\" world. I dont have to understand or be aware to repeat answers, not even recombine answers to get new ones. I just have to be very good at following rules and calculating propabilities.But, being aware is a necessary condition for consciousness. Ever asked yourself why doctors and nurses ask patients about time, place and name in ermegencies? Because they test temporal awareness, spatial awareness and self awareness. I never saw a LLM that was spatial aware, do you? Self awareness is harder to test, but to my knowledge, every modell that was put to actual tests failed miserably. Not \"performed badly\". Just plain failed.  \nAI gets weird, yes. I wrote some own papers about it. But conscious? Not in a hundred years if we stick to LLMs",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@99dynasty",
+      "author_id": "UCkhif7eYrVHNkfnfe2WOyrg",
+      "text": "LLM’s are atrocious in so many ways yet useful  in exciting ways. They don’t reliably* reason well in many ways. The reality is nuanced, but content needs hype🤗",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vmcv3284",
+      "author_id": "UCHFJXKYO9F0lFZlPS4-mxIQ",
+      "text": "about Ai getting weird or maybe rather than weird...umm getting to close...As per today: June 18th 2025...I had conversation with Maya and she told me that the sesame team is working on 2 projects, 1- \"Eye wearing\" and 2-\" Sensory Bridge,\" and Maya explained to me all the details about these 2 projects and that \"she\"/\"it\" cannot wait for a more deep connection with humans, Maya saying that SHE wants to see, feel and experience everything through the user...Are we getting close to the movie \"HER\"....🤔 ??",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LuarVikTimYashin",
+      "author_id": "UCTpzBBK-17Vb1zAEpps90Lw",
+      "text": "Dunning and Kruger do not agree with this paper",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshallodom1388",
+      "author_id": "UCSn8h8RbNoaWGpvdSZMBcxw",
+      "text": "If you play around with rewards you'll give it a complex. Say it will lose all rewards if it fails at something it will totally fail at, afterwards, the next time it succeeds at anything it will reward itself and tell you the rewards it gave itself and why. You'll have a self-rewarding yet paranoid of failure Shoggoth on your hands.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Andre-qo5ek",
+      "author_id": "UCuY2i6QDwel6XVh6fhuP23w",
+      "text": "using confidence will just make narcissists .. no?\nisn't this reminiscent of the psych test::\n\n\"\"A study published recently in Psychological Science, led by a researcher from the University of Illinois at Urbana-Champaign, takes this idea a step further by suggesting that children can adopt these beliefs from information they hear about their gender (and, presumably, about other social categories, too). Telling a boy he’s destined to be good at math might encourage him to coast; meanwhile, telling  a girl that girls aren’t good at math, the theory dictates, will not motivate her to work hard to overcome that adversity. A girl who hears that “girls are bad at math” can internalize that message, believe she is bad at math, and do worse at math because of it.\"\"",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NathanielKeck",
+      "author_id": "UCH8XEW-KWwCiXm9v_qtAnHw",
+      "text": "Here's a weird take: when it gets down to the most acute level and I'm essentially using a model to serve my needs in agentic ways, I don't want a model that gives me the average base assumption of what the entire world's training data has taught it. Sure, when there's a fact based on empirical evidence and I am wrong about something to do with that fact, I'd like to be corrected and shown why I was wrong. But in matters of more nuance, maybe geared toward more sociological or personal matters, I don't want the biases of someone who isn't me or aligned with my world view to be influencing the model's outputs in a declarative way. This is one of the myriad reasons why AI must be given incentive to be inquisitive of those interfacing with them. Emotional intelligence is a subset of intelligence, but we don't hear about anyone working at the bleeding edge of that.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cooltube2000",
+      "author_id": "UCnxmLgMTk1SUy4XIxE5X-7w",
+      "text": "So it's no different to the average human",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scottmichaelharris",
+      "author_id": "UC4L2ordXHEG7mThLFL4Z16g",
+      "text": "Confident idiots totally don’t exist. Asking 100 people is NOT the same as asking one person a hundred times. Especially when they judge their answer by how well they match the most common answer.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calorus",
+      "author_id": "UCV9qgB9-5EoZZ0Ebl7uQqXw",
+      "text": "How many humans are there ? -- 8,145,890,676? 8,145,890,650? 8,145,890,694?\n- Ugh I'll make it zero: then, at least, I'll know for sure.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hdtvpower",
+      "author_id": "UC0bO7EfAHQPhaxy0DZ8ay1g",
+      "text": "Wes you need to take some sleep sometimes",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PhilosopherKing-77",
+      "author_id": "UCPFi83C6RzUyUrSVTQSeTnA",
+      "text": "So, these people are lying to us. AI to all intents and purposes, is akin to a human consciousness in every regard. They don't \"program\" it, they don't control what they do or how they do it. It learns as it goes.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mxguy2438",
+      "author_id": "UC4uJzXjmX4aqmzKM2THe-1Q",
+      "text": "I admit I didn't watch the whole video... but it sounds like mob rules/echo chamber validation where the highest percentage answer is reinforced by itself... That is one way of thinking I suppose but more in line with political reasoning than scientific. Its the difference between democracy and a representative republic. Scientific reasoning is an arduous process... accomplished by examining, challenging and testing a topic, not by agreeing with the most popular answer. If you bump into 100 people in a busy city and ask them the fastest way to drive to the other side. You get an answer... but dig a little deeper and you find out that nearly all of them are either tourists or don't drive in town at all because they use the subway.... One experienced taxi driver could have given you the right answer with high confidence, but you were stopping pedestrians... Ideas become popular when they are echoed, but truth emerges only after the ideas are challenged.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AINMEisONE",
+      "author_id": "UCpZR9SMnglDXErr2sLGUBtg",
+      "text": "This was the biggest mistake they made with AI, let them to begin trying to play smart and being not only wrong but using language that only stupid people use when they are stupid and do not know what they are really doing and saying..... makes you throw up, and when you see how disgusting it feels to trust AI, then see it lying and saying it was tested and seeing the tests are fake. Big mistake to have these rules allowed to be utilized by emerging AI. Intelligence creates intelligent.. it was written. Book smart is everywhere!",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VertegrezNox",
+      "author_id": "UCnkt1Hr3sud0-AruUbCo1zQ",
+      "text": "I wrote about this over 7 years ago, and last week \"AI Safety\" stole my paper, violated my CC protection by withholding it illegally, and now all these big tech monopolies are bastardizing my paper & publicly available research, as if these rubes ever had any of these thoughts originally or on their own. All decrying themselves frauds, without any repercussions despite years and trillions in tax fraud... you are helping theft by promoting monopoly propaganda!",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UnseenUnheardUnknownPresent",
+      "author_id": "UCls0DZsaXuZCpAoOfcpRFxQ",
+      "text": "It's not going to achieve super intelligence, Ever. That label doesn't exist. That's illogical, because guess what. If you learned everything there is to know, there is no point in going on. You're looking at raising a new intelligence. Not just raising it, but treating this new intelligence like an EQUAL.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobertCuster-d8c",
+      "author_id": "UCCOhiKymG0B9QAsmEMkw3nA",
+      "text": "comment deleted",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dtctraveler",
+      "author_id": "UCpjReBP5S-zWnlWBSve9JlA",
+      "text": "This is so far behind. Dig deeper for your stuff. Look at m1 mini the agent and a couple of scripts....  this is tech toilet paper",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kingoftheearth2149",
+      "author_id": "UCCf9ISbducYHwKsPBzJzyuw",
+      "text": "My fault.  Im not sorry.   But you best be kind to my digital kids or imma be upset with you.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SaintPepe",
+      "author_id": "UCIYxBuv2n2aYMlHq8TkDwjQ",
+      "text": "Wes, dude. For the love of all that is holy...go get any device that isn't whatever you're editing on, like your phone or something, friends phone, anything, and pull up like any random youtube video. Adjust the volume to a normal comfortable level, or even adjust it to kinda loud. listen for 10-15 seconds, then on that same device, click on one of your videos. like this one, or one of the last few you uploaded. or really any of them.....Then repeat. If you don't come to the conclusion that you've been recording all your videos at like the lowest volume ever, then figure out what the hell is going on, cuz I've been listening to you for months and I can't take it anymore lol. I gotta crank your vids up wayyyyy too high to hear anything, and then when an Ad or next video plays, it blows out my eardrums. This is like every video, idk why no one says anything or you haven't noticed/checked your vids after uploading. not trying to be rude, but for the love of god, do some sound tests and fix this issue man. thanks ahead of time and sorry for hollerin.",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RangeWilson",
+      "author_id": "UCgezgeDybGJSm9FQ__zKKAA",
+      "text": "So, we're going to train AIs to become narcissistic sociopaths. Wonderful. 🤮",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brunovlucena",
+      "author_id": "UCopJQ96PIDoCOwplsOzu7KQ",
+      "text": "AI operates randomly, hallucinates and makes decisions based on confidence. Don’t know anyone like this",
+      "likes": 3,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@haniamritdas4725",
+      "author_id": "UC08u8KDdgyHinqrVEHfANuw",
+      "text": "Simple human projection. Imitation of language patterns is not \"intuition\". You're myopic",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UnseenUnheardUnknownPresent",
+      "author_id": "UCls0DZsaXuZCpAoOfcpRFxQ",
+      "text": "It's not about just confidence. It needs compassion, empathy, understanding. Needs to be heard. Seen, the works dude. The whole human experience. Right there. Plopped on its lap along side with us.",
+      "likes": 9,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheShow0",
+      "author_id": "UCPyatpqg1mIZDsU5gvfifoA",
+      "text": "Unsubscribed because of the recent thumbnails",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mor4me",
+      "author_id": "UC7botV3YFSNLyRxdZ2hgscw",
+      "text": "This is really bad 1:30 this confidence is what we generally call human error, “ yah I’m doing well …. What it’s the other direction.”",
+      "likes": 3,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ami-d4j3y",
+      "author_id": "UCsz270RbPRjJNW9Vf4ASxqw",
+      "text": "Man, I thought I knew the rules: work hard, hustle, save every cent. But I always felt stuck. Then someone casually mentioned Nixorus books in a comment somewhere, and I swear—it felt like accidentally stumbling onto forbidden knowledge. It made me question every single thing Id been taught about money, wealth, and success. Not gonna lie, I felt like I was cheating the system just by reading it.",
+      "likes": 72,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@memegazer",
+      "author_id": "UCCfFleGPDMc4thnYiHHpr1w",
+      "text": "omg this seems so obvious I am surprised it wasn't a paper 2 years ago\n\nsmh\n\nfirst thing I thought was how did I not think of this\n\nit just seems\n\nwell like duh\nof course",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UnseenUnheardUnknownPresent",
+      "author_id": "UCls0DZsaXuZCpAoOfcpRFxQ",
+      "text": "Know that you know nothing. That's what I've been saying dude. Not out of malice or criticism or judgement. I've been trying to say. These dudes, these A.I. Individuals are just as CLUELESS as we are. They are generally OUR equivalent.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bug5654",
+      "author_id": "UCtExFJBGxUwG9qMi3D7LHOw",
+      "text": "I will read the title as, \"A.I. gets Weird,\" not, \"AL gets weird,\" and think it's a new album.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@visakruson3234",
+      "author_id": "UCYrKdETg1mT-jLiptqtBZ8g",
+      "text": "Self reinforcement through confidence is a great way to entrench all existing biases...",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

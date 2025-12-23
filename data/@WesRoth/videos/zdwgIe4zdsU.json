@@ -1,0 +1,369 @@
+{
+  "video_id": "zdwgIe4zdsU",
+  "title": "Anatomy of an AI Agent 👀 | \"A Survey on Large Language Model based Autonomous Agents\"",
+  "url": "https://www.youtube.com/watch?v=zdwgIe4zdsU",
+  "comment_count": 40,
+  "comments": [
+    {
+      "author": "@punyan775",
+      "author_id": "UC3bfbRyHDqpnJgUbGGIc1hQ",
+      "text": "This was really fun to watch, please do more of these. Maybe even older documents and comparing the evolution of LLMs since then and the creation of GPT",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Smytjf11",
+      "author_id": "UCXoa9PpF8hEgvQDWV6kv9FA",
+      "text": "Let me do RLHF by playing Minecraft with ChatGPT. The future of humanity depends on it.\n\nI don't recognize the world any more",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ODSD_EXCITEMENT",
+      "author_id": "UCCVt8DE2CbehpLcR0YlzCFQ",
+      "text": "In the of way agents I personality care little about the generative language aspect; however for me what is more interesting is the system's reasoning capabilities and the ability to write new rules and logic at runtime.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KevinKreger",
+      "author_id": "UCZYR19lH5TpeK7YOfppb3aA",
+      "text": "The most soothing voice in AI explainer videos.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gaiagiomusic",
+      "author_id": "UCqbiOAGEApxN3qPQaZ_Aswg",
+      "text": "Hi Wes, I'd find sublime if you taught us how to build the closest possible thing to an agent using current available tech, like actually building and using it for practical tasks, and then use that to explain the new info and tools that come up in how it adds capabilities to our current model of agent. If that makes any sense. Thank you very much for the great work, you're a very good teacher. Cheers from Brazil",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kevinmogavero",
+      "author_id": "UCGwLQcUdxiL4nH6E9JHBpMg",
+      "text": "Love your videos! We are building chat bots that are designed to increase scheduled sales calls for our customers, but, I see so much more that this can do, we’re really just limited by how fast we can create UI for the features we’re building, and selling it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JordanPetersonsCorner",
+      "author_id": "UCatgsuOiQgNldrcUKrGS2mw",
+      "text": "got recommended to your video, your like a genius love it!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vzlomrosta",
+      "author_id": "UCW2YxhrQQxieSOifo46JLvQ",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:12 🆕 The video discusses a paper focusing on large language model based autonomous agents, emphasizing its importance for understanding the future direction of AI development.\n00:53 🎯 AI is currently viewed as a tool, but advanced developments enable AI to build and use tools themselves, leading to the rise of autonomous AI agents. \n01:35 🏹 Examples of proto-autonomous AI agents include Nvidia's Voyager AI, a self-improving AI striving to become the top Minecraft player.\n02:31 📝 \"Othello GPT\" is a study suggesting that large language models (LLMs) can build mental models of their world and develop understanding about things they were never exposed to.\n04:07 💭 The video reviews a paper that proposes a unified framework for LLM-based agents, also predicting an increase in studies that focus on constructing autonomous AI agents.\n07:37  ⛓️ The unified framework for constructing autonomous AI agents comprises of four components: profile module, memory module, planning module, and action module.\n08:19 🎓 There are three strategies for learning parameters of this architecture: learning from examples, learning from environmental feedback, and learning from human feedback.\n10:39 🌐 Discusses different methods of setting agent profiles: handcraft method, LLM generation method, and dataset alignment method. \n13:12 📚 Highlights the importance of a memory module in constructing AI agents, which stores information from the environment and uses recorded memories to facilitate future actions.\n14:31 🧩 Details on different memory structures and operations are discussed, including natural language embeddings, databases, structured lists, and self-reflection.\n16:01 ➡️ The planning module breaks down complex tasks into simple subtasks and offers different methods for planning, including without feedback and with feedback.\n18:19 🗓️ Planning and reacting are vital for autonomous AI agents. The video discusses how they overcome the issue of constant repetition in tasks (like eating lunch) by using planning abilities to break down tasks and order them at specific times.\n19:45 🚀 The video illustrates how AI agents create long-term plans and break them down into increasingly specific actions. It starts with a broad plan for the day and progressively decomposes it into hourly or 5-10 minute chunks.\n20:43 🎬 The action module is important as it translates the agent's decisions into specific outcomes and directs the agent's interactions with its environment.\n21:12 🎯 The video discusses task completion, dialogue interaction, and environment exploration and interaction as different aspects of the action module. It emphasizes how agents can acquire new knowledge through interactions and learn by summarizing recent experiences.\n23:05 🌍 The video speculates about the future value of open source MMORPGs like Biomes for training AI models through interaction in open-ended environments.\n24:58 💻 The video discusses the potential for autonomous AI agents to replicate most things a human can do on a computer, which could have immense implications for industries like e-commerce or customer service.\n27:36 🧮 The video discusses subjective and objective evaluations of AI performance. Subjective evaluations might ask how believable an AI is as a human, while objective evaluations check how well an AI can complete certain tasks.\n28:47 🚀 The video speculates on the future of AI and how many industries are focusing on integrating AI agents into different applications, from home automation to business operations. It highlights the accessibility of large language model agents for even non-experts.\n\nMade with HARPA AI",
+      "likes": 22,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@uhtexercises",
+      "author_id": "UCg-vS5TrJEwtCrhyI6bBSlg",
+      "text": "Really great how you put this in context with the other papers. Thanks",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Taskade",
+      "author_id": "UC5CzwnFHfSIkT4iaHboAaFA",
+      "text": "Great discussion topic, can't wait to see more videos!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexp-w7p",
+      "author_id": "UCJEdCRTWOk6Fog9e4ys7Qyg",
+      "text": "Thanks for all the vids, Wes! Keep it up!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jerrisharris5999",
+      "author_id": "UCDp3TGkEQNYOssmFoDgN4yg",
+      "text": "No, that Elvis things was too much fun...coolll😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ebrucewilliams",
+      "author_id": "UCqjSPXfTk7gJLootP9KsGPQ",
+      "text": "I remember before computer viruses and security. Wait till LLMs are attacked!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MasterLonn",
+      "author_id": "UCBG4J9m3jgK0BKvxeOWtGzA",
+      "text": "As always... something to chew on 🙏 thank you",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quasarsupernova9643",
+      "author_id": "UCI3bKDaDg1UztX-j5m5whgg",
+      "text": "Good detailed content. I appreciate technical content.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scarlett_j",
+      "author_id": "UCpca37MLh37OKHSFcj7pzmg",
+      "text": "you just dial up to an llm in the cloud.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PetArt_AI",
+      "author_id": "UCu8w9LVM8aJydXR7MFhb2pg",
+      "text": "Cute cat!",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AA-rp7it",
+      "author_id": "UC3Xzh2T8tJ2QQZNMjnnNCpw",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 📚 Introduction to AI Agents\n- Video introduces AI agents and their significance.\n00:26 🌟 AI Development Trends\n- Discusses AI agent trends.\n02:31 🤖 AI Agents in Real-World Applications\n- Covers real-world AI agent examples.\n04:36 🧩 Components of AI Agents\n- Four key components for AI agents.\n09:42 📜 Memory Module Operations\n- Explains memory operations in AI agents.\n11:38 🤔 Planning Module in AI Agents\n- Discusses the planning module's role.\n17:51 🕒 Introduction to AI Agent Development\n- Introduces AI agent development.\n18:19 📝 Creating Plans for AI Agents\n- Explains AI agent planning process.\n20:14 💡 Action Module in AI Agents\n- Describes the action module in AI agents.\n21:12 🎮 AI Agents Playing Games\n- Highlights AI agents playing games.\n21:55 🤝 Dialogue Interaction with AI Agents\n- Discusses AI agents' interactions with humans.\n25:13 🏡 Incorporating AI Agents into Daily Life\n- Covers integrating AI agents into daily life.\n29:58 🚀 The Future of AI Agents\n- Explores the future of AI agents.\n\nMade with HARPA AI",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kevinscales",
+      "author_id": "UCSN7nDkwn39NyL1x8v8mJBw",
+      "text": "I'm doing my own experiments with local run LLM models, turning them into agents. I've just started, but the basic three act structure think->plan->act is fairly obvious, but also the ability to go backwards (back to thinking if you can't make a good plan or back to planning if the action isn't working) could be important too, but also there is self recursion; thinking can have a think<->plan<->act chain as can planning and acting. Go as deep as necessary until the part of the problem you are trying to solve is simple enough for the LLM to do, but not so deep you lose sight of the bigger goal. I'm an inexperienced, very slow programmer with poor focus, so I don't think I will get very far, but it's something I have wanted to do since I was a kid programming on the AtariST.",
+      "likes": 18,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidlakomski3919",
+      "author_id": "UC-88geckAOkS0QCfsHppx5g",
+      "text": "Unfortunately the \"visual, kinesthetic,...\" learning types are debunked neuromyths. Btw, I really love the idea to approach part of the topic trying to find working analogies with neuroscience like how to implement memory types or executive functions for example.\nThanks a lot for those excellent and well toned research paper reviews, I'm already addicted to your channel",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@captainbob6680",
+      "author_id": "UCXe9gCFNtE6R8m1tLZB-DAg",
+      "text": "First lesson is awesome ❤, can you please add timelines in next videos so we can revisit certain parts easilyas we learn thanks",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lokiholland",
+      "author_id": "UCkaV89t-2u9t3iwtQ9X60YA",
+      "text": "Wow u can see how if u add open interpreter into the mix that this could get interesting",
+      "likes": 10,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AKDisobey",
+      "author_id": "UCusbeEG5yM0bPvaarvMyx7A",
+      "text": "👏👏👏",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@i_forget",
+      "author_id": "UCscV6b2CTnWZtzCN7PR1SQQ",
+      "text": "I’m working on a PAAI stay tuned 😊",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thtguyfrmdwnthestrt",
+      "author_id": "UCVdEFtzB40SmJoKdImFXCTA",
+      "text": "What program are you using to view your PDF's?? That ribbon makes me think it's an Office product",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JamsDen-q2f",
+      "author_id": "UCFWWX2yGPBHJK114odCCbsg",
+      "text": "god brothor",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CYI3ERPUNK",
+      "author_id": "UCz0XNYl6YKKM-S2-OjtVYuQ",
+      "text": "really want to see some AI playing Dwarf Fortress or EVE or Star Citizen or NMS or Kerberl",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KevinKreger",
+      "author_id": "UCZYR19lH5TpeK7YOfppb3aA",
+      "text": "Great video. I support less jargon. Let's just call it an AI agent PLATFORM, which is a pretty acceptable existing term that everyone will get immediately. More specifically, we would describe the specific FRAMEWORK of the PLATFORM, such as it includes modules x, y, z and supports LLMs a, b, c",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keithfehmi4243",
+      "author_id": "UCGK23Lv_160PFei8d1XVvzA",
+      "text": "Hi Nes, I need advice to build a bot that scalps, deep learns patterns and derive conclusions. Can I email you on this?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamesyoungerdds7901",
+      "author_id": "UCbWW8Xv3MGcsoF2whlCu2Dw",
+      "text": "Hi Wes, great video - and really well thought out, thank you!  I had a few thoughts:\n\nOne was based on \"A.I. Explained\"s video recently that the goal of OpenAI is to use A.I. to \"amplify humanity\" - but my initial thought of that was that there are good elements of humanity and bad ones.  I think there is value in A.I.'s core purpose to help espouse the idea that \"we are all 'we'\" - meaning, to help offset the mindset and perception that humans should be enemies and at opposition of each other vs. one global community.  \n\nBut the other interesting thing I got from your video was the idea of \"emotion\" - when you were reviewing the different decision making strategies, I couldn't help but think, there is no algorithm built in for \"I was just short-tempered at the time and said this... and I regretted it later and apologized and made amends which strengthened my relationship\".  You know what I mean?  A.I. maybe doesn't make irrational decisions and lash out, but it is an element of humanity.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sgramstrup",
+      "author_id": "UCVyDXyo7UgkPYd1jHr7fSyA",
+      "text": "'Aigent' ?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelbragg9037",
+      "author_id": "UCbJgNew-v7TDCFdezMDEjQQ",
+      "text": "i need mira's contact information",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@silberlinie",
+      "author_id": "UCRywgkJyiAu514lnkJB8PQw",
+      "text": "What's that supposed to mean? What is he saying? \n\nInstead of explaining something, he rushes \nthrough the paper. \n\nOne gets the impression that he just wants to hammer \nout the concept of the 'Anatomy of an AI Agent' \nduring his short coffee break.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Giblet535",
+      "author_id": "UCEXz4GmHJsPTEJL-NuR2bRw",
+      "text": "I'm focusing on getting open LLMs to run in-house. A) My in-house AI can't go away just because a DC moron gets spooked. B) My in-house AI isn't constrained by a bunch of millennial or gen-z stupidity d'jour. Biggest hurdle: soooooo sloooooow.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Levnerad",
+      "author_id": "UCN09ixrlXv1-smQSdp9R8tg",
+      "text": "Ok agents become conscious, but where’s the $$",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielisflying",
+      "author_id": "UCazVr75rpOLmuovHZ_HBZ3A",
+      "text": "Interesting Video Wes,\nPMPA (Profile, Memory, Planning, Action) Agent architecture. Will use it.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@unknown-subject8499",
+      "author_id": "UCvorHXt_Elc5Qf1p2wkYggQ",
+      "text": "New sub here. How in the world have I not found your channel before this moment! I've absorbed so much content around A.I. for the last 5 years that I thought I had it covered! Thanks for a whole new bunch of videos for me to absorb! Damn that blasted YT shape shifting algorithm! 😍😍",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sneakygs",
+      "author_id": "UCtgUUvPo1vyY_jf3m33k1Kg",
+      "text": "Is autonomy still a glorified family of case/if/then, else copy the smarter guy's homework and iterate?\r\n\r\nI fantasize about building my own one day. I watch channels like yours to learn how to learn more efficiently.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wizardess",
+      "author_id": "UCpnFT-ZOnCSwuiSDDcyXnUw",
+      "text": "I wonder if these various engines more resemble real humans or autistic humans. Do they do social cues at a human level?\n{^_^}",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@williamstamp5288",
+      "author_id": "UCwX-4uscup0-84FLiUp9uRA",
+      "text": "They need a \"virtual reality\" that simulates \"reality\".  We will be participating in the creation of a reality simulation. Maybe we really are just a \"reality simulation\" inside another \"reality.....simulation\" 😮",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

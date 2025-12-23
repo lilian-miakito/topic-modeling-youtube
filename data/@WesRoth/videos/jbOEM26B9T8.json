@@ -1,0 +1,108 @@
+{
+  "video_id": "jbOEM26B9T8",
+  "title": "OpenAI GPT-4 Function Calling: *HUGE* Potential",
+  "url": "https://www.youtube.com/watch?v=jbOEM26B9T8",
+  "comment_count": 11,
+  "comments": [
+    {
+      "author": "@cmw3737",
+      "author_id": "UCsJjSAm4LRpfUafuxaYF9pQ",
+      "text": "LLMs are the natural progression (possibly the end-point?) in the line of interpreters that take language that humans understand and write which result in computer programs. From machine code, to assembly language, to C to higher level language compilers, to query and scripting languages and DSLs, to no-code tools. The addition of function-calling is like the additional of functions to procedural languages. It enables a higher level of abstraction so the LLM itself can think in terms of blocks of functionality just like those old additions to compilers. I wonder if the next similar thing would  be module like behaviour where the LLM can re-use something in its memory reliably by 'solidifying' or freezing concepts that it creates. So you could prompt it to say now use that thing you just created to do this more complicated thing. If those 'things' could be somehow exported for use by other sessions then you'd get another exponential level of re-use.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stephenrodwell",
+      "author_id": "UCRsGrjmu_3vqU5BFbYEPeRA",
+      "text": "Thanks! Great content! 🙏🏼",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@boltvanderhuge8711",
+      "author_id": "UCVgIMv3PNAAsIgFZcM3MgLQ",
+      "text": "Anyone else run into what seems to be this sort of mechanism lately when attempting to get chatgpt to do things that could be construed as games? For instance mentioning \"20 questions\" or anything similar seems to put it into some rigid 20 questions routine that cannot handle any sort of non-standard ruleset",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@agnesslovehealz",
+      "author_id": "UCrfZGIXpOqzWYzDvmD21fcw",
+      "text": "Appreciate u",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hanskraut2018",
+      "author_id": "UCTAYpfqzCEx48Y_8BLZ_Hzw",
+      "text": "Very good content you seem to be aware of the memory thing.\n\nNow that being said im sure some busnesses combined with a LOT of hardcoding can make aome cool automation with that esoning but then where is the paoint at wich you justhardcode everythibg? So memmory is really important.\n\nGood videos recently",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pyotrgrowpotkin",
+      "author_id": "UCV5dBbKn9BrWamlBvwk1RDQ",
+      "text": "Feel like I've made langchain in like, 2 hours with this. Have a python gtk app, with functions for wikidata sparql queries, python interpreter, save / load files, write codefiles, etc etc etc",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hanskraut2018",
+      "author_id": "UCTAYpfqzCEx48Y_8BLZ_Hzw",
+      "text": "J.A.R.V.I.C.E. like longterm memory 150 IQ (or barely smart but infinite memory (imperfect but its trying and succeding a lot) A.I. that is in your service and tryes to process with idle ressurces of your pc int he background is amazing i agree 100% even just conversations or reminders or extending memory to decide things that you cant all keep in mind at the same time.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FlaminPigz7",
+      "author_id": "UCaKioohhrmft3_HNZ5ebbKw",
+      "text": "Just to stroke my ego a bit: I came up with this idea 2 years ago and started trying to get it to work with GPT3. Worked off and on since then, making some improvements. But I wasn’t fine-tuning the model, just prompt engineering + making checker code to verify that the function calls generated were valid (correct arg types, etc.), and sending an error desc back to the model to ask it to try again and fix it. It did get better over time, but it still kept trolling and doing dumb shit rather frequently. So now finally, it seems open AI has figured the idea out, saving me the work of trying to make a pentulent AI behave! This should make my work much easier now! I’ll have to test it out!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hanskraut2018",
+      "author_id": "UCTAYpfqzCEx48Y_8BLZ_Hzw",
+      "text": "Its not huge the obly thing that matters is lobgtrm memory/longer memory everythibg else is a dropon a hot stone",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theawebster1505",
+      "author_id": "UCg2B-u7Zc0LqL4sE91zw--w",
+      "text": "@Wes Great video, thanks. Are you a coder yourself? If I understand this correctly Function calling is only relevant to programmers using the OpenAI API, right? And I don't even have gpt-4 access, only text-davinci003 😥",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@klammer75",
+      "author_id": "UCu98Sl8IcPkodczmPD-U4Uw",
+      "text": "You read my mind Wes! This is exactly what I’m gonna be building and using these new functions and agents for….autonomy is freeing🥳🤩🦾",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

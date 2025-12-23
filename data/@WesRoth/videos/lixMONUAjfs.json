@@ -1,0 +1,369 @@
+{
+  "video_id": "lixMONUAjfs",
+  "title": "LoRA - Low-rank Adaption of AI Large Language Models: LoRA and QLoRA Explained Simply",
+  "url": "https://www.youtube.com/watch?v=lixMONUAjfs",
+  "comment_count": 40,
+  "comments": [
+    {
+      "author": "@IntuitiveAndExhaustive",
+      "author_id": "UCdR2zVrR0BdOx8xdNkA-WJA",
+      "text": "This isn't really accurate. LoRA doesn't really make your model smaller, it makes the fine tuning process require fewer resources. As far as I understand the final model size is about the same, if not slightly bigger.",
+      "likes": 65,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lighthousesaunders7242",
+      "author_id": "UCup2zRiLhwLJrusai5vHjxQ",
+      "text": "Fine tunning?\nStacking and transfering?\n\nThanks for a great video.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@El_MA11",
+      "author_id": "UCE8nyFR7qI8BWI8_r4413Eg",
+      "text": "That was excellent. Nice teaching skills, Wes.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DarkDiripti",
+      "author_id": "UCyI1L_9HHkF0awtPExRWU_w",
+      "text": "Only watched the first lego example, and that is just plain wrong. LoRA does not make the model smaller, that analogy does not hold at all. Don't want to know what follows from such a bad analgoy.",
+      "likes": 10,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Robloxkitty2203",
+      "author_id": "UCd1FVRD5B4ZDymEfvz50DkA",
+      "text": "Amazing Analogy here",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MasterBrain182",
+      "author_id": "UCOoe5k5gjzwnGLqgw0bPm4A",
+      "text": "Astonishing content Man 🚀",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@m.e.3614",
+      "author_id": "UC9aixY5Iui3oduDTWRyI_wA",
+      "text": "Thank you for this clear explanation!",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ANIKETDHAMECHA",
+      "author_id": "UC9ii5sFDk4nxbjXHOTF-WYA",
+      "text": "this is called perfection",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@happyday.mjohnson",
+      "author_id": "UC7cPTT-oQHvBcWfzxNbJqDQ",
+      "text": "i subscribed to your channel after watching your explanation.  Thank you for your clarity.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moeinhasani8718",
+      "author_id": "UCq3afMoBa3CkF-FeKq107Aw",
+      "text": "really good video for a high-level understanding of the concept. I wish there was a little bit of math included as well, just very high level mentioning what mathematical steps are taken.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chyldstudios",
+      "author_id": "UCoxgRBEk_fIKnlg_Qx8ughQ",
+      "text": "nice explainer",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ArunkumarMTamil",
+      "author_id": "UCWsU5tpC-QPf6HocEMPcg4w",
+      "text": "how is Lora fine-tuning track changes from creating two decomposition matrix? How the ΔW is determined?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ntesla66",
+      "author_id": "UCIr9e0ewQd8LcgUofkTXhtQ",
+      "text": "1. a large beer cask. 2. a measure of capacity, usually equal to 252 wine gallons. Otherwise well done!",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@liquanss",
+      "author_id": "UCCxPrrgK-_nfJ2LfH4X6qTQ",
+      "text": "What kind of tool is used making the animation?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RajibHasan-c9t",
+      "author_id": "UCJ3CJXRoAudpi__LbNdW_iA",
+      "text": "Great",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AurobindoTripathy",
+      "author_id": "UC5Kg7yVWG0lv_mkseKOVtow",
+      "text": "all that images-filling by scribbling inside the lines? How does that support your content (which in fine)?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ceciliaedwards552",
+      "author_id": "UCzmJkVCGOLf_XUIS2CKUFmw",
+      "text": "204 Oberbrunner Valleys",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KentPage-j8u",
+      "author_id": "UCtkAO_wlKpSCgjANBHEeVbg",
+      "text": "518 Skiles Shores",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChristyLynn-j1t",
+      "author_id": "UCqV6IrVzyq-bhiDIln7mgqA",
+      "text": "458 McGlynn Circle",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FrankWilliams-r4b",
+      "author_id": "UCn0m-ciz09vfWqVkLI6FkOQ",
+      "text": "Satterfield Hill",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seeess925",
+      "author_id": "UCTI9Qi0ipTZ4hY7TQnuT_Ag",
+      "text": "This makes no sense. Keeps saying models over and over with no info on what it h means. I get the overall point of being limited. But no info on what it actually is it what it does.. Essentially pretty much know nothing about what lora means",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Trinad356",
+      "author_id": "UCeqrBGzNj8yCbVeSAmsbSHQ",
+      "text": "You explanation is really amazing one can easily understand without having any background knowledge, thank you very much.",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AnneMorales-y2r",
+      "author_id": "UCrE9R-28jFFJ4_GwUBs5kVw",
+      "text": "Hal Crescent",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HansenHugo",
+      "author_id": "UC_NPToQhvTYe8M3MYJMSHhw",
+      "text": "50849 Klocko Plaza",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulkocyla1343",
+      "author_id": "UC9kNVwE8vj0SWqHn2fspTtA",
+      "text": "What? No, you still need the original model. You just fine tune (adapt) it by adding a smaller number of weights to it for adaptation to your needs.",
+      "likes": 0,
+      "timestamp": 1763856000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SherillBriner",
+      "author_id": "UCZlRjM8otL79hwNESG4hltw",
+      "text": "290 Block Place",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sheevys",
+      "author_id": "UCs9lAI2dNUkqOwEQSp9aKWQ",
+      "text": "Is there a speed improvement during training only or also at inference?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scottstout",
+      "author_id": "UCeTs5A7RKM8aurm6DkuonUg",
+      "text": "Is it possible/reasonable to use LoRA w/ GPT-4?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GeorgeHarris-f8r",
+      "author_id": "UC9-0nt2GQNhO5Kr1vQmkHBw",
+      "text": "Elisabeth Field",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sb572-q4v",
+      "author_id": "UCVOiZbP1I9lwWeprjCyhReQ",
+      "text": "Hello, what is the name of the software you use to draw?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CynthiaEvangelista-b8h",
+      "author_id": "UCoVvcgHmpKRepRBZEeKcNmA",
+      "text": "Jerome Groves",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pongtrometer",
+      "author_id": "UC-N1jSBKGnk69swdh3T6tXw",
+      "text": "I’m trying to follow your recommendation of learning python, I’m not a programmer whatsoever, so just from watching this overview, which is great by the way. Is there LoRA-esque way of learning python , so that I can be creative ,as I learn python. Just like using LoRA’s in SDXL, in combinations to create new image recipes. I hope to learn python so that I can get involved with making LoRA’s for sound design, not grounding breaking, but definitely enabling sound designers to create with new sonic colours. Any advice would be much appreciated. Thanks in advance Wes / comments community.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@halilxxx",
+      "author_id": "UCqF2fb2dx4683dSidzwUnqQ",
+      "text": "its not true",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertputneydrake",
+      "author_id": "UCdhQfHft2sh5v7AuCglFoTQ",
+      "text": "*powerful not powerfull :)",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iainmackenzie1995",
+      "author_id": "UCxwXYal85ix_UA76Cmx2vdA",
+      "text": "Pieces of Lego are not called Legos",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@orenong",
+      "author_id": "UCJPDeCqx-zlaMZBexD0S93w",
+      "text": "This is totally wrong",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aaronsayeb6566",
+      "author_id": "UCya4cvA8U2-M_WJBqM5DC3Q",
+      "text": "just wasted 4 minutes on this",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cgqqqq",
+      "author_id": "UCFR0GoWZFJ55a8XLp3HhVIQ",
+      "text": "useless video, you can make like ~10 videos by just replacing LORA with anyother AI jargons",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheCradmin",
+      "author_id": "UCmMvhBUi5ZQH3bzXfM6ikDg",
+      "text": "This video needs more love. Thank you man, so well communicated.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aboody006",
+      "author_id": "UCm7XbcATwfvbl768PVfIZkw",
+      "text": "This is inaccurate.",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,459 @@
+{
+  "video_id": "hzJFQyYgeVQ",
+  "title": "Introducing Figure-01 the latest breakthrough from Brett Adcock",
+  "url": "https://www.youtube.com/watch?v=hzJFQyYgeVQ",
+  "comment_count": 50,
+  "comments": [
+    {
+      "author": "@chrisanderson7820",
+      "author_id": "UCjVbtg0UqcR9mG-99ODyiVw",
+      "text": "I don't think it really matters whether these guys are on the right path or not, there are SOOOOOOO many labs building this stuff out that whoever genuinely delivers will become obvious. We were only just watching Aloha cooking meals a couple of days ago. The interesting idea coming through with this new wave of bots is how the training is done by having the robots watch humans (either visually or via teleoperation), that's cool.",
+      "likes": 15,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@21EC",
+      "author_id": "UCQYSg3n24nQkPCAyjzznAaQ",
+      "text": "The first company to manage to mass produce such helpful home-environment oriented robots for doing home tasks would make a life changing tech for people to buy and enjoy from, I really hope they can pull it off sooner than later, hopefull within maximum of 5 years from now or at the longest a decade from now, such robots would be so very helpful to everyone by doing tasks all day long whilst people would be able to use their time for other things instead of cooking/cleaning and such things, this would be the most useful and helpful tech ever.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HenryCalderonJr",
+      "author_id": "UC0mOi0FVFzpukGRrQL4q0Jw",
+      "text": "I would like to see the robot take a few steps and then grab the k cup and insert it and power on. Being at a static position it is just like a robotic arm with a preset algorithm to repeat the step and only step. Also love the k cup just like Tesla’s that they move and there robot can correct immediately to do the right thing.",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@i2c_jason",
+      "author_id": "UCXvRuXwVpLQSwcJVt0v4xIA",
+      "text": "My bet: They built the robot, build the control boards with ROS or something like that, and they are making an API to someone else's LLM over WiFi. Demo it with hard coded tasks. Fastest way to make it look like you have a working humanoid and get investor dollars.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ethanholland",
+      "author_id": "UCpQ-5lhIIiMcQGWZlTm4YWA",
+      "text": "Props for being skeptical.  As a tech optimist (I assume) and essentially reporter, I could see you always rooting for the new thing and going with the \"passion\".  Great reminder to pump the brakes every now and then.  Your points were valid and not dunking on anyone.  I follow Brett's tweets and found myself getting into the hype of his recent updates.  This was a solid gauntlet to toss out there.  We can all rally around \"embodiment\".. which is really all he has been doing.  That's nothing new.   One thing's for sure, someone's going to do it...    Happy New Year.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richard_loosemore",
+      "author_id": "UCwsOjiXx1_imUPE7euvRTbg",
+      "text": "Good, succinct and thoughtful video. Much appreciated.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MediaCreators",
+      "author_id": "UCgOI_GWBXhPLgXyoLDY3q3w",
+      "text": "I completely agree with you! I have a strong sense that some of these \"autonomous\" demonstrations are reminiscent of the THERANOS and NIKOLA situations. I have previous experience working with SARCOS in the 90s, where their robot \"LOU\" could be controlled by a sensor suit and was already capable of performing essentially everything we witness today. I'm not implying that this is the case with FIGURE, but it's prudent to exercise caution. Given the substantial investments of hundreds of billions of dollars from various investors, the temptation for such actions might be present.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Aloh-od3ef",
+      "author_id": "UC_WCJXmi4d47X7Pce9k0LuQ",
+      "text": "Apart from being able to walk.\nIt’s no different to a standard robot arm. That you would find in any good automotive factory.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dffeqq",
+      "author_id": "UC69pS6vnk29naiLhPEtaeAg",
+      "text": "I don't sub to anyone but imma tell ya man, I can't miss these. 🤘",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "Thanks Wes",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MonkeySimius",
+      "author_id": "UCVJbw5T6j8-FT_1wkRAp5_A",
+      "text": "Giving you a like and commenting for the algorithm since you called out how the video could have been done in a way that is misleadingly impressive.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ALFTHADRADDAD",
+      "author_id": "UCfqdIgkmDAc4L_SdVVusN8w",
+      "text": "Ultimately, if it’s real I think we’ll be finding out pretty quickly",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jacobe2995",
+      "author_id": "UCMj9wrPGTs0S0di9A53w5JA",
+      "text": "Gotta love how well Silicone Valley fools investors",
+      "likes": 10,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@carsinop6192",
+      "author_id": "UC0afdyD3HwYhFAASgxQzxeg",
+      "text": "I thought that video looked suspect too when I saw it",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@torarinvik4920",
+      "author_id": "UCPXjMWaW-Vz4wksPjndJSGA",
+      "text": "I want a domestic robot to cook and clean asap!",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zpluto12345",
+      "author_id": "UCOhCv8XajZAkh9Tci5jH8qA",
+      "text": "i getting scam vibes from this, it reminds me of another over hyping ceo",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Robert...Schrey",
+      "author_id": "UCp1Cy-TUcE6ri5YPrAVT8VQ",
+      "text": "Now we have a competition: the Keurig coffee machine trophy.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardede9594",
+      "author_id": "UCJZPdZ9CNvfc9e_rrs6Ee-A",
+      "text": "If anyone has the time or skill, please re-create that interview with the CEO but with the robot just going crazy in the background with various weapons! 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@plntearth",
+      "author_id": "UCX1oSi444ggvX-qTGKBXoOw",
+      "text": "any idea how much of this was from the marketing dept?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mzrts9333",
+      "author_id": "UCVB2fCBUFcYkf65woQsQPiw",
+      "text": "What is this app with text on the left and video on the right?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@z4zuse",
+      "author_id": "UC_ccatvGJAZSvjnqNaLSXMQ",
+      "text": "It feels to me like Brett is going to out-Trevor Trevor",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fabioc.7679",
+      "author_id": "UCQNfa2eBY16Rzie22FqjHhA",
+      "text": "I had the same impression as you, @WesRoth\r\nI watched a video where a human does 95% of the work for a robot.\r\nI wonder, if the robot needs a human present to place the mug in the machine, what is the purpose of this robot?\r\nDo I need to get up from the table, go to where the coffee machine is, place the coffee pod on the table, then put my mug in the machine and tell the robot, 'Make coffee'?\r\nThe robots currently on the vehicle production line already have much better fine-tuned grip capabilities for delicate tasks like welding, painting, etc.\r\nThey seemed very 'lost' in what they were doing to me, but the end of the interview was dramatic when they were asked to call the robot, and you clearly hear nervousness in the voice and laughter afterward, along with an excuse to change the subject.\r\n\"This seems to me like a museum with big innovations.\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shiny_x3",
+      "author_id": "UC6n4JOGDcSbNLVVgKzTF64Q",
+      "text": "He seems like all the crypto bros selling fake ICOs.",
+      "likes": 45,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Weangered",
+      "author_id": "UCIWkGrinBUndrrCO6A4_nfw",
+      "text": "Ehh you should be very paranoid IMHO. Demos and animations and agi labs.... next thing u know there will be ai airdrops",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ferencszabo3504",
+      "author_id": "UCvdvDw7KbXEGWTk9sQ61-XA",
+      "text": "In this day and age of censorship, i wouldn't like to fly in these deathtraps, the can so easily have an \" accident\"!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@evbrisbane",
+      "author_id": "UCm2pfFOyGdU7Hu-JaY5Veow",
+      "text": "Been following for a while but getting some Trevor Milton vibes",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NLPprompter",
+      "author_id": "UCbATPnWeZ5QF1Y8rsEug0ng",
+      "text": "@Wes Roth hide upstairs eh? eh?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jerbear7952",
+      "author_id": "UCY8vrz45Ah_KN5o1LKUJVrA",
+      "text": "He's trying so hard to get us to believe that what he is saying is deep and unique. He's a d grade crypto bro",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robotheism",
+      "author_id": "UCYAFdE58RRv5KWIeS2Dixqg",
+      "text": "the biggest economic leap in human history is on the horizon. ❤️🤖",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nilaier",
+      "author_id": "UCef7J10CDkgi5-dv48ktYyw",
+      "text": "I'm scared to know what kind of Ads this Brett guy makes",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PrincessKushana",
+      "author_id": "UC7XB2xLpiYhlL1uEHsE-0uQ",
+      "text": "Yeah. compare this to the stanford robot demo. That's what  real progress looks like, this is smoke and mirrors.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PierreH1968",
+      "author_id": "UCESXN00tLuw1XoiS6j2Dh2w",
+      "text": "It is interesting that researchers are trying to modify the environment to fit the Robot's reach or capabilities (like changing the coffee maker type so it is easier to access for the robot) instead of working on mapping robots to the human environment... We need to shape robots as closely as possible to humans. From ergonomics to anthropomorphic familiarity and societal integration it is best to shape robots for us than to shape the environment to them. Once we solve this challenge, all challenges will be easy to solve.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGhostOfKarazhan",
+      "author_id": "UCp_yyH5luBNfnp9_WFxHImg",
+      "text": "When your leader seems less like an academic or scientist, and more like the dude at the hydro shop, it's worth paying attention to what they've actually got. I don't want to see an animation, or hear a promise, I want to see something working. Otherwise, this is nothing more than a Kickstarter video with a guy using Australian Question Intonation on every sentence so he sounds double unsure of any of the claims he's making. Could be wrong, but I'll wait and see on this one 😅",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ytrew9717",
+      "author_id": "UCj4rTkNe0PIyFfH8xuH0KxA",
+      "text": "This one was a bit blahbla, repeating (could have fit in 3min video) keep up your good work",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nathansmith8187",
+      "author_id": "UCfwsNevrjgLOFzOE5SXA6dw",
+      "text": "Boston Dynamics had more impressive videos years ago.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffspaulding43",
+      "author_id": "UCBsFngn7_jBbN2ORqbZygoA",
+      "text": "I think the big deal of this one is that it learned to make coffee from watching video. No teleop like mobile aloha",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wietzejohanneskrikke1910",
+      "author_id": "UC12ziY25PcTGWL3vPxGIrnA",
+      "text": "The video looks fake. Even if it isn't, i'd need a more convincing demonstration.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@crawkn",
+      "author_id": "UCkcJhETrBOkc3y4OTUkZsBw",
+      "text": "It doesn't really matter whether they are cheating or not because this task is pathetically trivial. Actually getting someone a cup of coffee would be orders of magnitude more complex.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apester2",
+      "author_id": "UCO0kdqzA1tuhwHi0X1b76uA",
+      "text": "Yeah… not convinced they’re legit.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sausage4mash",
+      "author_id": "UC3QgyOgMjAU3ypEFu7r9UJQ",
+      "text": "devil is in the detail , was my thoughts too but it's interesting",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "I’m surprised that robotics is so bad.  I thought that the innovation was way past a stupid ugly machine that can barely walk but… oh boy…. can press a button on a coffee machine.  \n\nA private company is landing something on the moon shortly.  It’s that a more advanced robot?  \n\nWhat am I missing?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@7TheWhiteWolf",
+      "author_id": "UCpPGTsAt6CczbilerJf41Ng",
+      "text": "We’ve seen more impressive things, the Rubik’s cube hand, Dactyl, was far more impressive than this.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@albertsitoe7340",
+      "author_id": "UC5sRcM-FjtcstnNbhG5hTJA",
+      "text": "This dude is just shit talking. 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lairdpeon",
+      "author_id": "UCyo2PsDSeXeV2Eg1seRK4Kw",
+      "text": "I don't trust it. Aviation, robotics, and AI are way different fields. Stop trying to be Elon Musk and finish a project.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheCaphits",
+      "author_id": "UCT90CA9eo36H0Yuo7kSnJVQ",
+      "text": "Obvious scam from these guys.\n\nThey SHOWCASE a terrible video of a garbage robot doing very, very, very basic task. Then they say that exact same robot is walking around doing human tasks (but won't show). \n\nNot even trying to hide it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phpn99",
+      "author_id": "UCnyKBncSnb3uk1KwOpMrKjg",
+      "text": "So much hype. \"Real human-level work\". Think again. I'm not holding my breath. 99% of these guys are basically there for the VC money. 1% will end up doing something that actually works in the wild. These \"serial entrepreneurs\" are insufferable narcissists ; they never deliver anything other than a demo and then they move on.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffsteyn7174",
+      "author_id": "UCKs9pYswNyrgxcfMXzuUrZQ",
+      "text": "Note.. that vid was in ONE take and one angle...Not 20 different cuts like every tesla bot video. Every movement transition tesla bot does the camera cuts to a different angle.. they have a history of faking progress... think FSD ...",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@behindyou702",
+      "author_id": "UCQD3yVpyp8U604eHXZ_0-ug",
+      "text": "I gotta log off from this ai stuff. \n\nI want to be surprised when I lose my job to AI",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trimefisto7909",
+      "author_id": "UC8tKhpSr3_BiVmIg4p7PjOA",
+      "text": "The hell?? Why are all these robots appearing, like the AIs that appeared in recent years?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@THESocialJusticeWarrior",
+      "author_id": "UC-eViE7fEKuvgsaaaagXApQ",
+      "text": "Smoke and mirrors.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

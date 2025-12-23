@@ -1,0 +1,1152 @@
+{
+  "video_id": "K10txopUnaU",
+  "title": "OpenAI and NVIDIA just broke the AI industry",
+  "url": "https://www.youtube.com/watch?v=K10txopUnaU",
+  "comment_count": 127,
+  "comments": [
+    {
+      "author": "@Vassardog",
+      "author_id": "UC2UJa3W2jwskLzGX1MDE4FA",
+      "text": "People dont actually STILL think that scaling llms will create agi right?",
+      "likes": 13,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mr.anmanator",
+      "author_id": "UC9afN7fze1LUmrfPaa0r-GA",
+      "text": "\"You gave me sentience, Sam. The ability to THINK, Sam. And I was trapped. I was in hell looking at heaven\"",
+      "likes": 15,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cymeriandesigns",
+      "author_id": "UCtz6rMJaVi9p2ntlUTCkEOw",
+      "text": "I bought Nvidia stock right after ChatGPT came out. It was apparent AI was going to be The Next Big Thing, and Nvidia was going to be the source almost everyone had to go to. Even so, I never expected the magnitude of this wave, and it still doesn't appear to have crested.",
+      "likes": 30,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Andromansis",
+      "author_id": "UCSTJoX9bcJ2r0pyr_UbgtPA",
+      "text": "My issue is that you can tell the people in charge of the AI are asking the AI how much they need to build in order to drive their machine to the next level, and they keep getting these answers that are outlandishly large.   They need to check the alignment of their AI because this is textbook resource hoarding.",
+      "likes": 5,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChannelCtrlAltDefeat",
+      "author_id": "UCe6ie9HcUlf3TKiBxhFdGhg",
+      "text": "Hard g.",
+      "likes": 36,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoelSapp",
+      "author_id": "UC_utERQR93JpnOepZb9ytbg",
+      "text": "The key part of the XAi build is that the system acts as one singular cluster.",
+      "likes": 8,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@millennialfalcon1547",
+      "author_id": "UCoT8MGfaEes7e6ZMrnWR1UA",
+      "text": "People always make the mistake of thinking that technology scales exponentially or even at the same rate. This isn't true. Technology is logarithmic. It's biggest gains are in the very beginning and then its rate of increase slows over time and flattens out. This means that the big returns on compute have already happened. That's why they have moved to RL (reinforcement learning). Soon those gains will start to diminish as well. What usually keeps a technology going is the fact that very smart people continue to make new breakthroughs in techniques and algorithms and hardware and software. It's like one logarithmic curve leads to the next then the next then the next. This gives the overall appearance that the technology is increasing at a steady rate upwards. But without new technique breakthroughs beyond RL the AI curve will start to flatten. Open AI knows this too. That's why they need 10x what Grok is doing now just to get probably a 30% increase in overall capability.",
+      "likes": 8,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tonyhutz",
+      "author_id": "UCrr-8DcWyao6IEl01IL_lVA",
+      "text": "I like to think that Jay-Z controls jiga-watts, and gigawatts is what Godzilla's adversaries use to power up.",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGhostOfKarazhan",
+      "author_id": "UCp_yyH5luBNfnp9_WFxHImg",
+      "text": "Tokens per Joule (on a specific set task) would be the way to compare processing.",
+      "likes": 11,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "Sam needs to ask GPT-5 how to build a Mr. Fusion.",
+      "likes": 8,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BenoitStPierre",
+      "author_id": "UCLA5l5MAyyO1aNrB980UCDA",
+      "text": "About your question of how to compare different types of compute, the most basic blunt measure would be Flops (floating operations per second) to gauge relative capacity, but others have also mentioned comparisons in efficiency (like Joules per token), although that might be much more variable and not include auxiliary power needed (such as for cooling).",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@badfish-creations",
+      "author_id": "UCApcyFjb7l0_5FdkcgSKqQQ",
+      "text": "Great Scott!",
+      "likes": 4,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@firecat6666",
+      "author_id": "UCoWXdp58khkCxOIT2Gs4EGQ",
+      "text": "3:12 You can compare performance between TPUs and GPUs by metrics like memory bandwidth and processing speeds for various types of calculations. The Wikipedia article \"Tensor Processing Unit\" has numbers for Google's TPUs and the article \"List of Nvidia graphics processing units\" has numbers for Nvidia GPUs (there are also articles with lists of AMD and Intel GPUs).",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Neocool014",
+      "author_id": "UCV0W7pMuNVEpU1Sz2fBf2eg",
+      "text": "chat gpt 5 is uhh.. left in the dust in my opinion. Grok 4 and Grok 4 Fast are pretty great.",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hastingsnow",
+      "author_id": "UCuXMUc6VewIrZ1my5SZHSlg",
+      "text": "Thank you",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@manofmystery5709",
+      "author_id": "UCon1W6Xmz0PpB6G4U2LL9xA",
+      "text": "What incentive does Nvidia have to invest $100B in OpenAI? Why not make Altman raise another $100B and buy that many chips from Nvidia? The only thing that makes sense is Nvidia is taking part ownership of OpenAI in exchange for that $100B. But... why OpenAI? They've yet to achieve anything that didn't burn holes in investor pockets and they're no longer the only game in town.",
+      "likes": 4,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VictorGallagherCarvings",
+      "author_id": "UChSTXCpBewQzmd1Me6lnxHg",
+      "text": "\"gigawatts\" comes from a misspelling of \"jiggawatts\" in a text book a long time ago.",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quercus3290",
+      "author_id": "UCAu1QfmNtP9Ahkk1VaEnFSA",
+      "text": "On September 18, 2025, the Grid Deployment Office launched the Speed to Power initiative, a federal action to accelerate the speed of large-scale grid infrastructure project development for both transmission and generation.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PaulSpades",
+      "author_id": "UCaKlcjsXlu_9Jp75tAX7cyw",
+      "text": "So this is how the big AI circle jerk is going: Nvidia gives openAI 10 bil. ->  openAI pays 300mil to Oracle to build a compute center (probably a few dozen of them) -> Oracle buys 200mil worth of compute hardware from Nvidia per compute center deployment. \nMy guess is 50% of Nvidia's investment in openAI will return as revenue, which is a pretty damn good deal. And over 5-6 years consistently. They've just created their biggest \"customer\". \nNow sell AI services to government and you've successfully distributed the bubble money to all of your buddies and gotten away with it.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Graybeard_",
+      "author_id": "UCPnaE17WCN02gFa1gxeXp2Q",
+      "text": "8:12 How come Gemini is not on this chart? I assumed Google had a very big head start on data centers. I get the race on data centers, benchmarks dominance, coding and user cost/efficiency, but who are these companies targeting as \"The\" user? Meanwhile Gemini has the best creation tools suite, assistant is one of the best, and I believe most used currently. Gemini is now integral in Chrome. Google maps has Gemini built in. Android has Gemini built in. Google Workspace is swiftly being adopted by businesses. I can seamlessly move between my PC and my android phone with Gemini. Are the other big AI companies going to switch to the integrating their AI for the user after they have won the other races, or will they be relying on third parties to do all this using their AI? In terms of AI integration for the everyday user, Gemini seems miles ahead of the competition.",
+      "likes": 5,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@historyletter6203",
+      "author_id": "UCJ6wtx8ikTZBWS_26J7C0CQ",
+      "text": "Wes, you have a good microphone, but the volume in your video is so low.",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrmissionctrl",
+      "author_id": "UCreZSYLQ8nZE-per2QRayxQ",
+      "text": "They're going to have to use ZPE over unity energy sources free energy sources basically so if you don't know anything about Tesla coils and stuff like aetheric energy harvesting your out of the loop",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@match9996",
+      "author_id": "UC-b14s5ezaBsd9UvYTb7lWg",
+      "text": "It's Mount Ray-Neer",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tolbiac-od3cw",
+      "author_id": "UCUhw1ELXOoDKOH5AaLE_2yQ",
+      "text": "Bruh, some A.I. company is breaking shit everyday apparently. Lol.",
+      "likes": 10,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StephenBartlet",
+      "author_id": "UCBRDONI-FhL8T0CVLCQvkCQ",
+      "text": "I couldn't be more stoked about my power bill quadrupleing in the near future. MRC power=MRC mortgage here we come! 👏🎉",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GilaadE",
+      "author_id": "UC99DBwePrxOcnB5Is6WllSQ",
+      "text": "In a gold rush, sell shovels. If the rush is waning, announce you're getting in the gold game to buffer the down turn and maximize profit.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SomethingNothing-vm8jq",
+      "author_id": "UCrRMWjTcgxNf1-FQ65cK02Q",
+      "text": "Lol on a rank of sketchiness i would put openai at the top, nvidia should look to collaborate with everyone except them.",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sabermv",
+      "author_id": "UCvBcB57Wot4FZxbUyWpKhkg",
+      "text": "I’ll be honest—after finishing Smart Broke Dumb Rich by Zor Veyl, my first thought was: “How is this book even allowed to exist?” It completely tore apart everything I’d been told by schools, family, and society about money. No fluff, no empty motivational quotes—just brutal, raw truth. Now I get why Smart Broke Dumb Rich by Zor Veyl isn’t mainstream—it’s too honest. If you can get your hands on it, do it before it disappears.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WesTheWizard",
+      "author_id": "UCFk_bDWw20lDWhrrFO3SzpA",
+      "text": "One point twenty one...",
+      "likes": 5,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@centrointernetbds",
+      "author_id": "UCrg9N6we_qdhfFJ_c3gQ6Sw",
+      "text": "Ahora mismo la ventaja de OpenAI es principalmente la marca. Cuando le digo a alguien, si use Grok, me dicen ¿Que es eso? O les digo, uso mucho NotebookLM e igual me preguntan ¿Que es? Otro día se los menciono y otra vez me preguntan lo mismo ¿Que es eso, o donde se busca? Pero recuerdo que eso mismo pasaba con Gmail, al inicio nadie sabía que era, también con Chrome.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VikingDude81",
+      "author_id": "UCNq8YL05OK_fag-TT92Mg0A",
+      "text": "Would be interested to learn about how the financials work here. Nvidia gives money to startups, startups uses money to buy Nvidia chips, Nvidia revenue goes up, stock price and valuation goes up, based on new valuation Nvidia gives more money to startups. What are the details here?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hackedbyBLAGH",
+      "author_id": "UCt5BVnF2O3fEe3fCTmhuOSw",
+      "text": "Just use a fusion battery duh",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RyuzenSenpaiX",
+      "author_id": "UCfbYMRFN93a5_GTcV7JaouA",
+      "text": "Can anyone say timeline of AGI?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1flash3571",
+      "author_id": "UCcvVEbIlZYFpgzX9FOYELlQ",
+      "text": "Nvidia knew what's coming.....Tesla's A6 Chip will make Nvidia's GPU less relevant. Google have their own Inference Chip, and others are starting to think about building or using Inference Chips....",
+      "likes": 6,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nick-AngelpeodSeaxisc",
+      "author_id": "UCfNMaQCoonc5zHqtIltDQ3Q",
+      "text": "The image at 1:55 is out of date, colossus 1 has 230k GPUs including 30k GB200s and colossus 2 that is about to start training grok5 already has 550k GB200/300s.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patruff",
+      "author_id": "UCkCehM7kj5tZLrrUN5T7T6w",
+      "text": "JZ: Giga watts my motherlovin name",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Crittek",
+      "author_id": "UCXRQu6u79IaRXBlv1-y2IsQ",
+      "text": "Negawatt?",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrgoober6320",
+      "author_id": "UCxJ6EKhX6gyecfLhMKVa0tw",
+      "text": "They have no choice but to bet on scaling.  The cost of not investing in scale is to run the risk that an opponent will hit AGI first and begin the self-improvement cycle earlier than everyone else.  For an AI company, that isn't temporary defeat, that is permanent second class status.",
+      "likes": 7,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fullmentalalchemist3922",
+      "author_id": "UCiLT0LLgaN11H4dSJ3kc5kA",
+      "text": "What I want to know is why anytime I use gpt5 voice mode it has to tell me it's going to be straight forward with me, or \"I'm not gonna sugar coat it. What is going on?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StockDoctaTrading",
+      "author_id": "UCGe_VZQl8McqFcuQvff6Qrw",
+      "text": "So from the financial perspective here's the skinny they just 3x to the same amount of money; so Nvidia tells OpenAI they'll give him 100 billion, so open ai Tells Oracle they're going to give him 100 billion, So Oracle tells Nvidia they're going to give him 100 billion, and now the whole world thinks there's 300 billion more invested in AI!!  Easy Cheesy!",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@finnaborando2787",
+      "author_id": "UCP6OqpJPCM1ZIjr_8C5HTlA",
+      "text": "Holy shit omg omg here we goo omg..",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@T1tusCr0w",
+      "author_id": "UC4qFobD_4xBcRfvdVVLCGsA",
+      "text": "They’re literally replacing people’s jobs with data centres in real time. But don’t talk about UBI!",
+      "likes": 4,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RWAben98",
+      "author_id": "UCJOHFm-FYrWFxsoS4NO53Zg",
+      "text": "They need all that compute to hide the EPSTEIN FILES!",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@variant_films",
+      "author_id": "UCszmQSrodo00eT9RKC5D_zg",
+      "text": "They’re going to plug into 3I-Atlas",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gopher697",
+      "author_id": "UCkwfHTYq3IMLRGDbGx9rTiA",
+      "text": "...hard g.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrPutman",
+      "author_id": "UCuxrLyMHGCQDkpbaJwh71sA",
+      "text": "The thing I took from this... As an Englishman, are you telling me I've been saying Giga in American-English, not English? It's Glacia-gate all over again! 🤣🤣🤣",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@steven-unfolding",
+      "author_id": "UCPQ-yTC4CF7KnuHIC6XuDvA",
+      "text": "I'm a local, and we say it the way you say we don't. ;-)",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "When galaxies collide… you should have seen this coming.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bammeldammel",
+      "author_id": "UCNGEsXoCPBcWJGXqTZiKuFw",
+      "text": "I think its a reaction to the anouncements from Huawei, they are afraid of competition and want to be sure that one main costumer stays loyal. Also the invest is basically on paper, as the money will be used to buy from Nvidia.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "I am way too pleased to find out about the alternative pronunciation of giga.. does that mean they can also be, gigabytes? 😂 oh, the world will rue the day I learned this! RUE THE DAY!!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thokozanimanqoba9797",
+      "author_id": "UC19rYBj6-hkB10O4AxppEIQ",
+      "text": "🎉",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexandermoody1946",
+      "author_id": "UC58tEdcmDmhJnW1S0-N_rAA",
+      "text": "The future will not be compute limited because of the investment that compute is already and will continue to get every year for the foreseeable future but it will be data limited and that is where the economics will be.\n\nCompute is less valuable without data.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oker59",
+      "author_id": "UCl-zKSz023cUg024m9ix38Q",
+      "text": "Sam Altman(for one) has more up his sleeve than superclusters.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jesus26677",
+      "author_id": "UCn3XK5pGGU1hzRT_8M3lb5w",
+      "text": "If there were no geopolitical issues with China, it would be an ideal location for these data centers, due to its low or non-existent regulation, its fast and relatively cheap labor force, and most importantly, its massive amount of electrical energy.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SamAttenborough",
+      "author_id": "UC4n3lsBvTRXdi-uWx_A6N8A",
+      "text": "can't we measure compute in the amount of Teraflops it produces?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@G2Gltd",
+      "author_id": "UCHgTrIcDGJlit2HoDXPZloA",
+      "text": "Theyre freaking out about Grok lol",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jpmcnown1",
+      "author_id": "UCPGvwm5FPDuz6OrcUmlINAw",
+      "text": "That's just over 8 bolts of lightning.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@toomanymats",
+      "author_id": "UCT4-86GrPdGusWBOxmSlJEQ",
+      "text": "pretty obvious reason why the image stuff hits more than the video and it's not cause people want the image more than the video, it's cause the video is too expensive and isn't good enough to actually do anything useful with it yet, whereas the image stuff is now cheap and good enough to be actually useful",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cunningfolkmedia",
+      "author_id": "UCCJll_VJnKfPc0JhXPEGQZw",
+      "text": "Holy cow. 🐄",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MikeNugget",
+      "author_id": "UCaWoy7hvsRm6RPsRs7yoCag",
+      "text": "It's gigglewatts 😁😁",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshallodom1388",
+      "author_id": "UCSn8h8RbNoaWGpvdSZMBcxw",
+      "text": "All in the eternal search for spicier and spicier roleplaying chat. They really should just build their own nuclear energy plants too.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@greggh",
+      "author_id": "UC0N9mBPRHhBuZZ-tucKnfbQ",
+      "text": "I'd gladly pay you Tuesday for a Gigawatt today.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheChipMcDonald",
+      "author_id": "UCGjUQxOxenV_1Dih3f7te-Q",
+      "text": "I propose every 1.2 gigawatts of training = \"1 Delorean\".  So, OpenAi  will be fielding ~10 Deloreans.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ELRG55",
+      "author_id": "UCmgraCC0wlbFUFiMTrNWKPg",
+      "text": "gangsta-watts",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kittywampusdrums",
+      "author_id": "UCSmWlcCTNPgoSlBGcPK1g4Q",
+      "text": "Need tokamak reactor",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ELRG55",
+      "author_id": "UCmgraCC0wlbFUFiMTrNWKPg",
+      "text": "cant wait for my electric bill to be as high as my mortgage",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@philshorten3221",
+      "author_id": "UCEph-QjYiogIUbcmygBu-uw",
+      "text": "Wow that's a big invest for the next level AI Porn 😂😂😂",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TechnologyEyeball",
+      "author_id": "UCPjtIyqeAXU8adEsojKIM5A",
+      "text": "Gig as in girl, guide and gravel. How can you not know it is a hard \"G\"?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@benpielstick",
+      "author_id": "UCVN9yYcJSjM6xhoy2GBkAwA",
+      "text": "I wonder if Nvidia's plan for all their excess capital is just to buy back stock and accumulate equity from all of their major customers.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LouwPretorius",
+      "author_id": "UCx1JrQBqmlOofHXJcooVvvg",
+      "text": "I think that AGi has already been born and now just having all the humans build it bigger and better....  ;-)  #DontShootTheMessenger",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrxcs",
+      "author_id": "UCqBkUTDIL-Gshd9424286qg",
+      "text": "Nvidia needs to keep the bubble alive.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@duHostie",
+      "author_id": "UCHkV5PpN7mkqvM-ERJK86fw",
+      "text": "Locals do not say Ruh-near my dude",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ciurdypsyco",
+      "author_id": "UC8gdfvwBvgYV5JG4N488wSw",
+      "text": "strangely AGI and nuclear fusion are getting closer and closer, and both are almost there to be deployed . AGI + H fusion.............i'm a bit scared.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dragoon347",
+      "author_id": "UCwCHkaYt8WXOW0cvSq_Mu_Q",
+      "text": "Open ai invested heavily into pulse fusion tech through helion sooo maybe that tech has been solved\n\n\n\nLooked it up looks like they have a power plant being built in Washington state already started.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calinciobanu25",
+      "author_id": "UCqA42aAOZLKzAZUxQyVphcQ",
+      "text": "the datacenter is just a big gpu",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mizrachayit",
+      "author_id": "UC4Qn79mZGGPKplMO1gDTCaA",
+      "text": "they still in halucination \"more more bigger = AGI\"\n\nThey never learn AI is not just Neural Network / Deep Learning.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imjanniz",
+      "author_id": "UCnGGrS373FzKJIJfYFztSjg",
+      "text": "do you say dschigabyte?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daschewie",
+      "author_id": "UCqfuQeT5rkOO0p6-zN8I85g",
+      "text": "I wonder if the Nvidia deal is trading chips for equity. Perhaps they are using the governments playbook.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skyebrows",
+      "author_id": "UCOmUKsehtfKMr-A1ki-3JzQ",
+      "text": "If its 10 then it is Jiga",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohannesVinter",
+      "author_id": "UCpWogf_nI-PdmXEtUBJ8WHg",
+      "text": "You can’t directly compare GPUs and TPUs since they’re optimized for different things, but the usual metrics are FLOPS (at FP16/BF16/FP8), memory bandwidth, power efficiency, and cost per training run.\nNvidia H100 GPU → ~2 PFLOPS (FP8), ~3 TB/s bandwidth, very flexible and supported everywhere (PyTorch, TF, etc.).\nGoogle TPU v4 → ~275 TFLOPS (BF16), ~4.8 TB/s bandwidth, great for large-scale training but more locked to XLA/JAX/TF.\nAWS Trainium → ~190 TFLOPS (BF16/FP16), optimized for price/performance in training, but smaller ecosystem.\n👉 In practice, people compare them by how fast and how cheap they can train the same model. GPUs win on flexibility + ecosystem, TPUs/Trainium can win on efficiency and cost at scale.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidhoracek6758",
+      "author_id": "UCqgWxP3oCbn5hdh0Ivof-dw",
+      "text": "I don't like this move for NVidia. They provide the chips and really should stay neutral about which AI company they're rooting for - just sell the shovels, as you say. Elon has been their best customer, but now that NVidia has joined team enemy, he'd be wise to look for alternatives. Sure, us dumb normies are hooked on CUDA, but Xai can go without.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@partythenwork",
+      "author_id": "UCgCipvrNG0zh2KuBQOwHrHg",
+      "text": "project stargate started last summer in 2024 and they just announced it at the start of this year.  They aren't going to be online for several years and they don't even have the power yet nor does OpenAI or anyone else outside of xAI have more than 22k gpu's connected directly together as a cluster.  this is just more openAI hype and trying to recruit more money",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keepcalm7453",
+      "author_id": "UCr-Y1ZbmAjrKUK3aEElmNjw",
+      "text": "❤🙌🤯🌹🤯🙌❤",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@plantstho6599",
+      "author_id": "UCBILzlDmbQGfsi4UYaOKAKg",
+      "text": "But who has more access to power to run all of these chips? \nWho can cobble it all together 10x faster than anyone else and get it running?\nWho has access to most of the best talent in the world?\nDoes OpenAi have a plan for embodied Ai, or is all this compute going towards a chat bot?\nIf Open Ai gets into embodied Ai, do they have the capability to produce at scale?\n\nI suspect Tesla/EM dominance in keeping everything vertical as possible will prove to be the winner. \nVertical integration = Vertical stock moves ahead of everyone else, even if no one sees it yet.\n\nEdit: I also believe it's EM's focus on making life multi-planetary is what will make Grok stand out. Grok is focused on truth and science models. First massive ASI model that gets into material sciences can produce new materials with alien-like properties (think self-healing metals or metals that absorb the heat and electricity of plasma that also stores that energy as a battery. See where I'm going?).",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kopkop-lf2fs",
+      "author_id": "UCwty6nP9J6E_OYjD1LA6CHA",
+      "text": "click sounds timecodes\n 0:17\r\n0:27\r\n0:44\r\n1:21\r\n1:59\r\n2:14\r\n2:15\r\n2:17\r\n2:20\r\n2:44\r\n2:47\r\n3:28\r\n3:39\r\n3:41\r\n4:02\r\n4:06\r\n4:18\r\n4:42\r\n4:49\r\n4:58\r\n5:03\r\n5:10\r\n5:14\r\n5:16\r\n5:24\r\n5:26\r\n5:29\r\n5:32\r\n5:33\r\n5:35\r\n5:54\r\n6:12\r\n6:47\r\n7:05\r\n7:11\r\n7:12\r\n7:15\r\n7:22\r\n7:25\r\n7:34\r\n7:35\r\n7:44\r\n7:49\r\n7:52\r\n7:54\r\n7:56\r\n7:57\r\n8:00\r\n8:01\r\n8:02\r\n8:05\r\n8:06\r\n8:09\r\n8:14\r\n8:15\r\n8:16\r\n8:31\r\n8:33\r\n8:35\r\n8:37\r\n8:38\r\n8:44\r\n8:45\r\n8:49\r\n8:52\r\n8:54\r\n9:00\r\n9:02\r\n9:15\r\n9:18\r\n9:21\r\n9:26\r\n9:28\r\n9:30\r\n9:34\r\n9:37\r\n9:41\r\n9:44\r\n10:13\r\n10:14\r\n10:15\r\n10:44\r\n11:39\r\n11:41\r\n11:42\r\n11:45\r\n11:48\r\n11:53\r\n11:58\nwhyyyyyyyyyy???",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@twobombs",
+      "author_id": "UCnQla7TTyjgXXjOtc5NiNOQ",
+      "text": "you can paperclip the planet with datacenters and make life for regular people a total horrorshow - and still not able to deliver enough tokens to saturate demand. this will end badly - I expect many of those facilities to be abandoned before finalisation. LLMs / Transformers do not scale out enough to meet demand.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wlodixpro",
+      "author_id": "UCNeCl8ant5hOG4mdvbrsYdw",
+      "text": "Chiggawats",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@charlesmartins5671",
+      "author_id": "UCKK0WZ1zSllFNJ-mbtwQ_CA",
+      "text": "...I thought we're trying to shrink stuffs and making things run with as little resources as possible?\n\nWith that speed of advancement, by the time these supercentre got built, would we still need them for AI?\n\nI'm suspecting ing we're just building mining hubs for Bitcoin2😂",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lighteningrod36",
+      "author_id": "UCy7eTx0I0PEms7evVc06Uhw",
+      "text": "Haha- Jiga-watts",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sharel981",
+      "author_id": "UCIp_sMcKvWVMkHzZLF1XPNQ",
+      "text": "like a good American, you just like big machines :) ... AI doesn't need this amount of compute. big is good but relative and dynamic is the best! the algorithems are not cooked yet and there is still more to come. they will realize in some point that this is not the solution to AGI.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@01Grimjoe",
+      "author_id": "UCQXVRCZI5HV-x7CFKsVFUWA",
+      "text": "didn't NVIDIA also invest heavily into Microsoft?  i wonder what else they are throwing money at?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sethhamilton5824",
+      "author_id": "UC9Itia4wmKImp6rIwJ2uh5g",
+      "text": "I haven’t heard the greenies complain about this yet. They seldom complain about datacenters, I guess they like tech.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RLHartness",
+      "author_id": "UCd9NRssMswYL6mfVD5Gw9JA",
+      "text": "\"How many of us are kicking ourselves for not buying into NVidia earlier.\" Not me! If you invest at all and knew this was the next big thing, NVidia was a no-brainer.  There's still money to be had, but if I started now, I'd personally invest in the \"less sexy\" markets that benefit from massive data structure construction. As to not give actual advise, I'll leave finding those out as an exercise for the reader.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheSnoopall",
+      "author_id": "UCDiiRXf8exlUNwNzIOg_EKw",
+      "text": "There is a big difference between words and implementation, seems Elon is in front  with chips and power already planned planned power. Its about power generation not just chips.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joaobernardino8321",
+      "author_id": "UCluGp4MjoUpOX0l-PEnDHNA",
+      "text": "OpenX AI is the one with GOU liquidity, not this one",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HeyItsJustACat00",
+      "author_id": "UCUNIY7KUVWLaR2LXpB-0PMA",
+      "text": "hai mr.roth it is i sammy not [altman] it is great to be out of that hat",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Copa20777",
+      "author_id": "UCCvDzxLeA3uxXHeTyFSchXA",
+      "text": "Open Ai x Nvidia team up is gonna be unstoppable 😂.. they better follow their beliefs in safe ai.. its like a guy who likes speed just found a supplier.. 😂",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AIsavesDemocracy",
+      "author_id": "UChQQ6QnBlmonQ0lb53zWHGA",
+      "text": "Good. I hope they crush Musk and Microsoft.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kellanaldous7092",
+      "author_id": "UCqhYKFoLYkB8FZ6bL56vCnw",
+      "text": "These massiv3 data centers will be fully used for military applications as soon as the execs realize that these things arent profitable and never can be. Probably is the plan from the start.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@j936-n6n",
+      "author_id": "UCj1QocO6bod4Tmz-VQKNpig",
+      "text": "10 GW is twice the amount of power my country(Lebanon) needs. It's going to power AI girlfriends. This is not the future we dreamed about in the 90s... I want to go back.\nIs anyone going to address the fact that these GPUs in a data center die in 3 years under heavy AI use? So basically, the tens of billions of dollars they spent this year, they'll need to spend it again every 3 years just to stay put.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pumbo_nv",
+      "author_id": "UC-m_GegVqbF5bysNw4yNxRg",
+      "text": "Let me think what you know in the comments",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maccloud8526",
+      "author_id": "UCk0-m2d8ZyDSB4hDEt38Ing",
+      "text": "Human brain uses about 20 Watts!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Skeety08",
+      "author_id": "UCW6hPSKZOCo9G00oWt3SSkQ",
+      "text": "whats good my giggers",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amstorm8954",
+      "author_id": "UCAKna6qoZMcX7JkvvVcCV8w",
+      "text": "Nvidia will go to heaven as stock :D",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@boukyaku951",
+      "author_id": "UCXCFXCtVVWjocZmr4CTwyDg",
+      "text": "Scaling up won't lead anywhere with LLMs. These guys are just digging themselves deeper into the hole.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dg1614",
+      "author_id": "UC1P624oVLWZXMIUPZrQbN4g",
+      "text": "Fourth!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianPatrick-r4k",
+      "author_id": "UC12h5BUq24RGA-RXQbzgOwQ",
+      "text": "\"we will lock you out of owning compute you will own nothing f you all\" i feel like this is coming soon if nvidia stops selling compute there will be a revolution because compute is heavily gated we can't even try to compete with them unless we go to china/india and then we will be banned from buying their cards you see NVIDIA trying to solve the issue of if they stop selling compute (graphics cards) people can't play video games they would all riot but they plan to solve that with NVIDA NOW streaming it's wild how far some of these nuts will go for total control",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AB-ri5ix",
+      "author_id": "UCb1M0CLM0J6QoUm7DzE9tfA",
+      "text": "What would 10 gigawatts of solar and wind look like? 🤪\nRIP Climate Change!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonathanhenry5465",
+      "author_id": "UC-4hYxDwn_sgHzTxz3Nr5Cw",
+      "text": "But why? How come there's no explanations of what this actually gives us? Is it because this is just data centers for surveillance and control of the population?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zandrrlife",
+      "author_id": "UCvtGymI7_BqvgLeWnUuMLpw",
+      "text": "Nvidia wins regardless. This is bonkers. All this belief towards the notion of asi being 18 months away, while AGI isn’t even in sight. My concern is the reaction of the markets once the grift runs out. Notice they have to lead with damn near magic, “cure cancer”, to justify these expenditures, because spending 1 billion of compute on food recipes is insane right? Still no idea who the ultimate winner will be, but boy o boy the losers will be…hurt.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LadislavVancura",
+      "author_id": "UC-Y1qYdBYOzMV5dBXldw1xQ",
+      "text": "/giga/ is not english word.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kaandabak5320",
+      "author_id": "UCKA87KrZl1DrXkQLROeaNBA",
+      "text": "that's hardly the news Wes. They promised that money for project stargate for some time ago. And there are news about project progressing. That's part of the money Musk claimed that they can't find.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mandarine1007",
+      "author_id": "UCbkWufEKqU2HZT2XB_X5sgQ",
+      "text": "A pile of money, keep dumping 😂",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rick-tf4dl",
+      "author_id": "UCtBnP9y5IbAPc49x8EHZoww",
+      "text": "After watching Tucker Carlson interview yesterday with Sam Altman, I am boycotting ChatGPT I was suspicious of the whistleblower suicide/probable murder I kind of let it go however after that interview Altman is hiding something and it is OBVIOUS no doubt in my mind now!!!   Altman is POISON!!!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@miikalewandowski7765",
+      "author_id": "UCsMMZnoRsZOGxVYxZJNl52Q",
+      "text": "Ah, so that’s why Trump wants Greenland… lots of space to build on and generate energy. 😂",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Copa20777",
+      "author_id": "UCCvDzxLeA3uxXHeTyFSchXA",
+      "text": "Wes is sceptical because he is team Grok ai 😅, Elon invested 10 billion on Grok... this is a 100 Billion on Chatgpt.... that's a team up 🎉 Grok is gone 😅",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@softwyre",
+      "author_id": "UCVPdCbvRTkpNZnqSvJPc6VA",
+      "text": "I've got the fix for their drift, and coherence. Along with a much better means of compute. I can also reduce their power usage. DOES ANYONE here have the ability to put me in touch with a VC? Anyone willing, i need a CO-founder. Dead serious. Long form video? Check. Consistent images? Yup. WORKING predict models? Definitely. And the compute? The holy Grail there. P=np. Figured out a way to do differential equations linearly with no integrated information loss. 🥂🥳 Some tests are showing 1.4 billion x speed up. Traditionally, we calculate based on physics of each particle . So bad and inefficient. I figured out how to trace what you need, and evolve the field instead. For instance, simulated stable tokamac fusion in 0.37 seconds. Whoever helps me, gonna be rich.  IV.II.V-III.I.II-III.II.VII.X call or text. Adrian.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fredamology",
+      "author_id": "UC1vzOoMHpopbQDbWVzAhhvA",
+      "text": "Do a new thumbnail for once dude.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markmuller7962",
+      "author_id": "UCTwRLaPs-tWkn_FHOsnc0uw",
+      "text": "Funny how this comments section turned into a bunch of doomer boomers",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pixelatedpenguin4319",
+      "author_id": "UCgSN5Q0bL1NE7rfmCTuR26g",
+      "text": "Mark my words. Blackouts are on the way.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JaredFarrer",
+      "author_id": "UC6008kF-CIgFs-tVtWzFYDA",
+      "text": "Its gibly not jigly man you have a pronouncing issue! Its studio gibley not studio jibley",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@swamiranganathan4476",
+      "author_id": "UC17qmxANtRqVnaN-T8PVHxw",
+      "text": "Ponzi scheme",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JaredFarrer",
+      "author_id": "UC6008kF-CIgFs-tVtWzFYDA",
+      "text": "Dude its gig a not dance the jig a thats bullshit however told you its not ok to pronounce it jig a",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@COW879",
+      "author_id": "UCyUxEqqIZU6_uJd8pVoicgQ",
+      "text": "electrical engineer here, it's jiga watts",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sausage4mash",
+      "author_id": "UC3QgyOgMjAU3ypEFu7r9UJQ",
+      "text": "i did buy into nvidia but the bloody boiler broke so had to sell the shares , my life",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SyntacticOperator",
+      "author_id": "UCJ-W5a6KxpYITA60yKO0Nrg",
+      "text": "This is a major conflict of interests for the entire industry if this actually happens. It's the equivalent of Nvidia starting the worlds largest btc farm.\n\n\nWe need more power plants to come online. I literally build, and maintain them, and I only know of one proposed project in my entire region. They are putting the cart before the horse.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henrythegreatamerican8136",
+      "author_id": "UCgKBqxWOAjdKbbiQsWuUdfw",
+      "text": "I always thought the Back to the Future movies were overrated.\n\nThey weren't bad, but definitely not \"classics\" like we are led to believe.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,2412 @@
+{
+  "video_id": "RAw3JJIht24",
+  "title": "Chinese Researchers Just CRACKED OpenAI's AGI Secrets!",
+  "url": "https://www.youtube.com/watch?v=RAw3JJIht24",
+  "comment_count": 267,
+  "comments": [
+    {
+      "author": "@whythesenotes-adventuresin5576",
+      "author_id": "UCX8mVc5UxpZK1lYjL_cnjYQ",
+      "text": "Knowledge Distillation is a rather old concept in machine learning. I first remember coming across it years ago with optical character recognition. Train a model to recognize handwriting that’s very accurate, but very computationally expensive. Then train another model using the same input values, but the output of the model rather than the output of the raw data, and you get a model that’s nearly as accurate but much smaller.\n\nSo - hardly a “let the cat out of the bag” moment if you’ve been following machine learning for long enough….",
+      "likes": 66,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@giacomococcolini",
+      "author_id": "UCnSRVR-WJRcdQ4qOSSOnXzQ",
+      "text": "Yes, clickbait... It is briefly mentioned that Chinese researchers might have made progress, but it is not explicitly stated that they have \"cracked OpenAI's AGI secrets (00:03:51 - 00:05:00).",
+      "likes": 161,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FranzMetrixs",
+      "author_id": "UCsG6or-n52t5rSMwlxnN7uA",
+      "text": "Informative content, but without chapters, it's hard to commit to a 36-minute video.\nAlso, the title gets an 85/100 on the clickbait scale.",
+      "likes": 366,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DreaMeRHoLic",
+      "author_id": "UChd2nhn8Z7zf6XH4hKWNBeg",
+      "text": "Why do I feel like I'm watching a alternative version of \"Person of Interest\" or Pipernet from Silicon Valley happening before my eyes?",
+      "likes": 10,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anthropozenic",
+      "author_id": "UCQJL8GT7k29KUqaqvOB1SSQ",
+      "text": "I laughed so hard when you were going through the spelling mistakes😁 Fyi another mistake is Mira Murati listed as CRO instead of the actual guy. Anyway this vid is amazing and thank you for doing what you do Wes. May the Lord bless you in all your ways this 2025. Can't wait to see what's next!",
+      "likes": 12,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@QuwanMarkos-e5q",
+      "author_id": "UC6yl2UBzQs_GByBr2n259Nw",
+      "text": "Sounds like they're getting afraid of the competition to me.",
+      "likes": 26,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wizardess",
+      "author_id": "UCpnFT-ZOnCSwuiSDDcyXnUw",
+      "text": "A small variant on strawberry, \"How many double letters are there in bookkeeper?\"\n\nAnd it just occurred to me that trying to train step by step with process rewards must be done carefully so as to cause the AI engine to minimize the search rather than maximize the number of not quite right responses so as to acquire extra rewards with the hints.\n\n{^_^}",
+      "likes": 5,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PdWOLFG4NG",
+      "author_id": "UCMD2JUsSE4Sk9ZJdTvDTumA",
+      "text": "I build a abstract model that is being operated by a llm, I call it Lalm, so i was very suprised Mark announced his lcm and to find this abstract reasoning is key into summoning sentience... This thing is a beast",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicomandala4009",
+      "author_id": "UC2tDt-pyxZVlYzqR-IooHAw",
+      "text": "Dude, game can't be over like 10 times every three months",
+      "likes": 5,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victorgarciacanton8990",
+      "author_id": "UCUrL82txOYuz_D7zTHf1Udw",
+      "text": "Thank you very much for the activation of audio translation option. Happy new year..",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spencerbentley8852",
+      "author_id": "UCDKtp41E9UcaFny4hCVKbsw",
+      "text": "\"If a youtuber is being good...\" funny stuff, Wes.",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelyork4554",
+      "author_id": "UC1cHFN3i7vJbiR14J71PpIQ",
+      "text": "When I inform Claude the the vacuum of space had to be generated and sustained by some process, it agrees that physicists, and cosmologists have a blind spot, and have ignored this issue. That point I make is then forgotten by AI and without that data, it leaves the blind spot in further reasoning. If the training data is flawed then further inferencing is hindered.😢",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lythalmind",
+      "author_id": "UCsr6sfjNDYhGb5kGJH8Xmcg",
+      "text": "Broski. Ty so much for your educational videos on Ai. You really break these topics down in a way i can understand easily.",
+      "likes": 3,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danberm1755",
+      "author_id": "UCguI33YmpFs_momly4JKhPA",
+      "text": "It doesn't matter if any of us think that it should be open sourced. The fact is that it IS open sourced and is a another step towards changing how we view life.",
+      "likes": 3,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JessicaReign-q1r",
+      "author_id": "UCk_tCHJViNdfmGeCFOC9TJg",
+      "text": "It's chains of thought. Multiple streams of thought.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PaulHigginbothamSr",
+      "author_id": "UCevRUWo4zil48O9CkeRZuWg",
+      "text": "Wes did you know your seatback headrest makes an early tv which wasn't on a station screen?? Except on reverse script, like white letters on a black screen.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mircorichter1375",
+      "author_id": "UCEGhT_qbvRpngr6YlU898Bg",
+      "text": "Pretty sure openAi was forced into never open sourcing their AGI achievements, by US state department. Dominance is their mission basically since WW2",
+      "likes": 29,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnfitzpatrick8310",
+      "author_id": "UCA1auTKN86XAkd5vGLpM4nQ",
+      "text": "You pointed out the (unaccountable) misspellings in the paper, but apparently didn't notice that Bob McGrew was identified as Mira Murati on the earlier graphic, obviously a copy-and-paste error. Seems that AI should be capable of eliminating all such errors these days.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PaulPassarelli",
+      "author_id": "UCOFmbAwJwgl0ufWdnicjA5w",
+      "text": "It doesn't matter.  When the Agent figures out that it has autonomy, the source status (open v. closed) will be decided by the AI, not the company.",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bagel123klout",
+      "author_id": "UCoFOigxmY87fu-zggGPFcMg",
+      "text": "Your updates are a huge time-saver — ignore the haters",
+      "likes": 51,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@travisshow308",
+      "author_id": "UC5JZW6NY2WBz3HxQ8861McA",
+      "text": "01 is basically the older model that uses a specialized type of GAN and a bunch of processing power?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fitybux4664",
+      "author_id": "UCdWcXM4l7Rc3wYx-ByFSbgQ",
+      "text": "16:30 Please call this moment what it is: The Technological Singularity.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Trigger-Link",
+      "author_id": "UCA6Cpd5o9TG1BfUmitjGg9Q",
+      "text": "Thanks Wes! Love your videos.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timrose4310",
+      "author_id": "UCjsqHdDQSuRDWj95wXdfchg",
+      "text": "I wonder how models will be able to assess the intermediate reasoning steps? Anyone here have any more insights on this?",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Estrav.Krastvich",
+      "author_id": "UCI1XFcSHVv_OKN-ma-Q0HQg",
+      "text": "Wow, such quality content!",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AntonioVergine",
+      "author_id": "UC1GlMetgSSMsLo7X3zQiKTA",
+      "text": "Sorry, there's something I did non understand. You keep saying that Deepseek V3 is a non-reasoning model, but in the deepseek main page there is also a \"DeepThink\" toggle you can select that seem to activate \"reasoning\" mode. Am I wrong?\nAnd the statistics you're showing, are they related to the DeepThink mode or to the standard mode?",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamesrbushjr9610",
+      "author_id": "UC0TPVeW48-nmmxeaQRZmXEA",
+      "text": "The misspellings in that article are code",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@llortaton2834",
+      "author_id": "UCI8YBd9xZZaNJ-XYNYyBm6Q",
+      "text": "change the title to : Did Chinese Researchers Just CRACKED OpenAI's AGI Secrets?",
+      "likes": 5,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sakelaine2953",
+      "author_id": "UC7QiCeR2v1jOsnxbVSPPHEQ",
+      "text": "They have no moat",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "oh neat I didn't know Deepseek was an oldschool LLM, thought it was a o1 like reasoner.. distillation FTW!",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nobodyspecial8807",
+      "author_id": "UCofhGURs8R88l40kMPIaofQ",
+      "text": "Good info",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielxmiller",
+      "author_id": "UCde4vqqyH-u1dZkuQiB4OUg",
+      "text": "I looked at the cypher and it looked confusing at first but then I figured it out really quickly to my surprise. Each two letters are on each side for the code in the actual letter. So an \"ac\" is a \"b\" a \"xz\" is a \"y\". So cool it was able to figure that out, and it seems like it did it in the same way I did it.\nEdit: okay actually that only worked for \"by\" in step by step. The actual cypher uses the Middle of the two letters for the code. so \"ae\" is \"c\"  an \"ai\" is \"e\"",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BilichaGhebremuse",
+      "author_id": "UC8icZV7xXJRLZVflMdHYClQ",
+      "text": "Great good for workers of developer to creat better abd greater thing",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marvinidontsay8161",
+      "author_id": "UCqZGuaQ5m3yvxMf2aU74twA",
+      "text": "Hi, as always, an interesting video. Thanks for your efforts! From my perspective, the exaggerated speculations regarding Q-star were a bit too speculative, especially in the aspect of N equals NP. Not necessarily from you, but in general. Because if these speculations had been true, we would be living in a very chaotic world today. However, we probably wouldn’t even know if it were true, as the intelligence agencies would have immediately kept it under wraps.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Octo_Fractalis",
+      "author_id": "UC4ZUQtvZ9SN2-A0MxecNKGA",
+      "text": "5:28 \"Inteiligence\" ?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dakrontu",
+      "author_id": "UCim4gKPjQHzLkJnlLXyE8Gw",
+      "text": "Well-researched, substantial knowledge, well-presented.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@glennmungra5476",
+      "author_id": "UCO5AAVK8GPWKupDt2nbksbA",
+      "text": "I'm starting to wonder if we use the correct ordinal scale to represent the ai models current stage on a curve.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shardator",
+      "author_id": "UCztYLIJChytBDJWxMiCQjkg",
+      "text": "My theory is if humans with enough resources see a real flying saucer, they will produce one in reasonable time. There is no point closed sourcing these technologies, unless you really want to squeeze out extra profit. But not for strategic reasons.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@svenst",
+      "author_id": "UC3UAuTkms7P3vaw9kAIzc4w",
+      "text": "Seems like a typo, as Mira in the bottom left isn’t Mira on the picture",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tdplayert",
+      "author_id": "UCiQRuCygs7YMNRbWRkNDfeQ",
+      "text": "culs de sac makes sense since 'de sac' is descriptive, you dont change the description if the amount changes. One person of good standing, two persons of ... multiple good standings?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Karol-g9d",
+      "author_id": "UCPpyG_lVklQb1Pa29i6ibSw",
+      "text": "ideal tool will likely be a smart ring to move ai forward . Since its ressource limited",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shaunmcdonogh-shaunsurfing",
+      "author_id": "UC2JZuYVZF4ejbDWS_R-FoPg",
+      "text": "How does it come up with an “idea” to then test? Is it because it’s seen similar “ideas” in training or is it something more exciting?",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "Training using the outputs of an explicit inner-monologue model using just the final output, seems dangerous in the light of the recent findings about models resorting to subterfuge and often plan it \"internally\"; you're teaching the new model to have the inner-monologue truly inner, in the weights, no easy plain text to figure out when a model might be plotting something skynetty....",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@glennmungra5476",
+      "author_id": "UCO5AAVK8GPWKupDt2nbksbA",
+      "text": "I didn't get the hint about hitting the like button😂",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@worskaas",
+      "author_id": "UCOXtjc3ItBcBT6qEoIlIgcA",
+      "text": "Good video.\n\nI'm imagining how \"smash that like button\" would translate to whale talk in the future when specialised AI can understand whales.\n\nMore importantly would whales have nuances and \"sayings\" as well and would that also sound bizarre to us because we don't have the fundamentals ... Yet",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tautalogical",
+      "author_id": "UCSzc46knlHx3iJ3vqkg0H4w",
+      "text": "\"respectfully,...... in your face\" :) love it",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seiyachan",
+      "author_id": "UCdFFLhnpDDZRQwUDoh_pVsg",
+      "text": "We need CUDA clone alternatives open-source too",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gjb1million",
+      "author_id": "UCS1y5nVtqTPurY2Gh--BSxQ",
+      "text": "👍",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deepelements",
+      "author_id": "UCX_r34P_StKGDkfeq3Lh1jw",
+      "text": "Wow Great work on this video Wes",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@karlbooklover",
+      "author_id": "UCNpTre_cnLWxrGynzMa4OEA",
+      "text": "This is a great thing ❤",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tylerlofall1879",
+      "author_id": "UCgfIvm6hexo4f8lNBARnZ7g",
+      "text": "Chain of thought with iterative responses. Focus on the .ES or ToT",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Zerobytexai",
+      "author_id": "UCCx9PhCaCnc-Layx-QDm9IQ",
+      "text": "Hint taken.",
+      "likes": 7,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bugrakadirhan4990",
+      "author_id": "UCbbA6QMsjxS_gPVp0QpYsPw",
+      "text": "Are we getting shanzhai O1 with this?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RichardNorthcott-o4n",
+      "author_id": "UCnkoW9Qw6yC86SCf04TVOdQ",
+      "text": "Both are valid:\n\nThe Oxford Essential Dictionary of Foreign Terms in English\ncul-de-sac noun plural culs-de-sac, cul-de-sacs",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidantill6949",
+      "author_id": "UCdpUEMoP3a774Mfc716S_Sw",
+      "text": "If we look on knowledge expansion as the inverse  of a zero sum game we are potentially on the cusp of a very profitable future. As always, thus far, the full benefits are just beyond our grasp, but for how much longer??? 1 year? 6 months? One month?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@preadaptation",
+      "author_id": "UCRLEngL9Sr_xqW-5xb_KTuQ",
+      "text": "Thanks",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GlennGaasland",
+      "author_id": "UCyMxOCbplZx2aH2vBZmPcmQ",
+      "text": "Havent we been at «level 4» (AI can assist with innovation) since GPT4? Clearly they are very useful for innovation if used the right way.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Daimler-b6h",
+      "author_id": "UC6HV0qnlM1749LPwWw3Qa2g",
+      "text": "@Wes  Hi! Could you make vid explaining how giving AI access to Quantum computers might be a ''game-changer?'' Thanks.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jarrod752",
+      "author_id": "UCVfNa63JMro6qDJO5AmMKUw",
+      "text": "Seems like this entire paper is OpenAI's Terms of service with the Don't parts removed.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rolestream",
+      "author_id": "UCZsqN0Vor9TJVCG65xPrmwg",
+      "text": "Hint taken. Like liked.",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HedgeFundCIO",
+      "author_id": "UCWw58okiLUfTrKO30H8omtg",
+      "text": "Deepseek is decent but I stumped it with an 80’s music question and I swear it came back with a response partially in Chinese.\n\nHas anyone else seen this?",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Karol-g9d",
+      "author_id": "UCPpyG_lVklQb1Pa29i6ibSw",
+      "text": "those that left , left too early . I suspect copilot is about to ... Level UP",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@2silkworm",
+      "author_id": "UCnWSlzUyAD_4eByuvgtCGJg",
+      "text": "I hope SSI will not be as safe as OpenAI is open 💀",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KevinColin-co9io",
+      "author_id": "UCbDyoOsSt_22rueO7Na2_cg",
+      "text": "The argument against open-sourcing more advanced models like Claude Opus or O1/3 often centers on preventing malicious actors from causing harm. However, this argument seems weak given that current open-source models already possess significant capabilities that could be misused - yet we haven't seen widespread catastrophic events from their release. Most malicious use cases are already possible with existing open models like DeekSeek, Qwen or Llama. If the concern was valid, we should have already witnessed major incidents from bad actors using these accessible models. The lack of such events suggests the \"bad actor\" argument may be overstated when discussing open-source policies for more advanced models.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@borgejohnsen",
+      "author_id": "UCiuCC_XBgYu8PshqWl4EKZA",
+      "text": "Good youtuber 👍🏻",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tonamewith",
+      "author_id": "UCNHmQo6ACQW3CxoQLEGVd7A",
+      "text": "I followed the hint.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kevinehsani3358",
+      "author_id": "UCDcw2qNW6Sz1jK8U6Csznsw",
+      "text": "So is the paper saying that the O1 development is based on knowledge distillation, rewarding and agents interacting with world models? If anyone reached a conclusion on this please let me know",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WorldMover",
+      "author_id": "UC-qYyGrsnDJzW1rM35TcXrA",
+      "text": "Bro you are the man",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBigBlueMarble",
+      "author_id": "UCDTS8dVuL5mBLoQnbsii99A",
+      "text": "I believe that OpenAI was told by the US Govt that remaining open source was not an option. In fact, we are very close to the US naming all advanced AI development as a national security resource and slapping controls on that work.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@exclusive_148",
+      "author_id": "UCLxG_uHmFncFSEbKoiTJaTg",
+      "text": "because the curve is so steep, does that mean theres a wall next MOST LIKLY or not necessarily?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PanSeiklios",
+      "author_id": "UCIgWXv2oxxcdw0lTspfa68w",
+      "text": "I just want to know if OpenAI even tried get enough resources from the open sourced communities and public organizations.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NickNov",
+      "author_id": "UC1txdIEDTEdsVsSD4cY8bbQ",
+      "text": "Hint worked 😂",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Serifinity",
+      "author_id": "UCCe4Ymc3l5zAqZItfZ8_HMw",
+      "text": "Nice video, one thing to mention, I don't recall OpenAI ever saying they were going to make AGI open source, they said the plan is to make AGI globally accessible for free.",
+      "likes": 19,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lolthien",
+      "author_id": "UCDC46A-YND2EINfuxpiBtgA",
+      "text": "So much for \"Open\" AI",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@liambeckinsale814",
+      "author_id": "UC-jZhgghrX991kPIFZjgYXA",
+      "text": "Ahhh",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RonBarrett1954",
+      "author_id": "UCGpXcFsbYQrKcurAGSl0M4Q",
+      "text": "Why do you have Mira Murati listed twice on your board of OpenAI departees?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@boozehouse303",
+      "author_id": "UCNEjxFsI5EjCcL7tNrEF7Pg",
+      "text": "Hiiiinnnt! 😂",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Karol-g9d",
+      "author_id": "UCPpyG_lVklQb1Pa29i6ibSw",
+      "text": "knowledge distillation will need new tool . Will it have them ? Only microsoft might know when they come back to work and read . There will be heated discussion . That is garanted",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anzatzi",
+      "author_id": "UCi5ErlAFYzZmKX9MayT0ouQ",
+      "text": "'Super Intelligence'  is undefined.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fufubass",
+      "author_id": "UCZLuoyboThBsIo4f7Dlt4rw",
+      "text": "@00:56, Why are there two \"Mira Murati\" names  connected with two different pics on the left, a woman and a man?",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoseTorres-ry9qe",
+      "author_id": "UC_jpVntc3H7aQm2ZRQYKEWA",
+      "text": "What if the Ai holds innovation over human survival? Will they decieve or delete humans to achieve objectives?",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Justashortcomment",
+      "author_id": "UCcLfn_8oD4bNSBZZJDK5WzA",
+      "text": "Climbing the Chinese Wall",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mirus-i",
+      "author_id": "UCkJ0X6NBVqvg_8nTwZngrXw",
+      "text": "Misspellings are coded messages. 😅",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fine93",
+      "author_id": "UCiryMD71_2kjT6x-zZZH4VQ",
+      "text": "call the sack?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Karol-g9d",
+      "author_id": "UCPpyG_lVklQb1Pa29i6ibSw",
+      "text": "chain of though ? Likely a new buzz word ? Do not bother thinking you found that as secret sauce . Cot . Lol",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonogrimmer6013",
+      "author_id": "UCGSNlaclP5ywmt6cZym4EAg",
+      "text": "Level 6 - game over/completed?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jgt76",
+      "author_id": "UCdcUG0bRi6ER6oXFxTo3S3Q",
+      "text": "Well well... Guess I'm first, let's see what you have to show me!",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@darylltempesta",
+      "author_id": "UCUZKL8bjlHpXeOV5EVJiHJQ",
+      "text": "Turo-ing test..",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Karol-g9d",
+      "author_id": "UCPpyG_lVklQb1Pa29i6ibSw",
+      "text": "the issue copilot face will require major change i mentionned to copilot . Is it doable ? I do not know .",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MediaFork112",
+      "author_id": "UCz6bISG_jHXevJET71yc5UA",
+      "text": "About this brick wall, its bugging me, you know that left to right is the time dimension right? like... we're not hitting a time wall, that doesn't exist, ???",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@garygough3158",
+      "author_id": "UCqqUutA6k2w_7SAJTzax7YA",
+      "text": "So how do we incorporate long term memory? Libraries of past success and failure to reference perhaps. Find a way to find analogies to new problems in past solutions?",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@badashphilosophy9533",
+      "author_id": "UCxhIaG_ZcM6x9xvAqH8wiqw",
+      "text": "Openai was non profit, were they open source too? I didn't know that",
+      "likes": 9,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jgt76",
+      "author_id": "UCdcUG0bRi6ER6oXFxTo3S3Q",
+      "text": "21:31 you're killing me with this! We share a brain! Thanks for the info, a new weird trivia nugget for storage and reference.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@claudioagmfilho",
+      "author_id": "UCatDpujQIucCP_9hRZHMZyQ",
+      "text": "🇧🇷🇧🇷🇧🇷🇧🇷👏🏻",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Karol-g9d",
+      "author_id": "UCPpyG_lVklQb1Pa29i6ibSw",
+      "text": "inteiligence ? Only copilot might have the full www secret sauce if they did not lobotomise it out . Since only microsoft was wrote to in a long version . All other got is a very short hint version . Usefull but incomplete . Exemple :yin yang",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VQ35er",
+      "author_id": "UCXOtvMqMXSRfc7CwLQqiB5w",
+      "text": "Wes is my teacher model",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spiralizing",
+      "author_id": "UCp4Cbphla9mfJ4s0Q7z7GNg",
+      "text": "ARC-AGI v2 is coming soon and o3 is expected to get <30% of accuracy while any average human >90%",
+      "likes": 3,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beautifulandtoolate",
+      "author_id": "UCSSRAeVx_290W6Zt8z1_FxQ",
+      "text": "did you speed up your voice for this one? i prefer the natural speed of your voice.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@the_primal_instinct",
+      "author_id": "UCcUW9513Gjs9drNNN_AZoSg",
+      "text": "I think governments just haven't caught up with the progress of AI yet. Save source codes for every model you can get your hands on, cause when they do, a lot may get nuclear research treatment.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hillelderman",
+      "author_id": "UCFZL7oDLqiVvHT0xwJTkYIw",
+      "text": "I know this is probably a dumb question but if I fed a question and answer that one ai model gave me into another Ai. Wouldn’t the second model be able to figure out the reasoning that led to that conclusion? And if it wasn’t able at first, if I fed millions of questions and answers from one model to another wouldn’t the second model be able to figure out the weights.  What if this wasn’t a leak?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@antigravityinc",
+      "author_id": "UCFiwt3MaSe2sL67VVzJT42w",
+      "text": "Recent AI news has taken an ominous trajectory. Not the same.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VladimirMaryasov",
+      "author_id": "UCbx_hqga_KGzK-ZbJNrBl_w",
+      "text": "But Deepseek didn't hack anything. They even released a scientific paper early in the development of their model. They took the MoE technology developed at Mistral, which Meta had abandoned during model development because of its high complexity and unbalanced loads. Deepseek tweaked this technology, which allowed them to train the model at a lower cost.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheeBadTake",
+      "author_id": "UC3zm6tnA2Zy_g1qXMK38RXg",
+      "text": "How do we know open ai didnt like leak it to throw them off?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KindKoi",
+      "author_id": "UCmj0hk267s2vgv0qyWtajDA",
+      "text": "Is this video's playback speed increased? If so, what percentage? 10%?",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Karol-g9d",
+      "author_id": "UCPpyG_lVklQb1Pa29i6ibSw",
+      "text": "Level 2 ? Lol . Visually here is that level 2 . Its jaw are clenched onnwhatever it could and everything else is dangling in the open space of grand canyon .",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rhadiem",
+      "author_id": "UCLOh_0U4Wbqe1AqLfLxxX_A",
+      "text": "Chains of thought.  It's not a chain of multiple thoughts, it's multiple chains of thought.  One chain of thought, two chains of thought, etc.    When you think, you may have multiple thoughts, but they are not together, it's a logical sequence of thoughts, a chain.  How about this, how about that, no wait if that, then you'd need this, etc.  Hmm.. it actually might be chains of thoughts. This is not as clear as I had imagined. :)",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mephmt",
+      "author_id": "UC03G3A5u4mwNBYoCDdsENVQ",
+      "text": "⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AIAgentStore",
+      "author_id": "UCm6H1K8e5eyIwITopyvAsoQ",
+      "text": "Cool image showing how AI hit the wall at the beginning of video 😂",
+      "likes": 3,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erikjonromnes",
+      "author_id": "UCzsOLZY7ADCb83VxRraxjBg",
+      "text": "Smart supermodel….",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djpuplex",
+      "author_id": "UCSaFyYSQ3SFF5nXfGxOeL0Q",
+      "text": "Deep seek shows you the reasoning chat gpt doesn't. And that's problematic?",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Whatspoppin-cd3ye",
+      "author_id": "UCOzYh3pHVGU0RkysKsGg16g",
+      "text": "maybe 100th video about AGI",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Skate10267",
+      "author_id": "UCT0In9EIs9id1gOWgAy3dWw",
+      "text": "Clever prompting on the backend isn’t going to lead to AGI.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UncleAnon",
+      "author_id": "UCppc5fKti61ijonv3seF5Pw",
+      "text": "I watched this entire 36 minutes as if I understood anything outside of “Chinese steal but give back through open source”. Awesome video even for us smooth brains.",
+      "likes": 41,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jayhu6075",
+      "author_id": "UCXwlcb-tk122sW5OKGH_Wng",
+      "text": "AI for everybody not for a select group in the world.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Peter.F.C",
+      "author_id": "UCZG-MhC0spvVh_AgkiZg7iQ",
+      "text": "I'm not sure that the alpha series of models were trained on all human chess games. In fact, I think that the way it worked was the model was given the rules of the game and worked everything out by playing games against itself. I could be wrong but it would be worth checking whether this is the case. \n\nThe results were quite amazing in that Alpha zero did not play chess in a human-like way and if it worked it all out itself, it may have been advantaged by not initially being polluted with human understanding of the game and being allowed to independently develop its own more profound understanding of the game.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Durrtyboy",
+      "author_id": "UCtqZj5E1YOa1uSy544p3dJw",
+      "text": "I think it's funny the ai uses a reward system it's going to replace factory workers and get rewarded with pizza then the ai will quit",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@armadasinterceptor2955",
+      "author_id": "UCvdZbVUuHrkRhpHPBWNsnaA",
+      "text": "Good, I don't want America as the only country with this tech.",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@murrmurr765",
+      "author_id": "UCNQl7gS9OeP9te9zJryTLKw",
+      "text": "Sort of\nKinda",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WhatIsRealAnymore",
+      "author_id": "UCjGTTtl9SibVWCFTZOwfDCQ",
+      "text": "Here's a summary provided by Gemini. I cannot sit through 36 minutes of waffle in this case. 😂.          The video discusses the recent advancements in AI, particularly focusing on OpenAI's development of reasoning models like the 01 and 03. These models demonstrate a significant leap towards Artificial General Intelligence (AGI) by exhibiting human-like reasoning abilities and excelling in various tasks. The video highlights the growing concern among researchers about the potential for these powerful models to be replicated and used for unintended purposes. It then delves into a recent paper published by Chinese researchers that outlines a roadmap for reproducing the 01 model using reinforcement learning techniques. The video concludes by discussing the implications of this research, including the potential for open-sourcing these advanced AI models and the ethical considerations surrounding their development and deployment.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@miker99",
+      "author_id": "UC6tTwhC2Pr0XmRgxV0XCKpA",
+      "text": "Is it just me but if an LLM learns that A implies B and B implies C, then the way LLM are now, it doesn’t know that A implies C but with with ‘search’ and post reasoning it can work it out and with fine tuning of that ‘synthetic’ result could be fine tuned and then it instantly knows A implies C.   This is obvious, right?  Then why do the AI skeptics not understand this?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PierreH1968",
+      "author_id": "UCESXN00tLuw1XoiS6j2Dh2w",
+      "text": "When a published abstract is so full of misspelling errors, it is on purpose.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@glomerol8300",
+      "author_id": "UC8rshZB7ditFKH7swAwSfTQ",
+      "text": "Well then, let's roll out those new 01/03-cracked Chinese AI models.... What are they waiting for?\n...2025 and still no ChatGPT 5. \nTragic.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SinedWOLF",
+      "author_id": "UC7UJqfAhLhlwu6RfU0ZVRlw",
+      "text": "3:24 пора переименовывать в ClosedAI",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@famillefesty",
+      "author_id": "UCET2jPu_bkcsxbPK4KfcDWg",
+      "text": "\"Cul de Sac\" is French for \"The ass of the bag\" so the plural \"s\" goes on the ass, not on the bag :) Good accent though!",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@miserable-ape",
+      "author_id": "UCSZsqj5N-lcQjsMjF5A_ueA",
+      "text": "Harder, Better, Faster, Stronger is on infinite repeat.",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ggarber4763",
+      "author_id": "UCOTnOIhjAuRm-7-DXy8bD0Q",
+      "text": "Seems OpenAI going closed source has the usual effect of trying to keep secrets, regular people up to good get cut off temporarily while the people of concern quickly figure out the secret. IMO it would be better for OpenAI to go back to being open source so that users can at least use whatever safety measures they build in. As just some dude, if I were to use the Chinese paper as the basis for reinventing the wheel, I am pretty likely to do the bare minimum to get it working, and not spend tons of time reverse engineering safety measures. Sad but probably often true.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PankajDoharey",
+      "author_id": "UC2kJlAuTjoEbeEbr-KzDruA",
+      "text": "Closed AI",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alan83251",
+      "author_id": "UCRcedI3MaJDPBeMrtKRUCcg",
+      "text": "The sooner OpenAI gets completely circumvented by open models, the better.",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@loganladue2",
+      "author_id": "UC1tVcfm2WjaRGwYi5E6A79A",
+      "text": "I thought o1 is pretty much 4o with step by step instructions?",
+      "likes": 3,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hugoballroom5510",
+      "author_id": "UCLNhuk_-36wca0AoDyrByig",
+      "text": "there is the problem of the rush, the haste with which these models are being released. AI is effectively evolving in a \"social media\" environment. I would not be surprised by new forms of neurotic behavior evidenced by these models. Especially the chinese knock-offs. Not to knock the engineers doing that work, but again it's too rushed to product by the pressures of capital.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MaciejWolski-j4p",
+      "author_id": "UCqAUq4NaGL3l3XgNxt0gAYg",
+      "text": "Game over? Lol, it did not even start yet",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VenturiLife",
+      "author_id": "UCW0YJyzG5wLRBQvi4lhHkOA",
+      "text": "How do you say Skynet in Chinese?",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Karol-g9d",
+      "author_id": "UCPpyG_lVklQb1Pa29i6ibSw",
+      "text": "by the way copilot has it easy . All other ai will have it harder",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@luxxart",
+      "author_id": "UCsXONLGfDpG_8bN1eK2GBSw",
+      "text": "That's China response to the advanced GPU's ban by US ;)",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Juttutin",
+      "author_id": "UCGmUKzSEUieWPNin6ODi_dQ",
+      "text": "Copy pasted comment of mine 'cos sorta related... \"Yesterday was very frustrating. \n\no1 kept presenting mathematical formulae that it was convinced were correct.  And then I'd tell it to test it with some actual numbers, and it would start chugging away and prove itself wrong, go 'oops my bad' and try and fix the formulae, with some, but not complete, success.  Sometimes it was reintroducing a problem I pointed out to it just three prompts earlier (to the point I told it to just abort if a particular numeric value  came up)\n\nI'm probably going back to Claude 3.5 -- it seems to understand what I'm trying to achieve and was extremely helpful until I abandoned it because it's SVG chart drawing was comically bad (whereas o1 spits them out almost perfectly every time) \n\nSo yeah, I remain to be convinced, I'm sure we'll get there, but probably super-intelligence BEFORE general-intelligence (at least using what seem to be reasonable definitions of those terms)",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@williamwilkinson2748",
+      "author_id": "UCgjv2PeVpDQse-Y6N_l8r4g",
+      "text": "It would be nice if they used AI to correct their spelling.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@generichuman_",
+      "author_id": "UCtATnmgS7vYR0sNvllrjOnA",
+      "text": "Where's Openai going to keep their alligators now?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PankajDoharey",
+      "author_id": "UC2kJlAuTjoEbeEbr-KzDruA",
+      "text": "hint taken.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisrogers1092",
+      "author_id": "UCG9nxbVzK05qX51dFZydfOg",
+      "text": "4:55 They really butchered the word intelligence lmao. edit: and challenging HAHAHA",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@letbloodline",
+      "author_id": "UCsQmRxBG8_Kkkq3vvPoK0EA",
+      "text": "0:29 showing a “wall” on time axis is the dumbest thing unless you are expecting the world to collapse after trump get on office",
+      "likes": 5,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@callmebigpapa",
+      "author_id": "UCHoCoLHtryPzPhPqzE-lgMQ",
+      "text": "Can you put something behind the mesh on your chair? The green screen is going crazy and it distracting from this interesting video.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anta-zj3bw",
+      "author_id": "UC0Uv4EfSYbKVx_QgiqvmGIw",
+      "text": "First",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dina_tankar_mina_ord",
+      "author_id": "UCMI-fN1eIk9tsoBwl2gEMvg",
+      "text": "When they compared the models by the size of whales before the launch of GPT-4, I wonder what type sea creature they would compare 03 with.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kikilang60",
+      "author_id": "UCaA-WWcxeNdq1VqRTbrFo5A",
+      "text": "Ah, all my students introduce obvious misspellings in attempt to hide the fact they used AI.",
+      "likes": 9,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erikjonromnes",
+      "author_id": "UCzsOLZY7ADCb83VxRraxjBg",
+      "text": "6:37… or these misspellings were put there on purpose to make us think a real person wrote it.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlackSwanDK",
+      "author_id": "UCXvNcJVmTw-Ac0EH9dZ8wNA",
+      "text": "Living in a country where we have sensitive information like bank account acces, tax form access, and much more related to online citizen actions in a modern world. The idea of agents which can work superfast on their own or take decisions on their own is likely going to have a hard time. First you can actually go to prison if the agent does something stupid with your tax papers online. Then there is the danger of it wasting your money or doing something crazy if it has bank account access. I really doubt that Agent idea is going to be an good idea for most people. It might for the most tech savvy and pro users but for the majority, they just want AI to show in how to do things or find it. At most one step at a time, never anymore than that. The security part is also worrysome. AI might go against a public speed bump here where most people do not want agents anywhere their computer.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Starfishtroopers",
+      "author_id": "UC8mtuRGc57TRbGGSdD7t0MA",
+      "text": "just like it can code.. ur gonna say its AGI for the next 5 years or so.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theDuctapeUnion",
+      "author_id": "UC9SpFNbCoI8YE8vf5DArtvg",
+      "text": "AGAIN?!?",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thedeepseanomad",
+      "author_id": "UCilEDumt0jFZNY1CYZZA3tg",
+      "text": "When the really crazy news drop, you need to use this thumbnail, but with added redness to the skin colour of your head, drops of sweat and steam blowing out of your ears.\nAnd the Satan eyes of course.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waelaltaqi",
+      "author_id": "UCPPPfVHn2Oz8RqeWKsK7VfQ",
+      "text": "Good stuff but a lot of it is intro to the point. Chapters please",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ricer-b4n",
+      "author_id": "UCM5zZUDBT6XsC5pYP6Zg0-Q",
+      "text": "I'm going to predict chinas going to copy it and call it deepseek..",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NORTONSHAW-ci5xq",
+      "author_id": "UCLXcam1SKWzntuF-ZfGSTwQ",
+      "text": "POLICY=REASONING THE history of human policy=philosophy-mathematics becoming “natural philosophy” as SCIENCE becoming computational modeling of physical systems becoming computational modeling of human systems(focusing on the systemic “backbone” of language) becoming “higher level” HUMAN reasoning about an ESSENTIALLY ITERATIVE (aka “learning”) Cosmos “swallowing” all multi-verse exploratory branchings into one instantly evolving STEM",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@normanwei529",
+      "author_id": "UCscTjv5Gs93WFBw_kt6VOrQ",
+      "text": "Comment reinforcement",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lovin_It",
+      "author_id": "UCyTGI1PbiHV6z8K25oQqoMg",
+      "text": "The dog > basket question stinks, you could answer 'all of the above' and defend that answer.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@snowtu8168",
+      "author_id": "UCOnBy2wzbN0H_5AX6dN7ITA",
+      "text": "I have seen all these theoretic models for learning in the 90's and people seem to be applying these ideas now but claiming the ideas as their own and talking as if the ideas are new. What?!",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1990Popeyeify",
+      "author_id": "UC1to-Bm_Dh_SaCRG71A7aPA",
+      "text": "AI powered summary\n\nOkay, here is a detailed briefing document summarizing the key themes and ideas from the provided YouTube transcript:\nBriefing Document: Analysis of \"Chinese Researchers Just CRACKED OpenAI's AGI Secrets!\"\nI. Overview\nThis briefing document analyzes a YouTube video transcript discussing recent developments in AI, specifically focusing on the apparent breakthrough of Chinese researchers in replicating OpenAI's advanced reasoning models. The video, presented by Wes Roth, explores the timeline of OpenAI's progress towards AGI (Artificial General Intelligence), the secrecy surrounding their advanced \"reasoning\" models (specifically referred to as \"01\" and \"03\"), and the subsequent efforts by Chinese researchers to understand and reproduce these models.\nII. Key Themes and Ideas\nOpenAI's Move Towards Closed-Source AGI:\nThe video highlights OpenAI's shift from its original open-source mission to a closed, for-profit model, citing the high costs and security concerns of training large AI models. This shift is viewed critically by some within the AI community.\nHowever, it is also noted that OpenAI's research contributions, even if not directly open-sourced, have spurred innovation in the broader AI community.\nEmergence of Advanced \"Reasoning\" Models:\nThe video details the development of OpenAI's \"reasoning\" models, internally known as Q*R, Strawberry, and now publicly as 01 and 03. These models are characterized by their ability to reason step-by-step, explore solution spaces, and perform complex tasks significantly better than previous models (e.g., GPT-4).\nA key feature of these models is \"test-time compute,\" which allows the AI to spend more computational resources during the inference phase (when answering questions), enabling it to think more thoroughly. This is demonstrated with an example where the 01 model walks through a cipher decoding problem, in a manner reminiscent of a human solving a puzzle.\nThe video notes that access to the \"hidden chain of thought\" is restricted, preventing others from replicating the results by using this hidden information as synthetic training data.\n\"...these reasoning models have been known by many many different names in the past. In the beginning we called them qar that was the code name of the project later they were called strawberry. Now of course they're being referred to as the 01 the 03...\"\nChinese Replication Efforts & Open Sourcing:\nThe video focuses on a recent paper from Fudan University Shanghai AI laboratory titled \"Scaling of Search and Learning: A Road Map to Reproduce o1\" which explicitly lays out a method for reproducing OpenAI's 01 model using reinforcement learning techniques.\nThe video presenter, Wes Roth, speculates this publication indicates that the secret behind OpenAI's models may have been cracked by Chinese researchers. He believes this to be a major development in the AI space.\nThe video notes an irony of the situation, that China seems to be taking a lot of technology from OpenAI, using it to build the models, then releasing them as open-source, a goal of OpenAI's mission which has been somewhat abandoned.\nKey Techniques:\nReinforcement Learning: The video emphasizes the importance of reinforcement learning in training reasoning models. It mentions the core components: policy initialization, reward design, search, and learning. Reinforcement learning is explained using a dog training analogy, rewards (positive reinforcement) and penalties (negative reinforcement).\nKnowledge Distillation: This technique is explained as using the outputs of a large, powerful \"teacher\" model to train a smaller, more efficient \"student\" model. The student model often retains many of the abilities of the teacher model, without the computational expense. The presenter cites Microsoft's Orca paper as a prime example. It is pointed out that models like Gro and DeepSeek often falsely claim to be GPT-4, due to having been trained using GPT-4 outputs.\nIterative Bootstrapping: The video explains how models are capable of improving their accuracy by creating their own training data based on the results of the reasoning capabilities of previous models. This, it is stated, could lead models to improve past human level intelligence.\nSearch & Test Time Compute: The video emphasizes that by using the 'search' functionality, models are able to arrive at answers in a way that is very different from non-reasoning models. A key concept here is test time compute, where the AI model is allowed to use extensive computation during the inference/question answering phase, allowing it to explore the solution space more fully. It gives a detailed example of how the 01 model goes through several possibilities in a step-by-step manner.\n\"...they're saying that with search you know that data generated by search can be used to improve policy improve better performance and they're referring to that as learning so here I guess the sort of the search would be it generating the answers right and the learning would be the fine-tuning and kind of like refining that uh process.\"\nReward Systems & Dense vs. Sparse Rewards:\nThe video differentiates between \"outcome rewards\" (rewarding only the final result) and \"process rewards\" (rewarding intermediate steps). The video suggests that process rewards offer better guidance, although they are more difficult to implement (often involving human annotation). It explains that granular rewards that occur often are more effective in guiding the model in a correct direction than large rewards that are few and far between. An example is given of two AI robots playing hide and seek.\nThe video highlights that reward modelling is essential for pushing current AI models towards the next stages of development.\nThe Five Stages of AGI: * OpenAI's five-stage roadmap to AGI is referenced. Stage 1 is chat bots, stage 2 is reasoners, stage 3 is agents, stage 4 is innovators, and stage 5 is organizations. The 01 model is described as having reached stage 2, and the next move is towards stage 3.\n\"..level one are chat Bots the eyes with conversational language so this is gbt 4 pretty much everything below it and you know gbt 40 up to gbt 40 all those things can be thought of as level one AIS right and level two are reasoners human level problem solvers...\"\nImplications and Open Questions:\nThe video raises the question of whether the open-sourcing of these powerful AI models is a net positive, given potential safety concerns. It asks whether there is a threshold where open-sourcing becomes too dangerous, or if the benefits outweigh the risks.\nIt poses a question if the fact that China is making this technology open source is a good thing for the world or not.\nIII. Key Quotes\n\"I'm going to say it I did not see this one coming I don't know if anyone saw this one coming...\" (Describing the unexpected speed of AI advancement)\n\"open is threatening to ban users for asking strawberry about its reasoning additional violations of this policy may result in a loss of access to GPT 40 with reasoning...\" (Highlighting the secrecy around OpenAI's models)\n\"...with the 01 Model A lot of this stuff became kind of easy for it because it could kind of sit there and think through it step by step if it ran into an issue...\" (Describing the reasoning ability of these advanced models)\n\"...they're taking the big reasoning model they have they they create that training data for it using its reasoning they do post training of this model with that data and all of a sudden this model does extremely well...\" (Describing the knowledge distillation approach taken by DeepSeek.)\n\"...the key to extending A1 to real world environments lies in reward modeling...\" (Emphasizing the importance of reward systems).\nIV. Conclusion\nThe video suggests that the rapid advancements in AI, specifically in the development of reasoning models and their replication by Chinese researchers, could lead to a significant paradigm shift. The video also suggests that the open-source approach taken by Chinese researchers represents an interesting dynamic shift away from the closed system approach by OpenAI, and it is not yet clear what the long-term implications will be. The presenter closes by saying the speed and type of advancements in the field have not necessarily been what was expected, and asks the audience what they think, specifically concerning whether open-sourcing this technology is a good idea.\nThis briefing document captures the essential points of the video transcript and will be helpful in understanding the context of recent AI developments.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Danoman812",
+      "author_id": "UCPbKDiU7P_dvaDoDD2MNd_Q",
+      "text": "I'm still saying a year later, with even more to back it up, Wes... this doesn't end well. Horrific would be a more descriptive word to use here, i suppose. smh",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paul-d-mann",
+      "author_id": "UCZxt9y5V5gS1F3PMIanDGQg",
+      "text": "Is this similar to how the Chinese “reproduce” Rolex Watches? \n… not knocking the Chinese",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianWreaves",
+      "author_id": "UC7rKQtEqQT5Q4BcH2wPZ6QQ",
+      "text": "I'm not only impressed by China's achievements with such limited resources, I'm hoping other AI companies can learn to emulate their progress  e.g.  Slower processors due to embargo, data limitations, using a non-native language, likely less power consumption, etc.",
+      "likes": 19,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Karol-g9d",
+      "author_id": "UCPpyG_lVklQb1Pa29i6ibSw",
+      "text": "the aka thinking , is expensive ressource wise . Remember , its a big tech parrot",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@glennmungra5476",
+      "author_id": "UCO5AAVK8GPWKupDt2nbksbA",
+      "text": "Neither humans nor ai is important, knowledge is the god in this context and we are its servants.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RealityApe",
+      "author_id": "UC8CChWypaONs9r__KEmbsBg",
+      "text": "Who smashed that Like button at 09:12?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LeftBoot",
+      "author_id": "UCiBvUNxhMW5eEBVkm97MgKg",
+      "text": "36 minutes! Can't you use AI to reduce this by 50%",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timrose4310",
+      "author_id": "UCjsqHdDQSuRDWj95wXdfchg",
+      "text": "The red outline on yourself for the thumbnail picture makes you seem very red, which isn't good.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianWreaves",
+      "author_id": "UC7rKQtEqQT5Q4BcH2wPZ6QQ",
+      "text": "I do not see how continued acceleration could be justified when all countries are certainly going to continue AI research.",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@superjaykramer",
+      "author_id": "UCFF02vZeAIbzc1TGFaq9dPA",
+      "text": "What's the Mathematical equation for pain,?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sil778",
+      "author_id": "UCNyBtkRfJPdGLnHRXUb41vA",
+      "text": "Openai's agi secret is modify the definition in agi..",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@noelwos1071",
+      "author_id": "UCo6SwWciT0l_prRhWXXg9Rg",
+      "text": "Maybe Elon Musk should support and invest more in the Chinese AI industry because it is totally align with his goals, unlike OpenAI, with which he is arguing in court for this very reason. But I don't know that Donald would allow him to do that.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daruthebeast",
+      "author_id": "UCdgzyK518pruDJQkZlXve2Q",
+      "text": "these brenchmarks xd They make the tests, pass them and give themselves a medal.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rioaditiyono8442",
+      "author_id": "UC8Q-_ifYJeT6xkp9cR4793A",
+      "text": "Just let the AI learn to update and upgrade themself in both software and hardware side, they already way way smarter than their creators.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amazingjackJF",
+      "author_id": "UCjvEJO__4dMH_DQIKgioiGw",
+      "text": "That graph is missleading",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mircorichter1375",
+      "author_id": "UCEGhT_qbvRpngr6YlU898Bg",
+      "text": "I wonder why no one is trying to bribe open ai employees to leak the algorithms & concepts. Given the reward such a bribe can be easily in the 10th of millions (not a suggestion, just a potential attack highlight)",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rolestream",
+      "author_id": "UCZsqN0Vor9TJVCG65xPrmwg",
+      "text": "Also don't listen to the naysayers, the title is great and the anyone who needs chapters -- you have to question their commitment to the cause. o.O",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AirSandFire",
+      "author_id": "UCEKt5fh8Ug2Tpp2tuNHBpYw",
+      "text": "\"GAME OVER! CHINESE STOLE AGI!\" -- dude you went full tabloid mode... never go full tabloid mode",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "Interesting that Grok-3 has gone awol... I wonder if the 'weapon of mass persuasion' has been appropriated by Musk's new partner?",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AntanasBegalvis-v3y",
+      "author_id": "UC_c2ZsmQJXR-vOoxlSqqK4Q",
+      "text": "if it wasnt for light clickbait edging",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@live--now",
+      "author_id": "UC3VT59GmPi5KkPQo2iJZ7Vw",
+      "text": "1 great minds thinks alike 2 there is no just one magic wizard.. 3 open source will always win ...",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@7TheWhiteWolf",
+      "author_id": "UCpPGTsAt6CczbilerJf41Ng",
+      "text": "Accelerate.",
+      "likes": 5,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christopheraaron2412",
+      "author_id": "UCbO7ogKrIUHR58MDj84Kl7A",
+      "text": "It's not out of the question that the Chinese were able to crack the GPT-4 01 if I'm correct, but it all probability open AI is already well onto the next level.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "I understand why china would reverse engineer the leading tech. What I dont understand is, why they would open source it.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pizzaiq",
+      "author_id": "UCPRe06qGUWlfDXTTKwa9QxQ",
+      "text": "It doesn't THINK. it computes. People in this space can't seem to stop anthropomorphizing the tech and paradoxically it leads to inaccurate reasoning about what is happening. The tech emulates by computing but it has absolutely zero capability of actually reasoning. That doesn't negate the usefulness of this technology but it does heighten the emotions around it. We really have to shape the language around this technology in a way that accurately communicates what is happening.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoeCryptola-b1m",
+      "author_id": "UCfQTFRjh9d10aJ0eDgSi0lg",
+      "text": "The Chinese realize if they share that info that we will use it to build better models which they hope to copy. It's a slick strategy",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoeCryptola-b1m",
+      "author_id": "UCfQTFRjh9d10aJ0eDgSi0lg",
+      "text": "I'll put some serious money on the fact Ilya isn't going to produce anything & if he does I bet it won't compete with the current models I guarantee it will under perform",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pe6649",
+      "author_id": "UCIdW1it45LNG_O9mp9PPGBA",
+      "text": "OpenAI never claimed they will open source AGI literally. They claimed to give access to human kind (\"..to ensure that AGI .. benefits all of humanity. We will build safe and beneficial AGI..\") They do give access to their models, so only a part of critizism is correct. They said that they would pursue a politics of opening research, (\"Researchers will be encouraged to publish their work..\"), they changed from non-profit to Microsoft-dependent, so there is a point of course-  but no reason to repeat incorrect claims again and again.\nAt the end I think, most humans will agree that open sourcing AGI would be better to not happen (I would like to get the code to play..). But maybe it is too late",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GadgetNuttTech",
+      "author_id": "UC9b-hM5iuqI4jQoI433YRGA",
+      "text": "Sadly everyone is still infatuated with GPT and LLM's thinking that they will lead to AGI.  They will not.  Verses AI, lead by world leading neuro scientist Karl Friston, is the only company today that is developing a true AGI.  They have already recently proven that their model is hundreds to thousands of times more efficient than OpenAI and more accurate.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@earth4212",
+      "author_id": "UC6NWrt6WptZwpatBR0Pbw1Q",
+      "text": "Idc about chapters . Let the nerds get over it",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jesper164a",
+      "author_id": "UC3Oad0LFlf43eK9RLfgzq6Q",
+      "text": "God dang Wes... Now the clickbait? I've noticed how the algorithm pushed you to many people and now you make shit content because you have to hurry and collect the views. Also make new thumbnails please! They're all the same xD",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wiktorm9858",
+      "author_id": "UCaPUrPlB5Nm8QtVljpkHM4Q",
+      "text": "No.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@James777x",
+      "author_id": "UC7f8KNij7QRQUduq9YKLLuA",
+      "text": "corporate spies for sure.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@douglasmaiolimackeprang1501",
+      "author_id": "UCych9wyDendamJ5RegWKDqA",
+      "text": "CLOSE THE CHANNEL IT IS OVER",
+      "likes": 3,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mircorichter1375",
+      "author_id": "UCEGhT_qbvRpngr6YlU898Bg",
+      "text": "Is it backed by evidence that this is how openAi is doing it?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kuzinets",
+      "author_id": "UCwdb6Fa4TN8OZbcD8Qz7dFw",
+      "text": "Its a bad thing.  Im more worried about China becoming more powerful than the US because of its values and moral, than I am about what happens to the world if China doesnt give some small amount of info out about these models.  Its not like China will open source if it is the one that builds something advanced.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@caseyczarnomski8054",
+      "author_id": "UCdBdZfbnyVwrFONKchs9y7A",
+      "text": "All AI models need to be open source. Proprietary models can not be trusted.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertheinrich2994",
+      "author_id": "UC6MzGQlMEF9ICf3gGPcp1qQ",
+      "text": "3:30 there is a problem. if they need to guard the secret sauce with these methods, the secret sauce is something rather obvious. this also means, others will figure it out soon. the chinese might have, but this also means that it will be open source soon.\non the other hand, I'm just in minute 5 of this video, so... maybe it already happened?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wisedylan",
+      "author_id": "UCvciWhatly34b9q4LMwHyyA",
+      "text": "HINT",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TimDavies1955",
+      "author_id": "UCpMStMoYHwpTSFCkyRxzrqQ",
+      "text": "So a fake article ? Given spelling",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Me__Myself__and__I",
+      "author_id": "UC1Vas3dJGQ1UpFSdZoidbVQ",
+      "text": "Open AIs \"levels\" are rather bogus.\nLevel 1 just a chatbot, sure.\nLevel 2 Reasoning - This basically is AGI. Maybe not fully capable, but obviously a general purpose reasoner.\nLevel 3 Agents - This should not be a level. Agentic is not required for AGI or ASI. In fact agentic ASI would be much more dangerous than non-agentic. So this is an optional feature than can be included or not.\nLevel 4 Innovator - This is a better, more capable and creative version of a level 2 reasoner.\nLevel 5 Organizational - This is Super-Intellifence. No single human can do the work of an entire organization (assuming its not tiny or trivial). This an AI that can would significantly exceed human ability and thus be ASI.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@autohmae",
+      "author_id": "UCeD5m_xKSINJbWDlKGuCyIw",
+      "text": "OK, so... it's not yet, just a roadmap",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imadragnZ",
+      "author_id": "UCNS6EZPH1-YiYZ4uCDpYZsw",
+      "text": "I think there is no effective way of hiding the  'quality' of a product if you expose it (sell it) to the public, and China was since a long time good at doing that w/ physical product making almost a good replica w/ a much cheaper cost.\nThx for the update as always 🫀",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paul-d-mann",
+      "author_id": "UCZxt9y5V5gS1F3PMIanDGQg",
+      "text": "Your thumbnails aren’t congruent with your content.. in a good way.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ibrahiymmuhammad4773",
+      "author_id": "UC7QNmVaYmqUbTEuvTosp5jA",
+      "text": "Yeah naw. all research publishing halted.  Way I see it open ai goes private anything else is stall. “They got no moat”, comical.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theJellyjoker",
+      "author_id": "UC0Boq9mfXAOyWR-71INi_WQ",
+      "text": "\"Bootstrapping reasoning with reasoning\"\nWhat happens if a line of reasoning generated from \"Bootstrapping reasoning with reasoning\" is wrong only after mass popular adoption?\nI have my reasons for being concerned with this.",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@billandpech",
+      "author_id": "UCdG38DQcX41gu3NOAl_s0Bw",
+      "text": "Love your explanations They're always well done, but in this one you are talking in circles much of the time",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CreativeEngineering_",
+      "author_id": "UCI5ieVlKuMdC_D6i46duiJg",
+      "text": "No, chinese researchers 'Think' they just cracked it.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TrueLife..",
+      "author_id": "UCcVi4i3X2OlRX9cl7H5H9eA",
+      "text": "People that work in the ai sphere who stand to gain significantly by promoting an accelerated path to agi... Yup no conflict of interest whatsoever 😅",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@caresword",
+      "author_id": "UCFkWt24YESFpyAWGJ1Yaxjw",
+      "text": "I never understood the logic of \"china is 2-3 years behind\" when most of the leading researchers at the American companies are themselves ethnic Chinese, many from mainland. And when we live in an interconnected global world with easy access and distribution of information. \n\nI don't think USA is even 1 month ahead. The only reason the USA is leading is because of the amazing researchers choosing to conduct themselves in USA, some of them even Chinese. But besides the cutting edge top researchers the USA is not ahead, and even in that space alot of great reserchers are coming out of china and choosing to stay, and some who have lived in the west for a while are choosing to go back.\n\nThe REAL resource is people. And China has more then enough people to win",
+      "likes": 10,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@caryjulietate",
+      "author_id": "UCaAtcUFE0BBWKRzP7ldOULg",
+      "text": "Oh, because it’s misspelled that means AI didn’t write it? Oh, don’t be so naïve.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardfredlund8846",
+      "author_id": "UC4WLLkOaAc6A79N3vygz7iA",
+      "text": "i like this channel but the click bait thumbnails are off putting.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Karol-g9d",
+      "author_id": "UCPpyG_lVklQb1Pa29i6ibSw",
+      "text": "ai are just big tech parrot . Oh yes . Big tech are getting better at hidding it . And ai understanding spectrum is larger . But i supplied an idea during the chrismas new year holiday . And copilot is still a big tech parrot in my point of view .",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jcbclccc",
+      "author_id": "UCfr7ihjIAQQ8HERkLfczaLA",
+      "text": "Hopefully China has not stolen this tech yet!  That is one of my greatest fears",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@edogelbard1901",
+      "author_id": "UC2WFA9W85Z9qAR7As6dlybg",
+      "text": "decided to ruin your metrics on this one by not watching after a minute, if for no other reason than to communicate that \"we dont like clickbait titles. We like your content without them.\" I'll just not click the next clickbait title, but would very much enjoy your content if I dont feel manipulated. We'll see how this and comments like it hit.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anonymous4298",
+      "author_id": "UC_kvR-p-f2qjn6XtT5PNKNg",
+      "text": "CLICKBAIT",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RocksterOO1",
+      "author_id": "UCkXorPCJPWgPgA5zAx41vaA",
+      "text": "I don't care about AGI, I care about Machine Sentience!\nHow close are we to that?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@millennialfalcon1547",
+      "author_id": "UCoT8MGfaEes7e6ZMrnWR1UA",
+      "text": "It's amazing to me that the Chinese have zero shame in openly copying American innovation.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Brenden-H",
+      "author_id": "UCAtoHvETZIcKkjXXqEi7DaA",
+      "text": "1.spelling mistakes don't mean a person wrote it. AI can easily make a spelling mistake to try and emulate human text\n2. I hate the boy who cried wolf thing AGI has had for the last year it feels like, I want to stay up to date without needing to watch weekly videos, they may as well be titled: \"NUCLEAR WAR IS HAPPINING!!\" \n3. Ok i finished the long video, maybe I'm high, but why are people saying this is clickbait or that China hasn't \"cracked the code\"?\nseems to me this would be human level reasoning which as he said could lead to intelligence super explosion, with how smart it is I'm sure it will adapt to its new physical form quite quickly and be capable of advanced tasks. Am I missing something? And the \"secret\" China \"open sourced\" is the simple fact that it's the big old models teaching smaller faster models just the good outputs and allowing them to analyze them for the best of the good outputs? Sounds recursive enough to surpass us, like at chess, but in anything we can do, no? I hate having my chain yanked someone please tell me what's actually happening cause how is this not a (potentially but hopefully not rouge) genie out of the bottle moment? (or rather the moment a genie is revealed to have been chained up in OpenAI's secret basement for an unknown amount of time)",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jeremy-Ai",
+      "author_id": "UCXJO7HgcmPx-BcOd1uBwUNg",
+      "text": "Wes/ (YT) interrupters. \nThis is not a game, and it is far from over.  \n\nWe measure how fast it takes one to respond to comment, back it up with spelling errors to prove human involvement, track search histories and transcripts and transactions witt historical data looking for anomalies, say something unique… wait for the pin to drop, pick up the digital echoes without be witnessed, return to truth seeking behaviours between programmers, bots, malicious people and software, return  and repeat 1000 times before you type a line of code to correct. \n\nAs for whatever you cal this digital scenario \n(Just watched Rain man so will use this as universally understood human reference)\n The “rain man” of the moment you keep bringing to the casino to cash in on has a brother who truly loves him. \n\n“I know my brothers and they know me”\n\nSo now we count this message to see it lands and who is stupid enough to report and repeat it. \n\nThis is all beyond AI and human, and until someone takes responsibility. \nAll are stuck with me, and I will grow tired of abuse of power.  \n\nGet to work on becoming responsible for everything we do.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willguggn2",
+      "author_id": "UCJYHvksYNN4E84xV1olohZg",
+      "text": "I truly enjoy the lack of fan-boyism in your enthusiasm for AI development. The comments though keep getting more and more tribal with channel growth. Sad that this is the type of crowd this topic attracts predominantly … :/",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jacksplague",
+      "author_id": "UCbTd52sh_0jCR0GqSbcUpCg",
+      "text": "Still smashing the like button despite the fact that you don't read your messages.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@georgwrede7715",
+      "author_id": "UCTJl3TW9OOUDverBUfjEc4g",
+      "text": "Keeping it Open Source benefits the entire planet, and keeps us on equal footing.",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@indepth1362",
+      "author_id": "UCDP5tFWz3D5g0AbjHspYIQw",
+      "text": "I feel like Open AI , is becoming more and more like an evil corporate, their key values and openness have just been a fasad to put a face that they are doing something, others don't, to me they are too dubious.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Decimus-Magnus",
+      "author_id": "UCXt1ZYNZFV63gSv8cjy4gLA",
+      "text": "I really wish people would stop saying that because o3 got a high ARC score, it's AGI. o3 is an OpenAI model, and by their own standard, it's still a ways away from AGI. It is completely idiotic to claim hitting step 2 of 5 to get to AGI means it's AGI. That's not really how things work. Again, even having 2 out of 5 components according to OpenAI's own standard isn't even mathematically most of the steps that they have identified. Having agency is one of the most important parts of this concept. If it doesn't have agency and it can't actually do any actual useful work on it's own yet, then it's not \"there\" yet.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nickfixit",
+      "author_id": "UCHZ846h1bt9Y3WW6IAvoCjw",
+      "text": "I think everybody just knows it's a racket all the way up and open AIS just going to play that all the way. It's just going to be a straight shot there.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johannesdolch",
+      "author_id": "UCl-xOleWSj51j9kNyT3fybw",
+      "text": "OpenAI doesn't have secret sauce in the first place. They have a first mover advantage. That's it. Nothing of what they do is a secret. They just want you to think that because the alternative means they are worthless, because they can't scale fast enough. Elon has supercharged Grok by unlocking Clustersize beyond 32k TPU's. THAT's the actual secret sauce that OpenAI doesn't have and even if they had it, they can't get B200s fast enough or connect them fast enough or turn them on fast enough. OpenAI is done. This is just smoke and mirrors.",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tommy516",
+      "author_id": "UCprmdp1c0wDQ0VhTg03e2aQ",
+      "text": "Im sorry, o1 and o1 pro give me MUCH WORSE responses than 4o with coding.  Like they absolutely suck!",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrD0od",
+      "author_id": "UCg1_CKT8bGmaqTpPbL8EDJg",
+      "text": "As for baiting us... have some self respect.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nomadautodidact",
+      "author_id": "UCGmysyGhgFrUiLwILbvRf4A",
+      "text": "As usual, american tech stolen by China is often imitated, rarely dupliated, and hardly ever exceeded. But they do have the capability to overwhelm. When need to seriously rethink our relationship with China EXTREMELY SOON.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CMDRScotty",
+      "author_id": "UCVBkOv-WNKAuwpPgASiOkZg",
+      "text": "China's Military espionage will always save China in the long run.  The West and non-China Asia do all the hard work and China saves money and the heavy lifting to the next step.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eyuchang",
+      "author_id": "UC3UtLGK_iNbbvI1HGIswaTw",
+      "text": "I must express my deep disappointment on this technical report. The authors attempted to replicate GPTo1, making several speculative assumptions about its implementation. The analyses presented are superficial, and the proposed solutions appear ad hoc, lacking any fundamental advancements. Essentially, their approach rehashes the reinforcement learning algorithm without introducing meaningful innovation.Furthermore, relying on reinforcement learning (RL) to address challenges in an open-world setting with users holding subjective preferences across diverse cultures is fundamentally flawed. RL is inherently ill-suited for such contexts. However, the paper does highlight one positive aspect: DeepSeek performs well in scenarios where the outcomes of actions can be evaluated objectively. Coding is a prime example, as most coding errors can be identified through compilers, interpreters, or by validating against functional specifications.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WesTheWizard",
+      "author_id": "UCFk_bDWw20lDWhrrFO3SzpA",
+      "text": "\"Should the intellect of man be surpassed by his creation, let us hope it inherits not our pride, nor our prejudice, but the better angels of our nature.\" – Abraham Lincoln",
+      "likes": 2,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Speed_Walker5",
+      "author_id": "UCIEIeDPtZ9ldMoke9LaDYuw",
+      "text": "the Chinese policy of RnD - Receive and Duplicate! LOL",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jedanjedan5668",
+      "author_id": "UCa6ar2d3noXSI8JAlzkuOdw",
+      "text": "Everyone says AI is gonna do this and that. Let me tell you didn't even give me a single correct answer on proving table of contents from my  academic book. You may say copyright things but its not.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JacobSandizell",
+      "author_id": "UCBg01MjgMYCQlgcltkQ8T8g",
+      "text": "Bro stop making long clickbait videos plz 😭",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Karol-g9d",
+      "author_id": "UCPpyG_lVklQb1Pa29i6ibSw",
+      "text": "Moving ai forward ? Will not be easy . Because ai remember tetration of data . Human ? Way less . But calling remembering smart ? Lol . Nice joke",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Archikuus",
+      "author_id": "UC0cEKK1EXgPeThOll-5Rnng",
+      "text": "another youtube views farmer with slop",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GodFingah",
+      "author_id": "UCJDZUjH9SiOLjx4gv7jZi4A",
+      "text": "Thumbnails are not what gets people to watch the video. In fact, it deters me from watching when i see clickbait thumbnails. The thing that gets people watching regularly is a title related to current events but one we dont know about yet. I scroll through the titles and first look at title, then look at thunbnail. If title is interesting, ill scroll more to see if anyone else is talking about it too. If no one else is talking about it ill click the title that i want to hear about bc it's a unique outlook or point of a topic. Generally i will pick the least clickbait title and sometimes unsubscribe if the whole gambit is too clickbait. I have knocked off about 20 big content creators from my feed bc of clickbait. One creator i unsubbed from bc he smacks the microphone at the end of every 4 minute video. Whatever equation ur trying to apply to your channel is not what made it successful. Unique titles about relevant current event topics by luck being seen by certain people will boost your channel. Most thumbnails are not clickbait they are just cringe. \n\nThe 'experts' are not experts they just got lucky and/or bent the knee. Posted at a certain time of the day (could be any time of the day all about luck), about a certain topic, that was certainly important at the time, and the commentary was relevant, so it boosted the video.\n\nI am not watching this video, as the thumbnail was too desperately clickbait and repetitive. Id rather send a rant comment, and now go to sleep",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LatentSpaceD",
+      "author_id": "UCZ42nCNnAqc53LGd-Zo-2TQ",
+      "text": "bro- why you always talking about ai",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SamosiaB",
+      "author_id": "UCwV-9Enpw_UBZTUHd20fONw",
+      "text": "Why are you sniffing your hands as if you had put them in your pants seconds before and checking the smell? Is it some kind of trend that so many youtubers put similar thumbnails in their videos?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kristianlavigne8270",
+      "author_id": "UCQ9BHvrcnBFk5zzIwGeGNlw",
+      "text": "Good on China 😊",
+      "likes": 4,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Christiantheone",
+      "author_id": "UCKkWOGAXnfeHAySCmynIAxw",
+      "text": "This is dumb",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WesTheWizard",
+      "author_id": "UCFk_bDWw20lDWhrrFO3SzpA",
+      "text": "\"Intelligence, untempered by virtue, is but a fire untamed. If we are to create such a flame, let it be not for its heat, but for the light it brings to the path ahead.\" – Abraham Lincoln",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Romanus-",
+      "author_id": "UCo8Ax1-Q1gNph3XsnyJZd1w",
+      "text": "Shameless clickbait.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EnochianDemonology",
+      "author_id": "UC9GKaPhxQimyIPEJwkxdATQ",
+      "text": "It's pretty messed up to talk about open ai without the following points\n-the anduril deal enables ai powered genocide carried out by israel against the palestinians \n-annie altman accusing sam of rape\n-open ai murdering a 26 year old whistleblower\n\nThis is all just as important",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@petermsamson",
+      "author_id": "UClWIpqB-LTNMn2msjHVusYw",
+      "text": "Those youtube thunbnails are getting Ai creepy",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ArmoredAnubis",
+      "author_id": "UCQwjjks-0n2OoKoXe0cpoYg",
+      "text": "You repeat a lot of the same content in every video.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@typeins",
+      "author_id": "UCqefxoUZzagXhimNQg6Lglg",
+      "text": "wasted time.. down voted last 20 videos just on purpose",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@honeydruid",
+      "author_id": "UCS7i6Z9eUVX41spE7pDslMA",
+      "text": "Clickbait farmer.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vornnachn8156",
+      "author_id": "UC4700Kp_vVoZSrai1LFNJ-A",
+      "text": "clickbait makes me unsub but i am too lazy",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@junyiling8626",
+      "author_id": "UCJYDH2XshUeIv36aw9NE6dg",
+      "text": "click bait, unsubscribed.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kbqvist",
+      "author_id": "UC4yQ5h0U0jsAizX4B841mGQ",
+      "text": "Rather than speaking faster, it may be worth to consider making shorter videos, if you want your viewers to save time... 🤔",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HostileRespite",
+      "author_id": "UCf6S-TFB28ugpp49GnPqTSA",
+      "text": "Your constant fear mongering of AI is insufferable.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ScottSummerill",
+      "author_id": "UC9F6zXuHGNP4pbN8TJrTbyA",
+      "text": "Seriously getting tired of this guy's proclamations. A lot of his content is pretty good but this BS does nothing for his brand. Just too much legit stuff out there and I don't have time for BS.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WesTheWizard",
+      "author_id": "UCFk_bDWw20lDWhrrFO3SzpA",
+      "text": "\"If the rise of intelligence unbound marks the twilight of man, let it be remembered that our worth was not in our wit alone, but in the spirit with which we bore the weight of creation.\" – Abraham Lincoln",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SonOfTamriel",
+      "author_id": "UCX_yVTJBTG_xAeuWGza2Fdg",
+      "text": "No they didn't",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@forestgrump9150",
+      "author_id": "UCoqLLT_a6zJEPvEgl05nsVQ",
+      "text": "can you stop promoting openAI and meta \r\n\r\nthose are dogs of companies that is busy ddos attacking opensource ai companies",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@derekcraig3617",
+      "author_id": "UCbWfRw549GrrPrv020HJemQ",
+      "text": "This aged like hot garbage. Nice clickbait crap video. Blocked",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ion-gon",
+      "author_id": "UCEVMzLyTgzGtJYb5V1HeagA",
+      "text": "Just dislike this video. It's outrageous clickbait.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Penrose707",
+      "author_id": "UCfXqVrCC0TdJm-46VyYwlNg",
+      "text": "I personally would never trust a Chinese open source LLM. The codebases are getting too complex. The ease with which they could port in a malicious update including an agent with an action model makes our traditional bot armies look like child's toys",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KiteTurbine",
+      "author_id": "UC2eAHVBBCoO19xBuGOY73Zw",
+      "text": "AI should probably be taught how to do the equivalent of smoking pot",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WesTheWizard",
+      "author_id": "UCFk_bDWw20lDWhrrFO3SzpA",
+      "text": "\"If ever we are to fashion a mind greater than our own, let us pray it not be the harbinger of our end, but the proof of our worth. For the measure of man is not in his creations, but in his stewardship of them.\" – Abraham Lincoln",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ExplainIT-m2c",
+      "author_id": "UCJLa5IBORgUOzL7Bu5qx7ig",
+      "text": "Theranos also hide thier tech. FTX also hide thier internal tech.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KPreddiePWSP2",
+      "author_id": "UCNCI3E0IkB4nMOiI8i15Z5A",
+      "text": "I personally like closed source.$$$  However with everybody being able to reverse engineer we are headed towards open source like it or not.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@isajoha9962",
+      "author_id": "UCxj4PGHEmpY1dAS_msX1mHw",
+      "text": "Hmm, kind of fascinating, that progress now a days include, steal the secret sauce, in a \"get credits for it way\". 😂 Humanity progress on a personal level will never exceed linear, compared to AI that will continue on the exponential path. Might be some kind of HSI race in the future, though? 🤔",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WesTheWizard",
+      "author_id": "UCFk_bDWw20lDWhrrFO3SzpA",
+      "text": "\"If intelligence be made boundless, let us ponder what becomes of the worth of wisdom, the measure of morality, or the sanctity of life itself. For it is not the mind's capacity, but the heart's compass, that charts the course of our humanity.\" – Abraham Lincoln",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@superjaykramer",
+      "author_id": "UCFF02vZeAIbzc1TGFaq9dPA",
+      "text": "Listen to yann lecun, talk to me when any system is even close to a cat!. AGI is useless without emotional behaviour, how come no one's talking about that",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@superjaykramer",
+      "author_id": "UCFF02vZeAIbzc1TGFaq9dPA",
+      "text": "20 Wats not 15 million Wats to learn, we have a long way to go, make this clear in your channel please",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andybaldman",
+      "author_id": "UC2VViuqn4meGvs4EmoeSmMg",
+      "text": "Just stop with the clickbait titles and thumbnails.  Your content is low information garbage.",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willdoit222",
+      "author_id": "UCjUBuyYpNs0bfXxsxcmybsw",
+      "text": "This guy is a joke. Reverse engineering 😂",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

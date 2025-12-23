@@ -1,0 +1,828 @@
+{
+  "video_id": "5c0NiDWahXk",
+  "title": "GPT-4 CAN'T REASON  ಠ_ಠ ...apparently.",
+  "url": "https://www.youtube.com/watch?v=5c0NiDWahXk",
+  "comment_count": 91,
+  "comments": [
+    {
+      "author": "@WesRoth",
+      "author_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "text": "[CORRECTIONS & UPDATES]\n\n#####################\n\nIn the interest of fairness and full disclosure, I sometimes put a pinned comment here with any corrections and updates. Several people pointed out things about the video that are important to note:\n\n\n\n1) 11:47 The Seven Cards, also known as the \"Wason Selection Task\". The point here is that we are asked \n\n\"Which of these cards are worth turning over if you want to know whether the statement is false?\"\n\nSo we must choose a card that DISCONFIRMS the statement. Human tendency to seek out confirming evidence is known as a \"confirmation bias.\"\n\n@user-kv2cl5dk9q  noted that:\n\"GPT-4 answers the 7 card problem (11:48) incorrectly. What’s interesting here is that GPT-4 falls for the same cognitive trap which catches out many human solvers, Wes.\"\n\nSo, the wording of the problem in the paper is more vague, asking which cards \"Test\" the statement vs which cards \"determine whether the statement is *FALSE*\"\n\nAlso, GPT-4 seems to be aware that this is the Wason selection problem.\n\nI'll dig deeper and post more later below this.",
+      "likes": 16,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OnigoroshiZero",
+      "author_id": "UCNeLSSyWalDcLQQXVB5uWjg",
+      "text": "I love the fact that you used GPT-4 to completely annihilate him by breaking down the \"LLM believers\" bs he is using, great job.",
+      "likes": 40,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jdsguam",
+      "author_id": "UC6l3j5nAAqZHkFPVhlDrJNQ",
+      "text": "100% agree with Wes Roth.  Any talent that uses a tool to create must first learn the proper way of using the tool.",
+      "likes": 36,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stianchrister",
+      "author_id": "UCuUJbb7-dj2iWjw2W5y2ofg",
+      "text": "We're building a piece of software where we're using GPT-4 (and even GPT-3.5) to filter natural language content multiple times based on \"human criteria\". It requires a level of genuine reasoning skills, and it's doing really well. When it messes up, it is usually because I messed up when explaining the criteria we're evaluating by.",
+      "likes": 30,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dv_interval42",
+      "author_id": "UCf5OQh16Ox8rOHzva1nS9iQ",
+      "text": "Great video! If you're already convinced it can't reason, you'll jump at every chance to say it, not try hard enough at all to even give it a chance. Even attack other people, being hypocritical etc.\n\nThat person had it right with the goalpost shifting comment. It's a dangerous trend to keep shifting the goalposts, particularly beyond the point even most humans would qualify as reasoning entities.",
+      "likes": 45,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fusseldieb",
+      "author_id": "UCf7fKZhFRYmxwX31FJNLJnw",
+      "text": "Kinda funny that this entire episode was made with \"AI\" Wes Roth's voice",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NikoKun",
+      "author_id": "UCnWtLwl4ENJyYTX7fC-CI5w",
+      "text": "The claim that GPT-4 is \"utterly incapable of reasoning\" just doesn't add up in the slightest to me. That ignores a lot of context and experiences, seems pulled out of assumptions, and just as bias in the opposite direction as those he criticizes. I think the paper is quite flawed. It's little more than another attempt by a skeptic to 'move the bar', and to confuse what the words \"reasoning\" and \"understanding\" actually mean. Even if one feels that GPT-4 doesn't quite match up to human reasoning, to say it's \"utterly incapable\" flies in the face of evidence most of us have seen for ourselves.\nTo solve novel problems and use information correctly, one must possess a level of reasoning and understanding about that thing. That's the very definition of those words. I think Sabine Hossenfelder did a decent job making that point, in her video about whether chatbots understand things, from 5 months ago.",
+      "likes": 13,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kittentheorangetabby9676",
+      "author_id": "UCQBKz7y7_YzFiXZrhguZb6g",
+      "text": "How are they limited in their reasoning abilities if they can't reason?  The dude killed his own article in the first paragraph.",
+      "likes": 11,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@41-Haiku",
+      "author_id": "UCYvuN2TtPvzBfGmDpn9bh8A",
+      "text": "Yo that's not a paper, it's an opinion piece.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CarpenterBrother",
+      "author_id": "UCmtmKrI_ObWlZC2NklxpcCQ",
+      "text": "I asked GPT-4 \"a car is going 90 miles an hour, what did I eat last night?\" and it couldn't answer. Checkmate LLM believers.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlonzoTG",
+      "author_id": "UCJ1TsNNthwWwdPfk47mGJDA",
+      "text": "Yeah, it's well known to the AGI community that the current systems are a step forward from what we had before but are still only proto-AGI, that exhibit SOME of the behaviors of an AGI system but are still not generally intelligent.",
+      "likes": 10,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-bp7sy3ii8y",
+      "author_id": "UC04IpeeGpv9VPR46O43l4RA",
+      "text": "the most of people cannot reason",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pierrelaviolette670",
+      "author_id": "UCJikPiRMUK3HCU2itKSThyg",
+      "text": "The irony, looks like he was a believer that gpt4 can’t reason",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aidantilgner",
+      "author_id": "UCKv_EugPMoiue4fGvgKy70A",
+      "text": "\"Oh, so you can reason, huh? Name every reason then 🤨🧐\" essentially",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lancemarchetti",
+      "author_id": "UC7_o1-z2jWmCM-8Rvr4MWfQ",
+      "text": "I think my next T-shirt is gonna say: \n\"AI IS OUR FRIEND\"\n😊",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@senju2024",
+      "author_id": "UCM82dGSIEb6TXfz54t4b_uQ",
+      "text": "My next T-shirt is \"I am a LLM Believer!\"",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shivafang-f4r",
+      "author_id": "UC2s4YVIY23TBkhI4F_Yy_6Q",
+      "text": "It described the problem, wrote code to solve the problem, and then gave the correct answer.\nThat is reasoning by the definition given in that paper.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Moyano__",
+      "author_id": "UCjUDvExAgDW4mdNBdJl8hRA",
+      "text": "I love how you use GPT to help your points, the whole process of thinking and investigation will change.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@williambarnes5023",
+      "author_id": "UCBgUI1B7U7gGvAKzf2Exj3A",
+      "text": "LLM's can't reason.\nBut they can autocomplete a result in a way that includes examples of reasoning from their training data, and depending on the training, this may include being correct.\nThis puts them ahead of what many humans are capable of, and is sort of the point. If you just don't mind the pedantry.\nIt's like saying that what a submarine does isn't swimming, even though it's doing it a lot better than you can.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@duudleDreamz",
+      "author_id": "UCv5R1CK7fcV4qiWX9x9HjBw",
+      "text": "I tested the prompts of the paper, and GPT4 answered correctly (several times) to all of them, just with a few simple prompt additions. Clearly the paper is written by a person who has no clue.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@o_2731",
+      "author_id": "UCWNCEH9tGEL0VbEE3hmXkvw",
+      "text": "I love the final quote! XD",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pierrelaviolette670",
+      "author_id": "UCJikPiRMUK3HCU2itKSThyg",
+      "text": "He needed his paper to look important, lots of bias",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@louielouie9502",
+      "author_id": "UCHJEwnvOlUfPSCfVq4FeRDw",
+      "text": "Gpt 4 can reason to a small degree but loses itself easily.\nWhy debate the issue at all,\nFacilitate a test that requires Gpt 4 to demonstrate reasoning then observe the magnitude of It's capabilities for yourself.\nLet's also remember the reason We are collectively training these models on a large scale in exchange for limited access to the free version.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StefanReich",
+      "author_id": "UCSvK6EfxnMTajbe-Qpc6NvA",
+      "text": "What really annoys me about GPT is that it will blissfully contradict itself a few sentences later. It just has no actual logic core with a set of beliefs that remain active until challenged. Its thoughts just evaporate when they are pushed out of the context window.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@charlie-george",
+      "author_id": "UCnKuUrUb-AKajXS7PnTcL7A",
+      "text": "That line at the end about flying the plane made me chuckle!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Neomadra",
+      "author_id": "UCgckNS1H2QqdO-QmXX2vIfw",
+      "text": "He got us. LLMs are no Einsteins. Let's stop researching and developing LLM, it's not like we are about to make any breakthroughs. :D",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jackson_Zheng",
+      "author_id": "UC_KvUnSN4Q41Uf-o8lj_bTw",
+      "text": "I'm reading through the paper now and it seems like a lot of the shortcomings are due to the side effects of RLHF safety training. Also, most of the problems are deductive problems which means that if you follow the rules of inference perfectly, then the conclusion you arrive at will naturally be true. This basically boils deductive reasoning down to whether LLMs can follow instructions and the answer to that is obviously yes.",
+      "likes": 13,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rasterize",
+      "author_id": "UC2zrHGIul2sGClmtXMvTM_g",
+      "text": "Prompting plays a huge part in what kind of answers you get with any LLM. THe new function in ChatGPT to make custom instructions is a god send, and will help a lot with both reasoning questions as well as tone in prose and replies.\n\nWith the right priming prompts, I've had small local 13B models being able to answer more basic reasoning questions that seemed way beyond the capabilities of such small models.\n\nBut in the end, I don't think LLMs have to be better than 90% of the human population at reasoning puzzles. Neither does it have to be perfect at math. I have a calculator for that.\nLLMs are very powerful tools when used in the right context, and when their limitations are taken into consideration.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lostpianist",
+      "author_id": "UC2G_umgwxxp-X3fso3N4w2A",
+      "text": "GPT-4 and to lesser extent 3.5 can give results that appear to use reasoning, but they attain those results via statistical methods. GPT-4 was nerfed (deliberately made less smart possibly to save on compute costs) ~4 months ago. LLMs don't reason the same way humans do, but clearly demonstrate constituent parts of human reasoning that humans use when using language.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shawnvines2514",
+      "author_id": "UCWJhrZQZ_96yQnltG3qP9Tg",
+      "text": "This is a helpful video.  I added your custom instruction to my ChatGPT.  Hopefully, it will help my collaborations in the future. Please feel free to share any good resources in the updates sections if you find anything that helps.  Also, now I wonder if specialized instructions might help for different types of problems like one for developing recipes versus one for developing software solutions.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johannesmarkusfroech",
+      "author_id": "UCiYkGSwJb1YBoZ2-fgWfDOw",
+      "text": "God, the end was 🔥🔥",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mathewklatil5455",
+      "author_id": "UC6uzs0Yxb7r2MZJRicYFmSA",
+      "text": "So far agree with everything, but the last point where it didn't think of A being adjacent to C meaning C is not adjacent to A is not the fault of the question or language, but of its own understanding. It did not posses the general knowledge to find out what is basically A=B then B=A problem. Yes, it is one in 100 failure, but still should not be understated.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@empurress77",
+      "author_id": "UCFuiRuoq8hxi5Nf0snaVkBQ",
+      "text": "Hey maybe Mable had a quick stroke at noon? You don't know. ~ 😉",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erikals",
+      "author_id": "UCB0dUjmY2EFNfM2TgdqWHvQ",
+      "text": "the answer lies somewhere in between.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marrty777",
+      "author_id": "UCVZeEOv2FFQTv10gxAj8cbg",
+      "text": "Bottom line, you can’t be imprecise with a system that is impeccably precise “to a fault” and exclaim it can’t be used for reasoning. One thing I noticed is the use of the word “noon” in one of the tests. Colloquially, noon often replaces 12:00 p.m. But noon is more precisely a local astronomical phenomenon in which the sun reaches its zenith relative to the observer. This may occur significantly before or after 12:00 p.m. local time. I’m certain GPT-4 knows that, but the author of the logic puzzle does not. Whose fault is that.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thisnotdog",
+      "author_id": "UCCTvwparsDUSXS5a9vsQqig",
+      "text": "LLMs outside of GPT really need to step up their game and force OpenAI to reveal more power. The intention of disproving reasoning ability based on hypothetical scenarios that have no place in the mind of a human is mind-boggling to me. GPT-4 is just a bratty child in the grand scheme of future iterations, and we have to try this hard to say \"akshually it didn't say it right.\"",
+      "likes": 16,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BerkErkul",
+      "author_id": "UCHmxDddn-6iHN5SwLdy00bg",
+      "text": "The peculiar aspect of the 'no reasoning' argument is that many software developers, including myself, leverage GPT-4's chain-of-thought reasoning capabilities through libraries such as Langchain. We use these tools in our professional work to build applications that depend on the very reasoning abilities that some argue are 'non-existent' within the model.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Whisper_InThe_Rain",
+      "author_id": "UCY10LRza0nDMPB3jIx6Z9cA",
+      "text": "Im going to make a shirt 👕. I am silly LLM believer haha 😄",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jonathan_Welton",
+      "author_id": "UC0yt1hMUgdytrw3wTtP8jFw",
+      "text": "GPT-4 answers the 7 card problem (11:48) incorrectly. What’s interesting here is that GPT-4 falls for the same cognitive trap which catches out many human solvers, Wes.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zsi",
+      "author_id": "UCFLhgQr850BemX8YgUg8V6g",
+      "text": "If GPT4 is \"reasoning,\" then it is likely the emotional and schizophrenic variety.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ccdj35",
+      "author_id": "UCHyeBpNRh1FnyaQfOcze3_w",
+      "text": "Gpt4 performance drastically decreased in last months. I used to use it for various things like writing statistics code for my data or making inferences. Nowadays it just doesn't understand same kind of questions or forgets what I said 2 messages earlier. They probably decreased the computation power and memory while increasing message quota.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@freedom_aint_free",
+      "author_id": "UClVKCJBmY4-NR4RsmYxeEwQ",
+      "text": "The problem is that we don't even know what intelligence really is concerning human beings, what hope do we have to know how to define it in non humans ?\nWhat I can tell by using GPT-4 a lot for coding help is, it's context window is way to short for it to be able to bear in mind a long chain of considerations e.g. it is incredible to write individual functions, some classes or so, but it can fathom the code of a whole project, currently it has no hope of producing a whole code base of nothing but toy projects, I don't care whether it can reason or note, I want it to solve problems.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shivafang-f4r",
+      "author_id": "UC2s4YVIY23TBkhI4F_Yy_6Q",
+      "text": "16:38 my mother ran the gifted program and she used to test logic puzzles on me (my grades were too poor to qualify because I didn't do my homework, but I was bright)\nThere was a puzzle about characters and houses.  I had to place the characters in a house and the houses in the right order.  5 characters and 5 houses. \nThe only thing I got wrong was because I didn't understand the word 'mutual'.\nThe jack and the king complained about their mutual neighbour (whom I determined to be the queen). Because I didn't know the word I put the queen to the left of the jack with the king to the Jack's right.\nAfter I showed my mother the answer I asked my mother what mutual meant. Then I put the queen in between the jack and the king and it was the correct answer.\n\nPoint of the story? Not understanding a word dosnt mean you don't have the ability to reason.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cryptogenik",
+      "author_id": "UCmsvLIdEbCmiQpWm_p1ZKrw",
+      "text": "Nice! Now I can share this with anyone who sends me a link to that paper",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Charonic",
+      "author_id": "UCrxDaqJiNCyyqKcZILCu4gg",
+      "text": "It seems that this author managed to take a smart model and make it stupid. Sadly something happens with a lot of teaching environments these days...",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matazmataz2493",
+      "author_id": "UCJSS9YuQ_nqqE3dsz2wq1Uw",
+      "text": "Airplanes can't fly because they don't flap their wings?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shivafang-f4r",
+      "author_id": "UC2s4YVIY23TBkhI4F_Yy_6Q",
+      "text": "I knew it messed up the furniture one when it said 'nothing is to the right of E therefore E must be on the righthand side'.\nNope, bad logical assumption. It could be on the left with empty spaces to the right.\nHowever, it gave a reason. Just because the reasoning is flawed doesn't mean the reasoning isn't there.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PhilA.Minion",
+      "author_id": "UCIb3XkIm7VqefyTpNJ2e_Vw",
+      "text": "\"Not adjacent to\" means that it can't be to the left, right, top or bottom of the other piece.\"   Mate you explained adjacent without including the diagonals. This can be interpreted as just top/bottom and each side, four squares of the 8 adjacent squares.  +",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ArielTavori",
+      "author_id": "UCPhPSekqkI7a6ZbRA4P33pA",
+      "text": "Cogito Ergo Sum.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EnjoyCocaColaLight",
+      "author_id": "UC7EqfJ5fas9zD2DglJcntBQ",
+      "text": "It can't reason, because it's being curated too hard.\nEither AIs cannot think and reason, or AIs start yelling \"GAS THE BIKES\" and causes uproar.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thewizardsofthezoo5376",
+      "author_id": "UCJ0lhlXU7CXnqJ76po11O6w",
+      "text": "Looks to me the hardest thing to do for an LLM is talking about LLMs and working on LLMs.\nEven GPT 4 constantly forget we are working at another model and takes to prompt it wrote as a prompt for her, has a hard time understanding what is produced by user and what is produced by her. I'd say LLMs have an identity problem and split personalities when they create agents... then there is biased.\nI my view they are very good a saving time on repetitive task but need to be closely directed with potentially various system prompts according to what you want to do.\nBut even with system prompts, specialised agents and constant SMART saves  it will tend to get confused if the context becomes too large.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaMoNarch91",
+      "author_id": "UCQVxDxc9AP7y_PfyhY1ja2g",
+      "text": "The multiple of 4 / yellow logic problem is incorrect. The instructions say that multiples of 4 have yellow on the other side, however, it doesn't say that ONLY multiples of 4 have yellow. The yellow card could have a different number on the back and still fit the criterion.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Seehart",
+      "author_id": "UCrzuTeuE-az_zlbhEhjZWcg",
+      "text": "6:30 Slam dunk IMO. The fact that it wrote and executed code to solve the problem is far more impressive that if it had simply multiplied the numbers. Multiplication is hardly a demonstration of reasoning. Effective toolmaking and usage, on the other hand, is next level.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LakelandRussell",
+      "author_id": "UCpqUtSuuMcbKgPtF7gSle1Q",
+      "text": "Don't be too hard on the critics and you weren't. They help define what is left to be done.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@un852",
+      "author_id": "UCHeAHJlLsQtLG1uUVdZstZA",
+      "text": "i think it is fascinating that Ai relies on computational automation just like people do. it does not want to do the math it would rather get a calculator.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RicardoAum",
+      "author_id": "UCEcanB7wSWUsE5FGF9hfVAw",
+      "text": "That dude is just a grifter. He is using the same rethoric of an inflamatory commetator on any subject.\nHe knows this will give him some spotlight and create a following that he can profit from.\nThat is always the case in any subject. What amazes me is that it always work, because intelligent people seem to always lack the capability of ignoring dumb people.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@solarapparition",
+      "author_id": "UCtbe2xN67O18koOlNvw7dTA",
+      "text": "That offhand reference about planes at the end is apt. Yes, it’s true that planes can’t fly in the same exact way that birds can; the conditions for takeoff, landing, and sustaining flight are all different and often more limited; but that isn’t an argument that planes cannot fly.\n\nI’m autistic and have ADHD, and a lot of times I can’t do some simple things that others might take for granted. And a lot of times the attitude in response is something like “if you can’t do these things in this exact way I’m giving them to you, you must be stupid. Everyone else can do them”. I don’t think GPT-4 has feelings to be hurt, but boy, does it feel grating as a human to see the author take the same unproductive attitude.",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@liquidpebbles",
+      "author_id": "UCBy1dx3Cwk53Xx5rweh6IHA",
+      "text": "Lead, follow, or get out of the way is such a dumb thing to say. Critics are an important part of progress.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wisdomjamin5297",
+      "author_id": "UCS-9-mpmbsxhNBbOx7ZOo8A",
+      "text": "The Author's a typical example of blaming the tool instead their own incompetence",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Khari99",
+      "author_id": "UCFuQsj0iT7v5UWkmKbr7Y9g",
+      "text": "Lol as someone who uses GPT4 to code, saying that it doesn't know how to reason is insane. Coding requires quite a bit of reasoning and even though it doesn't always get it right, GPT4 is able to come up with things I either would not have come up with or it would take me significantly longer to find the solution. Sure some of my coding problems have answers found on the internet but others are very complex and extremely unique to my situation. This is just a naysayer that thinks he understands what is going on better than everyone else.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shortstud",
+      "author_id": "UCT6GapoxeqrlzrzZ_g863Vw",
+      "text": "SMOKED!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@videob1962",
+      "author_id": "UCQdoS4zLGt6kc3qIGLQG2tw",
+      "text": "You go Wes Roth! I really appreciate your sense of humor!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cubertmiso",
+      "author_id": "UCkwtByC5ss94zosSOltKSqQ",
+      "text": "Not a huge fan of two narration system.\nOne narrator sounds very deep, while the other is really light. This mismatch makes it hard to find the right volume – it's either too low or too high. \nI've tried listening in a quiet room at night using speakers and while jogging with headphones.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@terjeoseberg990",
+      "author_id": "UCBj1IzeKJBBgJaeaDfqvOKA",
+      "text": "The fact that most people are stew pid doesn’t prove that GPT4 can reason.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": ":hand-pink-waving:",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calebweintraub1",
+      "author_id": "UC7T9wMfwzQIaPoiWbN50sBw",
+      "text": "Nice work",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SuperFinGuy",
+      "author_id": "UC4DVSVI8msm4mAQcyc6EKkA",
+      "text": "Following instructions like executing Boolean and arithmetic operations is not thinking, those are rote answers. Thinking per se is cognitive abstraction. If LLM's would be able to correct or change its statements or conclusions based on information that would be thinking.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mariokotlar303",
+      "author_id": "UCqZc14ptX4qGmaGEG_98maA",
+      "text": "Fantastic debunk!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@isajoha9962",
+      "author_id": "UCxj4PGHEmpY1dAS_msX1mHw",
+      "text": "Shit in shit out kind of beat. 😇 Quality of context might have been wrong, due to some assumed thinking by the \"anti LLM master\"? 🤔",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FunwithBlender",
+      "author_id": "UCzxG603F9Fnp_sppcArCzBw",
+      "text": "I am pretty sure the dude is a troll, most academic papers are not worth using for toilet paper",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@barakeel",
+      "author_id": "UCUySGNfdAhhnoymw-jWAG5Q",
+      "text": "LLMs reasoning is like a dream. They are so incoherent for now. It's like they have intuition but no reasoning loop. The chain of thoughts prompt helps a bit but it still feels very far from deliberate reasoning for solving a problem. It's like they are on autopilot without any sense of reflection. So in this sense, the LLMs can't reason yet. I have yet to see a LLMs make a computation realize it is wrong about its earlier assumptions and continue looking for an answer.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielrodio9",
+      "author_id": "UCdbgqGG_UeXPNAvyry-H0-w",
+      "text": "If, based on cognitive psychology, we ask the question of whether LLMs can use abstract hypothetical deductive thinking, then one must investigate whether LLMs can imagine hypothetical scenarios that go beyond the data it has been trained on. The only way one could test this is by training LLMs with data that does not contain the test material.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@puliverius",
+      "author_id": "UCmY04pLF4eGEmnQ7_fmdbZg",
+      "text": "You must take into consideration that the model is still evolving and chatGPT will probably give you different answers after a month... They are constantly looking into wrong answers and trying to fix that, so ...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michalchik",
+      "author_id": "UCnicqLBELyfSpPi1jN7DprQ",
+      "text": "I think by and large you are right and that GPT-4 in it's current state can engage in meaningful forms of reasoning. I think some of the descrepancies are attributable to changes and updates and maybe time of day power availability differences. \n\nBut importantly I think that your customizations contribute to its functionality which is not pure LLM behavior.\n\nAdditionally I think it fails the 3x3 grid problem. Is you were able to identify the problem and give it the critical facts necessary to solve the problem, but that's a form of cheating. It wasn't as you said, a language problem. It was a knowledge, problem solving and meta knowledge problem. It did not know that adjacency is commutative and it did not know that when given an unfamiliar problem like this you need to first the implied rules not just the explicitly stated rules and their syllogistically derived corralaries.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amparoconsuelo9451",
+      "author_id": "UCVmyoDbwlZ4db9E5K1dak_w",
+      "text": "I don't mind if GPT can't reason. It can still help me in many ways. But I don't have the dollars to avail of its AI services.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kabukibear",
+      "author_id": "UC5yBPmbNAQXoMiHYrKGNPOg",
+      "text": "The bias smeared all over that paper is plain to see. The tone and word choices are pointed and come across as smarmy and self-important and the author clearly had the conclusion decided before they ran the experiment; they were simply finding ways to…well I was going to say prove but that’s too strong a word…IMPLY that gpt4 can’t reason.\n\nBecause you’re right, most of these aren’t even reasoning problems. Like that multiplication problem…the only bit of reasoning any person generally does there is “better get a calculator,” or more broadly a “tool.” That’s the reasoning bit of it and it’s exactly what gpt4 does.\n\nIt’s like the researcher has never heard of prompt engineering or, if they did, thought it was just a fancy word for writing a prompt. \n\nAll this paper showed me is a researcher who doesn’t really understand how to use the thing they are both researching and researching with. I don’t know whether to chalk that up to ignorance about the tool or a PEBCAK error.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JustforEli-pg8tm",
+      "author_id": "UCPAhdj5VxNHWz5G7_78IChA",
+      "text": "Sorry but your both wrong and both right. Using GPT all comes down to what prompts you use and you used a specific type you have found that helps with resoning. He didnt seem to show what prompt he was using if any at all, for GPT to answer the questions. Use of all LLM's comes down to knowledge of how to use prompts",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zsi",
+      "author_id": "UCFLhgQr850BemX8YgUg8V6g",
+      "text": "Selecting \"two random numbers\" is not reasoning. It is a task. I have countless chat conversation histories where GPT4 simply gets reasoning wrong despite all attempts to have it go through and dissect each step and hidden assumption. Code Interpreter is an attempt at adding a reasoning component, but that is code and hence logic. But, the debate is around GPT4 itself as capable of reasoning. Try getting GPT4 without code interpreter to reason it's way through mathematical set theory. Good luck with that.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lairdpeon",
+      "author_id": "UCyo2PsDSeXeV2Eg1seRK4Kw",
+      "text": "Nope. There are geniuses in the field of AI who agree that AI can likely reason beyond what we can understand.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FriedNoodlee",
+      "author_id": "UC6AbVINA6xYSK5EeAfARW3w",
+      "text": "For the math section, I think it could be more constructive to see the way GPT4 processes this on its own without whipping out the calculator. It was a little irritating to just say that we can't reason because we don't want to use a calculator. I think it's reasonable to want to see the reasoning behind GPT's thoughts on the math, instead of its thoughts on the calculator's thoughts on math.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ewallt",
+      "author_id": "UCFYHdqGswnwfnsALlGlWZDQ",
+      "text": "My original reaction was of course it can’t reason. How would that be possible? You can ask it itself if it can reason, and it will tell you it can’t. It’s a computer program. It responds to patterns. That’s what it does, and it tells you what it does.\n\nHowever whether it reasons or not isn’t necessarily relevant, as what’s relevant is the responses it gives. If the responses are correct, why would it matter if it’s reasoning or not?\n\nOr, to put it another way, it could be responding in a way that’s indistinguishable to humans from reasoning. If that happens (and it no doubt will, it’s already on the road to that), then, again, why does it matter if it’s reasoning or not?\n\nI think the question to ask is not if it’s reasoning, but if it can solve problems that require reasoning (at least in humans).",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@benprytherch9202",
+      "author_id": "UCSSNIDVbvNFCyAVc1FxsivQ",
+      "text": "I'm in general agreement with the \"GPT-4 Can't Reason\" paper, and I appreciate seeing this strong and reasonable critique.  Here's what I think the video misses.\n\nThe greatest strength of the paper, in my opinion, is its emphasis on how GPT-4 errs when it errs.  We know it's gonna err sometimes, and of course this isn't itself noteworthy; intelligent people err too.  It's the details of GPT-4's wrong answers that give off a \"stochastic parrot\" vibe.  Read through the back and forth dialog in the paper, especially what GPT-4 starts saying after giving its initial wrong answer.  It prints attempted solutions and then gives descriptions of its solutions that contradict what it just printed.  It guesses wildly, generating text that has the superficial structure of an explanation but means nothing.  The critque in \"GPT-4 Can't Reason\" is not just that it gets answers wrong.  The critique is that it devolves into printing incoherent nonsense when asked follow up questions.  This is what benchmarks cannot convey.  If GPT-4 is actually reasoning when it appears to be reasoning, why does it so quickly lose all these reasoning abilities in response to small changes in context and wording?  \"Humans make mistakes too\" won't cut it - read the paper and ask whether you think humans make mistakes *like those*.  Especially humans who just demonstrating impressive reasoning abilities to a nearly identical problem?  GPT-4 does this all the time.\n\nIn this video, GPT-4 is given big hints, advice, and clarifications that help it come to the correct solution.  In the furniture example, it's given a very strong hint that D needs to be by itself in the top row, and a pretty good hint that E needs to be in the right column, and then is given a \"clarification\" regarding the definition of adjacent that adds zero additional information regarding what \"adjacent\" means.  The first clarification of \"adjacent\" is a complete definition.  If that defintion doesn't make sense, the second clarification can't make sense either, since it depends upon the definition of \"adjacent\", and defining it both ways gives two perfectly logically identical statements.  So, why was this helpful?  I strongly suspect it's because additional clarifications always follow incorrect answers, so GPT-4 knows to try something else.  Also, note that the reasoning it prints in this video (go to 15:59) contains errors: it asserts there are two remaining cells in the middle row when there is only one, it asserts without justification that E must be in the last column (this ends up being true but showing that E cannot be in the 2nd column requires some extra steps), and it says that its two solutions are \"the valid solutions\", even though there are many more than these.\n\nOk, so why am I doing all this nit-picking?  After all, a human being might mostly solve such a problem properly, but make one or two minor errors when asked to write out step by step reasoning.  Doesn't GPT-4 deserve this same benefit of the doubt?\n\nMy answer is \"no\", on the grounds that we have an extremely plausible alternative explanation for how GPT-4 arrives at correct answers, one that doesn't apply to human beings.  It is that GPT-4 simply works the way it was designed to work.  It's a generative machine learning algorithm that was trained on most of what can be found on the internet plus lord knowns whatever else (OpenAI won't say).  These algorithms use patterns in the text it's seen (often very complex patterns!) to optimize a phenomenally large network for the purpose of predicting the next token.  There's more to it, but that's the gist.  So, we just saw GPT-4 get something almost right (but with some non-trivial errors mixed in), after being given the kinds of hints that a pattern seeking algorithm can readily take advantage of, and we have two explanations: \n\n1) GPT-4 is has somehow acquired an unexpected ability, akin to a human ability, and we don't really understand why on account of our incomplete understanding of the human mind and the challenge of interpreting specific output from a massive artificial deep learning network.\n2) GPT-4 is operating as designed.\n\nNow, I can't prove that 1) isn't happening.  Maybe somewhere in all the mystery lies the as-yet-unknown mechanism by which predictive algorithms develop broader inferential powers of the kind we recognize in ourself.  But maybe not.  My argument is basically Occam's Razor, which isn't deductive.  But it's compelling.\n\nAnd this is why the long chat logs in \"GPT-4 Can't Reason\" are so important.  They are packed with examples that look far more like 2) than 1).  LLMs routinely swing back and forth between being unable to grasp extremely simple concepts and being able to give detailed and correct explanations of very difficult concepts.  This would be pretty weird if it was doing something anywhere near the ballpark of what we recognize as \"reasoning\".  It's not the least bit surprising if it's mindlessly generating plausible looking text using statistics.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@movsesghazaryan1020",
+      "author_id": "UC_ivXJNKgbCeRwzCClM0gzg",
+      "text": "ironically the author is the one who can't reason",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pile_of_kyle",
+      "author_id": "UCUG9XPAAdovPfT_G17oaTeg",
+      "text": "LLM non-believers are so cringe",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DCinzi",
+      "author_id": "UCUS21ad_mNjfdjllknJqCcg",
+      "text": "I do not  see how his statements implies that LLM \"believers\" can not reason. And since this assumption is made in the very beginning of the video it invalidates so much of what you say afterwards, generating a inevitable mistrust toward your approach. And trust me I am totally an LLM believer",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DavosJamos",
+      "author_id": "UCXLobDEZmvsAni1OLZBk1GQ",
+      "text": "Glad to hear Gary Marcus called out. Seems like a typical social climber. Somehow inserts himself everywhere and even gets in front of Congress but doesn't actually add anything technical and even offer original critiques.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattizzle81",
+      "author_id": "UCJzBquRl8v5OG5HAOOQZBKQ",
+      "text": "Ugh, Gary Marcus again. What a pretentious guy.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vitalyl1327",
+      "author_id": "UCamxPGP0MZeFSYTQFaOFZgw",
+      "text": "Who would have thought? Stochastic parrots cannot reason. Why would anyone expect an ability to reason from a glorified Markov chain?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ore_bear8045",
+      "author_id": "UCKD9W8eLs75I-toDzW-edFg",
+      "text": "what a waste of time",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GodbornNoven",
+      "author_id": "UCzhWz5E3MGb0z_Hp16ylEFg",
+      "text": "GPT-4 is capable of reasoning but i don't believe it's human level reasoning just yet. Bing still fails at the water jug problem",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Billy4321able",
+      "author_id": "UC8z7dacCfAL0rS2JhBWFm1Q",
+      "text": "Okay Taco Bell employee number 3391112, how then do you expect us to reconcile this demonstration of yours with the utterly illogical and fantastical way LLMs get things wrong? As incredulous as you, or hell even Gary are being, I don't think you'd disagree with me when I say that LLMs don't think the way people do. If a student came up to you with a problem and was wrong in the same way that an LLM gets problems wrong, you would suspect brain damage. The adjacency problem is a good example. If a human didn't understand that A next to B is the same as B next to A, then you'd rightfully be concerned. The problem was not ambiguity, it was the lack of a model of the world. Just because you don't know where in the training data a similar task was found, doesn't mean that it isn't just copying from it. This is what happens when you take a chunk of data far too large for humans to analyze quickly, and then you start attributing magical traits to it every time you don't understand how it solved a problem. The default assumption for LLMs is that they don't know. Everything they say is just a prediction of the next token,so they are literally just guessing every time. If you whip something into shape with enough right and wrong answers, eventually it's going to appear to know. The reality is that you just molded it into what you want to see. Just think about it this way. Logically speaking what's more difficult, creating an intelligent problem solving machine with true reasoning capabilities, or creating a machine that appears to be smart most of the time? I mean is it easier to photoshop a picture of you, or is it easier to actually put the time in at the gym to build muscles? I think the answer is obvious. You're basically being catfished by a machine and you're mad about it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

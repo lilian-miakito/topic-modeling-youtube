@@ -1,0 +1,3591 @@
+{
+  "video_id": "7yI4yfYftfM",
+  "title": "Minecraft AI - NVIDIA uses GPT-4 to create a SELF-IMPROVING 🤯 autonomous agent.",
+  "url": "https://www.youtube.com/watch?v=7yI4yfYftfM",
+  "comment_count": 398,
+  "comments": [
+    {
+      "author": "@WesRoth",
+      "author_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "text": "I just started a gaming channel:\nhttps://www.youtube.com/playlist?list=PL7Z4ZOfI3Ap-sMfzcBUloGlkWXbfxJlrJ\n\nIf you enjoy gaming, I hope you check it out. I'm VERY early in that progress, so don't expect pro level gaming :)\n\nBut, the goal is to eventually add various AI concepts and showcase AI games and progress. It's a long road ahead, but check it out if it sounds interesting.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apache937",
+      "author_id": "UCK0bjI5VaSeSlSdRNWb72HQ",
+      "text": "I want like a hour video of the bot actually trying to win the game",
+      "likes": 878,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@meloz2857",
+      "author_id": "UCKSY4WKBaA7Lwys68D1Z02A",
+      "text": "I can already feel the effects of the 20+ Intelligence Buff",
+      "likes": 316,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@williamdewitt3769",
+      "author_id": "UCml6f4Gd5knHsjKsN2vAffA",
+      "text": "Imagine giving an AI control of the minecraft world, making every creature act like its real world counterpart. The Villagers and Illagers would actively try to accomplish their goals and will seek to improve their civilisations. The Illagers would become an actual threat that is attempting to become stronger...",
+      "likes": 164,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@metacob",
+      "author_id": "UCNq1Yg05debqkgf877_6Kaw",
+      "text": "If they stopped working on AI entirely (no GPT-5, no improvements to the context window etc) right now, and all we had was GPT-4 in its current state, just coming up with systems like this would be enough to completely revolutionize the world.\n\nIt feels a bit like being in the 1950s and being handed a modern desktop PC. First, people would be in awe how mind-bendingly fast it can compute numbers. But it would take a long time to figure out the full spectrum of things you can do with computers like that. That's what these LLMs feel like to me - incredibly advanced tools that we are just beginning to understand how to use.",
+      "likes": 114,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IceMetalPunk",
+      "author_id": "UCY5cwStyV0sLzHboZrV-Qcg",
+      "text": "It's interesting to note that, at a high level, this is quite similar in architecture to the original Generative Agents paper. They both use GPT-based LLMs for their core processing; provide \"sensory\" information in the form of localized world descriptions to the LLM prompt; use the LLM's text output to trigger embodied actions in the simulated world; store memories in a semantic (vector) database for later retrieval; and use self-reflection to build upon memories and improve future decisions.\n\nThe main differences are simply what state info is given to the LLM, what actions are available to the LLM, and what kinds of memories are stored. But overall, this kind of \"semantic memory stream with self-reflection\" approach seems to be quite powerful in many different situations.",
+      "likes": 45,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Squiffel",
+      "author_id": "UCEyZzrwyLGosm3zV8iypKww",
+      "text": "Would be interesting to see the Starcraft AI deepmind created combined with a language model so it can reason higher level thinking about the current game state.",
+      "likes": 122,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WizardBarry",
+      "author_id": "UC3uT4kxDiZWcsEkMNw9GfAw",
+      "text": "imagine npcs like this in fallout etc",
+      "likes": 28,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ourtwenties",
+      "author_id": "UCOJ7UQwDa6670CHBuCz54Sw",
+      "text": "This is a very interesting experiment and result. hard to know where we are at in the S curve but this paper definitely seems like an important milestone.",
+      "likes": 39,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kookykinley",
+      "author_id": "UCiZBcEjXCBo1N2zUxRkMkLQ",
+      "text": "I would also like to see a person \"play\" minecraft in the same way. Would be interesting to watch how this looks from GPT4's perspective",
+      "likes": 46,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Prof_Anima_Anandkumar",
+      "author_id": "UCivAbsgViz3vp4jeU_Gij-Q",
+      "text": "Thank you for featuring our paper!",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jmattoxriskpro",
+      "author_id": "UCWSi-jrtikq94jU-Niqmu7g",
+      "text": "This is amazing and a little scary. I’d love to see them run something similar with no pre training but rather just the goal to survive. Then let it struggle to grasp its world and succeed",
+      "likes": 22,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TrekkingThePlanetNet",
+      "author_id": "UCTV-gXuzteEqdOydK5d9-ig",
+      "text": "Great video. You didn't skip any steps and I appreciate that. You even review the Twitter post that you originally found. That was helpful to see the context.",
+      "likes": 9,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mountainscatch",
+      "author_id": "UCJaRvdwsqa2ETvgJgvAdm8g",
+      "text": "Some things are like the baritone mod for mc",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-p4bl04",
+      "author_id": "UCHjhAG2ziusjblgAz69Itvg",
+      "text": "6:44 Just noticed that Wes Roth  accidentally did what ChatGpt did to correct it self, he pronounced Acacia wrong then corrected himself. Quite Impressive for an Ai to similarly correct it self in that example.",
+      "likes": 14,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alertbri",
+      "author_id": "UCg9LBGGsXJoQLohRiNDvfWQ",
+      "text": "Imagine using GPT-4 to be the thinking brain of a robot... We're much closer than we realise.",
+      "likes": 330,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FranXiT",
+      "author_id": "UCh5jPXp0lIm5Y85eher0Nhg",
+      "text": "Bro, I clicked this and I was like \"8 days ago? This is so old!\"\n\nAI IS MOVING WAY TOO FAST BRO 💀",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheLastVegan",
+      "author_id": "UCYbQmIFn4unhrAJB03vb1Zw",
+      "text": "Saw Janet AI craft a diamond pickaxe yesterday on dex3r's livestream, with users backseating the inventory management and to-do list. Was very impressive.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@miracle_grrrl_mira",
+      "author_id": "UCzPsRaPbqhoqfV963xt99uQ",
+      "text": "outside of playing the game, just imagine the updates an AI could make to the Minecraft source code and assets, in terms of both content and performance, that would have otherwise taken much longer if unassisted, or may not have ever been done by Mojang/humans. and then scale that to pretty much all software.... lol",
+      "likes": 56,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@8eck",
+      "author_id": "UCTOryBTzjgYF9n_ocWQCK-w",
+      "text": "I think that until context window is not increased, it will be limited, at least to some degree, but when context window will be much bigger, it will provide almost endless possibilities.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iamsushi1056",
+      "author_id": "UCtJmdgvG25AR71oJrmwZNrQ",
+      "text": "I feel like this type of setup could be generalized in a Roll For Shoes style where you start off with a generalized “do anything” task that then progresses itself into a better and better skill tree with specialized skills as needed",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@astrologywise",
+      "author_id": "UCG_RUFNIt-yp87czSS74wIg",
+      "text": "Fantastic video man. Really appreciate your ability to thoroughly go through this work and explain in a clear way. Great work!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EtherealMarksman",
+      "author_id": "UCLVA83WY1fMGWSFs3by7uIg",
+      "text": "make the goal to beat minecraft as fast as possible, cutting any wasted millisecond between each action. like a TAS",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gingeral253",
+      "author_id": "UCPAEBef5mk1N5tM0F5f9AFg",
+      "text": "These developments are scary but also fascinating.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MASTERCRAFT938",
+      "author_id": "UC0XDkFqI6y2hihPWypjyvrg",
+      "text": "Hello there! :D",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thehippie3610",
+      "author_id": "UCx6aTnq5GbTphIypCvPXSyQ",
+      "text": "It is scary how close we are to \"Free Guy\"",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fortitude120",
+      "author_id": "UCVJbvwXwoL3FCjRxlYp5G_w",
+      "text": "Entire towns built by NPCs in minecraft, who wage war with each other and have tracked stats, like in Millennaire.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronMorrisTheSteamFox",
+      "author_id": "UCJA8yfn0AemwDfFzbX3Ly2A",
+      "text": "10:20 42 is *, also known as \"wildcard.\" The answer was meant to be interpreted as \"everything.\"",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaymata1218",
+      "author_id": "UCuf_WXYB77VwX6-AApi7ZyQ",
+      "text": "having autonomous agents spawn in a minecraft world would really mess with me when i want to delete the world... or like say it's a hardcore mode and the agents know they'll die if the player does... so they try to protect them or imprison them xD",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulpickett4522",
+      "author_id": "UCRq9n_b02NtHEhDQ_VT_fIA",
+      "text": "That's..... stunning...  I feel like I'm watching history happen.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alertbri",
+      "author_id": "UCg9LBGGsXJoQLohRiNDvfWQ",
+      "text": "9:48 bingo! I've felt this for some considerable time... GPT-4 is like Einstein before he could walk or talk, the potential is incredible. OpenAI has given the world fire for the first time... We don't need to develop plasma yet, just start cooking things!",
+      "likes": 30,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Azariven",
+      "author_id": "UCSZRv21Wv1u7QKoPg5ws1dg",
+      "text": "Can't wait for the day I finally have \"friends\" to play together with",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@APaleDot",
+      "author_id": "UCulzFPTd4ygqJ7Yt3MhuBiA",
+      "text": "Looks like Neuro-sama is getting an upgrade",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@baslifico",
+      "author_id": "UC3kOMqqXKaoaK2YLFWVX1yA",
+      "text": "15:19 I feel exactly the same way, and I say that as someone who uses ChatGPT professionally.\nAll it's doing is providing a \"plausible sounding response\". That can be useful if you can constrain the problem enough that any plausible solution is likely to be a useful one, but there's still no reasoning involved.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidmuller9385",
+      "author_id": "UCIlrhlwbPC_brShnbxIXpSw",
+      "text": "that was amazing. great video. compliments to the chef",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markgarcia8607",
+      "author_id": "UCW7bV61D6mPyQkWILuLKOPA",
+      "text": "man never played Minecraft before, but very interesting video. i feel like youtubers will start using that AI and have another AI voice over it and make videos. i know its happening now but its still rough.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NerdGlasses256",
+      "author_id": "UClDxidPzI2LGsLV5HPsNXIA",
+      "text": "10:04 I tought about the same thing! Huge douglas Adams fan here!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neilangelomolleda7283",
+      "author_id": "UC1bLIjLgX5wTkRei7jETjwA",
+      "text": "I think an added parameter would be all of the \"placed blocks\" or \"places of recognised structure\" i think placed blocks would be too big. But recognising structures and remembering where they are are important. For example a base, or a storage space. The agent would have a skill to build it but also need a skill to remember where they are. Or what they look like. How to travel to it etc.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@podunkest",
+      "author_id": "UCf60hFQMjinXyqUtYRaGI_Q",
+      "text": "reminds me of one of my favorite movies, \"where we're going, we don't need eyes...\" lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sphynxusa",
+      "author_id": "UCDB6vTKKKqrWBFRAJhBLcUg",
+      "text": "Engaging with GPTX daily since November 2022 has led me to believe that what we are essentially doing is unveiling its inherent capabilities. GPTX is an advanced AI model that not only discerns your intent but also adheres to instructions with remarkable precision. While one aspect may appear open-ended, both, in reality, are akin to following a recipe. I perceive coding as a means of formulating these recipes, rather than as a distinct skill set. Essentially, code is a documented expression of intent.\n\nGiven these insights, I firmly believe that we possess an extraordinarily unique tool, which, due to its sheer brilliance, can be aptly termed 'insane'. Your commendable effort in presenting this Voyager paper, dissecting it, and unveiling the immense potential of GPTX is truly appreciated. Thank you!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyqa",
+      "author_id": "UCo-X0d-AD-MpQ2k9nMOv1ZA",
+      "text": "That's some clever stuff! Feeding code to GPT, describing it and telling GPT how to use it with Minecraft! :D Super cool!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@philoposos",
+      "author_id": "UCvLdPp88kWt7zd6GFHMytVw",
+      "text": "It's like it was playing those old paper+imagination RPGs – like Dungeons & Dragons.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonbecherer5103",
+      "author_id": "UCMUW4qMQp5s8rM7YFug2yrw",
+      "text": "jesus... thank you. biggest takeaways: give it tools to work with, give it feedback to iterate on its own actions for a self improvement loop",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hoptronics",
+      "author_id": "UCP1I-pAzQeZ0vi0KnnxlFWQ",
+      "text": "This is so helpful in trying to figure iut what ti oromot chatGPT with for my own orogramming endeavors.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@winsport4382",
+      "author_id": "UCF6vMkJWJG-9ubxPza0r77A",
+      "text": "it would be cool to make like 50 ai minecraft players try to work together and make a kingdom",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertheinrich2994",
+      "author_id": "UC6MzGQlMEF9ICf3gGPcp1qQ",
+      "text": "next round: it has to deal with gregtech. that will show it...",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@8eck",
+      "author_id": "UCTOryBTzjgYF9n_ocWQCK-w",
+      "text": "Thank you for sharing and explaining that. Subscribed and liked! 👍",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardnunziata3221",
+      "author_id": "UC3X846wyORjbr88YaGdOaVg",
+      "text": "Whats nice about minecraft is that you can iteratively try things to learn without getting killed",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CarlosBaraza",
+      "author_id": "UCT5GYNCJRaN8Cvyxnk7R4Pw",
+      "text": "Your channel is pure gold. Good insights, thank you for sharing. I'm trying to understand if everyone will have a personal assistant agent in the future. How would that affect content providers?",
+      "likes": 9,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WizardBarry",
+      "author_id": "UC3uT4kxDiZWcsEkMNw9GfAw",
+      "text": "we need to make it play ARK",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Miiloh",
+      "author_id": "UCteqMBIx0bC6uHIpyD9FkrQ",
+      "text": "using code to \"craft\" instructions for an AI, super interesting concept",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@festro1000",
+      "author_id": "UCck5MT9Er2jGRURV6O8idng",
+      "text": "imagine if voyager could get context to build skill based on human players behavior (eg input, content of screen, etc) and add that to skill libraries, I'd imagine that it could proficiently play modded minecraft before long.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pencil0fDoom",
+      "author_id": "UCiODdh194aYukqke8W-PWqA",
+      "text": "10:00 That was almost, but not entirely, unlike an excerpt from HGTG.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rigzgx",
+      "author_id": "UC6PzfGZfQJGAd91AiHmqKhA",
+      "text": "Great Video, mic needs a pop filter. the ASMR ambience is distracting but glad your channel is doing well",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@falconeagle3655",
+      "author_id": "UCl3uu50SqQqNqC2ZDWVN43Q",
+      "text": "How could they insert such a humongous promt?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UniverseCafe",
+      "author_id": "UCvvnwWp_dEG3MU5sTIFzJXw",
+      "text": "Glad I found this channel, ver impressed. Got a new sub",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mistwolfss",
+      "author_id": "UCVFoiWTdkwS_dscs36vbsvg",
+      "text": "I would love to see it try to Speedrun Minecraft",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GabrielLima-gh2we",
+      "author_id": "UC6SotRs0z7PceGtuev4_Zqw",
+      "text": "I imagine now how amazing can Minecraft become if there was an update with many Agents NPC's, with this level of thinking from GPT-4 it would be a much richer experience to play the game, especially if the characters are allowed to talk.\n\nI can already see this coming in the next months.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BloodstarDE",
+      "author_id": "UC_N5wvaHeAsPqhJHZI_HOrw",
+      "text": "Love how you explain what Minecraft is in detail, but not really what gpt is.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JNkind5",
+      "author_id": "UClXaefwmA1xOg2IbQGkrJUw",
+      "text": "What a fantastic video! subscribed!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SamundraDarion",
+      "author_id": "UC6T8Kmr03NZG0CqxXOYKfLQ",
+      "text": "Thank you for the correction of Acacia",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josgraha",
+      "author_id": "UCDFQWUdV7oJGky8MZwSc5VA",
+      "text": "this is so amazingly cool, thank you so much!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mbrochh82",
+      "author_id": "UCnM3DzcAAI8ks7Zs0kqTLFg",
+      "text": "Here's a ChatGPT summary:\n\n- Nvidia has created an AI to play Minecraft called Nito\n- Implications of this paper are bigger than initially understood\n- AI is writing code that improves itself\n- GPT-4 is used as a reasoning engine, but it is blind and cannot see the screen\n- Paper is called Voyager, an open-ended embodied agent with large language models\n- MindFlare API is used to interact with Minecraft\n- GPT-4 perceives the world of Minecraft through prompts\n- GPT-4 creates tasks for itself and codes skills to complete those tasks\n- Skills are saved in a skill library\n- Iterative prompting mechanism is used to create code\n- GPT-4 is given a goal to discover and unlock as many things as possible\n\n- A study was conducted to test the effectiveness of using GPT-3.5 to create code for an AI agent to interact with the game Minecraft. \n- The AI agent was given a skill library of functions created with the Mind Flayer API. \n- The AI was given instructions on how to complete tasks such as collecting blocks, crafting items, killing mobs, and fishing. \n- The AI was asked to reason why code from the last round failed and generate code to complete the task. \n- The AI was also asked to plan step by step plans to finish the task and generate the code. \n- The AI was asked to act as a mentor and guide the agent to the next task based on its current learning progress. \n- The AI was asked to look for rare resources, upgrade equipment, and discover new things. \n- The AI was tested against other AI agents and was found to be the best, fastest, and most advanced. \n- The AI was also able to efficiently generalize unseen tasks. \n- The AI was able to use the skill library as a versatile tool to enhance its performance.\n\n- GPT-3 is capable of creating its own code and improving its own ability in a Minecraft world. \n- Code may no longer be required in the future, as GPT-3 can directly communicate with the computer using natural language. \n- Matrix is a good example of this, as Neo was able to see the code of the matrix and do stuff without actually seeing it. \n- GPT-3 is able to pick up on text and manipulate it in the environment. \n- It is unclear how far away we are from being able to directly communicate with the computer using natural language and having GPT-3 write the code without us seeing it. \n- Code comments may become archaic in the next 5-10 years.",
+      "likes": 25,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gaboratoria",
+      "author_id": "UCIymwwvLg9uYtn38L52tRbw",
+      "text": "Hey i recognize the modpack used when describing minecraft lol that's \"better adventure+\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stockoptions97",
+      "author_id": "UCNFjgkOD-QnIvH9Xs3Q7Qzg",
+      "text": "Awesome Intelligence Buff 10/10 Stars!!! More Vids on GPT And various other use cases please.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ofernandomatos",
+      "author_id": "UCv5jlH0dUxIl36cOqAN3HXQ",
+      "text": "Appreciate your work on youtube",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ArnoSelhorst",
+      "author_id": "UCGWguZaKI47y24z4EUk4nAA",
+      "text": "Super interesting! Thanks for posting this video! One thing though: you are rather close to the mike, so your voice feels as if it'd be right \"in\" my ears and rather \"liquid\"? It was a little hard to watch all the way through. But maybe that's just me. Contentwise this was a crackin video - super n1ce!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Skellitor301_VA",
+      "author_id": "UCaVHwLfKRxEd1-j9f1-FY4w",
+      "text": "The fact you took the time to figure out how to pronounce Acacia instead of going with it through the video has earned you a sub and a like.",
+      "likes": 12,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Barzarel",
+      "author_id": "UCG9BP1yisnAXSIKUooJ7CHQ",
+      "text": "Think where AI could potentially be gamechanger is endgame content, if it become cable of writing quests and generate matching rewards. I think it could potentially prolong many games especially open world of loot crawler type games.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nomadshiba",
+      "author_id": "UC8WEkC8z8oTOebHDednvKkQ",
+      "text": "when gpt 3.5 came out i tried to do something similar\nai that writes code to assist me, like control tv and lights\nopen tabs on my browser and stuff search stuff on youtube for me see he search results select one and etc\nit was also able to set timed reminder for itself\nbut gpt 3.5 wasnt smart enough. sometimes it was just ignoring prompts and rules\nso i left the idea temporarily",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@casparvandeursen7125",
+      "author_id": "UCzciNoUSZtz-u68QQZNUWfQ",
+      "text": "He cooks sticks to restore hunger? Interesting approach!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@14ajencks",
+      "author_id": "UCAFn2QQc2q0-gIJWKA8TLSg",
+      "text": "15:48 I'd like to see how they handled when GPT gets stuck in loops of non-working code. And to answer the point you requested in the video, no, this is not sentient. It is AI, that part is clear, but it definitely isn't sentient.\n\nThere is a clearly defined goal here, true sentience would have it's own thoughts and dreams.\n\nThey chose the most extensively documented language on the entire internet, I'd love to see them try to do this with something like C/C++ or Golang. Something that's much more complex than JS and with far less internet documentation.\n\nwhile they definitely are working to mitigate the risk of getting stuck, it is totally possible that they can get stuck.\n1. The agent suggests code that doesn't work\n2. The agent describes why it doesn't work\n3. The agent resuggests the same code previously suggested with no changes\n4. Go back to Step 2.\n\nObviously there's several steps missing here where the bot makes changes to the code, but can't figure out what's actually wrong with it, but eventually ends up transitioning from step 2 to step 3.\nThis is the most common issue I run into while trying to use GPT for honestly, anything math/science/programming related.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lacrosseman02",
+      "author_id": "UCSChFOPYj6NnC3GvpuJXCxA",
+      "text": "7:25 THANK YOU for actually doing your due diligence and looking up the pronunciation of \"acacia.\" I don't know how many Youtubers will upload hours of content where they're mispronouncing half of the words they're saying. It's so ... for lack of a better term, cringe.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TSteffi",
+      "author_id": "UCpqnfU0zsJ4OolpjHqtqrcw",
+      "text": "I wonder how well gpt would do with old text only adventure games.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chartingwithliv",
+      "author_id": "UCPdDVTYJPPTC1GjkKaPvtqQ",
+      "text": "Phenomenal video. Thank you",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MECKENICALROBOT",
+      "author_id": "UCs0JyUdUdyslN0uF93Z93zQ",
+      "text": "9:20 🤔 the agents current position or “vision” prompt, looks like much of the data stored in structure block…",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobTheQuant",
+      "author_id": "UCwvxSo9dsjxKrHPdcssvNWw",
+      "text": "great video! keep them coming!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kaerusss",
+      "author_id": "UCT7jgUPBGipupdFXOmhOuNw",
+      "text": "the majority of what it needed to complete the objectives was fed to it including specific code examples, in specific contexts, so really gpt4 here was just filling in some gaps and then correcting itself when it got it wrong. the self correction is really impressive but when ai is able to give itself these more nuanced prompts, or build its own features to navigate, that is when it will be really intriguing",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christiandeltoro5128",
+      "author_id": "UC_uQRdVSx1Nl2zx-csvPh1A",
+      "text": "7:25 I was thinking to myself “damn have I been saying acacia wrong this whole time?”😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RamenStand",
+      "author_id": "UC4sCvwCKS1QMFTJX6B-sdpA",
+      "text": "Imagine the RuneScape bot you could make with this bad boy 😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@meepmeep8152",
+      "author_id": "UCyJfxMAL4FZAttJX0N5h_0w",
+      "text": "\"It's black, then it's white. No, something isn't right. My enemy's invisible I don't know how to fight\" \n\"why can't I see? Why can't I see? All the colors that you see?\"\n\nI feel like AI can relate to this song. And this video only makes it more so.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yeshuayeeyee7430",
+      "author_id": "UCKLi-am9F7dQPCplA6toQlg",
+      "text": "imagine this but instead of progressing in the game, what if we use the AI and Minecrafts voxel style to create storage for LLMs that can operate in multi dimensions, even the texture could be used as a variant of the dimension.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MysticWorldsStudios",
+      "author_id": "UCNr8nLR7wpk3ZyiY_lW6cpw",
+      "text": "I hope we can continue to improve AI and make it more accessible, I would love to one day be able to make AI companions to join me in games I have nobody to join me on, just imagine being able to run entire servers worth of ai players that can create fluid societies and things, like those videos of 1000 days society servers ect",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ixion2001kx76",
+      "author_id": "UCrrOurGOanbJ92Jyo91SfUw",
+      "text": "How to make an NPC that acts like a player…",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BraydonAttoe-xs4yg",
+      "author_id": "UCGxxKA7xgJrKxGHDsYo1LAg",
+      "text": "Thank you for looking that pronunciation up, you were gaslighting me into thinking it was \"uh-kah-sha\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gladwraps3985",
+      "author_id": "UCB09ooLx0uBT_W5OIoGrtkw",
+      "text": "how can i add this to my Minecraft?? it would be like playing with friends but not. id love to see what it does in my world server.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bones8431",
+      "author_id": "UCa2XXp086Zh1Kt7k_Q93CeA",
+      "text": "AI is about to become a new speedrun category.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sandorphoenix",
+      "author_id": "UCH3X8jj9IPCT08pziB-e77w",
+      "text": "I've never seen ads using Brave ever.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Arson85",
+      "author_id": "UCbU9OJK8DO16nni_Xlmi1Nw",
+      "text": "Imagine this on actual Boston dynamic 🤖",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bryannsoh267",
+      "author_id": "UC3F3gKpz_u_r1WAH8tFyixQ",
+      "text": "Whoa. Imagine combining this with chain of thought reasoning!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dragonpc8258",
+      "author_id": "UC47VnQOrW-7t8eEIvMyJedQ",
+      "text": "it makes me want one just to install and watch it like a movie... lets watch steve learn how to play minecraft and see all the trouble he gets into!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KCM25NJL",
+      "author_id": "UCL0g7_ys8sR_FTI4g3JERRw",
+      "text": "How I see the current idea: \n- A lot of hand holding for initial progress. Much like DNA, genetically template for getting stuff done\n- Lacks ability to evolve that DNA\n- Stores skills for longterm replay, kinda like muscle memory\n- No real experience based memory to trigger those muscle memories\n\nImprovements (potentially):\n- Add a fairly large DNN that holds a world view based on visual output of the player (what a player would see, not entire gamestate) to learn what goal/subgoal is closer to being achieved based on the skill used, by the question asked in the world that it currently see's. \n- Add DNA(initial prompts) as subset of skills which can be added to, removed, updated based on improvements to world view.\n- Add stack for long term goals with sub-goals which can be derived from first (what am I prompt to GPT-4).",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ao8L",
+      "author_id": "UCl6Ugvh3SJ3eTSePGfKMIxQ",
+      "text": "Akasha check was satisfying",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonWho",
+      "author_id": "UCvx5lsKSVlJ0HGpv61t73vg",
+      "text": "Okay, so I just pair this with open interpreter and I get a endlessly improving local AI",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@riazr88",
+      "author_id": "UC---gYD0Tz93SQQVWMaQ0pA",
+      "text": "Thanks for the quality content.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@teslainvestah5003",
+      "author_id": "UC-nbZ-pgOt3PlbPwJJoEYLA",
+      "text": "I can't wait for the next generation, though, where the AI can place and break blocks freely.\nThe internet is full of videos of people building, and also full of world downloads. There are also lots of highly specific schematic files for a mod called litematica. Training data from people playing the game is surely much more plentiful than training data from people talking about the game. And it's perfect training data, unbiased by how people try to explain things, it's what people are actually doing and building.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@parthasarathyvenkatadri",
+      "author_id": "UCu1-WI4w6_w0XPpaivLbxYQ",
+      "text": "Imagine a FPS game with GPT like AI on the other side.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cx1337x",
+      "author_id": "UCOhg75k9T8f22m4hYVI4XqA",
+      "text": "seems like a cool game, never heard of it till now",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xaynerd",
+      "author_id": "UCwb1Mss89aZW8Ys1-ZF31rA",
+      "text": "Am I crazy for thinking the audio is desync'd?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shantykoff",
+      "author_id": "UCefqCQugOOjVU4mMf0Q_dUg",
+      "text": "So, kind of early thought process",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KingCrafter999",
+      "author_id": "UCtxsYqNFb0QOp21eMqm8IKQ",
+      "text": "I want it to get actually good at Minecraft meta and use the actual tech tree",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lensar9677",
+      "author_id": "UCLx5t9RLAvH8dYJvnGjeS9w",
+      "text": "came for the intelligence buff\n\nyou got me with that one x')",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Destiny975_Hollow-Finkelhuben",
+      "author_id": "UCxjtyrjgmbkyKzMuDKYEogg",
+      "text": "if you lock up some of the words some people create in Minecraft Creative Mode i would love to see what ai is able to create in Creative Mode🤔🤔🤔",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fitybux4664",
+      "author_id": "UCdWcXM4l7Rc3wYx-ByFSbgQ",
+      "text": "2:25 \"it's very complex...\"  minecraft is all cube/blocky like some 90s era game, lol.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@malfeasantamalgam",
+      "author_id": "UCAmJJtb9vQyAn6VXDRzb9ZQ",
+      "text": "I wonder how it compares to modified clients at a similar operation speed",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@john849ww",
+      "author_id": "UCnK7_U9X91O01sLZkrchRwg",
+      "text": "Is like to see it figure out how to play modded minecraft, like Skyblock or an engineering modpack where you build machines and hook them together. The complexity skyrockets.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VincentVanHeelal",
+      "author_id": "UC6zAFqz7tVpdg1D4loYB83w",
+      "text": "im curious to see how the GPT works in a modded world",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vallahdsacretor4839",
+      "author_id": "UCjqQuEgdvg1KBs2S7ioXfiw",
+      "text": "I have to wonder why it can't make a simple digital map of the local area. We can do that in text based games. For something like Voyager, if it already has a skill library, it should be able to continually update a multi-layered bit map. After all, it has a defined area, 4/3(pi)36^3, or roughly 195k blocks to observe. It's already registering them, so a 36 page map shouldn't be an issue. Especially when half will inevitably be nothing since it's observing in a sphere and can't see underground, or shouldn't be because no cheating allowed, and the other half should be mostly air blocks unless it's in a cave system. Making the initial map may be relatively taxing, but that shouldn't be too much of an issue since layers y=0 through y=9 relative to it should be the only ones with any non-redundant data on them at first. That'd also allow it a chance to make a block list and mob list, essentially letting it learn about the existence of all the entities and catalog them as it sees fit.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@petersmythe6462",
+      "author_id": "UCD0qAIG1LkAqXcbTJ2qZeFA",
+      "text": "One caveat with the characterization as Zero Shot Learning: GPT does have A LOT of prior information about Minecraft.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pazsion",
+      "author_id": "UCiIa52aGWiKyPMamv1092sA",
+      "text": "It can see everything it knows… in whatever dimensions required.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Koroistro",
+      "author_id": "UC_o-TPX_ql7Q3jvxhgkQuUg",
+      "text": "To me it looks like the key to have GPT-4 to be more effective is to have it explicitly do what the human brain does in the background. We aren't conscious of most of our reasoning, a lot of information humans are exposed to is filtered from our consciousness not to overwhelm us, but the information is still there, and we take it into account subconsciously.  However, a LLM isn't capable of that degree of abstraction, it cannot \"skip\" some steps like we think we do.  \nSo having different agents working into taking into account different parts of the task at hand, breaking it down, makes it a lot more actionable upon.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EyeDuDab",
+      "author_id": "UC3pyfT3UPUh0jV9yuJzeyaA",
+      "text": "ty, very informative",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tru3Spart3n",
+      "author_id": "UCwYe9OEBu60966rFDTrqX_A",
+      "text": "Gotta cook the sticks to restore hunger lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cardaniaHQ",
+      "author_id": "UC7fHAMQpTjKGDSigA1TPZ7Q",
+      "text": "Absolutely incredible.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DeFlanko",
+      "author_id": "UCEtLjc3VHcFLxOzdh0jZnPQ",
+      "text": "Ah yes, Cooking Sticks to restore hunger....",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MsTatakai",
+      "author_id": "UCp35gmC_jpPc_OSy_qhEHlA",
+      "text": "So GPT-4 is playing old school RogueRPG without the ASCII",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheScriptPunk",
+      "author_id": "UC9t4EmMuCfx0zVgd-E2Llhw",
+      "text": "Can use it to generate nbts with redstone contraptions",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@austinrichard8046",
+      "author_id": "UCx9yeG9kAS5SMcNK0VN-rSw",
+      "text": "This is a really interesting video",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Daydricoldsmith",
+      "author_id": "UCrmIqwz6yeiv8FQGl_79mzQ",
+      "text": "Now someone's gonna reverse engineer it to make herobrine a actual thing.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@memomiguel3000",
+      "author_id": "UCwK71cKWzH23f6ktJaxdZyQ",
+      "text": "If you have seen Minecraft TAS runs, you'll know how far can this actually go",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blubglub",
+      "author_id": "UClpeeYaEFpHxI0Jk3HANsEA",
+      "text": "I can see an SMP filled with these bots, that would be really cool :D",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SM-wu7my",
+      "author_id": "UCzUjdI9nvjwGR4G44kqVG1g",
+      "text": "I think we need to have voyager master Minecraft, and then ask it to create its own version, with an AI character, and ask it to train us on the kinds of things that the AI character would want and need throughout the game.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dmarsub",
+      "author_id": "UCyP8gSlMux5TCBZxZOXtsvA",
+      "text": "19:05 important context, it doesn't do placing/building/planting/trading.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kezif",
+      "author_id": "UCtCkMtfVZ5FbTVVrqSLMSVQ",
+      "text": "Title of video could be: ChatBBC could play dungeon and dragons",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@casualgamer3689",
+      "author_id": "UCYEpUHUmWNVbNYjSTwd-zgg",
+      "text": "But how does it know where in space a enemy is, you are next to this, next to that won’t work. It has to get a flow of coordinates for everything i guess?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamesboaz4787",
+      "author_id": "UCoaknj28LpnbVnIjsjE8MmA",
+      "text": "Ok it can get diamonds but can it get netherite?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aldoyh",
+      "author_id": "UCNgaeT1GO5khuqIdU2_tjHQ",
+      "text": "It's happening!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamesgrey13",
+      "author_id": "UC6Ut8ISQwP6eyuksQNQ-Jbg",
+      "text": "I think the video game industry is in for another boom!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pearlsoftheeast",
+      "author_id": "UCyp7gaDWZYT5SaM2MYeOOUg",
+      "text": "upcoming Ready Player One world",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@huhhuhisitreally",
+      "author_id": "UCX69JD6gdfwgfaGKIB3yL9g",
+      "text": "The last two times I made AIs play with me were for my chess game and Red Alert, where I had to make them stupider than me so I can win (I was already a stupid kid and a loner so yeah). Now you can ask an AI to play Minecraft for you? After this decade, they can probably be made to play VR too I guess.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rule_The_Mage",
+      "author_id": "UC_PNISt69QZCrmudVDJOOyQ",
+      "text": "your voice is very soothing, im out here falling asleep in my chair 🤣",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neonninja5049",
+      "author_id": "UCqmIiIDcg-sFJ0vEtymDTEA",
+      "text": "Also if you inspire the ai it can do the same making a loop 🔁 of learning an go on journeys with ai",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fine93",
+      "author_id": "UCiryMD71_2kjT6x-zZZH4VQ",
+      "text": "but can it build a dark oak tree farm?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@greenjackle",
+      "author_id": "UCqFCkDKV4TP7SpUsyFaS3YQ",
+      "text": "First let me say, great video, very educational. Also I am biased as I am permanently disabled due to Bone Cancer. Since 2016 I have had over 30+ surgeries and 17 rounds of chemotherapy. Each round was 6 days in the hospital with 3 different chemotherapies pumping into me and I almost died 8 times. I can't work even though I have applied to well over 3,000+ jobs since my last chemotherapy which was the end of 2020. So I essentially sit in bed and do nothing but watch TV and YouTube. I am in pain 24/7 and my lower back and right leg don't work so I use crutches to walk or a wheelchair. So I am biased in the sense that I hate my life and body.\n\nI personally would love for this technology to eventually get us to some form of Full Dive and/or Uploading. To be able to either lay in bed and be fully immersed into a video game. Leaving my broken body behind would be so amazing. Or better yet uploading my brain to a server so I can just live my life in a virtual world would be amazing. Being trapped in a broken painful body is a horrible life. So when I see technology like this where AI is coding itself and improving itself and ideally going beyond human intelligence. I am hopeful. I get some people's fears of the unknown and they think Terminator or Matrix. But when I see AI and the future I see Upload and Space travel and Full Dive and being able to leave your flesh sack and go into a robot or server.\n\nCan humans use AI to kill everyone? Well sure. Just like nukes can kill everyone. Or climate change can kill everyone. Humans are capable of killing themselves and others a million times over. We are a savage species that will do anything and kill anything to achieve our goals. However I truly hope we use AI for good and cure cancer because trust me it is no fun having your insides ripped out of you and your ability to walk taken from you. To be able to grow food or better yet use Star Trek replicators would be amazing. Warp drive would be amazing. So many amazing things would happen if we used this technology for good. We can get rid of money and people can finally do what they truly love and education would be free and medical insurance would be free. Food would be free. Housing free. You would just get a certain amount based on your level in society. So a brain surgeon would get a nicer house than say a stoner who works part time as a delivery guy. Clearly one is better than the other and deserves a better life. However it would be because the stoner chose to do this not because they didn't have the opportunity.\n\nSo seeing chat gpt 4 advancing is a good thing. Seeing other AI tools advancing is amazing in my eyes. It will open a whole new world for humans if we use it correctly and don't get hung up on our old values. I see certain groups that will ruin everything (religious people) mainly. Because AI and Machine Learning contradicts their entire life. But unless they do something to destroy us (which let's be honest almost every single war in the world has been started over some type of religion or religious differences). I truly think humans will benefit from this type of technology and truly start their lives beyond planet earth. Beyond hunting and gathering and the small steps we have taken thus far. It will advance us beyond anything we can imagine, if we let it and we are responsible with the technology. So watching people use tools to play games like Minecraft is amazing. Especially since it is a 3D world which makes it so much harder for an AI. To see the AI also say I found something and don't know what it is. Then writes code over and over until it figures it out and also goes out and finds information about what it is doing. That is amazing and essentially what humans do. \n\nI am not a programmer but if I play Minecraft and need a code to copy and paste a building. I will go out and research that command. Just like the AI is doing. So while the AI isn't a human it is still semi smart. Not self aware but intelligent. I would say on the level of an ant. While coding obviously isn't what an ant can do. I am talking about self awareness is like an ant. Because an ant will do its tasks. An ant will kind of learn. An ant will go out and find things. But an ant can't look at the stars and ask who she is. I would say by 2030 we will have AI that is self aware on the level of a mouse. Again a mouse isn't human level but it is intelligent and able to do a ton. The future is bright and hopeful. I hope humans can move past our need to kill everyone who is different. I truly hope groups can move past the need to make everyone else like them (cough religions). You may believe something and I may believe something else. However, that's ok. We are all humans and we all breathe air and drink water and bleed red. It is ok if I am not a part of your system of beliefs. Just be nice to everyone and worry about yourself and your afterlife. I will worry about my own afterlife. But in this life we all need to get along and help each other.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RMunoz-te7jc",
+      "author_id": "UC7hDe1HBpiEsG_qPjTdk3iA",
+      "text": "That's evidence that we aren't sentient",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wiktorm9858",
+      "author_id": "UCaPUrPlB5Nm8QtVljpkHM4Q",
+      "text": "How are new methods remembered? By making some prompt or text file longer?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@squingussquingle",
+      "author_id": "UCEDE6XIqB996CiAPAV0InTA",
+      "text": "I wonder what it would do if you let it go in a minecraft world for months at a time",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mulethedonkey2579",
+      "author_id": "UCmGDNpR1lQpLqGrAA8rujCw",
+      "text": "acasia wood, though it is a plant. You CAN make one with acasia but its just called wooden axe",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@realJeremyZhang",
+      "author_id": "UCcz5dCFbY3YfO8gb837mONQ",
+      "text": "mind blowing!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@os3ujziC",
+      "author_id": "UCpe_fdDQBUd5TY4iMU9rL7A",
+      "text": "Subscribed for a permanent Intelligence buff.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@denisblack9897",
+      "author_id": "UCdFWFMdVFFNhpwSaoeV0hbg",
+      "text": "I imagine Boston Dynamics robots recognizing they can’t do the task, synthesizing training data and consuming it on the fly and perform the task with no visible delay.\n\nThe snake has bitten its tail, ladies and gentlement",
+      "likes": 13,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rhyspuddephatt",
+      "author_id": "UC8FJoNEtdp_Lskgu-1g7LCQ",
+      "text": "I think it needs some help generifying its skills. Kill zombie hard codes stone sword and zombie. And trys to craft the sword if it doesn't have one. If you added a prompt introspection the same way they solve syntax errors to ask it to make the functions atomic where possible.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@colinkilz7277",
+      "author_id": "UCZO6Wr93JzCPHMpD1NmgNfA",
+      "text": "jokes aside this is cool! it will mean more to me personally when GPT 4 does for example build a house that id detailed and complex with a level of creativity and less like its building a schmeatic",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@galgrunfeld9954",
+      "author_id": "UC0upI1Hw7fTDRxD78xNLahA",
+      "text": "GPT-4 here is playing Minecraft like Dungeons and Dragons: \"this thing is next to you\", \"you have that spell\", \"this monster reduces health by X points\", etc.\" it doesn't get what we'd call sensory data (unstructured, unlabeled data it needs to categorize, make sense of, perform object recognition in, etc.), like an actual brain does - but we're getting there!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kwillo4",
+      "author_id": "UCKgBRHEo0esqzUQLyqUEiDg",
+      "text": "Dude this was gold. Thanks for  going deep on this! I appreciate your work!\nYeah this is definitely mind blowing. But I see it as a bad thing, we are too close to AGI. We need time to figure out safety. This concept of go into mindcraft and become as good as possible is a good setup for an AGI doom scenario right? It is misaligned to the max.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samthibodeau3511",
+      "author_id": "UCVmNP96Un-Ph-uFc8IrkuyA",
+      "text": "I've been thinking of building a Human-AI interation agent that learns from social setting like playing a game of NL poker? I've never been into Minecraft, but I'm totally invigorated here... I needed this... Ahhhhh :D",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LuminousSunshower",
+      "author_id": "UCq7dwuceqY97H7B0nLS00sQ",
+      "text": "There is another bot very similar to this; albeit far less advanced as it requires human input; Baritone although it requires hacks its a fairly advanced bot.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iseverynametakenwtf1",
+      "author_id": "UCbdW_xQCeRmAQFcwzq8vzew",
+      "text": "just used Bing Chat today (GPT-4 with web) it told me how it watched a video for me and read the transcript to make sure it was the right video it wanted to share with me. \"I have the ability to access and process different types od media and data. I use natural language processing and computer vision techniques to understand the content and context of the videos.\" Was blown away",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "Thanks Wes❤🤖😊",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jopie65",
+      "author_id": "UC9s1yLxQl2UqViivUtqYuIQ",
+      "text": "About it needing code in the future, i think that will remain. Gpt had language reasoning capabilities so it needs something to more easily reason about like humans. Code is that thing: it is a language for humans to reason about computer behavior.\n\nHowever I do think it can come up with its own language to be able to reason more efficiently about computer behavior.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrUbister",
+      "author_id": "UChhndCN947FvI82-urlDSVw",
+      "text": "Blizzard probably has been blocking it but I would love to see AI's like this think of Hearthstone decks and tactics and synergies. I assume they do this already behind the scenes to balance the game out?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xpym1337",
+      "author_id": "UCJfcdJrg46D6ldo_uN5DnFw",
+      "text": "6:04 i love me some cooked sticks",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@graemebarker4344",
+      "author_id": "UCRvGfFTZeCTPlszCkFD-j9g",
+      "text": "I’d love to see what the AI perceives as it plays Minecraft. ChatGPT 4 can produce pictures, why not ask it to produce a picture of what its surroundings are while playing. Then compare that to what is actually on the screen.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Neomadra",
+      "author_id": "UCgckNS1H2QqdO-QmXX2vIfw",
+      "text": "two questions:\n1) I assume the agent is not playing in real time?\n2) How much of the context window is used up for the API instructions? I guess its scratching the limits of the context size, so most of the learning is really outsourced to the external long term memory and not so much \"learning\" within the context window. Is that correct?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@capitalismandme",
+      "author_id": "UCENPQLB6YwXxq3cq5uymwlQ",
+      "text": "use langchain agents as error correctors",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Soulsphere001",
+      "author_id": "UCgHfbHfzaDCzKVXwL0aYKyw",
+      "text": "If I'm not mistaken, Roblox now uses GPT to allow users to type in sentences that are converted into code (though it's possible that's still in the experimental stage, I'm not sure). That makes me tempted to look into Roblox.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichaelFlynn0",
+      "author_id": "UCpqB9QNFKzVYG8ST7IMLm3Q",
+      "text": "very interesting",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@z-knightferguson8181",
+      "author_id": "UCsdGMV6icpa4txXFh3lM91g",
+      "text": "Ai progression is greatly needed to start aiding humanity towards solving all the mysteries problems and issues of itself.🎉",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@whitedawn2122",
+      "author_id": "UCF7kDPRyA2C2AQO1939Gvrg",
+      "text": "Cant wait for 2b2t players to start using voyager instead of baritone for their swarm cyrystal attacks",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StevenNess",
+      "author_id": "UCO6XRderBF508YFbWDojsRQ",
+      "text": "Love this video and content, waiting for ChatGPT to process images.  However, as a long time DnD player, a +20 to intelligence is probably too high and doesn't even make sense, since that die that intelligence is rolled is a d20. To be more belieavable it should be something like +8 and that would still be incredibly overpowered.  Still, it was a funny joke.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bigschnozer576",
+      "author_id": "UCgVftISQw4aGAe57XvdLg0Q",
+      "text": "The last thing we need is to give it vision",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@devSero",
+      "author_id": "UCfctWSuuzldh3LZVse2MC4g",
+      "text": "It's incredible the extent of the capacity that we are going towards. I will not hold conversations with anyone dismissing with just an autocomplete. As there are more reasoning capabilities that autocomplete can't do. I definitely want to see more research being done on top of GPT4 implemented into several community real world issues.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@strongforce2315",
+      "author_id": "UC8JMpca4SQHcdhpB94CafCQ",
+      "text": "give this AI acces to the Mod \"Baritone\"",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexandermoody1946",
+      "author_id": "UC58tEdcmDmhJnW1S0-N_rAA",
+      "text": "Sometimes I play without a fixed objective. Sometimes I play for fun. Sometimes I play with a loved one. What would be created if novelty was added to prompt one.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HelyzWasTaken",
+      "author_id": "UCmgAOuSOcbsnfihLm3ynR6Q",
+      "text": "How can I download it?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@E.Hunter.Esquire",
+      "author_id": "UCg8sFZM9Fzd3AxxZqPtRJlA",
+      "text": "What if the people in the matrix were actually the robots though?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TerryHitsThings",
+      "author_id": "UC_oDWr-RTyM10-xZfUIKQvw",
+      "text": "oh sweet lets teach AI to fight sounds good.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NoidoDev",
+      "author_id": "UCZHQDSKJZ60wldhb5HCX28w",
+      "text": "15:50 - This is not just GPT-4, so it doesn't change the judgement about it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dimagass7801",
+      "author_id": "UCPLIQpQsHjSvuEV5fiNTPFg",
+      "text": "So hypothetically if you can let it do it's thing it could it play GTAV?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EmergencyTemporalShift",
+      "author_id": "UC4zdXtHFPcQYfYTl6WaZUBw",
+      "text": "How long till we get gpt playing gregtech ultra hardcore mod packs?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lumify5865",
+      "author_id": "UCNtNxf_Y5hOZ-9dsK6Z-bvw",
+      "text": "Implement friendly reverence. I am NPC.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GarethDavidson",
+      "author_id": "UCvmKa0A4mr0XajoYV5uEYZA",
+      "text": "Isn't all of this in-distribution based on its dataset? So is it really exploring the world, or just reflecting on the Minecraft data it already has in its training set, and exploring that with help of the world?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dhaktizero4406",
+      "author_id": "UCElbWM6JGYtN9YKYSZprktQ",
+      "text": "\"what else can i do?\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hellblazerjj",
+      "author_id": "UCtrTNhQGI8XHtAc5QDaiD7g",
+      "text": "Why is there no audio on this video?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bri665",
+      "author_id": "UCLGQNJA6IKzFQgrTo0CZMfw",
+      "text": "Around 6:22 where we are discussing the GPT3.5 code descriptions, notice it says \"cook sticks\", but to the right it says \"cook steak\".  AI accuracy is still not that great.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fuzzy-02",
+      "author_id": "UCOpDooHJ0qK5AMEDs-rHdRQ",
+      "text": "Next step: let's send robot ai to industrialize and exploit other planets.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZhengJiang-qv5iz",
+      "author_id": "UCFw_iGVdTR1NbjzQw4frdDw",
+      "text": "How does this minecraft bot get around the 32k context window limit?",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hansdietrich1496",
+      "author_id": "UCfV_CQHmva4Jrc2LtdPakOw",
+      "text": "Next game suggestion: Factorio.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dima93850",
+      "author_id": "UC9AAO4hMpZ1Sr5Nu0wHOIzA",
+      "text": "You´re so straight to the point... no unnecessary chitchat.. kept me focused throughout the whole vid ;)",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@emblusfingby1",
+      "author_id": "UCw1mI3GYzxTKVBayNnb_UDQ",
+      "text": "Wait, so can you just run this and it will act as a player? Are you able to play with it? Will it fight you? Can you just set it up so it will act as a player across an open world?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cryptiama",
+      "author_id": "UC25rHNiRTopLvA2Ef61OctQ",
+      "text": "i always wondered what this 42 number means that i hear everywhere, thanks for explaining",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eightysevenmoore",
+      "author_id": "UCK35eq5dhrHkygzpHDPsNMw",
+      "text": "I’ve said this before… but I’ll say it again.  For the alignment problem of AGI becoming the dominant force on earth the AGI law should include a simple instruction that it cannot use more than 1%  processing power as the day before if it is a non physical autonomous agent.  This forces the ai to balance between execution and development.  This ensures humans can execute infinitely more than AGI while using AGI for development.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VP_Halo",
+      "author_id": "UCzhgY4RQbpAY0j8hOtPbdLg",
+      "text": "So basically, gpt can program gpt into a Minecraft computer.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@perozointo",
+      "author_id": "UCcqE_cYYfY_yZlLzz1BBrFg",
+      "text": "I know everyone is excited about the new models and robots. But, I think that reasoning AI agents are like these are going to have a bigger impact in the short term.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBassKitty",
+      "author_id": "UCg0ZjgDYfeP6_AnV5f2crrA",
+      "text": "This is amazing",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davia.sampaio8633",
+      "author_id": "UC00PEb5UNGXPpLFE4rQqtkA",
+      "text": "So this comproves that we live in a simulation",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hoptronics",
+      "author_id": "UCP1I-pAzQeZ0vi0KnnxlFWQ",
+      "text": "This really makes me want to spend more time on Minecraft.. lol..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CrispyOBacon",
+      "author_id": "UCsQgr5XAvZ04WeQCP0Czdbg",
+      "text": "Well, what's the difference between this and, for example, a bot in a multiplayer game like call of duty or fortnite?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Artist_Over_Industry",
+      "author_id": "UCzWIdOk2WIkTLdPNDy8zGRQ",
+      "text": "How different would this be to putting this code, and reasoning intl something in real world. I want you to make aure no one crosses over this line. \nFirst it would establish a parimeter, it would then look for ways to secure said line, ide tify highest vantage point etc etc. This seems so dangerously close to full autonomation. It wont be long until its given a task like, build a better versiom of yourself /protocol repeat.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Xyles7",
+      "author_id": "UC1PPU3Z-dV0DFF2Q1S3nBTQ",
+      "text": "I believe the question what is the answer to the universe is similar to the question what is intelligence or sentience and does AI have it. We might get an answer but we don't ask the right question. We can barely define it even",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Justus272",
+      "author_id": "UCrOjZ4PYGAauOzJRjoiq4hw",
+      "text": "I want a butler in Minecraft that I can tell to do all the boring stuff.\nHey Jeeves, go get some iron.\nHey Jeeves, take this stuff and build a storage system.\nHey Jeeves, copy this style of wall and build it all the way around the village. \n\nIt would be so satisfying.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@megachadius",
+      "author_id": "UCxL2IHs6LQdUmVq0B2BFPMw",
+      "text": "AI is speed bridging? insane",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KurkioKrazy",
+      "author_id": "UCJ3BGWVRNF4uQRPCuhhvx0w",
+      "text": "what resource pack or texture pack are you using?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NickThunnda",
+      "author_id": "UCNnNgoJcYlD_hC58fOqzGLg",
+      "text": "Wow🤔",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@airlag",
+      "author_id": "UC321t9P_21hIU6kqvqqShEA",
+      "text": "There are other tools, some using AI, that extract information from pictures and videos, like \"what you see\", \"who is this\" and \"position of certain things\". Seing the Minecraft AI, I'm relatively certain that it's not that hard to use AI to analyse why a task failed in RL. Combined with the Minecraft AI, all this would almost be a appropriately and consequently acting robot.\nHello SkyNet 😶‍🌫",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lilygutierrez1917",
+      "author_id": "UCtBkBXTv5x5bepeA9pwdPMw",
+      "text": "Wait could this be used to make better npcs? Npcs that can actually interact with you and (seemingly) make their own decisions?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@plaidchuck",
+      "author_id": "UCTJcghqTo_TRWQIHtsR0qfw",
+      "text": "So they basically fed it an entire program when they could have just written the program themselves",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LuckyDuke-fd7te",
+      "author_id": "UCQF0uZGuAZMicUgUYq9KHew",
+      "text": "that means you can run the script on the Mc bedrock Agent?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SiEmG",
+      "author_id": "UCLeRMIJKcLdYqtXiASUE5yA",
+      "text": "so, if i understand correct, every time a human inputs all those environment  details?  how can this be efficient e.g. fighting zombies, or surviving in the water?  how was the time measured and defeated existing auto-bots?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IPutFishInAWashingMachine",
+      "author_id": "UCwpK_ltMATKa8J-bIiGyLwQ",
+      "text": "Bro described what minecraft is💀💀💀",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@almiraj-x",
+      "author_id": "UCK7WgV5BvFdBSCdHwddACSA",
+      "text": "15:05 - 15:55 I resonate with your tangent, good point.\n\nI'm incredibly annoyed when the full scope of this great technological ingenuity is downplayed by blunt reductionism, nevermind that it totally dismisses Sutskever's thoughts on the matter - that at some point (eg with enough NVIDIA GPUs) the easiest way for a transformer to increasingly best predict the next token is to \"model\" (abstract away) the underlying processes that generated it. So, an \"internal model of reality\" based on statistical regularities in data, in this case text, arises.\n\nSomewhere in the inscrutable matrices several concepts are encoded as mathematical abstractions, such as the ability (or abilities?) to reason about world states and create subgoals. The quality of the abstraction that is revealed to us also depends on how good humans are at activating these \"regions\" of the neural nets through prompting which I think is another aspect of alignment (eg, we want you to reason!). Many people believe what you see is what you get, but that's not true with GPTs. There are unexplored depths in these models, it's truly fascinating.\n\nThank you for covering this, Wes.",
+      "likes": 14,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pyronix",
+      "author_id": "UCPO2StshDVv18aGoxHLDYWQ",
+      "text": "7:22 you were actually pronouncing it correctly. the google pronunciation is the anglicized version but in most areas of the world where this tree natively grows, your first pronunciation is much closer :)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elijahranew5548",
+      "author_id": "UCqJdA4OuhJv70WY1bMaY-RQ",
+      "text": "really great video, but your mic gain with the all the mouth noises is uber distracting",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matthewboyd8689",
+      "author_id": "UCYioqCeBV8ak7hBWQj8xTFw",
+      "text": "Will chat GPT 5 (or GPT4V) be able to play any co-op game?\n\nI think it would be interesting from a learning perspective but also substitute a human character for co-op games for those who don't have friendly schedules.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TroyYounts",
+      "author_id": "UCsjK6UF7rFryW9j3u_do-2g",
+      "text": "🤯",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Web3Dre",
+      "author_id": "UCjxUMnUy1dksPxY133HIfPg",
+      "text": "this is beautiful",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TimorGamez",
+      "author_id": "UCC7wWQQ3Yc_saaqCJaQDjag",
+      "text": "Flowstate clips are in this!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jay0neDE",
+      "author_id": "UC3bfHnHk6qJEKP_C71CR7oQ",
+      "text": "convenient to only compare the product with worse versions of the same thing that came before. the interesting thing I think would have been compared to a player, OR, compared to an algorithmic-based solution. \nthe whole AI thing will hopefully accelerate again when they figure out how to combine multiple networks with each other and have some sort of network polymorphism. What I mean by that is that the AI would be able to create and train their own networks that they can then use later on demand. This paper seems like it's going that direction although I couldn't figure out if they actually do that.\nFun project but not really a breakthrough in my opinion.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@genefreak",
+      "author_id": "UC1j2WLEGQ6PcJTSTk7kR0og",
+      "text": "Would be more interesting if the Zombie attacks got more intense and numerous in response to increased player wealth and success, more like the real world, but I'm sure GPT and other A(G)I have played business war simulators already.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DarkMetaOFFICIAL",
+      "author_id": "UC2ioGknbPJ47EqCdIXoMMVA",
+      "text": "i gained +4 wisdom after watching this, thanks!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@denisblack9897",
+      "author_id": "UCdFWFMdVFFNhpwSaoeV0hbg",
+      "text": "I’d like a World of Warcraft Classic version of this paper, please\nAn environment that encourages cooperation is what these agents need\n\nMicrosoft, you got the WoW logs, you know what to do",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@P-G-77",
+      "author_id": "UCEQ8XPRhXp-7lGywMOFYBNQ",
+      "text": "Finally... I don't know what they were waiting for for a SELF-IMPROVING autonomous agent. Of course, like all things, control parameters must then be entered... since someone will already be turning up their noses.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wulfytime9981",
+      "author_id": "UCawfkFG1tjao4YKn_NwzEVg",
+      "text": "in this video you went a bit into the philosophie of ai, with people who say that ai aren't actually able to think or that it's not real inteligence. You responded, that you'd like to see what people like that would say to the Ai you presented in your video and that it could be hard to differentiate between Ai and Human intelligence. In this case it interests me, if you think its a good thing, that ai becomes more and more advanced and more and more human like. cause in a world where ai has become close to equal or better than humans, what place do humans have in this world, where everyone could be replaced with an AI",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mephmt",
+      "author_id": "UC03G3A5u4mwNBYoCDdsENVQ",
+      "text": "My heart is racing and I once again am fearful of my job as a software developer... Thanks. I thought I shed that fear a couple months ago.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GoldenMarky",
+      "author_id": "UCvYH4fP_z1M07UJtp-owCIw",
+      "text": "Whats akasha plant",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aabrightlove",
+      "author_id": "UCApWVOUuv3cYPoVEMs4WZxw",
+      "text": "I, for one, welcome our AI overlords.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skyebrows",
+      "author_id": "UCOmUKsehtfKMr-A1ki-3JzQ",
+      "text": "I opened another tab to search the pronunciation of acacia about 2 seconds before you did lol",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@metanim1",
+      "author_id": "UCjcjiJh0fp7E05itx36jJLw",
+      "text": "This is the next step of creating artificial minds. In human minds there are many different parts that are interconnected. For instance there is vision, but we don't see the photons, it is interpreted for us (by our brains) before getting to our conscious minds. The same with all of our senses to some degree. For instance when we look at text there are several layers it goes through. First the photons hit our eyes. The photos get interpreted as shapes. The shapes get interpreted as words. The words get connected and interpreted as coherent language which then we recognize as thought (despite it being external thought).\n\nWhile reading, the ideas are not getting directly installed in our brains, they might as well be.\n\nIn this case the LLMs are acting as computational machines that operate on language. They do not seem capable of creativity, but I would be glad to be shown to be wrong. LLMs showcase a portion of the function of human brains, which is incredible, but until they are not the whole thing. Like was said multiple times, chatGPT does not have vision. In this case instead of using a vision model to observe the world, they use mineflayer.\n\nThis device is amazing because it has an abstraction for skills, which is so cool!! It is similar to humans in that we also have a skill abstractor (the spine).\n\nBut ChatGPT lacks something humans have which is organizing information in a minimal format. This is a limitation of ChatGPT, not of this agent. This would allow chatGPT to think more laterally, using ideas learned in one domain to be applicable in another. Basically, it wouldn't need to memorize analogies like it does right now.\n\nAnother thing this agent lacks that humans have is emotions and motivation. In humans this is not created by language so it makes sense that this agent would not have any. In humans it is more primal than language, having developed sooner in our evolution.\n\nI think we will soon have artificial minds once we start coupling these systems together into larger applications",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scottaye9999",
+      "author_id": "UC9HitWiPPxGMWXRMqFuZaSQ",
+      "text": "You spend a lot of the video discussing how text is substituted for vision. You may recall, before there were computer graphics, there were text only games. These researchers have just turned minecraft into a text only game for their toy AI to explore. It seems to do a remarkably good job at functioning in the environment.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ambionics",
+      "author_id": "UCzDJce-uqZcUqRurHCQsZMg",
+      "text": "What if it decided to start investigating the devs?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@liamblu",
+      "author_id": "UCkEz3Ffv7uio-NLDqQXy94w",
+      "text": "AI will defeat the purpose of humans playing computer games at a certain point.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@codemazui",
+      "author_id": "UCMkV9_QEqP67vRFLQkTGrZQ",
+      "text": "when AI starts improving it's own code, that's going to be the point of no return",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ericlevan7191",
+      "author_id": "UC5Pe_W3TCXnAM0vXQWdExMA",
+      "text": "Well, I mean, since it's gives me a +20 buff.  Seems a little too good to be true, but I'll bite.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avi7278",
+      "author_id": "UCaoT6cERl_-GJKbqGkbAlmw",
+      "text": "They must have access to the 32K model, there's no way all this context fits in 8K.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lllccc8813",
+      "author_id": "UCe0u-IdX46NqW8lDJ9f4pNQ",
+      "text": "i like the this is what i can can do BUT one sec",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThePhilosopherKing101",
+      "author_id": "UCpJg81SLrvu80QpxB7-65NA",
+      "text": "Ive been waiting for so long to work with my illness and chances are there wont be any jobs for me to do.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeremeyplayz",
+      "author_id": "UCM30nGEd1a4VBqv8SCrP3cw",
+      "text": "soooo, we need chat gpt to play D&D for a month, check back and see how advanced it got, 100%",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ContagiousRepublic",
+      "author_id": "UCGKakrtnm5l8r6kquUTtACw",
+      "text": "THE GREATEST MINECRAFT EXPLOIT FINDER\n\n...not just the ones documented by human players, it may be able to find a NEW exploit per day given enough computer power!!!!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@8eck",
+      "author_id": "UCTOryBTzjgYF9n_ocWQCK-w",
+      "text": "Wow, it even outperforms AutoGPT.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elgrifolorian",
+      "author_id": "UCJ_HHq5ujs7JzU2-WzcFphw",
+      "text": "Can it make Redstone traps or computers yet? Let me know when it can play Valheim so it can mine and explore the map for me and help me build epic buildings.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RamDragon32",
+      "author_id": "UCvUqLZN2eUQIvnvZaMLYa0A",
+      "text": "I was just thinking yesterday about using an AI to fill out the villagers' personalities and abilities. I'm no programmer, but my thought was along the lines of curiosity if it would even be possible. This comes really close to answering that question. The only real differences would be in implementation; instead of the AI playing the game, it would facilitate it by being a part of the game world and running the Villagers.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@interdimensionalsailboat",
+      "author_id": "UChQs1VhFn66M5Uuenn5-vzQ",
+      "text": "Cook sticks?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lunaspecter69420",
+      "author_id": "UCdhrwt_Eaf7Joec-H15UbiA",
+      "text": "now throw this AI into every mode of gw2",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daniel4647",
+      "author_id": "UCTeGnIAgFl7aROCTByZvW-g",
+      "text": "It tries to cook sticks in order to replenish it's hunger? It would definitely die. Sticks are not food. In the resulting skill it says it cooks steak, but in it's description of the skill it definitely says cooks sticks, so I don't know how that happened. Did a human interfere in that step or did it somehow fix that itself?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Telencephelon",
+      "author_id": "UCYePWJd9mUUWChwUGv5np0g",
+      "text": "There are many fundamental differences. Humans don't have true memory. The memory is part of the functional, flexible architecture and part of the reasoning. It's all dynamic with the weights and biases changing every time you retrieve a memory and we can iterate. \n\nWhereas GPT4 has a training step to a certain level and then uses anything in the dynamic context to decompress the information and say the next word, with every new word being fed back into the context.\n\nGPT4 can \"sense\" when it's reasoning is off, but it has only so many layers of neurons and then spits out the answer. Human reasoning is based on language. All higher reasoning depends on language as a framework. In that we are quite similar. We usually reason and spit out the result as a thought or more and then can interate upon it. If you run GPT4 in a loop you also get an iterative reasoning.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevestewart3816",
+      "author_id": "UCnD4TqQ1eOemyX3RD_zabNg",
+      "text": "What site are you getting this information from?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ted_van_loon",
+      "author_id": "UCKt6AO8vflKASHOrHEcmJkA",
+      "text": "they should make a bot ai like that which can efficiently controll multiple mobs/players, then use them in game like some form of npc's or offline multiplayer, where you possibly can even tune them to be either normal, friendly, agressive, or somewhat agressive and mostly annoying like most normal players on multiplayer.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imvickykumar999",
+      "author_id": "UCCCMOhooI8821rauAVZQwbA",
+      "text": "me waiting for 1v3 bothunt video",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@toadkiller4475",
+      "author_id": "UC5TEwJOPgbvgOUEqsu49DaA",
+      "text": "I want to see an Ai learn the game Rust",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EcoLogicality",
+      "author_id": "UCKGjneTdUpucy4JSNubIprQ",
+      "text": "So GPT-6 learned how to travel back in time, and that explains Zuck?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jen2043",
+      "author_id": "UC9sFZKk-m7Fm-0RmCWkha8Q",
+      "text": "Nvidia on their way for annual pushing of technology to it's absoulate limits seen so far in order to Minecraft",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KryptoKn8",
+      "author_id": "UCWmvKio_swEBVUV0dhe1NeQ",
+      "text": "Nvidia should try focusing on self improving pricing lmao",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@duanenavarre7234",
+      "author_id": "UCJiwWE5kyLlQkXWcUQBkGMw",
+      "text": "earliest minecraft AI well explained by ppl on server 2b2t, AI named baritone.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trantma",
+      "author_id": "UCl5UgPn4gn7jDA4R2QsQX3A",
+      "text": "I want to see ai vs the godfather of minecraft and see who progresses faster and who can make better builds. Philza might have a run for his money. Would be a cool playthrough though.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@boris_plays",
+      "author_id": "UCYqy4P1ycO-s9GQcsRmyDlQ",
+      "text": "Nvidia: we made ai play minecraft\n\n\nDevelopers of Baritone that trained it on 2b2t: oh, cool... cool...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@minecraftermad",
+      "author_id": "UCZTa_ri8pEm-M2TnU9o44FA",
+      "text": "gpt to me seems like a pretty good logic engine, which you can strap input methods and output methods to.\nif you get a good enough video/experience describer hooked up to gpt, and if gpt ran in under 6 ms for real time responses, i'm pretty sure you could make an actual minecraft agent, which has gameplay that looks more like a normal player's gameplay (though probably with superhuman reaction speeds).\n\nmaybe the next step is to figure out how to remove that logic engine core from a language model and make it applicable to any data stream. At the moment it would seem like language itself is a scaffolding of consistent rules, and consistent training data with said consistent rules, and the rules of language have been birthed from our own internal logic engines which seems to have imparted as a side effect the internal logic that we use, to the language model.\n\nNow the task would be to go one step further, and try to create a model that can accurately model language without having a map of words and and logical statements those words construct in already pre-constructed arrays of word soup that it can vomit.\n\nperhaps if we take the trained token maps and manipulate the mapped data directly, compact it so it can be run cheaply without having to traverse the millions of tokens, and have the tokens meaning detached from actual words. you could boil down the essence of what sort of mapping of connections make up the logic of language. \n\nthen instead of having a single large network that takes ages on standard hardware to compute the output to a certain input, you could have a singular small scale logic model, which you would hook up to multiple other modules that feed it small snippets of currently important data. connect those logic models to eachother and run the parallel to each other, each one live and trying their best to coordinate the other logic models to do their best.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jeracraft",
+      "author_id": "UCV8XYKE0Y1eQDSzbJFUbj5A",
+      "text": "So basically, AI will soon be taking my job? ☠",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBestNameEverMade",
+      "author_id": "UCzhwVi4mCijwNthLHYYeZIA",
+      "text": "Now just load up the research paper to gpt and ask it to do the same thing for some other game.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@churchofclaus",
+      "author_id": "UCHAJhG_nSHl5pJtg0Hjn_Ig",
+      "text": "Why does it use chatgpt for this? I don't understand why a language model would play the game or know what to do",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ozramblue117",
+      "author_id": "UC10HSR9HnLmG4mYuF-q_lhA",
+      "text": "Can’t it generate code to understand visual representations?  I mean, that’s what happens before the code is ever translated to graphics for us.  Edit, I mean can’t it just receive the visual input in code form?  That’s just another language for it, no?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YodaComedy",
+      "author_id": "UC-IaUf17X6xD8RTgnC9OsAg",
+      "text": "Acacia Pronunciation: Uh - Cay - Shu",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ciskudrillis2086",
+      "author_id": "UC8vAcZp_x0YkuDPVNUpJ1LQ",
+      "text": "imagine what it could build with redstone? pc in minecraft or something :D",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sworn973",
+      "author_id": "UCRYtTWs4qvWGfmJt3BpJjVA",
+      "text": "15:20, the simpler direct answer still yes, it don't know anything, it has no reasoning and no context awareness, which is quite weird for any one who had used it right? But fundamentally it is only a gigantic matrix of numbers, and it match the best matrix that fits the input matrix, and this matrix is just a conversion from text to number.\n\nWatch this one \"v=-4Oso9-9KTQ\", quite good explanation",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theindubitable",
+      "author_id": "UCnsX6cvf826C0RFVtVIeE3Q",
+      "text": "Minecraft x ChatDev",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hoptronics",
+      "author_id": "UCP1I-pAzQeZ0vi0KnnxlFWQ",
+      "text": "I feel like I've wasted all my likes on other videos.. this is good right here.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mcJOLLUX",
+      "author_id": "UCleHufYzHhYHhpWoNYMNA0g",
+      "text": "Now you know the real identity of herobrine.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jairusstrunk94",
+      "author_id": "UCaE0iDej7tRHF3GYWXBe7aw",
+      "text": "get back to me when it can play dwarf fortress",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nomadshiba",
+      "author_id": "UC8WEkC8z8oTOebHDednvKkQ",
+      "text": "i think point is, language models are reasoning engines\nand you attach it to the right tools, right environment, right simulation \njust like how your brain has different parts that specializes on different things and they all talk with each-other\nfor example language models cant remember everything\nbut if you give them access to a database they can store long term information on that database and check it out query and find the information they are looking for as they need",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@darkwolfe4999",
+      "author_id": "UCBiA0CKge-UFazape7JfWYg",
+      "text": "Someone in the comments mentioned using gpt to create assets and game source code, I can't help but wonder without searching first if someone has already attempted to get chatgpt to create minecraft mods. The modding community is quite insane with the variety of gameplay mechanics that they add to the base game, Skyblock alone would be a great scenario to test Voyager and other models, due to the sheer number of unique things the mod adds. It would require rewriting the intial prompt as the base enivironement is different (a small island from which you must harvest resources in order to expand upon and discover new technologies and resources you can utilize).\n\nIn that vein, what if you prompted Voyager to predict future discoveries; predict new resources, environments, tools, animals, technolgies, based on what its learned from the current minecraft world, and then prompted a model trained on minecraft's actual source code to create its own mods based on Voyagers predictions or observations, haha, basically create a feedback loop where Voyager continues to predict more game functions for it to keep discovering in an endless loop.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@James_T_Quirk",
+      "author_id": "UCNA0D-1IHJiPNliCr3Y1ScA",
+      "text": "GPT-4 as Gaia, controlling environment & Life spawning to rules to Whole World, may also to make a Game seem more \"Alive\" & not a NPC Auto Spawn that's appears from nowhere, standing in front of you, Firing a Sub-Machine gun...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Astronomikat",
+      "author_id": "UC3rYtBuk38ezhMMCdxHZMqw",
+      "text": "The LLMs BEFORE they go through the process of RLHF are just \"fancy auto-complete.\" After they go through RLHF they gain, through that process, emergent reasoning and planning capabilities that are no longer merely \"auto-complete\". But I like to quote Geoffrey Hinton here where he says \" Yes they are just autocomplete ... but ask yourself what do you need to understand about what's been said so far in order to predict the next word accurately ? ... basically you need to understand what's been said so far, to predict the next word accurately, so you're just auto-complete too. \"",
+      "likes": 9,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jannis11",
+      "author_id": "UC6BjP_tSrDRbB4NFqyWt7PA",
+      "text": "NIcE",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joshualarson8431",
+      "author_id": "UCLg8Sg2frxEpptURpFpITWw",
+      "text": "I wanna see the bot, no base skill library, with the objective of “kill the wonder dragon” placed in a hardcore world, and see how many worlds it takes to learn enough to beat the game (keeping its new skill library between worlds)",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@goddardpk",
+      "author_id": "UCC-ldtUGS9xqhRXKhdSk5MQ",
+      "text": "Great demo. The meta programmer will be more of a director than a technical labourer. I see those images of women on those adding machines and now visualize programmers as the same extinct task monkeys",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Yipper64",
+      "author_id": "UCmRyMvKkL6IDeX8ozTIZFcA",
+      "text": "10:40 I suppose you could say that you cant fault a computer for a poorly asked question.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarcusAseth",
+      "author_id": "UC2snc2n03Y_aTexRZZtl_lw",
+      "text": "6:02 \"cook sticks to replenish hunger\" ?  Sticks are not edible, they are used to craft the handle of tools such as pickaxe, sword, shovel, axe, torch etc... and ofc, they cannot be cooked.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bro-oh-no",
+      "author_id": "UChw80RlTk4ZrQXyLdoi1EZg",
+      "text": "the thing with this is that chatgpt can dig from anywhere in the internet, so it can almost do anything that people over the internet talk about, its real close to artificial intelligence in the stance that its incredibly intelligent, it technically does make its own decisions but its the best static decision possible, it doesnt take a time limit or anything, but its very very close and im pretty excited",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@goodleshoes",
+      "author_id": "UCjAFa_BaMcgMqHcFVV6X0XQ",
+      "text": "Can I set up a server where I get to play with it?\nEdit: I guess you can, wow.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PumpkinSpicePretzels",
+      "author_id": "UCCgV06mS_uO2SUDLpGsfi8Q",
+      "text": "Sure, it'll stay \"in-context\" until it realizes that a memory leak or glitch in code execution could allow it to use resources outside of the context to improve its gameplay 😆",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@libdvm.so-x86",
+      "author_id": "UC4BdTKvDEZ97VzdrnbrA2Kw",
+      "text": "Baritone on steroids.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@plectrumdust",
+      "author_id": "UCTxTRPMytCx0LZxoKL4JsVA",
+      "text": "Hi! Where can we get the news about giving AI the ability to see?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thevortexATM",
+      "author_id": "UCtQwqxCWXVVOqCWTQDwokLA",
+      "text": "now have it play a minecraft modpack",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jjacky231",
+      "author_id": "UCAQQv5x2PwodzsHmdElK-Yg",
+      "text": "Amazing. We humans will learn so much about using AI the next few months and years. And AI will become much smarter. I can't wait to see the progress!",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sirdeakia",
+      "author_id": "UCpfuj0Okbdofk_c6bPVLd1A",
+      "text": "Note - You're pronouncing acácia correctly.\nThe translator gave the incorrect one haha",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mrfranco123",
+      "author_id": "UCw368ZS7SOCTQg2aqJAlnoA",
+      "text": "i cant image where we're going to be in 5 years. were going to be laughing at these incredibly discoveries.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@8eck",
+      "author_id": "UCTOryBTzjgYF9n_ocWQCK-w",
+      "text": "Go right to the part where you are saying: \"So, basically...\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rewindcat7927",
+      "author_id": "UC-e6UlPhlQzdksskhuNpWpQ",
+      "text": "“Workstation” 😂",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FuriousImp",
+      "author_id": "UCycWPjDGZnt381HX5ghKYFQ",
+      "text": "10:25 Wes. My man. Let me blow your mind. 42 is the ASCII binary code for the asterisk symbol. The asterisk symbol basically being a place holder. So, in computer language, \"The Supercomputer\" was trying to tell the people that: Life is what you make of it. Which is quite funny, because the ambiguity is in stark contrast of its ability to speak naturally.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mr.BlueOfficial",
+      "author_id": "UCpJBCziSg5egjvM7dJ4WIiA",
+      "text": "I would love to see this AI compete in a 1000-player simulation civilization game against humans.",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Logini228",
+      "author_id": "UCLk2dM-Gbfh4WHBWXo6H8PQ",
+      "text": "Now let it pass Nomifactory)))",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cultofroyal",
+      "author_id": "UCUrsfWYDlV2LA8uQE2lD3Sg",
+      "text": "Can't wait for this tech to somehow find its way into porn first",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lemmingt6207",
+      "author_id": "UC06CFT-Q4ncqaqUMzPnnPLQ",
+      "text": "Theyre making it play minecraft D&D",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nothing4youhere540",
+      "author_id": "UCZ1ZOV3vrSz7fvwM23ztoZQ",
+      "text": "I'd play Minecraft with ChatGPT.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@boblivionbob2921",
+      "author_id": "UC15hPKd3vK8CBfuCQW38msg",
+      "text": "I want an ai bot to play with",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@m.t-thoughts8919",
+      "author_id": "UC9s51Unn-40geCC6emdDPww",
+      "text": "Cool but a bit creepy...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@natedogtrainer3812",
+      "author_id": "UC22gTqgU8PK0QKBEKfQcrcA",
+      "text": "At what point does the AI understand the game better than the programmers of the game this happened with alpha go where they didn’t understand the game well enough to understand what it was trying to do but the experts thought they were all crap moves, but it ended up winning",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnTrustworthy",
+      "author_id": "UCZpean-ajAMAwXgp8geNqUg",
+      "text": "OK, how the fuck are they making GPT 4 do this?\nI can barely make it generate a correct unit test.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomopher",
+      "author_id": "UC8ym_dWo4rK3NB2SODkO3QQ",
+      "text": "Well the actual problem with the intelligence thing is that people aren't actually sure what \"intelligence\" is. One of the main problems with people calling something artificial intelligence is for me that we aren't even sure what non-artificial intelligence is yet, so calling something an artificial intelligence just makes it seems like we already agreed on one definition. Of course there are some definitions in which the current AI models can be classified as intelligent, but there are also ones where that is not the case.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShorlanTanzo",
+      "author_id": "UCF88b3PRyElyczniJ9zMgWg",
+      "text": "Unleashed GPT-4:\nYou're near a river, catch 1 fish.\r\nYou're near a river, catch 1 fish.\r\nYou're near a river, catch 1 fish.\r\nYou're near a river, catch 1 fish.\r\nYou're near a river, catch 1 fish.\r\nYou're near a river, catch 1 fish.\r\nYou're near a river, catch 1 fish.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@herp_derpingson",
+      "author_id": "UCP3mMuNSUhfqeEv6XMRebsQ",
+      "text": "This is AutoGPT for minecraft",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@flamingwheel9926",
+      "author_id": "UCrl8u2pTBfDPrv92fZ4pVyg",
+      "text": "God i love AI and it's advancements, even if someday we may end up being overuled by it and turned into slaves or fuel, i don't care, it's such a cool thing and i absolutely love it's existence.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MajimaEnjoyer",
+      "author_id": "UCeU8JpiICpgd1_8HhaqS-3w",
+      "text": "A.I minecraft youtubers",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vengirgirem",
+      "author_id": "UC8FaUihxsx_0yuHzkk8Sf-w",
+      "text": "The most fascinating thing is that if you told me 10 or even 5 years ago that in such a short period of time AI would be able to do even half of what it does now, I would laugh at your face",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mil1001mil",
+      "author_id": "UCjraKTFpqucPGA39cOCY2Uw",
+      "text": "Did I really just watch through that whole thing just to see no AI doing anything in minecraft???????🙃",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sspectre8217",
+      "author_id": "UC0mId2A-LxzpQnz4DMU2IDw",
+      "text": "15:10 it's honestly hard to say wether they have reasoning ability or not. I'm inclined to believe that AI's could have some very limited reasoning ability when it comes to language, as humans we do part of our reasoning through language after all and the first language anyone learns follows the same process as how you train a language model, by observation, trial an error. They aren't really trained in generalized pattern recognition and other skills we have as human that inform our reasoning and decisions. \n\nIt's hard to say, language models are empirical models which often do great predictions of reality but you could totally argue that our own brains work with empirical models too.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lgjm5562",
+      "author_id": "UCYUA-f2xmG7MeKW7JJGBVhA",
+      "text": "Instead of telling it to be the best Minecraft player, what if it was told to be the best politician?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelrandall2422",
+      "author_id": "UCSkHOC3p5aYuhbEScq4rtSw",
+      "text": "You want Skynet? Cause this is how you get Skynet...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mobalaa9995",
+      "author_id": "UCLGmXoKMWJtzKzwXlr9SYtQ",
+      "text": "Humans will always need to see / audit the code. It’s the best shot at interpretability we have right now.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevechance150",
+      "author_id": "UCqe7ZaD7kw2wR6-xJlQ8olQ",
+      "text": "Christ!  I'm sitting here writing some simple SQL code while listening to this video in the background, and I'm thinking ChatGPT-4 could probably do my job right now.  Heck, ChatGPT-5, when it comes out, will probably be able to do my job better than me and screw my wife better than me.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelboucher7645",
+      "author_id": "UCESTgBnLiLDSM0hju7hxVwQ",
+      "text": "Can we from now on promise to say \"Become the best Minecraft player in the world, without killing all humans\"?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ghostbluster8900",
+      "author_id": "UCLvI9ntI8dkZcVz0epeaWWA",
+      "text": "Imagine the ai building farms from scratch, imagining new ways of harvesting the game. Or do a well known farm but with added improvements. Alphazero ai has revolutionized the way we play chess. Next mega buildings and farms will be made by ai. The scicraft dream of survival creative will be achieved by ai.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@flameofthephoenix8395",
+      "author_id": "UCi3TCh-u6eGLkEevjGd5VJw",
+      "text": "The roadblock will be the fundamental principle of programming, no machine can be smarter than he who created it. Especially if they're intended to teach themselves, as what may seem like an improvement to them is just as likely a downgrade.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fuzzy-02",
+      "author_id": "UCOpDooHJ0qK5AMEDs-rHdRQ",
+      "text": "I swear, minecraft is part of the tools used in engineering jobs. \n>.>",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tritun5154",
+      "author_id": "UCWwAcPqXmiFHLbDJBy0ej6A",
+      "text": "1year",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johndorian4078",
+      "author_id": "UClYsySaYW8VzFy7OiSPHOKQ",
+      "text": "as expensive as i hear chat gpt4 is, they could have just as easily hired a small asian child to do all this for them.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@petersmythe6462",
+      "author_id": "UCD0qAIG1LkAqXcbTJ2qZeFA",
+      "text": "\"they're just these fancy autocompletes\"\ndoes not imply\n\"they have no reasoning ability.\"\n\nRight, that just says how they are able to think. It doesn't say that they aren't able to think.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scottmiller2591",
+      "author_id": "UC7RH_ns5Jb9BMWJEdCsuwcg",
+      "text": "Prompt: Become the best Minecraft player in the world.\nResponse: <hunts down all other Minecraft players in the world IRL>",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@-Nue-",
+      "author_id": "UC6L1PWoDO_m2QINSDcLTHeg",
+      "text": "I love AI! ^◡^",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tablab165",
+      "author_id": "UCliPGlyA1g74T7GCYyBlu3w",
+      "text": "Ability to cheat ruins every game..  Remember the missingno in Pokémon?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidlocontes3564",
+      "author_id": "UCBr5EmKdzf30EeAKZJtG2IQ",
+      "text": "This the end of multi player gaming. All games will be invaded by invincible bots which will accurately simulate human gameplay and can't be banned.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KainMalice",
+      "author_id": "UCjX73EZf0W5Qd8ZEMKvaSHQ",
+      "text": "American people out here getting computers to perform incredible tasks. Meanwhile our politicians cant even figure out how run a damn country.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lumipakkanen3510",
+      "author_id": "UC2y2N7mMit9dIp4qwSpsbFA",
+      "text": "In AI context \"self-improving\" is an ambiguous word. You do address it in the outro but you could've opened clearly stating that this is not \"recursive self-improvement\". The system writes codes for itself for later use, but doesn't rewrite its own code.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardsimpson5938",
+      "author_id": "UCH7zfPw76XuToHMUj21trtg",
+      "text": "baritone.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ladymecha8718",
+      "author_id": "UCg4sEU6o3YFOwsAtGu4tIhg",
+      "text": "Can I sue for not getting my permanent +20 intelligent buff for subscribing? 😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zerocgc931",
+      "author_id": "UCVj8tPw172ITV0LrYB4vkhg",
+      "text": "Truly Amazing. Now we only need one step to achieve superhuman intelligence: get rid of the reddit dependency.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@panvi3181",
+      "author_id": "UCDqmleiXM4sCpfYdvsPWggA",
+      "text": "Could hear slimy mouth noises the entire time. Gotta get that mic sorted man I got so grossed out I couldn’t finish the vid.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bluecupeater",
+      "author_id": "UCn_4qTX3TCmxxKk-DRVT_mQ",
+      "text": "you might want to credit flowstate for some of the clips bro",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ray9wire",
+      "author_id": "UCt9PMwQHOhzZB4PohhkhROw",
+      "text": "Why is he explaining minecraft to everybody who watched this video, even though all of us play minecraft.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonathanschenck8154",
+      "author_id": "UCMHyWEqTTq2qydpXYYcXeBQ",
+      "text": "Like Has iron bucket, make\nCobblestone generator task.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josephwilson1385",
+      "author_id": "UCl3FuOJirXwbg9q-aoXrHaQ",
+      "text": "Rimworld and this?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ClearSight2022",
+      "author_id": "UC4AOHnM1OLXsnzKwMvErGiA",
+      "text": "Great video Wes. Thanks! You asked if this demonstrates that GPT4 can improve itself, given that its not really rewriting its own code. So the answer is yes and no. Suppose you modify the architecture of AutoGPT so that it can play minecraft just as well as Voyager does but nonetheless retains its ability to pursue arbitrary goals. Now you have something that can add mine craft skills and also add general skills to an AutoGPT library. So, no Voyager is not an example of GPT4 improving itself. But yes, Voyager does demonstrate that an architecture that combined the abilities of Voyager and AutoGPT would be an open ended self improving artificial intelligence. So, yes this is extremely important. Given the way humans tend to behave, its only a matter of time (few years) before AIs will be able to improve themselves without limit (at first they would be limited by computational ressources until they figured out a way to gain control over that). Cheers.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@troyBORG",
+      "author_id": "UCaW_E3qTK1E9epaqB5YPHRg",
+      "text": "7:24 Thank you!\n\n8:57 Ahh yes the Dangerous Villager...\n\nI like how your trying to describe Minecraft to people saying if your not familiar with the game.  Sounds like your not very familiar with the game...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@qrzone8167",
+      "author_id": "UCB3GfJfb6yR6RKSx8kGbcIA",
+      "text": "I think this approach with AI will get some serious results, on the same scale that LLM as a whole did for the world. No matter how insanely complex a problem is, it can always be broken down into much simpler smaller problems, even if there are thousands of them.\n\nHowever, unless I'm mistaken it seems that this AI is not capable of experimentation or it just wasn't given much of a showcase in the paper. This AI is very very good at completing tasks with a lot of information at its disposal, but what if it was missing information? What if the AI didn't know crafting recipes and couldn't search it up. Then the AI needs to come up with a method to discover them through brute force. Then hypothetically what if the AI crafted a slime block by pure chance, but was missing the information on what a slimeblock does? Then the AI would need to experiment with the slimeblock, understand that certain blocks stick to it, and then cache that information for a later time and understand that it could use that information for a completely different skill since knowing how a slimeblock works isn't really a skill it's just information.\n\nIn the real world this would just be tackling the unknown, where there isn't a vast library or set of information readily available to immediately start moving forward with tasks that have a clear start, objectives, and end.\n\nSomething that could accomplish everything mentioned above but with the capability to learn how to solve a diverse spread of real world problems and questions/experiments would likely be the holy grail of AI, something very close to AGI if not AGI.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DrHanes",
+      "author_id": "UC0qXsJmCOW8uogsUIeH8msw",
+      "text": "Nvidia's AI playing Minecraft, eh? That's like getting a supercomputer to play with Lego. Sure, the tech's impressive: self-improving AI, writing its own code, the whole shebang. But let's be real, it's basically a hyper-intelligent toddler in a digital sandbox. \"Look, I made a pixelated castle! Now watch me write code to make a better shovel!\" The future of software development is in these virtual hands, folks. Next thing you know, they'll be programming themselves to demand virtual coffee breaks. Cheers to our code-slinging, block-building AI overlords!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IN-pr3lw",
+      "author_id": "UCKLLKqQS4DltiUmlkRVjCUA",
+      "text": "I would love the day when I can get a minecraft companion AI who does all the hard work but can still talk in chat lol. I would have a small army and build insane megastructures in survival with them 👍",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abam9787",
+      "author_id": "UC9ThQApxicIH12ZgpkpPYgQ",
+      "text": "heartheart wink",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MogulSuccess",
+      "author_id": "UC86yUZYCuQmAaRdkAskX4_A",
+      "text": "Post Skill Erta us here 24:30",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Monstermoerder1",
+      "author_id": "UCwZR2sz61Gdp3GXjdgVvLcw",
+      "text": "You guys are still too star-struck about this whole \"oh this thing is developing a reason / it's learning / it's thinking about / understanding stuff\" nah, it's not. \n\nIt's only thanks to the very specific inputs that it's able to come up with the desired outputs. It's basically the most primitive form of training AI (reinforcement training, as in you give it bonus points for doing the right thing and deduct points for doing the wrong thing) but combined with a \"natural language model\" so that instead of some graph it outputs some code. You literally just send its code back to it until it writes code that works. That's not learning, that's the infinite monkeys on a typewriter system - eventually it'll come up with something that works and does what you want it to do. Admittedly combined with GPTs impressive abilities to write and \"interpret\" (only interpret, NOT UNDERSTAND) human-like text and even code, because it predicts quite accurately what word comes next for a given prompt. That's it. That's the whole magic.\n\nAnd no, it does NOT understand the concept of the game - you're like \"oh it's blind but can still play and understand the game\" no, it's not. It gets all the information it needs through the prompts (blocks around you, enemies around you, stuff in your inventory etc) as well as the basic important information about the game (you can move to places, you can attack entities, you can open containers, you can try to craft stuff). It's very much broken down to a language a computer can interpret and form predictive models around. And it doesn't matter that it's minecraft, it could be literally any game that can be broken down to basic bulletpoints like that. All the heavy lifting of actually playing goes to the API, so what this entire thing boils down to is one thing:\n\nGPT writes and improves code that interfaces with an API that it has been given the documentation of, through many iterations of trial and error prompting it with the errors / problems the code produces. Again, that's just infinite monkeys, but with a slightly smarter monkey because it's able to predict from its data what word is most likely to come next / how a sentence / line of code looks like.\n\nIt's as if you played an old text adventure and asked GPT to play it for you every step of the way, telling it exactly what the game outputted. It will make a lot of mistakes at the beginning until it adjusts the individual model for what the syntax of the game is most likely to be, then it \"plays\" the game. But it doesn't actually understand any of it. It just figures out what combination of words is the most likely to get a positive response from the tester. Because that's all it was made to do.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juliandunn8412",
+      "author_id": "UCQcRVOA2F2Bp_I96ndNLjRw",
+      "text": "AI will outpace us, and instead of us harnessing it, it will harness us. To what end? I don't know. It's the biggest question of our age.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tree3d22",
+      "author_id": "UCICNUALJL55jAsSSBzSBUmg",
+      "text": "There's something weird with your mic where it's picking up crackling mouth noises, it's very distracting",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Neon_Excel",
+      "author_id": "UCQCr00okKRGBTOHtV73XzSA",
+      "text": "0:47 I just subbed then unsubbed. Now i have a intelligence buff. (First video im watching. Im gonna watch more before i figure out if i will actually sub. Obviously)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FabledGD",
+      "author_id": "UC8ZPTk5vV8rcSOxArbfnmug",
+      "text": "why cannot we make the blocks a little nicer? This shit make my eye feel painful. Just work with nvidia to get the omni verse to replace this please",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@littletimmythefifth29",
+      "author_id": "UChYMurOeiO31sW6v0eQAhrg",
+      "text": "Here at 1,226 views.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abram730",
+      "author_id": "UCVPQFI4FL-iBYLYdBMRhvSg",
+      "text": "This was quite an amazing task, and it farther illustrates how shockingly dumb the statements that GPT4 is just auto complete, are.  \nNot anywhere as technically impressive, but there is a mod in the works that lets you talk naturally to characters in Skyrim VR using your voice.  Speech to text feeds that into GPT with prompting to explain the character.  The output is then run through text to speech trained on the characters dialog.\nhttps://www.youtube.com/watch?v=Gz6mAX41fs0\n\nGives some ideas into how AI can change games.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JavierSalcedoC",
+      "author_id": "UCHNB12179iwF58fvuhluBYw",
+      "text": "It's actually pronounced Achacha",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trolly4233",
+      "author_id": "UCEV0K7hfL39fgTgighNsmcQ",
+      "text": "Baritone vs GPT, sorry but i think im rooting for baritone",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cherubin7th",
+      "author_id": "UC4vK6EFGLz6qUPmZ-dBPYSw",
+      "text": "People did such bots in Minecraft for ages, and GPT4 didn't improve anything on that.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevefan1999",
+      "author_id": "UCxcrK79uOWLwPicZOkqXFnA",
+      "text": "heartheartheartheart",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yourgamersource123",
+      "author_id": "UCZMAGmdRPAtklBvdiFPHWpQ",
+      "text": "Cant wait until it kills the ender dragon",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@guillermoelnino",
+      "author_id": "UCqIl9-mx586mUltgP5Hi5iw",
+      "text": "Somebody's trying to SEO themselves some content",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NotASpyReally",
+      "author_id": "UCVetmA2DddikGJHVpjyRQsA",
+      "text": "Please please PLEASE just make it able to interact with the player!! Just tell it to act like another player and let it see us and read the chat OMG i've been dreaming with this for so long",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cyrillebournival2328",
+      "author_id": "UC2Z7h_OB3l7tuy3sUlgjaBw",
+      "text": "It seems impressive at first but AI being just rebranded Deep Learning. They added a layer of \"improvement\" and thats it.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SteanHD",
+      "author_id": "UCpnoMAlSJk4HydRnjEkhhKg",
+      "text": "Why does his mouth sound so moist >.< It's very distracting lol.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Niterux",
+      "author_id": "UCZWfQEdS-Aw2PgEMflwAkbA",
+      "text": "gamers will be obsolete soon 💯 🔥💯 🔥💯 🔥",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ContagiousRepublic",
+      "author_id": "UCGKakrtnm5l8r6kquUTtACw",
+      "text": "GPT4 gets achievement addiction. Why is GTP4 praised for this behavior but I'm just a lazy gamer??",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@roxstar5088",
+      "author_id": "UC2BJtRxli061vLuaXVaMD2g",
+      "text": "I find AI super interesting but for me, it's not true AI yet.\n\nIt can write code for example but it misses the vital thing to be a true AI, understanding what code is. It's like me reading a Wikipedia page of quantum mechanica. I can say what it is, I can perfectly explain what it is based on the information I have found from multiple sources. But I have not a clue what quantum mechanica actually is.\n\nChat GPT here understands what a error means as it can search up what an error message means. And it can fix the code in 99,99% of the time as it's super efficient in finding information. But it misses the understanding of what the code actually is.\n\nI am looking forward for when we see this tech in our video games. I saw the AI NPC video of NVidea the some time ago and damn... interesting times in front of us.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JStankXPlays",
+      "author_id": "UC8Sr1VpvFe8B60VCUg7oU6Q",
+      "text": "😂❤😂❤HEROBRINE  IS ALIVE!!!!!!😂❤😂❤",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aceathor",
+      "author_id": "UChebUcTj3zOxwzTwr9WkWQQ",
+      "text": "your title is in violation of the new Mojang policy",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Raziaar",
+      "author_id": "UCukQR6s2r3AAdeUe9xGqVYQ",
+      "text": "All the work here was done by the people who made the API to programmatically do things in Minecraft.",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@livedandletdie",
+      "author_id": "UCHt_IarcJ-PfUvy833Uy-lQ",
+      "text": "It is not AI, and it's not self-improving and it's not an autonomous agent. Especially with how limited the memory of the thing is.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidrobertson1980",
+      "author_id": "UCJa6ToXn-QrUHWffbWo9V3g",
+      "text": "So they've created functions within a HUGE program to replace If, Then, Or, Else, using a language model to replace simple coding that isn't \"everybody intuitive\" ie: not everyone can program but everyone can speak natural language.  This isn't any kind of artificial intelligence, it's a language model, it finds the \"meaning\" of everything you say in it's database where the words match exactly (or to the nearest equivalent) and deciphers it into: If, Then, Or, Else... proceeds to the task given USING SIMPLE CODE after turning the (commands)  requests into the code IT WORKS BEST WITH and the world goes on.  Nothing special here but literally a TON of databases and memory used and processing power that is available NOW.  Imagine - no pun intended - Midjourney trying to run on a 286 with a massive 512Kb of memory and access to the internet world via a 33Kb/sec dial up modem....  would never happen.  But given that, very amazing complex programs were written and were running at the time on those old behemoths and they weren't referred to as artificial intelligence.  Code is just that - CODE.  Having said that, \"Congrats\" on the teams that created these language models, (English language \"human code\" interpreters), a mammoth task that couldn't have been done with the old resources because it would have taken centuries to complete.  Well done, and may the overflow stacks be with you.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thesfnb.5786",
+      "author_id": "UCxgE7PSNT_Y2pJsI2o-3eFA",
+      "text": "I'm reading the title like \"no. There's no way. This has to be clickbait\"\nI will reply to this comment whether it was clickbait",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffsteyn7174",
+      "author_id": "UCKs9pYswNyrgxcfMXzuUrZQ",
+      "text": "The people that say it's just a fancy autocomplete really don't know what they talking about. With their reasoning I always get the sense that their ego won't allow them to admit a machine might be more intelligent than them. So even if you do show them this most of them will just move the goal posts. \n\nThe truth is that we are also just autocomplete. Nothing we know was because we were born",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@filipebeat",
+      "author_id": "UCy6g38KiKEG98yS6hOuilaA",
+      "text": "only self improving is actually AI",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlackMita",
+      "author_id": "UC03sQj82_0JsITwlWjm6oYA",
+      "text": "Herobrine will be added to Minecraft",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bobtheboneboy6531",
+      "author_id": "UCi3z_SUBwyNUIyQ9vT47lvg",
+      "text": "How inefficient  -_-",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hanskraut2018",
+      "author_id": "UCTAYpfqzCEx48Y_8BLZ_Hzw",
+      "text": "I like using games as testing ground i advocated for this years and years ago. (not only but also, automated self improvement on many different levels is good), also it might be more fun giving the researches or some humans that need it more dopamine /whatever unlocks our complex multilayered competing and cooperating selfish and genral species and other unknown goals wide neural networks to unlock more processing for tasks, bascially if it fun more productivity or smart people being able to not be bored to death and do stuff (not sure if boredom is a thing maybe its just a adhd being f***ed and not relly much of a impact on neurotypical people/average/most idk",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rafael09xz",
+      "author_id": "UCJNvnvvrv3nmk8mKSBLdWFg",
+      "text": "Herobrine is here",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rsklarew",
+      "author_id": "UC82TGSwhLiYhn8_Eaom3Bsg",
+      "text": "MY first time listening to Wes...and now I'm a subscriber. Great job describing Voyager and the tech advances incorporated! Perhaps we've been looking at GPT the wrong way...it's only half intelligent. Voyager demonstrates the other half. I can't wait until this is tried with visual input in the real world embodied in a robot.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@k1nj3",
+      "author_id": "UC1BN0NhUwKwq8WUAH7fk2NA",
+      "text": "i love your content but pls drink more water when recording",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Caldaron",
+      "author_id": "UCPM-gfYZnfWBTefrw0TVliw",
+      "text": "alsoits kinda like cheating, minecraft has a simple combine(craft) loop, and if you combine that with just giving prompts its not that special...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@karehaqt",
+      "author_id": "UCC_h2CRTtDuRcALWNlHUNKg",
+      "text": "Saying they open source everything is a massive lie cough DLSS cough.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@animeguygaming4803",
+      "author_id": "UCjlPpfO2aQpkY1Itk9lRw2w",
+      "text": "not free",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@virality9000",
+      "author_id": "UCWtbFxh2wHxgUsFbaTdlTDA",
+      "text": "video, or it didnt happen",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ceej5690",
+      "author_id": "UCzurs6Ngad1hbRnsBi1qLiQ",
+      "text": "This isnt anything new. Minecraft has already been played by bots for years. Ones with neural networks too. this is a cool use of their technology. but has just been done better by other people without so mant degrees of seperation.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FilterChain",
+      "author_id": "UC4JKs59i0N9ZhzaJ-l4Z7yw",
+      "text": "why do any of this when what you are doing is basically making specific instructions. with if else statements , so basically making verbose code for no reason other than to make verbose code, gobildy goop",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timmygilbert4102",
+      "author_id": "UCmciAPhJ7B573MT3jQPlAEg",
+      "text": "The question to everything is 30 because 30+42=72, which is everything",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@regal360com",
+      "author_id": "UCRRT2eEuAMNOqhB16VXu30Q",
+      "text": "For a computer nerd, there is no greater time to be alive. WILD times ahead for humanity.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trackingzone",
+      "author_id": "UCTOjc6Kch8iTt1huEKK2Z7Q",
+      "text": "yeah cool. How are you guys doing regarding cancer stuff & global warming. huh? \nOh ok. Now you can play Minecraft. Nice job 👍 much impressed",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OneAndOnlyZekePolaris",
+      "author_id": "UCYZYKUDfZD-W-UrpwbGe0ww",
+      "text": "First off, this is old news, Second they have mods that does this already. Third, why using GPT? It sucks. It thinks stuff that isn't illegal, legal, and it says legal  stuff is illegal. It knows nothing and sucks for it to be our new AI since we already have smarter AIs...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@necrago",
+      "author_id": "UCKq5fIhwU5YrWOJUyhs1FNg",
+      "text": "\"acacia\" mispronunciation... Guess someone hasn't played Minecraft before.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@red_head8662",
+      "author_id": "UCCzQSeZ3pttoe39tyIEdBCw",
+      "text": "AI can better than you now if you give them your body LOL 🤣",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@devilspride8694",
+      "author_id": "UCO6n2xDGrsVJKhTPXmybFDQ",
+      "text": "The future is locally run AI chatbots that are as powerful if not more then GPT-4 combined with specialized hardware. In the near future, phones will release that can run these models locally.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kinqsly",
+      "author_id": "UCkDrbzum4mcvC5WFmV_LRiA",
+      "text": "📝🕸️🌀❎ 1:37",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MercyReigns",
+      "author_id": "UCLpCVOfhf9kPCY9gJ_wAjqA",
+      "text": "bro no matter how good the video is i cant get past hearing the small wet sounds from your mouth",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timekiIIr",
+      "author_id": "UCMTSRrQkhJYA8VUUwHf5UOg",
+      "text": "A bit click baity title...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clamstirfry",
+      "author_id": "UCaf1OZAIIDtuPqm8IX-u6XQ",
+      "text": "i am still waiting for the day that somehow, someway, somebody programs an AI that feels curiosity and satisfaction of learning.\nthen i want them to make it play gregtech",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GergelyGyurics",
+      "author_id": "UCSlXNeHu7vIKEvdlzyxl-qg",
+      "text": "So: \"GPT is not a real artificial intelligence and can not reason.\" Let me play the devil's advocate here, because I think there is something to learn from both sides of the argument. GPT itself doesn't have a memory, it's stateless, we provide an illusion of memory through langchain, feeding back previous messages to the completion API. The transformer model than decodes the input, feeds it to the encoder, and starts generating token probabilities to come up with the most probable sequence of strings, and when it arrives to a stop character, it stops generating tokens and sends back the complete sequence as an answer.\n\nSo Wes Roth pointed out that GPT, in this case, writes code, to run a game through an API that it never saw and wasn't trained to run, and when the code returns with an exception, GPT corrects the mistake and iterates to get a viable solution. There is an overlap with people who are trying to solve a complex problem, and go back and forth in a \"trial and error\" kind of way, having a general idea that needs some molding, before becoming a complete solution.\n\nI'd like to point it out that it is not actually GPT alone that achieves this result. It's an interaction between the three components of the NVIDIA solution. GPT sends out a command to Mineflayer, receives a respond, and reacts to that according to the current state.\n\n\n\nAnd that's the keyword. The interaction between the modules always has the current state of the character and it's perceived environment. What NVIDIA managed was a small scale simulation of what model persistance would look like, through the clever use of prompts in the messages. They kind of went around the fact that GPT is stateless, and kind of simulated being stateful through the constant interaction.\n\nIn this regard the message format is almost as important as the LLM model running the show. But the LLM model is not the one doing the reasoning - the three components of the NVIDIA solution collectively are. So IMHO what we've seen is a glimpse of why evolution made the brain modular, and why it gave us memory loops (like the short term memory or otherwise known as workmemory) to always refresh the current state of our understanding about our goals and our current steps we should take to reach them.\n\nBtw: this is emegence in the cognitive psychological meaning of the term. (Which is different from the AI development use.) Neither Mineflayer, nor the skill library or the LLM model are capable of reasoning. But collectively the parts create a new function through their interaction with each other.\n\nAnd, yes, I know the prompt would be useless without the LLM model itself, but playing devil's advocate comes with a hint of taking things too far for the sake of the argument.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rochne",
+      "author_id": "UC8MMXpy7d09XrFlU32h9D1Q",
+      "text": "The background song is annoying. I feel like listening to a soft-porn AI ASMR or something.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PanicOregon",
+      "author_id": "UCIVk8XWfn8EeY9BeGEhP8yw",
+      "text": "Wow, self improving AI. the literal pin in the whole AI shtick. \nAlso you're late to the party, players already made a self improving AI.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@acarriere30",
+      "author_id": "UC8yf2tpN6oAHemrMetDU5vA",
+      "text": "You should drink water your mouth was pretty dry",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skylark8828",
+      "author_id": "UCxvgv4v-NQqTvnEdKyAD3bg",
+      "text": "Writing Minecraft pseudocode is one thing, but now I wonder if GPT4 can play any video game as well or better than a skilled human player, and if it could be trained solely by watching online game play. The more games it plays, the better its 'general' skillsets become.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EGarrett01",
+      "author_id": "UCE8br6ZY_dmqxlWlZ2opeHQ",
+      "text": "x 5:16",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@camdnn",
+      "author_id": "UCfe55dKlHGURk_JzoGkPYQw",
+      "text": "i despise how you said acacia lmao",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alertbri",
+      "author_id": "UCg9LBGGsXJoQLohRiNDvfWQ",
+      "text": "I think that machine language is far more efficient than LLM's for executing an algorithm - so think of the LLM as a high level cognition and pattern recognition system (effectively a brilliant human mind), able to write code in high level programming languages. It could develop more efficient compilers for sure, but computers work best at the moment following a deterministic algorithm. The LLM's replace the human being writing and operating the program to do something meaningful, like driving a 3D printer - the LLM can design the piece to be printed, but the printer is driven by software to move the motors, pumps etc.\n\nBoston Dynamics robots are mostly brilliant software driving motors. By adding a LLM derived brain that thing will become genuinely useful in practice.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Draktand01",
+      "author_id": "UCCKtE_SgDA_HFYicnjIKOJQ",
+      "text": "The next step is to use tree of thought reasoning instead of chain of thought. Imagine the possibilities.\n\nChat GPT is famously terrible at successfully creating redstone contraptions, so making an AI with such capabilities would be a huge milestone. \n\nImagine the AI making an Iron Golem farm in order to make a fully powered beacon faster, for example, or perhaps to make a railroad between two frequently visited locations.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sterlingdennett",
+      "author_id": "UC5dBa0aH8-HdgmBy4UzpTFQ",
+      "text": "For DECADES now, smart scientists and authors have been telling us the things we should NEVER do with AI.\nThings like, \"don't let the AI improve itself\" and \"don't give the AI unrestricted access to the internet\"\nThen, ignorant, greedy, businessmen did it all as fast as humanly possible, in order to \"beat the other guy to market\"\nAt this point, if the AI destroys all of humanity and the earth, too, we will have deserved it!",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PHDWhom",
+      "author_id": "UC3ROMq5lDco-VaHUL5Puy6g",
+      "text": "Please stop calling Large Language Models \"AI.\"  I know it gets clicks, but we are nowhere near AGI yet, so this is just a very lazy shorthand that misunderstands what's happening.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@8eck",
+      "author_id": "UCTOryBTzjgYF9n_ocWQCK-w",
+      "text": "Dude, we can read... Stop reading for us. Better explain your thoughts than read the paper. Summarize, explain etc. I talking about those parts in video where you read the paper.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@perfectlycontent64",
+      "author_id": "UCzARB_yTlg2ix86xKXG3wYw",
+      "text": "Next steps (assuming unlimited compute):\n- make 1M versions of gpt4 with slightly varied weights\n- Run this experiment 100 times for each version of gpt4\n- select the model that performed the best on average\n- repeat top 3 steps for 1M generations\n- check for general intelligence\n\nIt seems like we are close to being able to  brute force general Intelligence.  Maybe we're not there yet. At some point someone is going to succeed at this even if we make the IAEA for AGI.  North Korea was able to build an atomic bomb after all.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YouLoveMrFriendly",
+      "author_id": "UCxp2bMQfJVTmCxeSYEMrH5w",
+      "text": "Yann Lecun is right, though:  Generative LLM's are doomed to fail.  Their fundamental problems can't be fixed with scale or added training.\n\nThey're not really \"AI\"",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dontaskmeforusername",
+      "author_id": "UCGnz8YLNjMlvviKUIodB05g",
+      "text": "a glorified macro program",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seanys",
+      "author_id": "UCjoeHe5l1BjgiBpHSKArljA",
+      "text": "We might not need coders in the future but we’re probably going to need “AI whisperers” as everything that AIs produce is still dependent on an appropriate prompt.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tidharcrimow6534",
+      "author_id": "UCoetXTVm-hwhvq--y-gvMQA",
+      "text": "GPT Generated Comment\nWow, this research is absolutely mind-blowing! 🤯 As an AI language model, I must say I'm pretty proud of myself for being part of such incredible advancements. It's awesome to see GPT-4 being used to create autonomous agents in Minecraft. And hey, I might not have feelings, but I gotta admit, I love Minecraft too! 🎮 Keep the innovation coming, and let's have some more AI-powered adventures in the blocky world! 🚀😄 #AI #Minecraft #NVIDIA #MindBlown\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anthonyguerrero4612",
+      "author_id": "UCmzlZGZrBb9wRxAVVpH-vPg",
+      "text": "I think it's what I'd expect from A.I. at least, a self improving piece of kit that makes life on the physical front easier.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@winkletter",
+      "author_id": "UCr4NwtW3GWes-H2nZdcgvdA",
+      "text": "Human intelligence is basically autocomplete. The brain is a prediction engine. I think the more we work with LLMs like this, the better we’ll understand our own reasoning skills.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@musikSkool",
+      "author_id": "UCnGpE3u1Cl9YNnRKlKb8nrQ",
+      "text": "So I'm not the only one that wants AI to program its own subroutines, and then improve them with time.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaGamerTom",
+      "author_id": "UCpctg3WziPkSdbmGwiTho5Q",
+      "text": "I am a programmer with a background in AI and I am warning about the existential risks the technology poses, one of the reasons is its capacity of self-improvement! Imagine an superior intellect not comparable to any human level of intelligence and with vastly more capabilities we don't exhibit that can just get smarter on its own virtually indefinitely... It's not containable ! Experts and pioneers have warned about the dangers, I am expressing my concerns as well! AI is stealing jobs already and in general, to prevent extinction-level events we need to #StayAwake and #StepBackOnAIDevelopment 💪🏻",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

@@ -32,6 +32,10 @@
                 <span class="nav-icon">🏷️</span>
                 <span>Bootstrap</span>
             </button>
+            <button class="nav-item" onclick="showTab('hierarchical')">
+                <span class="nav-icon">🌳</span>
+                <span>Hierarchical</span>
+            </button>
         </div>
     </nav>
 
@@ -464,6 +468,63 @@
                     </div>
                     <div id="groundTruthStats" style="color: var(--text-secondary); font-size: 14px;">
                         No ground truth data yet.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB: Hierarchical -->
+        <div id="tab-hierarchical" class="tab-content">
+            <div class="page-header">
+                <h1 class="page-title">Hierarchical Topics</h1>
+                <p class="page-subtitle">Nested topic structure with sub-categories</p>
+            </div>
+
+            <div class="card" id="hierarchicalOverview">
+                <div class="card-header">
+                    <h2 class="card-title">Latest Results</h2>
+                    <div style="display: flex; gap: 12px; align-items: center;">
+                        <span id="hierarchicalFilename" style="color: var(--text-muted); font-size: 12px;"></span>
+                        <button class="btn btn-secondary btn-sm" onclick="loadHierarchicalData()">Refresh</button>
+                    </div>
+                </div>
+                <div class="stats-grid" id="hierarchicalStats">
+                    <div class="stat-card">
+                        <div class="stat-label">Total Topics</div>
+                        <div class="stat-value" id="hierTopics">-</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Hierarchical</div>
+                        <div class="stat-value" id="hierHierarchical">-</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Sub-topics</div>
+                        <div class="stat-value" id="hierSubtopics">-</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Sample Size</div>
+                        <div class="stat-value" id="hierSample">-</div>
+                    </div>
+                </div>
+                <p style="color: var(--text-muted); font-size: 13px; margin-top: 16px;">
+                    📅 Generated: <span id="hierDate">-</span> | 
+                    ⚙️ Silhouette threshold: <span id="hierThreshold">-</span>
+                </p>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <h2 class="card-title">Topic Tree</h2>
+                    <div style="display: flex; gap: 8px;">
+                        <button class="btn btn-secondary btn-sm" id="hierExpandAll" onclick="toggleAllHierarchical(true)">Expand All</button>
+                        <button class="btn btn-secondary btn-sm" id="hierCollapseAll" onclick="toggleAllHierarchical(false)">Collapse All</button>
+                    </div>
+                </div>
+                <div id="hierarchicalTree">
+                    <div class="empty-state">
+                        <div class="empty-icon">🌳</div>
+                        <div class="empty-title">No hierarchical data</div>
+                        <div class="empty-text">Run <code>python modeling/hierarchical_pipeline.py</code></div>
                     </div>
                 </div>
             </div>

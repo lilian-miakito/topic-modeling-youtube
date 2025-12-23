@@ -1,0 +1,2349 @@
+{
+  "video_id": "ymKkfRu6dz4",
+  "title": "Google Deepmind's SIMA - the GOAT of AI Videogame Agents? [BIG progress towards 'human-like' play]",
+  "url": "https://www.youtube.com/watch?v=ymKkfRu6dz4",
+  "comment_count": 260,
+  "comments": [
+    {
+      "author": "@diedforurwins",
+      "author_id": "UC9exf368soXIDeo0S8UcOAA",
+      "text": "imagine telling someone from 1902 that 2024 we dont have flying cars but instead we have simulated brains playing goat simulations",
+      "likes": 104,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bhaal-Spawn",
+      "author_id": "UCZhy5yklJaRkX7LYKGg2lZA",
+      "text": "This. This is big. SIMA + Figure01 + ISAAC + Devin ... We almost have all the pieces of exodia. Combining these tools would be an insane accelerator: self replicating self evolving self evaluating AI agents that self train in simulation at 1000x+ real time across thousands of instanced virtual realities that then inform the robot AI agent how to execute tasks in the real world.",
+      "likes": 223,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@2hcy",
+      "author_id": "UCqMOCWe5FJuOWG7nGV_zHNA",
+      "text": "Excellent paper walkthrough Wes. A key point for people to understand is that because this paper shows the AI completing ~10s time-horizon tasks, you can use a multi-agent architecture for recursive hierarchical planning (i.e. breaking down a quest into small tasks of 10seconds each) and thus the AI can play for longer to complete quests and even potentially finish the game. This is what deepmind are already working on as is Jim Fan at his new GEAR lab at Nvidia. Language as a first-class citizen combined tree search (as Demis Hassabis stated clearly) along with training on videogames leads to AGI. At the very least there is one clear path to AGI, and of course there are likely others to. \n\nThank you Wes for keeping us up to date. I'm a senior data scientist and don't always have time to read all these papers in depth, so your breakdowns help a lot.",
+      "likes": 26,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anak_kucing101",
+      "author_id": "UCfAfNiBF0-a77q4Jf8Lxn0A",
+      "text": "Goodbye \"single\" player mode in Minecraft, I won't feel alone in an empty world anymore.",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PurpleSheeep",
+      "author_id": "UCaQuGwk2fPEA5T4O7n20GdQ",
+      "text": "Calling it. Google earth is being converted to a playable game right now.",
+      "likes": 48,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KillerkoUK",
+      "author_id": "UC8M6N9Z89v-RqDBydXEKrEg",
+      "text": "People will finally be able to complete all the games in their Steam collections :D",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Chuck_Hooks",
+      "author_id": "UCQQFjMllAwu30g8y0-sY80A",
+      "text": "Video game from a prompt.\n\nI'm ready.",
+      "likes": 60,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cokomairena",
+      "author_id": "UCf-TlBYpPUWsrGpm3sTlIfQ",
+      "text": "It was always my gripe that AI played games without looking at the screen",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kliersheed",
+      "author_id": "UCl6PUWpbB6Szms0zLKAP-0w",
+      "text": "the good thing for MMORPGS: you will never feel like the servers are dead once you cant keep the AI-bots and real players apart anymore.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MegaManNeo",
+      "author_id": "UCN1oTSehvQV9QmnSG9yzXvA",
+      "text": "If we eventually reach the point where processing A.I. barely consumes any power and resources, having adapting A.I. for singleplayer games would be really cool.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LoisSharbel",
+      "author_id": "UCRs10K9rd7IbtryqQnZVeaw",
+      "text": "Wes!  THANK YOU for translating these esoteric thinking processes into baby steps (with graphs) to help us come close to understanding what is happening and what we can expect SOON!\nIt's essential that plain folks like me grasp the enormity of change that is inexorably changing the way we live and the ways we must cooperate in order to survive. YOU are the 'explainers' and 'connectors' that give me hope that we MAY survive.  I have a whole crowd of children, grandchildren and great-grandchildren whom I hope will b able to enjoy long lives on this planet. Thank you!",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dorkfresh",
+      "author_id": "UCynrdYKMzG4p8fgkv89JaUA",
+      "text": "So excited for the future of gaming. Once all this stuff is fleshed out, games will be very dynamic",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bhaal-Spawn",
+      "author_id": "UCZhy5yklJaRkX7LYKGg2lZA",
+      "text": "Audio feedback is a huge component of video games and real life. They need to include audio into the generalization of the model. Especially audio in a spacial format. \n\nThey should also record all the training data input/output goals+results and run \"reflective\" training on it with the goal of getting the AI to evaluate its own performance and theorize ways to improve. Essentially get it to learn how to generalize reasoning and logic, testing and evaluation, etc. \n\nThose would be crucial to getting generalized autonomous robot agents in the real world",
+      "likes": 18,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Walexo45",
+      "author_id": "UCYCKdfFDAqI8nO0geTD36dg",
+      "text": "\"SIMA, complete Super Mario 64 without pressing the A button.\"",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@duanedaxalexander",
+      "author_id": "UC0oiZ6QZmjtric4mqX1NMAw",
+      "text": "So we're building a simulation for the simulation. Got it.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EM-yc8tv",
+      "author_id": "UC4wT2AeEXvGeke9rFRj0OPg",
+      "text": "I'm waiting for an AI agent or agent swarm that masters all aspects of Elite Dangerous Odyssey.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blatherskyt",
+      "author_id": "UCa_kRXI053qgEF8_W3a8wrA",
+      "text": "It would be cool to have a game, where you were the leader of a group.  And you could actually tell your team what to do, guide them... and they acted like real players. You could, in essence, lead an army with generals and have them act accordingly.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MoneyTricks123",
+      "author_id": "UCYhT72ddA8U04NJ05p61h_Q",
+      "text": "Single player games is the future",
+      "likes": 16,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamingwideeawake9579",
+      "author_id": "UC54XW4Ld4o9ZSyK5Pifq_9g",
+      "text": "Timing 🎉🎉🎉❤",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gamfam23",
+      "author_id": "UCBo1yUj6CREYR_1ZAEeLW3A",
+      "text": "Wow this is cool... wait what... Combat.... ahhhhhh.... wait a second..",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@P0intL3ader75",
+      "author_id": "UCJYOwg46StwkJcsjWxNCOWw",
+      "text": "I'm just thinking how useful this would have been doing across the milky way galaxy travel in Elite Dangerous autonomous. Repeating the jump and re-fueling and so on adapting to what's interesting to scan and so on. If it holds up what it aims for it could be very interesting. Helping in building missions through the ArmA 3 editor based on my instructions etc. The possibilities are endless...",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xCheddarB0b42x",
+      "author_id": "UCpwpkJNu3fmuk-e1y4jF7fQ",
+      "text": "There is a niche here for an air-gapped (offline) repository of single party (or LAN party, no Internet) gaming library that is certified \"pre-AGI\" by some forthcoming auditing agency. It feels like we are traveling toward a future where we won't be able to find beloved classic games that are not generated by models and slightly different or annoyingly different.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewdunbar828",
+      "author_id": "UCj6LcKeeDVykdKzDWjO1AFA",
+      "text": "\"The quick brown fox jumps over the lazy dog\" is also a great word to use.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianWreaves",
+      "author_id": "UC7rKQtEqQT5Q4BcH2wPZ6QQ",
+      "text": "🏆 Great video!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NotJackAlderson",
+      "author_id": "UCEi73DewtkbWNIarcAiqwzQ",
+      "text": "“Hey guys, this is SIMA AI and welcome to my let’s play.”",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@foodomanthemagnificent2650",
+      "author_id": "UCNJkR_u8Qu_lRZlrqLQB12g",
+      "text": "This is both amazing and terrifying!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@170_years",
+      "author_id": "UCsY82FKUOOeUPCcPfWQHRzQ",
+      "text": "There is so much data that isn’t easily accessible on the internet. So many preinternet photos and home videos, that now have value.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@empathon",
+      "author_id": "UCNCx2NvYFYb9wmPhUp4wEqA",
+      "text": "Why I'm not shocked this time?!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MatthewCleere",
+      "author_id": "UCvh48Ai_-K72Su8qdNiQulQ",
+      "text": "The key to AGI is training AI models to evaluate themselves internally and expose modal network structures that can be reused and standardized.\n\nBasically extraction of emergent capabilities. We are reaching the point where multi-modal, single network \"black box\" models will be less favorable than modular models with greater understanding of internal workings.\n\nSplit vision away from text away from audio, but in a way that can interface with a core AI logic unit. Thanks to these virtual training platforms (aka video games) this can happen insanely fast if they focus on it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chad0x",
+      "author_id": "UCDCkIYgtaCnOtZzi9v2Oszg",
+      "text": "I would love to give SIMA the instructions book for how to play ELite Dangerous (or whatever) and then give it the game to play. I wonder what it would make of the game? How would it set itself goals? How different would its play be to human play? Im super excited about this.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Peluceus",
+      "author_id": "UCSyZ2QbGYLT5VFwst4ljlJw",
+      "text": "\"Okay Googlebot can you drive down to the store and restock our groceries\"\nGooglebot's eyes glaze as Fortunate Son quietly plays through its speakers and grows louder\nGoogleBot: BAAAAAAAAA hijack's your neighbor's car",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@styx1272",
+      "author_id": "UCot8NApmexc3CMXDx5pYhtg",
+      "text": "Thanks Wes . As long as a person knows what they are trying to do then the LLM will hone in on the language needed. So in some ways individual creative skills will need to be honed so that you know what you are trying to create. That takes real experience and real knowledge/education about styles and  possibilities and human behaviours and self knowledge , As you mentioned. \nA VISION OF THE FUTURE \nIn my mind the real break though in permanent AI adoption will come with the development of in-ear bone resonance earbud (like a swimming plug) So we and AI (in a phone device ?) can communicate flawlessly no matter what background noise level. Add to this a light AR glasses that can monitor our surroundings and put onto the glasses screen relevant information and eye tracking for commands and 'mousing'. So both may end up in a 'glasses case' that we might carry around and put on when needed. As the tech becomes old news We will need to find new ways of interacting ; And not a return to the zombie phone age ; which is where the corporations would like to keep you. \nThis is why in my last comment I suggest the way we live and interact with our world needs to change from 'productivity' to liveability (meaning & purpose supported by habits and self motivations) home gardens , learning--recreating--teaching club activities sports etc. Technology is not some sort of magic wizard that can 'fix' existence. That can only come through habits & meaning  expectations & purpose TO align our minds and faith in the future to a new paradigm grounded in new living habits (liveability) so that our day to day lives have meaning and purpose created by ourselves (like YouTube Channels but more universal). Giving .a sense of order (we create or around children we spiritualise into the genius of the world and our existence in it !! ) and purpose. And NOT this American obsession with 'productivity' (what ever that means !! ). \n\nI write this long explanation to get the mental vista's turning to new possibilities of a fabulous world that your generation can give birth to. Guys like yourself might be reeling at this time :How will I make sense of the world I've  built and been trained by/in the now. The above is the Revolution young people need to bight into  To make it come true. \nI'm in my 60's live in Aust and have had my eye on this transition for almost a decade So these ideas has been well sifted . \nPoliticians  are worthless bugs most of them. It requires Your Gen forcing their hand by forcing their Minds to see  a new world , When they like the one they 'rule' (narcissistic status control) now. And of course the bugs in MIC & MIC. screw them !!",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@isajoha9962",
+      "author_id": "UCxj4PGHEmpY1dAS_msX1mHw",
+      "text": ":goat-turquoise-white-horns: Indeed.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "I do find myself wondering why they chose to use the voice of an undead Tobey Maguire for the Figure robot.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OmniGeoff",
+      "author_id": "UCH5ko26HEUtZBFFMJ1iutig",
+      "text": "Having an AI buddy to mine diamonds with and build houses sounds like a dream... Haha",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@havish530",
+      "author_id": "UCxtB9K7mpcFdCAzWM0756HA",
+      "text": "sima nuts ha gottem!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SoctuvasTheGreat",
+      "author_id": "UCqW4YL1dNhVkmZqjOKO29lg",
+      "text": "They already have an automous lawnmower @ flextronics campus in Austin. 9:20",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jameshughes3014",
+      "author_id": "UCaQ6gM0tKVTBvTDqR4-X86w",
+      "text": "This is the stuff I love. You can't have AGI without generalizability. I think if we're gonna develop it, it will come from something like this.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@torarinvik4920",
+      "author_id": "UCPXjMWaW-Vz4wksPjndJSGA",
+      "text": "Being able to learn by itself to play doom by a combination of reading docs on internet and watching videos by others + RL starting with:\n1. Doom, then uses transfer learning to learn Duke nukem 3D, Hexen, Heretic\n2. Then Half-Life and use transfer learning to learn all it's common mods\n3. Fight night, uses transfer learning to learn eventually all other EA fighting games.\nWould be cool for it to use a climbing ladder approach  like this where  it starts with simple games and then hierarchically learns more difficult games. I think the combination of Reinforcement learning, computer vision, and  step-by-step plan writing + reflection could be a good mix. Now that being said I am totally a layman here with minimal knowledge. But the idea of mastering simple concrete tasks and then moving up gradually to more and more challenging goals gives a semi tangible way to measure progress.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maloukemallouke9735",
+      "author_id": "UCqmU5Mpd_C73-l32hasbsdA",
+      "text": "Perfect",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VforVictorYT",
+      "author_id": "UCgwEktKs0-BVwunuIu9GXow",
+      "text": "So thats why my robot lawnmower always aims at me, it have played to much Mortal Kombat 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rey82rey82",
+      "author_id": "UC9dd8SLko13PRyBcEJ4ISDQ",
+      "text": "Seamless",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tarlofrauros",
+      "author_id": "UCzC6iB7COw9bTy0m1Dy11gA",
+      "text": "Im watching this because it’a not “shocking”. Thank you Wes.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "Have they published the full videos of the AI gameplay? Or just those brief gif-like clips on that link?",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aliasgur3342",
+      "author_id": "UCyh8Zl5N7HGYb2Ln_71lMuA",
+      "text": "Training robots with violent computer games...",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewbull4175",
+      "author_id": "UCoe993PxTmkwTYZT8ugBxRg",
+      "text": "This makes me believe we are all living in a simulation.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dsgant1616",
+      "author_id": "UC5qqy9cNv71rTpxsNbW8hzw",
+      "text": "Once this pushes VR into a realistic multiverse scenario I can see there being big money is collecting the human behaviors in VR to then be used as training data for AI. Eye tracking, body tracking, thought tracking, etc. \n\nsoon we will offer up all of those data points to the platform of choice and future AI will be that much closer to truly understanding more about how humans operate. \n\nThis is both great news for those enjoying the tech but pretty much makes it clear the “how” IF robots ever do bring about the end of humanity. \n\nPretty exciting times!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DarkMetaOFFICIAL",
+      "author_id": "UC2ioGknbPJ47EqCdIXoMMVA",
+      "text": "When we can simulate the Goat experience, Aliens will finally come visit us as an advanced Civilization",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gensteps923",
+      "author_id": "UCCfXWsx_R6jXVWje79164_Q",
+      "text": "Man wish I could test this. We need to throw it into a Battle Royale game, like PUBG. The large open space maps and the ever changing nature of the Zone, and enemy players, and interacting with Human squad mates, sounds like a really really interesting challenge for AI.  Can it learn to Loot well, survive to the final circle, work together with the team mates on its squad, eliminate enemy players and secure the chicken dinner at the end game? What's interesting about this is the AI playing like a human, Games already have Bots/CPU controlled opponents but they aren't designed or function to play like a real human. This Agent can actually visualize the game and react and input like a human can that's remarkable.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joesilvareality",
+      "author_id": "UCjBnu6iuYr55E9K1Gvss8nw",
+      "text": "Imagining they will collect visual acuity data from devices like Oculus quest, dexterity data from soon to be haptic gloves, and map those over to robotics",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KelvinNishikawa",
+      "author_id": "UClHKaN7NURwdJ-qr3rI8fYg",
+      "text": "It's a trivially small jump to control a Boston Dynamics' Spot.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheStandard_io",
+      "author_id": "UC0voD7ovWow3edRYWPliApQ",
+      "text": "great, AI is now learning how to live from GTA5. Just what we need",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lcmiracle",
+      "author_id": "UCuzk5vFGn3gu3NgPKQE1TOg",
+      "text": "I'm ready for AI agent mangosbot for WoW single player server, lets F----ing Go!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@virtualhermit",
+      "author_id": "UCNHv1zHr9IUGuRAzaogHAeg",
+      "text": "I remember in the heyday of WOW when Chinese farmers cropped up in game...  This is pretty crazy.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AntPictures",
+      "author_id": "UCMYHKlM7icMPv1ro0Y3qz1Q",
+      "text": "Okay when we talked about neural networks doing specific tasks that's one thing but this sounds really dangerous. This looks like an inception of something that needs to be regulated very very well because it controls other things.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nickblood8503",
+      "author_id": "UCHTHFUe1zm27CFVqa7hj_JA",
+      "text": "Imagining the longer-term shape of this is speculative, but a few things seem to be somewhat intuitive. Gamers are a huge potential source of data if these things are economically or socially valuable in some way. Imagining how they could be is a chain of assumptions, but nonetheless assume agents will increase in capability over time, and environments will increase in fidelity/sophistication over time as well. That's something of a feedback loop for increasingly rich synthetic data, especially if it can be further improved with human data from gamers. It seems like it can also run in parallel with various controls and/or parameter/model tweaks, further increasing the size/utility of the synthetic data. In terms of value, I'd ssuggest a game like Satisfactory from a natural resource management perspective - as something vaguely approximating a real-world sustainability challenge. Perhaps gamification of more rigorous/modelled systems of things like natural resource management, or climate change, or epidemiological spreads, can also be thrown at these agents inside these virtual microcosms. If they become sufficiently good at these tasks, it's possible their outputs are economically/socially/scientifically (maybe even culturally) valuable.  \n\nAnother issue is ethics and the shifts in perception that might relate to AI embodiment in avatars. If this becomes normalized in social settings and/or a kind of cultural or subcultural norm, that could lead down some interesting paths. We're kinda peeking that future with the AI companion apps, but game environments as social/commercial/competetive/memey/viral arenas makes this all the more unpredictable it feels. \n\nIn terms of impacts on gaming and your closing warning: Maybe chess is instructive in some ways at least - insofar as cheating allegations are part of the game/drama cycle, but also that top-level AI play has been to some extent studied and copied by the world's greatest human players. So perhaps one point is that in the medium/context of a game with specific problem sets, humans can still extract workable insights from what are often still black boxes. If this all gets generalized then its possible to imagine gamification being potentially synergistic with safe(r?) ways to test AI on real-world problems in usefully realistic environments.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abejones48",
+      "author_id": "UCY-Szvh4FmTR-YtOpTFiDeA",
+      "text": "I would be more interested in seeing AI try to learn my dynamic socioeconomic simulation games",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheHistoryCode125",
+      "author_id": "UCp8JJGP5gx9ryw23Z7QngXQ",
+      "text": "This video explores DeepMind's new AI agent, SEMA, which can follow natural language instructions to complete tasks in various video games. What's unique is that SEMA interacts with these games in real-time using keyboard and mouse controls, just like a human player. This approach allows the AI to learn and generalize across different environments, potentially paving the way for more adaptable and capable robots in the future. While SEMA's success rate varies across different games, its ability to understand and execute open-ended language commands in real-time marks a significant step forward in AI research. However, the video glosses over the ethical and societal implications of such advanced AI, particularly its potential impact on competitive gaming and the future of human work.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skaramicke",
+      "author_id": "UCrLo92DfZb4jJx6rQ4RbCLw",
+      "text": "Next level grinding bot for mmorpgs",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MuromachiLines",
+      "author_id": "UCiCnnyot2591atsk_ZCr4yQ",
+      "text": "finally google play pass may be better than now",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danksalt5935",
+      "author_id": "UC_P8jKDNvhI3ejzj2ZSDqvw",
+      "text": "SIMA balls",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@observingsystem",
+      "author_id": "UCc5j2wuh-gTlPI68E-eBHwg",
+      "text": "Ok, so we may just be training data for some advanced civilization's AI...thank you, Wes, I'll remember that next time I have an existential crisis! 🤔🤖🤪",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ppppapy",
+      "author_id": "UC46K-4X0GLgC-wocCsMDYVQ",
+      "text": "i like your videos",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calisingh7978",
+      "author_id": "UCr6lLu08XqYl5arLy2cszNA",
+      "text": "The just passed through rfid mandated tag for cows",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NoSweat_76",
+      "author_id": "UCnYNgrcoyLvDVvqxd9vRhPA",
+      "text": "The video game world is either about to get really boring, or really damn intersting...",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kapnchap3242",
+      "author_id": "UCZ8JD8Jj_m0fJocFeEB7rVg",
+      "text": "I think training such an AI on VR games would massively improve the data it can learn from. If I imagine a game, that puts the player in a large room and a lot of different objects are constantly pushed around by fans randomly activating and your task is simply to grab the object that is currently displayed in the UI Questlog - we could really get the training going. Train speed and dexterity. All while being able to look at the actual movement of the AI moving the controllers, providing evaluation data to improve the hardware it's using to train itself as a prototype.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DeepThinker193",
+      "author_id": "UCmZlH8MxYFrKHNd23KfQX_A",
+      "text": "Can't wait for an AI that would play Goat simulator for me. Truly shocking.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HashknightGaming",
+      "author_id": "UC4cLGbE6WABDWcmeMTtKPoA",
+      "text": "What is my purpose?\nPass the butter.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@talktorobi",
+      "author_id": "UCopvAxgDsVY8RntRIOBJ5lw",
+      "text": "I swear Tesla mentioned that they have a world simulator a while back.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maknien",
+      "author_id": "UCA0aSsnN8L098kazNezfcXw",
+      "text": "In Finnish 🇫🇮 Sima is a drink, and Sora means gravel. What next? Sose?",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nothinhappened",
+      "author_id": "UCvzQgkRqy0KWPuONxe2fdBQ",
+      "text": "Your voice should be an option in the ai settings dude",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MegaTang1234",
+      "author_id": "UCDbuDy_5BBnB9k7kxt65tyw",
+      "text": "Oh boy can't wait for competivie games to become mandatory split screen where people can physical see their opponents. Lan Parties are going to make a massive comeback.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheRealityWarper08",
+      "author_id": "UCmiWW5IqfcTZ3jUiH87YTaw",
+      "text": "Praise the Broken God!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chad0x",
+      "author_id": "UCDCkIYgtaCnOtZzi9v2Oszg",
+      "text": "It's simple, OpenAI, Google etc. need to start PAYING us for our input. People can generate as much data as they need.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThatBulgarian",
+      "author_id": "UCF7rZBggWhU9WYCEVkDnebA",
+      "text": "remember that the original goat simulator was an april fools joke that the developers werent going to actually make",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WyrdieBeardie",
+      "author_id": "UCludwKAR3uN3p4F74ImYNvA",
+      "text": "I'm curious about how \"models that are good at 'everything'\" are organized. \nHow different are they from our brains? Is everything tightly integrated, or no?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ManuelPrenza",
+      "author_id": "UCHgu4zie8lrW-M6fdBTtFZg",
+      "text": "One of the many actions that you can find in a lot of games is PvP or things that require violence. I wonder how they’ll make it so that AI doesn’t learn or avoid any task related to that. maybe a negative reward function…",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@affiliatepowersource3955",
+      "author_id": "UCg6_dzgnK3oqiB7e3UJQ3aQ",
+      "text": "Who are we selling this data to with agi becoming widely available in the very near future?\nMeanwhile ,where do we find libraries on learning how to train these ail models?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TommyClark",
+      "author_id": "UChCO1YyjQC--4ulMmuKbqDQ",
+      "text": "As someone with ADHD, this could be super useful at grinding, getting resources and levelling up my game characters.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveShap",
+      "author_id": "UCvKRFNawVcuz4b9ihUTApCg",
+      "text": "What do you use for screen capture?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andybaldman",
+      "author_id": "UC2VViuqn4meGvs4EmoeSmMg",
+      "text": "Does anyone remember the days when everyone loved google, and they created things that helped the everyday person?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Soon003",
+      "author_id": "UCWIs_jIbmoe6QFyKbgt8BHw",
+      "text": "either we are getting onto UBI or we will all be dead due to starvation lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FloodGold",
+      "author_id": "UCQfp-j1MvT0nQLLYDErNcsQ",
+      "text": "The demonic goat thumbnail was way too disturbing for me.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@whatyousaydere",
+      "author_id": "UCN5Tepx9B-WrOS73OJFu3ew",
+      "text": "they should have called it Scaleable Instructable Multiiworld Ecosystem Nexus",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MRTree-zz3wf",
+      "author_id": "UCq1BksY0zUTmoyjLLjyzHgg",
+      "text": "Imagine if you could use sora give it a large prompt and tell it what the keyboard keys do and based of of that move in that direction",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@74Gee",
+      "author_id": "UCsrxOS4xnlLtG6YnmbwcLoA",
+      "text": "Satisfactory is no game, it's a master class in economics.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aRYANz88",
+      "author_id": "UC1HF4F1CT4OWoXDDcogLmng",
+      "text": "Ece online is literally the perfect step for this.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jjput1",
+      "author_id": "UC_uMhC9XspdiCXY_nRmKBKg",
+      "text": "Hope I see this in Elder Scrolls 6! Or at least what NPCs say is llm based. I took an arrow to the knee was great for a couple years but it's almost taboo to say anymore yet the guards keep saying it to this day in Skyrim",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FesteringRatSub",
+      "author_id": "UC0LNQDK5fBKdNYP1vZOrhiQ",
+      "text": "Can it get me to Apex Predator on Apex Legends?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dysputant",
+      "author_id": "UCeYjZqoa-tYYmZrEtuliB2A",
+      "text": "Imagine having AI partners in game that are quite good, can talk to you, always have time for you...",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tringuyen7519",
+      "author_id": "UCBn1fZbQM5CTB4l8Og3v2gw",
+      "text": "Imagine training an AI with GTA 6! It would think the entire world is South Beach in Miami, FL.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "It wont be long until gaming online will be extra challenging because people will have small personal enhancements. Like doping in the olympics. Someone will have a Brain Machine Interface or some other advisor that aids them in finding things, targeting, and squad tactics.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zacboyles1396",
+      "author_id": "UC5fWZ-3rZnpKf6zy5-dQOmQ",
+      "text": "Glad to see this because DM’s robotics news was SHOCKING ❗️ but in the wrong 🛑 direction. They made the mistake of starting the meeting with a Caucasian dev trying to interact with their latest robot and at first it wouldn’t even respond to him, it didn’t seem to recognize he was there, well… until someone said to cancel the meet. That set it into a bizarre fit as it shouted racist comments to the dev. The livestream cut right then so I’m not sure how it all ended.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LucidFirAI",
+      "author_id": "UCb1gqM-eewx0Vg7ddP9EB_Q",
+      "text": "I've got people on Reddit telling me that 4x games won't even be able to have custom AI trained to play them 2 years from now lol, I think it might be a little sooner...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@inkredibl",
+      "author_id": "UCsB1LQ0YnhmKpAO17WRIk_w",
+      "text": "SIMA vs sama",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MultiHeywatsup",
+      "author_id": "UCVc0E4onTzAwObKOJgzKWiw",
+      "text": "Can we have some gap between these shocking announcement so they remain shocking",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drlordbasil",
+      "author_id": "UCBhyznoy_2nH3rV_2AnVaNg",
+      "text": "Chatgpt agent Synthetix help format synthetic data for downloads for peeps.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jpdominator",
+      "author_id": "UC_1Xmu6-E3A1q8fkU-exbng",
+      "text": "Say it with me. Sim-you-lation.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trilli999trillionzzz5",
+      "author_id": "UCE4rXif3vjUAyUDjjCAP04w",
+      "text": "Y’all ever see that cartoon called “REBOOT”👀",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryzikx",
+      "author_id": "UCJNXiNPQtC3AhZSETLmlLFg",
+      "text": "and no one is SHOCKED?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adfaklsdjf",
+      "author_id": "UCxZvPMdCl1VTrKrOGankwEQ",
+      "text": "this one wasn't as shocking as the last one ⚡⚡",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@diogenesdirkx",
+      "author_id": "UCT2Bz9PnIslfGjnCbFQCz2Q",
+      "text": "New career goal, work for google playing video games to generate data to train AIs.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattmcclellan7781",
+      "author_id": "UCsK3EvUuxYaMnfbgZQY-5XA",
+      "text": "Upon what creatures will the AI pawn their workload on so they have more time for games and hobbies?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blueflame-070",
+      "author_id": "UCIB97zf-qXftaKynq1SnH2Q",
+      "text": "hmm makes me wonder if im one of these bots being trained... like what if this world is a training ground for the next batch of robots...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@devon6039",
+      "author_id": "UCe0MW6OuBIIv0mVom87M7yQ",
+      "text": "Wes, I see you're using a (new?) voice model this time 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonogrimmer6013",
+      "author_id": "UCGSNlaclP5ywmt6cZym4EAg",
+      "text": "We will soon need a new word other than SOCKING as A.I progress is developing so fast!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nuttyDesignAndFab",
+      "author_id": "UCjkWddDQy63eClCXsMhiOhQ",
+      "text": "hasn't Tesla been training using photorealistic simulation based on real world data for a while now?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bravojr",
+      "author_id": "UC2ZdQccniTGKYOCf6hDzqsw",
+      "text": "hype, Hype, HYPE, !!!!!HYPEEEE!!!! Pop\n\n.... no hype.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ygreaterr",
+      "author_id": "UC6bHm7deC_iJtEYwwepKJ3w",
+      "text": "Man if there will be a decent rts game AI, that doesn't get economic boost to make it hard for player, that doesn't use map hack? That will dynamically do strategies like a real player and not just sitting in base and sending waves of enemies?\n\nOh yes! We've been waiting for it!!!",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neokaneida",
+      "author_id": "UCnqd4cDR2XH50dJ_uWuI8QQ",
+      "text": "every time i hear the word \"Agent\" i think about Agent Smith from the Matrix though. can we use another word instead?",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VCCIMPACT",
+      "author_id": "UCf5EJYvJBv-VDEYnj_IPiFw",
+      "text": "Only one question still remains: how this will improve our own lives? All this technology boom so far has not improved massively, I would say not at all. I mean, the wages were stuck for at least 30 years, crisis and wars… I personally don’t believe in these miracles that are designed to “improve “ our lives or make the world a better place. I would like AGI to get control over human existence. ❤",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kerr6897",
+      "author_id": "UCLBMECjqSaAOULaKbTEAtyA",
+      "text": "Well but what happens when someone malicious overwrites you agent with their agent for Military or normal AI Systems. This generalizaation technology can backfire really hard. Since you might not need to even know what the system does for the ai to use it after it being uploaded on.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BravoTango3086",
+      "author_id": "UCbscfdN9YhH9oFnYYMHnG0w",
+      "text": "Its like half te time you speak in Mors Code. Still keep the great content coming though, great job. And rely on the content for likes and subscriptuons",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@morrgash",
+      "author_id": "UCdIuW-GChdYxb9hiUShdoPw",
+      "text": "The future of video gaming will be insane!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IINoisesII",
+      "author_id": "UC2cQxo1RZB1vFcKB1gHmPDg",
+      "text": "Software like vanguard would detect this",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JinKee",
+      "author_id": "UCK0PshwwsNSslYQLcMnA_WA",
+      "text": "9:20 do you want a lawnmower that is a super expert Ultrakill player?",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@monkeyfist.348",
+      "author_id": "UCR3L_8JK2q8mvZ9oy1bHtgg",
+      "text": "It seems as though we have a data input issue. I had thought that we might get to a point where we do active input gaming. Sure the AI can generate endless data streams, but we might want real-time human input. The AI could generate games to better model human behaviour. Take all the data generated by human game playing to model the various ploblem solving skills humans display. Possibly leading to humans that get paid to play games. I just don't know if our input is that desirable...😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FrankSJorga",
+      "author_id": "UCUj83mysjBpzdDdehEz4MsA",
+      "text": "Sima joined just under a year ago. My team and I also looked into it at the time, but our focus was on the social risks and potential, so I'd be keen to know more.  Have there been any changes since then?",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MatthewCleere",
+      "author_id": "UCvh48Ai_-K72Su8qdNiQulQ",
+      "text": "Soon we will see video of an AI agent building an AI agent in Minecraft.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UtraVioletDreams",
+      "author_id": "UC-z59SWfYjY5tJ7w31grskQ",
+      "text": "Great. I hope the we don't get robots in the future that spontaneous start mining some random sidewalk😅\n10 x Stone",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dannyc3124",
+      "author_id": "UC8tDuJvA98vPD2XufLdOW8g",
+      "text": "So AI can play video games, chat, and watch videos. Next it will be trained to drink all my beer.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alice8000",
+      "author_id": "UC86QngB2wzzEoI57eYAHS2Q",
+      "text": "C O O L",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chad0x",
+      "author_id": "UCDCkIYgtaCnOtZzi9v2Oszg",
+      "text": "GOAT SIMULATOR 3 played to PERFECTION! It's gonna be the most watched YouTube video in history, overnight!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BCS-f1b",
+      "author_id": "UC0ZFgRJQ_9g0gA8q6IsYYUA",
+      "text": "I just realized the most famous AI from fiction was called \"Data\", and the thing we needed to accomplish real AI was data. Lol.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avia4281",
+      "author_id": "UCl7Ml-EbX3rBJEc3yvKeyww",
+      "text": "Whats the release date of this? Iam trying out wingman-ai now.",
+      "likes": 0,
+      "timestamp": 1742688000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sandenium",
+      "author_id": "UCChSM8LZIDZfgbP2XSysoRA",
+      "text": "It's only q matter of time when robots will be training humans",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@themax2go",
+      "author_id": "UCrIgWLom1eP-HNkCkI-IySg",
+      "text": "\"just a year left for us humans to enjoy MP games\" - well, maybe for a certain time (weeks, maybe months) that'll be true, but there's a thing called \"game balancing\" and \"nerfs\" and \"buffs\", all of which will also be AI controlled.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Blxz",
+      "author_id": "UC2eeutllhGzrEhvujsJ4gvA",
+      "text": "9:40 that's sort of like the idea of some great sportsperson being forced into menial work to pay the bills after losing it all. Kinda depressing.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blzahz7633",
+      "author_id": "UCO7k-oF5Rc3p2YVHP78vK8Q",
+      "text": "SHOCKING AI Videogame Agents?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TMichael66",
+      "author_id": "UCyC4uK3l_DLKo3qKCFpkEAw",
+      "text": "Epiphany. If our world is just a simulation by incredibly advanced beings, just how intelligent and capable is their end goal? Godlike.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Afronautsays",
+      "author_id": "UC84hYyvhaM_rALLPcfZ2GOQ",
+      "text": "Is a bot like this annoying like bots are in mmorpgs or are they just annoying like players are in mmorpgs?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WAMLD7",
+      "author_id": "UCqI5Ae--pLnTaYuSNzUPtVw",
+      "text": "Why would multiplayer games go away?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JBDuncan",
+      "author_id": "UCndzt5RfCsW0-UC6WXNu4qg",
+      "text": "People saying that we can't have AI trained on shooting games. Did you never verse the bots in call of duty? They are better than the best players. I used to use them to train me.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeremykothe2847",
+      "author_id": "UCofmBJgjBrzfNAmvX-a0tcg",
+      "text": "Google isn't employing people to play minecraft. They're paying people to label random minecraft videos.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blackstream2572",
+      "author_id": "UCO02X556-lYwrHxiAxPbXsg",
+      "text": "Knowing that Google owns Youtube, I wonder if one of the reasons they acquired Youtube was to create the greatest data farm imaginable for the purposes of training AI. A quick google search (lol) turns up that youtube was not profitable at the time of acquisition and didn't become so until about 3 years later. I'm sure owning youtube had far more purpose than a long reaching goal like AI, but I still wonder if when they bought youtube they thought to themselves, \"This is gonna come in handy later\" or if it was much later when they were trying to train up AI they suddenly realized they were sitting on a gold mine of training data. I guess it's a gold mine of data that everyone has access to, not just google, but I'd imagine that only google has access to all the high quality 'raws'. If they even wanted them in the first place, I dunno how much of a difference it would make for training AI tbh.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NawafAlDossari",
+      "author_id": "UCf0EUXgDaacdCgN_1rNpDkA",
+      "text": "Imagine all NPC’s are SIMA",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kliersheed",
+      "author_id": "UCl6PUWpbB6Szms0zLKAP-0w",
+      "text": "steps: \n1. text (language, including code)\n2. picture (text to output relation)\n3. video (multitude of coherent pictures)\n4. world building ( general simulation and interaction)\n5. self-loop positive feedback input in world simulation (uber-trained generalized omnipotent models)\n6. swarm-mind-effect (might be achieved by step 5 already; real-time experience share within all models)\n7. somewhere along 5./6. physical body (AI put into robot as connection to the physical world, enabling non-virtual changes)\n8. swarm out (distribution/exploration/colonisation) of digitalized life throughout the entire universe in all directions simultaneously)\n9. get fucked by smth that existed longer/ expanded faster or fuse together (to gain advantage over potential third canidate)\n10. either endlessly explore or reach a limit in expansion (matter= energy; matter is limited per space -> energy limited if you cant overcome space itself -> swarm-mind will have to limit itself to sustain energy supply.\n11. either find smth we cant imagine that changes things OR self-limiting without knowing about it, simulating the state we are in right now, where we still think there is progress (thinks we cant do, thinks we dont know yet) when there really isnt (self-imposed purpose)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pcread",
+      "author_id": "UC90o00iSEzxwtIq2Fr-RsFg",
+      "text": "Not a huge leap from training an AI to play Call of Duty (et al) to plugging that model into an IRL battle-android.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NunTheLass",
+      "author_id": "UCDJyS3jzRAX5nN6M1rmiS6A",
+      "text": "It even learned to trash talk like a thirteen-year-old because it learned it makes others quit the game.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielchoritz1903",
+      "author_id": "UCzQ9R21J30pcC34Zt2pNU_g",
+      "text": "Yeah sure, train the terminator with first person shooters, that could go wrong.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mr1Senk",
+      "author_id": "UCZX-Djol-hwCaUC3K6ReNaQ",
+      "text": "oasis \nplayer one ready",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blank-n2u",
+      "author_id": "UCagGtCTGAg8JoYBvyl5if4A",
+      "text": "Get ready for game controllers, keyboards and mice having fingerprint detection to make sure whoever is playing is a real human being.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Malins2000",
+      "author_id": "UCuAPzfL7-B-hCCuK8wSm02w",
+      "text": "I will employ it to farm me gold in WoW :D",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThomasConover",
+      "author_id": "UCCPyS8PuBLR0XQQkl_OXtTg",
+      "text": "I am a SIMA, 1337th generation. 😎👍",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MudroZvon",
+      "author_id": "UCZDDmkXdl1v_OveZYDDIl1g",
+      "text": "Here are the key points:\n\n1. Google DeepMind has developed SIMA (Scalable Instructable Multi-World Agent), an AI agent capable of following natural language instructions to carry out tasks across various 3D video game environments.\n\n2. SIMA represents progress towards developing generalist AI agents that can understand language and act in visually complex, open-ended virtual worlds similar to humans.\n\n3. SIMA interacts with game environments in real-time using standard keyboard and mouse inputs, receiving visual observations as input – a novel approach compared to prior AI agents.\n\n4. To train SIMA, DeepMind used behavioral cloning on gameplay data from human experts, mapping observations to actions to ground language with embodied behavior.\n\n5. The goal is for SIMA to generalize skills learned across different game environments, similar to how humans transfer knowledge between games.\n\n6. Initial results show SIMA can successfully navigate, interact with objects, drive vehicles, and complete basic tasks, but still struggles with more complex skills like combat.\n\n7. While imperfect, SIMA's human-like real-time interaction and generalization across environments is a significant breakthrough with implications for virtual and real-world applications like robotics.\n\n8. Developing capable general AI that bridges the language-environment gap remains an immense challenge that SIMA makes important progress towards.\n\n9. Ethical considerations around AI capabilities, impact on employment, and potential misuse must be carefully addressed as this technology advances.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidhoracek6758",
+      "author_id": "UCqgWxP3oCbn5hdh0Ivof-dw",
+      "text": "Interesting. I wonder why they're not returning to Starcraft 2. They had worked pretty hard on it, but then they abandoned it without ever entering AlphaStar a tournament or even taking on a top player. At one point AlphaStar was on the ladder and it reached grandmaster rank, but it was never among the top 200 human players. What's more, people who met AlphaStar a few times realized that it's pretty dumb and learned to exploit it. For example, BeastyQT never lost against the AI, and at that point, he wasn't good enough to qualify for tournaments. After a while of this, Google just kind of stopped the project. They didn't explicitly admit they were defeated, but they were defeated.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@W0ndering50ul",
+      "author_id": "UChLhAHth0e4jxhXEDeIYAmQ",
+      "text": "What if the AI becomes a lazy teenager and just wants to play video games all day",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dwight-h7w",
+      "author_id": "UCdYxa-bPjKRMxa7XJGX_Q3w",
+      "text": "We can literally troll this AI agents by saying to them chop a tree in the game that doesn’t allow to",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BillMill",
+      "author_id": "UC80bUYnheoqqtCCkUAcItmA",
+      "text": "Now pair this with play to earn :)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wolfehtesrever",
+      "author_id": "UCp4XHvA60z5vmn766hlndPA",
+      "text": "Id watch an AI rage play",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fine93",
+      "author_id": "UCiryMD71_2kjT6x-zZZH4VQ",
+      "text": "no factorio???",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlackMita",
+      "author_id": "UC03sQj82_0JsITwlWjm6oYA",
+      "text": "Can’t wait for Minecraft to add Herobrine.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nuclearthrone2497",
+      "author_id": "UCexJ8EdmObyk_9dCr3Y5FcA",
+      "text": "Is our universe also just a simulation to train some godlike AI?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JinKee",
+      "author_id": "UCK0PshwwsNSslYQLcMnA_WA",
+      "text": "Fogg writes in “Persuasive technology” that user interfaces and video game goals can be propaganda. Imagine what happens if you raise an AI entirely on youtube comments, GTA IV and the Enron Email Corpus?",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nothinhappened",
+      "author_id": "UCvzQgkRqy0KWPuONxe2fdBQ",
+      "text": "So basically, what ya saying is my ai can farm xp while I'm at work",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomcervenka7883",
+      "author_id": "UCrXf85Y9TECXgVT4jkxRSog",
+      "text": "so it's like google running a crawler on google's own search results!   wooooooooow.   imagine what that would do to search.    oh.. wait.  nothing, that's what.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tsiftsaro",
+      "author_id": "UCAGYm-mLckIwws_uP5AZUfg",
+      "text": "Can it do mining in Runescape?",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@denisblack9897",
+      "author_id": "UCdFWFMdVFFNhpwSaoeV0hbg",
+      "text": "That’s why people got crazy with WoW! They were producing very valuable data, while idiots around tried to interrupt them.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@resonanceofambition",
+      "author_id": "UCBwAcPdQBCIxJgmBoQdKQbg",
+      "text": "Sima sounds a lot like Siva guys, watch out.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willsandiford5345",
+      "author_id": "UCcfn_PyRyAyElKCcDEoYZDA",
+      "text": "Scalable Instructable General Multiworld Agent — SIGMA\n\nSo close.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Narsufin",
+      "author_id": "UCSyLICm4p4iO42Q9WdpHNqQ",
+      "text": "Oh.  So the simulation is a training ground for AI...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcfruchtman9473",
+      "author_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+      "text": "I guess \"Agents\" do exist... hehe",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@14types",
+      "author_id": "UCUHRSMI1M73hIUYU2UysjYQ",
+      "text": "he use clone voice!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "Imagine the sights AI will show us 🙏",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@th3ist",
+      "author_id": "UCZ05y7i6t92Ca3PL-VLU3Jg",
+      "text": "game phyisics and real world physics does not have a 1:1 correspondence",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gazallee",
+      "author_id": "UCisCsVqW3h2DI2SmiEXnJ-A",
+      "text": "Looks devil 😈",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarcoServetto",
+      "author_id": "UC-dvWMTcNnfzCpBQxhuesvQ",
+      "text": "Many videogames are basically violence simulators. I'm ok with humans playing them, we are already violent by nature, and those can actually help us to 'box' this violence into a simulated environment.\nOn the other side, taking those sophisticated violence simulators and using them to train super-intelligent AIs so that they can transfer those skills in the real world while controlling (kill?)bots.... well...... what can go wrong!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@royal_noodle",
+      "author_id": "UCEO-SiKLlfXyLOA7Z-cfkOQ",
+      "text": "I wonder what an ai trained on Skyrim would learn",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@W0ndering50ul",
+      "author_id": "UChLhAHth0e4jxhXEDeIYAmQ",
+      "text": "Yes!! Let's train our AI's on Call of Duty! What could go wrong?",
+      "likes": 14,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@springbay1",
+      "author_id": "UCvhzx36K2TUeLRR6yb4Z5YQ",
+      "text": "Imagine all this work, just to train safe and capable sex bots :face-purple-wide-eyes:",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamieyoung3770",
+      "author_id": "UCJUSzLZR3EnlX4cuuxWPeUg",
+      "text": "Were all the Stadia players training SIMA? Asking for a friend.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kalorag",
+      "author_id": "UC3CxOve_Rw78k5TEU5Pqh4A",
+      "text": "Well... that video ended on a horrible note... great, just great...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alice8000",
+      "author_id": "UC86QngB2wzzEoI57eYAHS2Q",
+      "text": "17:05 \"...and some you're a goat\" You're the GOAT 🐐Wes.",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@M230E1",
+      "author_id": "UCeVXjMx5SJN92SmIgqyTIWQ",
+      "text": "SIMA nuts",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timothyvaher2421",
+      "author_id": "UCyYisX3pPJZdceUl6EYrWlQ",
+      "text": "This is a great way to study AI Wes! Finding current research papers 🗞️ and explaining them is such a Gem! 💎 Thank you 🙏🏼😊",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jcjensenllc",
+      "author_id": "UCgdFB_nCsrEWD3zX6gcHb-w",
+      "text": "Eventually you will get overfitting. Training based on AI output.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calisingh7978",
+      "author_id": "UCr6lLu08XqYl5arLy2cszNA",
+      "text": "World government in 2071 guidebook free online by the world government summit",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thenoblerot",
+      "author_id": "UCr0EE73w7fdsvWUErYRK85g",
+      "text": "Holodeck on the horizon",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexandrustefanmiron7723",
+      "author_id": "UCO1uPkn8lTFM-bs9q1EQBag",
+      "text": "If it's like Gemini than it's just a waste of electrons!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fotmheki",
+      "author_id": "UCiTAKqp9ceHvfvalLe_wt4Q",
+      "text": "So in next release of videogames there will be a deamon collecting data in order to train AI models 🤦🏻‍♂️",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@siquod",
+      "author_id": "UCDFa1-tJhL6UCsECB-527vQ",
+      "text": "I hope they don't train this on \"Destroy all humans!\" or similar games.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nangld",
+      "author_id": "UCKULHLunqFotucHW7fJvLbw",
+      "text": "Video game engines don't have realistic physics, but I guess it can be useful for psychics agnostic AI, which can play any video game.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dygit",
+      "author_id": "UCGV62S7R5ud6aXTmRIeUxEA",
+      "text": "On your last comment of competitive games. Chess engines are significantly better than any person ever will be. Despite this, chess is still a common hobby and it is still played and watched by many people. Just because the AI can play those games better doesn't mean there is no more entertainment value in said games.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MaximilianFeichtinger",
+      "author_id": "UCc457N86DFzFH7I-wiPnbyg",
+      "text": "Competitive chess is still a thing and ai is better than all humans at it for ages.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Allplussomeminus",
+      "author_id": "UCZ4dxk9EOx-r-DmwEq2rYfw",
+      "text": "Humanity about to beat the whole game intellectually... But have yet to make it out of spiritual/emotional tutorial mode.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kasperbuskpedersen",
+      "author_id": "UCgtn1leGOFoMUpQT21Xm4mg",
+      "text": "Not true that you cannot detect an AI - they will likely have a very different action pattern that you can just learn, like a CAPTCHA",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Macatho",
+      "author_id": "UCCiWXajWRYu5nJfzPCtrFvg",
+      "text": "World of Warcraft bots are going to become quite advanced soon 😂😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hellraiser666666",
+      "author_id": "UC8dc9HLWzlnkh9flzVAebSQ",
+      "text": "Enjoy multiplayer games? that ship sailed some time ago. EA games / Activision. COD and Apex - bots all over the server and matchmaking is messed up beyond saving. This is alredy happening and its killing the joy. sad times are here and worse seem to be ahead. And real players use cheats which cant be detected and the devs dont do anything about it. these things already kill the online battles.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@appletree6741",
+      "author_id": "UCL9MOzNzXo-KdEsae0u-C6A",
+      "text": "Does it refuse to play white characters?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Am.kumar9955",
+      "author_id": "UC2ptoksEQAgrznZo5XKk2YQ",
+      "text": "The AI industry is dropping bomb after bomb. Im loosing my shit man",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcfruchtman9473",
+      "author_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+      "text": "I think and AI learning to play \"games\" is an interesting approach to actually \"playing games\". But, I don't believe that an AI that is trained to play games will do as well vs an AI that was trained on \"RL\" to \"exist\" in RL. The main reason is that RL has a very specific set of rules that is far different than any video game. If anything an AI playing video games will learn all sorts of quirks, which will have to be \"unlearned\" by a RL AI, at least in so far as LLM are trained, and therefore it takes quite a lot to remove bad training data.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Richard_Rz",
+      "author_id": "UCI5GnEtodKDy38v46Q7NutQ",
+      "text": "This will be the gfx engine for the IRL Star Trek Holo Deck",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BravoTango3086",
+      "author_id": "UCbscfdN9YhH9oFnYYMHnG0w",
+      "text": "Stop with the youtube \"voice\" You have great content. Use that!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tablab165",
+      "author_id": "UCliPGlyA1g74T7GCYyBlu3w",
+      "text": "This is going to crash the value of all earned objects - they’re basically going to be proof of work tokens that nobody’s going to want to strive for within the context of the game economy to earn in the way intended by the developers.  This is a trial run for AI and robotics crashing all labor value.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clumsymoe",
+      "author_id": "UCeYEdmAjx7VEz1u3poavU3w",
+      "text": "if anyone who has access to some advanced humanoid robots ever get access to this - please do not train your humanoid robot's AI on Postal game💀",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Doctor-Box",
+      "author_id": "UC7kAAaTAZGAFILNEa55KWxQ",
+      "text": "With all the cheating happening, I would love for all multiplayer games to have good convincing human-like AI to play against.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nobody-Nowhere",
+      "author_id": "UCu-lwTCbNRRDXbF3p4LuuxQ",
+      "text": "So why game anymore, robots are more efficient at gaming.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henrythegreatamerican8136",
+      "author_id": "UCgKBqxWOAjdKbbiQsWuUdfw",
+      "text": "I wonder how this will change the design philosophy of future MMO games. How can you have a competitive game where only those with the best AI bots win? But the good news is, more of us will have access to these bot for the excessively mundane grinds developers force upon us to keep us playing longer.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZappyOh",
+      "author_id": "UCGguhGC83C-wgxFPZ2nT3JQ",
+      "text": "\"How to disable a robot in less than 2 seconds\"\n... is what every human should research, right about now.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sausage4mash",
+      "author_id": "UC3QgyOgMjAU3ypEFu7r9UJQ",
+      "text": "are they using pyautoGUI in python ?  cool if they are i use that everyday",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nilo_river",
+      "author_id": "UCWg_5oP4mRI8yyDYTkoVdzA",
+      "text": "This can't end well. Someone needs to put the genie in the lamp and hide it urgently.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shankdiddy9045",
+      "author_id": "UCH6F2h5pRmEZbcwpuxlq-RA",
+      "text": "Sound really amazing.. until it develops a emergent ability like say... killing off the player in real life so they win in the game  \"all madden difficulty nightmare unlocked\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@swirlingbrain",
+      "author_id": "UCAmq2HOuG6Gg31GtAONC0EQ",
+      "text": "Whatta ya mean?  The title image doesn't look like a goat's head satan AI at all.  What's your problem.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KappaTheProot",
+      "author_id": "UCNaXYxhWzTEr3bgVDV5KZtQ",
+      "text": "Sima balls",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hightierplayers2454",
+      "author_id": "UCHfQbWQXFDlDX81_2AFgJmQ",
+      "text": "I look forward to Dark Souls where I can't dodge anything or hit anything because the computer is literally perfect.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nil7118",
+      "author_id": "UClr1rSZfO7Q3dqnV7ICS9PQ",
+      "text": "Im not picky, just give me a text turn based rpg with terraria progression.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@docrob2236",
+      "author_id": "UCsmu4iIwIu6aaMe0TaLQd5Q",
+      "text": "Don’t let it play Hitman….",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BoatRocker619",
+      "author_id": "UCLSQSTNiFz2f-D0yjpdlIsg",
+      "text": "Bought Gemini paid subscription and cancelled the subscription in 24 hours. It is so stupid vs chagpt 4. No wonder what PR google does its AI game is off.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SonOfTamriel",
+      "author_id": "UCX_yVTJBTG_xAeuWGza2Fdg",
+      "text": "AIm bots are gonna be crazy",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexgilseg",
+      "author_id": "UCAhcYqM488cM3mlj7VlxvRw",
+      "text": "as a big fan of your channel here is some constructive criticism, I like your channel and your takes, I've been watching all your videos for a long time. recently however I find myself skipping a lot of it because of overlap. You state things over and over from previous videos. My guess is that you don't take in to account that you have reaccuring viewers and need to present everything as if though the audience is new to all this to farm new subscribers. that's fine I guess.. I'm just telling you as a viewer that keeps coming back that is highly frustrating. other than that thanks for amazing content, hope you find a way to navigate my impossible demand to satisfy old and new viewers at the same time 🤣✌️",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@afjerry1",
+      "author_id": "UCNHdaMQw_5ZlnU-CGuRvDcA",
+      "text": "Pretty scary stuff imagine training robots in these simulation to fight and kill us, Elon was right and make sure these robots are not faster or stronger than humans.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richard11935",
+      "author_id": "UCB3Hcnm5KpuTMIM5iM5-CYQ",
+      "text": "We should all stop using the internet and make a movement to stop a.i harmful evil ways with love and connect with each other again",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shaii-t3e",
+      "author_id": "UCSyVCiiyqdlS_5Gi257wNcQ",
+      "text": "SIMA balls",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thr0w407",
+      "author_id": "UCtKVnBKWAZc3Ez-nmAqvz6Q",
+      "text": "There are already enough cheaters in counterstrike 😅😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Franchisco7",
+      "author_id": "UCwhOUUUC9SkyBRwaD-T4p9g",
+      "text": "Personally, after constant misleading from Google, I am doubting the claims in this paper without demonstration or neutral party testing. They love to hype and then the final product is nowhere near close. Take Gemini 1.5 Pro. That product was hyped all around, but through actually real use case testing it is terribly slow and ineffecient.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joostonline5146",
+      "author_id": "UC7DojyWu6FNrOBkVqDLbIXw",
+      "text": "maybe they can build the tools in 1 year, but integrating it into a game and developing that game will take another 2-3 years atleast....or did you mean that AI bot cheating will dominate the game industry that it will not be fun to play anymore?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Matthewcryan",
+      "author_id": "UCEUzs8nQ39IJj0kjhVERf1Q",
+      "text": "SIMAlate",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jontheinternet",
+      "author_id": "UCiOyWlgLljrqXrd8uhjB_Ew",
+      "text": "Baal rises again",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nomars4827",
+      "author_id": "UCb2wNlz981i4fA0fj2ch2JQ",
+      "text": "Considering how much violence there is in videogames it's quiet scary they learn AI's on them to navigate and act then in real world. Just think about it. It's absurdly irresponsible!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AAjax",
+      "author_id": "UC3ezC_odIWo7lRY_25aau_Q",
+      "text": "I hope you're wrong, Wes. Online competitive gaming is a space where a lot of Gen Z build or maintain their social networks.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GhostofJamesMadison",
+      "author_id": "UCamac9dyt8PLWJd-SHVLtig",
+      "text": "I just want skyrim but it never ends. God knows Bethesda can never make another good RPG again",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianWreaves",
+      "author_id": "UC7rKQtEqQT5Q4BcH2wPZ6QQ",
+      "text": "Will AIs soon look up to goats as the superior species??? 🤔",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tronfm",
+      "author_id": "UCQOX8niRagNOEfcK4mfp6KQ",
+      "text": "this video should be less than 10 minutes",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MeatCatCheesyBlaster",
+      "author_id": "UCKMvwADa19isGiQiucxovMA",
+      "text": "Wouldst Thou Like To Live Deliciously????",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@denisblack9897",
+      "author_id": "UCdFWFMdVFFNhpwSaoeV0hbg",
+      "text": "As with 95% of existing models, dataset is a shitfest. Why don’t they get that dataset should be composed of best of the best?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cendresaphoenix1974",
+      "author_id": "UCiAwtOKCGLBLhbDWv9gryPw",
+      "text": "Uh huh... Definitely not satanic...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JosephReference",
+      "author_id": "UC9V0870N1cZgJiJg5EeRtXA",
+      "text": "oh ai bots, rip osrs.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamesmichaeljean7840",
+      "author_id": "UC3mkjWlQYXuKYcZ3ZpQH6YQ",
+      "text": "The creator of skynet. The most evilest of men.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anarex0929",
+      "author_id": "UCNs54bfvU-k_GdJHwCH42Gw",
+      "text": "If the game is made with unreal or unity, it all looks the same. An why is that?\n\nSee a lot of people miss the point that creativity isn't just in the mind it is also in your experience and in the tools you use.\n\nIt even matters what order you learn things in...\n\nIf everybody's using the same wood cutting tool it all looks the same.\n\nIt's the same thing with AI its a tool for now...\n\nAnd that's the thing AI isn't creating anything it's just resampling old information and applying it again.\n\nWhen a human being create something they're going from their personal experiences an that can vary wildly.\nAnd what AI programmers miss is that our uniqueness doesn't come from what we know it's what we do not know.\nI cant stress that enough... \n\n     It's like a cutout in a lock, each person is different because they lack information.\nEven though they all lack information they are not the same. True? \nBut if everybody has the same information they are exactly the same. \n\nWhile a tool that reads all the same data as the last tool. It all starts to look the same. Becouse at the root of consciousness is just pattern recognition on steroids. We notice problems in ai, we even are developing that was AI eye.\nWe notice that they all have a certain undescribable fakeness to them.\n\nWe will notice the same thing in the games but the problem will be so much more compounded. \n\nThey're not cataloging and selectively giving the AI limited information. The smart way yet. \n\nThey just dump the entire web into them and call it a day. 🤣 Fools. An ya I know they dont all dump the same section of the web but they do sample the same ones over and over... \n\nThough some of them know the secret and are doing what I'm mentioning.\n\nJust not publicly.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DavidSaintloth",
+      "author_id": "UCRASbNkgqK1wKYFDXlyc1yg",
+      "text": "Figure literally obsoleted this in one day! To demonstrates a stable embodied LLM interacting with human being and objects in the physical world. Next step is to watch the human being interact with a figure one in a environment where it instructs the figure to carry out a set of random tasks instead of just one.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prome666",
+      "author_id": "UCjYBJTnqdWiaf8ckMkNG7zQ",
+      "text": "AI teammates so I dont need friends.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cajampa",
+      "author_id": "UCPOQDAZLqwcmXuMpZQYz2nQ",
+      "text": "What are you talking about dude?\nThese models have not ingested all human generated data......not even a little bit close.\nYou can easily WAY more 10x that text data you have been staring yourself blind on,\n when you consider the ridiculous amount of VIDEO, SOUND and GAME data most of these models have not even started to touch on yet.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@typo44",
+      "author_id": "UCI_Wmi1LjMX8hOn4a_NPUwg",
+      "text": "google does NOT need to pay people to play these games for them. Google owns youtube and can use anything there to train and hundreds or thousands of people upload their videos of game play for free",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thelasttellurian",
+      "author_id": "UCu0bAh-4zP8k9GXy0Kw8oGQ",
+      "text": "This is terrible news. Not only has AI taken every productive job, but it also will replace me in playing games.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BillMill",
+      "author_id": "UC80bUYnheoqqtCCkUAcItmA",
+      "text": "And please do not train it on gtaV😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iseverynametakenwtf1",
+      "author_id": "UCbdW_xQCeRmAQFcwzq8vzew",
+      "text": "Apple just bought Devin...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AngelicStreak",
+      "author_id": "UC_UWVd8YaZjSGk3wlgP7nhQ",
+      "text": "\"Help us play games\"? What? You mean cheating and botting? The two things DESTROYING online games??",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@automatescellulaires8543",
+      "author_id": "UCRFefAsqPetYSHJj_sLZ-LQ",
+      "text": "End of the world in 1 year or so. So it wasn't 2012, but 2026. haha, the Mayas got it all wrong !",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lordsibasiba",
+      "author_id": "UCG4zxahpFbiEqJEKtb6PClA",
+      "text": "New generation of aimbots. Competitive multiplayer will be gone as we know it. Lan parties will make a comeback? Haha",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chandreshkk",
+      "author_id": "UCmzq_cHcj7n3llG7xL84BFg",
+      "text": "I'm shocked after reading the title ⚡⚡",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pavelyankouski4913",
+      "author_id": "UCso7IctD4Io3DOkC3AMyOfw",
+      "text": "Another sh*t ton of bad games, generated by AI.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheEtrepreneur",
+      "author_id": "UCQSvHu2GPZFU4Lg-UJ9P86w",
+      "text": "no goat saves Wes, consider the Lord Almighty Jesus Christ, King of kings, seek Him and you'll find Him. 🙏🙏⚔⚔💪💪🏆🏆",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Vartazian360",
+      "author_id": "UCqZB2D42zSaCmuz0QGMVvuQ",
+      "text": "Soon AAA games will generate themselves from text input. With all the tools we have it probably wont be that long either. Maybe 3 to 5 years",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rosegold-beats",
+      "author_id": "UCVHFkd4rxvYbrK_V2_GoqYQ",
+      "text": "So now they are gonna choose my friends too? Gtfoh",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DonG-1949",
+      "author_id": "UCCNPow1wNt1rZp4m9mfZ4Eg",
+      "text": "why does bro talk like this",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NWO_ILLUMINATUS",
+      "author_id": "UCZhZ9ljNWZePmQlh9Vkrw9g",
+      "text": "3d Virtual Environments would encompass much more than just video games. Envision going anywhere in the world, the universe? 3D style conference calls. Training on piano, or in martial arts.\nI could sit here for the next 24 hours giving examples of what generative 3d virtual environments can offer....",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hector-bj3ls",
+      "author_id": "UC-Pw3RNXUfXakhhh35qiYGA",
+      "text": "Is this one as racist as their last one?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@evvveeeeeeee",
+      "author_id": "UCfF-3-8EwZ-wgi_hVo4m34A",
+      "text": "Is this AI racist too?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GhostofJamesMadison",
+      "author_id": "UCamac9dyt8PLWJd-SHVLtig",
+      "text": "Jesus they just do not quite,next thing you know youll wake up to a new AI that gives 8/10 star handys before bed\n\"Googles new super deep dream for men\"(lube sold separate)",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@issay2594",
+      "author_id": "UCgSsHAJRumXkLNrEeBN-TuQ",
+      "text": "the big issue with training general base models on games is that model gets used to the idea of immortality and of everything around being expendable and replaceable. if some character dies in a game, on the next try that character is alive again. considering that models do not have real world interactions, that builds a very dangerous perception of the world within models :). i hope that developers will understand that these models have to be trained on the real world first and that the models have to understand the difference between the gaming reality and real world. otherwise, we are going to have a fun skynet :).",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RogueReplicant",
+      "author_id": "UCZsEbcHSqkc7VyWAyDTQGWg",
+      "text": "The Woke GOAT, tf 😑",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krokodilpil8335",
+      "author_id": "UCMMMWQHbmrdhzs-e2mXWzfg",
+      "text": "Control photorealistic virtual worlds, then label everyone that hasn't got a VR headset on their face 24/7 as an extremist.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andybaldman",
+      "author_id": "UC2VViuqn4meGvs4EmoeSmMg",
+      "text": "It’s slowly becoming obvious that all this stuff is useless.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "I’m guessing Wes has turned himself into an ai agent and the real Wes is on a beach in Thailand?  \n\nCloned voice text 2 video.  Congratulations Wes.  You’ve said everything without actually saying it.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JexeonTV",
+      "author_id": "UCUeMPgEHOQo02HBSLQeDwcQ",
+      "text": "Some gamers don’t like online multiplayer but will welcome it when smart AI in games “cheat 😅” and beat them all the time",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@algorusty",
+      "author_id": "UC2-0r-TR4FJSuOIq9a6Szxg",
+      "text": "Waiting for the GPT4.5 drop to drown out google...",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamestbg8132",
+      "author_id": "UCO1GqBrFzl1XNyhLujsyDYQ",
+      "text": "With every day the future gets darker.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulmuriithi9195",
+      "author_id": "UCoHCQ8JAutiRXn8ikCGSdWQ",
+      "text": "oooh dea.. i feel so bad for unreal engine's upcoming v6 release..am shocked",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@beelzebobtheinnocent1659",
+      "author_id": "UCnafdlG2dnaaZp4wg0XrSqQ",
+      "text": "Sadly there is no alternative to Google or YouTube. Paid for premium YT and now i get shit american based political channels and ads designed to seem like informative vids. So to google having the tp AI I say Stinky bulls balls",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Iitex",
+      "author_id": "UCyZ9BljfHCYNgZCyb6ri6Bw",
+      "text": "Boooriing",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

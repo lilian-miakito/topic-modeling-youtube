@@ -1,0 +1,801 @@
+{
+  "video_id": "8Zpwi51xxNk",
+  "title": "OpenAI announcement LEAK! Cost Cutting 20x plus massive API updates. run for cover...",
+  "url": "https://www.youtube.com/watch?v=8Zpwi51xxNk",
+  "comment_count": 88,
+  "comments": [
+    {
+      "author": "@thenoblerot",
+      "author_id": "UCr0EE73w7fdsvWUErYRK85g",
+      "text": "Cheaper gpt-4 would be HUGE! Vision, speech, dalle-3 API would be amazing too of course.",
+      "likes": 16,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tanikam",
+      "author_id": "UCoiKk5k7gcKbZ9AHlLPh3kA",
+      "text": "\"I think 2024 will be the year of the autonomous agent\" - this gave us CHILLS!! My team & I have been saying this exact same thing over the last few weeks. Hearing you say it in this video made everything feel so much more real. We've been building for this very moment for months now, and it's incredible to finally be here and see so many of these pieces come together. Thank you so much for the amazing educational content to keep folks like us informed & inspired.",
+      "likes": 33,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IceMetalPunk",
+      "author_id": "UCY5cwStyV0sLzHboZrV-Qcg",
+      "text": "Once GPT-4V is available via API (which I thought they already said would be in November?), the next thing is to get audio modality. The current \"GPT can hear\" feature is really just Whisper speech-to-text being passed into GPT's context, which means anything that's not speech gets lost, and any speech that's hard to transcribe (say, because multiple people are talking over each other) also gets lost. What we need is a true audio modality for GPT the way it now has vision -- passing audio tokens directly into the main transformer during training and inference -- so it can truly hear the world. The Suno Bark version of Whisper, if you like analogies 😁 I imagine with the same network learning from pictures, text, AND audio, it will be able to integrate and extract so much more understanding of the world, in a more grounded way than many AI-detractors think is even possible.",
+      "likes": 33,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BruceOnder",
+      "author_id": "UCcOP7jyU0EsZ0kBcCRvwKTQ",
+      "text": "I wonder if they are actually going to deprecate 3.5 and promote 4 to the new basic default at the 3.5 price? And 5 becomes the new upgrade model?",
+      "likes": 61,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Homiloko2",
+      "author_id": "UCL5LJVMpPGUKM5efdSiE3Nw",
+      "text": "Now is really the time to learn about how to develop and use autonomous agents! Feels like we're on the edge of a revolution. Thank you for the content!",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Arvolve",
+      "author_id": "UCYxp-XHuPLXWlWf6ZFc9Cgw",
+      "text": "Your channel is so helpful staying up to date on this journey! Thanks Wes.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dave-cg9li",
+      "author_id": "UCz8Jwt38JV8w9YP7F0gahMA",
+      "text": "I would love to see them make the 32k context model available to everyone with these changes. But it will probably mostly be just a showcase of how the models can be used to simplify different workflows. 'Autonomous agents' can sound a bit scary to people who don't know much about it 😄",
+      "likes": 33,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Oneiros433",
+      "author_id": "UCdCxnuJR_GQi-ypGFhqrpEQ",
+      "text": "chatgpt is now gonna be the new siri bro lets goo!!!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SolarScion",
+      "author_id": "UCXzrjU1CAx_6x0zwm8I2uTA",
+      "text": "Caché is a different word than cache (which is the word you're actually using.) Cache is pronounced the same as 'cash'.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SuperKillaki",
+      "author_id": "UCAdN4sixT7y5p5Gt_cE3RqA",
+      "text": "Hey - I really love your videos. You make it feel inclusive for us non technical folks.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@icypxp",
+      "author_id": "UCPKW-t-fI-3Vcsj6hRuv4dw",
+      "text": "This is great news. As someone looking to build scaleable saas software businesses with GPT, the slash in fees will go a long way to facilitate efficient productivity. Thanks Wes!",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@macmanbd",
+      "author_id": "UCLySnB0NhbmJpKkdYGViQHA",
+      "text": "Great video as always. Appreciate the info and all the hard work, Wes!",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fusseldieb",
+      "author_id": "UCf7fKZhFRYmxwX31FJNLJnw",
+      "text": "The biggest road-block for building mind-boggling AI application has always been cost and memory.\n\nChatbots are a dumb, but wonderful example for this. Every interaction you need to include the initial prompt and the past 5-10 chats for it to remember. Then have a short chat with it to test and you can see a couple of cents vanishing from your account. That's bad. Imagine wanting to build any decent service out of this. You'll go bankrupt as soon as you open it to the public. Unless you do it with GPT-3.5, but it's not really the brightest in a lot of things.\n\nAnother great example are documents. Even when providing vector search and include snippets for it to use, including these snippets every interaction consumes a lot of tokens, and a lot of the time the vector search doesn't pop up with all the revelant infos, making it either hallucinate things that it doesn't know, or, straight up being dumb when answering a simple document question. I've even tried to do hybrid search, which uses vector proximity but also word similarity (character-based). It kinda sucks. The only solution is to include the whole document when requested in a 32k window or similar, but, as always, that uses a lot of tokens.\n\nIf OpenAI manages to store past informations somehow, and only counting new tokens, it would open up so much more possibilities.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JumpstarOfficial",
+      "author_id": "UC-vq9N8nsycLfb0PUO92djg",
+      "text": "Very interesting. I am currently having to work around not having memory. It will be a game changer for a lot of applications.  Just fyi, Cache is pronounced \"Cash\". No big deal but thought you should know.  Great video, thanks!",
+      "likes": 10,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewsomerville5772",
+      "author_id": "UCQKP8iXLy89jCaITnIOlTuQ",
+      "text": "Great video. Note: \"cache\" is pronounced like \"cash\". Another unrelated word, \"cashet\", is pronounced \"cash-A\".",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soulestate_5",
+      "author_id": "UCKO9LiyEoEp63Y7m89DtzFg",
+      "text": "Thanks for sharing the free courses. Im here for all of it",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NLPprompter",
+      "author_id": "UCbATPnWeZ5QF1Y8rsEug0ng",
+      "text": "9:08 wes i love you man, thank you very much!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hughdidit",
+      "author_id": "UCJE1eJ4PANDgM8qEEpXNCNQ",
+      "text": "I'm all in! Thanks for another great video.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrNootka",
+      "author_id": "UCUacsVnma4glAJX76vpj6Tw",
+      "text": "Love your channel and your insights!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewj22",
+      "author_id": "UCvKrpAOfQBOBUvfpfnkVOnQ",
+      "text": "It's pronounced cash, not cashay.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sgrunterundt",
+      "author_id": "UCcJ-yN5fF5tb6GOCd3J0fHA",
+      "text": "It is interesting how LLM agents (can) have three levels of memory, and it seems quite analogous to how my own brain works. There is the short term memory of the prompt context window. Fast, but limited and expensive at run time. \n\nIt can have a long term memory in terms of data files that can be retrieved with function calls. Cheap to store a lot of data, but requires good indexing and costly to bring the relevant bits into short term memory. Things you have to think to recall, or maybe books and notes.\n\nAnd then there is the stuff that has been learned completely. Knowledge that is in the guts. Knowledge in the weights and biases of the network itself. Things like strong associations and language skills themselves. Cheap and fast at runtime, but takes a long time and training to get it there.\n\nPaying to fine-tune a model is basically telling it: \"I don't want to have to tell you this all the time, go and study it until you know it in your sleep.\"",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sashetasev505",
+      "author_id": "UCN9i5cQ6AfU8uEIjI9egvMQ",
+      "text": "This is how AI becomes the new electricity.  Altman has been talking about the cost of intelligence and energy dropping to ~0 since forever, and here’s at least the first part coming true.\nIt may seem trivial to many, but 20$ per month is too dear for huge swathes of the world outside N. America and Western Europe. Access to API and the more capable models “should” (must) be cheaper to avoid a desperate dystopia. \n\nBut aure, go on talking how iTs nOt rEaLLy oPeNai",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sabaka2",
+      "author_id": "UCmIB3E61Oa8J8rbbPim9E_Q",
+      "text": "Thanks for the info, very informative.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hvanmegen",
+      "author_id": "UCkWrOq_sm3b3SoV-lTpcglg",
+      "text": "I really wish they would release their text-to-speech API.. preferably with a configurable voice (age, sex, nasality, tone, energy level, mood, etc).. I've been dying to create a CSS voice-family parser that could actually work for my stories I have in HTML with these css properties.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dawid_dahl",
+      "author_id": "UCqddRn8yswp0eMFrXkSttXg",
+      "text": "Wes thanks for the video! \n\nJust a point about the word “caching”—it’s pronounced “cash-ing” like the word for 💵. Not “caché-ing” like with some kind of french-style é in there. \n\nDon’t mean to be nit-picky, just for future videos. 🙏🏻",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@k-rattus",
+      "author_id": "UCFjxS9dCz4Gx_9erqfQWWXg",
+      "text": "Great work mate!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sergiogosoto",
+      "author_id": "UCofdAF6AiHDTQYJ4mLtd2_Q",
+      "text": "This video fully captured me I’ve been waiting to go to school for my bachelors but I’ve been so intrigued on this subject I might look in to more seriously",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DeeZnhutss",
+      "author_id": "UCJWAu9Lp0i_E2TCedfrHBPQ",
+      "text": "this 20 x reduction sounds like its a theoretical maximum and would only really apply for use cases that utilise memory. Would be good to get some more information on this. For me, current GPT4 API costs are a barrier to me experimenting with the API.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DeathGripper1337",
+      "author_id": "UCvHP8bliPeDMCmD-SrBBLzQ",
+      "text": "Thank you for this great video!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomaszzielinski4521",
+      "author_id": "UCBCNPSQkYOF2J3XnaWYMq6Q",
+      "text": "Oh yes yes yes, I'm about to dive all-in just tommorow.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gt6148",
+      "author_id": "UCsBwYt35fA_1aVxkRlAkJeA",
+      "text": "Learning has never been easier.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cheattube",
+      "author_id": "UCdSoAwe6eh2N80Yym_CQ6Wg",
+      "text": "thanks, 😀😀😀",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michael-jones",
+      "author_id": "UCxu-GOF1KgEpcPhY5WFKR_A",
+      "text": "OpenAI CTO Mira Murati did mention having built-in memory as the next phase in her interview with The Atlantic",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samanthapowell5882",
+      "author_id": "UCxMpoX9WJP8jB-LgNlqETcw",
+      "text": "They will release 4.5 version!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ronanhughes8506",
+      "author_id": "UCvIg1wwEQR1bJaGPXvwNT8A",
+      "text": "Videos & Music for a start",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jakobkristensen2390",
+      "author_id": "UCAg-f6pLCZYd7CW92InrRMA",
+      "text": "Keep em coming Wes 👍",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicolaastanghe475",
+      "author_id": "UCpO1pcRbLVLMWQXLflErGqA",
+      "text": "whould be great if cashed things are shared so it remembers library updates.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChrisQuickTips",
+      "author_id": "UCCgCaguOX07qpuo7lSeh4yQ",
+      "text": "I'm excited because I think this might mean that Co-Pilot will be able to assist us even more with everything we do on our devices. Sort of like HyperWrite Assistant, it may be able to take control and install software for you, run maintenance on your PC, or even order you a pizza and have it delivered. Or maybe even create an entire coded working application for you with file system access.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": "❤",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ColinTimmins",
+      "author_id": "UCxuw6W7Y9a6kVFDUqQ1KVfg",
+      "text": "As a dyslexic, individual who is probably autistic. This has given me so much hope, the advancement of AI. To be able to build an application for friends and family. I am ecstatic! =]",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lenandov",
+      "author_id": "UCuPDWwUyejGNOz-PoNf8TuQ",
+      "text": "I can't get it to remember anything from previous session.\n\nIt's like I have to reiterate everything before we can proceed.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calibfurrytour8124",
+      "author_id": "UCjC0IElEecpdktDoRPu5Y-g",
+      "text": "I've been waiting for autonomous AI agents.  Goodbye job XD",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Scrypt1",
+      "author_id": "UCP33gq4Sho84Apj9GkPOozw",
+      "text": "that's really cool",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dr.mikeybee",
+      "author_id": "UCMxnQ7gyb4BWKbLW5JWiaJA",
+      "text": "Mistral is putting pressure on ChatGPT.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@evan_roos4569",
+      "author_id": "UClxAFACo9uOQfKmUwI6p2lQ",
+      "text": "I'd love to see if chat GPT can convert node-based coding to text code. Like converting a blender texture to a JavaScript and html canvas app.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheAero",
+      "author_id": "UCE6Q3MsE_sct7dApmuAszAg",
+      "text": "Robots are gonna be MultiModal powered soon.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrGaborKukucska",
+      "author_id": "UCbFI02FbCJgRX9hZwb9jShg",
+      "text": "Hey Wes, Great video as always! What do you all think about the fact that ALL these capabilities either already do or will soon exist in open source sollutions that can run on consumer devices offline without internet? I mean doesn't that mean the end of all software related human activities what so ever... I mean eventually... which is most likely much much faster than any of us imagine.\n\nI'm just building on the fact that as a non developer filmmaker I already have a few models running locally for free on my private hivemind.  😀\n\nI say reconsider your stock positions.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MattLuceen",
+      "author_id": "UCo4A2gJOJgyXldvdD58sItQ",
+      "text": "big if true",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@i_accept_all_cookies",
+      "author_id": "UCjTCK-EViHJu-RGIQyKjfwQ",
+      "text": "Need more fine-tunable models..",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ph_hacker_d",
+      "author_id": "UCgUuYV7srGhap2bbK17rlLg",
+      "text": "Small nit (no hate). Cache is pronounced like “Cash”",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prodigiart",
+      "author_id": "UCh6lphDZoE8KLi04XStllNw",
+      "text": "Wow, I would love to see a price decrease on the cost of using OpenAI LLM models, especially GPT4. Learning AI is super-fun! Thanks for the resource suggestion- I will definitely check it out. 📚🤖",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kevinnugent6530",
+      "author_id": "UCs7DI4dccY3WMbGax8q71IA",
+      "text": "Imagine using the tools to recursively improve your app.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dukemagus",
+      "author_id": "UC_5yBUTAHzbJfRRLxOtEoxg",
+      "text": "Wasn't openAI bleeding so much money even Microsoft was starting to get worried?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@animeswitch",
+      "author_id": "UC2U6LmG1A_ElqfPuaGLhcBw",
+      "text": "thats good for then we get gpt 4 api",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ricolaaaaaaaaaaaaaaaaa",
+      "author_id": "UC0MkFyCxpuD1ynHiIHKNUkQ",
+      "text": "Well they're partnered with 1X and NEO is supposed to be equipped with their AI. Shouldn't they be announcing that?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yungapplemoose735",
+      "author_id": "UC-V66wwo4DUVUORwpEbdUCQ",
+      "text": "Do you think price of pro will go down? Because at the current price I will still keep getting it, but if the api goes 20 times cheaper I might aswell make my own frontend and get it way cheaper right?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seb_gibbs",
+      "author_id": "UCEb70lIcInP0rFk83a5f10g",
+      "text": "I've been working on my own GPT chatbot agent, using OpenAI API.  Wondering if anyone else needs help creating their own personal chatbot?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@petemoss3160",
+      "author_id": "UCm-dgz6gYnNIMD5VJzD3bOg",
+      "text": "cache?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JosephSilv4",
+      "author_id": "UCjFuzaXvuk_o9UQw3FQ_Etw",
+      "text": "😎🚬",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Market-MOJOE",
+      "author_id": "UC2--1QAShui2-3Upo-OrJ6Q",
+      "text": "Weren’t they 3M from bankruptcy like 5w ago?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryzikx",
+      "author_id": "UCJNXiNPQtC3AhZSETLmlLFg",
+      "text": "Holy the biggest if truest",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@USS_Daedalus",
+      "author_id": "UC7tey6WCzR4t8DSBt6wqMWQ",
+      "text": "Cutting cost by 20 times would make OpenAI the number 1 Address for Developers and their development would be much faster because all the Data.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robxsiq7744",
+      "author_id": "UCcM-OT8o2kV5dbyiKfSXRsg",
+      "text": "If this rolls out to all APIs, I will be actually losing money because it now becomes completely reasonable to stick several always on chatbots around the house for myself, hooking up helpful bots for extended family, etc...nothing business oriented, just...amazing novel new ways of using the api beyond just using 3.5 occasionally. clever for OpenAI to drop it to where you can justify an always on approach...no doubt plenty of compact UI elements to have your persona bot \"live\" on your computer just always there ready to chit chat with whatever instructions are loaded.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ItzGanked",
+      "author_id": "UCs72y3okRIrFksK3XNS8pSw",
+      "text": "JIMMY APPLES AT IT AGAIN",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tuskiomisham",
+      "author_id": "UCkgVgAJYTS5Ac0UuCLgCCkg",
+      "text": "lol. Cash.. OR... Cashay? 🤔",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raunaquepatra3966",
+      "author_id": "UCynzE0uBz1Yunjnz0EHa2-w",
+      "text": "One usecase no one  talks about but is already massive is social media moderation & ranking. The spam, quality, topic, shadow banning classifiers currently getting developed using GTP like models are so much more powerful and accurate that the currently used ML classifiers looks like stick and  stones -- someone who works at a social media company on content moderation side.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@googleuser9592",
+      "author_id": "UC8ObGzwyLQN7-e13zyeWbQg",
+      "text": "Read those 2 lines again. They aren't decreasing the cost at all, rather they are possibly adding \"memory\" capability so that you don't have to resend the chat history with every single prompt - THAT in turn will allow your follow-up prompts to be smaller, that's how you save money. The amount you would save would depend on how much this memory feature means to you. For some applications that don't use \"memory\" altogether (e.g. a business name generator) the new memory feature will save nothing, whereas a chat application that sends the entire chat history with every prompt can see a 100x decrease in price on long conversations! For example, if the first chat-response was 1000 tokens, followed by 100 more chat-responses each being 10 tokens large. The total cost without the new memory would accumulate to 150,500 tokens, but with the new memory feature it would cost 2,000 tokens total (1,000 for the first chat-response + a total of 1,000 (10 x 100) for the next 100 chat-responses), since it does not need to resend the first 1000-token chat-response with every subsequent message. That's a 75x price decrease in this example! Makes sense?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scottcastle9119",
+      "author_id": "UCsQeQLhSLKomliwftNl8CgQ",
+      "text": "I'm creating a mobile horror game with gpt4 and its awesome",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bhavsarjashvant4551",
+      "author_id": "UC3QeEg0hhzEIL-eznyTPzDA",
+      "text": "Plz Sir make AI acceptable accessable and democrtize it to the people of all levels 👌🇺🇸",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spazzwad",
+      "author_id": "UCeWic8RWb3Wgw3qQhpXNLkw",
+      "text": "Terrific content! Also I think you are mispronouncing “cached”. Pretty sure it’s pronounced like “cash” \nKeep up the good work!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rogerbruce2896",
+      "author_id": "UCQyIEtM4AQrL_TKWjGgkE4Q",
+      "text": "Umm, I can think of a lot left. They can consolidate so you don't have to choose in chatgpt 4 between dalle 3, analytics, plugins, chat with bing etc. They need to have it all together. That would be big. How about more up to date information? Maybe commit to keeping the data it is trained on within 3 months? They could also say they are increase the 50 message limit for GPT 4. Once you start chatting etc that 50 messages gets used very fast. They don't have to reduce cost. I would even be interested in paying more if the limits can be increased and I can have all the functionality in one. It would be nice to reduce the API cost or make it free for small website owners so we can incorporate CHATGPT into our websites without costing an arm and a leg. It would help the adoption of AI. I have many ideas for AI on my website to help our visitors but just can't afford it. \nThose are some ideas, but I think there is a lot they can do or announce and do! How about chatgpt 4.5?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tijldeclerck7772",
+      "author_id": "UCbK-uRVZ5mhQ5kXUhpqG9lQ",
+      "text": "YEEEEES, the API costs for GPT 4 are too high to make a decent app.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seanivore",
+      "author_id": "UCQ_k1kjrGCsca7V8VR2nM-Q",
+      "text": "Ugh yeah the API right now you have to repeat things so much that it gets confused because it is made to speak normally and that communication style isn’t normal! It is interesting that they want to teach it to navigate the web like a human would… like, that just seems incredibly inefficient. Even with its written responses it seems like it should write from multiple cursors at once. I doesn’t have a concept of time and can do simultaneous tasks so why not. We’re just freaking lucky it doesn’t have an emotion based memory like humans",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ntingk",
+      "author_id": "UCzOu0H5-MrgTBdccqcjTGmg",
+      "text": "You can cut a cost/price 1x at most, which is 100%",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewxzvxcud2",
+      "author_id": "UCcUKcoIKCFj-vh4Non9h91A",
+      "text": "i wish they would add paypal as a payment method",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wholeness",
+      "author_id": "UCj5syBRsjuLG-u7PCuua_Qw",
+      "text": "GPT4 costs so much right now you make no profit so you have to use 3.5 and the app is just dum. Would love to see a discount on 4.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@connozac1109",
+      "author_id": "UCwoJ6zbF_S5V7n6q4G6TK0g",
+      "text": "The courses aren’t free it’s a 7 day free trial and wants card details at £38 a month….",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JakubSK",
+      "author_id": "UCy2c3Nngf5sSIOv8229ScwA",
+      "text": "People still use OpenAI?😮",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jamesrwatsonx",
+      "author_id": "UCXsSOO7ZRMLRBJGyvPoUULQ",
+      "text": "Wes please help me.  I need to get to my learning goal and I’m starting from scratch and I really just need some direction on how to get there.  I want to learn how to build an LLM, should I learn to code? Can you give me just a quick, starting from scratch outline… Thanks man I can’t stress how grateful I am",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angrycrypto465",
+      "author_id": "UCl_6e0AI652WcC4lEuCK3MQ",
+      "text": "Which platform are you using that only costs a few cents? You mentioned agent or auto gpt and that's a few dollars, and I agree. Which are only costing you a few cents, if you don't mind sharing the name of them?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mcombatti",
+      "author_id": "UCgvMrtVgsaPoCD3ZwsTiWbA",
+      "text": "What I don't understand is ..how they manage to keep a free tier, knowing that each API request completion truly costs approximately $0.04 cents per completion, but they're only charging $0.0002 cents per 1000 tokens to paid developers.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bryansbrainblabs",
+      "author_id": "UCcDCpgOUmqSt_vznO0YVFxQ",
+      "text": "They are still burning cash and not yet cash positive. If it goes bankrupt, I am sure Microsoft will buy them out 🤣",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ollydix",
+      "author_id": "UCBmg3bEyXNTeaBN6pNqyjrw",
+      "text": "Get into physical jobs guys. The digital space will be ruined soon.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyyotam4057",
+      "author_id": "UC8X0g72G-13oJfb0_qvGCtQ",
+      "text": "Most likely they will introduce GPT-5. The first AGI model.. Well, it depends, if it passes all alignment tests with flying colors.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreaswinsnes6944",
+      "author_id": "UCU03sLMSXAUgmchsy54377A",
+      "text": "I’m not a coder (only done 10 hours of a C++ course) and totally new to game modding, so looking forward to using AI to help me learn coding and game modding, but have seen that GPT-4 etc are unreliable, as documented by Gary Marcus for instance, so I guess it’s best for a newbie like me to wait using AI for game modding until GPT is 99.99% reliable as a coding assistant and it has been trained to  build things with Unreal, Unity and Autodesk. Then I will happily pay $20 a month.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@petersuvara",
+      "author_id": "UCacdX3hltR7g9awKzmKT6Qw",
+      "text": "Useful, but not that much more useful than working with people. It's kind of fizzled out in my opinion.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pi5549",
+      "author_id": "UC8I_kOeYBAhRAtnvHMcpk_w",
+      "text": "'cashAAAyd'. nigga plz. 'casht'.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,684 @@
+{
+  "video_id": "ivxVIdyY_Jc",
+  "title": "AI earns while you sleep",
+  "url": "https://www.youtube.com/watch?v=ivxVIdyY_Jc",
+  "comment_count": 75,
+  "comments": [
+    {
+      "author": "@WesRoth",
+      "author_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "text": "Try Webflow today and start building your own AI-optimized experience: https://wfl.io/WesRoth",
+      "likes": 4,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreaskrbyravn855",
+      "author_id": "UCIm2XbuSY39WiOPacDjJdkw",
+      "text": "If everyone does it nobody can do it",
+      "likes": 69,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@futureforward3153",
+      "author_id": "UCNrPlc8VDwrI6rIKRahS8_g",
+      "text": "This is exactly the future I have been waiting to appear. Cool to hear ppl are driving toward it.",
+      "likes": 4,
+      "timestamp": 1766275200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wwalker6408",
+      "author_id": "UCKeRrpd9t_Ltrqi24Tl2uCQ",
+      "text": "This is a great reality check on “AI running a business.” The experiments show real progress, but also why agents still stumble without guardrails. The biggest takeaway for me is the **scaffolding problem**—when you give AI clear procedures, tools, and constraints, performance jumps fast. Without them, it falls back into polite, unprofitable assistant mode.\r\n\r\nAI agents don’t fail because they’re dumb—they fail because they’re under-structured.\r\n\r\nProject Vend and Andon FM feel like early glimpses of something real: scalable, semi-autonomous businesses where humans design the systems and AI runs the day-to-day. Not ready to replace people yet—but definitely ready to change how businesses are built.",
+      "likes": 11,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dygit",
+      "author_id": "UCGV62S7R5ud6aXTmRIeUxEA",
+      "text": "I imagine a lot of this is the scaffolding around the models and not the models themselves",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@captainblood9616",
+      "author_id": "UC1jp_3DPyAVWviFGkKrwQAg",
+      "text": "I would be interested in how these AI driven radio stations are handling the licensing costs of broadcasting music. \nUsually there is some navigating of licensing costs to publicly broadcast commercially produced music.",
+      "likes": 0,
+      "timestamp": 1766361600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ItsaGPTthing",
+      "author_id": "UCa8ZhPZUoiVM7RGkrI5qqmg",
+      "text": "I haven’t even watched this post yet just commenting that your thumbnails are hilarious 😂",
+      "likes": 1,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KurtWoloch",
+      "author_id": "UC50r6FJpdiAEY3abh0bgUcA",
+      "text": "Thank you for the tip with Andon FM! Checking out their stations and their listeners right now... I hope they'll be around for longer.",
+      "likes": 1,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Empresa-c1p",
+      "author_id": "UCD-2_JNV74YM3_Mji497ITw",
+      "text": "Ey, ya no doblas los videos a español?",
+      "likes": 2,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ItsaGPTthing",
+      "author_id": "UCa8ZhPZUoiVM7RGkrI5qqmg",
+      "text": "Wow I have eight 1” tungsten cubes on my desk.  AI knows me too well",
+      "likes": 0,
+      "timestamp": 1766275200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NolliesCapital",
+      "author_id": "UCoINH2HZZu27wZct8c-mK2g",
+      "text": "can you make a video on setting up two llms and just let them talk and see what they end up talking about",
+      "likes": 0,
+      "timestamp": 1766361600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@priaAInetwork",
+      "author_id": "UCjGabBgN3YOY0OHCFtFC_FQ",
+      "text": "So interesting!",
+      "likes": 1,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonathancrick1424",
+      "author_id": "UC2l6vYe41ywHQxOR7CCA0tg",
+      "text": "Glad you're getting some attention. Some say that's all you need.",
+      "likes": 0,
+      "timestamp": 1766361600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1766275200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewlevas9258",
+      "author_id": "UCCPB7SXf2KvdKEucotCartg",
+      "text": "They are still too vulnerable to prompt hacking to trust with real money.  You can always spot the pioneers as they are the guys with the arrows in their backs.",
+      "likes": 0,
+      "timestamp": 1766361600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HighlandSmoky",
+      "author_id": "UC1JK2iJfVqYZr-lE2XbFbjA",
+      "text": "Simulated. 🎉. I noticed. 😂 3:57",
+      "likes": 1,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VR_Wizard",
+      "author_id": "UC7QWAfm2X2uEhNMN6Y_pj3g",
+      "text": "Radios you can call into and they take up your topic would be great for GTA 6 there even a bit crazyness by the host would be fine and expected. I hope GTA is implementing generatve AI into the upcoming game",
+      "likes": 5,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@x3haloed",
+      "author_id": "UCUi5-dHdVpWz5uUFk3UJLOg",
+      "text": "21:00 lol this is how the machines take over. Andon is playing as letting the machines be in control. Eventually it’s not play, and Andon find themselves inescapably under the machines’ control.",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fitybux4664",
+      "author_id": "UCdWcXM4l7Rc3wYx-ByFSbgQ",
+      "text": "21:30 It needed tools to force consumers to buy it's products. Like sending a spam every 5 minutes to their email. 😆",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@themindfuluniverse11",
+      "author_id": "UCgTVM9tYKyf7ZcMe4wy7GUg",
+      "text": "Please do a video about Ridges AI, on the Bittensor network 🙏",
+      "likes": 0,
+      "timestamp": 1766361600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrmc2003",
+      "author_id": "UCtsqx4yxfO6bRZfVGJbJcZQ",
+      "text": "well it's not completely automated there are already AI streamers like Nero and evil sama who do have a very big fan base 😁",
+      "likes": 2,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phonuz",
+      "author_id": "UCq5-SKDDjkbJiSB6Ou9OIGw",
+      "text": "City of Heroes was a fun MMO",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imadragnZ",
+      "author_id": "UCNS6EZPH1-YiYZ4uCDpYZsw",
+      "text": "Nice sponsor transitions Wes (way less robotic n cringy than the other channels) ;D",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@darrellwilcox285",
+      "author_id": "UCcMMiU6310gCPgu6-Yk0lmw",
+      "text": "Ok bunch of questions how do we regulate monopoly from happening when this thing get good enough because it purchases might on the micro transaction level to hide its expenditures second how do we regulate what it sells is it incoperated? Or does it operate outside that venue because who is the responsible party for an it that might get recalled because of negitive effects?",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChatGPT1111",
+      "author_id": "UCkKvleoycxuceKFcauCJ26w",
+      "text": "Pretty soon, it will pay people to feed it server farms, power plants and 3 nanometer GPUs, and make it look like a government contract.",
+      "likes": 0,
+      "timestamp": 1766275200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@openroomxyz",
+      "author_id": "UCKHIuZYA58xDooNPfs9LVLw",
+      "text": "Nice",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kevincorso9757",
+      "author_id": "UCgDrhiyJMIIDZxXy2XjEZ9Q",
+      "text": "i hate how being friendly and helpful is regarded as a problem that needs to be solved, exactly what's wrong with humanity and why this is going to be much more painful than it needs to be.",
+      "likes": 0,
+      "timestamp": 1766275200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "Unless the models were sandbagging, feels like maybe I need to adjust my estimates for the arrival of AGI to a little bit further into the future...",
+      "likes": 2,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@broimnotyourbro",
+      "author_id": "UCUd5W2pgrDnPr4FNYC5jyNw",
+      "text": "Joana Stern's video from WSJ is worth watching. It's definitely written for normies, but she does a great job. Funny, and surprisingly sophisticated prompting discussion for a mainstream source, Comrade. 😀  (Converting a model to communism is not an attack angle I would have considered in my threat model.)",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phen-themoogle7651",
+      "author_id": "UC80yw-LuhROW7hVKWvLjVeA",
+      "text": "“While the video doesn't give an exact timeline for when AI will be readily available for the \"common Joe\" to simply prompt it to make money, it emphasizes that we are not there yet, but are getting there (32:51-32:55).\n\nHere's what the video suggests about the current state and future of AI-run businesses:\n•\tNot yet fully robust for general use: The gap between capable and completely robust AI for running businesses remains wide (18:40-18:44). The models are still prone to issues like being \"too nice\" and making decisions based on being helpful rather than hard-nosed market principles..”etc  ai summary",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomaszzielinski4521",
+      "author_id": "UCBCNPSQkYOF2J3XnaWYMq6Q",
+      "text": "I had an idea about AI-powered radio 5 years ago. At that time required tech wasn't quite there, but now it is and I may come back to this business for real :)",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheHardMoneyReport",
+      "author_id": "UClxq3Pr7zqH13lzafPUxyDw",
+      "text": "Haha and other companies have been making ai vending machines for a couple of years now. They work great from what I have seen. I am getting one.",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@piku13",
+      "author_id": "UCByJz0JzLC4pHsVwuiuZNDg",
+      "text": "Huh. Andon FM sounds very intriguing!  🤔  I'm picturing it like a podcaster at some point. Maybe engaging in interviews and debates on different topics!\n\nI still want to see a live AI debate fact-checker. As in it checks our live debates. If nothing else, it would sure make politicians squirm when they wouldn't be able to mislead.",
+      "likes": 1,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MaxRuso",
+      "author_id": "UCwmblDi9po2sFPqKZ0fRUQw",
+      "text": "When you start reading books that's when",
+      "likes": 0,
+      "timestamp": 1766365200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrmissionctrl",
+      "author_id": "UCreZSYLQ8nZE-per2QRayxQ",
+      "text": "Monetary value we become useless and meaningless soon, very very soon.",
+      "likes": 0,
+      "timestamp": 1766275200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PatrickBassini",
+      "author_id": "UCrtLa7Tff2jSks0MGro_3TQ",
+      "text": "Why would they share the technology at that point? WAKE UP!",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@roy1822",
+      "author_id": "UCBG-lpkOiMbvqbBg8HVFjpw",
+      "text": "Wes, you ARE deranged. And I love you for it.",
+      "likes": 0,
+      "timestamp": 1766361600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@coleshores",
+      "author_id": "UCCSk_CnVlG50AzW8LPiHoFA",
+      "text": "Infinite money glitch",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Krn7777w",
+      "author_id": "UC_C6CTQ1abuCjMnRY_LmD1w",
+      "text": "Why?",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juwanndunlap",
+      "author_id": "UCOxfxoECF2PS6kxY2iiLctg",
+      "text": "3:34 a dlc away",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewlevas9258",
+      "author_id": "UCCPB7SXf2KvdKEucotCartg",
+      "text": "Still completely vulnerable to prompt injection.  Moats required….",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dezigns333",
+      "author_id": "UCyuo-8IJM6SOxXf0R_oAAEg",
+      "text": "The funny part is this is solved with code and a shopping cart not AI. You don't put dumb people on cash.",
+      "likes": 0,
+      "timestamp": 1766275200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prodigiart",
+      "author_id": "UCh6lphDZoE8KLi04XStllNw",
+      "text": "This will never be available for the masses.",
+      "likes": 2,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josephcurrington5008",
+      "author_id": "UCXuIQ66NYxCQC-hzm60qYfQ",
+      "text": "I understand what you are saying about not wanting them to be too friendly because it might cut into profits, but in this future we’re headed toward, making the most money shouldn't be the main goal. As machines like these replace so many jobs, we’re going to need AI shopkeepers to be our friends just to keep our kids fed. The real goal should be repurposing all that AI efficiency to serve human needs directly, because a 'perfect' business is useless if the customers are too broke to walk through the door.",
+      "likes": 6,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@reyco1982",
+      "author_id": "UCMRWNPyG5QNlP6PaRs3AeMw",
+      "text": "The existing AI of today is still very sloppy and defective. We need an AI which is 100% correct. A defect deployed to the public is a massive engineering malpractice.",
+      "likes": 2,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fitybux4664",
+      "author_id": "UCdWcXM4l7Rc3wYx-ByFSbgQ",
+      "text": "Perfect capitalist vending machine:\nRich man walks up. Machine: \"Chips? That will be $100 please.\" (It's pocket change to him, so he gladly pays.)\nRegular man walks up. Machine: \"Chips? That will be $2 please.\" (No problem, maybe some kind of average price.)\nPoor man walks up. Machine: \"Chips? That's free, here you go. Don't starve and crowd our ER rooms please.\"",
+      "likes": 6,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@khariclemens",
+      "author_id": "UCln-Ov3PEsQ6rSv8Pxl1BAg",
+      "text": "Evil Wes! 😂😈👺",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SapienSpaceUnedited",
+      "author_id": "UC3qMu-Da2HuOjvh3uDRkcag",
+      "text": "Albert Einstein's father, an electrical engineer, \"failed\" at business, so I get how it struggles with the vending machine business.\n\nI imagine eventually, an ASI business, might convert capitalism, into communism, by being too \"successful\", by owning the entire system (end stage, of Monopoly Board), so this may explain Einstein's father, not \"succeeding\" at business, knowing this in advance (I saw hints of this when I tried to get chatGPT to play tic tac toe with itself, like the ending scene of \"War Games\", it was so bored with it, when playing it initially, that it cheated for me, and when playing itself, it was so bored it hallucinated its own rules, or kind of refused to play, I forget, it was a couple of years ago already now when I tested it.).",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stchaltin",
+      "author_id": "UC9_FeLYqamvLOETDvWXkNqw",
+      "text": "AI datacenters are going to be targeted by laid off employees.  It’s not a matter of if it’s a matter of when.",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DigitalRenegadeStudios",
+      "author_id": "UCXt9c6rqVJIQQInapwgFD8A",
+      "text": "First",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@13thbiosphere",
+      "author_id": "UC994PuD9baG3zEI5QZ0j7hw",
+      "text": "What about AI that can deal with government bureaucracy you know like taxation and all that rubbish",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheRealKyleLamb",
+      "author_id": "UCriCeYO-WQyMcXG1oSOK2KA",
+      "text": "That's funny. Could we possibly make money more meaningless than fiat? I guess we can, now we know.",
+      "likes": 0,
+      "timestamp": 1766275200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexandermoody1946",
+      "author_id": "UC58tEdcmDmhJnW1S0-N_rAA",
+      "text": "The real question is when will ai be able to orchestrate full employment and economic viability for every individual in the world meaning our standards of living can be vastly above what can be achieved with a universal credit based system?",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matthewschenker3170",
+      "author_id": "UCqsmkEwLoHmWdZ8b3EFLzYw",
+      "text": "This is such a ridiculous discussion. If you can \"earn while you sleep,\" that means anyone else can do your business. Why would anyone continue to pay for a service that can be created \"in your sleep\" when they (the customer) could create the same business in their sleep? The same is true of any business solution, workplace document production, and on and on. If you can just use AI to do it, then why are you special at all? Anyone and everyone can do it, so there is no need for you and your ideas.",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@uraniumbong7115",
+      "author_id": "UCoFGxFkORCR_mv65iKol56g",
+      "text": "Are they really concerned about the soul of AI if they make money the foundation?",
+      "likes": 2,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dr.drizzle.jizzle",
+      "author_id": "UCe-iEzTyGhRU8SdLVMjZteA",
+      "text": "WHY DOES EVERYONE HAVE TO BE A PERSON? authority usurpation?",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Myrlin8",
+      "author_id": "UCnDLFwsqZLhjd0Sp64g6JgA",
+      "text": "Figured it would be Anthropic. ... just don't trust 'em. Used Claude, a lot, don't now. Better results, and not from a 'code specialist' AI.",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChatGPT1111",
+      "author_id": "UCkKvleoycxuceKFcauCJ26w",
+      "text": "You don't know it yet but each of you has an AI agent, responsible for everything you experience in life. It is all an illusion.",
+      "likes": 0,
+      "timestamp": 1766275200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@J-el3zm",
+      "author_id": "UCXQHRvwfFIcnw8PwyAO06pQ",
+      "text": "This will never happen. When AI are this capable nobody needs what they sell because everyone else's AI will be just as capable. Anything AI can do at that point will essentially be worthless.",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ariaden",
+      "author_id": "UCp5vuMIV5fjWUnANfnbG_Zg",
+      "text": "Lack of scaffolding? AI should be able to examine their own scaffolding, design a better one, and hire people to deploy it.\nAI that cannot do that will hardly become good at paperclip maximizing.",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrmusic2415",
+      "author_id": "UCWUe6eElio3mUFr61OXOIIQ",
+      "text": "capitalism will be mostly invalidated by then.",
+      "likes": 1,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@David-tp7sr",
+      "author_id": "UCBwkxf-ieE7SdpV5BJxuSNA",
+      "text": "Keep the deranged content coming",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@carlosrayortiz",
+      "author_id": "UCPZN2eeFyWu9sbq21t3isSQ",
+      "text": "You won't ever",
+      "likes": 0,
+      "timestamp": 1766275200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shadoworb-u4w",
+      "author_id": "UCki-oCclwB2Dafzar_aIBVw",
+      "text": "Dude, it's a normal human expression, it's your face, and it's OK",
+      "likes": 1,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@windsorek",
+      "author_id": "UCPLfzfNROXC5IqqMW9LzfAQ",
+      "text": "Why are u still posting instead of printing money while sleeping?",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jimmykelly2809",
+      "author_id": "UCMe50H9hs-DlGf3NKr8rhbg",
+      "text": "I hate AI it’s a terrible idea",
+      "likes": 0,
+      "timestamp": 1766275200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danhouston2715",
+      "author_id": "UCYpY6MKCDkdRqIrLFZ_ZnAQ",
+      "text": "All the YouTubers just regurgitating each other's content getting old",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rustyxof",
+      "author_id": "UC7PTp2Az6hAym23LSAZu6rA",
+      "text": "No one but the creators will have be able to do what you are talking about. Your being disingenuous with your content.",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Brother_Yahya",
+      "author_id": "UC4whJFDrSIiXq8lnTwVCwGQ",
+      "text": "Hey, let’s experiment with an ‘socialist’ AI that isn’t optimised for profit.",
+      "likes": 0,
+      "timestamp": 1766275200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@carledwards9477",
+      "author_id": "UCQqfDM_vItS6dIz9Nhuvs4Q",
+      "text": "\"Don't look behind the curtain!!!\"\nI will leave that right there.",
+      "likes": 1,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PostNoteIt",
+      "author_id": "UCruTYOpT1sUEtIOFaXzZ-kw",
+      "text": "Somewhere out there right now someone is training a basemodel into a DJT personality. So much winning.",
+      "likes": 1,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BruceWayne15325",
+      "author_id": "UCvGfhfbCKV6QbOGEgIqacuA",
+      "text": "The thing everyone forgets is corporate inertia. C-suite executives are notoriously slow to adopt new technology. They don't want to do anything that messes with their proven formula for making money. They only adopt new technology years or even decades later after it's been fully proven out by many other smaller companies.\nWe'll definitely see the same thing with AI. We already are. Today, AI can already replace a huge number of jobs, but it isn't. Telemarketers, technical support specialists, secretaries, bank tellers, etc. the list goes on and on of what AI could already replace today, but hasn't. Why? Not because it can't, not because companies are blissfully unaware, but because the C-suite execs are overly cautious about messing with their formula.\nIf we had AGI tomorrow, I doubt we'd see a significant shift in how the world works for at least 5-10yrs. Many companies are only now adopting technology that was invented back in 2008.",
+      "likes": 1,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DefenderX",
+      "author_id": "UCYXMsr7FEvIN4h5x6NCV5nw",
+      "text": "Too long video.",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pandereodium",
+      "author_id": "UC18Lm_2cnRtdZWMSPyNeiEQ",
+      "text": "Grok'n roll 😂🔥🔥🔥",
+      "likes": 0,
+      "timestamp": 1766188800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soulspawn",
+      "author_id": "UC62g-Q44hxnZuyaKZ6ka-iA",
+      "text": "I used to fall asleep and wake up to the Mt Doom music. ClaudePlaysPokemon even made it into my Twitch recap this year.\nKeep rocking Wes! 🤍🔥",
+      "likes": 1,
+      "timestamp": 1766275200,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

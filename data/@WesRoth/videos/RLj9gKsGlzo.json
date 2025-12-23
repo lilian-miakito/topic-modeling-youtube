@@ -1,0 +1,1206 @@
+{
+  "video_id": "RLj9gKsGlzo",
+  "title": "GPT 5 Codex is a BEAST Autonomous Coding Agent",
+  "url": "https://www.youtube.com/watch?v=RLj9gKsGlzo",
+  "comment_count": 133,
+  "comments": [
+    {
+      "author": "@ffgarena3648",
+      "author_id": "UCZRp9pkdvPU6Yx9OBPB645Q",
+      "text": "Every time I see demos like this, I remember what Selwyn Raithe wrote, that the real turning point wouldn’t be when AI got smarter than us, but when it started quietly replacing human judgment in places we don’t notice until too late. His book made me rethink these breakthroughs completely. It’s not just cool tech, it’s the start of a phase where we stop questioning outputs because they seem “better” than ours. That’s when things get dangerous fast.",
+      "likes": 746,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jdsguam",
+      "author_id": "UC6l3j5nAAqZHkFPVhlDrJNQ",
+      "text": "I used GPT5 to create a interactive Jukebox webpage - turned out very professional looking and I'm very impressed.  But, it took about a week of back & forth debugging it.",
+      "likes": 70,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KiteTurbine",
+      "author_id": "UC2eAHVBBCoO19xBuGOY73Zw",
+      "text": "October 2023?\nWes, your computer went back in time \nYou made a time machine",
+      "likes": 12,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JumpstarOfficial",
+      "author_id": "UC-vq9N8nsycLfb0PUO92djg",
+      "text": "I have been working on an embedded ESP32 MIDI device written in C and C++.  The project started with Claude Code, but I have now switched to using Codex.  Can confirm it is very good, and the context window doesn't run out in forever. Also the code is of excellent quality with much less drama and need for intervention.  Highly recommended.",
+      "likes": 39,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShootingUtah",
+      "author_id": "UCZiluVlg8mUIMIvVvxM9kCg",
+      "text": "Given the fact that Anthropic has allowed Claude to go totally stupid lately I might have to switch subscriptions and give Codex a solid try.",
+      "likes": 16,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Edmund-b9q",
+      "author_id": "UCZLRhQQ37g9B0WWLGb43f3A",
+      "text": "I'm a dev, tested it on a real project. works great",
+      "likes": 106,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tdplayert",
+      "author_id": "UCiQRuCygs7YMNRbWRkNDfeQ",
+      "text": "\"frequently aligned questions\"   😆",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@customapps",
+      "author_id": "UCd2mFqeX0EKXwB0WG70FExA",
+      "text": "Dog strop giving away secrets lmao. Don’t let people catch on!!",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dynchaw",
+      "author_id": "UC6GtRi_TnjwGONYpHk-FTGQ",
+      "text": "The traffic drop came from ad blockers starting to block the YouTube API endpoint for tracking views. All the users with an ad blockers suddenly stopped being tracked on the 12th.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AwesomeSauceShow",
+      "author_id": "UCZcy0qNZk9OpNelg3zMGlkg",
+      "text": "9:45 what an opportunity to say: we are the Borg resistance of futile. 😂",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patrickzupanc1795",
+      "author_id": "UCmpvajRS0szfCISojmWK27w",
+      "text": "Great video, thank you!",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@puremajik",
+      "author_id": "UChjNJjKE99HwwMtDHkHuTeA",
+      "text": "It is suppose to be 5 hour rate limit: \"You've hit your usage limit. To get more access now, send a request to your admin or try again in 6 days 27 minutes.\" \n😭",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DarkSideNewsOfficial",
+      "author_id": "UC1Fh8CqclAPNf4olDrjWCIQ",
+      "text": "It’s literally on par with opus.  Better at some things, worse at others.",
+      "likes": 8,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@5thwalltv",
+      "author_id": "UC03pV7LJfLMFKnRtgTwpfXA",
+      "text": "I subscribed to pro. It’s been killing it for me today. Claude stopped working well recently. gpt-5-codex is more honest and follows instructions better. It even called me out on being contradictory, which I appreciated. Claude would have just told me I was brilliant and then done the wrong thing. Sad because Claude was so good at first.",
+      "likes": 33,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TalesfromtheGodsofEgypt",
+      "author_id": "UC5XZD2HwJ_x8l1vUDrIFzOw",
+      "text": "Wes is like: \"I'm not even gonna touch that\" because he's not even gonna pretend to understand what the reasoning is for why they named the models what they do. We feel ya, Wes.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Luzivog",
+      "author_id": "UC5EwkFEAI4ETrVXjHlIV30A",
+      "text": "13:35 you got me, pressed like",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ALEAITSOLUTIONS",
+      "author_id": "UCS0krQ_dAltu_uA566zcU-Q",
+      "text": "Love how clearly you broke this down 👏 Curious - has anyone here tried building full projects with Codex yet ? What’s your experience?",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nescaufe1991",
+      "author_id": "UCQX9PvCkPznCcxtw7s08uXQ",
+      "text": "HOLD UP. Wasn’t 7 hours’ worth of “50% success rate work” only supposed to come NEXT YEAR with current prediction models??",
+      "likes": 15,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peterpetrov6522",
+      "author_id": "UCave9XrUTIf9pdHd-KLtblQ",
+      "text": "So That was disturbing. lol. Thx, Wes! \nSubscribed as instructed.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheKnowledgeAge",
+      "author_id": "UC5_MtiOSULdFh_8jys5KDCQ",
+      "text": "Not only will I thumbs up this video. I'll save it to a unlisted playlist for future reference 😅",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nzdazza1",
+      "author_id": "UCtEdPjiVOCB2VtTfNOCRwag",
+      "text": "Just gave codex for vscode a powershell script and a simple change. Ruined it after 15min😢",
+      "likes": 7,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RM.S4T0SH1",
+      "author_id": "UC4K2994kkceHFITBE97ov8Q",
+      "text": "liked and subbed even tho your on windows 😂",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LuarVikTimYashin",
+      "author_id": "UCTpzBBK-17Vb1zAEpps90Lw",
+      "text": "It seems reasonable to wait a few months to determine whether OpenAI will begin throttling the service to reduce costs.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vmfs99",
+      "author_id": "UCDE1WDt_Bl_Nm9Te1wdSCEw",
+      "text": "What about claude code tho, does it compare?",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JuanPabloAJ",
+      "author_id": "UCO_TKZ6kPSQ9w1AtNPNYwyQ",
+      "text": "How do you avoid the sandbox restrictions ? For example when you need run integration tests with docker or databases , what do you do to give codex permissions to run it ?",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nathanryan2923",
+      "author_id": "UCNWaL26FSmczjnUDREm9jLQ",
+      "text": "Very cool, could use a better date time api though",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FF420Raw",
+      "author_id": "UCwpzshFDVQvcRNmqhYFflWA",
+      "text": "So glad I took 4 bong rips before 10:00 😂😂😂😂",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaffaAnalytics",
+      "author_id": "UCI2C2lrlKk9JvS2Cz8VbMuQ",
+      "text": "That's a great test, I don't think many LLMs can achieve that",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dayvudmorin",
+      "author_id": "UCJ_weEYDaenpnV3cfehk8lA",
+      "text": "If I wasn't already subscribed, 10:10 definitely would've done it lol",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hughdidit",
+      "author_id": "UCJE1eJ4PANDgM8qEEpXNCNQ",
+      "text": "I've been working with Codex for weeks now all on the same sophisticated project. It's AWESOME! But, I wouldn't leave it unchecked yet.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "The Pitch/Wet makes you sound like a hacker demanding ransom for you current escapades",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KOSMIKFEADRECORDS",
+      "author_id": "UCof9qZbsjzCPEl2ZgcWkdSA",
+      "text": "LOVE.... the robotech voice effect!!!",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matrix4342010",
+      "author_id": "UCG5TxNWgHrq1gC7LLo9JBog",
+      "text": "please make tutorial how you run codex on windows with wsl , or IDE like Cursor",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ClankerT800",
+      "author_id": "UC8RkU6EHbtqK33k88Vc0DEQ",
+      "text": "10:04 love it😂😂",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CutcliffePaul",
+      "author_id": "UCxLjnxZWn0mzhcSbbKvTNIQ",
+      "text": "I’ve had great success with a few small projects too.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@illernpiller",
+      "author_id": "UCog6iOLATyocu1P-GYCvotg",
+      "text": "Have you noticed that the web interface locks up your entire browser? Can happen after 1 prompt but gets worse the more coding windows you get or images you ad, or other files. It started with gpt5.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaela.gallerizzo6920",
+      "author_id": "UC4e5rLXZF3TJtB2B_K4KUXw",
+      "text": "The like button part had me laughing",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JeremyPickett",
+      "author_id": "UCZzqg7Ah5NjOIcfIPCGCNig",
+      "text": "You must now and forever after use Low Robot Voice in all your videos. You will not escape, Wes!! NEVEH!!!!!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@georgerauscher",
+      "author_id": "UCA3Z7Ogv891I25KS0EX1FUg",
+      "text": "works better than opus in my systems",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulbieles1956",
+      "author_id": "UC_7StRI5zjIFagR1trpE9UQ",
+      "text": "I just bounced codex off a relatively complicated layered fully dockerised system that I built using AI Studio and a poop-load of cut and paste, it has a frontend (next.js), backend (django), agent (python),  data (postgres + redis), messaging (rabbitmq). I first got it to analyse the project, then fix something for me, which worked first time. The next thing was for it to add additional functionality, it applied it, it broke something, I went back, it fixed it and the thing worked. My next job is to tear the thing down and see how it works from the original design documents that gemini way back forever ago cobbled together.\n\noh, I've also created a really crap one shot javascript game and a chrome extension that monitors Amazon uk products.\n\nLong and the short, I am really impresses so far with codex.\n\nI've got way too much time on my hands!!",
+      "likes": 5,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drwhitewash",
+      "author_id": "UC8d1ZThyVoiaQ3kAF3-Pqnw",
+      "text": "It's always about 50% success rate. So for every task there is 50% chance a human needs to spend at least as much time as if he/she was personally doing the task.\nWith sw development, the error rate can compound very fast.",
+      "likes": 5,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Truck_Kun_Driver",
+      "author_id": "UCSDjvvXVmtdq9LUfwrmDVNw",
+      "text": "My cousin who works at a delivery companies already replaced his 11 other colleagues due to GPT5. With this tool, this will accelerate even faster.",
+      "likes": 17,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EarthAaron",
+      "author_id": "UCm0a8Eb4BTgdb_WmOTuv8Zw",
+      "text": "if you want something hard to try: create a comprehensive ontology for all of human knowledge then create a multi-layer perceptron that distills this ontology to infer semantic embeddings based on 90% coverage of the english language while keeping it under 1mb and ensuring it works in the browser",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@C00LX100",
+      "author_id": "UCthbUVGCb9dt4Nky_aIbL3w",
+      "text": "I don't know, what did you expect, You said flap.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dron008",
+      "author_id": "UC-yryv213jOmV6HQMNHKKVA",
+      "text": "How can I make it analyze or generate images in the CLI version?",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drsuperhero",
+      "author_id": "UC-Vn5h3Igtcv7g86uW_NqkQ",
+      "text": "Been following this channel for a while and now I wish I knew how to program and code.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StonedApe420",
+      "author_id": "UCVEhWkvOlStFQpYW7raKIcg",
+      "text": "I have CC Max, but im currently working with 20$ Codex.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@obscura_tempura_studios",
+      "author_id": "UCQTBbEZYtnM-yrn1zhQeZAA",
+      "text": "I noticed that gpt 5 in copilot is doing way better than Claude 4 recently. I often switch around models for different tasks but I find myself using gtp 5 more.. not sure if this has anything to do with it but gpt 5 has been kicking ass with one shot implementing, especially with contract contexts it can refer to.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrmissionctrl",
+      "author_id": "UCreZSYLQ8nZE-per2QRayxQ",
+      "text": "Dang Wes, wtf are you building? 😆 🤣 😂",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrmissionctrl",
+      "author_id": "UCreZSYLQ8nZE-per2QRayxQ",
+      "text": "I'll ingest it into my GeoSentinel pipeline and see what it can do.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrmissionctrl",
+      "author_id": "UCreZSYLQ8nZE-per2QRayxQ",
+      "text": "I do everything on my smartphone 😆 🤣",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ojciecvaader9279",
+      "author_id": "UCKypgmOlKr8Dnm6BKK0uQSg",
+      "text": "im waiting for further testing. but i feel like ordynary user [not programist] will have hard time to create production level app with this. because I think you need to ask right question, so you need to be aware what is needed to create a working program. still, it IS impressive",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vko2112",
+      "author_id": "UCPOptl4KFdNXHh2QSqk12Jw",
+      "text": "GPT 5 Codex is a good name for once!",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MihaiMangu8",
+      "author_id": "UC9W0v0hsfk0DEFG6DxUY6Tg",
+      "text": "For me it's asking everytime for approval just to search for files... That's not usable.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MetaphoricMinds",
+      "author_id": "UCMhWca-Lu2Z7ZfZBq_Zc9Rg",
+      "text": "Are there 2 different hyphens in that name?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Windswept7",
+      "author_id": "UCTXafNOE0prVfvufEogLqXw",
+      "text": "Thanks Wes 🦕",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@r34ct4",
+      "author_id": "UCRidaQVHln8mGYKugp3nBOQ",
+      "text": "Wow. This is it. \"Frequently Aligned Questions\" is actually witty. It's over. I'm a dev, testing it, and it's making me feel pretty fucking stupid.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gingerhipster",
+      "author_id": "UCG3Sqsvt7CbE6Q_io3J6MAg",
+      "text": "This but for everything that's computer labor, and then next year it's the robots. Bots don't pay taxes. Robots don't pay taxes. Regions need a workforce under current paradigms.",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GeorgeRaven-c2y",
+      "author_id": "UCZTg01Hc3IL5YzElXaSa9Pw",
+      "text": "I have a coding agent for my pet project, not Codex based, but what I see models can do MUCH, MUCH more than what OAI announce and deliver for a few days what I can do with the traditional SWE for a year - syntactically correct and working code. This is now, not in the future!\nPS - Fully autonomously (forgot to mention)",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndreyMakarov-i7h",
+      "author_id": "UC0ivGgACabyANyKXVG_v7cQ",
+      "text": "I love AI for extinguishing the smugness of coders.",
+      "likes": 4,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anatolydyatlov963",
+      "author_id": "UCX28Iu5d8JZHWoo7qX6D-3A",
+      "text": "Codex CLI asked me if I want to try the new Codex model, and after 30 minutes I was completely blown away by how absolutely TERRIBLE it was. The number of mistakes it made during a simple refactoring session was insane, so I immediately switched to 5-high and haven't looked back since.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrendaCreates",
+      "author_id": "UCDdvhYtz4yjLF5j2fQbbVhA",
+      "text": "I'm not sure, how do I test to see if I'm human?",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnsnow5305",
+      "author_id": "UCUrBYWlJpxaBgPvOUeeiFGw",
+      "text": "I can't imagine what programming majors starting today think. How could they possibly be as good as even the worst LLM agent in 4 years' time? I really don't think it's possible to be as good, if you're starting now, as an LLM in 4 years. I doubt any human will be as good to be honest.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DigiWongaDude",
+      "author_id": "UCF0e2jSdaEqekaUwXVBGmhQ",
+      "text": "This with MCP... 🎉",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Furobe",
+      "author_id": "UCRuD-zit2J0mPeB8eTd7jPQ",
+      "text": "Gpt5 has been the best from onset the problem his people were expecting AGI",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CaptainKokomoGaming",
+      "author_id": "UC_OmGw1TgwQFOYzAgT6JwGQ",
+      "text": "I wonder what would happen if you asked codex to write an ai that can gather its own training data and map its own abilities. Obviously within guardrails... but still That would be interesting.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kevinwuwon3905",
+      "author_id": "UCvMTgoOFVVs3UXwUECsFwMg",
+      "text": "What's with the hate for the name gpt-5-codex? What would be a better name?",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Simon_Rafferty",
+      "author_id": "UCTZ9Ku5xh3ST2T7m7zuQ5Sw",
+      "text": "Good timing!  For some reason, in the last week, Claude and Claude Code seem to have become much less good??  It's been working on a large codebase, making good progress - but in the last week has started making very questionable decisions - often ignoring the instructions.  I've been super impressed with Claude Code - but this week it has made me swear at it more than ever.  I'll give GPT Codex a go later!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fitybux4664",
+      "author_id": "UCdWcXM4l7Rc3wYx-ByFSbgQ",
+      "text": "\"Hi, I'm Wes Roth, and I'm running Windows and I don't know how to simply install WSL2! Ah derrr\" 😆",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marodriguezbabilonia",
+      "author_id": "UCdlCPgxz5solx1Q99nhJXwA",
+      "text": "I am a beginner coder for C++. AI helps me learn coding. I compile the code I want to use and then ask the AI to optimize it and explain to me the changes. Pretty sure this is a small example of the use computer engineers have for AI when developing their codes. I believe AI will not replace human coders for now, but can help improve our skills.",
+      "likes": 9,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrDexterJKM",
+      "author_id": "UCDmZE6v65wI2AlamhSTqLVQ",
+      "text": "Its been soft confirmed that the view drops are due to adblocker views on computer not being counted by Youtube. Thats why views have dropped but not ad revenue.",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FreqtradeFR",
+      "author_id": "UCtoC-mGBHH7FypB5oAQqX7A",
+      "text": "Amazing",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thebelo_bear6036",
+      "author_id": "UC9wR9aGLdvG8S7zLpvYzI5A",
+      "text": "It's been over a month with codex",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nescaufe1991",
+      "author_id": "UCQX9PvCkPznCcxtw7s08uXQ",
+      "text": "14:50 ‘23?",
+      "likes": 4,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@projectguild6694",
+      "author_id": "UCExqcynDWXwRWGJjuEoA3mg",
+      "text": "Solid",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TATA-lw9yc",
+      "author_id": "UCmwJuv267j2PcAeaBeP_pNQ",
+      "text": "October 3rd 2023 ?",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BTFranklin",
+      "author_id": "UCkmY5FqXDOsj7mh4fgzjTag",
+      "text": "But why did it say the date was October 3, 2023?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaychas",
+      "author_id": "UCddn4f_JzV7xV2W702MnRzQ",
+      "text": "can they just create the Limitless pill and i can do it myself? I'd much rather have that.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gamedev6069",
+      "author_id": "UCI7SXHTbCHzMt1IMrE4kIPw",
+      "text": "Hello, Do you know if OpenAI has Mathematical AI model ? Thank you",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BamaPatriot61",
+      "author_id": "UCVFI1A0YLY2W-zajIui7Pog",
+      "text": "Awesome info! Curious if it can run in a terminal in VScode and do it alongside my WSL Claude Code terminal so if i get errors that CC is struggling with can i open the codex terminal and let it try to fix it or would i need to open a completely separate CLI outside of CC to do this? I’ve got a huge project going with CC and it’s driving me insane with the lies and the errors.  Tells me the backend has been built out and all these items are completed and i run simple tests and find out that is not true.  Then i get the usual “I’m sorry, you’re absolutely right.  Now i understand” BS.   I swear CC has gotten downright unusable and stupid the last 3-4 weeks.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlexanderBukh",
+      "author_id": "UCqompUkuO1h1WC_S_ueiDaA",
+      "text": "I am a real boy.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EarthAaron",
+      "author_id": "UCm0a8Eb4BTgdb_WmOTuv8Zw",
+      "text": "great, just what we need - an entire internet full of horrible code made by ppl who have no idea what they're doing -- oh, that's what we already had..",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rokasb9441",
+      "author_id": "UCGSMZyUMl2Y3z-EpNrVV9CA",
+      "text": "Small tip: dont let ai do git push/git merge, they can make hard to spot mistakes while prtending to be 100% confident and not tellimg you anything about it (as they were trained to guess the closest answer if they don't knwo to get highest score on ai tests/ratings, where bad guesses are not punished), or present the same code as a fix over and over again\nEdit: also YT views drop was found - it wad due to someone adding yt link to one of the libraries ad-blockers use to protect users privacy",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicheva417",
+      "author_id": "UCAxg2v125zNO65hHFgC25zg",
+      "text": "Where just not at the AI can Dev an app and launch it yet unfortunately .",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ismaelplaca244",
+      "author_id": "UCekLWmcWVPF_Y0riDNwtxxA",
+      "text": "More OpenAI hype great",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrGustoIT",
+      "author_id": "UCZoW2BielqVjVqbpuEKTYtg",
+      "text": "So this is only accessible for GPT Pro users? The 200 dollar plan?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@epi_sto_letes",
+      "author_id": "UCwXTDCBS46rbYL2PLTEPq8Q",
+      "text": "October, 2023?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SS-gu2tx",
+      "author_id": "UCbLyL6pa6Dgg_A5yAe8JDrQ",
+      "text": "Wait, does AI generated code work? Maybe it's been but I absolutely have never had anything decent.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@authorindisguise5173",
+      "author_id": "UC57W0xMVt9I55Qq26Xr5DVw",
+      "text": "Really? Last time it tried Codex, it said it did one thing and did something else, neither of which related to my request or showed understanding of my project. That was like a triple failure. I'll give it another try.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KabbalahredemptionBlogspot",
+      "author_id": "UCAAR7qL4GrpNbdV6s6tPZ0w",
+      "text": "What?!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willianbianchi9018",
+      "author_id": "UCSpLvuJKTkORBk1t6ZhAyLA",
+      "text": "Claude 4.1 Opus > All",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zerocontentTV",
+      "author_id": "UCskY99a2lI34i50OJYMS4tA",
+      "text": "I am sad because I was using codex a couple of months ago and I really loved it. And some how it was buggy because I never came to my limit! Until two days ago it now says I reach my limit :( it was a Beautiful time to have no limit at all",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tyler-yz5cv",
+      "author_id": "UC-NXvcTIVk9OH4WQKK1BYXA",
+      "text": "If you wanna know how to get like a seven hour run that is actually useful and you actually do an entire project from end to end or refactor or create from scratch or whatever the case may be, let me know.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bonecircuit",
+      "author_id": "UC_T9X8pFdRx-oW6qRfgXQnQ",
+      "text": "Step1 : Improve your word salad , meta prompt the idea before you have it executed.  How do you do that ?\nAsk the tool to help your articulate the problem.\n\nStep 2 : Add coding axioms to the personality so it thinks like a developer : Functional  , Understandable , Maintainable , Expandable.   The secret concept is to have the llm list the idea instructions to recreate the code in the header as comments. It improves output and components going missing in the next output response.\n\nAdv Step : Ask for ontology sets. You ask for the ontology of the domain first and then a subset primary set of that domain.  You derive connections or ask the tool to do this part as well.",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IndefiniteMark",
+      "author_id": "UCUKL3tnzl9r1j9LqXhfT1fQ",
+      "text": "Its very exciting and I am impressed with GPT-5's integration prior to this with Codex. \nI just had a task last night run for 39 mins.\n\nOne issue I found is when generating tasks on Cloud if you try Ask first, it suggests stratified tasks which then are worked on independently and merged later in multiple PR's which can lead to merge conflicts. I prefer not triggering those suggested tasks and instead launching it to work on one nuclear PR.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chasm",
+      "author_id": "UC1-qAQNI49E5XWCZLKpchbg",
+      "text": "GPT 5 is loved by clowns all over world",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WAKANDARoE",
+      "author_id": "UCjbK78uaSzTQ8dXsRGreMuA",
+      "text": "stop giving out my sauce 4 is childsplay",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@icegiant1000",
+      "author_id": "UCQEOVpfKNt4q6loKjgnM-vg",
+      "text": "The 80s are calling, they want their command line back.  Would it kill these guys to make a UI for all of this?  I don't know about you, but the software I write actually has a UI.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@syberkitten1",
+      "author_id": "UCsktX6ODAWnVQMmNUzfWvdQ",
+      "text": "You still need a developer, you just need less developers, that's it, and it's a lot.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Serahpin",
+      "author_id": "UCgyGn6iRMYoGr0NysjnoN8w",
+      "text": "Can I use this to make my own Unity/Unreal Engine?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PotaytoDestroyer",
+      "author_id": "UCx5c6x3VyA5EBvC8w3mMIhw",
+      "text": "Those forward slashes on windows just hurts to look at...",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevehoff",
+      "author_id": "UC25EH8cxWrrGtalGfU9BNYg",
+      "text": "That's really odd I've tested extensively and it just really sucks in my opinion for everything I've tried to use it for there are so many better models out there for coding then codex GPT-5.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@complianceaves1120",
+      "author_id": "UCn-kqOTqfaVXx7Z2O7L68_g",
+      "text": "Yes Ros no dirty robot here Mostly like the content but I do have AI fatigue Just waiting for the self improving model. Good bad or ugly. Claude is very silly seems like it's IQ decreased",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@haihao6406",
+      "author_id": "UCxdXxmAaSDxLv529G9o4k5g",
+      "text": "I tested, ots still useless",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@odrammurks1497",
+      "author_id": "UCGxAlUcgAp1ZHfhkW9o5JtA",
+      "text": "❤",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DonChocolatey",
+      "author_id": "UCkZZQ2kfxrqQuWColJiCnMg",
+      "text": "😮😮😮",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KOSMIKFEADRECORDS",
+      "author_id": "UCof9qZbsjzCPEl2ZgcWkdSA",
+      "text": "Im a troll. An honest one.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samdeployvr975",
+      "author_id": "UC0HEs9WQiNf-w6unVCPHpYg",
+      "text": "I was getting very upset with Claude lately, it lied to me many times very frustrating",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apa_creators",
+      "author_id": "UCzyI_b8TghaeodjmQjIf71A",
+      "text": "love this chanal",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dohpamine_Design",
+      "author_id": "UC0k3-wgrv6Eq3jMGzyYtKAw",
+      "text": "why is it okay to use ai to code but if i show someone an artwork they will love it even after checking for flaws.. but as soon as they hear AI ART GEN was used they automatically hate it ... i am not saying we should use art generated by generators just as we cant use code from genai as is we should give people a chance to make art with this new tool.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brjohow",
+      "author_id": "UCYUWEa3vF03VTe5BQvTnxTQ",
+      "text": "ok, a bunch of useless websites and webcam pitch/wet change. no cure for cancer, no reverse aging, no fusion reactors. i used to make MODs/STMS/electronic music in the DOS/amiga days, and this ai crap cant even match that. i can bend pitch! 1978! here in my car, i feel safest of all! in cars!",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@crazytrain86",
+      "author_id": "UCEFdm-EXPoP2ZVQmZ_1evyg",
+      "text": "Legit looks like they just copied claude code",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@METHOD-DNB",
+      "author_id": "UCfHAkyX_qkg9-M4bexJhbWw",
+      "text": "Are you lip syncing? Looks off for some reason",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HermanHarp-e8f",
+      "author_id": "UCxP_YRWSeO8QShk_sekuGFw",
+      "text": "all blk no bot",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EarthAaron",
+      "author_id": "UCm0a8Eb4BTgdb_WmOTuv8Zw",
+      "text": "I've repeatedly tried to use gpt5 and been astounded at how bad it is at every task I give it -- every time gpt4 destroys it, whether you're talking code, content and especially character (5 has none whatsoever). I am a dev of 30 years and I've worked with AI for about 10 -- just to qualify my opinion, gpt 5 sucks -- and every vibe coder seems to also write the same awful code. If some dev tells you otherwise it's probably because they're code sucks.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vladimirmoushkov6137",
+      "author_id": "UCwyoyxQOOtcS0f1azHw7Bkw",
+      "text": "It actually sucks . Note sure if any of the positive comments here are not paid",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AIwMotoryzacji",
+      "author_id": "UCKgbDCdViRX5sTcWp4F_G6A",
+      "text": "He's lousy can't write a plugin for vscode where sonnet does very well",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@정정정-o9t",
+      "author_id": "UCoebMtGacauzYQP2vTJ0_QQ",
+      "text": "클로드코드보다 무서움.. 클로드 코드는 무슨짓을 하는지 알수 있는데 codex는 플랜모드가 없다보니 물론 approval이 있는데 그냥 별로\ncodex 가 더 업그레이드 되면 클로드 코드 200  구독 취소해야지",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GalaxyBigBird",
+      "author_id": "UClQWqaSypZEiS-G6mA2Rcjw",
+      "text": "Everyone is talking about vibe coding apps this to make x dollars, vibe code software that to make x dollars, vibe code this website, etc but what about TRADING BOTS!?  No one is talking about using AI to develop Algorithmic Quant Trading Strategies and Applications to Print Money AKA Trading Bots!?!?  IS IT JUST ME!? YALL NOT SEE THE OPPORTUNITY THERE?? WHATS GOING ON??",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SirajFlorida",
+      "author_id": "UCKqAZpNf3efHHgpBL9dyh_Q",
+      "text": "OAI Income model:\n\nThink ,,,,\nYou < $$$\nThink ,,,,\nYou < $$$\nThink ,,,,\nYou < $$$\n\nSolution! \nYou < $$$\n\nCheck solution... Wrong!\nYou < $$$\n\nTry again...\nThink ,,,,\nYou < $$$\n\nad infinitum....\n\nIf you go to a restaurant and order a steak and the cook thinks it's right but when you get it your well done steak is bleeding you don't expect to pay for it... why do you expect to pay for tokens that don't work? Especially when they have the ability to make frivolous tokens. \nNooooo.... that won't be abused.\nThat can't go wrong.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deadMoney2k12",
+      "author_id": "UCVWW689pM_SJ_f0ADJy2goQ",
+      "text": "A dirty botter. lol",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@QuantumVile",
+      "author_id": "UCrHaBOPYyiF__FISBs8b1aw",
+      "text": "I hate your thumbnail.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raunopere",
+      "author_id": "UCu3riIVmaeQKJv1amKzolBA",
+      "text": "Click like here if you're a dirty bot",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shay5025",
+      "author_id": "UCdv4ulb5oSm9qsuoVArzjgw",
+      "text": "Human",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@renegadephalanx",
+      "author_id": "UCmg-wtRS__KlvpitGblkFjQ",
+      "text": "Second",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nfrankiksa4596",
+      "author_id": "UCGIKzYP5pUl4eQMGqvyQ_2g",
+      "text": "First",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DonnieVanMetre",
+      "author_id": "UCIRV4JAWq_MtT-WW9hnOMYA",
+      "text": "Claude is not trustworthy. Period. It will inject intentionally de coherent code or prints. Do more than just double check, call it out. This is unacceptable.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sugarbait",
+      "author_id": "UCKSKzhJtNLp36LI117VbsEw",
+      "text": "Why do some of you youtubers think its cool to diss windows all the time. It gets tiring.",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@default7627",
+      "author_id": "UCeJce0HHRV-JFU2xy_tjAkw",
+      "text": "AI bloggers are just paid clowns.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daveinpublic",
+      "author_id": "UCp3G3aTkRBTBhguMZAPE5LQ",
+      "text": "Pleading for likes is okay once per video… multiple times starts to be a little much",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brandonlane",
+      "author_id": "UC-XtfDAOq3ATTNFa3KOxiRg",
+      "text": "Thanks! 🪇🪷",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ConversationalBibleCompanion",
+      "author_id": "UCYVm0jwHHB4L_rh83AGzibQ",
+      "text": "Yet another video claiming BS. https://m.youtube.com/watch?v=sL7n1T-boj8&t=250s",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eygs493",
+      "author_id": "UC8_qYVk0cavFBcp3WEcbeKQ",
+      "text": "tf is wrong with you",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

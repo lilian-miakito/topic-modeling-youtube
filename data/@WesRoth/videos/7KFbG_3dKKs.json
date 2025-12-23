@@ -1,0 +1,513 @@
+{
+  "video_id": "7KFbG_3dKKs",
+  "title": "Install Open Interpreter in 2 min | The free, open source CODE INTERPRETER!",
+  "url": "https://www.youtube.com/watch?v=7KFbG_3dKKs",
+  "comment_count": 56,
+  "comments": [
+    {
+      "author": "@WesRoth",
+      "author_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "text": "TROUBLE INSTALLING? \nHere's an installation and troubleshooting guide:\n\nhttps://natural20.beehiiv.com/p/open-interpreter-tutorial-installation-use-cases",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kevinhaze796",
+      "author_id": "UCV88MAnGhegUJnwU6GogSUg",
+      "text": "i spent a day...then i found this video.....thank god for you sir",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zakaria20062",
+      "author_id": "UC4dadNmgf8dAC61r-HvS3ag",
+      "text": "I think we need some video non-openAI",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jdsguam",
+      "author_id": "UC6l3j5nAAqZHkFPVhlDrJNQ",
+      "text": "I asked it to create a Desktop Short-Cut on my desktop that opens the terminal and executes the initial command automatically.  I even had it create a voice UI for me and it did; but, it's still a work in progress.  It scanned my images and deleted duplicates.  It created circle icons from Stable Diffusion Photos that I can use that are superior to windows default icons. Cost me under $5 in all and 3-4 hours of useful entertainment!",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BergomyLegendre",
+      "author_id": "UCdWAmbTY5au7ujC_7nQgyHw",
+      "text": "Love all your videos Wes, definitely one of my favorite AI creators.\n\nWill fasho check this out!",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Qummtomfushion",
+      "author_id": "UCOegeGrDI5q-viA7SpxnOtw",
+      "text": "More of my copyrights",
+      "likes": 1,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gingerhipster",
+      "author_id": "UCG3Sqsvt7CbE6Q_io3J6MAg",
+      "text": "Many people still have no idea the state and ease of access for all of this stuff, including in tech. Your videos do a great job of quickly walking through really complex tasks and subjects. Thanks",
+      "likes": 10,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fuzzyorangetv",
+      "author_id": "UCX-WLyXbs1zD7_bvYWo0P8g",
+      "text": "thankyou i was having trouble with code llama",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zacharyluttrell2286",
+      "author_id": "UCKAk59Fb5Q1blw-VwBXS84w",
+      "text": "Honestly this feels pretty revolutionary to me.  Likely not without its risks or downsides, but after having used it for the past few hours it seems incredibly powerful.  Definitely helps streamline the development process with LLMs for me so far.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@muhammadazeemsadiq",
+      "author_id": "UCXPWWQYgVal88qelP_7CSFw",
+      "text": "Excellent work",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aliabassi1",
+      "author_id": "UCXKGGObf2lpDdQoBDLWresw",
+      "text": "Thanks Wes 🔥",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ColinTimmins",
+      "author_id": "UCxuw6W7Y9a6kVFDUqQ1KVfg",
+      "text": "Thanks for your videos, they are awesome! I’m glad I found this channel in all the noise created by people milking the AI trend. Much appreciated! I gave up on coding 25 years ago because of my dyslexia and now I am learning and coding things that work. I have an idea in my head and it’s slowly oozing out into code, what a time to be alive! =]",
+      "likes": 12,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tubesarkilar",
+      "author_id": "UChZfhQ2MozPpviREYieROLw",
+      "text": "nice",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@milosjovanovic803",
+      "author_id": "UC6mUtzCUlTtRTguZ7xnyZ0A",
+      "text": "I just tried to install open Interpreter and instead of just install it, my computer was start uninstalling everything including openAI. Why?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianmi40",
+      "author_id": "UC8aVXiTL_bvhrENmKvKE9ng",
+      "text": "Hoping you or someone can help:  \n\nI have Python 3.12 freshly installed via Windows (11) store and it has set an environment path to execute anywhere. I can readily run and exit Python with Ctl-Z..  When I do \"pip install open-interpreter\" the first line states \"Defaulting to user installation because normal site-packages is not writeable\" but runs to completion.  After install completes with only the error: \" Building wheel for tiktoken (pyproject.toml) did not run successfully.\"  which seems to be common and non-critical, however, I can neither run \"interpreter\" afterwards  ('interpreter' is not recognized as an internal or external command, operable program or batch file.) nor can even find it anywhere on my system as it appears it would be installed in C:\\Program Files\\Windows Apps which I cannot get access to as Admin.\n\nYour install guide mentions nothing that would seem to help.\n\nUnfortunately I'm neither a programmer (Some Fortran DECADES ago so not utterly clueless about it, but no modern languages) or experienced with Python environment, but am very Cmd prompt friendly and Windows knowledgeable in general.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DCinzi",
+      "author_id": "UCUS21ad_mNjfdjllknJqCcg",
+      "text": "I have spent the last month and a half of my life, with no starting knowledge in coding whatsoever, to try to build exactly this. 3 windows and one ubuntu reinstall laters we are here.. awesome.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sneakygs",
+      "author_id": "UCtgUUvPo1vyY_jf3m33k1Kg",
+      "text": "Hope to see these AI coders (especially open access) in action soon! You mentioned previously you might drop a few applied tutorials. Eg, making an audio to text summary for podcasts.  Love your channel, approach, way of thinking.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bzben9850",
+      "author_id": "UC4NKaocNAnFbVfEF2zF9V7A",
+      "text": "Great Video!",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apache937",
+      "author_id": "UCK0bjI5VaSeSlSdRNWb72HQ",
+      "text": "This has plenty of potential. It's a shame that GPT-4 is so expensive, and NVIDIA is not producing high VRAM cards for consumer use.",
+      "likes": 13,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@killianlucas",
+      "author_id": "UCW1DeFP2cpxOIvcC_NE69nw",
+      "text": "thanks wes, great video!!",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": "❤",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichelCDiz",
+      "author_id": "UCdpH5_fMupSqSsLEveWJudg",
+      "text": "Does this local feature able to read local stuff? PDFs, Markdown, TXT?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skibidininja98-xyz",
+      "author_id": "UCrxfqVQpCv6YDt9mH87-yYQ",
+      "text": "tried to install code llama but i got the same problem the guy you showed had. (i have vs code, gcc, python, installed so idk why it doesnt work)",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrGnolem",
+      "author_id": "UCOrilQRw6fEvmy70lkOeoUg",
+      "text": "How does it handle big repositories? Thats where the crown jewels are atm. Starting small: build a snake game, fetch me a joke, etc. I believe. But now for professional usecases making our life easier 😅",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tsadigov1",
+      "author_id": "UClAFdfI_q_yOfhKoxfHErAw",
+      "text": "You really saved my time thanks",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@learning_AI",
+      "author_id": "UCyCHa_C_gPaUxKSRuzdEBAg",
+      "text": "Great video 👍",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AkaThePistachio",
+      "author_id": "UC_wJd-EoXAAR8WB7lc-QG5A",
+      "text": "I use WSL and would like to use it as part of my Linux subsystem within windows but when I run any command after using \"interpreter\"  it throws back some error. ANy idea how I could fix?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@swannschilling474",
+      "author_id": "UCjBSYr3QHj2StoXBEYjkR6w",
+      "text": "Thank you so much!! Great find!!",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@project-asgard",
+      "author_id": "UC08bYpSJ2iYBmuHPZFqLGpQ",
+      "text": "very nice, but might get very costly if you use GPT-4. I bet if I use open-interpreter as much as I use the official one, it will cost me a fortune in API calls :D",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cryptogrinch2978",
+      "author_id": "UCXkiXe__bbDVd2uHL_Jmrkg",
+      "text": "after i set the open at api keys . i some how deleted the keys in my openai dashboard. how do i add new keys  and reset new keys?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DignitNetwork",
+      "author_id": "UCn6_oYxOBXhYvwuKPheXv-Q",
+      "text": "can u tell me how to build the gameboy on the controller",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joe_limon",
+      "author_id": "UCxfDjddrWTmNhbQ7CfpBzCg",
+      "text": "Can you revisit open interpreter if/when it can be run with a local llm such as code interpreter 34b",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@周易-k8w",
+      "author_id": "UCrw10cnD6uPrDbyeGZGTuyw",
+      "text": "Why am I not prompted to enter the openai api key when I log in? I don’t know where to enter the api key, and if I ask a question directly, the result is a timeout.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@personone6881",
+      "author_id": "UCfBT4jU4q0EnCRRSQ8pqc0A",
+      "text": "Hey man! This is an awesome vid - Good Job!! - I was hoping to ask you a semi-related question if you don’t mind…?\n\nSince Code-llama is so large, and considering I’d want to probably install the 128B params HQ model to run locally, is it possible to install either a) Code-llama, b) Open Interpreter, or c) Both,  onto an external drive? OR - Is that just stupid thinking cos it wont work through the cmd console anyway? - If for instance I can install Both (following option “C”) on an external drive and parent folder, hypothetically let’s say, “K:\\InterpreterProject” I’d still just follow your instructions in this video just replacing your ‘C:\\Users’ path with my ‘K:\\InterpreterProject’ location, correct?  I imagine it would be slower, but that is okay, something I have to accept given my lack of storage space remaining on my machines ‘C:\\’\n\nWould this work?  How/where can I learn about what other possible problems I might encounter if I attempt to install it as described?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lrkx_",
+      "author_id": "UCOEA9nSoHxUIZyMFrANIwAQ",
+      "text": "This just made my day!  No idea how you found this, but thanks for the heads up; it’s saved me ages in aider coding time trying to replicate CI!",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jersainpasaran1931",
+      "author_id": "UCOd6qsAPhngkIpm0AiqnDbg",
+      "text": "can we use open interpreter, currently with chatgpt 3.5 turbo, how and where would the user be prompted?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexandrupop7461",
+      "author_id": "UCy8LFGhJHgweakpaA5_iGSA",
+      "text": "hey guys! do you have any idea why is not working for me after having everything installed?\n\r\n'interpreter' is not recognized as an internal or external command,\r\noperable program or batch file.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mohammadfawaier6080",
+      "author_id": "UCnKsLx3FlxvmA9ne1HT94pg",
+      "text": "I followed all the steps, but I got this error message:\n'interpreter' is not recognized as an internal or external command, operable program or batch file.\nAny possible solutions??",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@luckyluc9972",
+      "author_id": "UCS-3xC_JrZeZg3mis56XbTw",
+      "text": "Would this thing be able to access and use programming to interface with your computer files? I think it would be really cool to train a personal AI that organizes stuff on your PC",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RZRRR1337",
+      "author_id": "UCKae-yxcM7-f8JKt29VwsLw",
+      "text": "Is it free to use GPT-4 via the OpenAI API key? What does it cost?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lomek4559",
+      "author_id": "UCE2ZDjcZlZ5mwIlUp6MG8_w",
+      "text": "onnxruntime package requires numpy>=1.24.2 while tensorflow-intel 2.12.0 package requires numpy<1.24,>=1.22, I'm unable to install it even on anaconda. What to do?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rubeng4833",
+      "author_id": "UCLenPsdlsziqGcd_321Lfrg",
+      "text": "guys BE CAREFUL with openAI, these boys dont care about your usage limits. you can blast way past you limits because there's a so called bs 5 minute delay. and guess what? support is AI hahaha",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@williamstamp5288",
+      "author_id": "UCwX-4uscup0-84FLiUp9uRA",
+      "text": "Yooo",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vicarioustube",
+      "author_id": "UCohyMGh3ISpJeY-2LVNZkMA",
+      "text": "Can I ask a stupid layman question. What can this do for a 3D designer like myself who isn't into coding. I clicked because I thought it was going to INTERPRET something of my choice. Can it do anything locally with graphics.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wvagner284",
+      "author_id": "UCiRsvwwNeHdEiN3ek007tSw",
+      "text": "Nice video! Tks! Is it possible to run it with a web ui to be able to upload files?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlienAnthony",
+      "author_id": "UC5r7q6IUY1Ua4U2f5cwnLuw",
+      "text": "Ita a cool idea but code lama isnt the best at it. I hope it gets better. Gotta remember if you do use code llama the token limit is very small. Ittle crash after about 4 commands.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jorgeromero4680",
+      "author_id": "UC2OwgdKP1Xmj9H_T9Gu1mvw",
+      "text": "i tried the open interpreter local (34B) and found something very weird. On GPU (Nvidia 4080) runs extremely slow consuming all resources GPU memory, cores at 100% + consumed shared memory 32GB + CPU! When i run it on CPU runs faster than the GPU with less resources. Very weird.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jason77nhri",
+      "author_id": "UCzxLcY_WuwcsCREA_IbNoKA",
+      "text": "Sorry, I'd like to inquire about installing Open Interpreter. I haven't entered an API Key and I'm directly using Code Llama with 7B data, medium mode, and CPU (not GPU), and I have downloaded the models.\r\n\r\nHowever, I'm encountering an error during installation with Code-LLama.\nThe error message is: 'Command '['C:\\Users\\XXXX\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', '-m', 'pip', 'install', 'llama-cpp-python']' returned non-zero exit status 1. \nFailed to install Code-Llama. We have likely not built the proper Code-Llama support for your system.'\r\n\r\nBut when I run 'pip install llama-cpp-python', it shows below error\n\r\n note: This error originates from a subprocess, and is likely not a problem with pip.\n ERROR: Failed building wheel for llama-cpp-python\r\nFailed to build llama-cpp-python\r\nERROR: Could not build wheels for llama-cpp-python, which is required to install pyproject.toml-based projects\n\nThank you",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DJ369-Miami",
+      "author_id": "UC-28CdWpskvLFJECMYHVfvw",
+      "text": "So the truth is its not that easy to get to install or run under windows and LLama. With the API its not a problem but you can easily spend 10 bucks a day on that. The LLama version was pretty tricky, first the LLama-cpp-python did not install for the longest time (updating PIP, GIT) then would not compile, hat to install a specific version of VS). Nothin for amateuers. The free version now works but sooooo sloooooow something cant be right still.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@normanlove222",
+      "author_id": "UCbAn-9Gd4_B2ZSaOCJYDO2Q",
+      "text": "I could not get code llama to work on Windows 10 following your example. says llama not installed properly etc. Maybe you should share your setup, GPU, RAM etc",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EnjoyCocaColaLight",
+      "author_id": "UC7EqfJ5fas9zD2DglJcntBQ",
+      "text": "Why do you always use cmd prompt to install things?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mbrochh82",
+      "author_id": "UCnM3DzcAAI8ks7Zs0kqTLFg",
+      "text": "so, does this actually work with a local model? the teaser video is so over the top, there is no way that it actually works as shown in the video.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrlsessions6807",
+      "author_id": "UCtkbfo7UR5DquYlH7rons5g",
+      "text": "'interpreter' is not recognized as an internal or external command,\r\noperable program or batch file. how do i fix this",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EricPena86",
+      "author_id": "UCLxmAL4zwdqn5h8JbpcV3sA",
+      "text": "How do you upload files like pdf or csv in Terminal for gpt-4 to analyze?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yagoa",
+      "author_id": "UCJJxUZVGyx26-gGXVdL2UjQ",
+      "text": "not free with cgpt",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dawid_dahl",
+      "author_id": "UCqddRn8yswp0eMFrXkSttXg",
+      "text": "Woah. This thing literally has a greater-than-zero chance of destroying your entire computer and contact any malicious external website or system every time you make a prompt. \n\nThat said, amazing tech! But I think I’ll stick to OpenAI’s sandboxed terminal for now. 😄",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

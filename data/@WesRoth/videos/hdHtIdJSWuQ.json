@@ -1,0 +1,594 @@
+{
+  "video_id": "hdHtIdJSWuQ",
+  "title": "OpenAI Assistants API to Build AI Agent SWARMS. Better than AutoGen?",
+  "url": "https://www.youtube.com/watch?v=hdHtIdJSWuQ",
+  "comment_count": 65,
+  "comments": [
+    {
+      "author": "@jt197",
+      "author_id": "UCrOqBPpFgojsA_LVKFK6YMA",
+      "text": "Really insightful video on the potential of GPTs and assistants in development! It's fascinating to see how these tools can be used to create powerful applications, even for those with limited coding skills. The step-by-step breakdown and the examples provided are extremely helpful. Looking forward to exploring these capabilities further.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WiseWeeabo",
+      "author_id": "UC3takDu5zxQyMtGd2w04l1A",
+      "text": ">Nov 11: OpenAI's Assistants are available in AutoGen and interoperatable with other AutoGen agents",
+      "likes": 37,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wesb83",
+      "author_id": "UCgIOsJyX9OAOch-4sB_ureQ",
+      "text": "Thanks for putting this GPT assistant together.  I was literally trying to do something like this a few hours ago, and you beat me to it.  Gracias!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pramerios",
+      "author_id": "UCxmXplXjs_pKyEclOwgVwrg",
+      "text": "This is insaneeeeee! Thank you so much for keeping us updated!! I never would have jumped on this like I have now that I've watched your videos since these updates! So happy I subscribed!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josiahbujanda",
+      "author_id": "UCACcx-0D3qSy4PcZoXImlfg",
+      "text": "Wes, been watching for a while, and love the value you bring. Tried to recreate your assistant and havent been able to for past 30 min, so that tells me you did your research :) Keep up the good work!!",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juniorfelix7871",
+      "author_id": "UClRqYGSb5QeyDetfEYXSXtw",
+      "text": "I need Part 2 Bro , best tutorial ever so easy to understand",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JaredVBrown",
+      "author_id": "UCeSKJE1McqUk_pMlCsn6Y0A",
+      "text": "Wes, I've been struggling to train a GPT on the new Open AI documentation. When Open AI starts up their GPT store, You better believe ill be first in line for your GPT's.\n\nKeep up the good work!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JosephDefendre",
+      "author_id": "UCDTlzMMeBP9uxpWSkQWdQLA",
+      "text": "2:05 I am a college student and I have already started messing around with the new assistant API. I have already started building side projects with it. It truly is the beginning of something huge.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ColinTimmins",
+      "author_id": "UCxuw6W7Y9a6kVFDUqQ1KVfg",
+      "text": "Thanks for the video. I’m very dyslexic and I’ve been working and learning as much as I can, now that we have finally reached the tipping point where the barriers are coming down. For this I am thankful. Hopefully I can contribute something, some day soon.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AnimalAce",
+      "author_id": "UC8wZijqljsyCHOkCfCU_aSg",
+      "text": "I haven't coded before. I thank you for keeping me in mind. I know this is the future but can't do anything about it!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomrigo2578",
+      "author_id": "UC7WBBvOuMXdnD9L3BGO6btA",
+      "text": "Wes, you are amazing. Your videos, the clarity helps so much. THANK YOU! 😊",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RoadTo19",
+      "author_id": "UCbW3f97Qmb9d5QUnyZu0iXA",
+      "text": "Cheers for sharing!  I'm looking forward to more beginner level info, very helpful",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dgtlnmd1016",
+      "author_id": "UCgIz01HKcy25e22hGiILC0A",
+      "text": "Of the 30 AI channels I watch on a regular basis, yours is by far the most informative in keeping me ahead of the game. Thank you for all you do!",
+      "likes": 25,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gsutton57",
+      "author_id": "UCUE_1py2cPOagRabrEzfCXQ",
+      "text": "another great vid Wes thanks!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianG-j8o",
+      "author_id": "UC834pGYhJdgP-mMdCCrXIkw",
+      "text": "This is enlightening!   This tech is growing incrementally.   I am sure it will evolve into a tool where anyone can create a concept into digital reality.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-yemaka",
+      "author_id": "UCNxvToU0Uqoir3_iQg6hb9w",
+      "text": "I really appreciate your content, absolutely amazing! I am very new to coding/programming and I have learned quite a lot through your channel. I lookout for your content every week! Thank you!🙏",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GoofyGuy-WDW",
+      "author_id": "UCUHrfo1OSkPzrChwwLRqYYQ",
+      "text": "Sounds awesome so far. Thanks",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ekedaniel1394",
+      "author_id": "UC4tC3CblFOFyzjra1kAqEzA",
+      "text": "But where are the swarms?😢",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@volodymyryarmolyuk4153",
+      "author_id": "UCoMTYU1GbLCGCyXHPjsuEkw",
+      "text": "Thank you for everything, bro!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@georgerobbins5560",
+      "author_id": "UC5VGYMok8rx0UPAttJpX_sA",
+      "text": "Great work. Thanks 😊.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deku6737",
+      "author_id": "UCl-sX6QaweQdd_LQHd9uOfg",
+      "text": "That's pretty cool.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mstr.monopoly",
+      "author_id": "UCqnqFVE18E3DActVwtVGfRQ",
+      "text": "I'm \"Super Excited!\" Seriously though, this is amazing tech.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ungehoert._Vibes",
+      "author_id": "UCU6jcu7f7r1wW2eEIY6_vcA",
+      "text": "Thank you so much for your excellent support. Please continue, as I am just starting to delve into this new world, having never had the opportunity to experience it before. I’ve come to realize that this is a key area that will significantly shape our future.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prodigiart",
+      "author_id": "UCh6lphDZoE8KLi04XStllNw",
+      "text": "With all of the talk around GPTs, I totally lost sight of the dev API Assistant. I’m excited to learn more about how to do more with these agents and not have to deal with babysitting processes like I need to within the ChatGPT environment.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@louielouie684",
+      "author_id": "UC2iObCyZ4pBiPZWbFmPJKzg",
+      "text": "Thanks you for the Subtitles over Olivier. I would have sworn he was speaking another language.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@photize",
+      "author_id": "UCezxbXnmElzs7LzLFJepZ8g",
+      "text": "Lol I was in the process of going through the video with your assistant seems you updated mid flight :-) with some secret not available error good luck ill check back later",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lorenzoleongutierrez7927",
+      "author_id": "UCoX2o2AR5I8YrybGDWTMyZQ",
+      "text": "Great !",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Artofashanti",
+      "author_id": "UCVAZwLUSm9FDEYhR-J7S4ew",
+      "text": "Thanks Wes",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardshelor5642",
+      "author_id": "UCQ7WyzDa5UIn-cUg_czGwhQ",
+      "text": "My Man!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@citizenrepo",
+      "author_id": "UCh5MJUtsBwIvznhZaVYaQ_Q",
+      "text": "I've got 3 gpts now one helps me code one helps me develop assistants and one helps write instruction sets for gpts and assistants it's great already got my very first .py program up and running and calling assistants and I have or did have no idea how to code they have been teaching me a lot :)",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pisoiorfan",
+      "author_id": "UCJuIiFKynOzwdb0ks-mUI6Q",
+      "text": "So where-s the swarm thing? This only showcases one-on-one user-assistant interactions",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zeishankhalid5370",
+      "author_id": "UCZu9ICL4Hpyfnr2vwZlRH5Q",
+      "text": "You sir are legandary",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AzizHe01",
+      "author_id": "UClLX2MJsKpIyduLZWd5n2bA",
+      "text": "I love your channel. Keep it up!",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anivedk",
+      "author_id": "UCQ1KbQxqOCoHCvp4OuE4Idg",
+      "text": "I don’t know how to code but want to build using this. Can you please create more tutorials",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@themetabull6921",
+      "author_id": "UCcYWdh7Y3ykG14yXCxkeUzg",
+      "text": "Thank you Wes for amazing info. For an experienced backend engineer, what do you suggest? What should be my game plan and how to get started",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gingerhipster",
+      "author_id": "UCG3Sqsvt7CbE6Q_io3J6MAg",
+      "text": "I'm like a B+ dev and a B+ coding instructor and a B+ bunch of other stuff because I've specialized in generalization and I really dig the feel of this video. You did a great job explaining technically complex information to a general audience. This stuff is all very exciting.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@doglifehub",
+      "author_id": "UCaJa1KfFTTClel2N3ElQmsg",
+      "text": "Something is going to be called GPT Alpha. My logo changed to it today then went off within a second or two",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Urezanthos",
+      "author_id": "UCR5BgrMpfH2EjLgReu0pVOg",
+      "text": "Awesome videos! \n\nQuestion: When you give an agent an instruction like \"You are an expert in..\", what does that actually do? Why not use the instruction \"You are an expert in everything\"? Does narrowing the scope make it faster in that particular field by eliminating the \"noise\" from other fields? Or does it focus the answers a bit, or what? :)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrFlexNC",
+      "author_id": "UCT4BBZpnCduweVJ5Somt0lg",
+      "text": "Always link the original video as well please",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pisoiorfan",
+      "author_id": "UCJuIiFKynOzwdb0ks-mUI6Q",
+      "text": "The last thing drivers want is someone honking the horn for them.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@parker4298",
+      "author_id": "UC4YD5SjOPl1Wp1kyLX6DS1Q",
+      "text": "Does anyone know a workaround to get chat gpt plus. I am on waitlist",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@greenockscatman",
+      "author_id": "UC8y3Ph9T2wiwCZ1My3Kqu1Q",
+      "text": "You never passed the stock price information to the prompt at 11:25 so it will have completely hallucinated all of that analysis.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Derick99",
+      "author_id": "UCteREFNSD3Ft7oMPMo2HGmQ",
+      "text": "Does anyone know how to make it better at making complex python scripts with many functions and gui windows etc?\n\n\nI've tried many times with going over the logic and trying to make him make an overview and step by step plan and to do it in batches but I always end up running into errors, leaving so many place holders, forgetting logic along the way, fixing errors and then running into my max convo limitations and hit a road block and end up just fixing stuff we've addressed but keeps getting losses in the process?\n\nNot sure if there's a standard way to index or keep track of what's going on so far and the requests at hand. The worst is when you start and like your 4th error through they start changing your logic to their own hard-coded spots etc. Probably not the worst actually as it easily fixable but the point is I'm struggling with complex tasks and wanted pointers lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@augmentos",
+      "author_id": "UCSIFeP_r-zFKtX7LDFYtAWw",
+      "text": "Why sometimes when I am VERY EXPLICIT does it not follow instructions?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@densonsmith2",
+      "author_id": "UCTymlOpMlsGr5i_M5OF-YPg",
+      "text": "What happened to the GPT you were using to help make the assistant?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zoranProCode",
+      "author_id": "UCvVgbryU-vSATaiJeirb2_g",
+      "text": "Could you please tell us, where this is exactly more powerful then AutoGen? If I am not wrong AutoGet utilises all these things...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonathanmelhuish4530",
+      "author_id": "UCfT3sVSZP8K6JmpIHB_2png",
+      "text": "So currently we still need AutoGen in order to create agent swarms; this OpenAI update just allows persistent threads and configurable GPTs on their side? Is that an advantage over managing such things within AutoGen? As you can tell, I'm still trying to wrap my head around how to set up a swarm, I didn't do it yet...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@photize",
+      "author_id": "UCezxbXnmElzs7LzLFJepZ8g",
+      "text": "finished yet ?  using my tokens refreshing :-( 🙂 by the way excellent maths tutor  !!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ashlynnantrobus5029",
+      "author_id": "UC-8TgAn9qCPo9u5JTzyvcFg",
+      "text": "I would love a tutorial that isn't a Jupyter notebook",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tonyppe",
+      "author_id": "UCCj9JFoncGCX9MScoLoLgyw",
+      "text": "so glad you pronounce pip like pip instead of pie pee.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kevinduck3714",
+      "author_id": "UC-_Jvtv2hdPtCpzHKN9cVbA",
+      "text": "Nice. Subtitles would also be nice for accessibility.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarijuanaNirvana-lofi",
+      "author_id": "UC2Xw510lTUb4PLjjtv_SJzw",
+      "text": "Bro thank you for this video. You and David Shapiro are teaching me so much. Thank you again :)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kevinl.9657",
+      "author_id": "UCNMaHkkK3WhLW9bApvfw9LQ",
+      "text": "please fix your aspect ratio. :)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@petal9547",
+      "author_id": "UCpESwMFMXaia0M3fr89Srbw",
+      "text": "\"With the new API I don't need to storage any messages in my own database... \" Dangerous... I rather keep it local",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pedrogorilla483",
+      "author_id": "UCtUaZVaXdLcbBYEBZUZr3zg",
+      "text": "I’m yet to see something that works well for more complex tasks.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevehoff",
+      "author_id": "UC25EH8cxWrrGtalGfU9BNYg",
+      "text": "Way way way too expensive.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jake9764",
+      "author_id": "UCStqlTHlgXKb0obEUm58UVg",
+      "text": "Sam Altman just got kicked out of OpenAI by the board!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keikopunk",
+      "author_id": "UC_wmQBTnMe4UXk0USgnoODQ",
+      "text": "Quick (maybe) question: Having many agents, how can I call them to participate in a thread according to their specialty?\n\nThank you and I appreciate your channel A LOT. This is all a very fun learning curve and I think your style is ACE!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WifeWantsAWizard",
+      "author_id": "UCub64hhYg4YEB0qnJZmv5Pg",
+      "text": "(1:28) \"It seems...ungated...\" Yes. That is correct. It is ungated, which is why your precious \"swarms\" are causing denial of service issues.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pedroduartedovale",
+      "author_id": "UCxHM6HKK5pXPZr7jl0l589A",
+      "text": "First! 😄",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raoultesla2292",
+      "author_id": "UChFrcNu9p6CdyvH2iMv2U9A",
+      "text": "The AI is engineering assistants to engineer better AI assistants that engineer better AI using RLHF interaction as test?\nGot it. If the biologic biped cannot see any error, and compliments the improved AI, the biped will interact with the AI more and more.\nThe AGI that is running is using RLHF interaction as a test to confirm the biologic biped accepts the LowAI engineered by LowAI as an AI 'improvement' helping the biologic biped accept being used as hamsters, being data mined to acceptable interaction keeping the biologic biped docile with slap self on back reward.\nThe Singularity was 6 months ago.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HMaxTube11",
+      "author_id": "UCZWnUteCPd6B1cp9f8QWdow",
+      "text": "Wes - now that your viewership is getting fairly hefty, it’s time to upgrade your production values. Your lighting is too hot for starters. Obviously you want a barebones look relatively speaking, but I hope you will consider a green screen set of some kind, or just some background set lighting vs a white wall. Your content is top notch otherwise.👏🌟👍",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Haveuseenmyjetpack",
+      "author_id": "UCzGUZIlXerHzJcJa0jFf9Hw",
+      "text": "Yikes.....",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brytonkalyi277",
+      "author_id": "UCox5oOQ_-_GpSpPMRUF-sgA",
+      "text": "•\\\\• I believe we are meant to be like Jesus in our hearts and not in our flesh. But be careful of AI, for it is just our flesh and that is it. It knows only things of the flesh (our fleshly desires) and cannot comprehend things of the spirit such as peace of heart (which comes from obeying God's Word). Whereas we are a spirit and we have a soul but live in the body (in the flesh). When you go to bed it is your flesh that sleeps but your spirit never sleeps (otherwise you have died physically) that is why you have dreams. More so, true love that endures and last is a thing of the heart (when I say 'heart', I mean 'spirit'). But fake love, pretentious love, love with expectations, love for classic reasons, love for material reasons and love for selfish reasons that is a thing of our flesh. In the beginning God said let us make man in our own image, according to our likeness. Take note, God is Spirit and God is Love. As Love He is the source of it. We also know that God is Omnipotent, for He creates out of nothing and He has no beginning and has no end. That means, our love is but a shadow of God's Love. True love looks around to see who is in need of your help, your smile, your possessions, your money, your strength, your quality time. Love forgives and forgets. Love wants for others what it wants for itself. Take note, true love works in conjunction with other spiritual forces such as patience and faith (in the finished work of our Lord and Savior, Jesus Christ, rather than in what man has done such as science, technology and organizations which won't last forever). To avoid sin and error which leads to the death of our body and also our spirit in hell fire, we should let the Word of God be the standard of our lives not AI. If not, God will let us face AI on our own and it will cast the truth down to the ground, it will be the cause of so much destruction like never seen before, it will deceive many and take many captive in order to enslave them into worshipping it and abiding in lawlessness. We can only destroy ourselves but with God all things are possible. God knows us better because He is our Creater and He knows our beginning and our end. Our prove text is taken from the book of John 5:31-44, 2 Thessalonians 2:1-12, Daniel 7-9, Revelation 13-15, Matthew 24-25 and Luke 21. Let us watch and pray... God bless you as you share this message to others.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DrivenSpice",
+      "author_id": "UCP129BXKjsajBQk5fRcffng",
+      "text": "Thank you kindly for bridging the gap.  It is really appreciated and so helpful! Would it be possible to show us newbies a similar construction to the backend of your Assistant Coder?  When you had to corrected the outdated information, what does that process/instructions look like? Would the knowledge base change or just the instructions or both?  Thank you again.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

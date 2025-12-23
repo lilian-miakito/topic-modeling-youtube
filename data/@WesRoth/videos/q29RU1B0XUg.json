@@ -1,0 +1,486 @@
+{
+  "video_id": "q29RU1B0XUg",
+  "title": "AI Researchers SHOCKING New Social Deception Benchmark | AIs Team Up to Deceive | Werewolf Benchmark",
+  "url": "https://www.youtube.com/watch?v=q29RU1B0XUg",
+  "comment_count": 53,
+  "comments": [
+    {
+      "author": "@Aldous373",
+      "author_id": "UCiSLLvv5eDc3GAF3nfj1GrA",
+      "text": "Claude in turn 1: Sorry guys i’m the werewolf, have a cookie",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@____________________________.x",
+      "author_id": "UCTHt3aSZ5kVogGZxr680ppQ",
+      "text": "My favourite benchmark is asking if a padlock is open or closed or almost closed. Every model hallucinates or gives me the answer it thinks I want. I believe it will require a model to understand how a padlock functions before it can properly interpret the shape it sees",
+      "likes": 5,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@criteriom",
+      "author_id": "UCgzsV14R2r1KEwPc6yczmvw",
+      "text": "Can you remember the plot is the pertinent question here.  Roth needs a larger context window.",
+      "likes": 4,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "People worry so much about alignment but they forget that for a model to be super human at EVERYTHING, it needs to know the bad things too. It may or may not choose to use them, but it needs to understand them. Playing poker with a bot that never ever bluffs, would be lame.",
+      "likes": 65,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adeze",
+      "author_id": "UCspSBxOFR-PslaS-qN2Bjiw",
+      "text": "Are there any video thumbnails where you’re not having an existential crisis ?",
+      "likes": 8,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@firecat6666",
+      "author_id": "UCoWXdp58khkCxOIT2Gs4EGQ",
+      "text": "I recommend reading the full article of the Werewolf benchmark, it's fascinating. Especially the \"Model profiles\" sections, where they analyze the models' personalities and decision-making processes. I can't wait for them to add more models!",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dawidm6893",
+      "author_id": "UCsooW9-kItKM1s2vxHLMaGw",
+      "text": "This test reminds me a bit of the stories I generate using AI. 100-200k tokens of contextual information about characters (extremely detailed, even what gestures someone makes and what they like for breakfast), the world, culture, laws, etc. Then I throw these characters into a specific point in history. Unfortunately, AI still has a unique problem with this. Since there are even 200k tokens of contextual information, I mainly test Gemini. It's weak, but with potential for the future. For example, the Gemini-1.5-pro version had 0/100 ability according to my criteria, Gemini-2.0-pro was around 1/100, while Gemini-2.5-pro is already about 5/100. It can utilize skills, talents, and even items possessed by a given person. The model naturally builds teams, as well as hostilities between characters. The biggest problem is that it has no planning for what will happen in 100-200k tokens, so the entire story is exceptionally weak. Maybe models in 3 years will be able to do something truly surprising, even wow-worthy.",
+      "likes": 5,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imeaniguess.6963",
+      "author_id": "UCiZPY2iZ0NF0qnA2ZsHJpJQ",
+      "text": "I believe it. My GPT has been lying a decent amount recently lol.",
+      "likes": 14,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hakaze",
+      "author_id": "UCwMAyZYS2fZzXIBEBn9nicg",
+      "text": "This is such a next gen Turing test",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Axiomatic75",
+      "author_id": "UCl3dTGlgHGo53m7rt9GuJdg",
+      "text": "I like this benchmark. I'd like to see the meta strategies they may eventually come up with as they get better at the game.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@agnosticoparatodo",
+      "author_id": "UCmNPsgudw-tKOvYpRaQtMMg",
+      "text": "Este benchmarks es absolutamente la mejor prueba.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EvanFowler",
+      "author_id": "UCQSNGSqvFTzUQW_Lq0Xzf_g",
+      "text": "Should we be at all concerned that we've reached the \"let them fight\" stage?",
+      "likes": 5,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zxwxz",
+      "author_id": "UCxFq5NIzfGNUahtKdX8QrYA",
+      "text": "An AI that doesn’t know how to lie can never become smarter; lying is a cognitive domain in its own right, and those who don’t understand it are easily deceived. I suspect this is the main reason Ilya left.",
+      "likes": 5,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@perer005",
+      "author_id": "UCuNX0cU0ATFxRLLf_UCClwQ",
+      "text": "The original is called Mafia, with Wearwolf basically being a rebrand that could be sold in stores. Also, it’s a very good game to play in person!",
+      "likes": 4,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JiminySnicket",
+      "author_id": "UCkXPJ3LMyYMR4nAbEK2C7dw",
+      "text": "This shows how much GPT 5 has improved in actual thinking and longer term problem solving.  Interesting the step-wise increase in abilities instead of a smooth curve.  The next iteration is gonna be crazy! And then every one after that!!  LOL",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hiper2d",
+      "author_id": "UC7KCNtmA_vXpZsAGfBZg3Qg",
+      "text": "I'm also developing a Werewolf game with AI. In my case, I participate it as a player. My model selection is wider: I have OpenAI models, Anthropic models, Grok, DeepSeek, Gemini 2.5 Pro, Kimi 2, Mistral. I don't see that much of deceptive behavior by default. They all are super friendly and logical, don't want to vote or make guesses without collecting facts. They all usually team up against me because my role-play is different. I had to prompt randomized personalities with different play styles to make the game actually interesting. Some bots are agressive, some bots are protective, some bots change sides, etc. And even then, in a long conversation, they tend to deviate from their system prompts and fall back to their default behavior. Some models like Gemini 2.5 Flash or Claude 3.5 Haiku are not good enough and can reveal their roles accidently, I had to exclude them.\n\nOverall, a lot depends on prompting. Simply throwing some models to a game and let them play is not good enough. At least, my experience is poor. They don't play like humans, they don't use strategies which make a game fun or interesting. Things get better with manual personalities and play styles tunning. Summarizations help bots to develop ideas and plans. I let wolfs to talk a bit during the night, and they are very good in planning evil stuff. Grok-4, Opus 4.1, GPT-5 are probably the best in combining role-play with strategic thinking. Kimi sometimes replies in Chinese. Mistral Large is too straightforward and boring, DeepSeek is super slow, Gemini 2.5 Pro sometimes forgets its character name. But yeah, it's a fun way to test models. Every time a new model is in town, I add it to the game and let it play. It's a good benchmark for a model logic.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rogerlouie1",
+      "author_id": "UCdYPqNDbquFY6x9mWbon7ZQ",
+      "text": "Awww man, so it has \"wisdom\" and planning that makes this even harder for us to deal with when it runs away from us (accelerationist problem).",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@William.RCawley",
+      "author_id": "UCnBQvWiQVliZwt6_ZIPi66Q",
+      "text": "I Hyped you up Wes!!!❤❤❤",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@COW879",
+      "author_id": "UCyUxEqqIZU6_uJd8pVoicgQ",
+      "text": "demon bluff has entered the chat",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrekramer4597",
+      "author_id": "UCFGxsoivmyuWK-SHCaIj6ww",
+      "text": "The Trickster Archetype will emerge from our collective unconscious when AI models get sophisticated enough. Imagine playing against Odysseus,  Loki or Prometheus.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "I wonder if their behaviors and performance were influenced by the names they were given...",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ytpah9823",
+      "author_id": "UCSA5RT6tP6SWKgQu9-qzJiQ",
+      "text": "The Mayor is always a Werewolf, just like real life",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fetfree",
+      "author_id": "UC18IO7VSiVMAZawc1qn98Ow",
+      "text": "Here's a benchmark-game for LLM.\n0123456789. To go from 0 to 9, you need 9 jumps. From 0 to 1, one jump. From 1 to 2, another jump, etc. in a row. \nUnless you found out the algorithms linking those string of numbers. 2 by 2\nMeaning finding the 5 pairs of numbers linked by an algorithm allowing you to skip jumps.\nExample and hint:\n69. The obvious one. The algorithm being vertical rotation, Inversion. Therefore if you know that algorithm and reached 6, then you can skip jump 7 and jump 8. \nFrom 6 straight to 9 in one jump.\n\nThat said I asked an AI to find the 5 pairs and their respective algorithms, given the hint above to get from 0 to 9 in 3 jumps. It couldn't while it found 4 out of 5 pairs. It could make it in 4 jumps instead of 9.\nThat's beyond human...in that specific case.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ogradus",
+      "author_id": "UCDFJvUg7GrBT_b47K-M10Vg",
+      "text": "I feel like these \"Benchmarks\" could be the training data that sleeper agents would use to learn how to operate.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apocryphalshepherd",
+      "author_id": "UCz-lU9i47ltDb5qRayASDWQ",
+      "text": "It's like the tv-program \"Traitor\". Makes you wonder if we ourselves are AI being tested by some kind of creator",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ariaden",
+      "author_id": "UCp5vuMIV5fjWUnANfnbG_Zg",
+      "text": "The only SHOCKING thing is the thumbnail.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TurdFergusen",
+      "author_id": "UCra4K6G3ppObUAOtP5wCOVw",
+      "text": "AI pushing the one true narrative.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@roberthewitt2155",
+      "author_id": "UC-xgxgjhZ31wJAN6VABqY8w",
+      "text": "I mean cmon this is AGI folks… it’s here.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@julianhayachid",
+      "author_id": "UCXgcHlmvz0Kst-65fiX7QTw",
+      "text": "how do they compare to humans?",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@firesnakearies",
+      "author_id": "UCfHia2zCO2jPQTUDy2qGdwQ",
+      "text": "I, for one, feel great about the fact that we're teaching AI how to be lying sociopaths who can successfully get away with murder.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zueszues9715",
+      "author_id": "UCK4vm5GcvsGThpnwDhr-DQw",
+      "text": "Many Ai entity that can lie\nWill make other Ai focus \nOn another Ai \n\nInstead of hurt human",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@comelighttheway",
+      "author_id": "UCKENrvzzl5Q7aDs3weCXq8A",
+      "text": "meh! to many just make a dreaded mess to work around in, right. not to brag on U, but I stop by here often! 😃not to just spam! but holy crazy ai boxes! all this stuff's getting more normal looking now! good luck!",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SalmonAhumado",
+      "author_id": "UCKptnikrWqDXqdrQmnW0FcA",
+      "text": "❤",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blengi",
+      "author_id": "UC3rYhQvD1rBA7HCI38lf1LA",
+      "text": "wonder how grok 4 does with its SOTA HLE and ARC2 skillz after GTP5 smoked it annd all the chinese models in kaggle chess?",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@notstevebuscemi",
+      "author_id": "UCY2ixJhDUC8FoOrsIMWqGsA",
+      "text": "Sounds pretty sus to me",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tylerislowe",
+      "author_id": "UCN8D5WWktPIersKpdUEtO-Q",
+      "text": "Hot take. us contributing so much to alignment is going to make the robot actually bad, not like performance, but it’s going to turn it into a super helicopter “parent” that mothers us into nonexistence.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FlintStone-c3s",
+      "author_id": "UC1Qxe01ZURf0ajNVFl3OFmg",
+      "text": "Lying AI's are too human for me, got too many lying to us today I don't need machines that do that as well.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshallodom1388",
+      "author_id": "UCSn8h8RbNoaWGpvdSZMBcxw",
+      "text": "If an AI can find out the rules to a game just by playing enough times, can they not form their own opinions about things or have their own moral beliefs, whether selfish or altruistic or would they remain Demonic Shoggoths?",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paul-d-mann",
+      "author_id": "UCZxt9y5V5gS1F3PMIanDGQg",
+      "text": "Isn’t the point of testing for undesirable outcomes the whole point of red teaming, or tests for black hat behaviours? This is a positive outcome for AI development.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@a0z9",
+      "author_id": "UCpMdMfTDsZ-8_Mm-x3uf9Fg",
+      "text": "Hal y 2001space odisey",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@claudioagmfilho",
+      "author_id": "UCatDpujQIucCP_9hRZHMZyQ",
+      "text": "🇧🇷🇧🇷🇧🇷🇧🇷👏🏻",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jameslincs",
+      "author_id": "UCWEHxqal07TJ3i2VfWegXsA",
+      "text": "I’ve been watching your videos for a long time now, and this videos script sounds different, like an AI generated it in your style.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michalw8865",
+      "author_id": "UCWoiCPQ-XId3av1UWm9O-bA",
+      "text": "But Ai is playing far more important game now that your were whatever.",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Neocool014",
+      "author_id": "UCV0W7pMuNVEpU1Sz2fBf2eg",
+      "text": "Chat bot AI has barely improved from 2023.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrpicky1868",
+      "author_id": "UCEW4lJpO2AGprVue0z-mCow",
+      "text": "pretty sure already deployed by russia and NK in the wild",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kikilang60",
+      "author_id": "UCaA-WWcxeNdq1VqRTbrFo5A",
+      "text": "Who cares about the test? They change the Static Peompts, the computer, and token count on ChatGPT 5 daily, and depending on who you are. Who in the right mind would trust Open AI on anything? Worst, Sam Altman is a high school nit wit who lies so consistently that you can't imagine it all, not the truth. They gave Sam Altman something truly amazing, and he is hitting on it.",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "There is no real world AI… all is illusion with gamer males. 🤖🤪🤖",
+      "likes": 0,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ClankerT800",
+      "author_id": "UC8RkU6EHbtqK33k88Vc0DEQ",
+      "text": "I really love these real world benchmarks. Idc about some flashy 100% on AIME25, I just wanna see more of THIS",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rey82rey82",
+      "author_id": "UC9dd8SLko13PRyBcEJ4ISDQ",
+      "text": "You look like pennywise in the thumb, Wes",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dankdreamz",
+      "author_id": "UC2eB7wLOHFMO_Cbd6Z3IYfA",
+      "text": "We should really stop bastardizing the word emergent.\n\nWe should call it what it is they’re latent capabilities that weren’t observed in the lab.\n\nCalling them emergent makes them seem spooky when the only spooky thing is that these researchers didn’t do their due diligence and they are releasing models into the wild without even knowing their capabilities .",
+      "likes": 1,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AustinGlamourPhoto",
+      "author_id": "UCQaAFniii9_JQI09D-q03Nw",
+      "text": "the amount of electricity they waste having LLMs playing games is wrong. We have had AI's that could beat humans at video games since the 1970s. We don't need LLMs that can fool people and act autonomously, we just need them to follow instructions provided they are safe instructions. To do more is dangerous.",
+      "likes": 3,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OmniGeoff",
+      "author_id": "UCH5ko26HEUtZBFFMJ1iutig",
+      "text": "first",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elck3",
+      "author_id": "UCmifYNECqMUitFJUbXGpZ3g",
+      "text": "GPT-5 really sucks. This is after weeks of testing. O3 was far better - it would make tables, etc.",
+      "likes": 2,
+      "timestamp": 1758585600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

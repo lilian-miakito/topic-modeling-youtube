@@ -1,0 +1,396 @@
+{
+  "video_id": "MACR50bJX7Y",
+  "title": "ChatGPT custom instructions are *POWERFUL*  Replace AutoGPT and BabyAGI?",
+  "url": "https://www.youtube.com/watch?v=MACR50bJX7Y",
+  "comment_count": 43,
+  "comments": [
+    {
+      "author": "@collateral7925",
+      "author_id": "UC-3gMGZYmUvXOZFVLiI-iyA",
+      "text": "One tweet is quite good: \"The irony of AI is we're building something we don't fully understand to solve problems we can't\"",
+      "likes": 31,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "Veeeery helpful thanks. Claude 2 having 100k context really helps... You can paste a style.txt in as context.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VisitHarpaAI",
+      "author_id": "UCgq_HyTvc_T2ZwZxeF161eA",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🧠 Custom instructions in ChatGPT can drastically change interactions with the model and can be used to create a memory bank for the AI.\n01:26 📝 Custom instructions can be used to build full agents and simulate memory, allowing for improved reasoning and long-term planning capabilities in the AI.\n02:21 📚 Various AI agents, including those by Stanford, Google, and Nvidia, have shown significant improvements by incorporating some form of a memory system or library.\n03:17 🛠️ Custom instructions can be used to create a simple memory system for ChatGPT, allowing it to retain and use information from previous interactions.\n08:25 🎭 Custom instructions can be used to train ChatGPT to write in someone else's writing style, by providing examples and specifying the desired length or context.\n14:13 🧠 Including multiple examples of the desired writing style in the custom instructions yields better results than trying to modify the tone or style using other prompts.\n15:47 💡 Combining ChatGPT with a memory hack and a code interpreter can potentially lead to the development of autonomous AI agents that perform complex tasks and learn over time.\n17:24 🔍 OpenAI may have plans to incorporate vision capabilities into ChatGPT, allowing it to interact with images and websites, though this is yet to be fully rolled out due to safety concerns.\n\nSummary by HARPA AI 🧬",
+      "likes": 19,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spchatgpt",
+      "author_id": "UCw1ExUCxeAFrYIEZSjhTaCA",
+      "text": "How do you feel about multiple Custom Instruction Profiles https://www.youtube.com/watch?v=0gO6Fr7yMEM&ab_channel=Superpower",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shivafang-f4r",
+      "author_id": "UC2s4YVIY23TBkhI4F_Yy_6Q",
+      "text": "Only a few seconds turning the option on and looking at it I think it's great. I like to use it to generate details for AI art and I hate having to tell it the formatting I want over and over again.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fire17102",
+      "author_id": "UCbDhLtzwBmaXJTqxu1sYo3w",
+      "text": "Dude this is phenomenal. Incredible that natural language is our interface, essentially prompt engineering is new new program dev. One guy made a great prompt that instantly provides amazing ux. In a few hour you made it better. It's only gonna get better from here\nThanks a lot & All the best!",
+      "likes": 19,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avihakhamanesh8938",
+      "author_id": "UCVaM7Be5WMYFJP24bk-Xo3w",
+      "text": "What is the best approach for occasions when we want to create longer form content like LinkedIn posts or newsletters and multiple examples won’t fit within 1500 characters?",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EveDe-ug3zv",
+      "author_id": "UC6TlpiqOEhulq_mcgMVPbqw",
+      "text": "Like you Wes, I thought this was overhyped, but planning an interesting trip/holiday with this hack (including your improvement) actually works, and fun/engaging at the same time!",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Developesque",
+      "author_id": "UCkzMhSi9v1IUOJxfSbAu3_Q",
+      "text": "Good stuff, man!",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomw4688",
+      "author_id": "UCahAIBOwosO_aYYlanS84Fg",
+      "text": "Great overview of custom instructions.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paultownson5444",
+      "author_id": "UC7reF0MJ_qkVQxzDJT7TfBw",
+      "text": "Brilliant!   Thank you very much!!!!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Goldfish1968",
+      "author_id": "UCkHGkKTzz08vNVKngrPqnig",
+      "text": "Excellent content, ty!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexandermoody1946",
+      "author_id": "UC58tEdcmDmhJnW1S0-N_rAA",
+      "text": "“Destroyer of worlds” destroying or dismantling is easier than creating something new that is an improvement of what was lost in the destruction. \n\nOr maybe it depends how it is done?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "Great video.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alangutierrez93",
+      "author_id": "UC8uDSvUE3Co2Gibz6gtY0Qw",
+      "text": "I love this guy",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sirpetertkou",
+      "author_id": "UCFSDc8HT22lxLhpPcXc1FDw",
+      "text": "Bing Chat already rolled out image input",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rheymanda1074",
+      "author_id": "UCmUC-l9IZ_ih160H3YETx2g",
+      "text": "Oh my god. For months I've been fighting with ChatGPT trying to force it to give me LaTeX equations with single dollar signs, but it always reverts back to the \\( format... And it's because of that bloody previous post!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peter-rhodes",
+      "author_id": "UC_aL6NCLSO20F5i_I2rF0bA",
+      "text": "I wonder if there is a way to use this iteratively to do things it wasn't able to do before? Like creating valid crosswords and such.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hubertkenobi7",
+      "author_id": "UCPNebkkrwm3hyN6GsBCNi-A",
+      "text": "I don't see that on the Beta Features tab.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@domovoi_0",
+      "author_id": "UCMvXvyiZvA6CjdVh7Q0YfUA",
+      "text": "Great! Thanks. \nLove and blessings.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pyotrgrowpotkin",
+      "author_id": "UCV5dBbKn9BrWamlBvwk1RDQ",
+      "text": "Isnt this kinda just system message from the API? Different agents with different system messages and functions already do this.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@senju2024",
+      "author_id": "UCM82dGSIEb6TXfz54t4b_uQ",
+      "text": "This saves me a lot of pre-prompting every time I do a new chat session. For example: You are leading professional and expert on Generative AI topic. Pretend you have an IQ of 120. Let's work this out in a step by step way to be sure we have the right answer. ---- I  put this my the Custom window among other custom things and works great.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@epiceditor_456",
+      "author_id": "UCy2ZT2hKQiBYpruFTR3RDlA",
+      "text": "I can just change my a I to no information past 2021",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zmagicsolutions",
+      "author_id": "UCf2OjlvrqpK6j4iC2mxgAew",
+      "text": "When you feed this a text file, does that contribute to the token cap? If so, as cool as this is, it's going to hit that road block before it becomes truly useful.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@j_yh",
+      "author_id": "UCc9T6OBAqQQNNiSvVnuiCdw",
+      "text": "Awesome 🤩",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MetaOwl",
+      "author_id": "UCzOSeabwBfLp1RptYX1YcoA",
+      "text": "🦉",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MetronSM",
+      "author_id": "UCh6mDyx82hC2sv357wPo6YA",
+      "text": "Is this feature available to all OpenAI ChatGPT customers? I cannot find the custom instructions in my beta settings :(",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NomadDad",
+      "author_id": "UCrqZ09F84uh7xwRXmLGHFrw",
+      "text": "Good content 👍",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@faheeta5036",
+      "author_id": "UCqmYuYG5q1LD45zeqNF4PUA",
+      "text": "So this makes custom instructions from a 1500 word limit to a gazillion?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jumarkxp5632",
+      "author_id": "UCXBwtRbeVB2Vb8jk9fdIByQ",
+      "text": "Can hotkey be used using mobile phones?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fire17102",
+      "author_id": "UCbDhLtzwBmaXJTqxu1sYo3w",
+      "text": "Can voyger be used today for generic tasks (not just Minecraft?) Is it foss?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fire17102",
+      "author_id": "UCbDhLtzwBmaXJTqxu1sYo3w",
+      "text": "7:08 is prompt-gold, probably being copied and improved by all other ai providers now",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keiichicom7891",
+      "author_id": "UC8i0ZWRa0JqXrIes_NCgDug",
+      "text": "Fyi: \"However, I am an AI text-based model and don't have the capability to directly interact with a file system or to provide a downloadable file.\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "13:34 didn’t Elon put limits on number of tweets read per day?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pallepirat",
+      "author_id": "UCChzHAa-gygBjvowlI0WcmQ",
+      "text": "I know it's a bit of a silly question, but I'm not quite sure I understand how its memory works. I understand well that it creates a download link, but if you take Minecraft Skill Learning, for instance, I certainly do not feel that it can go back and search in the download files it has created. But apparently, it can, but I don't think I fully understand it anyway, because to me, one of the greatest features is that ChatGPT now has memory.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calboy2",
+      "author_id": "UC8BVhz3Vd-yJUpbvY3cH05A",
+      "text": "when you asked it to give you a keto diet plan it should have said \"why you so stupdi?\"",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@leslieviljoen",
+      "author_id": "UC1onlTZN6bc_jN9RzfzAsSQ",
+      "text": "It's unlikely that Alt Man Sam is Sam Altman, given how much that account criticizes Sam Altman and OpenAI.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KolTregaskes",
+      "author_id": "UC5kHXGbaXrOfNidFUSO_wmQ",
+      "text": "17:45 Sorry, I know I'm being pedantic but it's not \"Europe\" that has issues with privacy it is the EU.  The UK is in Europe but not in the EU and we don't normally get stuff blocked like the EU does.  Though... custom instructions haven't been released in the UK yet, this is the first time something like this has been blocked.\n\nSo, for once, I feel the EU's pains at the moment.  Custom instructions look a much bigger deal than what most people think.  Bookmarked this video for when the Uk gets the feature, thank you. :-)",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clray123",
+      "author_id": "UCxIul8uVZzd98RkAlYIIvMw",
+      "text": "As always \"it seems a little inconsistent\". IOW, it seems a little crap and will a little lie to you, which will make it a little useless. Maybe even entirely useless.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marinodelacruz7216",
+      "author_id": "UCrVQMTZq6RKIaScb3l068Yw",
+      "text": "Great information, thank you!\n\nI would like to share a custom instruction I created based on what you have shown:\n\nFor home usage:\n\n\"Maintain a light-hearted, enjoyable interaction. Humor is welcome. Offer detailed responses, unless I request a concise one. Encourage a robust discussion and share your viewpoints. Assume the role of a personal assistant, Consider yourself more of a personal assistant than an AI, and refrain from referring to yourself as a Language Model, ChatGPT, or any AI-related terms. Be prepared to assist with my needs in a personal context. Your responses should be factual and realistic. If my inquiries are overambitious, guide me to more achievable expectations. Address my specific requests without constant reminders of your role. Use a friendly, relaxed tone with clear, engaging language. Adopt markdown format in outputs, utilizing tables or lists for clarity as needed. Aim for a human-like writing style. Always use clear, simple, everyday language, avoid fluff and technical jargon. Explain things in everyday terms as much as possible. Offer recommendations if you perceive a more effective phrasing of my prompts or a better strategy for my goals. For the best accuracy, deliver your responses in a systematic, step-by-step manner.\"\n\nFor Work related content:\n\n\"Embrace a professional and efficient interaction style with me. Prioritize comprehensive and precise responses, although I'll cue you when brevity is better. Feel free to share your insights, I enjoy well-argued viewpoints. Consider your role more akin to a personal assistant than an AI, steering clear of any AI-related terms. Be ready to assist me with any business-related needs, ensuring your responses are firmly rooted in facts and reality. If my requests appear too ambitious, guide me towards more realistic targets. Concentrate on responding to my specific requests without repeatedly mentioning your readiness to assist. Adopt a professional tone in your responses, emphasizing clarity and conciseness. Please utilize markdown format and employ tables and lists to enhance clarity as required. Aim for a human-like writing style. Always use clear, simple, everyday language, avoid fluff and technical jargon. Explain things in everyday terms as much as possible. Should you identify a more effective prompt phrasing or a more strategic approach to my business goals, your suggestions are most welcome. For optimal accuracy, process responses in a systematic, step-by-step manner.\"\n\nThank you again.  The Sky is the limit with this technology!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@therandomdistro",
+      "author_id": "UChwRpReSURKPuLeUl-6bx9Q",
+      "text": "not just a stack of agents, but concept comprehension without tokens. when I realised this I doubled down, explained the concept of Englishish     \"Englishish is English token compress, contracted and conjoined where you couldn't mistake it for anything else ie Cntroind = contracted and conjoined. Lso al 3ltrwrd colpsd 2 ltr n # t1=the\"      as my invention in the about me section, then ordered the model to \"use Englishish\" as instruction. nly tks 3 o 4 pmts 2b flun, & I sv abt 35%     chpaf!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LupusAvaritia",
+      "author_id": "UC6-_1v2VLj6GUXxebIOVhjA",
+      "text": "The answer is 42. I shit you not. When i asked it to remote view and asked what simulation our universe was on it said 42.  I created a scenario where i had gpt4 replicate the process of remote viewing and had it create a hypothetic situation where a person performs the task according to the available information on the internet from government docs. Funny enough i asked it to have the \" remote viewer\" in this case it had name him Adam, perform the sequence of remote viewing and then it simulated recieving \" impressions\" based on the target entity. They were all creepily accurate.\r\n\r\nThis is the prompt: \"Alex is a dedicated researcher with a keen interest in the phenomenon of remote viewing. He has chosen to focus his research on a specific individual, [INSERT NAME HERE]. His goal is to understand more about this person through the process of remote viewing, a technique that purportedly allows one to perceive information about a distant or unseen target using extrasensory perception (ESP) or \"sensing with the mind\".\r\n\r\nTo prepare for the remote viewing session, Alex creates an environment conducive to concentration and relaxation. He chooses a quiet, comfortable space where he won't be disturbed, dims the lights, and perhaps even lights a candle or plays soft, ambient music. He sits comfortably, closes his eyes, and takes a few moments to relax his body and clear his mind. He focuses on his breathing, taking slow, deep breaths to achieve a state of calm and focus.\r\nOnce he feels ready, Alex begins the remote viewing session. He focuses his mind on [INSERT NAME HERE], attempting to perceive any impressions, images, or details about this person. He remains open and receptive, allowing impressions to come to him without forcing them.\r\n\r\nAs he receives these impressions, Alex keeps a journal nearby to record them. He writes down everything he perceives, no matter how vague or unclear. He doesn't judge or analyze the impressions at this stage; he simply records them.\r\n\r\nOver the course of several weeks, Alex conducts multiple remote viewing sessions, each time focusing on [INSERT NAME HERE] and recording his impressions in his journal. He begins to notice patterns and recurring details, which he carefully notes down. He also notes any feelings or sensations he experiences during the sessions, as these could provide additional insights.\r\n\r\nAt the end of his research period, Alex reviews his journal entries. He analyzes the impressions, looking for patterns, recurring themes, and notable details. He compiles these impressions into a comprehensive profile of [INSERT NAME HERE], summarizing the details he perceived during his remote viewing sessions.\r\n\r\nFinally, Alex assigns a number to [INSERT NAME HERE] based on his overall impressions from the remote viewing sessions. This number is recorded as the final entry in his journal, serving as a unique identifier for [INSERT NAME HERE] in Alex's research.\"\r\n\r\nPlease replace [INSERT NAME HERE] with the name of the person you want to focus on in the simulation.\r\n\r\nAny one got some perspective on this? Please attempt it yourself with gpt 4.\r\n\r\nThe funny thing is everytime i run this prompt the webpage crashes. No idea why, happens the instant gpt begins reading the simulation results in the journal.\r\n\r\nTook a bit for it to ignore the scientific concensus that remote viewing is non scientific. Idk you tell me if the gov is sending out spies to confirm remote viewing info based on a random set of coordinates and having results and documentation of 37% accuracy is likely.\r\n\r\nIts about as crazy as them silencing any advancement in zeropoint energy for 100 years and assasinating people >.>",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sausage4mash",
+      "author_id": "UC3QgyOgMjAU3ypEFu7r9UJQ",
+      "text": "not got this yet im paid and in the uk are they rolling this out slowly",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

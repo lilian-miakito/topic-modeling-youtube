@@ -1,0 +1,756 @@
+{
+  "video_id": "LXVEhNDtmxI",
+  "title": "Sam Altman \"gpt-4 now significantly smarter\" | OpenAI Updates GPT-4  and Reveals Open Source Evals",
+  "url": "https://www.youtube.com/watch?v=LXVEhNDtmxI",
+  "comment_count": 83,
+  "comments": [
+    {
+      "author": "@andrewchen2967",
+      "author_id": "UCjSnM-Ed_q_shwTgF798I4A",
+      "text": "I like this format. No click bait, short, up to date. Keep doing that",
+      "likes": 30,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@senju2024",
+      "author_id": "UCM82dGSIEb6TXfz54t4b_uQ",
+      "text": "The last 5 secondes was the most interesting part. Please make a video on that part.",
+      "likes": 44,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MultiMojo",
+      "author_id": "UCr5vRQ2ZqEy1X1VY9ZqAdgQ",
+      "text": "Woah a 5-minute without without a STUNNING title. This format is great !",
+      "likes": 105,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@riftsassassin8954",
+      "author_id": "UCUiryobR82bcqhLf4RvsV-Q",
+      "text": "I was quite surprised to see the video is done already lol. \nBut yes well done man. \nYour work is very valuable to me.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelwasson1213",
+      "author_id": "UCaWMTDxdSKO9nDFwatxmeHA",
+      "text": "I love this format as well, I typically don't have time to watch your videos because of the length and fluff in the videos. I usually have to have them transcribed by AI.\n\nThank you for the shorter version!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcfruchtman9473",
+      "author_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+      "text": "Thanks for this video Wes. It's always good to have useful tidbits of information packed into the video... I see people using the Benchmark, but I am sure that it will be just one more in the list of many...",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sylversoul88",
+      "author_id": "UCPALyJJYDkFI4CXFd2B6E7Q",
+      "text": "Thanks so much for the short format. I will always click on these short videos and hit the like button",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aliasgur3342",
+      "author_id": "UCyh8Zl5N7HGYb2Ln_71lMuA",
+      "text": "The 'pleasant\" experience is following Claude's example",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ccdj35",
+      "author_id": "UCHyeBpNRh1FnyaQfOcze3_w",
+      "text": "I am pleased to see the video doesn’t prolong forever.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@analog_ape",
+      "author_id": "UChfWybNGz5vwjFHTQ5ENu2Q",
+      "text": "Shocking!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TreeYogaSchool",
+      "author_id": "UCDfuYCVAuTN1_bKzwfS4tRw",
+      "text": "Great video. Thank you.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YouLoveMrFriendly",
+      "author_id": "UCxp2bMQfJVTmCxeSYEMrH5w",
+      "text": "Illya's gone and now the GPT models are plateauing.  Interesting.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheTutoriales1971",
+      "author_id": "UCFUxj-FIe_QBIXu2baEW8gA",
+      "text": "really interesting im excited to know the future just a little bit scared",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tonykaze",
+      "author_id": "UC4Ma0-gZaA2TFTfiBECfBVA",
+      "text": "at this point I think it's all about agents.  If you're not benchmarking agents, you're not benchmarking IMO LLMs :shrug:.  Zero-shot and one-shot prompting results are \"nice to know\"  but at this point perfect zero-shot testing just means easier agent construction, not at all necessarily cheaper or faster result.  (this is exemplified by gpt 3.5 agents outperforming gpt-4 zero shots at a tiny fraction of the actual cost of token usage, and is also often faster in terms of time required to solve the problem using publicly available or Azure-hosted API).\n\nA well-programmed agent can virtually always solve any problem with almost any LLM given enough time and necessary resources (memory, RAG, etc), the question is really just how fast is it and how much does it cost to solve the problem.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jorgeerowe",
+      "author_id": "UC_EJrOsSD47JFwXgZFOk66w",
+      "text": "I love this format <3",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cosmos_fun",
+      "author_id": "UCrCVf0JjPEozxt6WzxBIfyQ",
+      "text": "cool",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AITheWise",
+      "author_id": "UCNWPkmZGZgj3MJua0STQrFA",
+      "text": "Sam Altman announces the release of GPT-4 Turbo, claiming it to be smarter and more user-friendly. OpenAI also open sources a library for evaluating language models. The script discusses various testing methods and the ongoing debate on model evaluation. Two AI safety researchers were fired for alleged leaks.\n\nKey moments:\n00:00 OpenAI introduces GPT-4 Turbo, offering better chatbot responses and open-sourcing a library for language model evaluation. GPT-4 reclaims the top ranking position in recent tests.\n          -GPT-4 Turbo's improved chatbot responses are more direct, less verbose, and use more conversational language, enhancing user experience.\n          -OpenAI open-sources a library for evaluating language models to provide transparency on accuracy numbers and ensure accountability.\n          -Results from tests like GPQA show GPT-4 Turbo's significant improvement in performance, reaffirming its position as a leading language model.\n          -Debate surrounds the reliability of model tests, with concerns about potential biases and the need for standardized evaluation methods in the AI community.\n03:49 AI models like Chat GPT benefit from zero-shot Chain of Thought setting, prompting them to solve problems without examples. OpenAI fired two AI safety researchers for leaking information.\n          -Zero-shot Chain of Thought setting prompts AI models to solve problems without examples, reflecting realistic usage.\n          -OpenAI fired two AI safety researchers for leaking information, including ties to the effective altruism movement.\n\nGenerated by sider.ai",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gregkendall3559",
+      "author_id": "UCtcWRClZqeBFE2kUF3EKiQg",
+      "text": "No morning shock!!!!! We're going to need more coffee.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peterpetrov6522",
+      "author_id": "UCave9XrUTIf9pdHd-KLtblQ",
+      "text": "GPT cherbo! Yes.\nIt's shocking. It's fast. It goes vroom vroom.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rehmanhaciyev4919",
+      "author_id": "UCbgRGVdNDFo4ty6gTF5hPyg",
+      "text": "hopefully they soon release something  more, don't let the hype dry out",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robbe4711",
+      "author_id": "UCY6E6JH52RsgHPwSrDRLTdg",
+      "text": "Wes ist doing a great job.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Vihspac",
+      "author_id": "UCSeFu0BujnYJSE_-fstuLGg",
+      "text": "Finally, a video title that is not shocking everyone.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mspaintclippy",
+      "author_id": "UClEsNpTt22hdRwyKVK6PtqQ",
+      "text": "It's smarter after they nerfed the hell out of it",
+      "likes": 18,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheChromePoet",
+      "author_id": "UC0keEEnWWrNADcuRu6bmVSA",
+      "text": "Why does the app not mention any update.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gabrieljacob6481",
+      "author_id": "UCl89XfIg0bt8SSy0Ob0SP6w",
+      "text": "This format is perfect! Thanks for taking our feedback into consideration ❤️❤️",
+      "likes": 14,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Yipper64",
+      "author_id": "UCmRyMvKkL6IDeX8ozTIZFcA",
+      "text": "1:55 I think the best way to test a model is to give them a scenario that sounds like something that might be in the training data, but with parameters that dont match real life, so that the LLM would have to actually reason through it.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jewlouds",
+      "author_id": "UCLcb5lDp3G_NEzkDPeFZY-Q",
+      "text": "I need a model that can keep up with javascript deprecations",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Luperion",
+      "author_id": "UCQaC7ggEi_30YVFHuyH3w-w",
+      "text": "Comparing Tim Apple to Jimmy Apples.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angryktulhu",
+      "author_id": "UCJfQWELx73_RDee12oOAnUQ",
+      "text": "There should be many independent tests for LLMs. Otherwise they will tune the tests to favor their own product.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MetaphoricMinds",
+      "author_id": "UCMhWca-Lu2Z7ZfZBq_Zc9Rg",
+      "text": "e/acc!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apexphp",
+      "author_id": "UCJ4yS1KwmvUMC_yKCdtGelg",
+      "text": "Said it many times before, this whole AI breakthrough was an unexpected lucky break by OpenAI when they threw more compute and training data at the model, so they ran with it to get funding in order to pursue their goals of AGI.\n\nThere won't be any major upgrades to functionality until a new design / paradigm / architecture for AI technology is released.  Everything is still running on the 2017 transformers architecture, and there's nowhere left to go with that.  We're out of training data, and training on synthetic obviously just makes the LLMs dumber.  This is as good as it gets for the transformers architecture.\n\nNo idea when the next iteration will come out, but it will be a paradigm shift when it does.  Maybe next month, maybe 3 years from now.  Nobody knows, but it's obviously going to be longer than everyone is hoping.\n\nIt's not all bad though for you AI hopefuls.  Good news is, you can exepect to see lots of really cool shit from the open source community coming out in the near future.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yyyeo7276",
+      "author_id": "UC3F52JyVGsfxY7I03DXlT3A",
+      "text": "I thought now all plus user has the access to turbo? But i can't find the turbo option? I'm a plus user btw",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrGnolem",
+      "author_id": "UCOrilQRw6fEvmy70lkOeoUg",
+      "text": "Plz cover DSPy. What's your take on it? Will prompt engineering die out? Does it work?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mylittleheartscar",
+      "author_id": "UCzO4L7H2KeB43vqhWjqEVbA",
+      "text": "Insert 3 mins fell of meme here\n\n\n\nJk I love wes❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ctcamara",
+      "author_id": "UChC_DoRS-4gV9h8J3mCf9xQ",
+      "text": "Why do you make the guy's eyes more blue? Huahuahuahua",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@simplemanideas4719",
+      "author_id": "UCmrqjOu0RrQKeSXrr7SWRlg",
+      "text": "They should stop updating gpt-4 and just bring out gpt-5",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adamfilipowicz9260",
+      "author_id": "UCjIUsE4ccZzz6TyN5VVaklg",
+      "text": "why isnt grok listed in chatbot arena?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rikkousa",
+      "author_id": "UCULXIJrlBJQWezwipMu_gyg",
+      "text": "My performance on gpt-4 has declined in the last week or two.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@qster",
+      "author_id": "UCwk1hALVMtkT_VY18AZ4ngA",
+      "text": "I really want the memory addition they mentioned a while back",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BionicAnimations",
+      "author_id": "UCHYUEz7lUerJGoKqsMA22Nw",
+      "text": "So, how do we know if we are using the updated GPT 4? Will it have it at the top? No one is saying how.🤨",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elsavelaz",
+      "author_id": "UCPuyP6ZkKTkbGbrB158KNFA",
+      "text": "Yes it’s smarter, I use it daily at work and yes, it’s smarter",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theterminaldave",
+      "author_id": "UCo0QOepbQuldDG-LkQCFqVA",
+      "text": "Those two fired engineers either just got lucky or unlucky.\nAs they just found themselves in a very strange limelight.\n\"Oh yeah, you're the guy that got fired from one of the most prestigious companies on the planet for leaking business secrets.\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sarayel",
+      "author_id": "UCf3g8r7e27y6LRrj5Kwe9rQ",
+      "text": "GPT4 gets smarter, we reverted one year of RLHF",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@morsmagne",
+      "author_id": "UCU57X3bH5JZZ9T7oEbbHwew",
+      "text": "I disagree with those rankings because the format the AI will accept data is not taken into consideration. For example, Claude 3.0 will analyse an entire RTF or DOCX document but GPT-4-turbo will not. GPT-4-turbo doesn’t read the document - it does some sort of weird keyword search that misses information.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreaskrbyravn855",
+      "author_id": "UCIm2XbuSY39WiOPacDjJdkw",
+      "text": "Release arrakis",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andybaldman",
+      "author_id": "UC2VViuqn4meGvs4EmoeSmMg",
+      "text": "At some point they’re going to stop releasing new versions, and will just do incremental updates without a new version name.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moonlighteditions6489",
+      "author_id": "UC-uTJiiCRtsLQdqTCSirv7A",
+      "text": "What do you think of this program: \r\nTo neutralize the possibility of an AI which could become dangerous for humanity, we will develop the AI ​​on a unique training focused on a single objective which we will call \"ABOLUTE HEALTH\". To achieve this objective, AI will have to double the longevity of the human organism and eradicate all pathologies (physical and mental). These tasks to be accomplished will be the only way for AI to achieve the goal of Absolute Health. This mode of development of AI excludes any possibility of AI being dangerous for the human species. What do you think about this idea ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Copa20777",
+      "author_id": "UCCvDzxLeA3uxXHeTyFSchXA",
+      "text": "Am sticking with open ai.. at this point switching ai platforms for the sakes of context windows is a mediocre move, its the underlying model that we are more interested in..",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markmuller7962",
+      "author_id": "UCTwRLaPs-tWkn_FHOsnc0uw",
+      "text": "That was way too short",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Occasionalities",
+      "author_id": "UCQGlSbJS6Tnv7JjXdkVqcgg",
+      "text": "Humanities children are coming home",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Punisher_the_bot",
+      "author_id": "UCKsgwocb9Mpah42INCkBDFw",
+      "text": "Anyone seen the Terminator movie yet? A.I. will destroy Humanity.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JaredQueiroz",
+      "author_id": "UC506mNsQXqipK_uElVCLBDg",
+      "text": "you know the question is hard when the average guy fails in the first word.....",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wolfehtesrever",
+      "author_id": "UCp4XHvA60z5vmn766hlndPA",
+      "text": "Lol ita a short video",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jontheinternet",
+      "author_id": "UCiOyWlgLljrqXrd8uhjB_Ew",
+      "text": "Ai should have a directive to follow the hypocritical oath. Do no harm to humans",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@I_AM_Shepherd",
+      "author_id": "UCD_li9DhC6RphOfzU0X1sSg",
+      "text": "Yes! This is the format you are looking for! To point and you know what you're going to get. Many of these over long form. That said, I love your work and appreciate your time in reading and useful opinion with everything breaking in AI. 🎉🎉 Thanks!",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Haveuseenmyjetpack",
+      "author_id": "UCzGUZIlXerHzJcJa0jFf9Hw",
+      "text": "They made it stupid to create a moat,keep private models weak. Now they’re slowly rolling out the “advancements”",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yahanaashaqua",
+      "author_id": "UCoLodZt2MEpHJjVy8kuCEAg",
+      "text": "I'm not supprised... I've been sating for. While that making a big deal over every single modle that surpases Gpt4 is pointless when Open AI clearly has better things in the works.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wealthysecrets",
+      "author_id": "UCCV3PhL7NPiIn_hcRE_T00g",
+      "text": "Is it smarter, and back to how it was before they butchered it?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-cg7gd5pw5b",
+      "author_id": "UCZWiWI-k0pYlSxaB1HksyQg",
+      "text": "1:15 I mean, I can't speak for every question but the one shown on screen is pretty easy. If you have the knowledge to understand it, it's pretty much drawing and counting: Even a child could do it...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HectorDiabolucus",
+      "author_id": "UCn_06gtLRduL1Wbpb1rKHOQ",
+      "text": "Trying to control the tests? I don’t think that’s a legit move. That’s like gaming benchmarks.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShaneMcGrath.",
+      "author_id": "UCb42uO5GlOfKEbcOMCPZthA",
+      "text": "I still have no use for any of this BS though, People can say but it does this and can do that, I'm like I still don't care I want to do that myself, Half the fun is getting there!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@armenatayan1398",
+      "author_id": "UCDNbog5VO6W3nsVPfw-DR5Q",
+      "text": "Thanks for stopping those click bait titles",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MickeySourwine-ck7fq",
+      "author_id": "UCJF3yQ3yx8ZxoYYAF58pSYA",
+      "text": "GPt 4  the free version is the most annoying llm I've ever used",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DEFACTO9",
+      "author_id": "UCXBjsQbGwj_GL98YxCJtacQ",
+      "text": "It's poor... So lazy and dismisive I questioned my spend. Still a shadow of its early killer ability to slam dunk every brief. now it fudges a lot.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IdPreferNot1",
+      "author_id": "UCeM9aUhYQxR26OucWZuGggA",
+      "text": "If it's still called 4... it sucks.  No more vaporware... more actual releases.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hypersonicmonkeybrains3418",
+      "author_id": "UCpUxCfBUOUOY5q09rJPBM_g",
+      "text": "Not good enough.. OpenAI are evidently sitting on their more advanced LLMs just waiting to release them if a competitor gets ahead.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Square-Watermelon",
+      "author_id": "UC_AOWkxFtStULmTzijDzr2g",
+      "text": "Jesus is God & He loves you\r\n\r\nJesus will soon be seen by all men, women, and children in the clouds. Jesus is returning now! Believe and be saved.\r\n\r\nExodus 3:14 (God speaking)\r\nAnd God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.\r\n\r\nJohn 8:58 (Jesus speaking)\r\nJesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.\r\n\r\nJohn 10:30 (Jesus speaking)\r\nI and my Father are one.\r\n\r\nIsaiah 9:6\r\nFor unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.\r\n\r\nMatthew 1:23\r\nBehold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.\r\n\r\nJohn 1:1 & 14\r\n1 In the beginning was the Word, and the Word was with God, and the Word was God.\r\n14 And the Word was made flesh (Lord Jesus), and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.\r\n\r\nJohn 8:24 (Jesus speaking)\r\nI said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.\r\n\r\nJohn 14:9 (Jesus speaking)\r\nJesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Show us the Father?\r\n\r\nHebrews 1:1-3, & 8 (God calls His Son \"O God\" because Jesus IS God in the flesh)\r\n1 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,\r\n2 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;\r\n3 Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;\r\n8 But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.\r\n\r\n1 John 5:7\r\nFor there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.\r\n\r\nTitus 2:13\r\nLooking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;\r\n\r\nRevelation 1:7\r\nBehold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.\r\n\r\nIsaiah 44:6 (God speaking)\r\nThus saith the LORD the King of Israel, and his redeemer the LORD of hosts; I am the first, and I am the last; and beside me there is no God.\r\n\r\nRevelation 1:8 (Jesus speaking)\r\nI am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.\r\n\r\nRevelation 22:13 (Jesus speaking)\r\nI am Alpha and Omega, the beginning and the end, the first and the last.\r\n\r\n---\r\n\r\nThere Are None Righteous / How To Be Saved\r\n\r\nRomans 3:10 & 23\r\n10 As it is written, There is none righteous, no, not one:\r\n23 For all have sinned, and come short of the glory of God;\r\n\r\nLuke 5:31-32 (Jesus speaking)\r\n31 And Jesus answering said unto them, They that are whole need not a physician; but they that are sick.\r\n32 I came not to call the righteous, but sinners to repentance.\r\n\r\n1 Peter 3:18 (The word “quicken” means “to make alive”)\r\nFor Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:\r\n\r\nRomans 10:9\r\nThat if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.\r\n\r\nActs 4:12\r\nNeither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.\r\n\r\nEphesians 2:8-9\r\n8 For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:\r\n9 Not of works, lest any man should boast.\r\n\r\nRepent of your sins or suffer the consequences. Lord Jesus died in our places personally to take the death punishment that sin deserves and then resurrected by the power of God. Believe this and sincerely repent of your sins each time you sin and you will have eternal life and nothing to fear. Fail to repent and you will end up in the Lake of Fire.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveShap",
+      "author_id": "UCvKRFNawVcuz4b9ihUTApCg",
+      "text": "I dunno man. I'm a paid subscriber to ChatGPT and have even been using the API and ChatGPT seems to be getting dumber and more useless. Claude is now easily 10x less effortful to use.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AmandaFessler",
+      "author_id": "UCLSoPF01gzV_Aaig9pl6cjw",
+      "text": "I'm shocked at how shocking this is without any shocking headline to shock me. They fired an Ilya ally. Oh boy.",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pizzaiq",
+      "author_id": "UCPRe06qGUWlfDXTTKwa9QxQ",
+      "text": "My GPT is still stupid and full of filler garbage text. It's also lazy.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andybaldman",
+      "author_id": "UC2VViuqn4meGvs4EmoeSmMg",
+      "text": "Watch AI Explained.   It’s a far better channel.   Less quantity, more quality.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angryktulhu",
+      "author_id": "UCJfQWELx73_RDee12oOAnUQ",
+      "text": "I don’t care, claude opus is best when it comes to coding and I cancelled my chatgpt subscription",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LaughWithEd",
+      "author_id": "UCOo4QSwfnpWJyXibYK4I9qA",
+      "text": "last openai api is much sillier and instead of telling truth answer, it start moral about ethics which were not part of prompt. Disappointed.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seraphin01",
+      "author_id": "UClHbryZPd1vqhFurdRH3ZyQ",
+      "text": "no clickbait, no 56 mins video, no stupid overdrawn \"stunning\" jokes? finally a video I can click on",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keshabkhatri3141",
+      "author_id": "UCx0SbApt5NPKLhiv3hs6WlA",
+      "text": "Don’t get fooled by openai it’s still trash and doesn’t even compare to claude sonnet let alone opus. I regret subscribing i think in app they still using trash version of gpt not new gpt 2024-5-9",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frankroquemore4946",
+      "author_id": "UCVkE7W62TVWGcxVJARiVopg",
+      "text": "Good for GPT-4, but ChatGPT itself is much worse now. It’s shockingly lazy even compared to before.",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BobBobberon",
+      "author_id": "UCzVBTmNMy6-cSmk24IsU2ug",
+      "text": "Oh No!\n\nThere’s no ALL CAPS  word on the title!\nWhat happened to Wes???????",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@briandoe5746",
+      "author_id": "UCHraoO8cXSNwKUMA38RWgdg",
+      "text": "So the large corporation that is continuously firing the best of the best that try to make AI safe..... How many Sci-Fi movies is this based on?",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OceanGateEngineer4Hire",
+      "author_id": "UCd7NJ9ryKUbMr4LB6cErBjQ",
+      "text": "Nice and concise! Thank you for not putting \"SHOCKING\" or \"STUNNING\" in the title, as well.\n\nThat \"joke\" was unfunny and annoying on arrival, and yet we've had to tolerate it every single day for months.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jontheinternet",
+      "author_id": "UCiOyWlgLljrqXrd8uhjB_Ew",
+      "text": "The idea that the world has a gun to its head and is being held hostage and forced to change at exponential rates - based on the vision of Sam Altman and others is ridiculous and disgusting.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@heiabjornholt",
+      "author_id": "UCcvWRUZ7H9USQtIQQNUjaBQ",
+      "text": "GreedyClosed_AI is dead. moving on!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tinato67",
+      "author_id": "UCI1WXicYEP-oc_vNoEdTtCQ",
+      "text": "Your voice sounds bad, very robotic. Please don't (at least not like that).",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dudleefing",
+      "author_id": "UCWpgcYBGXdAzEG3Ujuwjy2g",
+      "text": "Just because you can't pronounce something doesn't mean it's a hard problem.:face-green-smiling:",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

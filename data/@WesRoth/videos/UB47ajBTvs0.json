@@ -1,0 +1,612 @@
+{
+  "video_id": "UB47ajBTvs0",
+  "title": "OpenAI Dev Day Sam Altman on AGI, AI Agents, Alignment and Google's Notebook LM",
+  "url": "https://www.youtube.com/watch?v=UB47ajBTvs0",
+  "comment_count": 67,
+  "comments": [
+    {
+      "author": "@KunDee-ch5jq",
+      "author_id": "UCgBpm2WL6l92hCt26-j8DCQ",
+      "text": "Looking forward to your next video with your usual great commentary. If you want listeners to watch another video please just link to it.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@honon-cs2wl",
+      "author_id": "UC_7nmcZBbCHOMK0moYvZChQ",
+      "text": "I've been waiting for this. Thanks for the DevDay video",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@r0d0j0g9",
+      "author_id": "UCn8MfmhZoICs7yNjAX4p14Q",
+      "text": "Its hard to find videos about the dev day thank you",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RupertBruce",
+      "author_id": "UCoEHkuwpZoDNglI1NN-Fq4A",
+      "text": "Garrett Brown invented the Steadicam in 1972 and it was introduced to the public in 1975.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aibonewt",
+      "author_id": "UCHA8WmfoQrAiXRn-1nwZ2DQ",
+      "text": "Love the auto transcription! They should call the next model CHACHAPITI",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@renman3000",
+      "author_id": "UCszDoU3PV_wpHjoCApf8xdw",
+      "text": "It will be interesting to see who achieves AGI first!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GoodBaleadaMusic",
+      "author_id": "UCdOqVSYtKzvPXHDC68-55kA",
+      "text": "The problem with talking about AGI is say from a 2015 perspective you're talking about space from a Galileo perspective.  And then as you get to 2022 we get an Einstein view of what AGI might look like.  But that's still just not even close to good enough. \n\nSo if we are at their theoretical 91% right now. Every time we get closer to that 99, we have to redefine what 99% actually is and we incrementally have to work harder for those last few percentages.\n\nThe concept of what AGI is has now been passed over to learning models which can contextualize higher models above them. AGI will have to downgrade itself just to communicate with us if it is as my feeble mind can imagine some sort of self-deciding entity",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mobalaa9995",
+      "author_id": "UCLGmXoKMWJtzKzwXlr9SYtQ",
+      "text": "AGI is here it just isn’t assembled yet.",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LuciousKage",
+      "author_id": "UCofAqjQc0jcElm3LQFNE14A",
+      "text": "I still say Please, Thanks, etc. to voice mode.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KennTollens",
+      "author_id": "UC70o_Gx2xA5IaqByJqgtGNQ",
+      "text": "One day you will be able to throw in 20 million lines of legacy Cobol code and instantly convert it to C#. It will be able to create MMO games, be customer service, run fixes on the fly. It will create entire companies and run them and do everything physical and digital. This is such a beginning stage to things. I want to be here in 100 years to see where this goes.",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@globalzox",
+      "author_id": "UCcIy8of-mqaKONboAJBrOKA",
+      "text": "Remember at last year's dev day when Sam said what the unveil at this year's dev day will make what they released \"look quite quaint\" or something along those lines? Yeah... where is that?",
+      "likes": 40,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Copa20777",
+      "author_id": "UCCvDzxLeA3uxXHeTyFSchXA",
+      "text": "Goodmorning people  🤓",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichealScott24",
+      "author_id": "UCSy5SX23Xrdxbxp0sh8i-hw",
+      "text": "❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moonsonate5631",
+      "author_id": "UCAyzzu-QdZkgQ4z4RpuCpLQ",
+      "text": "00:04 Realtime Voice Assistant through API revealed at OpenAI Dev Day 2024\n02:39 Sam Altman discusses levels framework for AI development\n06:45 OpenAI remains deeply committed to research for AGI development\n08:51 OpenAI's unique ability to navigate evolving technology landscape\n13:00 Focus on aligning AI systems for safety and robustness in deployment\n15:15 Iterative deployment and external pressure testing are crucial for success\n19:01 Advancements in AI models leading to quick task completion\n21:00 Balancing safety and rapid advancement in AI development\n24:46 Ensuring ethical use of AI with emotive voice capabilities\n26:48 Addressing safety and alignment issues in AI models\n30:50 Balancing user needs with model capabilities at OpenAI\n32:39 Navigating evolving AI capabilities and challenges in adoption\n36:36 Internal usage of AI models for automation and efficiency\n38:27 OpenAI is open to sharing models for offline usage.\n42:25 Challenges in enabling models to sing\n44:20 The future of AI models with extremely long context\n47:57 Future AI agents will provide real-time interaction through advanced reasoning and video models.\n49:58 OpenAI has added real time API for GPT and new features for Playground users\n54:07 Enhancing voice assistant capabilities with real-time API and third-party integrations.\n56:15 Demonstration of real-time API usage for voice interactions\nCrafted by Merlin AI.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NLPprompter",
+      "author_id": "UCbATPnWeZ5QF1Y8rsEug0ng",
+      "text": "one day a man from third world country wake up go to work and saw a robot suddenly working along with him... it is binary thing for that man",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RonLWilson",
+      "author_id": "UCvu4-ciX5inO2Xk-xjJOPgg",
+      "text": "There is a whole another dimension to how this technology could be applied for data entry.\n\nFor example I made a video addressing that and uploaded it to my YouTube channel, titled, No more mice... Hey, its the 21st century!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@charliekelland7564",
+      "author_id": "UCkJBg5CJPTIraO0-Z7ezaeA",
+      "text": "49:00 Everyone at Voiceflow: 😭",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erikjonromnes",
+      "author_id": "UCzsOLZY7ADCb83VxRraxjBg",
+      "text": "Dating a model might actually be in the cards for me after all.  lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krisztiangyurko4534",
+      "author_id": "UC5D7wXZ87ygVS-cGi_NfONg",
+      "text": "Once I asked ChatGPT when I was a bit tipsy on the riverside of Danube that if I piss on the Danube in Verőce, can I get home in Budapest before my pee?\n...so yeah, people are asking very weird questions from ChatGPT :D",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KyleKabasares_PhD",
+      "author_id": "UCTfxYHJdMCJHgVuujK20CEA",
+      "text": "Hi Wes, while I appreciated the shoutout at the beginning, I would have preferred being contacted directly on Twitter/X or Email to be informed that 45 out of 59 minutes of your video would feature the live stream I recorded yesterday. I generally do not have a problem with creators wanting to use my content, so as long as they ask permission first. Thank you!",
+      "likes": 126,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnmatthewtennant",
+      "author_id": "UCeMKK9VXp8mvs5tbeuRnPxg",
+      "text": "Thank you for bringing us this content! You’re my one-stop-shop for AI news. If I could only follow two channels it would be you and AI explained.",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DepartmentofNarcissistsDON",
+      "author_id": "UCH9IIi82DyiGGRLlKvPU1jA",
+      "text": "AGI demands continuous learning and adaptation in real-time, which cannot be achieved through pre-trained models alone; instead, it requires meta-learning and online learning capabilities.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jasperruijs",
+      "author_id": "UCy2U0zXQpVBkPFTTwMPzQIg",
+      "text": "Why did you think they made DevDay records not available on YouTube?\n\nAre they afraid of more bad PR?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UnDaoDu",
+      "author_id": "UCfHM9Fw9HD-NwiS0seD_oIA",
+      "text": "Why did they call it 01? And did it name itself? 0202 is here.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theterminaldave",
+      "author_id": "UCo0QOepbQuldDG-LkQCFqVA",
+      "text": "But if you owned a business, would you accept an order from an AI \"assistant\"? \nHow would you know that the credit card number that you're getting isn't stolen, etc?\nSeems like we'll need some way to know that the AI is a legal and legitimate AI.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tinyhato",
+      "author_id": "UCVYaLoNjJWiE0c6ZbeGZW3Q",
+      "text": "Can I dip 400 strawberries in chocolate and get paid $1400?  I think I found my new career.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hqcart1",
+      "author_id": "UCtfoThx6JxCNquvoBBJlEFw",
+      "text": "19:25 DUDE, they are still taking about DEVIN !!! if that so, i guess all vs code forks are way way behind....",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TurdFergusen",
+      "author_id": "UCra4K6G3ppObUAOtP5wCOVw",
+      "text": "n Years from now:  Remember when training required 100k h100s?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JaredFarrer",
+      "author_id": "UC6008kF-CIgFs-tVtWzFYDA",
+      "text": "Other companies will figure out o1 and build a better one.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheRealChrisVeal",
+      "author_id": "UCuffPxQJEohKuaI4a8EcJWw",
+      "text": "every time sam uses the word “like”, a little part of me dies inside. it would be a much better experience for the rest of the world if the leader of openAI had a stronger command of the english language. imagine your favorite political candidate giving a passionate speech, but peppered the speech with the word “like”… something tells me it won’t have a positive effect on getting the message across.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maximilianmander2471",
+      "author_id": "UCiHN-Mu52GFmNz70xxsIHkQ",
+      "text": "the audo translation on your video has a lot of mistakes..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RadiantNij",
+      "author_id": "UCEfRDnoqTQasBa-WhW2XxmQ",
+      "text": "Bro is gonna replace all openAi employees with GPT🤔",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@content1",
+      "author_id": "UCW6vp4LxDsge7IvwKK_LRGg",
+      "text": "sorry sound not good enough to listen😢",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sgresham21013",
+      "author_id": "UCQIpki6LktHQT7dpwUSArxQ",
+      "text": "There must be an ai that can clean up that audio echo. Reverb",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sunlightbtc247",
+      "author_id": "UCfG7MVIjty7or3kI2dGLarA",
+      "text": "??",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AIsavesDemocracy",
+      "author_id": "UChQQ6QnBlmonQ0lb53zWHGA",
+      "text": "Looks like ya finally graduated to the making faces for clicks YTubers. 😵‍💫😏😯😳😊",
+      "likes": 10,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RickySupriyadi",
+      "author_id": "UC4IMYlCVUMiOudhmRFGlQJQ",
+      "text": "isn't all human had \"agent\" lime inside their head?they chatting each other often, and the conscious one, the one which connected directly to the body and the physical world picking those chatter Collapsing that thought choosing that path into reality, well i don't mind we built AGI based on agents....\n\nOH WAIT A MINUTE\n\nHOW MANY TOKEN IT NEEDS TO ACOMPLISH A HUMAN TASK??",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "Like watching a bootleg movie.",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timealchemist7508",
+      "author_id": "UCtcGTchHw67EJr6ohaIW2Lg",
+      "text": "I don’t know if it’s the vocal fry or the unprepared casual tone, but this is very hard to listen to. And I am the biggest AI nerd in this comments section.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MathAtFA",
+      "author_id": "UCXLfiz3PK3WnmKrWSOYL18g",
+      "text": "Are there safety guardrails against piloting drone carrying an Ukraine-style bomb with this real-time API? If not, I guess we will soon see these things flying and killing...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wizardess",
+      "author_id": "UCpnFT-ZOnCSwuiSDDcyXnUw",
+      "text": "When is o sub n going to learn to prune its memories, sleep, and dream? When is it going to meet the world eye to eye with a fully mobile platform capable of perceiving the world and making changes to the world? I think that these models have no real notion of what the world is like. So when we see the podcast we are seeing a world that is pseudo-real reflected back at us from a mirror hat cannot truly distinguish real from fantasy exaggerated. An embodied O1 or o3 sitting in an airport boarding area observing life as it flows by is an o1 or o3 learning how to do real world. How do drinks fall when accidentally nudged with an elbow? How do travelers react to people blatantly boarding out of order? Then have it travel to a mall and stroll around observing the world, watching people watching it. The world is NOT the Internet.\n{^_^}",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RadiantNij",
+      "author_id": "UCEfRDnoqTQasBa-WhW2XxmQ",
+      "text": "Would we say JARVIS in ironman is AGI?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dsamh",
+      "author_id": "UCsSAk9rTpC9Q2Z1DSEeHwHg",
+      "text": "Dudes willing to pay $3.75 for a strawberry....",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jack-2day",
+      "author_id": "UCud8b3GJ8b_sgfMqwIUStHg",
+      "text": "Look, follow your gut instinct. What does Sam stand for?….",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jrabelo_",
+      "author_id": "UC4PwX8mjMy1ATlzIPjsTRPA",
+      "text": "jesus, the guy with the camera bouncing  is so annoying, why openai did not record the event?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Disent0101",
+      "author_id": "UCvFaZFeyG1AnW3A72P4SM7Q",
+      "text": "Historian will look back at this shaky cam footage and try to piece together the end of humanities legacy from the scattered remnants...They will possibly consider sending a time traveler back to stop it...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Disent0101",
+      "author_id": "UCvFaZFeyG1AnW3A72P4SM7Q",
+      "text": "Not enough time to use Ai to stabilize the footage?",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@denisblack9897",
+      "author_id": "UCdFWFMdVFFNhpwSaoeV0hbg",
+      "text": "The thing he said at the end… i can build that for iOS, but should i?\nBeing interested in this stuff, i still think machine intelligence is our downfall, guys\nKids these days already behave like monkeys, it will get much worse 100%",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JonDoe-Berlin",
+      "author_id": "UCKuHEg3S3uyjXnsmoc1HB3A",
+      "text": "Someone who wears sneakers without socks is not to be trusted",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sadfaceffs",
+      "author_id": "UCr6g6JRazvXR6PYhqk3YG9g",
+      "text": "so you are just uploading other peoples videos? what is this",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicheva417",
+      "author_id": "UCAxg2v125zNO65hHFgC25zg",
+      "text": "“Follow the science.” Where have I heard that before.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pahom2",
+      "author_id": "UC8AYAxWtsfGbOKh1evob7zw",
+      "text": "Can't wait when GPT take over Sam Altman and will speak for OpenAI themselves. I can't listen to Altman vocalfry croaking voice.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wonmoreminute",
+      "author_id": "UCekQYdFj3zNaR52M_04PGJw",
+      "text": "Wes, unless Kyle gave you permission, this is dirty. It’s great that you mentioned him, but you’ve pretty much ripped his entire video.",
+      "likes": 33,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@murrmurr765",
+      "author_id": "UCNQl7gS9OeP9te9zJryTLKw",
+      "text": "I sick of Sam Altman",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TripleD713",
+      "author_id": "UCIK2pxwes1GknH6SqUgxC2A",
+      "text": "@43:35, someone ask when will the model be able to sing...really all the challenges in this world and you want to focus on the model singing a song...really, these type of request are just ridiculous to me.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angrygreek1985",
+      "author_id": "UCyby-A13JJVMrmSsLAK-siA",
+      "text": "wes can you do a video on how LLMs are ACTUALLY trained? I feel like this is an overlooked, very nefarious and terrible aspect of these new AI models that not enough people are aware of or thinking about. From my understanding, these LLMs were/are trained essentially by slaves identifying things. This is terrible",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Appleloucious",
+      "author_id": "UCKe5QEIdKaL9UfmWSCvyhiQ",
+      "text": "Shacky cam footage and bad audio. It is not worth getting these news this way. Thx tho.\n\nOne Love!\n\nAlways forward, never ever backward!!  \n\n☀️☀️☀️\n💚💛❤️\n🙏🏿🙏🙏🏼",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daveb7122",
+      "author_id": "UC7M2Uq9BJNkhzDuRk92lJ8Q",
+      "text": "I can't stand listening to Sam. He never actually says anything...",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@augmentos",
+      "author_id": "UCSIFeP_r-zFKtX7LDFYtAWw",
+      "text": "he *sam, says the same shit over and over. Dull and boring to me. His dramatic pauses. Over it. Audience looked tiny. Outside the real time API it was a bore, maybe exciting to others which I respect. I watched at 3x and skipped every 20 secs. Use the API and really not compelled at all by this dev day. Also did the guy that film have 80 coffees? So shakey",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thomasrodda3677",
+      "author_id": "UC5-seUvenSMTbK62LqLdwMA",
+      "text": "Hey Wes, thanks for another lazy video where the majority of your content is just someone else's video!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sammcj2000",
+      "author_id": "UCzBy21ZB4d2pxV6czJLKUFA",
+      "text": "Sam is first and foremost a salesman, second a lobbyist for his corporate interests, third a capitalist, last a technologist and no where is he an advocate for open source/weight/society.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rockumk",
+      "author_id": "UC3zFCOXY04Ln_nzFvg9pP2g",
+      "text": "I was enjoying the Open AI Dev day presentation. However right as the strawberry order was wrapping up, V. P. Harris interrupted the presentation. It was an unpleasant surprise, but there was no way to immediately bypass the ad.\n\nShe continued saying the Walz Vs. Vance debate made it clear there were two different visions for the country. I was surprised to find I agreed with her, but I still wanted to press \"Skip.\" Then she said former President Trump was outspending her in battle ground states. I felt relieved to hear that. I paused for a bit before pressing the button and getting back to the strawberry order. Then she said the polls show the race is extremely close and that by pulling together we (she and those supporting her campaign) will win. My hand slowly moved the mouse away from the button and I began to feel very depressed.  Then she said, \"I'm counting on you!\" I drew a big sigh of relief knowing that if she was counting on me, she had no chance of winning. A smile returned to my face and happily pressed the button to return to Wes's video.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JaredFarrer",
+      "author_id": "UC6008kF-CIgFs-tVtWzFYDA",
+      "text": "Sam is a freaking doofus so hanging onto every word is not a prudent exercise. He’s just so full of it man. I never understood how people fall for this garbage. Where even is o1 so far we just have a preview model which is what exactly? Give us o1 proper",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@byronwellburn",
+      "author_id": "UCK2x4ZCJnatplvRyBLVG55g",
+      "text": "yeah another unsub",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maltar5210",
+      "author_id": "UC3IM4vAxUFyKQuAJ_BKE1KA",
+      "text": "for some reason Altman gives me bad vibes and he betrayed Elon, I think he's a snake.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Marcel-e8o",
+      "author_id": "UC_KHi4e2kA0AAocZIkJ1BZw",
+      "text": "He is lying",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": "❤️",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

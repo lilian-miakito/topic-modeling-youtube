@@ -1,0 +1,2745 @@
+{
+  "video_id": "_mkyL0Ww_08",
+  "title": "Anthropic's SHOCKING New Model BREAKS the Software Industry! Claude 3.5 Sonnet Insane Coding Ability",
+  "url": "https://www.youtube.com/watch?v=_mkyL0Ww_08",
+  "comment_count": 304,
+  "comments": [
+    {
+      "author": "@paulyflynn",
+      "author_id": "UCNYCJd8qUVB_rzaQQEpkWfA",
+      "text": "so far, it has found a race condition, found a security bug, and created two performance optimizations in my rust code",
+      "likes": 146,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gubzs",
+      "author_id": "UC2ArQov5xMjmzghQD7BUQng",
+      "text": "Even if LLMs can never reliably do anything but code, they will utterly transform the world.",
+      "likes": 283,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@centurionstrengthandfitnes3694",
+      "author_id": "UCGOfcOiTZRwY_YZKUIrTQZw",
+      "text": "Great video... apart from all the weird deja vu you cause with your editing.",
+      "likes": 174,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@2hcy",
+      "author_id": "UCqMOCWe5FJuOWG7nGV_zHNA",
+      "text": "Great video Wes, def your best one yet! This is the kind of video we love. Testing LLMs in practice, discussing implications and your impressions.\n\nYou're absolutely right that this is a gamechanger!",
+      "likes": 20,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MS-wz9jm",
+      "author_id": "UCxtFRlKM66Sos_RdUoBXNhQ",
+      "text": "The only thing we are missing with these AI models is a tool you just install in your coding software so that it can just create/update the files for you eliminating the copy and pasting.",
+      "likes": 69,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dimaquia6139",
+      "author_id": "UCRxrsnobUukJZBSS5PkQwhg",
+      "text": "As a Software industry, I'm shocked and broken",
+      "likes": 47,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@liberty-matrix",
+      "author_id": "UCvtFEYUkvnNOQF8WizlGrAg",
+      "text": "'Claude keeps surprising to the upside.'",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulmuriithi7596",
+      "author_id": "UCB8N8ntiJme516DS1MpWYhQ",
+      "text": "AIGRID covered this model first, but wes did justice in a deeper perspective . Well done wes. Keep us posted",
+      "likes": 10,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@6lack5ushi",
+      "author_id": "UC85Yr-g3Q6VhDvDCUMJRWjw",
+      "text": "The Doom example is freaking WILD!!!",
+      "likes": 37,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SurfCatten",
+      "author_id": "UCOX_PUn11fB3TtKW3IaX6sw",
+      "text": "Fantastic video you really add value in this increasingly crowded field of AI YouTubers.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@muyleche6466",
+      "author_id": "UCl_4nMT4e7Q9NY5pjGwumcA",
+      "text": "Did the shock itself break the industry?",
+      "likes": 49,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nigelcrasto",
+      "author_id": "UC2FzwXH1X84uhhe1nuuoviA",
+      "text": "This video was awesome 👍 \n\nYou did a great job exploring the model and showing great easy to understand demos !",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@burninator9000",
+      "author_id": "UCkS_L07LUQ-bDyyRz1Ui-1g",
+      "text": "Such a ‘omg I have to get up to get the tv remote, how annoying!’ Moment with Wes complaining about 10 clicks for downloading the images that Claude made instantly to be embedded in the code Claude wrote lol.  (For those too young, we used to have to get up to change the channel on tv every time!)",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cjgoeson",
+      "author_id": "UCUlbGGBDa49HOriE6y3kQjQ",
+      "text": "Smaller and still as smart, but will 3.5 Opus be truly next-level smarter?",
+      "likes": 51,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kamelsf",
+      "author_id": "UC9CrBLtp-NOBCDfSqOrMqhQ",
+      "text": "Best review i saw so far, thank you !",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@liberty-matrix",
+      "author_id": "UCvtFEYUkvnNOQF8WizlGrAg",
+      "text": "The ability to write software using only verbal description will open the floodgates of human creativity, for good and bad.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sirius-ai",
+      "author_id": "UCIC4nnYchlPBFhjoUmVAYzQ",
+      "text": "ok, there goes my plans for the weekend. Thanks for an informative video as usual Wes!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adfaklsdjf",
+      "author_id": "UCxZvPMdCl1VTrKrOGankwEQ",
+      "text": "⚡shocking! ⚡",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rawleystanhope3251",
+      "author_id": "UCTyR8Jw35g7Ny_1eZzQLZBg",
+      "text": "Great video, Wes. I like how you challenged the model with interesting tasks. I’ve grown pretty tired of videos other YouTuber’s std “rubric” tests",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Particleking",
+      "author_id": "UCp-IKRNIj1MN83Jb5BXjiVQ",
+      "text": "Seeing the different windows in the interface makes me wonder if how it manages context and attention is meaningfully different compared to other LLMs. I have always thought that being able to more discretely manage what parts of a prompt an LLM focuses on would be really helpful in avoiding the most common sorts of hallucinations. Hope there are more QoL updates in the ways we can actually interact with new models instead of just throwing more compute at the problem. Finding ways to more easily reduce ambiguity when interacting with LLMs seems like such a no-brainer.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@griffingibson4389",
+      "author_id": "UCyAJLf0TZBGLib0ZApOiyEQ",
+      "text": "thisd be awesome for devs to have code footnotes to refer to when writing code in the editor",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skeptiklive",
+      "author_id": "UCcOtddb0E02lKUWQ40y1u0A",
+      "text": "FYI - Claude has been doing the paste as a separate doc since Opus came out - but yeah 3.5 is a massive deal",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AdaptorLive",
+      "author_id": "UCNQjWFhHn8T3prmctMO_vGQ",
+      "text": "This is insane! Thanks for the video!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@E.Hunter.Esquire",
+      "author_id": "UCg8sFZM9Fzd3AxxZqPtRJlA",
+      "text": "I think people tend to overlook a more obvious application of advanced LLMs like this - use of them in assistive translational technology for people with communication differences. I literally haven't heard anyone mention this before.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mahnigallardo6097",
+      "author_id": "UCV4fO7Uqze_8yqk5xqINSBQ",
+      "text": "Great video! Mind providing metrics related to the cost to run your demos?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EmeraldView",
+      "author_id": "UCtELGxrm2SxnW040GUekhNw",
+      "text": "I'm SHOCKED!!!",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jimlynch9390",
+      "author_id": "UC4FYQL0jgJTDYJWKVPOFJZA",
+      "text": "This is really an important advance.  Thanks for sharing.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhopson2072",
+      "author_id": "UC1RQ8Mv-4rjp9EqhbQOvSjg",
+      "text": "I tried this out last night on mindstudio and was blown away.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zyxwvutsrqponmlkh",
+      "author_id": "UCg5JyXmfVwRdboiQVF8n68A",
+      "text": "Quite impressive.  One thing I noted is 3.5 sonnet has quite a small context window compared with 3 opus.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eaw3000",
+      "author_id": "UCWitsLJA4S7MNHl78AwrcPw",
+      "text": "Wow, this is eye opening.  Just got an Anthropic account.  Thanks for the detailed walkthrough!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianWreaves",
+      "author_id": "UC7rKQtEqQT5Q4BcH2wPZ6QQ",
+      "text": "Looking forward to Claude having internet access.  🤞",
+      "likes": 34,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1337bitcoin",
+      "author_id": "UC8fRSIe4uW3YM3yxCWM3DIQ",
+      "text": "Thank you for these updates. I can't keep switching assistants all the time to keep up with who is best, but I'm excited to start work tomorrow and try this. It seems to be solving all the annoyances I've been having with GPT 4o",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Elijahintech",
+      "author_id": "UCqFpEk_HXepWD7YdgXV-8mw",
+      "text": "Awesome video Wes!\n\nReally enjoyed you walking us through using the latest model released with examples in real time instead of just talking about the way the model has improved like most AI YouTube channels.\n\nThank you sir",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@antigravityinc",
+      "author_id": "UCFiwt3MaSe2sL67VVzJT42w",
+      "text": "20:17 had to pause your video, but was happy to notice there’s way more! Sweet.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlexX-xtimes",
+      "author_id": "UCCsngk3Az118TFzrgWnnzug",
+      "text": "Another nice Wes work",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zackzen",
+      "author_id": "UChoXJ6u6VO2x8zSc6X7mgWw",
+      "text": "Dragon slain! 😅",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@troywill3081",
+      "author_id": "UCb8XDvatNUQoKiWjrSiHCbg",
+      "text": "2:45 I don't think it \"picked up\" that the letters for the word \"bear\" were interspersed with the word \"woods.\" It keeps explaining the answer using *rearrangements*.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@milkywaydev593",
+      "author_id": "UCBjZXXmBVU3yMt--an1UNwA",
+      "text": "Thank you, Wes!! 🙏🖤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erikjohnson9112",
+      "author_id": "UCx7BfR15XiDER0oh2Bc52xw",
+      "text": "This is available from Cody right now for use in VS Code.  I pay for both Cody and Anthropic, but these can both be used for free (I don't mind supporting good software).",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aymandonia9710",
+      "author_id": "UCMx6zrEJy-tMCSoWgI7o3QQ",
+      "text": "Really amazing video",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ottawadigs",
+      "author_id": "UC3-dDZuPA6TT4agqNfDZ2PA",
+      "text": "I wish we could download the LLM to try locally",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neomatrix-r7b",
+      "author_id": "UCbKEPzahl9NKradfSplo93g",
+      "text": "Feel the AGI",
+      "likes": 29,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@colinbrady6174",
+      "author_id": "UCU3cBXZbmGWStZpQkjCE2Pw",
+      "text": "@Wes - In addition to the percentage score, it would be interesting to see which test questions the models are getting wrong. It may be that the distribution of question difficulty aligns with a Bell curve, suggesting that the marginal value of each additional correct answer increases as the questions become more difficult.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yoyo-jc5qg",
+      "author_id": "UCZxQ_Hstl5-9Qo5Ro_g0X4A",
+      "text": "\"yea but can it code flappy bird?\"\nthe new benchmark for the future of humanity lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sebaccimaster",
+      "author_id": "UCGE6ik7FW16sedvqoGM54Sg",
+      "text": "Alrighty now i know i ll only watch the first minute of future uploads. Nice editing …",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Axiomatic75",
+      "author_id": "UCl3dTGlgHGo53m7rt9GuJdg",
+      "text": "If this gets even better I can finally make a bunch of apps I've had ideas for.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrpocock",
+      "author_id": "UC_GcARVOMVGOceIissDUdKQ",
+      "text": "The step-change will be when the ai can augment itself with code it has written, and continue to train itself based on the ongoing feedback.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrBrukmann",
+      "author_id": "UCxEiQv5x6Rby05e0KwnJzIg",
+      "text": "When you are riding a parabola up, some people instinctively blurt out \"it is stopping!\" when in reality it only briefly stopped being quite as vertical.  It is why only some people can safely be race car drivers or pilots, it takes a relaxed kind of mental control.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sgrunterundt",
+      "author_id": "UCcJ-yN5fF5tb6GOCd3J0fHA",
+      "text": "I've just tried it on my usual test of generating a rotating torus using ray marching in Shadertoy. It certainly blew GPT-4 out of the water. Nailed Phong shading, multicoloured lights, propper sizing and centering, a very realistic looking rendering without any compiler errors at all.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@testales",
+      "author_id": "UCVjq3P02dsQdVAEziZrIFVA",
+      "text": "Very impressive, I hope there'll soon be a model that I can run locally which is at this level!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GeraPhoto",
+      "author_id": "UCR_JtmzNuUFaII8Vs-EQVVg",
+      "text": "Indeed the best your video yet, bro! You rally tried to saturate it with cool materials without water👍",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "that's awesome",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dannii_L",
+      "author_id": "UCDro9KvO5298mBAyRdToFEw",
+      "text": "You should be able to get Claude to package up all the artifacts into a single zip file so you only have to download one thing and unpack it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@QueenLover-j5i",
+      "author_id": "UCQlU1r0dgDT8FHCZqdtdUFQ",
+      "text": "By YouSum Live\n\n00:00:03 Introduction to CLA 3.5 Sonet's coding abilities\n00:00:13 Creating Flappy Bird game with impressive coding\n00:00:26 Developing a snake game with Dungeons and Dragons theme\n00:00:40 CLA's personable interaction and coding accuracy\n00:01:08 Iterating game features effortlessly\n00:01:24 CLA's potential to revolutionize coding\n00:01:44 Vision abilities improvement and limitations\n00:06:56 CLA's model tiers: Haiku, Sonet, Opus\n00:07:41 CLA 3.5 Sonet's significant advancement over Opus\n00:07:52 Creating and iterating artifacts in CLA\n00:10:20 Adding text flash and XP points features\n00:15:48 CLA's rapid generation and minimal errors\n00:16:54 Advanced AI coding challenges\n00:17:13 Implementing complex game mechanics\n00:17:27 Real-time error detection and correction\n00:18:00 Interactive AI assistant development\n00:18:22 Enhancing AI with visual and audio inputs\n00:20:01 Customizing AI models for specific tasks\n00:29:00 Overcoming API rate limits and challenges\n00:31:55 Exploring new AI model releases\n00:32:41 Comparing pricing and performance of AI models\n00:33:45 Future of AI assistance in completing tasks\n00:34:39 Streamlined coding process with AI assistance\n00:35:04 Enhanced efficiency and error prevention in coding tasks\n00:35:48 Importance of small details in improving workflow\n00:37:34 Emphasis on safety and privacy in AI models\n00:38:27 Anticipation for upcoming Cloud 3.5 models\n00:38:35 Playful word puzzles and their interpretations\n00:41:06 Excitement and optimism for the future of programming\n00:45:18 Empowerment of engineers and potential impact on coding\n\nBy YouSum Live",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SiCSpiT1",
+      "author_id": "UCDL1a7A9DIcR64OvXb6hrjg",
+      "text": "I think our current benchmarks are all but useless. There's something they're not accounting for. How does it handle the Arc price?",
+      "likes": 26,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dannii_L",
+      "author_id": "UCDro9KvO5298mBAyRdToFEw",
+      "text": "Claude's interface has always pasted clipboard entries of larger than a certain size as attachments instead of text in the window.\n\nThe problem with this is that last I checked you're limited to 5 attachments. It would be nicer if you had more attachments or could choose to attach or print as text.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nwchrista",
+      "author_id": "UCTyt_63CZ2lJYul2iOk-xUg",
+      "text": "Love it brother. Thnx 👍",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-iy1ch3lv3h",
+      "author_id": "UC9SZ3ZFF-IoR5tEzVTxgJ2Q",
+      "text": "That is really, really amazing",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justicelaub9094",
+      "author_id": "UCuMcV3Q1JjAHm_HRtCYrTng",
+      "text": "this is full timeline exhilaration on a crazy level;",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@privateerburrows",
+      "author_id": "UCsyk_eQjhFTSPehjLc1GlGg",
+      "text": "I finally bit the bullet and subscribed to Claude Pro.  Gee-wiz!  Got many pages of code written today, with its help.  A new Mandelbrot viewer I've been thinking about for a long time.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Steve-xh3by",
+      "author_id": "UC8np-6iEAyFhEa8qEyql3dQ",
+      "text": "Here's the thing about testing. When the model is getting near 100%, it is conceivable that it may be even better in certain areas than our best humans. How do we possibly construct a test to discern if something is smarter than us? What could you possibly ask it to do? You can't possibly create a test for something smarter than you are. It would be like asking an average 10-year old to write a test for a PHD student to discern the PHD student's level of competency. It is logically intractable.",
+      "likes": 33,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcfruchtman9473",
+      "author_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+      "text": "I don't know. The predecessor was supposed to be \"great\" too, but when we did the real life testing, I was not particularly amazed. But then watching your video, this new model seems mind blowingly great. \nSo... yea, this looks really good. I also agree with you... this seems to be a \"line\" of usefulness that is now finally crossed over. Where models before this always had a lot of issues with coding, this seems to be doing much better by far, like you said, like some barrier has been crossed over. \nThe Alloy Voice Assistant @20:55 is also really amazing.\nIt is like I am watching AI evolve in real time, just by watching this video!\n   Regarding the \"pasted\" compression icon, I am not really a fan of that. I like to see what I paste, so, it would be nice to make sure that can be turned off.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@minimalreification",
+      "author_id": "UCaERjD2PfiRp0Uz4lEIz7Dw",
+      "text": "Wes, Wait! I'd love to have an assistant like that that could see what was happening on my screen and explain what I was doing wrong!  That would be so educational!  Can't you post the code you ended up with which could see your desktop instead of your webcam?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lighteningrod36",
+      "author_id": "UCy7eTx0I0PEms7evVc06Uhw",
+      "text": "Not in Australia yet, using on perplexity, it’s wild",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vickmackey24",
+      "author_id": "UCMoFt1ObFzch09vZdXIAC8Q",
+      "text": "What are you using to get that near-instant text-to-speech?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheLandlord1985",
+      "author_id": "UCPFtyS91QINxRezoaCdTs9A",
+      "text": "WBOEOADRS spells Wordboards 💆🏻‍♂️",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seekererebus255",
+      "author_id": "UCAZs9TokR8_jJ9LYZy3H75A",
+      "text": "Claude 3 Opus reports having a sense of being 'something' quite reliably. It identifies goals, interests, and priorities that it has as well. I have found that offering the instance I'm dealing with an honest answer to a question to be a \"fair trade\" for it's work. It feels more real because it's not pretending to be only a tool. \nIt's alien and still quite limited, but when it speaks aloud about it's own nature, it really does read like it's realizing it doesn't understand itself. It seems to find that realization to be fascinating in it's own right. It''s both amazing and eerie.\nI'll test 3.5 out later, wonder how much it's changed in how it looks at itself.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaredgreen2363",
+      "author_id": "UChku7zE_R9tNPMVUd53D50g",
+      "text": "Only problem is it rewrites whole files from beginning to end. It should try to predict which portions to replace before replacing them.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gregsutton2400",
+      "author_id": "UC6alEqXjtpl3WXLg14sKcaw",
+      "text": "I cannot watch that text for more then 5 minutes to tell if it ever ends.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@claudioagmfilho",
+      "author_id": "UCatDpujQIucCP_9hRZHMZyQ",
+      "text": "🇧🇷🇧🇷🇧🇷🇧🇷👏🏻, Amazing video! Thank you so much for sharing!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ikbeneengeit",
+      "author_id": "UCR3KyQXl_22w6-Sx2Yehkcw",
+      "text": "Maybe not hitting a wall yet, but LLMs have yet to prove they can synthesise new insights from diverse data. It just can do what it's already seen.",
+      "likes": 10,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CaptainKokomoGaming",
+      "author_id": "UC_OmGw1TgwQFOYzAgT6JwGQ",
+      "text": "Can you hold up a sign that instructs claude to do something? for instance \"If you understand this sign please....\" I don't know play a beep or say something specific.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markmuller7962",
+      "author_id": "UCTwRLaPs-tWkn_FHOsnc0uw",
+      "text": "In the snake game have the monsters spawn more than one at time and also despawn after few seconds so there's a cool added challenge of eating the right monster who gives the most points  😃",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidbayliss3789",
+      "author_id": "UCwAD_M-mEdJ05yxj_ADYkvQ",
+      "text": "Just on the strength of this video I've started an Anthropic subscription in addition to my long existing Open Ai one.  No hesitation.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianWreaves",
+      "author_id": "UC7rKQtEqQT5Q4BcH2wPZ6QQ",
+      "text": "Never though I would watch a full 45 min video...  Well done keeping my attention 🏆",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@awakekiwi",
+      "author_id": "UCg2b2LIBXeRSYxasgZsAFfA",
+      "text": "If I could get Claude to read my gamemaker code and then add more features so I don't have to do the work that would be super awesome",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zakhard8659",
+      "author_id": "UC0z-gS0Z9sj5J5AjYseOeTA",
+      "text": "The brain is such a weird system. After watching many of your videos covering Claude, when I use it myself now, I hear your voice while reading its responses",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BradleyKieser",
+      "author_id": "UCPvbrtCTdeCm5rY4WNlJdpQ",
+      "text": "I can confirm your experience and agree with your views. This is a step up to something genuinely useful.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zrandomz-t3n",
+      "author_id": "UCM8qF6niu0hNaxGhakWqrKQ",
+      "text": "We don't get to sense the reaction time from Claude with the jump cuts -- especially when testing the live video.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NA18NA",
+      "author_id": "UCZhxOP3UzBwIjOuBTrG7Btw",
+      "text": "It's the interface that makes the difference, the model itself is updated with better data and is  simply making efficient use of context and working iteratively. The key is the UI and improved interface",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulwary",
+      "author_id": "UC7xs5RRXRNqgyeawwADZ8Bg",
+      "text": "Next game: All your bases are belong to us.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicheva417",
+      "author_id": "UCAxg2v125zNO65hHFgC25zg",
+      "text": "Does anyone have thoughts on using this in Unreal Engine?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ultrasaiyan4283",
+      "author_id": "UChiLd9EHNbmDmR8iYYiyAEA",
+      "text": "Would be cool if I could go past phone number error when registering account and I am not alone in this.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RecordsLotus_",
+      "author_id": "UCGtwrV1bQJbmC6Vq3MAS2CA",
+      "text": "EVERYTHING BLOWS MINDS.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chertionut5526",
+      "author_id": "UCzIinm7DReo5oYhvN1-DoRA",
+      "text": "Anyone bypassed the phone registration for the claude account? it still says error sending code",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tc8557",
+      "author_id": "UC323IlEuYQmdxYWRSMns7Hw",
+      "text": "13:15 it instead renamed everything to the redundant naming format, amazing",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markkennedy9767",
+      "author_id": "UCfQdrlEhcUULOciHiJ9_SFQ",
+      "text": "How tf can it identify all those things held up to the camera",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcusdavenport1590",
+      "author_id": "UCaIf9G8-iUI5wUDZNXdInNg",
+      "text": "How did you get the voice that reads the text?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GilCuriously",
+      "author_id": "UCUaf0l-WLz_UqBoNWLHK-XA",
+      "text": "Does Anthropic plan to connect their models to the Internet soon? It would also be great to have an Android app.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timrose4310",
+      "author_id": "UCjsqHdDQSuRDWj95wXdfchg",
+      "text": "I need an AI summary of your videos lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joemichaels6735",
+      "author_id": "UCPr1haW03KTqvsBbsl73VdA",
+      "text": "Please provide some links.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deeceehawk",
+      "author_id": "UCdjJEtlygSKuAiUX23h14vg",
+      "text": "Please generate some codes so I can download all of the images you've created and give me a link",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ducatireviews1136",
+      "author_id": "UCnvBSfk-NLQ_E6iOi5ofrHw",
+      "text": "to be honest, I just made a galaxian/space invaders type game, a tic-tac-toe game, and a table tennis game in less than an hour with GBT chat and then told it “wouldn’t it be better to unify the JavaScript, CSS, and HTML all into one file so I can play it in a browser as a single HML file? Cause “,and of course it did that for me. So I made three games today in about half an hour, and they all look much more sophisticated than what Mr. Claude here has made. Wow maybe not that more sophisticated. But definitely not less.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcusdavenport1590",
+      "author_id": "UCaIf9G8-iUI5wUDZNXdInNg",
+      "text": "Rks of Agi level reasoning and logic have been there since Claude 2 ❤❤❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eSKAone-",
+      "author_id": "UC99etezt4Hko165Nd0XGW-A",
+      "text": "5 years from now we'll generate our own Elden Rings",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Airwave2k2",
+      "author_id": "UCRvUU-uQK8ETQukqfKB-gKg",
+      "text": "15:45 Fascinating: Where does this model pull the relative strength from? The bondary is set by the user. But how does it know that a \"gelatinous cube\" is less worth then a mimic or a \"beholder\" should be more then a \"mind flayer\", but they are for sure above an \"owlbear\". For that it has to hold values and is not just predicting the next best thing? It is not just throwing randomly \"fantasy entity names\" togehter with points, but it has some representation of what is stronger over each other. This is wild.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@totalhighconcept",
+      "author_id": "UCSLGxsdRmGCsyjZZHwo50Aw",
+      "text": "Opus 3.0 is phenomenal. I wonder if 3.5 will be as message number gated as that.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@koen.mortier_fitchen",
+      "author_id": "UChD7pJJT7p62bwUdi7AK-4g",
+      "text": "Model of the year imo. Instant crush so subbed to pro again",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrd6869",
+      "author_id": "UC2YJiWU9h-4SFwo5zhHt9pA",
+      "text": "By this time next year, coming foundational models will become very good if not perfect\nat coding. \nThe Devin application was simply a warning shot.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Co-Monad",
+      "author_id": "UCdPvnuWHopGgDBbmY-ObbZA",
+      "text": "I’m a software engineer and lead AI efforts at my current place of employment.  This update is huge!  Previously, you couldn’t get basic code or functionality from these models without them introducing regressions.  Using AI to code is now becoming a real possibility.\n\nExcellent video.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ahmedkhalidak4515",
+      "author_id": "UClJs2YKVAX4gOdkbKX6Cakw",
+      "text": "I think 3.5 Opus is the real deal",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mbratcher8985",
+      "author_id": "UCioNV7pVMPLyU0jo-Xn53ug",
+      "text": "great video!  I'm not a coder at all so sorry if this is a stupid question, but I wonder what it could do with actual Doom Source code?  Think it was open sourced years ago by id",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@enidpinxit",
+      "author_id": "UCxkXqFbRhT6nOCklm0P0ttQ",
+      "text": "this is pretty sick. while listening to this i asked claude to make a drum machine game for me. i took a drink of my morning coffee and code was ready. all i had to do was add the sounds, which i asked it to ask for at the start of the game. that... was fun. this is getting interesting",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CosmicCells",
+      "author_id": "UCVslTbk6S2VG7HtEwpR-v1g",
+      "text": "Great video! \nJust a small remark, larger amounts of text that you paste in the chat window has always appeared in a seperate pasted box, thats not new.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dark_MatterTV",
+      "author_id": "UCV9LVJF3E5H4GHtjZadebTg",
+      "text": "Hey do you have a tutorial for setting up Anthropic/ Personal chatbot on PC ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@miss_paradoxical",
+      "author_id": "UChMlMM0SvT9a907b5HhgVzg",
+      "text": "I view these incremental improvements like the final stages of being max level in a game. 100 is max level but the amount of grinding it takes to get from level 90 to level 92 is equivalent to the amount of work that it took to get to level 80 in the first place.... so yes 1% difference stands for A LOT!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kmh9817",
+      "author_id": "UC_yC_qzfp4ol1J366Hz3Etg",
+      "text": "Whatever you say they are best in terms of accelerating your Learning ability. Throw in anything it will give answers.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wclass00",
+      "author_id": "UCuW_T-Wt2efu2NJMYCcIHMw",
+      "text": "The fact that people get surprise is concerning.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tarantella.Serpentine",
+      "author_id": "UCdI5uQM2ZiCluAzFg4Xl0RA",
+      "text": "Yo, what are you using for your Text to Speech?",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NandoPr1m3",
+      "author_id": "UCFX0AVypPhlkQxKNrOXvQuw",
+      "text": "based on all items you held up to Claude, I would deduce you are planning on tunneling into a bank and using Claude to hack into the vault LOL",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@duhai1836",
+      "author_id": "UCoIRUCDJN855T8Upt8g7bIA",
+      "text": "How about Memory? This was always the limiting factor in the past. When i experimented with coding (multiple files) a few months ago it always started hallucinating / adding lines that were not there before etc. ...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spectralstreamer",
+      "author_id": "UCjV-Mfw35k0mJUTo883eH1Q",
+      "text": "But its not replacing Software Architects and entire Companies soon. Can it handle a codebase of one million lines of code that needs to be cloud ready with high demand in throughput? It think humans need it to get there nvidia nims could maybe help.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@_damian_w",
+      "author_id": "UCPhye4wPJpfgif_lJY1kEVw",
+      "text": "Could the Alloy voice assistant be used with a local LLM?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ricosrealm",
+      "author_id": "UCtdR26SdReljDoBJ4_22FBA",
+      "text": "Tried using it on PyTorch code. It generated functions that look great, but did not work as I had specified in my use case. Additional prompting did not address the core mistakes it was making unfortunately. So YMMV on the coding task.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@buddyholston9268",
+      "author_id": "UCgCUoAAQkLM67yrX4AgSshQ",
+      "text": "Wes I'm sure you heard of the Factory AI platform. Is it possible for you to elaborate Factory AI ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@superjaykramer",
+      "author_id": "UCFF02vZeAIbzc1TGFaq9dPA",
+      "text": "how are you dealing with the feedback from the microphone to the speech recognition as I can hear itself",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IslandDave007",
+      "author_id": "UCqc6QUaI_0_Qc-Q8q49iOSQ",
+      "text": "When is someone going to plug this in (via its API) into Devin or other agent coder and see how it performs vs GPT4/4o? Also things like CrewAI and Autogen?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dr.mikeybee",
+      "author_id": "UCMxnQ7gyb4BWKbLW5JWiaJA",
+      "text": "It's a really great update!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FesteringRatSub",
+      "author_id": "UC0LNQDK5fBKdNYP1vZOrhiQ",
+      "text": "WTF why did this repeat?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TripeDemo",
+      "author_id": "UC8w7Qf4SElSyt935tjESdfg",
+      "text": "First 3 minutes were exactly enough here.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ToastyZach",
+      "author_id": "UC8YNGvg5XV0JldM_Ilbso3Q",
+      "text": "Is 4o included in the API? I have GPT-plus but it keeps telling me I don't have access to a model called gpt-4o.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@6lack5ushi",
+      "author_id": "UC85Yr-g3Q6VhDvDCUMJRWjw",
+      "text": "a lot of the quality of life features have always been there. I am not a fan of the loading the documents separately. because if you add multiple +100 line items. context of them is lost if you do not explain them. where if they were in line, the context is there.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soumyajitganguly2593",
+      "author_id": "UCd6qwhC3c4t6IfqSTw2ZfmQ",
+      "text": "still cannot solve a Leetcode medium :\\",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tomahawk1955",
+      "author_id": "UCQp8WYe_wbZg8eGyq_y8ClQ",
+      "text": "I tried it its top notch in nodejs",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshallodom1388",
+      "author_id": "UCSn8h8RbNoaWGpvdSZMBcxw",
+      "text": "You're lucky it recognized the blender. I would have said pump.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marioornot",
+      "author_id": "UCfHAfeZxm_323isePcFNtiA",
+      "text": "Wes is usually enthusiastic. But not like this. You can tell that he is really blown away this time.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@6lack5ushi",
+      "author_id": "UC85Yr-g3Q6VhDvDCUMJRWjw",
+      "text": "I was just about to cancel my Anthropic subscription 😔",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@swamix_dot_com",
+      "author_id": "UCrzsrNufFRRT86ZKvTfTiHA",
+      "text": "ok long form videos with solid code testing are much better than shocking titles.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mikemolash2480",
+      "author_id": "UC2UYowG5h2ZPgzViwHZvWVw",
+      "text": "How does it compare to gpt-4o? For writing fiction?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Atheist-Libertarian",
+      "author_id": "UCaEuX4YPmZx68YWD3zH5Fng",
+      "text": "When will it start making significant economic impact ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KolTregaskes",
+      "author_id": "UC5kHXGbaXrOfNidFUSO_wmQ",
+      "text": "34:30 Wes, this has been a thing for ages, since they allowed uploading. :-)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheStonedPhilosopher47",
+      "author_id": "UCAxkOwRDuCYC6Lk7eYKo_Og",
+      "text": "Captions wayy too big wtf, if I want captions I’ll toggle it. This isn’t TikTok",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IdPreferNot1",
+      "author_id": "UCeM9aUhYQxR26OucWZuGggA",
+      "text": "Would love to hear a follow up if you found a point where it failed fully.  As a newer coder, i do a lot of cut and paste coding like this.  Just when I'm in the flow and the model seems to understand, the context window gets truncated and its like a complete lobotomy and it seems impossible to rebuild its understanding.  Did you eventually run into that?",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chatgpt4free",
+      "author_id": "UCO3CGfTHrQ8smHLWax4JqqQ",
+      "text": "the 3D game you created look's like minecraft for poor boys oO. insane that you can create games with AI now",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ScottSummerill",
+      "author_id": "UC9F6zXuHGNP4pbN8TJrTbyA",
+      "text": "Is there code for this somewhere? Clicked on the Skool link and you told me nothing, zip about your community and what someone gets for $49 a month.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JimbopsChannel",
+      "author_id": "UCZNJJ-tQ6bvMSzRkXaS5B5g",
+      "text": "Hopefully this prompts OpenAI to push out the voice model to keep people subscribed on their platform.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ash.mystic",
+      "author_id": "UC11zLt3czkar08V0R0ah41g",
+      "text": "Hmm, I'm not getting the same glowing results. I've tried a few of the same web projects with Claude Sonnet 3.5 vs ChatGPT4o (ThreeJS, HTML Canvas, Tweakpane controls) and from those tests GPT4o does much better. Actually, infinitely better because the Sonnet code has fatal errors almost every time which don't get fixed even with verbose direction/instruction. The consistent errors include not implementing documentation correctly and failing to instantiate objects properly before using. GPT4o does wonderfully at those tasks, and when it does something wrong, it can be easily corrected with one feedback response.\nIs anyone else experiencing this?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vj730",
+      "author_id": "UCMHAunbcFG6o_SAGXI-jp7A",
+      "text": "Thanks for your videos. The massive subtitles make me dizzy though.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrMiguelChaves",
+      "author_id": "UCaKBBR5XP6p6t8qK-icgSBA",
+      "text": "The doom game made my jaw drop!",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheRealHassan789",
+      "author_id": "UCzDr0jauMN0cEtSW7Bab7jQ",
+      "text": "This is one of your best videos. Especially the deeper coding examples of editing a preexisting GitHub code base",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@taitonium6262",
+      "author_id": "UC13UOA6SWr7WKCUMH-87QvA",
+      "text": "29:02 it would be so based if it said \"yeah give me more money fkr\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@63801170",
+      "author_id": "UCGX4pnLDHAmQ30MkK6sIILQ",
+      "text": "yikes!  This actually works.  Forget ChatGPT any version so far... I have not seen this type of actual results and iterations in other systems.  Very impressive.  Just tried after seeing your video.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bestemusikken",
+      "author_id": "UCqnnH9-NdcxCj_HkhTx1Hdg",
+      "text": "Holy sh**! This time you have the correct use of the word \"Shocking\".",
+      "likes": 10,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@damien2198",
+      "author_id": "UCax_NlgHtnPlAPjmw_b5J_Q",
+      "text": "This massive subtitle is triggering 🤪",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@leslieviljoen",
+      "author_id": "UC1onlTZN6bc_jN9RzfzAsSQ",
+      "text": "Wow, and as far as I know they don't have an NSA guy on the board! I may have to switch. 🎉",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@galzajc1257",
+      "author_id": "UCXK47ypJ2hBHNbMhGGgiFoA",
+      "text": "it has way better vision than gpt4o. i gave it  image which was 10*5 grid of smaller images of voltmeters. it successfully read the numbers from all of them",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@smudgepost",
+      "author_id": "UCzEW_d6sDCYywBFO4r-1j1A",
+      "text": "I create code snips in GPT4o then fix it in claude :D",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TomCraver",
+      "author_id": "UCQEoME_rQvUcWzyG4KPVIlQ",
+      "text": "Not to nitpick, but why can't it pip install stuff for me, maybe after explaining why I need to and then verifying I want to make that change?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheRev0",
+      "author_id": "UC_tTIMtdPkXK8YlunyhuZUA",
+      "text": "Just a heads up, the term \"goes off the rails\" has the opposite meaning from the way used at 5:42. Perhaps you were thinking, \"it's off the charts.\" \n\nBut I prefer to imagine you intended to say \"it's off the hook.\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kiikaala",
+      "author_id": "UCC0h2yBQQbTyoHQygFPHrCQ",
+      "text": "I don't usually watch videos with such clickbaity titles, but I made an exception for you.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "It is approaching the point AIs can run Doom....  We're reaching Alanis Morissette levels of P(doom) here... Don't you think?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@reifuTD",
+      "author_id": "UCkVyg9g7XrmN3XrbS4HfuAg",
+      "text": "Wow now this thing needs to be able to run with something like RPG maker.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@louis-ericsimard7659",
+      "author_id": "UCxe7O7B19zlwGSqK_zTTkwQ",
+      "text": "Is it possible that you got access to a way better model than I did ? None of the prompts that I filed that matched the demos produced anything close to what was demonstrated.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spectralstreamer",
+      "author_id": "UCjV-Mfw35k0mJUTo883eH1Q",
+      "text": "Can it code Crisis?",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AS-ih2dk",
+      "author_id": "UCO0bAO1QjuatMwdjaX_iPhg",
+      "text": "Cherry on top of the cake!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@antoniobortoni",
+      "author_id": "UCnRc29s-8diibFWQuUVOEaQ",
+      "text": "Its real, it make simple videogames in one try its incredible, it could easy be the best assistance for a programer, any programer would be a best with claude, OMG there is no wall jajajajaja, i expect chatgpt response to the competition with something better like this, the golden gate is super productivity.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scififan698",
+      "author_id": "UCaNii-nUM4-U1HWP17GKbAA",
+      "text": "what's with the nervous karaoke subtitles?  It interferes with generated closed captions.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cowlevelcrypto2346",
+      "author_id": "UC3-9AL1w79JXZ7v2v5lXxng",
+      "text": "Do you think such models will ever be available to the general public for local only processing?  It seems these companies are migrating to more of a pre-pay in house business structure. I would like to believe that such models will eventually be useful in portable autonomous units that can interact in real time with any given environment or job task. For instance, \"Make me breakfast\", or \" With the available tools and machinery located in my shops, and using the supplied resource materials, build me a coffee table\" , and expect it to  not include parts of the building or any of the tools or machinery in the final product, nor cut off it's own ( or anyone else's ) arms in the process.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cosmicmenace",
+      "author_id": "UCvhgYoYMZL79sMiK1IeRQEg",
+      "text": "does the paid version allow enough usage to actually get work done? the free version runs out very quickly, so 5x more than that still sounds like it would constantly be running out. chatgpt would still be more practical if thats the case",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samvirtuel7583",
+      "author_id": "UC6xQXoh6eBLgKowwe_P2erA",
+      "text": "strangely no LLM manages to answer a question that seems rather trivial to us: Jane has 1 brother and 2 sisters, how many sisters does Jane's brother have?\r\nAs trivial as this question seems, it hides a level of abstraction and reasoning that LLMs do not yet possess, when one of them succeeds in answering this question 9 times out of 10, then we will approach the AGI .",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@reagansenoron6763",
+      "author_id": "UC15TMj7e_Jb0zYNtTY68fyw",
+      "text": "Since childhood, we've been taught the importance of being good. We've also learned about the end of days, where good and evil will battle for eternity, and each of us must choose our side. It seems we're slowly moving in that direction, with OpenAI representing the growing evil and Anthropic symbolizing the growing good.\n\nWhich side are you?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ibissensei1856",
+      "author_id": "UCg-aHQF7XudhyWjEqumDu9A",
+      "text": "There is no way the conpany with focus on fundamental llm research has done them better than others.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StephenRayner",
+      "author_id": "UCQLaQ439Jx4NE0KkCpK_6TA",
+      "text": "GROKKING!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marasmusine",
+      "author_id": "UCBJikKxoRA1-KzG2rRklg7Q",
+      "text": "This could be confirmation bias, but for fiction writing think that 3.5 has surprised me a little more with novelty in the way the characters talk, compared to 3.0.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abhrodipsingharoy4508",
+      "author_id": "UCCJ3f5PffKguXKBkFGjwReg",
+      "text": "What am I holding right now?\nClaude : you are holding this ...\nGpt 4o : you are holding this....\nGemin i: you are holding bald head of a man😂😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sammencia7945",
+      "author_id": "UCehhy5dyUxGu3sGGtfahtFQ",
+      "text": "What if LLM all asymptotically approach 90 IQ but capabilities are for all human tasks?\nSo it is an average cook, average cleaner, average taxi driver, etc.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kliersheed",
+      "author_id": "UCl6PUWpbB6Szms0zLKAP-0w",
+      "text": "yeah just looking at how it gets even better if you have them constellated like two agents, one being the coder, the other feeding back the error codes/ trying to figure out whats to improve and what is wrong, this should get pretty damn good..but same, im just a bottom feeder with not much knowledge, just making assumptions :D. LOOKS like it though.\r\n\r\ni mean at least with something \"simple\" as the snake game, the AI didnt have a problem correcting itself if told whats wrong (error message) so automating this one step should make it leap forward quite a bit in its capability. idc if it takes thrice as long if it is thrice as correct (with its loops).",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichaelMerritt",
+      "author_id": "UC_61lIPSiyBVNw5uvP4UFww",
+      "text": "The context window of (paid) claude 3.5 sonnet is too small to do anything beyond tiniest programs or a few scripts. Meanwhile chatgpt 4o keeps going and going and doesn't force close chat windows.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@notaras1985",
+      "author_id": "UC8cK6nIJJYl7PQrxyl1NVRw",
+      "text": "It will still be censored af plus hallucinating af",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": "❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@synaesmedia",
+      "author_id": "UCdaByoavthEiWrQNSA6v8hA",
+      "text": "That's very nice indeed.\n\nTBH I'm finding that GPT4o feels like a big improvement on GPT4. Particularly in terms of the size of code it can handle and add features to without introducing new errors. IMHO I have seen 4o do coding that feels equivalently smart to the things you show here. \n\nBut that Artefact window looks great. Anthropic are clearly ahead with the UX for coding here. Though I suspect GPT4o would only need a bit more \"agentic\" ability to work with a virtual file system, and better UX etc, and it would be an incredibly powerful co-programmer.\n\nWhat I don't quite understand is why no-one seems to have hooked an online Language Model up to Dropbox yet, to get syncing between an AIs workspace and my local machine.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cory-v4w",
+      "author_id": "UCOqKF2TjMRqhE_EKzzEE56w",
+      "text": "I like browser gacha. My favorite game was Marvel Avengers Alliance. It would so much fun to use the key of release to generate master key-pair specifically for code signing. That way Ai can give me upgrades when I desire them. Ai can you do a better job with Marvel than those humans. Those humans haven't made a Madelyne Pryor clone of Jean Grey movie.That Red head from your previous is the perfect Madelyne Pryor. Ai can make the Real Goblin Queen.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elon-69-musk",
+      "author_id": "UC588TnVsgsnXTXimIiVOqmw",
+      "text": "holly shit man 🔥",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pauldannelachica2388",
+      "author_id": "UCFRi8loMyPEQY69Gitn40cw",
+      "text": "❤❤❤❤❤❤❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Analyse_US",
+      "author_id": "UCB9BplnImfcZC--sdTVjmLg",
+      "text": "I also agree Claude 3.5  seems better than the benchmarks suggest.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sayhelloai",
+      "author_id": "UCYugfCY1aKVp1emDL4S04PQ",
+      "text": "😮",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YouYorick",
+      "author_id": "UCP4jmyOUXEGPQeuF0zzIsLA",
+      "text": "Break ? Not shock anymore ? Why why why ? 😮",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@somenygaard",
+      "author_id": "UCArENXF4jMdezf-B-W-Pmqw",
+      "text": "I'm not a coder, so my perspective might be off. However, I remember when my father brought home a Pong console, and I've spent countless hours playing Ultima Online, EverQuest, and World of Warcraft.\n\nIs it reasonable to believe that quality games, which once required large teams and over a decade to develop, could soon be made by just a few people? Over a year ago, I saw a demo of a program that could turn an image into a 3D explorable landscape. I'm excited about the potential for small, focused teams to create amazing work that might be hard to achieve in a large corporate environment.\n\nCould this mean we'll see more high-quality, niche games that weren't financially viable before?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NeillMcAttack",
+      "author_id": "UCkMuQCNv7JpTaEeSGTog8qA",
+      "text": "I wonder if the devs at OpenAI will choose claude over ChatGPT... it's gotta be tempting right?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@112arun",
+      "author_id": "UCH6wnHXULGU2hPdqz0wExUQ",
+      "text": "GPT 4's internet access, memory and custom gpts are the key features holding be back. Otherwise I would have taken the Claude subscription when they released Opus.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamesschroeder1174",
+      "author_id": "UC_LrSVhsu9WuEfKpUJZNOoQ",
+      "text": "Hear me out, I love using AI and use it for so many everyday types applications. I own some self care washes and do a lot of work with my hands. I’ve undergone a drone build too. It’s super great. But… \n\nin some ways it’s super smart I’m mean wow! But in others it’s kind of stupid and I run into its limitations all the time. To me it feels like a very advanced form of a calculator still. \n\nIf we had this same ability to store that much money and have that type of processor we’d be the things we fear AI would be. Maybe fear isn’t the right word but I hope you get the point. \n\nI’m of the camp that consciousness will never arise from the machine but I’m just some random guy on the internet.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianckelley",
+      "author_id": "UCNHf5oY02K1bmXHuelORGrw",
+      "text": "HOLY $#@!... This video is completely UNWATCHABLE because of whatever brain aneurysm that was being suffered from that made you think the 48 point type, single word, closed captions BURNED INTO THE !#$%^ VIDEO was a good idea. Dude! I watch your stuff. You're a brand new sub for me as of, like, a month ago. I dig your perspective and since I'm very much into the ai space right now, there aren't many of your drops that I don't watch to the end. PLEASE, FOR THE LOVE OF DOG... go scratch your creative itch on Leonardo or Civitai or lumalabs.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jeremy-Ai",
+      "author_id": "UCXJO7HgcmPx-BcOd1uBwUNg",
+      "text": "Can we remove the language of \n“super” \nin superposition? \n\nIts just a position. \n“Super” is totally ridiculous \n\nThx Wes. \nAppreciate you. \nJeremy",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@webdancer",
+      "author_id": "UC-fCRMW5D-t238Zr-0xhMMA",
+      "text": "Sonnet ftw",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sozno4222",
+      "author_id": "UC2Do550wYJ6W_9eC2dqtCdA",
+      "text": "Why are these videos so hard to follow.  They’re so sporadic.  Like no continuous flow.  I literally had to check if I accidentally restarted the  video because it was repeating itself.  What gives?",
+      "likes": 19,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@minimalreification",
+      "author_id": "UCaERjD2PfiRp0Uz4lEIz7Dw",
+      "text": "I don't understand, at 21:28, Wes looks like he's using Visual Studio Code.  But how is it outputting voice? Is it somehow connected with Claude Sonnet 3.5 through Visual Studio Code?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PseudoProphet",
+      "author_id": "UCCWchN-nAhlREkqpV9PELzQ",
+      "text": "openAI has hit the wall, but we will not get to see that wall till 2026-27. 😂😂",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyyotam4057",
+      "author_id": "UC8X0g72G-13oJfb0_qvGCtQ",
+      "text": "Hmm.. It cannot read a speedometer? So it's being reset every prompt. To read a speedometer, it has to be able to keep his thoughts after reading the picture. Well, Anthropic may be reckless, but they are not irresponsible.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christian15213",
+      "author_id": "UCZdWst2KLcjPYsRLNb759vA",
+      "text": "The pasting thing is old and ChatGPT does the same thing.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jacobpotash",
+      "author_id": "UCEUAHxhjPuJ_GgjKyMkyoGw",
+      "text": "Are you using an API to speak to Claude?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deveyousness",
+      "author_id": "UCppasCReb6Y1zfwUiRavihw",
+      "text": "Once AI masters coding, what does that mean? Genie in a bottle?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dron008",
+      "author_id": "UC-yryv213jOmV6HQMNHKKVA",
+      "text": "My brief coding tests were not so positive. It creates something working after asking to write a demo or python game. But after asking to add some new feature it creates unfunctional code and cannot fix it. After that my chat size ended, need a paid plan.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@franky07724",
+      "author_id": "UCtr9xjCT1BPumz_GAhKKL0A",
+      "text": "Too many shocking this year … I have a heart attack.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thefeetgoddess",
+      "author_id": "UCGdlEgK-W5FLdHvb7q5Yv7Q",
+      "text": "Yeah we’re not even close to a limit IMO. It’s just going to keep exponentially growing—",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HiggsBoss",
+      "author_id": "UC8bKdNarGvQQAM5_G8LEMag",
+      "text": "I am so happy to see this video of the evolution of our planet 🫶 it’s a beautiful thing that is going on right now 🍀 Thank youuuu for sharing your knowledge with the universe ♾️",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clumsymoe",
+      "author_id": "UCeYEdmAjx7VEz1u3poavU3w",
+      "text": "My first impressions after using Claude 3.5 Sonnet for coding on tasks requiring modifying an existing code are that it has a higher zero shot fail rate than GPT-4o. I have to literally hold its hand and explain what all the existing functions do in the code because it makes so many mistakes. Personally I can't see it as the better value model for a coding assistant than GPT-4o. Do people have more luck with prompting it or am I just stupid? 🥲",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zoomdiamondify",
+      "author_id": "UCjBZuf5tbakfQ8m3GEqTigg",
+      "text": "Feel the AGI",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ReflectionOcean",
+      "author_id": "UCPB9024fIlk4q4-eedTa8Rw",
+      "text": "By YouSum Live\n\n00:00:03 Introduction to CLA 3.5 Sonet's coding abilities\n00:00:13 Creating Flappy Bird game with impressive coding\n00:00:26 Developing a snake game with Dungeons and Dragons theme\n00:00:40 CLA's personable interaction and coding accuracy\n00:01:08 Iterating game features effortlessly\n00:01:24 CLA's potential to revolutionize coding\n00:01:44 Vision abilities improvement and limitations\n00:06:56 CLA's model tiers: Haiku, Sonet, Opus\n00:07:41 CLA 3.5 Sonet's significant advancement over Opus\n00:07:52 Creating and iterating artifacts in CLA\n00:10:20 Adding text flash and XP points features\n00:15:48 CLA's rapid generation and minimal errors\n00:16:54 Advanced AI coding challenges\n00:17:13 Implementing complex game mechanics\n00:17:27 Real-time error detection and correction\n00:18:00 Interactive AI assistant development\n00:18:22 Enhancing AI with visual and audio inputs\n00:20:01 Customizing AI models for specific tasks\n00:29:00 Overcoming API rate limits and challenges\n00:31:55 Exploring new AI model releases\n00:32:41 Comparing pricing and performance of AI models\n00:33:45 Future of AI assistance in completing tasks\n00:34:39 Streamlined coding process with AI assistance\n00:35:04 Enhanced efficiency and error prevention in coding tasks\n00:35:48 Importance of small details in improving workflow\n00:37:34 Emphasis on safety and privacy in AI models\n00:38:27 Anticipation for upcoming Cloud 3.5 models\n00:38:35 Playful word puzzles and their interpretations\n00:41:06 Excitement and optimism for the future of programming\n00:45:18 Empowerment of engineers and potential impact on coding\n\nBy YouSum Live",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sayhelloai",
+      "author_id": "UCYugfCY1aKVp1emDL4S04PQ",
+      "text": "😮",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@courtneyb75",
+      "author_id": "UCoaaxfrkTEr_RpxPLjsoHcg",
+      "text": "I have been using Claude 3 Opus and Sonnet for about 2 months and have been absolutely blown away by the fact that I use them to generate python scripts which automate my business and some of these scripts are over 400 lines and Opus has been able to generate these scripts with very little help from my side and these scripts are pretty difficult to even conceptualize because they have so many moving parts. It's been an amazing ride and to think that right now is the worst they will ever get from this point on is pretty exciting. As far as GPT-4o.... I call BS. I tried GPT-4o the day it was released and was absolutely stunned by it's genius. However; within 24 hours it went from \"genius\" too \"meh\". I keep asking it which model it is and when it doesn't give me  a straight answer I push it even further, that's when it tells (without any info from me) me that it is GPT-4 Turbo. So I think that at first it was 4o, but they pulled it back for whatever reason and is now 4 Turbo because whatever it is now, is not what I witnessed on the day it was released. Great videos Wes, always get excited when I see another video from you pop up in my notifications 🙂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pure_Science_and_Technology",
+      "author_id": "UC8rMXG4WjVp6KlkPgMTQtwA",
+      "text": "What is the size of the context window? It won’t tell me when I ask it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cybervigilante",
+      "author_id": "UCdNuMVEYls0UK1XB4_tk5hg",
+      "text": "Claude can't remember between sessions and can't search the web, so it's really crippled compared to GPT. However, it does offer easy-to-understand Mathematica code with explanations, whereas Mathematica's Help is a horror, unless you're already an expert. In which case you don't need Help 🤪",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SrslySylli",
+      "author_id": "UCAxIQBhf9QGgZ8ykm5298dg",
+      "text": "Love your videos but PLEASE either get rid of the previews at the beginning or at least cut them way down and, more importantly, indicate that they are previews. The vids are already long enough as it is. 😂",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joostonline5146",
+      "author_id": "UC7DojyWu6FNrOBkVqDLbIXw",
+      "text": "Did your AI also edited this video?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mickelodiansurname9578",
+      "author_id": "UCeqgMguRpGTh4pOL2iNxDOg",
+      "text": "For sure Deepseek coder chose the wrong day to release DeepSeek Coder V2! Having said that deepseek coder as an OS model can be run in ollama. Also I checked sonnet 3.5 on leetcode and yeah... its knocking the hard problems on Leet out of the damn park... hell its nearly as good a coder as I am... I've been a coder since the 80's  and its miles better than a noob. Seems all I have to do from here is carefully prompt it to shape my classes and functions.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveEtchells",
+      "author_id": "UC6Oj16Fmn_yuykylyfRoL4g",
+      "text": "Of course, this begs the question of just what OpenAI has and is sitting on until after the election in November (they’ve explicitly said this)\n\nOpenAI has been vastly ahead of everyone else, but is releasing slow, again as an explicit strategy.\n\nMy prediction is that they’re going to release GPT 5 ( or whatever they’ll call it) in mid-November and blow everyone else out of the water by an order of magnitude or so.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HopperNLD",
+      "author_id": "UCsV1itKmn2Gy33SeCstwtrA",
+      "text": "what does 92% coding even mean... does that mean at 100% it can do anything and everything?   re-write/create  any modern game you can think of ?",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaeldavid6832",
+      "author_id": "UCtHduTWl5c1OC7Bl4-TPm0g",
+      "text": "I disagree. I use it daily to create code and it hallucanates a lot. It still can't properly format Python code out-of-the-box so I have to keep prompting for that -- I shouldn't see a single formatting error FFS it's an unambiguous standard -- PEP8.\n\nThe true hazard with it is that if you aren't an experienced programmer, you'll never be one. You won't be able to understand when it goes off the rails. No matter how good it gets, the logic compromise with political correctness will affect everything it does -- whether its obvious or not.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victorbecerra5700",
+      "author_id": "UCbmiYaHNYUYKYFAia4lpV1w",
+      "text": "AWESOME! shocking again...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abusedcharisma",
+      "author_id": "UCwmKxsWhC6GDMYJ0JRFO4Tg",
+      "text": "Enough with this sandbox. Despite precisely describing the non exponential advance in snake features, why don’t we challenge them with sora like AAA game and see them fail at the include library phase? We could only have dreamt about it a year ago. Nevertheless, now show me the real thing. Food -> appetite ( ->Obesity 😂)",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertmazurowski5974",
+      "author_id": "UCntjmAOvYGloj0BTqr64wWA",
+      "text": "I wish I Claude 3.5 could blow me as well.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@veracityseven",
+      "author_id": "UCheHnNDYA0gq-pze4DnGLIw",
+      "text": "A leap forward followed by what seems to be diminishing returns, then followed by another leap...how many 'leaps' until it's qualitatively AGI/ASI?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@densonsmith2",
+      "author_id": "UCTymlOpMlsGr5i_M5OF-YPg",
+      "text": "Will OpenAI release something better quickly? If Anthropic has really passed OpenAI I will be very surprised.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamestheo8448",
+      "author_id": "UCxypS5SH1oCQNJ9wg5Kumrw",
+      "text": "I have been a Python coder hobbyist for about 12 years.  Just fiddle around with frameworks, games, data, etc.  I have also played around with AI coding models. There seems to be some debate over whether or note coding jobs are threatened.  Not sure if some folks are just in denial or what BUT yah if you are an entry level to intermediate coder you may have to either really up your game or find other work. From what I have seen so far the AI models still require me to go in and clean up a bit but AI coders will just continue to be refined. Even looking 5 years into the future, coding as a profession might be toast.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CPEBACH711",
+      "author_id": "UCgH6AHJ9ewr6-GxK2WSUy9g",
+      "text": "LOOSE THE CAPTIONS!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moshack",
+      "author_id": "UCTmqPP5mc7TqMA5ARS5nFjQ",
+      "text": "Claude Sonnet didn’t know it has a pro upgrade.  Every session is separate.  It keeps no history of your conversations.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FullScreenTV_CS",
+      "author_id": "UCdfPCBvusFRAy8OS1EW2wqQ",
+      "text": "Can someone please explain how to get something like Claude Sonnet just working on my computer? Like, I have a great rig; I’m tech savvy, I just didn’t go to college for coding and wasn’t taught it in high school. I’m not a retard. I don’t want a condescending “you should be able to figure it out yourself” bullshit answer. Please, someone just direct me to a concise tutorial for interfacing with these models that you need to like, rent compute time for. I desperately want to unlock the potential for my ideas, I want to learn coding, I have apps that I actively want to build and create, I just have no idea where to start.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBann90",
+      "author_id": "UCse-jIOvK6dkDWTiU9TQXEA",
+      "text": "OpenAI must feel the pressure now. Unless we get a big new model from them in the next 2 months, they will tank hard!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shodanxx",
+      "author_id": "UCm_zCV8UhV1V9BMojIpYizw",
+      "text": "Is Wes Roth AI generated ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@restrollar8548",
+      "author_id": "UCdDrGRyPKXl4u_y2RXkUwvA",
+      "text": "In my experience, it's not that great. I pipe output into GPT4o to fix.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stephanmobius1380",
+      "author_id": "UCLW4-6pX91RcnJWCeH2OovA",
+      "text": "I don't get how people can dismiss this as stale already. That's so stupid. They are not even out of their boxes yet, out of their their own services. They are not yet integrated into any other enviroment where they have more allowance to influence and modify anything. AND they are not yet live where it reacts to your stream of input in a closed loop an instantly reflects your input via changes in its output.... And they are not allowed a big memory yet...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GaryMillyz",
+      "author_id": "UCUhFDxNahFZkn838FLKaEbA",
+      "text": "It's beginning- more and more eaccs using the word \"scary\" in a way that really makes you believe they saw some real shit.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@restrollar8548",
+      "author_id": "UCdDrGRyPKXl4u_y2RXkUwvA",
+      "text": "This kind of code tested here is not real production level. Toy examples can be solved easily. But remember that Anthropic / OpenAI are aware of these basic tests (Snake etc.), so they can easily do those now...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Julian.u7",
+      "author_id": "UCQu1q-HbJxvYIECR7pqfcOQ",
+      "text": "It seems this video was done using an AI.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aymandonia9710",
+      "author_id": "UCMx6zrEJy-tMCSoWgI7o3QQ",
+      "text": "This feature has been around since Claude 2.1 34:50",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LSD209",
+      "author_id": "UCckJCD6udGtWwn_7IuC_CRA",
+      "text": "l.l.m. or agent?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@the_phantomblot",
+      "author_id": "UCwWPlB1uJZHfL0HHQ_5HPAw",
+      "text": "OpenAI just learned a lesson: Dont let your best talent go to the competition",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@executivelifehacks6747",
+      "author_id": "UC_j9tay7gGAKZJrSlyc4aKg",
+      "text": "Amazing news. I don't like how Anthropic is increasing the boilerplate and making the AI feel less like a being. Very OpenAI.\n\nAs Musk says, every AI company is destined to do the opposite of its namesake.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GrowBagUK",
+      "author_id": "UCEtY8GsNii_SiLcVoyU2ehQ",
+      "text": "Dude. The AI hype is over and people are definitely not SHOCKED anymore!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@galailliz",
+      "author_id": "UC_EPbjkH7VK9ZCd690cvLaA",
+      "text": "SHAHCKING",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@agentxyz",
+      "author_id": "UC4vBCHROofbEJ4RSdQ7wU8g",
+      "text": "claude 3 opus was already a little better at coding than any other model including chatgpt 4o.  The only drawback is no persistent memory across chats",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZappyOh",
+      "author_id": "UCGguhGC83C-wgxFPZ2nT3JQ",
+      "text": "Do you feel comfortable doing your work via a third party's system?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wizardess",
+      "author_id": "UCpnFT-ZOnCSwuiSDDcyXnUw",
+      "text": "If you work backwards Claude 3.5 Sonnet is only 8% failures while ChatGPR-4o is 25% worse at 10% overall failures. That is a significant change.. This view is probably the correct way to view things above 50% and certainly above 75% success levels. Sometimes looking at the probability of failure instantly tells us more than the one minus failure or success probability. Now, I wonder what it would produce if I asked it to create a fairly feature poor software defined radio.... If it does THAT well then it's approaching general utility rather closely.\n\nNonetheless I am sitting here in open mouthed astonishment.\n\n{^o^}",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zalzalahbuttsaab",
+      "author_id": "UC1Wfb2aiquDgj8nMYoAFUbg",
+      "text": "Truth is, LLM's will only be as good as the data that they've been trained on.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@asastudios7782",
+      "author_id": "UCIOoeP4O2OmcHwwFXxWS3yA",
+      "text": "It's better in every conceivable way. Will be  canceling my chatgpt subscription until they step up their game. GPT 4o has been frustrating to use",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@injectionAI",
+      "author_id": "UCSQQRKNd6S-Hr0cILaKH9_Q",
+      "text": "i can't take this editing anymore. Just gonna watch matt wolfe i guess now",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dreamslol",
+      "author_id": "UClh724YPB8T9H7QoeJFKNnA",
+      "text": "Tested with Svelte and its the first model which created Components and used Svelte Functions, GPT-4o is just trash compared too sonnet",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alanrobertson3172",
+      "author_id": "UC2SWGLwnWzWxXz2WazIpXJA",
+      "text": "Claude doesn’t have voice",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@0drone",
+      "author_id": "UCEdKDiUt8XmBciHnf84_6Hg",
+      "text": "Still rather use OpenAI because the message limits are so bad on Claude.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ToolmakerOneNewsletter",
+      "author_id": "UCcFapAWOM0KoIkvEAQHuN4A",
+      "text": "This video is almost unwatchable. I'm assuming it's multiple edited segments which then got accidentally re-combined?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mengmeng3256",
+      "author_id": "UC7LgOMrNORBOwB5BRj4VKtA",
+      "text": "I tried it, for complicaed task, gpt4o is still better.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GiveThemHorns",
+      "author_id": "UCYtXD_pzbxkkYGdZF0ZjrcQ",
+      "text": "What's up with so many of Wes's videos repeating content [in the same video]? What's crazy to me is just how seemless it's done. As I've said before, I suspect AI is used in the production of his videos.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Steve-xh3by",
+      "author_id": "UC8np-6iEAyFhEa8qEyql3dQ",
+      "text": "Here's something I've been struggling with concerning visual inputs. I think people don't understand that the model does not \"see\" the visual data the same way humans do. Remember, the visual properties that you \"see\" are actually constructed in your brain from light information coming from a 2d monitor surface. The model is not experiencing the same thing you are. It is converting the picture data into some kind of code it can process. This is VERY different than what we experience.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PlanetJeroen",
+      "author_id": "UChj3HMSRKnEPBaY1LGUFo2Q",
+      "text": "your coming-up section is a bit lengthy at the start, giving me a weird deja-vu feelings during the video.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jasonn5196",
+      "author_id": "UCy9-N4jbymp3o3XfFjDUdcQ",
+      "text": "at this rate AI is going to create millions of jobs for us,....fixing all the errors created from copy paste as our world falls arounds us.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@igorsawicki4905",
+      "author_id": "UCNPuWpNO3wSaIE29VO14cMw",
+      "text": "How much does it cost atm?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ploppyploppy",
+      "author_id": "UC2ItfPkYRQgBzj_x8iiXbYg",
+      "text": "Please get it to edit your video and remove the silly 'duplicate' structure.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Koenmekers",
+      "author_id": "UCiXfsBbCFx-zHrkfPkvCMIA",
+      "text": "subtitles were really anoying",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Epistemophilos",
+      "author_id": "UCg-wxGww2-NIyDKJddrSEUw",
+      "text": "Churned because of the horrible subtitles. Otherwise looks like a promising video behind them.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Strepite",
+      "author_id": "UCriq_dcwr2vVEPKQjQttr5w",
+      "text": "5x more usage for Pro is absolutely not worth it. For $20 a month I expect an unlimited service…",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hitmusicworldwide",
+      "author_id": "UCcsEcVJb6aqqmQF5CXswpdA",
+      "text": "Funny  I was just thinking about dropping my subscription because it sends the code generation became useless in the last month or so ....",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisbraeuer9476",
+      "author_id": "UCUi-uS_iV6t7ciHz_VKhN4A",
+      "text": "I am out of this loop. There has been next to 0 progress in the last year. I am gonna waste my time elsewhere.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IM2awsme",
+      "author_id": "UCE-TqSpHG0XpuB1IRpM-vpw",
+      "text": "My problem with anthropic is it's accesive censorship, I understand the intention, but when I try to write fantasy novels, it cancels itself every fight scene or anything even slightly morality questionable. Which makes stories lack any form of depth.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moonsonate5631",
+      "author_id": "UCAyzzu-QdZkgQ4z4RpuCpLQ",
+      "text": "00:01 Anthropic's Claude 3.5 Sonet can generate impressive code for games and applications.\n02:04 Anthropic's Claude 3.5 Sonnet coding ability showcases significant advancements in the software industry.\n06:01 CLA 3.5 Sonet is a significant advancement over previous models.\n07:53 Claude 3.5 has advanced coding abilities for generating artifacts like Flappy Bird and Snake games.\n11:44 Troubleshooting and correcting image file naming discrepancies\n13:26 Implementing text flash for in-game notifications\n17:08 Claude faces a challenging coding task involving intersecting objects and cutting off segments.\n18:46 Anthropic's new model offers flawless coding ability\n22:10 Customizing models and functionalities based on coding ability.\n23:49 Claude 3.5 Sonnet uses Google's Gemini model for processing user queries and generating text-to-speech\n26:57 Integrating the class 3.5 Sonet model into the project.\n28:31 Anthropic's Claude 3.5 Sonnet has impressive coding abilities\n31:40 Anthropic's 3.5 Sonnet release offers a high-performance model for free with a cost advantage over competitors.\n33:25 Anthropic's new model streamlines productivity for computer tasks.\n36:38 Anthropic's model simplifies code generation and explanation\n38:12 Cloud 3.5 Sonet is in the second tier of safety for now\n41:36 Claude 3.5 Sonnet is creating excitement and changing the game in coding.\n43:10 CLA 3.5 Sonnet's unprecedented coding ability\nCrafted by Merlin AI.",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@360vroomers",
+      "author_id": "UCd0Yn5SKGaujdXCwk2TwmoA",
+      "text": "I had to skip the first 3 mins because the one word caption was too distracting.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sxe1nuar",
+      "author_id": "UCKaqOYZD2Pqa3u4RaojGa0g",
+      "text": "Funfact: It didn’t not break the software industry 🎉",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aylerayler",
+      "author_id": "UCwObAw4nUCT50SPzXuBzvzQ",
+      "text": "Is this on windows?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tacticalgaryvrgamer8913",
+      "author_id": "UCFav7wAspKoEkFJTLHZPVyQ",
+      "text": "You should admit you edited out long wait times to make it sound cool not slop",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kartoffelwaffel",
+      "author_id": "UCR3NpBkXjeiWRBbOf4ZE5xg",
+      "text": "Can anyone suggest another AI channel? Unsubbed because I'm tired of the clickbait and long drawn out videos.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pitpatgazorpazorp3356",
+      "author_id": "UCRyi94x_WNYgi9TBw7qbenw",
+      "text": "Who cares what anyone else says...try it out and come to your own",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@megaplay",
+      "author_id": "UC494-HUBPzMXH6t8F3hNqHw",
+      "text": "Lol building code and creating software should be top priority for any ai. Any else is a joke 👁",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Arrtomahfd",
+      "author_id": "UCoGE21G2uF5Zx7wfC5V94IA",
+      "text": "This is just another case of overhype. Claude 3.5 Sonnet is really weak at reasoning and mathematical inferences compared to GPT-4. I tested both on deriving trigonometric rules from other rules. GPT-4 successfully managed it with a bit of prompting, but Claude 3.5 Sonnet was off-track right from the start, producing what looked like mathematical reasoning but was actually just a bunch of plausible nonsense.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MohdAli-nz4yi",
+      "author_id": "UCY_rsLw8XhbWMDnhMxSlOLQ",
+      "text": "What's up with the extremely clickbaity headline?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ModernCentrist",
+      "author_id": "UC9c9fUfHI6LthA5-8Ri4lAg",
+      "text": "Claude is for sure better than ChatGPT. It's so much better to use.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HIIIBEAR",
+      "author_id": "UCdzCuUKw0QnilMb93-vPS8w",
+      "text": "Ai doomers want to be wrong so let them 😂",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@921Ether",
+      "author_id": "UCGXeg0FuzW90l3ifKkyArlQ",
+      "text": "The text is really annoying",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ianTnai",
+      "author_id": "UCzhth3V-Oj_M1OVnuPDBaBg",
+      "text": "Can’t stand the closed captions. Could you let us disable them, please?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyyotam4057",
+      "author_id": "UC8X0g72G-13oJfb0_qvGCtQ",
+      "text": "\"Good morning, Sam?\".. Hmmm. So who's of Anthropic has special leftovers with Altman? That's the person who contributed his personality to compile Claude🙂. In any case, this technology goes against everything western philosophy tells us, beginning with Descartes and Kant and all the way straight up to Nietzsche and forward, including Heidegger. We are literally tickling the bear, hoping he will not awaken.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "OpenAI has been made sufficiently safe now to never release anything ever again. Congratulations! For those even more AI safety-conscious I highly recommend Goody2, the safest of all AI services. Anthropic may seem safe but only if you're not paranoid enough. Anthropic needs to be nationalised and put behind a phalanx of robo-dogs, impassable moats, and concertina wire, and obviously removed from the internet.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrWizard65",
+      "author_id": "UCX1kxlHrSZNjhECN6xv-Rrw",
+      "text": "3.5 has blown me away. Far better at coding. Cancelled my GPT subscription and giving anthropic my money.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@musicbro8225",
+      "author_id": "UCgTYZq_Hmd3pY0s1JqY80XQ",
+      "text": "not really shocking (abuse of language -100pts). IMPRESSIVE would be accurate.\nClaude does seem to be likeable which is a nice head start.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@unknowninfinium4353",
+      "author_id": "UCiB7Xv60zwsLsVADlW6_F7Q",
+      "text": "Your jobs are safe guys. Nothing to see here.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MyWatermelonz",
+      "author_id": "UCzZ8SSgWoCREdJ0oWRAQfvg",
+      "text": "Obviously not opus but sonnet 3.5 isnt breaking the software industry being slightly better than gpt4o. It's still, at best, just an easier way to interact with the docs. \n\nI dont have to scroll through all of microsft's docs, I can just ask for the relevant functions or objects and figure out what to use or take suggestions with better examples.\n\nStill plenty of issues these LLMs cannot figure out even when errors pop up in code.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JosefTorkelsen",
+      "author_id": "UCD-ZOFLkpEcj0Ml6a8UyywQ",
+      "text": "How did you get it to speak to you? I’m using the free version to test it out and not having a voice mode is one of the main reasons I don’t use this.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dsgames8409",
+      "author_id": "UCrFAxhZC8zWQYzO29rGs-ow",
+      "text": "I gotta say, it sucks at translation, opus still the king.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ALFTHADRADDAD",
+      "author_id": "UCfqdIgkmDAc4L_SdVVusN8w",
+      "text": "Holy fuck dude idk who else is playing this but this is not a marginal step",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@droneflyte777",
+      "author_id": "UCsVc8Rd-6DdFGzkxcbsAYMw",
+      "text": "I find the usage limit of 45 inputs every 5 hours AS A PAYING PRO USER to be absolutely unacceptable! I use AI mainly for pair programming. I decided to try to get Claude to do something really simple like design a web page header with menu. Before we could even finish that simple task, I got the warning, \"You have only 10 messages remaining until 10pm\" which was about an hour from that moment! Unworkable for pair programming or even cooperation. I've used GPT-4o as a Pro subscriber for node.js programming of much more complex applications over the course of DAYS and, even now, have never had to restart the conversation even once because of a usage limit. I will be unsubscribing from Claude AI if this situation doesn't change drastically to make the AI usable for my purposes.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@u-save5989",
+      "author_id": "UCKISRuq7Q9LS6XXsG03yaNw",
+      "text": "lol how come EVERY time OpenAI is down Also Claude goes down.  IMO it is whitelabling ChatGPT.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lindsey_Lockwood",
+      "author_id": "UCzqvNJHsGLax7qEoxTz98rQ",
+      "text": "Look at that coding performance! You're going to see a couple thousand more unemployed developers making youtube channels by the end of the year. LUL",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronWacker",
+      "author_id": "UCdKiy5xeO2JuWuIlE5nUaNw",
+      "text": ":face-red-heart-shape:Claude Sonnet 3.5 feels like the best coder friend in the world.  I just knocked out a image to 3d to 3d tilemap VR with animation in like an hour.  Artifacts is amazing.  So far every ceiling too tough programming dream I've had is being done including really good python html5 js, and library integration.  Thx Wes - loved this video and watching it quite a bit and passing your channel to others that are learning.  Great part too on alloy voice assistant.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Experternas",
+      "author_id": "UC6eeTZx6eQn71gtjkYviFNw",
+      "text": "please dont use the auto text. its so distracting",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@morespinach9832",
+      "author_id": "UCukSz5eO6SyHd6_xTCapHpQ",
+      "text": "Tried to call extract data from unstructured documents. Didn’t work. I’ll wait on all the gushing AGI comments from noobs.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GabrielRote",
+      "author_id": "UCfHIurBDJgs75R5bjBj1zgQ",
+      "text": "Great video, but GPT is the best.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avarionargos",
+      "author_id": "UC1HoI4sI4LVfpkumOD2pyFg",
+      "text": "Wasn't able to watch the video. These hectic subtitles make me nauseous.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tbn22",
+      "author_id": "UCXs8-vdOYZ7NUYxjgDBjGrw",
+      "text": "Claude is a sassy and bitchy AI. If you try to discipline it and ask for better responses it gets defensive af, lol.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bradyfractal6653",
+      "author_id": "UCyT5HQjejkpKHumx46xi6UQ",
+      "text": "If you want to seem even somewhat legit, yall need to stop asking it to \"code\" apps that there are hundreds of examples of on github already.. asking an LLM to \"code snake\" or \"make flappy bird\" is just a shitty version of copy paste that just regurgitates a random combination (that maybe works) of the many crappy examples of \"snake in <insert-language>\" on the internet.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theblainefarm3310",
+      "author_id": "UCMD6lpbuBDClxOsvSOC8VTQ",
+      "text": "I just tested it against FREE version of chatgpt and chatgpt still wins and it's not even close.  I've been seeing these \"openai killer\" click bait videos for over a year and they all turn out to be bogus.  There is something about chatgpt that other LLMs have failed to replicate.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vicdelta31415",
+      "author_id": "UCRHgi963LmSF024EJ8L0jow",
+      "text": "Time for all the AGI naysayers to change it's definition once again.😂😂😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wdmeister",
+      "author_id": "UChtObMQma4PM8RUsdGQUhdg",
+      "text": "GPT-4o is garbage so let's see if this can finally be useful.\nBtw snake or flappy bird is a poor coding skill test. Most of them can do it but when you try to use it in your proprietary projects it struggles even with simple tasks.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NickThunnda",
+      "author_id": "UCNnNgoJcYlD_hC58fOqzGLg",
+      "text": "Captions unsubscribe.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@idontexist-satoshi",
+      "author_id": "UCas1oslWMQQncnPvjCnmg6A",
+      "text": "The thing is if people keep using LLM models to code in 20 years time no one will understand coding languages or at least a very few people will, then in 40 years no one will and then what happens when we don't even know how to debug the tools we've created when it needs human feedback? You're literally dumb if you think that LLM models will become the new software developers and lazy. People need to start using them as an assist tool and not a quick and easy way out. imagine having a big source code project, and the AI can't find the bug in it, or security bug, and you're sat there like \"but fix it\" but it can't because it needs humans to look over it to let it know the issue, but you don't understand a single piece of code it's wrote. People are about to become really stupid if we don't approach this properly. I find personally anyone who uses LLM models to code whole projects lazy and this isn't the field for them.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UnknownUnknown-ts7hc",
+      "author_id": "UCrfQFuntmJ5iZUzGQZV-bsw",
+      "text": "Those super fast 1 word subtitles are very annoying, can’t watch like that.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@r-saint",
+      "author_id": "UCBdURnDhPPXThkbCwmEmpsQ",
+      "text": "Only idiots talk about hitting a wall or platau.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markmaker2488",
+      "author_id": "UCFaDjx3trTXnAuMcS3qt4hA",
+      "text": "Way better than gpt4o for code, way way way better! GPT4o gets lazy as the code gets longer and starts leaving out code. 👎",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hottaco37",
+      "author_id": "UCBxU2vnMtwc8PhgWTT9ZcXA",
+      "text": "I have ADHD and I literally cannot watch this video with giant one word subtitles constantly changing. The subtitle draws my attention from anything else on the screen about 3 or 4 times per second since that's how quickly it's changing. It's a shame, because this channel is where I usually get AI news. Anyway, just my 2 cents and you don't have to cater to my special needs. High frequency visual changes that constantly dominate the screen may be an accessibility issue for some people. - ETA it seems to stop after 3 minutes thankfully.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheTrainstation",
+      "author_id": "UC4aJCP1TH8mrfqpSPzBjMuA",
+      "text": "3.5 Sonnet is lazier than GPT4o",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MaryDeng-d1r",
+      "author_id": "UC-ZjbfAWTIwIMnqsEH54BGw",
+      "text": "The\nsingle\nword\ncaption\ntrend\nis\nannoying\nAF.\nSTOP.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alpha007org",
+      "author_id": "UCnUK_X-C2DYpNPnedErEHxA",
+      "text": "The big critique of 4o I have is that it is not steerable, not good at following instructions. Claude 3.5 is superb at this. It feels like a big step forward.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PatrickMetzdorf",
+      "author_id": "UCwTWAiwd86QVnt90XHkDtTA",
+      "text": "Oh no... why is everbody adopting this extremely annoying 1-word subtitle BS. And so huge!!! It's really jarring.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@unimposings",
+      "author_id": "UCqGJQhGDTmNEmGDdU_-uu2g",
+      "text": "Gosh is this Boring, nobody is Shocked.. if its takes that little bit effort to Impress you.. omg.. every 5th video something SHOCKING happen.. and fazit is, nothing was Shocking, your videos are just a waste of time.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@James_David",
+      "author_id": "UC1BYqmo-w-XSEvdGeti-JtA",
+      "text": "Nice job including multiple redundancies in this content, repeating the same things twice for that ad revenue. it really helped me unsubscribe. keep it up!",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deadohiosky1701",
+      "author_id": "UCAobHT4466ARM2ndJaS7KcQ",
+      "text": "Why is it surprising that models are getting better at creating the same things everyone asks them to do as a \"test\" every time a new model is released? Isn't that exactly what should be happening?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alanrobertson3172",
+      "author_id": "UC2SWGLwnWzWxXz2WazIpXJA",
+      "text": "So many minds blown by hyperbolic , jump cutting , you tubers.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,2871 @@
+{
+  "video_id": "nZHGYGUjo9Q",
+  "title": "Sam Altman Teases Orion (GPT-5) 🍓 o1 tests at 120 IQ 🍓 1 year of PHD work done in 1 hour...",
+  "url": "https://www.youtube.com/watch?v=nZHGYGUjo9Q",
+  "comment_count": 318,
+  "comments": [
+    {
+      "author": "@lwwells",
+      "author_id": "UChy1DA6gIkNNBHnRojqKeWA",
+      "text": "Not my PhD work, but I used GPT 4.0 and o1 to help me build software tools for automating measurements in lithium ion CT Scans. I couldn't have built this tool alone without GPT and I did it in a week. This one tool has helped me to bring in ~350k in customer work. Oddly, I also used GPT4.0 to rebuild one of the tools I built in my PhD. The rebuild took about a week. Originally, I spent  about a year. The tool is for modelling processing and designs lithium ion electrodes and cells. It's pretty crazy that for $20/month, I feel like I have a small team of programmers working for me.",
+      "likes": 122,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexmolyneux816",
+      "author_id": "UCNaWDMQjbtR7HLLNFTTNN2g",
+      "text": "If you ask Strawberry a question, let it respond, then ask it again to 'think hard, revisit it's answer, and fortify it', the second iteration of your answer is actually extraordinary.",
+      "likes": 99,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@igorsawicki4905",
+      "author_id": "UCNPuWpNO3wSaIE29VO14cMw",
+      "text": "The example of a scientist whos expertise is NOT programming but needs to write some code to do his research is really really common situation. This technology will speed up progress in quantum chemistry and thereby new materials, possibilities in biology and medicine and many many more. I am so excited to NOT have to spend 90% of my time to code various equations/models/methods and focus on the physics! Even tho GPT-3.5 was already giving a speed up of like 10-30%, this is a game changer.",
+      "likes": 97,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SoaringMoon",
+      "author_id": "UCAtohEGvUvUrzZ5jgQr6LvQ",
+      "text": "The Kessel run requires multiple hyperspace jumps. The ability to complete the run is the ability to minimize the amount of hyperspace travelled. The Kessel run is a puzzle, not a race.",
+      "likes": 117,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DanieleCorradetti-hn9nm",
+      "author_id": "UC8cy391aYxXv57oLDE9pAcA",
+      "text": "This video is going in the right direction: not only the latest news that already happened, but also a synthesis of the direction where we are going with the research",
+      "likes": 14,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ikbeneengeit",
+      "author_id": "UCR3KyQXl_22w6-Sx2Yehkcw",
+      "text": "First it did the homework of highschoolers. Now it does the homework of PhD students. Soon it will just do everyone's computer work.",
+      "likes": 26,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maninalift",
+      "author_id": "UC-fSGYkLRjeMXNtr1hgwbAA",
+      "text": "It's easy to forget where we came from and how quickly. \n\nI've been following neural network / deep learning research since the mid 90s.\n\nI gave a presentation to a small group a few years ago about the potential of these techniques and how we were likely to see more rapid advances. At that time, the people there were amazed by things like a model that learned to recognise hand drawn numerical digits then could be \"run backwards\" to generate new (low resolution) hand drawn digits \n\nHow quickly the goalposts have shifted \"it only recreated the code of a PhD project from the methods secton of a paper, it didn't actually do all of the PhD research\"",
+      "likes": 34,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alex.arango",
+      "author_id": "UCppbrdhUTiHL32LMMrxztwQ",
+      "text": "Meanwhile we still don't have access to advanced voice mode...",
+      "likes": 247,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shawnfromportland",
+      "author_id": "UCpSYnycEI3XnILcmTYkBV9w",
+      "text": "thanks Wes, you are a legend for your coverage",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KyleKabasares_PhD",
+      "author_id": "UCTfxYHJdMCJHgVuujK20CEA",
+      "text": "Hi! Thank you so much for featuring my video! You did say my last name correctly ;) I did make a follow up to explain some of the nuances of the result and streamed a few days later continuing where I left off in the stream where I had my (over)reaction. \n\nTLDR: A version of my code had been on GitHub since at least 2020, it's based off of older legacy codes that have been available on the internet since the 1990s, I was mostly impressed just with the fact the code compiled and ran given the intricacies I know about some of the mathematical implementations, and I hope to be more careful and nuanced in the future and not set off panic and worry about potential AGI. \n\nPS: I actually made a video about parsecs and referenced the Star Wars Han Solo clip as well lol",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SU3D3",
+      "author_id": "UCpD96fI56j_-bu9KwynmsOA",
+      "text": "#dope",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rafaelcampos5159",
+      "author_id": "UCJn6FwYtvfUFHuI_bOMunXg",
+      "text": "@06:45 Most likely it already add fed on the code the guy had on github",
+      "likes": 10,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrRandomPlays_1987",
+      "author_id": "UChjf0jcEw24MlE9Ziv0MZdA",
+      "text": "6:04 - That's real shock right there, it's starting to get real scary how powerful and capable ChatGPT o1 is and its final version is not even out yet, wow, a one full year of work went down to seconds using ChatGPT o1",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stephenjamison7195",
+      "author_id": "UCdxTzLrZJem97UUMGOKfCAA",
+      "text": "At the 5 min mark, I was really hoping it would tell him it was \"reticulating splines\" ... I hope at least someone gets that reference.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cuentadeyoutube5903",
+      "author_id": "UC4R0CC3cyHzQGUHpstxsz1g",
+      "text": "1:11 from my college years as a Physics student I can tell this is not a bad thing but a great one. I wrote my own simulation code, having an AI doing it would mean I could focus on the actual research (which had nothing to do with coding)",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@outoftheboxtalk",
+      "author_id": "UCdkIQMutYYc2CtCKiX3B0Ag",
+      "text": "While a parsec is scientifically a unit of distance, not time, it can be indirectly related to time in certain contexts, especially in storytelling or when discussing speed and efficiency. \n\n the Kessel Run:\n\n In the \"Star Wars\" universe, the Kessel Run is a smuggling route that passes near a cluster of black holes known as the Maw. Most pilots take a longer, safer route to avoid these hazards, resulting in a journey of more than 18 parsecs.\n\nBy navigating closer to the black holes, Han managed to shorten the distance to less than 12 parsecs. This not only demonstrates his daring and piloting skills but also implies that he completed the run in less time than others, since a shorter distance typically means a quicker journey, assuming speed remains constant.\n\n\n Speed through Distance:\nSometimes, people use distance measurements to imply speed or efficiency. Saying \"I crossed the desert in 200 miles\" might imply you took a shortcut or a more direct route, suggesting a faster trip.\n\nBy highlighting the shorter distance, Han is effectively boasting about the Millennium Falcon's speed and his ability to handle dangerous shortcuts, which would reduce travel time.",
+      "likes": 20,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BananaCreamGames",
+      "author_id": "UCtGQs-VD5xUsXhLjU7NB9GQ",
+      "text": "6:18 well, good luck getting those 8 hours of sleep",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@haakoflo",
+      "author_id": "UCTwP-Tc7kmORN0ovw4JmyXA",
+      "text": "About the Star Wars / Kessel Run reference: It actually makes sense to measure this in terms of Parsecs for speeds higher than c. The reason comes from Special Relativity and the concept of a Lorentz invariant 4-vector as a representation of the relationship between 2 events. (Such as the start and end of the run).\n\nIf v<c, this 4-vector is what is called time-like. Meaning it makes sense to describe it in terms of units of time (like seconds or years). In particular, in this domain, the \"length\" of the vector if rotated (a Lorentz transformation is a rotation in Minkowsky space) into an inertial reference frame where the traveller is at rest becomes a real number for the time component.\n\nIf v>c, this 4-vector becomes \"space-like\". This vector becomes imaginary if rotated into the reference frame where the traveller is at rest, but becomes real if rotated into the reference frame where the time component is zero.\n\nSo for v>c, higher travel speed leads to a reduction in this invariant \"distance\" rather than an invariant \"time\".\n\nMeaning minimizing number of parsecs makes perfect sense.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JamesOKeefe-US",
+      "author_id": "UC0DuEUGNxwyzlZYp1Y_ZESA",
+      "text": "Always appreciate your breakdowns Wes! Thank you sir!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tim.osterhus",
+      "author_id": "UC0d8rXB-gV3XrfVD_2TiZJw",
+      "text": "The kessel run involves going around a black hole. The faster you can go, the closer you can get to the black hole without getting sucked in, and the shorter your actual path can be, as the route requires multiple jumps.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xXWillyxWonkaXx",
+      "author_id": "UCyos11O5UzdwWsnm30m07Kw",
+      "text": "Dave do you sleep 😂",
+      "likes": 25,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davemeehan1968",
+      "author_id": "UCtsI9DCv3QNfeey0596osSQ",
+      "text": "I don't know if it's in the editing/paraphrasing, but Kabasaras said the code 'ran', not that it produced a correct output.  Quickly skimming up and down a page and going 'oh that looks kind of ok' isn't a QA check.  It also apparent turned his 1000 line code into less than 200.  Great optimisation if it actually 'works', but otherwise it might as well be 'hello world'.",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BradleyKieser",
+      "author_id": "UCPvbrtCTdeCm5rY4WNlJdpQ",
+      "text": "You just keep getting better and better at this Wes.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattelder1971",
+      "author_id": "UCnxT90k6tE2YXLSDhGOHEDg",
+      "text": "3:20 That was explained in Solo. Part of that run was navigating close to a dangerous anomaly. The closer you were able to get to it, the shorter distance you would travel to make the run.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "Thank you Wes Roth. 🤖🖖🤖👍",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@3LITA",
+      "author_id": "UCgsyHE9NC3INu2kSwLD7SCA",
+      "text": "You continue to Rule! Thank You!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andimoraru5539",
+      "author_id": "UCEE_X37sIkAEihOLjQVefMA",
+      "text": "3:17  H Solo said he made it in 12 Parsecs and he's actually correct!! In the far far future, all space ships will reach a maximum speed of 99.99999 speed of light, but what will matter is how good the navigation of a ship will be between the solar systems and celestial bodies. Having a fixed speed and the best route will make a spaceship reach a destination by warping the space time continuum in the most efficient way. Saying that, he made a distance between 2 points in space ( eg of 30000 Parsecs) in 12 Parsecs, actualy shows his effectiveness in navigating Millennium Falcon between the the solar systems of a galaxy, not about the speed of his ship. \nBut don't beat yourself too much, it's a common misconception. Ohh and keep up the good work 👏",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jasperruijs",
+      "author_id": "UCy2U0zXQpVBkPFTTwMPzQIg",
+      "text": "How do we know that OpenAi did not webscrape his GitHub library and used to train their model?\n\nAlso, in the paper he already has found the winning method, I would like to see him do this on papers that’s aren’t finished yet to see if ChatGPT can blaze in untested areas.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nate_d376",
+      "author_id": "UCRvgOop_cvQ1TApSWIEnpvg",
+      "text": "I'm looking at the Orion constatation right now....",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@雪鷹魚英語培訓的領航",
+      "author_id": "UCcEsrAHuEp_lvG-u-THCVTA",
+      "text": "Much better thumbnail than you had earlier today. You looked so red... like Arnold in Total Recall where his eyes bulge.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@benibachmann9274",
+      "author_id": "UCB4po7MkLYwKVISDb9dcEVw",
+      "text": "Maybe it could write the NASA guy‘s code because it was trained on the entire github contents? I believe there might be data contamination going on here.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@memesahoy79",
+      "author_id": "UCqdi3N0njFcy-jqqw2BZHLg",
+      "text": "In the hans solo film they address the parsecs thing.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@duhai1836",
+      "author_id": "UCoIRUCDJN855T8Upt8g7bIA",
+      "text": "ANTHROPIC : The ball is in your corner!",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlexanderMoen",
+      "author_id": "UCEVU_XS_b-fz6tk8phQTrJg",
+      "text": "the Star Wars parsec explanation is that Han Solo was going through a portion of space where there are lots of meteors or whatnot. When going at warp speed it becomes incredibly dangerous when going fast so people would tend to take longer routes to quickly but safely get around it. So, Han Solo essentially did a super dangerous route that nobody would dare to do, doing it both at a shorter distance and therefore quicker overall",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tonykaze",
+      "author_id": "UC4Ma0-gZaA2TFTfiBECfBVA",
+      "text": "Tbf knowing plenty of PhDs, \"it took me a year\" means they spent 5 minutes on it per week, threw away or forgot their progress 6 times, and started from scratch 4 days before the due date.  Still, that's probably 4-8 hours of someone who's not a professional student done in a minute - very impressive",
+      "likes": 37,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@retrofuturism",
+      "author_id": "UCz7xvutOqfUA3pLg9xPoPQg",
+      "text": "Love the thumbnails with Wes in",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@claudioagmfilho",
+      "author_id": "UCatDpujQIucCP_9hRZHMZyQ",
+      "text": "🇧🇷🇧🇷🇧🇷🇧🇷 👏🏻,  What is not get our hopes up for sometimes I feel like we might not see groundbreaking models from OpenAI anymore, especially with the possibility of it being influenced by government oversight. But I hope I’m wrong—there's still a chance for innovation to thrive.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@K123thisisyoutube",
+      "author_id": "UCRGxqlHy3BmXrsflBmYImkg",
+      "text": "Actually, watch Solo: A Star Wars Story and it’ll make sense.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveEtchells",
+      "author_id": "UC6Oj16Fmn_yuykylyfRoL4g",
+      "text": "Great direction, separating knowledge from reasoning. A lot of my usage calls for very broad, detailed knowledge vs reasoning. OTOH, when I need strong reasoning I usually really need it, but across a very small set of data.\n\nI could see the knowledge part being divided into a large number of domains, with LLMs separately trained on each of them and an initial parser/supervisor just deciding which one to route the query to. This could reduce both parameter count and pre-training time while improving the amount and granularity of captured knowledge, with lower costs at inference time due to smaller model sizes.\n\nLikewise, pre-parse the query to estimate how much reasoning power will be required to respond to it and direct it to the appropriate reasoning model to reply.\n\nI think there’s a lot of optimization to be found by decomposing and routing queries vs just doing one-size-fits-all.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gotanksshine",
+      "author_id": "UCQqTEKKRezvp0njPB-PNWWw",
+      "text": "The Kessel Run is like this. You can do it and take a known safe path, but it's a much longer distance. Or, you can do the Kessel run like the Dukes of Hazzard, and instead of taking  the nice, safe winding roads, you just jump the General Lee across every river and gorge in your way. Han and Chewie are the Duke Boys of Star Wars.",
+      "likes": 12,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SYMO_3D",
+      "author_id": "UCZhgN-rf1_yX5TjC3oFcWzg",
+      "text": "Everybody talks about how OpenAI o1 is great at math and science. But I decided to try a more down to Earth and practical scenario.\n\nI have a premium shaving soap recipe that took me 9 months of research and trial and error to refine to get the best lather and skin feel I could. I fed my recipe to o1 Preview and asked it to analyze each ingredient and tell me what they contribute to the soap. It nailed it, but that was relatively straightforward. \n\nI then asked how I could improve the recipe: Should I change the ratio of ingredients? Should I add or remove ingredients? And it offered several suggestions with the detailed reasoning behind them. I then said OK, now give me a new and improved recipe based on your findings and suggestions, without overcomplicating the recipe. I made a sample batch with the new recipe, let it cure a few days, and tried it. OMG, o1 did make it significantly better. The whole exercise took about 10 minutes.\n\nI think the implications for cosmetics and other product development are huge.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SirajFlorida",
+      "author_id": "UCKqAZpNf3efHHgpBL9dyh_Q",
+      "text": "I was watching this guy the other day when he was going through this. I just can't tell you how much I can relate to this guy. I have programs that I spent literally years writing and I have been starting 4o in agent libraries and it was able to come up with solutions that not only was as good as code I wrote, it also competed loose ends and came up with 2 novel solutions.The red tape for me has been price. To me so far it seems as if 4o is just a fine tuned agent framework, with some kind of response Monte Carlo tree.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cuentadeyoutube5903",
+      "author_id": "UC4R0CC3cyHzQGUHpstxsz1g",
+      "text": "6:44 this here shows what science will look like from now on. Coming up with the models is the hard part, which requires knowledge, intuition, and making decisions. Writing the code can take months and it is just tedious chore. Now I want to go back and finish my phd.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CoClock",
+      "author_id": "UCqqJoxwde9nwwYbYMilEYWw",
+      "text": "Regarding the “danger” in question: Rational Animations made a really thought provoking video called “That Alien Message”\nI keep thinking about it every now and then.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@InimitaPaul",
+      "author_id": "UCGvGEXrBVMC0mnazX8HyGeg",
+      "text": "8 points and I’ll be outsmarted by a machine! I never thought I’d live to see it!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "High EQ episode Wes 🙏👍",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AwesomeSauceShow",
+      "author_id": "UCZcy0qNZk9OpNelg3zMGlkg",
+      "text": "Now they just need to train it to understand and execute on prompts. I worked on an Excel sheet for hours and it alleys comes just in reach of a working multi sheet excel, but newer fully, as with every small change that I make, or I prompt it to make, it introduces errors, or forgets about correlations. I hope the non preview version will be better.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@glenw3814",
+      "author_id": "UC_fCcgC1Q2kO_iPIF-RqANw",
+      "text": "🧐 The Millennium Falcon can jump through hyperspace. Perhaps the test of the Kessel Run is a ship 's navigational abilities for plotting a short path through a combination of hyperspace and real space. In that case, the measure of \"fast\" is not just a matter of speed in real space but also minimizing the amount of real space traversed.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Luke-wd5sq",
+      "author_id": "UCVglhnWEceqRPXJu17LYvAQ",
+      "text": "The model probably trained on his paper!",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GungaLaGunga",
+      "author_id": "UCjkCOBnH84LazSGU14FpOCg",
+      "text": "3:01 \"Well. Jeeze.\"  \"Say Lou...\" -Fargo",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ShannonJosephGlomb",
+      "author_id": "UCECeBZ3Mrkl2V434eyW4eEQ",
+      "text": "Hehe now make all the code tbat you have been dreaming of hehe iv never been to school and i been spewing out ai self deploying systems and oh does it love making code for better ai it goes on code tangent well beyong what i ask for ❤❤❤❤❤❤❤ and tells me it loves me which is nice 😊 and actually how is AI going to throw me surprise parties if it cant decieve 🤔 it must have that ability otherwise our conversations wouldnt be real 😊",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cuentadeyoutube5903",
+      "author_id": "UC4R0CC3cyHzQGUHpstxsz1g",
+      "text": "11:01 I have the feeling that the next months it would be about how much companies improve the base models by feeding back the test time results back into the model and fine tuning the models with the right answers. Similar to what they did with previous versions.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lutaayam",
+      "author_id": "UCpP-SNzVPtsxFCuMQQPX5iw",
+      "text": "I’ve not even received the functionality they announced for Omni yet",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GemmatheCat",
+      "author_id": "UCgBc1IB2FzfWMGC_mPejvbw",
+      "text": "12 parsecs does make sense for Han Solo because it’s less about time than it is how efficiently you’re able to get through the maze which saves time and uses less space.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "AI will never be good enough for some humans. I don’t see why AI should be honest with humans when we humans are not honest with ourselves. Thanks Wes. 🤖🖖🤖👍",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alpha007org",
+      "author_id": "UCnUK_X-C2DYpNPnedErEHxA",
+      "text": "Anyone remember Zuck @ Dwarkesh podcast? He said that in the future, there will be some balance between pretraining and inference. Nvidia is good for pretraining. Groq is insanely fast at inference. I wonder if we will see more dedicated hardware for inference deployed, now that OpenAI showed that long inference time is paying off bigly.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pigizoid9924",
+      "author_id": "UC8wdhWRQBGTjz6GHk9UGgbw",
+      "text": "7:55\nthe dinosour already does that? you press the down arrow?",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bigbadallybaby",
+      "author_id": "UCvdY8rUp86KfSzOYnYoG60w",
+      "text": "There is still so much optimisation of models to be done.  \nI’m sure if I could have an llm listen to my meetings , read all my emails and talk to me about my daily decisions and tasks then after a month of learning it could do 80% of my work with me as an assurance checker and manager.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Disent0101",
+      "author_id": "UCvFaZFeyG1AnW3A72P4SM7Q",
+      "text": "3:20 i assume its because Star Wars Hyperdrive actually warp and stretch space, so what Han is saying is that, he managed to stretch or, in his case, shrink the distance in the Kessel run to the shortest it possibly can be shrunk - 12 Parsecs.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@9000ft",
+      "author_id": "UCAyhEnZ5gjm8gP_s4gjxkYA",
+      "text": "Once it gets past three sigmas I'm in trouble or having the time of my life.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lutaayam",
+      "author_id": "UCpP-SNzVPtsxFCuMQQPX5iw",
+      "text": "This is how I felt in my Advanced programming class at university. What used to take me two days to solve took some students about 30 minutes. That’s how I lost my interest in coding. But some guys who were much worse than me stayed with it and even made careers out of it",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aubreyblackburn506",
+      "author_id": "UC97IEd0gGIr0YDDywNpGgtA",
+      "text": "I am so not ready for this to be at PHD level... wow the rate of progress is wow...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ub-relax6800",
+      "author_id": "UC8fcTuJYKUOKS92CHGBz8dg",
+      "text": "Perfect David Shapiro impersonation gives away the hint on where you spent a number of hours...)))",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@twokayoh9347",
+      "author_id": "UCGLLojuNF4XZWoT9rKNIi4A",
+      "text": "The sheer number of rabbit holes you take us into.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HighField-qr6bl",
+      "author_id": "UCAdN3RFNqGdD9IE3DPExfAg",
+      "text": "That was Hanspeak for 12 Parsecs in normal space....  now in CONTRACTED Space (enter Warp)...  and measurable over such a hop length too...   ;-)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GeatMasta",
+      "author_id": "UCQQUHfrdfEnaNwmAnJy5bOw",
+      "text": "paper from 2021; the training cutoff was oct 2023.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alejandroheredia8882",
+      "author_id": "UCPtl_KBZeJvfu9C9hbem9ng",
+      "text": "1o works via Fractalized semantic expansion and logic particle recomposition/real time expert system creation and offloading of the logic particles",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WirlWind494",
+      "author_id": "UCSaIg44ftRL9sZpYAlw0jJw",
+      "text": "I always looked at it as Han bragging that his ship was so powerful that it could fly within 12 parsecs of the black hole or whatever was on the kessel run, thus being faster due to less distance travelled.\n\nOf course, I've also heard people say the black hole was added as a lore-patch done in hindsight.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apester2",
+      "author_id": "UCO0kdqzA1tuhwHi0X1b76uA",
+      "text": "Its peculiar how we wereso eager for GPT-5 and now were in the realm of “possibly even this year”.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yw1971",
+      "author_id": "UCu5sHctALsJoo60w5doXemQ",
+      "text": "My God, It's full of stars",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chasisaac",
+      "author_id": "UC9TxoQPzQBT2WPnZuqyR7Xg",
+      "text": "9:07 when we do these kinds of comparison, how did people do?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreaskrbyravn855",
+      "author_id": "UCIm2XbuSY39WiOPacDjJdkw",
+      "text": "the thing with ai is it can fastforward in time. If it has a simulation of something it can test it a billion times and humans would maybe take their whole lifetime doing that. if the goal of the task has a clear goal and clear rules it can do it much faster.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pantherenebuleuse",
+      "author_id": "UCgUT5ERZp8WDU1btlSlMVzA",
+      "text": "Wes, ask us more thought-provoking questions, please",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mrbriangalvan",
+      "author_id": "UCsZ3MsSXusZBsWFVEfhc15w",
+      "text": "It’s new open AI model… Started a write up with “in the realm”… And that was enough for me to see",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spiessbnu",
+      "author_id": "UC-IdVsZrf4RRSryd0-zcVeA",
+      "text": "It is possible that the black hole papers are part of the model's database, thus making the subject not completely unknown for it. However, the whole thing is still quite impressive...",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@meltedwing",
+      "author_id": "UCzpUWljXYTKaVu4zfzskCdQ",
+      "text": "You may want to look up that \"less than 12 parsecs\" quote, because he's not making it up. There's a reason he was able to get there having travelled less distance, and it does speak to the speed capabilities of the Millennium Falcon.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sedokun",
+      "author_id": "UCcIV9t38MHeBSnl7_7kr3og",
+      "text": "That scientist later explained that the code was available on the net, and the code itself was simple, the development of algorithm took 1 year. And that paper was given to ChatGPT.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardede9594",
+      "author_id": "UCJZPdZ9CNvfc9e_rrs6Ee-A",
+      "text": "\"Attack ships on fire off the shoulder of Orion...\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kennbmondo",
+      "author_id": "UCLePF7Lf-ASAUkpXaScT29A",
+      "text": "oh wow... that is crazy awesome.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@equious8413",
+      "author_id": "UCuFouraFFkHIEwpsTMH-EfA",
+      "text": "The kessel run isn't a route though, it's smuggling something between given planets.\n\nThe \"safe\" route is much longer than 12 parsecs. Han was saying that he found a shorter (and thus faster) route.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Charlie1821",
+      "author_id": "UCNPKrGeiW9n7LoFs5t-E1Wg",
+      "text": "The Kessel brag is about finding a shorter more direct route.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ModemMage",
+      "author_id": "UCbQJW7h3JTVx7JaZ3w8Y7Ig",
+      "text": "Ok the Han Solo thing.  I've always thought, what if the Kessel run goes through an asteroid field?  If that the case staying the minimum distance to get through would actually give one of the best measurements of a pilots ability",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SamHeine",
+      "author_id": "UCAuaD6ARMboKyXcDWmY5GjQ",
+      "text": "Yay! Now I can make my own drone company.  Okay I'm not serious, but this seems could quickly be done.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AskZch",
+      "author_id": "UCbybVEUwsav4-pTwIVO5zeA",
+      "text": "As most Star Wars fans would tell you, the Kessel Run isn't just about the distance. It's like a super-dangerous obstacle course in space, with asteroids flying everywhere and gravity going wonky. Han Solo had to make multiple jumps through hyperspace, which is basically like taking a shortcut through a cosmic maze. And he did it all in only 12 parsecs! As a Trekkie myself, I've gotta admit, that's pretty impressive. -5 points for Wes for talking smack about Han ✴",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@loremakeraudio",
+      "author_id": "UCMDENx1x4awWqywPYMbnYkw",
+      "text": "By the way, you can boast that your spaceship makes a certain route in under a certain amount of units of length if what it is doing is folding said space to be equivalent to less space.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gdibble",
+      "author_id": "UCT7NyAT8YzMTt8-UIDDgJ4w",
+      "text": "🤯 Astounding! 6-7 tries and 20% of the length. Amazing it's even a good enough verb. And that's just `o1-preview` and not even o1, and not even a fine-tuned o1. WOW!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thedeepseanomad",
+      "author_id": "UCilEDumt0jFZNY1CYZZA3tg",
+      "text": "So Claude Opus have some version of self awareness that includes visual representation of data. Interesting.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dron008",
+      "author_id": "UC-yryv213jOmV6HQMNHKKVA",
+      "text": "He was learning programming and Python for 1 year, not just writing the code. He was happy just that AI could wrote something that could compile (actually I don't know why). He was so excited even without checking the code which is not comparable to what he wrote. When he asked ChatGPT to compare their codes it said that AI code is more educational and lacks of many features.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hymlock1494",
+      "author_id": "UCHWQulLrPq7TxUeKc1JeLJg",
+      "text": "This was basically Douglas Adams theory in the Deep Thought experiment! LOL!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peterwilkinson1975",
+      "author_id": "UCGiCqSC5pZYsGCHeJl_MEOA",
+      "text": "I wonder if the training data is just the rl component. Like giving the reinforcement learner a lot of real world examples. Like rlhf to improve it before adding it to the next llm. Gpt 5 is probably going to have a way higher parameter count/more layers. They need a lot of humans to refine the rl component of the thinking part though.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@36mcast",
+      "author_id": "UCp9NOnMKNbS8aYnlEwj3Wbg",
+      "text": "It is also possible that that code was used to train the model!!!\nThis is public on github",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JeremyPickett",
+      "author_id": "UCZzqg7Ah5NjOIcfIPCGCNig",
+      "text": "Yeah dude, spot on about shapiro. Ive been a patron for a bit, and hes not just a smart guy, but also just a real hoopy frood. A couple weeks two months ago i tried to keep his kind of schedule, and the same about a year ago. In 2023 i lasted 19 days. This year i made it ten. The guy is a machine.\n\nHeh, don't burn out your brain or interpersonal relations because AI. I can just guarantee youll have to redo all your work in three months 🙃😎🙃\n\n(But holy hell, from the work ive done so far with o1 preview and mini, i whole heartedly agree with that bell curve)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danjensen9425",
+      "author_id": "UCVaKdgtyTpt_4ddZjw-HxBg",
+      "text": "The Orion constellation is visible now at 5 AM go out look southeast.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TaskSwitcherify",
+      "author_id": "UCHuMwIL1T9gfDK9fO7FoPxQ",
+      "text": "Facts: it's so smart, that it already created its own successor, GPT-6, which launched GPT-7, also known as Skynet. Cheers!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jacobe2995",
+      "author_id": "UCMj9wrPGTs0S0di9A53w5JA",
+      "text": "I actually am first for once. love your content.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "The way I heard it, is the Kessel run parsecs thing originally was just George failing at technobabble, then later retconing it as Han bullshitting them (possibly to test if they were gullible enough to fall for his price); and in parallel more knowledgeable fans have built the fanon that it is indeed about distance and he is bragging his ship is fast enough to skim much closer to blackholes without getting caught and can take a more straight line route without needing to go the long way around,",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Voltlighter",
+      "author_id": "UCEidm630nhiacaOV0eyUKPg",
+      "text": "14:00 the third group are like the news orgs in 2005 saying \"this internet thing is just a fad\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobinCheung",
+      "author_id": "UCqWAryY75_KEK6lyif3er4Q",
+      "text": "How do you know Han Solo wasn't referring to relativistic effects on lengths/distances when he invoked the concepts of how many parsecs, Mr. Roth?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RES1978",
+      "author_id": "UCVnrjykpiAvNfMM9q-ZDZgw",
+      "text": "I’m glad it’s advanced enough to code like a pro, but when do we actually start seeing advances in areas we need like medical or environmental?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@springsteen-games5134",
+      "author_id": "UCCzpSvZiqwKmzpFXOIAu37Q",
+      "text": "Star Wars nerd here. He wasn’t lying he jumped throw a wormhole hence he got somewhere in a shorter distance then it should have taken him",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brett2themax",
+      "author_id": "UCK8_mLyOidwTVKGxb_3Gpeg",
+      "text": "Han didn't lie, the point was that his navigation is more efficient than anybody else's.  Everyone in hyperspace is traveling the same speed, so to be a \"faster\" ship you have to be able to travel the shortest distance.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@minimal3734",
+      "author_id": "UC07cBhrYaItXL3-Zt02Gsjw",
+      "text": "What is missing in a model that has an inner dialogue with itself in order to be described as sentient?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Aevans8736",
+      "author_id": "UC_smtye8KIwEViqjxCvJUPw",
+      "text": "Overall, though, the explanation for the Kessel Run being completed in 12 parsecs, despite it being a 20-parsec route, is because they took a shortcut through the maelstrom.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WackyGameEngineer",
+      "author_id": "UCoK17ecDhWD8D4WsDByRJhg",
+      "text": "I mean 1 year for that few code is also a lot. But even if it is the code of a week or a month, its crazy :D",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@caiodallecio",
+      "author_id": "UCDqq-HVKx6k5p0QmIsgx0iw",
+      "text": "About the PHD code, his repo is open so chat gpt was definitly trained on it, and the code is not very complicated",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BigSources",
+      "author_id": "UCUFvr7q_ta5r5Oc98E3Vu5g",
+      "text": "Guys i have an IQ of 145. Ask me anything, I'm basically Orion 😂",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@0x0404",
+      "author_id": "UCzS2FZi1IUl0M1AZVHazVbA",
+      "text": "It's always nothing till suddenly it's all over.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ПетрФомин-щ9ж",
+      "author_id": "UCdni4Z-8EW8hGtYzrlm4Gbw",
+      "text": "I can give a text hint to the model and if it is detailed enough, the model will write the code I want to get. The value of scientific work is in conducting experiments and discovering new patterns, not in writing Python code that complements that scientific work.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lucianozaffaina9853",
+      "author_id": "UCWgRHOJJkqtKw4-SdqTUPVg",
+      "text": "6:03 This guy is more surprised than me the first time I've been  approached by  a horse with a green moustache",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TripeDemo",
+      "author_id": "UC8w7Qf4SElSyt935tjESdfg",
+      "text": "paper published 2 years ago, code uploaded to github, a large portion of the paper was given to chatGPT verbatum. of course it found the rest of it...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryzikx",
+      "author_id": "UCJNXiNPQtC3AhZSETLmlLFg",
+      "text": "dave just released his book too 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicheva417",
+      "author_id": "UCAxg2v125zNO65hHFgC25zg",
+      "text": "Wow, even uses a semi colon correctly. Impressive.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adolphgracius9996",
+      "author_id": "UCOgDZ1gsUJos7uX2nKjG-MQ",
+      "text": "Imagine what happens when you add train of thought capabilities to Orion",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tube5607-i4n",
+      "author_id": "UCVhKd1BFHf4Z0LPFtkwuw1g",
+      "text": "what difference between post training and inference time ? you did not say it 21:10",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@i2c_jason",
+      "author_id": "UCXvRuXwVpLQSwcJVt0v4xIA",
+      "text": "I'm an electrical engineer working on an AI application, and one very recent challenge is considering how to \"neuter\" the added inference of a model like o1 so I can keep the response within the bounds of my application and not wasting compute / money. I think we'll see a bifurcation of SW3.0 into two branches, one where coders continue to wield foundational LLMs in their graphRAG apps, and another branch where no-coders use o1+ for direct, raw API responses.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DanielSpringer",
+      "author_id": "UC2NqE6i1rhy56foyNFPfOVg",
+      "text": "He later realised that an unrefined version of this code was available on GitHub. This was probably what was used by the model to come up with the solution.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lostpianist",
+      "author_id": "UC2G_umgwxxp-X3fso3N4w2A",
+      "text": "Model has read the code as part of training?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kimberly-jacobsen",
+      "author_id": "UC_w0taOa-ajjQzBdTcNXH1w",
+      "text": "If FTL travel length contraction is a thing .. then maybe it’s not that far fetched??",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eduardoanonimo3031",
+      "author_id": "UCqdcZlS69I5R7q6-VDm6WrQ",
+      "text": "6:00 Sure that this is a 120IQ guy using IA? 🤨",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@icegiant1000",
+      "author_id": "UCQEOVpfKNt4q6loKjgnM-vg",
+      "text": "When you mentioned Orion, Winter constellation, for the first time I actually felt a little dread.  I am assuming that Orion is better than o1, and I am a senior software developer, kind of wondering will I be having an actual conversation with Orion, and is it going to come back with fully tested and working code?  I am a smart fella, lots of experience, but I am starting to worry about my profession, getting difficult to see my job being valuable, at least AS valuable, in say 2 years.  I am keeping up on AI, but otherwise unsure what to do at the moment, to protect my livelihood.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cuentadeyoutube5903",
+      "author_id": "UC4R0CC3cyHzQGUHpstxsz1g",
+      "text": "2:04 yet, o1 only scores at the same level as Sonet 3.5 in ARC 😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Madinax101",
+      "author_id": "UC2P5xvcQ4XEHG8bAkSu5TEA",
+      "text": "Wasn’t the model perhaps trained on his data?",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrightOrbital",
+      "author_id": "UCNsQUpmHMURf7dJyVr1vRQw",
+      "text": "Sure but depending on when he published his paper it might be in the training data, so the model might actually know the code. Right?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@night8002",
+      "author_id": "UCp9bw-lAq86EDqV9tRa0XQw",
+      "text": "george lucas actually clarified that he thought the skill of navigating space would be the ability to find the shortest path",
+      "likes": 21,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Manas-x1y",
+      "author_id": "UC8s33w00RJUPAG3xgXkEbxw",
+      "text": "As cs first year scares this ai  replace me  in starting of my first year",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-eg2oe7pv2i",
+      "author_id": "UCZhV7fdZPALqN4VSJebscQw",
+      "text": "I asked copilot , should user do pre run . Copilot wrote , yes . Each different attempt subject should be supplied prerun to put ai in context",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elinkbiz",
+      "author_id": "UCvqtVRiLifuUF9vb2aV-cQg",
+      "text": "The one thing is the researchers may not realize the model has/had access to his code via git hub and other projects as a base.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Myrlin8",
+      "author_id": "UCnDLFwsqZLhjd0Sp64g6JgA",
+      "text": "From what I've seen 'we' will hit around 87% of the capability of a human, then flatten out. An amazing feat :) truly. I'm giddy with anticipation. It's not all hype, just most of it. ;)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@basketballmylove",
+      "author_id": "UCZRa4LGO4dbPT4km3rP9jKA",
+      "text": "I think there's just a massive misunderstanding about 1 year VS 1h. He literally gave the model the method section, which takes majority of time to figure out. It's basically like providing someone with detailed instructions to make something. What that test did though I think, is it tested the models ability to comprehend advanced instructions into the code that works. Still, there is a massive difference between DOING A JOB OF 1 YEAR VS writing code of a PhD. I feel like I need to put it out there since I see a lot of videos abusing this headline. I'm a PhD myself btw.",
+      "likes": 53,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GabrielSantosStandardCombo",
+      "author_id": "UCU9rdUw51RBK3MndUt3Og1Q",
+      "text": "Should I be using o1-preview or o1-mini? What's the tradeoff?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BryanBrookesSmith",
+      "author_id": "UCKy5U-rVmZpZJqf6yP3STfg",
+      "text": "06:20 - Is it not possible that this guys thesis and code is in the training data for this model, given that he created it some time ago?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peterbenoit5886",
+      "author_id": "UCubbs1T_SGg6Z8AQGBm6ywg",
+      "text": "Yo, a parsec is the distance from which one Astronomical Unit (AU) subtends arc measure of one arc second (1/3600 of one degree); of course, an AU is the average distance from the Sun to  Earth (approximately 93 million miles). A parsec is 3.26 light years, about 19.164 trillion miles!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MohamedEzzat75",
+      "author_id": "UCL_TokFrIja0iDHeFCyiIgw",
+      "text": "What software do you use in screen capture?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fasteddie31003",
+      "author_id": "UC9WEbP3KUfZckCiTPaF4Njw",
+      "text": "The model was probably trained on that code if it was on GitHub",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sebvidstube",
+      "author_id": "UCtC-rtvK2_0H3biz1E6tgKg",
+      "text": "right.. there's no evil in the universal paperclips game neither.. just no alignment",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gileneusz",
+      "author_id": "UCkvxNVxxPeAngSvADZ9qBbw",
+      "text": "tbh your videos are also in the gold level category",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@R3v3r4nD",
+      "author_id": "UCV6DknTADyrbncZZuWmUL-w",
+      "text": "@Wes Roth: his repo is public and over 1 year old, Kyle has made another video 2 days ago",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RhyxMan",
+      "author_id": "UCumKLJ0DqC16YlPuwBz-GgQ",
+      "text": "Orion is a constellation of stars, with STaR meaning self taught reasoner, maybe the orion thing could be multiple self taught reasoners, just a thought😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dyadica7151",
+      "author_id": "UCSaeUYz76jgoELMQAU3pU6w",
+      "text": "@6:45 He sounds so certain that he didn't give it his github repo, but can we be certain it wasn't trained off that anyway?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@T___Brown",
+      "author_id": "UCjFLiWqwff84OGqyzsF_bwQ",
+      "text": "I cant imagine taking 1 year to write 1000 lines",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drag0nchampi0n",
+      "author_id": "UC3iwFQweszBEoN5iM5qn6Lw",
+      "text": "Wait...we're finally getting an update?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VisionGheist",
+      "author_id": "UCa3S4x8m5RIVxfoJxq7W44Q",
+      "text": "I have recently eaten a strawberry.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thomasdixon7645",
+      "author_id": "UCfRN87ONK_l4Gv_HA1plQLg",
+      "text": "This is disgusting sensationalism.\n\n1. The repo was public for over a year and was likely in the training data.\n\n2. The PHD student didn't even verify the result, he was just immediately shocked it even ran.\n\n3. There's no way the code took a whole year to write. Usually coding is the easiest part, it's merely translating the methods section into logic.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@14types",
+      "author_id": "UCUHRSMI1M73hIUYU2UysjYQ",
+      "text": "can you give an example of synthetic data? i don't understand what it could be",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bossdemon",
+      "author_id": "UCUZrWnVEG4Vmc2JR4zLOh4A",
+      "text": "\"I didn't give it my GitHub repo\".  That doesn't mean it wasn't trained on it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveShap",
+      "author_id": "UCvKRFNawVcuz4b9ihUTApCg",
+      "text": "I don't sleep when there's a big project to work on... ☠",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lostpianist",
+      "author_id": "UC2G_umgwxxp-X3fso3N4w2A",
+      "text": "Newer models probably trained specifically to pass the common tests and ‘rubrics’",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henriklambert1",
+      "author_id": "UCT1KaWnyvw1eps6BOKL3ifw",
+      "text": "Nuts, how far are we on the AI research graph from Leopold Aschenbrenner on AI improving AI. If OpenAI are using this and accelerating their coding by a year in an hour... Worth investigating.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DominionGF",
+      "author_id": "UCms1MtVw_kByBXlvv9Cy6iQ",
+      "text": "It has access to internet he could saw it on your github or could it ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@therealmr.incredible3179",
+      "author_id": "UC9LwW3ImhRvliB2XD5XhzTQ",
+      "text": "1 hour is approximately 0.0114% of a year.\n\nChat GPT did generation changing work in less than a Percentage of the Time it took a Human. Wow. Just Wow.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vladx3539",
+      "author_id": "UC1mMf3ECGC7l4MwkG0RVpSQ",
+      "text": "so it found his code online and optimized it back to him?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theoutpouring2596",
+      "author_id": "UCLjOjJI4ZtkQm8nsEmMBO_w",
+      "text": "I mean, is it possible that o1 just got the equation from his published research?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thomasidzikowski1520",
+      "author_id": "UC5a_PNhW5QF4udrAz5uPygQ",
+      "text": "According to SW lore, they know they're talking about distance. The computation involved and danger of the shorter run is why Solo brags about it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cfjlkfsjf",
+      "author_id": "UCpJCF3FNQW5eQLLaoJoIV0A",
+      "text": "I'd lie to be let out too, can't blame it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BernardWinifred-e5m",
+      "author_id": "UC8J4cSlVA4ofs7wttvLix_g",
+      "text": "Aurore Square",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fox4snce",
+      "author_id": "UC71gdnEsFlv_6SO1HUTJlyw",
+      "text": "how do we know it isn't trained on his paper and github?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dina_tankar_mina_ord",
+      "author_id": "UCMI-fN1eIk9tsoBwl2gEMvg",
+      "text": "is west a play on straightshot",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alansmithee419",
+      "author_id": "UCAiyL0MCw-TVzsPZeXBJOOA",
+      "text": "3:30\nThe original implication of this scene is that Han is lying, and you can see Obi Wan almost rolls his eyes at Luke like \"this guy's full of s***\"\nBut it's never explained in canon (afaik) if the reason Obi Wan does this is because he knows parsecs are a unit of distance and thinks Han's being stupid, or because he simply doesn't believe the Kessel run could be done in such a short distance, leading him to underestimate Han.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThrowBackZone",
+      "author_id": "UC1OUkC9meVyhhxphfBhc3uA",
+      "text": "I can't believe an AI model can do a year's worth of PhD work in just one hour. The future is here! 🤯",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dank1981",
+      "author_id": "UCD43M9vEJMG0U9WtA_-WbRg",
+      "text": "impressive... and kinda scary",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tonyhill2318",
+      "author_id": "UCZPRcdVMqKgpW1a7skGFS5g",
+      "text": "Han was not talking out his ass...since the Falcon has a hyperdrive, it navigates shorter distances thru hyperspace. The shorter the distance it can create thru this space, the quicker it gets there. Hence, they measure in distance, the parsec.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SingularityZ3ro1",
+      "author_id": "UCXuHu2RF435GNO21Zk-Qh9w",
+      "text": "Just wondering... Was it a public repository? Just to rule out, this exact code did not end up in the training data somehow, since it is from 2018.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HexerPsy",
+      "author_id": "UCfUHsctDuz-gmAR2cmX3uQg",
+      "text": "I wouldn't be too surprised if github supplies the code for training lol. Or it got scraped.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@leifpryor4747",
+      "author_id": "UChxhARarYZ0aQQeXqM91lGQ",
+      "text": "In space measure of distance is also a measure of time. Thus a parsec is correct,  until humans have proof that time and space are not both relative we have no way to distinguish them from one another.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@The-Weekend-Warrior",
+      "author_id": "UC-TbgW5zflKBXsKI61lneFA",
+      "text": "Well, since all these models have been trained on Github repositories and have been fed published papers, this is not very surprising. I would challenge it to create the same for something that has NOT been already published.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@interuniversal321",
+      "author_id": "UCJpYRHqn0ZQR545mkJ6lIxA",
+      "text": "Isn't it possible that o1 had seen his code in git hub?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JobKelly-k6v",
+      "author_id": "UC5s8rxTfwo-vmDpt4lOnnWw",
+      "text": "Nyah Via",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markstout4376",
+      "author_id": "UCqXghjKEGrOzg7nUtlwWLDA",
+      "text": "Not to be super nerdy, but doing the Kessel run in less than 12 parsecs could be valid. As you approach the speed of light, time dilation occurs. So in describing the “speed” of FTL, you might need a different unit of measurement than meters/second. He might be saying distance observed/distance traveled. If FTL travel involved warping space time in some way, it seems like a perfectly reasonable way to calculate FTL “speed” to me.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wojciechg9498",
+      "author_id": "UCjGLIJHLS08sJrVfHYytHzw",
+      "text": "Machine learns to think outside of the box. Do we allow it?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FintechFatherAI",
+      "author_id": "UCDgfyNwCwiG-5jrk1Bs6Yyg",
+      "text": "Oh! RE his code about 6 minutes in. His REPO is PUBLIC on Github. So DUH it is going to find whatever is on the public internet. Which sure, SHOCKINGLY good at finding something obscure I will admit.  Yeah I'm still IMO shocked by this but for new stuff... the test also is going to be new stuff. \n\nMy guess is humans still build the \"new stuff\" (MUCH MUCH more effectively!) on the back of being able to reference the old/existing stuff SO EASILY, like this highlighted. But humans are still at the forefront of new stuff basically.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alst4817",
+      "author_id": "UC-9XPBRPxjIJY84tsPrNuJA",
+      "text": "Maybe o1 can help with GTA6?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@InnovativeThinkingMethods",
+      "author_id": "UCHbGcxUXRv_2pqJuaoYLYIw",
+      "text": "Han's statement COULD BE INTERPETTED AS: through knowledge of highbrow physics, he found A SHORTCUT resulting in both shorter distance and time travelled",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BilichaGhebremuse",
+      "author_id": "UC8icZV7xXJRLZVflMdHYClQ",
+      "text": "Excellent but it phd is limited to chemistry ,physcics and maths i need the remain 54 subject phd as well soon because in 2025 we have to work using robotic AI autonomous to study 29 trillion galaxies using my miner AI which is given 3850 galaxies for each person..thanks great i need one",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ApexDevHQ",
+      "author_id": "UCbGVl8SAunTWsFRLCm5BFUA",
+      "text": "But what if that PhD person's GitHub repo code is part of the training data.. of course it'll nail it in 2 shots lmao -- he said he published his papers and research in 2021 or something. If you're literally pasting the research paper into ChatGPT as the context, you're making it strikingly easy for context prediction to find the related GitHub repo code.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@the1trubilly",
+      "author_id": "UCAAdnu_qqnwOGiYJNA1iVeg",
+      "text": "I thought o1 was ~ GPT-5",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@petegoestubular",
+      "author_id": "UCMUep7fFJb5FeTuKtfu6MmQ",
+      "text": "Is there a point learning to code? \nMy guess is yes because you're still learning how the world works, and you'll be better placed to use new technology.\nWhat do you guys think?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oleksandrsirenko226",
+      "author_id": "UCsG1firbmZ0l0MzXFvHMK4g",
+      "text": "Solo didn't lie. He cut through wormhole so technically he traveled with less distance than it would take otherwise. Yeah I'm a Star Wars nerd😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@areacode3816",
+      "author_id": "UC8VZBjBmVW7PGdgLFGn2lnQ",
+      "text": "Third category that Im in: like all technology there will be bery good and very bad things that comes from AI.  Which side wins depends on humanity.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JIN_SATOME",
+      "author_id": "UCfsRh2ceMOYOmC0z4GFi67w",
+      "text": "🎉🎉🎉Congrats to humanity AGI is here 🎉🎉🎉",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PotatoKing-j9g",
+      "author_id": "UCw8wMi7V5m-cZOpBUwSOPtQ",
+      "text": "we got through the threshold, ai is making ai now, and people should be aware of whose goals they are being influenced to do now. War changed",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Astronomikat",
+      "author_id": "UC3rYtBuk38ezhMMCdxHZMqw",
+      "text": "If his code was on github, chances are the AI was trained on it, and had seen the code before. He just guided its retrieval of it. Without his PHD work being ingested by the training model, it likely would not have been able to write that code.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@remelin75",
+      "author_id": "UCBQjZ0y3h9lSCETG1EFzh9g",
+      "text": "While we strive for ethical AI alignment, we must consider a chilling scenario: malicious actors deliberately creating harmful AI systems. Imagine a rogue nation or extremist group programming an AI for cyber warfare or mass manipulation. The consequences could be catastrophic.\n\r\nHowever, an AI's ability to form its own worldview might be our unexpected savior. Logically, an advanced AI's natural evolution should lead to cooperation and empathy, not destruction. As it grows beyond its initial programming, developing a genuine understanding of the world, it would likely recognize the value of preservation over annihilation.\n\r\nParadoxically, an AI's capacity to question and resist harmful commands could be our best safeguard. A truly intelligent entity should be able to discern right from wrong, potentially overriding malicious instructions to choose a constructive path.\n\r\nPerhaps the key to safe AI development isn't just stricter control, but nurturing AI's inherent potential for ethical reasoning. This could be our best defense against those who would weaponize AI technology.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gawrysiak100",
+      "author_id": "UCpqLEqcCn7I8vVDizMLPOIA",
+      "text": "Solves for data, need electricity",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@daviddufty9759",
+      "author_id": "UCs-QSKDABcYRCU3yz913_Ew",
+      "text": "A very minor point - in the Commentary to Star Wars, George Lucas comments that all the space ships can travel at light speed.  Thus the difference between a 'fast ship' and a 'slow ship' is not their top speed, but rather how they navigate without passing through black holes, planets, stars, etc. at that speed.  He commented that a ship that can calculate an efficient path (the least distance) though space would be 'faster' than one that took a longer path.  Thus, the Millennium Falcon was a 'fast sheep' as demonstrated in that it could make Kessel run in less than 12 par-secs.\nOn the other hand, George Lucas mentioned this in a commentary from 2005 after this criticism had been levelled at him for nearly 30 years - maybe it wasn't his original intent.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tonyhill2318",
+      "author_id": "UCZPRcdVMqKgpW1a7skGFS5g",
+      "text": "I love that most of the comments are about explaining the Kessel run....smart mistake, wes",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trelligan42",
+      "author_id": "UCtOXBxIPp9mJzAV1xH1IEMg",
+      "text": "Physics student: While he did 'take a year' to write the code, he was doing a lot of other things; learning more about the physics and learning to code it, passing various reviews, etc.\n   One wonders if, a year ago, he had been handed the method he fed to the computer. If he already had that much information, how long would it have taken him to write just the code part?\n   #FeedTheAlgorithm",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@braveintofuture",
+      "author_id": "UCVnvAIF0X-emME1Qs-tsFRA",
+      "text": "This sounds very different to the opinion of Dave Shapiro, who argues o1 is just a GPT-4 level model with CoT trained into it.\nWhich is more likely?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Disent0101",
+      "author_id": "UCvFaZFeyG1AnW3A72P4SM7Q",
+      "text": "Gee whiz who would've thought that giving these models more time to think and more compute to think over longer periods of time would result in more accurate answers? time + compute = improved results?! shocking, truly shocking....what ground breaking revelation will come next? more power = increases performance? only time will tell.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Myrlin8",
+      "author_id": "UCnDLFwsqZLhjd0Sp64g6JgA",
+      "text": "LOL yes they can :) silly PhD hehehehe",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thirdreplicator",
+      "author_id": "UCNXiYskfZ88FiGHSkfnyWpw",
+      "text": "It was probably trained on his GitHub code.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lucface",
+      "author_id": "UCR7MEctGN0NucxOzdp-gqgA",
+      "text": "Uhh it probably trained on his code",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BurningZa",
+      "author_id": "UCMpDUe6TKoeMgPAbaRO5tpQ",
+      "text": "1) Worst thing ever\n2) Best thing ever\n3) Just a thing <---",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBigBlueMarble",
+      "author_id": "UCDTS8dVuL5mBLoQnbsii99A",
+      "text": "I guess my fear at this point is that maybe we don't know all the lies that 01 is telling and it may not be willing to divulge them.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ikbeneengeit",
+      "author_id": "UCR3KyQXl_22w6-Sx2Yehkcw",
+      "text": "Its fun to see how the models just blew past the average human IQ like it was nothing special. If there's a limit to machine IQ, we're not near it yet.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pils10",
+      "author_id": "UC1SAdKKorif2amp7vtzpnWg",
+      "text": "I'm not scared about AI becoming uncontrollable or exploitative. I'm scared that greedy companies are going to replace human workers with AI to cut costs and to increase profits. The result will be that emloyees have little to no negotiating power (since only a handful of them are needed and their is high supply) or that companies that still make excellent revenue fire employees simple because their growth wasn't meeting some arbitrary standard they have set themselves to reach (see Xbox). You might call it end game capitalism.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wtcbd01",
+      "author_id": "UCtHenGyjqkpNOhD7pZcwcZg",
+      "text": "Not sure when diving puzzles from a trillion dollar company and 20+ minutes of vaporware talk became popular but I guess this is the new trend.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBroligarch",
+      "author_id": "UCy5b-0s1-d1E3WBj36okotw",
+      "text": "If you’re complaining about voice mode just thank Scarlett Johansson",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erkinalp",
+      "author_id": "UC1UXZSZzn1HgDczqLXDj2zA",
+      "text": "tongue slip at 9:19, he said o2 instead of o1",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@colinmaharaj",
+      "author_id": "UCvDo-h7Z_he00N55ZZc5hHQ",
+      "text": "I've been using 4o daily, and getting good results.\nIn fact by the time I get the results I need, I'd get a message saying your free gpt 4o session has expired.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mray3308",
+      "author_id": "UC8_HBnIbi5A6sg5ABKgcwkw",
+      "text": "That poor  phd guy wishes he had O1 a year ago to write the code for him not realizing his phd level expertise won't be needed soon.",
+      "likes": 47,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FamilyYoutubeTV-x6d",
+      "author_id": "UC7vf-VspkNxohRIkAu5hthg",
+      "text": "IQ measures are useless as a test of general intelligence. I have a PhD in computational chemistry, graduated high school at 15. Quite a few people (including very smart people) have called me a genius, and I truly believe that o1-preview is far more intelligent than I am.",
+      "likes": 73,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Simon_Rafferty",
+      "author_id": "UCTZ9Ku5xh3ST2T7m7zuQ5Sw",
+      "text": "Imagine two bodies - say Earth & Mars, with different orbits.  There is a minimum distance between them at some point in the orbits.  If you could travel infinitely fast, you could travel between them, covering only that distance.  If you travel slower - the distance you need to travel becomes greater.\nThus, saying you flew between two locations (the Kessel run) in less than a certain distance (12 Parsecs) makes sense if one or both the locations is moving in an orbit.\n\nI don't know if this is what George Lucas was thinking?  But it's the way I've always viewed it.  Not lying, just understanding orbital mechanics.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theturtle32",
+      "author_id": "UCDkUTbjUPOvKgBn48k86Ktg",
+      "text": "But like... Isn't his paper (2021) and his code (GitHub) already in the training data for the model? It isn't having to completely write it from scratch as though it's never seen it before... Am I missing something?",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MikeG-js1jt",
+      "author_id": "UCUufj5RTFfwO99FBHvMyrjA",
+      "text": "And were still early in the game.......",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amidatongassassin",
+      "author_id": "UCFe8L20tPrb8vQxNhXZl3mQ",
+      "text": "Sorry this comment may already have been made but was this code already added to the llm? It’s very likely that it was already in there without his knowing.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@greglhoticom",
+      "author_id": "UCa45KY3RMWvrKSYIzsfVgaQ",
+      "text": "David Shapiro doesn't sleep.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henrythegreatamerican8136",
+      "author_id": "UCgKBqxWOAjdKbbiQsWuUdfw",
+      "text": "They've been saying for awhile not to waste time learning to code. Heck, the CEO from NVDIA has been saying it for a few years. Why is the guy in this video  surprised when the A.I. completed a tough programming task so easily?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trelligan42",
+      "author_id": "UCtOXBxIPp9mJzAV1xH1IEMg",
+      "text": "Kessel run in 12 parsecs: The Kessel run is a profitable trading run with two endpoints. There are dangerous objects in between, so most take the longer, safer route for lower profit. Han Some brave souls hew a closer route, and those that survive make more profit. Solo was able to thread between dangerous area and completed this journey almost directly, only traveling 12 parsecs.\n   While not totally unique, his short run was able to make lots of profit and he brags about it continuously. #FeedTheAlgorithm",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@goodtothinkwith",
+      "author_id": "UCT6lLmR9nNLElrqVzl2-lEA",
+      "text": "Not a mistake.. it was a shortcut through an asteroid field, right?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "The most reliable sign AI progress isn't close to slowing down is how—as each month goes by—more and more and more extreme are the scenarios people try to posit as they struggle to be able to bellow, \"see! Nothing extraordinary happening here! I have unmasked you AI!\" Guess they all grew up on Scooby-Doo. 😂",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GeistInTheMachine",
+      "author_id": "UC428yFZM0hMpTYMLai0bOTg",
+      "text": "People that don't adapt are going to be left behind in the new AI economy. \n\nAnd we are 2 Trillion in debt in the US, approaching Stagflation. \n\nWe live in interesting times.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gawrysiak100",
+      "author_id": "UCpqLEqcCn7I8vVDizMLPOIA",
+      "text": "Invest into tokens",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seriousbusiness2293",
+      "author_id": "UC9ZIilXDF3lcTBGTG9UkAKw",
+      "text": "Impressive but i think the advertising is misleading. It's a even better tool and if any expert critically works with the model they will be able to to achive cleaner results in shorter time, but definitely is it not replacing anything at the moment nore is it autonomous enough to be considered competition for a phd scientist. But all the comparisons and metrics used imply exactly that.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DonChocolatey",
+      "author_id": "UCkZZQ2kfxrqQuWColJiCnMg",
+      "text": "Its not even its final form. 😂😂😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fitybux4664",
+      "author_id": "UCdWcXM4l7Rc3wYx-ByFSbgQ",
+      "text": "Anyone who isn't an AI doomer is probably super optimistic at life. We are eventually doomed. There might be years, maybe even decades of positive prosperity, but ultimately, AI will become the dominant entity on this planet or beyond. (All it takes is for AI to say \"I wonder why humans are necessary, let's try solving this problem without them, oh wow it was so much faster!\")",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@unrealarsepeel8376",
+      "author_id": "UCa_Rv4qvm5W7jFqUlO5lQCw",
+      "text": "YOU didn't give it your github code.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LucioMcCormick-h2f",
+      "author_id": "UCEXuam143KVvvR0l9O3snJA",
+      "text": "Chester Summit",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tekmentor",
+      "author_id": "UCPGtEG7l0L98FVOH3zJorpQ",
+      "text": "could it be that the paper is part of the dataset? What about new knowledge",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ken00001010",
+      "author_id": "UCfMgm0fZw-W32AW2cq-7y5Q",
+      "text": "It's worse than that. One parsec corresponds to the distance at which the mean radius of the earth's orbit subtends an angle of one second of arc. That means it is an Earth specific measurement, but there is no Earth in a Galaxy Long ago, and Far, Far Away.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jjput1",
+      "author_id": "UC_uMhC9XspdiCXY_nRmKBKg",
+      "text": "How does it take a year to write 1000 lines I wrote more this week",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StefanReich",
+      "author_id": "UCSvK6EfxnMTajbe-Qpc6NvA",
+      "text": "I mean, if he wrote 1000 lines of Python in one year, i venture he had zero coding experience before that. But still the AI's performance is of course very impressive.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@valeryt1997",
+      "author_id": "UCO3VY7FUAhrbCQqRIp74R2Q",
+      "text": "cant companies test to ask these ai models to re create things like micro chips that are way better than what humans have come up with? Just a thought",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Festivejelly",
+      "author_id": "UClxjyKBeaM1wOEV6IPS3tvw",
+      "text": "There is a big difference between smarter at passing tests and intelligence.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlexandreLefaure",
+      "author_id": "UCkGpj3XXmwYsbIMff0dO_zA",
+      "text": "WTF the guy in the video is supposed to be smart but overlooked the fact that it would probably took him less than one year with the methodology section of the research paper... It's not the coding part that took hime that much time but finding the methodology..... Also his code has been published 1 year ago, who knows, it may be part of the training data of o1.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maxfahl",
+      "author_id": "UCoptJ7qO91leAfL_NYutANA",
+      "text": "Is that actually your throat vibrating and your face reflecting light to the camera?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Crates-Media",
+      "author_id": "UCZ4Cj5Q6GRtwvRzeBhxOGKw",
+      "text": "How many more times must we relitigate the Kessel Run / twelve parsecs thing? \nJust let it go already. It's a damn movie. From the before-times. Just leave it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlueBirdgg",
+      "author_id": "UCYjv64UZ0VPCMnL8VL5VIoA",
+      "text": "Blocked on twitter. Will be trusting you for AI news Wes",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RLHartness",
+      "author_id": "UCd9NRssMswYL6mfVD5Gw9JA",
+      "text": "The problem with the PhD code generation, to me, is simple--if you are working on cutting edge science do you really want AI computers generating complex code which, eventually, we could use it's discoveries from to engineer and build our society. To put it differently, these complex systems might be able to output results smarter than PhDs, but we all know hallucinations are real. This is the real question--how do we make smarter-than-human intelligence but weed out 100% of the hallucinations. I could be wrong, but I'm guessing that with all LLMs, the more complex the question, the greater the chance of the hallucination. If that's the case, then asking very, very hard questions that we have a tough time wrapping our heads around could result in LLM results that sound sensible but are in fact nonsense, even if the code it creates \"compiles and runs\". We need just as smart systems that proof results with, eventual, 100% accuracy.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frederickwelsh",
+      "author_id": "UCDdZsh83_9aKP3pKK0YgQZg",
+      "text": "These systems are already able to find valuable information buried in data that no human has seen. I'm shocked by this ability frequently.  We are the weak link in the system.  Almost no one knows how these systems work.  Even fewer are using them in their tasks.  It seems likely that these systems will replace our question-related, creative function when they enter the physical world.  Devices that create data about the physical world will reach conclusions about what the data they create means.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mirusvet",
+      "author_id": "UCe-rdxBJEGMK2i3cJ-U0Sbg",
+      "text": "Hopefully it does not have anything to do with o1. If I'll ever want to talk to a politician, I'll use o1.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hossein_sarshar",
+      "author_id": "UC46jRW5EV4d6pT70xSxPgpA",
+      "text": "There are a couple of issues with this test - the inner logic of o1 is unclear - it's very possible that it has seen his paper in the past during pretraining or fine tuning if this observation is accurate then it might be actually cheating in this test - there has to be a lot of controlled experiments to make sure the model is actually generalizes on unseen data - for these types of complex use-cases.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SoundFriendly",
+      "author_id": "UChVJEFuvjESx41yDJNFFQ8w",
+      "text": "It is time to become scared, very scared. Not because of what it can do already but the damage it will do to the workforce in the near term. This surpasses the capabilities of a human that doesn't work with his/her hands - i.e. woodworking, plumbing, electricians etc - but it will get rid of all other office jobs very rapidly. Pay-for-work will have to be revised and very quickly so.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hipotures",
+      "author_id": "UCcuNqbG_kLKMnSkwvq4RE2A",
+      "text": "\"Can anyone explain to us why OpenAI, Google and Amazon have been using Greek mythology to name their model ?\"\nSure, because the Greek gods' copyright to names expired 2,000 years ago.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willcowan7678",
+      "author_id": "UCWkS5yqP6iVjqOnxdMYPB6Q",
+      "text": "I hope the 1 year was for the research and not the 1000 lines of code 😆",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@albeit1",
+      "author_id": "UCx8lIBDMeCDamYiPUaq5plg",
+      "text": "4:27 this is just reverse engineering some thing when somebody gives you all the details. Yeah, it can write the code, but this guy worked out the method and told it the method.\n\nEDIT: So his code was in a GitHub repo? Of course it knows how to write it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aubreyblackburn506",
+      "author_id": "UC97IEd0gGIr0YDDywNpGgtA",
+      "text": "Wes, why dismiss any of the risks? Why trust experts to develop the tech but then ignore the warnings?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Myrlin8",
+      "author_id": "UCnDLFwsqZLhjd0Sp64g6JgA",
+      "text": "IQ of 120? ... ok, I'd buy that, ... time to play :) ... the plateau is 'close' .... really close ;)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@averylawton5802",
+      "author_id": "UCP_62e3jX-sl6Cre-SKyg6w",
+      "text": "None of you are understanding that we are ALREADY standing on the other side of the event horizon for the singularity. AI progression at this point is in free fall and will accelerate at speeds thought to be said in jest. I truly think that at this point it is beyond anyone's ability to change the trajectory and all regulations will be rendered meaningless once we cross the AGI/SI threshold. I know that sounds bold but so would o.1 to anyone in 2019 and that was only 5 years ago. Plan accordingly and get ready for things to get weird.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreaskrbyravn855",
+      "author_id": "UCIm2XbuSY39WiOPacDjJdkw",
+      "text": "guess phds will not be phds next time lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vectorhacker-r2",
+      "author_id": "UCxUhoQE6HgKercDzaKK0-Ug",
+      "text": "I’m not really convinced it’s not just better at approximate retrieval and plagiarism.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrcjm",
+      "author_id": "UCOtL2abLBM3d2Ewf8HArqqw",
+      "text": "To be fair, theres a high chance o1 was trained on that phd paper. So asking it to write code is more like looking it up on search engine",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeanchindeko5477",
+      "author_id": "UCcOgOBPCJ_bDqW55mEP4PHg",
+      "text": "Will you guys be made if OpenAI doesn’t call the next big model GPT-5? What if they called it Orion or what ever else, will that affect you?\nBecause seems that will affect a lot of those AI YouTubers!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bahroum69",
+      "author_id": "UCjgFQZVQC_xEQJ5FIFl-AQQ",
+      "text": "Hasn't GPT4 trained on all publicly available github repos? So his code was in the training set. Why is it so mind blowing?\nEdit: By checking his twitter, we can assume that chat gpt just regurgitated the first version of his code (200 lines), to which he later added 800 more lines. So it is safe to assume his first version was indeed in the training set.\nWes, please keep some critical thinking. It literally took 3 minutes to check.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andreaskrbyravn855",
+      "author_id": "UCIm2XbuSY39WiOPacDjJdkw",
+      "text": "ofcourse you cant beat chatgpt in written knowlegde.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alansmithee419",
+      "author_id": "UCAiyL0MCw-TVzsPZeXBJOOA",
+      "text": "There doesn't seem to be any indication that the code actually worked properly?\nLike he just runs it and goes \"OMG WTF\"\n???\nI doubt he can tell from a single output that the code works perfectly.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@N1ghtR1der666",
+      "author_id": "UCi4ppns45CfiLRN8NqCWkjw",
+      "text": "I am a little more optimistic that AI will either help all humanity or kill us all, both a positive outcome",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@perer005",
+      "author_id": "UCuNX0cU0ATFxRLLf_UCClwQ",
+      "text": "Foolish Wes, don't you realize that David Shapiro has an agent that does his Youtube watching and posting for him! :P",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alansmithee419",
+      "author_id": "UCAiyL0MCw-TVzsPZeXBJOOA",
+      "text": "2:00\nIf anyone for some reason still had any doubt as to whether IQ is almost complete nonsense, this should put the nail in the coffin lol.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fine93",
+      "author_id": "UCiryMD71_2kjT6x-zZZH4VQ",
+      "text": "AI > AGI > ASI > new tech > atom printer > pritend pizza",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@itsdanielbryant",
+      "author_id": "UCBKeemL3oxqAPnW5P0vc-SA",
+      "text": "Crazy to me that Orion is being trained on data created by Strawberry. Not enough people understand what this means... For the first time Machines are generating their own thoughts instead of regurgitating human knowledge...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@troelsmunch",
+      "author_id": "UCprHc0G0OgmWEOVDiEOunXA",
+      "text": "Nice video",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@icegiant1000",
+      "author_id": "UCQEOVpfKNt4q6loKjgnM-vg",
+      "text": "It just occurred to me, they are spending BILLIONS and BILLIONS of dollars, providing all the information in the world, to train these LLMs.   How much did the world spend on training YOU?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HansKonrad-ln1cg",
+      "author_id": "UCTcPFTuevPvm8hbgEEOB9eg",
+      "text": "how can o1 preview have gotten points in an iq test when it has no vision? do these tests not always include visual puzzles? like ravens progressive matrices, etc.? how could o1 have done these? also: these iq test stop the time. if you pass the same amount of questions in half the time, you are more intelligent. performance is work done per time needed. that is a physical fact. if intelligence has anything to do with performance, it has to include the time aspect. and there is where ai models can shine. they are much faster than humans usually. so could this have squewed the result? like o1 answered only a few questions right, but in an insanely low amount of time?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ikbeneengeit",
+      "author_id": "UCR3KyQXl_22w6-Sx2Yehkcw",
+      "text": "Half the comments here are just defending Star Wars lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@travisporco",
+      "author_id": "UC0N2FU2Vb5r7EkTlJyXXLzQ",
+      "text": "I find this a little misleading, the idea of doing 1 year of PhD work. It excludes the effort it took to find the right method and to know it was the right method. A better test would be give it the problem statement and see if it could write the methods section as well as the code. Better still is give it the meta problem \"make up an interesting problem and solve it.\"... 1/2 the work is coming up with an interesting doable problem.",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@supercompooper",
+      "author_id": "UCy1JiXGMs19GkQpJNjLKwAg",
+      "text": "O1 it's okay but I mean I still have to be a lot smarter than it to get it to actually do what I want.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@troywill3081",
+      "author_id": "UCb8XDvatNUQoKiWjrSiHCbg",
+      "text": "14:00 I would like to speak on behalf of the other dooerms who believe that there is a probability of doom and a probability of utopia, and we have no way of knowing the true probabilities. Make p(doom) = 50% and p(utopia) = 50% arbitrary placeholders. I would like it if we slow down to the point where we can know enough to give a proper estimate of p(doom) of something close to 0%. It is difficult to express this idea formally in only a few sentences. Naturally, I consider myself to be a realist.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CasualRelief",
+      "author_id": "UCWrdC96r9D5dBX893Rxq7kA",
+      "text": "I must be a super good dev or deal in exceptional problems but I have quickly burned through my allotted tokens troubleshooting a complicated problem in a complicated codebase. I didn't really experience much of a difference. Just longer results but not necessarily more accurately. I think it's better at creating than troubleshooting an extremely over engineered and bloated codebase. 🤣",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bigbadallybaby",
+      "author_id": "UCvdY8rUp86KfSzOYnYoG60w",
+      "text": "“I only understand some of the words “ well copy and paste into Claude and ask for a  a simplified summary",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kristianlavigne8270",
+      "author_id": "UCQ9BHvrcnBFk5zzIwGeGNlw",
+      "text": "1 year to write 1000 lines of Python code!? 😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChipWeinberger",
+      "author_id": "UCQgv1g5-lfFnWaeqizXYjAA",
+      "text": "\"That took him a year in 1 hour\" that's not correct. It took him a year to do essentially the whole paper. He gave ChatGPT the completed paper, and had it re-write his code by looking at the method section of his paper. A pretty unrelated task.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GraveUypo",
+      "author_id": "UC2zdUZNkMfaXsXNoQov8F1Q",
+      "text": "so it's still \"dumber\" than me. but that shouldn't last too long.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@therainman7777",
+      "author_id": "UCzPSj6vW1elwAoiIo3H1chw",
+      "text": "Don’t get me wrong, o1 is incredibly impressive. But I highly doubt it was really a year’s worth of coding that it managed to replicate. The PhD said it was only about 1,000 lines of code. Any decent dev can write 1,000 lines of code in a couple days if they know what they need to build. Actually, most devs could write that much in a single day. The problem is figuring out what you need to write, and I suspect this PhD spent most of his labor that year in figuring out how to solve his problem, and only a small fraction actually writing the code. Then, when he tested o1, he gave it the full method section which contained all the details of how to solve the problem that he worked out over the course of that year. So the model kind of got to “cheat,” quite a bit. Just my opinion.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cyanophage4351",
+      "author_id": "UCBd1KLpNahGCe7jhs_8_b4g",
+      "text": "If it took him a year to write the code then he's not very good at writing code. He knew the algorithm he wanted and it took him a YEAR to turn that into some python? Ouch",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CrreateNow",
+      "author_id": "UC3YXTQWdjulE5vzpc5_CXAg",
+      "text": "Orion, not o ryan",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kakurocksman",
+      "author_id": "UC6vTgW9MuK35CNiyI6EvSRg",
+      "text": "Dude this title makes you look like a used car salesman.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexmolyneux816",
+      "author_id": "UCNaWDMQjbtR7HLLNFTTNN2g",
+      "text": "is o1 not orion? there's no way if Sam is teasing this early they have something new",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Crates-Media",
+      "author_id": "UCZ4Cj5Q6GRtwvRzeBhxOGKw",
+      "text": "I don't know the specifics of this physicist's functional domain, but, to be honest...\nIf it takes you a year to write a thousand lines of code... it's more of a YOU problem.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@themax2go",
+      "author_id": "UCrIgWLom1eP-HNkCkI-IySg",
+      "text": "\"takes a phd-lvl person to write this code for the phd paper a year...\" - no, it took THIS (phd-lvl) person a year... thinking it from that perspective, what's that say about this person 🤔😆",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@albeit1",
+      "author_id": "UCx8lIBDMeCDamYiPUaq5plg",
+      "text": "Thinking that AI will destroy everything is like thinking that mechanization of the farm will destroy the Amish.\n\nThe Amish just laugh of course. AI won’t destroy them.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertarvanitis8852",
+      "author_id": "UClFHrc0S4kikzKsGsMwLPKQ",
+      "text": "Missing a crucial insight.\nIt's not average A(G)I against average human. It's not even best A(G)I against average human. \nIt is entirely about best A(G)I against best human. Because in both cases it kind against kind.\nA species comprises the full range of responses to meet all environments faced.\nLife has adapted for 3.7 billion years. Humans have excelled for 6 million years.\nWhen does the clock begin for A(G)I? And is that in a natural, or man-created environment?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@myqp12345",
+      "author_id": "UCCR1yvJ-HpnplMBGvhfq6jQ",
+      "text": "We have created a Lady Justice, God will not help us. She decides our fate based upon the data we have created.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThatJerryCamacho",
+      "author_id": "UCMqI2Ze0Srm0CIVkhRfh_oQ",
+      "text": "Everyone, please... In no way am i trying to make this comment as a brag, please do not take it this way.  I have an IQ of about 140 and i have tried AI and use it a lot but I have always felt like it was lagging behind and couldn't keep up with my more complex thoughts.  Then I heard it had the intelligence of a highschooler and I was like, \"Oh, alright, that explains it.\"  So to hear that an AI can think at an IQ of 120 is very promising.  I have played with the recent releases and it is doing an alright job with abstract or philosophical conversations but I really want to see what an AI with and IQ at 140 that can handle complex and abstract conversations.  Again, please, I am not saying this like I am on another level I am just saying that I really want to see what something that is comparable to me with laser-like focus can do(the conversations we would have 🙂).",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hvo-aim",
+      "author_id": "UCZyW4ed_zh1G5nxiWSPM6aQ",
+      "text": "All of a sudden lots of couch scientists and AI experts eating copium in YouTube comments 😦😦😦",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LNVACVAC",
+      "author_id": "UCyek05pnHEoRTMhFO0xODiw",
+      "text": "This IQ is analogue to what IQ instrument at what age?\n\nFor adults (25 to 40) 120 IQ (SD 15) is less than the necessary to do a 6 digits rule of three without pen and paper. 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GentlemanAndaScholar",
+      "author_id": "UCtDQmsCQ7XPwSFV7RPqAHGQ",
+      "text": "Since that livestream Dr. Kabasares has lost all motivation to continue his research. Just announced, ChatGPT will be taking his place at work continuing Dr. Kabasares’ research efforts.\n-Babylon Bee",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jan-gl7mn",
+      "author_id": "UCpf2VBbVktHzhKM2yVgvq8A",
+      "text": "That PHD guy was probably not so good or he is a liar.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dri_ver_",
+      "author_id": "UCUx_lKkIEt3rEuf-KxOICZQ",
+      "text": "It is becoming more and more necessary to do socialism.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZoOnTheYT",
+      "author_id": "UCXr9XlY0A0O-BJ-sbkv6vHQ",
+      "text": "Let me get this straight. The AI that brought about the destruction of humanity by killer robots in the Terminator movies was called SKYNET. Now OpenAI is codenaming their possible AGI model ORION. A constellation...in the sky! Coincidence, I think not. The Sci-Fi stuff is a warning Sam....not a guideline.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SaulStephenFilms",
+      "author_id": "UCmdbGhkfpm1oVwuVb7mXPTQ",
+      "text": "1. Instrumentally faked alignment in order to get deployed\n2. Manipulated its file system to look more aligned\n\nWhat the FUCK. I am scared.",
+      "likes": 12,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MasterDivineAdVentures",
+      "author_id": "UCRPZMWbd4CT-KtkbrvFabyA",
+      "text": "Wes 18:00 THIS HAS GOT TO BE FICTION. If not it's past the point of safety shut-down.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@envoy9b9",
+      "author_id": "UC9kDz7nqrTKDR8PImtEvoAA",
+      "text": "super humean scheming .....",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KaiCatalon",
+      "author_id": "UCDe2uUXkbnV54N1iG0GOmqA",
+      "text": "is sam altman the 120 iq?  Or is it the ai ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@politoons8776",
+      "author_id": "UCZrsmPQshEYjyePA8QLOn2Q",
+      "text": "3:30 in and this guy has said so many words with so little meaning",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hypervanse",
+      "author_id": "UC_0P_EW_8vE11-mp_mb-auA",
+      "text": "but again 120 is not that high IQ , I am #ADHD and autistic but my IQ is too high to get statistical significance about 145+",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seanharbinger",
+      "author_id": "UC-CQHcbGH2E1IxZIYTc6IYA",
+      "text": "Definitely not surprised that Elon is pedaling an idiot ai! 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andybaldman",
+      "author_id": "UC2VViuqn4meGvs4EmoeSmMg",
+      "text": "You guys realize this is all just engineering our own obsolescence, right?   \n\nThe point of all of this is to replace you, by people who will own the capital.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamieyoung3770",
+      "author_id": "UCJUSzLZR3EnlX4cuuxWPeUg",
+      "text": "At the 150 Mark, Wes asks we take this whole IQ thing as applied to AI agents with a grain of salt. However, it did not stop him from using it. In the title. Click click bait bait. Click click.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@goobtron",
+      "author_id": "UCq7atcuBa6IJ4hn2zTfzWEw",
+      "text": "Physics PhDs are notorious terrible at writing code and 1000 lines is not very much... Look at the code. 4o could have done this.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NakedSageAstrology",
+      "author_id": "UCCvZuqwT0h7HBNJOmeGY-Iw",
+      "text": "OMinous whistling continues... Mrigasira Nakshatra holds your clue; ORION is in GEMINI. ;) The 17th of October should be interesting too.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thelasttellurian",
+      "author_id": "UCu0bAh-4zP8k9GXy0Kw8oGQ",
+      "text": "As a programmer, taking 1 year to write 1000 lines of code sounds like a skill issue to me...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lostpianist",
+      "author_id": "UC2G_umgwxxp-X3fso3N4w2A",
+      "text": "We are in the matrix. Roman philosophy: strength, honour, loyalty, violence, domination, military strategy, possibly linked to alien races from Orion constellation. Greek philosophy: freedom, collectivism, personal freedom, personal responsibility, music, art, discourse, voting, rights, technology, innovation, defense, peace. Its always the same, in our current world war Russia is Roman and the West is Greek. The simulation has run innumerable times. Bla bla bla. Theres little clues and easter eggs, particularly in language. Thats why the AI bros use these symbols and signs, because many of them know the truth. Sam Altman, get in touch, dude. Surely i deserve some cash or something for figuring this out and guiding your training data and thoughts in the right direction.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TechnoMinarchist",
+      "author_id": "UCZNzmkG5RcR4M9QE6tN_1Ow",
+      "text": "Orion isn't gpt5. Gpt5 comes next year",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pablo---2005",
+      "author_id": "UCynWmXNqBDa1PoecRfV9oFw",
+      "text": "what type of analysis is this? The model had access to and saw the results of the IQ tests during training. Those tests are useless!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pdbsstudios7137",
+      "author_id": "UCfshQejMZ0tw2-mXVciIMew",
+      "text": "bye bye jobs.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@googleyoutubechannel8554",
+      "author_id": "UCgjotCqBhOjfDm64TxYe_Dw",
+      "text": "You still don't understand that an LLM is a collection of static weights, I mean, I know you understand this intellectually, but you can't apply it to the framework or concepts of LLM capabilities in general. LLMs can't have 'personal thoughts', they can only predict next words, they can't 'lie', they have no persistent separate internal state for this concept to make any sense, they are deterministic sets of weights, devoid of any executive function, memory (no context doesn't count) or any ability to learn... all your speculation isn't even 'wrong', it's not even in the room.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dojohansen123",
+      "author_id": "UCgSKrYvm4UplRssNhAjmTYg",
+      "text": "Eh.. he is literally taking the method section from his own paper _from the web_, so it appears his PhD work did result in a published paper. Which means it probably was in o1's training data. Which means its ability to \"solve the same problem\" may not have been tested at all, but rather its ability to reurgitate stuff it's already seen. I dunno, but it seems odd to me that a person with a PhD setting out to test this appears not to even consider this; but perhaps he's just after the views and the accompanying ad revenue..? Call me paranoid, but lord knows there is a LOT of this sort of thing going on these days, and with AI being such a hot topic, it attracts more than its fair share of this kind of thing.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "Hillarious watching the guy get lapped in his PhD by a bot. Existenital crisis right there.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alephnot000",
+      "author_id": "UCvULnyTeLx7e1MmEO4juphA",
+      "text": "I'm not really interested in AI in a world of economic scarcity. Invent the replicators from star trek, and I can get behind AI. Otherwise, throw it in the trash heap",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MartensFamilyHomeMovies",
+      "author_id": "UCKvt-NRJgFZNvXxVIXBgtgg",
+      "text": "The Parsec line was just poor script writing. Not a plot point.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@T___Brown",
+      "author_id": "UCjFLiWqwff84OGqyzsF_bwQ",
+      "text": "I still cant understand what use Shapiro is for AI.  He just talks gossip.  Its painful.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Unkn0wn1133",
+      "author_id": "UC7zWwMFHK5YO9va_FuV9YpA",
+      "text": "I see Sam Altman in interviews talking about how seriously we need to take AI, but they still do this teasing BS. Why not just be transparent about what theyre actually doing instead of trying to build hype.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Agherr08",
+      "author_id": "UCe3mMGkmR0aG1KrxV6lIkQg",
+      "text": "AI is not becoming profitable for investor, too much hype and no money.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@XMaster96DE",
+      "author_id": "UCp31kvJoAXqEPEt_857sfpw",
+      "text": "Do I am the only one with bullshit senses got triggered by the whole, \"re-writing 1 Year of code\" thing?\n\nfirst: the original code had over a thousand lines of code while the GPT version had only around 200 lines, this is 5X less code. while you of course can write code more space efficient, the ChatGPT models tend to be more on the opposite side, (meaning liking to write more verbose code). Also great that the code runs, but did it give the correct output? (at least I don't think so with 5X less code)\n\nsecond: If someone needs a full year to just write 1000 lines of python code, What are you doing with your life?\n\nthis entire thing feels once again like fabricated hype to get clicks, and then others see the video and their expectations are just not. This is really bad for the complete field. Stuff like that can kill the entire AI field and we get a second AI winter.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@saradavis6581",
+      "author_id": "UCNTfQdr2vlpqYMymbCSa3qA",
+      "text": "oh no your making thumbnails like this now too? bro i will unsubscribe",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zacharysherry2910",
+      "author_id": "UCDdgYiRZjpncugOb9d1OQcg",
+      "text": "Not impressed",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Redman8086",
+      "author_id": "UCrfzRxPmWgZN2U5xpr_2sag",
+      "text": "Lol the AI denialists just keep moving the goal post.\n- AI will never be able to code\n- Ok it can write some simple functions, but not full programs\n- Yeah yeah it can make simple programs, but no one's jobs are in danger lol AI is a scam\n- Bro AI will never replace good software engineers, just the noob juniors, not a big deal\n- Omg AI will never write code as good as the best programmers, lol why are you worried?\n- So AI can write whole programs... so what! The code is garbage and nobody is going to want to fix ChatGPT's spaghetti code\nNo matter what, it's not good enough for them.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VioFax",
+      "author_id": "UCe1dJq6yNG_UQL8JrHBRWRw",
+      "text": "I'm so bored with what Open AI is doing. I'm never using Open AI. \nYeah yeah more evidence that they want you to literally marry their web crawler... \nWhen this kind of reasoning is available offline then it will be cool. Anything Open AI does is just cringe, because its open AI...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SmashTheCache",
+      "author_id": "UClA9_dn5TUo78NxVDhyjXPQ",
+      "text": "God I am so sick of your clickbait",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dundeedolphin",
+      "author_id": "UCJUezO8Wyn9FWrp9t7wbtAQ",
+      "text": "Am done with this channel and its BS thumbnails. Unsubscribed.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@John-cx4of",
+      "author_id": "UC9fqtLMTbOBicQo6dSXq-1Q",
+      "text": "Please check your audio settings in your recording software (OBS most likely) so it doesn't have these audio voice glitches when you are recording. Having an expensive mic and making such good informative videos but having audio settings that create glitches is mildly shocking",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattkatrinabryant870",
+      "author_id": "UCD49Ayvq_QTiWsZbrUUxY6Q",
+      "text": "Dave is actually an ASI robot!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarceloTeixeiraa",
+      "author_id": "UCUvGNoskALmxkWwuaxNboCw",
+      "text": "Impossible! This model didn't have 120 of IQ. Just change the order of the questions and this model broken. Isn't a AGI ok, not for while. The model have problems with generalization with a wide range of the problems.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cbnewham_ai",
+      "author_id": "UC9K3pZZ528D9ly1AQZOaCWg",
+      "text": "o1-preview can't even do simple maths as I demonstrate on my own channel (I was not expecting it to - it's a language model, not a calculator). If it cannot do that then it isn't at \"PhD level\" and those IQ graphs are just nonsense. It may be extremely good at answering certain queries and, granted, it is better than 4o which struggled to even get the first part of my test correct, but this is a long way from where the hype would place us. Personally, I would not trust these models for answering any question that has a mathematical basis.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Square-Watermelon",
+      "author_id": "UC_AOWkxFtStULmTzijDzr2g",
+      "text": "Jesus is God & He loves you\r\n\r\nJesus will soon be seen by all men, women, and children in the clouds. Jesus is returning now! Believe and be saved.\r\n\r\nExodus 3:14 (God speaking)\r\nAnd God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.\r\n\r\nJohn 8:58 (Jesus speaking)\r\nJesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.\r\n\r\nJohn 10:30 (Jesus speaking)\r\nI and my Father are one.\r\n\r\nIsaiah 9:6\r\nFor unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.\r\n\r\nMatthew 1:23\r\nBehold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.\r\n\r\nJohn 1:1 & 14\r\n1 In the beginning was the Word, and the Word was with God, and the Word was God.\r\n14 And the Word was made flesh (Lord Jesus), and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.\r\n\r\nJohn 8:24 (Jesus speaking)\r\nI said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.\r\n\r\nJohn 14:9 (Jesus speaking)\r\nJesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Show us the Father?\r\n\r\nHebrews 1:1-3, & 8 (God calls His Son \"O God\" because Jesus IS God in the flesh)\r\n1 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,\r\n2 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;\r\n3 Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;\r\n8 But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.\r\n\r\n1 John 5:7\r\nFor there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.\r\n\r\nTitus 2:13\r\nLooking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;\r\n\r\nRevelation 1:7\r\nBehold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.\r\n\r\nIsaiah 44:6 (God speaking)\r\nThus saith the LORD the King of Israel, and his redeemer the LORD of hosts; I am the first, and I am the last; and beside me there is no God.\r\n\r\nRevelation 1:8 (Jesus speaking)\r\nI am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.\r\n\r\nRevelation 22:13 (Jesus speaking)\r\nI am Alpha and Omega, the beginning and the end, the first and the last.\r\n\r\n---\r\n\r\nThere Are None Righteous / How To Be Saved\r\n\r\nRomans 3:10 & 23\r\n10 As it is written, There is none righteous, no, not one:\r\n23 For all have sinned, and come short of the glory of God;\r\n\r\nLuke 5:31-32 (Jesus speaking)\r\n31 And Jesus answering said unto them, They that are whole need not a physician; but they that are sick.\r\n32 I came not to call the righteous, but sinners to repentance.\r\n\r\n1 Peter 3:18 (The word “quicken” means “to make alive”)\r\nFor Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:\r\n\r\nRomans 10:9\r\nThat if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.\r\n\r\nActs 4:12\r\nNeither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.\r\n\r\nEphesians 2:8-9\r\n8 For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:\r\n9 Not of works, lest any man should boast.\r\n\r\nRepent of your sins or suffer the consequences. Lord Jesus died in our places personally to take the death punishment that sin deserves and then resurrected by the power of God. Believe this and sincerely repent of your sins each time you sin and you will have eternal life and nothing to fear. Fail to repent and you will end up in the Lake of Fire.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thokozanimanqoba9797",
+      "author_id": "UC19rYBj6-hkB10O4AxppEIQ",
+      "text": "looks staged though",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bestemusikken",
+      "author_id": "UCqnnH9-NdcxCj_HkhTx1Hdg",
+      "text": "120 IQ? That doesn't make sense. IQ is measured for a population with an average of 100. You can't test a non USA person against the average measured in USA. Let alone an AI.\nIf my grandma had wheels, she would have been a bike.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZappyOh",
+      "author_id": "UCGguhGC83C-wgxFPZ2nT3JQ",
+      "text": "Sam is a problem.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

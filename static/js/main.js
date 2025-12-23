@@ -27,6 +27,8 @@ function showTab(tabName) {
         loadModelingData();
     } else if (tabName === 'bootstrap') {
         loadBootstrapTopics();
+    } else if (tabName === 'hierarchical') {
+        loadHierarchicalData();
     }
 }
 
@@ -950,5 +952,137 @@ function showBootstrapSubtab(subtab) {
     });
     document.getElementById('bootstrap-subtab-' + subtab).style.display = 'block';
     document.querySelector(`.bootstrap-subtab[data-subtab="${subtab}"]`)?.classList.add('active');
+}
+
+// =============================================================================
+// Hierarchical Topics Tab
+// =============================================================================
+
+let hierarchicalData = null;
+
+async function loadHierarchicalData() {
+    try {
+        const response = await fetch('/api/modeling/hierarchical');
+        if (!response.ok) {
+            document.getElementById('hierarchicalTree').innerHTML = `
+                <div class="empty-state">
+                    <div class="empty-icon">🌳</div>
+                    <div class="empty-title">No hierarchical data</div>
+                    <div class="empty-text">Run <code>python modeling/hierarchical_pipeline.py</code></div>
+                </div>
+            `;
+            return;
+        }
+
+        hierarchicalData = await response.json();
+        renderHierarchicalStats(hierarchicalData);
+        renderHierarchicalTree(hierarchicalData.topics || []);
+    } catch (error) {
+        console.error('Error loading hierarchical data:', error);
+    }
+}
+
+function renderHierarchicalStats(data) {
+    document.getElementById('hierTopics').textContent = data.num_topics || '-';
+    document.getElementById('hierHierarchical').textContent = data.num_hierarchical || '0';
+    document.getElementById('hierSubtopics').textContent = data.num_subtopics || '0';
+    document.getElementById('hierSample').textContent = 
+        data.config?.sample_size ? data.config.sample_size.toLocaleString() : '-';
+    document.getElementById('hierDate').textContent = 
+        data.generated_at ? formatDate(data.generated_at) : '-';
+    document.getElementById('hierThreshold').textContent = 
+        data.config?.silhouette_threshold || '-';
+    document.getElementById('hierarchicalFilename').textContent = data.filename || '';
+}
+
+function renderHierarchicalTree(topics) {
+    const container = document.getElementById('hierarchicalTree');
+
+    if (!topics || topics.length === 0) {
+        container.innerHTML = `
+            <div class="empty-state">
+                <div class="empty-icon">🌳</div>
+                <div class="empty-title">No topics found</div>
+            </div>
+        `;
+        return;
+    }
+
+    container.innerHTML = '<div class="topic-tree">' + 
+        topics.map(topic => renderTopicNode(topic)).join('') + 
+        '</div>';
+}
+
+function renderTopicNode(topic) {
+    const isHierarchical = topic.is_hierarchical && topic.children && topic.children.length > 0;
+    const silhouette = topic.silhouette || 0;
+    
+    // Silhouette badge class
+    let badgeClass = 'good';
+    if (silhouette < 0.1) badgeClass = 'bad';
+    else if (silhouette < 0.3) badgeClass = 'warning';
+
+    const topWords = topic.top_words_ctfidf || topic.top_words || [];
+    const comments = topic.example_comments || [];
+
+    return `
+        <div class="topic-node ${isHierarchical ? 'hierarchical' : ''}" data-topic-id="${topic.id}">
+            <div class="topic-node-header" onclick="toggleTopicNode('${topic.id}')">
+                <span class="topic-expand-btn">${isHierarchical || comments.length > 0 ? '▶' : ''}</span>
+                <div class="topic-node-info">
+                    <div class="topic-node-name">
+                        ${topic.parent_name ? `<span class="subtopic-label">sub</span>` : ''}
+                        ${topic.generated_name || `Topic ${topic.id}`}
+                    </div>
+                    <div class="topic-node-meta">
+                        <span>${topic.count} comments</span>
+                        ${topic.parent_name ? `<span>Parent: ${topic.parent_name}</span>` : ''}
+                        ${isHierarchical ? `<span>🌳 ${topic.children.length} sub-topics</span>` : ''}
+                    </div>
+                </div>
+                ${silhouette !== null && silhouette !== undefined ? 
+                    `<span class="topic-node-badge ${badgeClass}">sil: ${silhouette.toFixed(3)}</span>` : ''}
+            </div>
+            <div class="topic-node-content">
+                ${topWords.length > 0 ? `
+                    <div style="margin-bottom: 8px; color: var(--text-muted); font-size: 12px;">Keywords</div>
+                    <div class="topic-keywords">
+                        ${topWords.slice(0, 12).map(w => `<span class="topic-keyword">${w}</span>`).join('')}
+                    </div>
+                ` : ''}
+                
+                ${comments.length > 0 ? `
+                    <div style="margin-top: 12px; margin-bottom: 8px; color: var(--text-muted); font-size: 12px;">Example comments</div>
+                    <div class="topic-comments">
+                        ${comments.slice(0, 5).map(c => `<div class="topic-comment">"${truncateText(c, 200)}"</div>`).join('')}
+                    </div>
+                ` : ''}
+                
+                ${isHierarchical ? `
+                    <div class="topic-children">
+                        ${topic.children.map(child => renderTopicNode(child)).join('')}
+                    </div>
+                ` : ''}
+            </div>
+        </div>
+    `;
+}
+
+function toggleTopicNode(topicId) {
+    const node = document.querySelector(`.topic-node[data-topic-id="${topicId}"]`);
+    if (node) {
+        node.classList.toggle('expanded');
+    }
+}
+
+function toggleAllHierarchical(expand) {
+    const nodes = document.querySelectorAll('.topic-node');
+    nodes.forEach(node => {
+        if (expand) {
+            node.classList.add('expanded');
+        } else {
+            node.classList.remove('expanded');
+        }
+    });
 }
 

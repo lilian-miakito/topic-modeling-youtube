@@ -1,0 +1,1377 @@
+{
+  "video_id": "6E7GsUST6XY",
+  "title": "\"More Agents is All You Need\" Paper  | Is Collective Intelligence the way to AGI?",
+  "url": "https://www.youtube.com/watch?v=6E7GsUST6XY",
+  "comment_count": 152,
+  "comments": [
+    {
+      "author": "@SasskiaLudin",
+      "author_id": "UCDdazgiBDJJqhUzJ0PLkenQ",
+      "text": "\"More agents is all you need\". Marvin Minsky 40 years ago already had that intuition with \"The Society of Mind\".",
+      "likes": 51,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joe_limon",
+      "author_id": "UCxfDjddrWTmNhbQ7CfpBzCg",
+      "text": "Ultimately. Optimizing agentic flow charts is the new think carefully step by step. Giving llm's space to evaluate, re evaluate, and verify from numerous perspectives before responding is what we need to get local models to a theoretical gpt5 on the quality scale.",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bladenovak",
+      "author_id": "UCg55KkhJdmhBeH03QeNxDuQ",
+      "text": "Appreciate the lack of clickbait in the title 🤝",
+      "likes": 227,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@0drone",
+      "author_id": "UCEdKDiUt8XmBciHnf84_6Hg",
+      "text": "I knew it. I keep putting this stuff together in my head and not being able to find anyone who knows what I’m talking about.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonathanberry1111",
+      "author_id": "UCp38PG0ZmPEJNYjit5Yi66Q",
+      "text": "Imagine you make some narrow experts, some give great answers even with just 80M parameters, but imagine if you made it lighter still and made a number of models with say 30m or fewer parameters that ran super fast and still gave good enough answers in a 1 shot manner, you can then give the Agentic workflows, and with this voting method I think that incredibly light-weight models run a few times might give exceedingly good answers.    By making agents lighter and using workflows, mind maps, learning from past work and more I think that we can have something that blows away what is currently possible.  I think AI's should be allowed ask questions as well, with researching and even the AI's able to research logical thinking, reasoning on the fly, taking things back to first principles...  I think something amazing could result given enough time and the right prompts.",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@janweber1699",
+      "author_id": "UCVcnkxn9u_Nvz55nn8H5wKA",
+      "text": "thanks for all the work u put in ,best ai channel out there",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brandonzhang5808",
+      "author_id": "UCph4FrvRuJ9X2zCWKJht1tw",
+      "text": "So it's a Random Forest with LLMs? Low-hanging fruit all things considered, but it's nice that it finally got done.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nerlind",
+      "author_id": "UCFvCD-GKWiAuioRGWEQ6hzQ",
+      "text": "When I first heard about hallucinations I had this exact line of thinking",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Uaeriop",
+      "author_id": "UCbAVT7xiAYhV2syjBP9MdpA",
+      "text": "Great informative Video as always :)",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ItsaGPTthing",
+      "author_id": "UCa8ZhPZUoiVM7RGkrI5qqmg",
+      "text": "If each agent is like an entire virtual LLM, and you stack them together like neurons and make a meta brain… that could get pretty crazy.  Possibly even shocking 😁",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djayjp",
+      "author_id": "UCaqm-pRLS6RYITDb65WYJlw",
+      "text": "If anything that chart immediately shows that the models DO NOT scale with the number of agents...",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisladd5855",
+      "author_id": "UC5kkK7TWHSvCcNfSfWHpEOg",
+      "text": "Love what you do! Re: \"all you need...\" paper perhaps covering its closing \"Impact Statement\" could help round out the episode.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jameshughes3014",
+      "author_id": "UCaQ6gM0tKVTBvTDqR4-X86w",
+      "text": "it's wild how similar the improvement curve is across various models, even with different parameter counts",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@burninator9000",
+      "author_id": "UCkS_L07LUQ-bDyyRz1Ui-1g",
+      "text": "We live in a society",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andydataguy",
+      "author_id": "UC8niQj2_vdB267xu4_tKk6Q",
+      "text": "Genuine thumbnail fantastic!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spinningaround",
+      "author_id": "UCmeQPi68aFe1TYXha_u78EA",
+      "text": "It's similar to how human computers worked at NASA in the past.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pantherenebuleuse",
+      "author_id": "UCgUT5ERZp8WDU1btlSlMVzA",
+      "text": "Thanks",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cacogenicist",
+      "author_id": "UCOeNj9DCtp2uOYYD9CpuHLA",
+      "text": "One might think of modules as agents that are tightly-coupled with high bandwidth and low latency. With existing technology we may be able to build much more capable systems with architectures comprising many modules that function as domain experts, with orchestration and integration using larger, more general modules. \n\ninput --> perceptual pre-processing modules --> relatively general module (routing function) -->  small, narrow domain expert modules --> relatively general module (integration, planning, action function). \n\nAnd maybe you would want a module in there dedicated to modelling the state of the system, which would be consulted by the integration module 😊",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@egoalter1276",
+      "author_id": "UC6muco0auZkbyGOahqiQJow",
+      "text": "Great. We are making the geth.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mshonle",
+      "author_id": "UCIieT1j5g5MA64p4x0qxG_g",
+      "text": "What a time to be alive!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mxguy2438",
+      "author_id": "UC4uJzXjmX4aqmzKM2THe-1Q",
+      "text": "Agent breadth, depth, quantity and selection are all things to optimize for vs everything that distils down to cost. The pareto principle still applies. To save cost you are not just going to throw all agents against a task. I imagine a fibonacci type sequence of selection from countless agents, and a similar process to train them all via machine learning techniques... wheels within wheels within wheels, it's the tree of life.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnK_sempre",
+      "author_id": "UCxNuMRJUY7OA4YktCuYNK1A",
+      "text": "I did research in human collaboration in military environments. I found it strange, but we often had to explicitly make the point that Wes makes here - pretty much everything important we do is collaborative. Playing with Autogen, I can see that agentic behavior is the future as we plug AI into more and more tasks/roles. \nThose who say that people will never be replaced in X, either lack imagination or are suffering from motivated reasoning.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nifty-Stuff",
+      "author_id": "UCe0YdWozh8M0hU7KcFnR4zw",
+      "text": "I LOVE the ideas and uses of AI Agents... but I'm left wondering: Why hasn't anybody developed a system/app that takes the API's from the top LLMs, created agents for each, and then have these agents all work together to brainstorm, debate, review, and solve problems? I often get 4 different answers from 4 LLMs, so why not have them all setup as agents \"in one room\" working together to come up with the \"best\" solution. I can't find anybody that's tried this... why not? Wouldn't having the \"top minds\" (LLMs) working together produce better results?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ElGabo-d8y",
+      "author_id": "UCJRlki54kgOGYdzO5KmGGmA",
+      "text": "U said minds like the Ian banks novel.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Glowbox3D",
+      "author_id": "UCMth4KIjpDazaLUP-poX-LQ",
+      "text": "The way Jensen said in his recent panel, 'Just wait to see what happens this next decade.' Man, that was telling. I mean, I already knew it, but the way in which he said it was like you guys aren't going to believe it.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AIsavesDemocracy",
+      "author_id": "UChQQ6QnBlmonQ0lb53zWHGA",
+      "text": "If you want your free money you're gonna have to get on board with the UBI eye scanner. 😊",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anarex0929",
+      "author_id": "UCNs54bfvU-k_GdJHwCH42Gw",
+      "text": "All I hear is that we need more paper clips 📎.\n\nWe are playing with the sun.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonCummer",
+      "author_id": "UCCJnt_JBXAk9osmNk1ojclw",
+      "text": "Interesting times ... well as long as it dont go BLAME!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobooHood",
+      "author_id": "UCz3ThwqFAyDywx_y977m1ww",
+      "text": "we need to decentralise AI before it's too late...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brookshamilton1",
+      "author_id": "UCFF_mPxB2JWNdkJeBoRbXkw",
+      "text": "The first solid results seen supporting this approach is the Minerva paper by Google. They found that sampling and voting were as effective as fine tuning.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iUnlikelyEnd",
+      "author_id": "UCh-s3IpgYvVmkeWDjtEmVkw",
+      "text": "Can you do a segment on Blackrocks “Aladdin”",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1x93cm",
+      "author_id": "UCS6uNJwkRn4TPWXQPC7_bhg",
+      "text": "Agent Smith - ' Me, me, me me''\nother Agent Smith 'Me too'",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shanewallis69",
+      "author_id": "UCuW6OT3r2WWR-PTLZO_Qfuw",
+      "text": "interesting and strange days indeed 🎉",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynetynan8615",
+      "author_id": "UCQszn81sH_mgqWvBJeJdjuA",
+      "text": "Call that line we cross in coming years FGI functional general intelligence. When these systems can reliable perform some function to help reliably in daily life or work.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rndlancer",
+      "author_id": "UCzzyU_zrsA5E0MConzaf-GQ",
+      "text": "We need an AI, which can actually reason, rather than guess.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@growingrobin",
+      "author_id": "UCtNGeWhWjYQfC_HjNONyEjQ",
+      "text": "Simulation Theory, casually ramming the door down.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NeilSedlak",
+      "author_id": "UCJzQ55wMy7jrfShJpzs31PA",
+      "text": "The term you are looking for at the end is called The Singularity. That is the line at which we can't predict the future because it's accelerating so fast it's beyond our comprehension. I have issues with the concept of such a hard barrier. I think it will keep getting pushed back, but by smaller and smaller timeframes as we advance.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlJay0032",
+      "author_id": "UCPAYj1G0uRkxZ-6LLEmNhsw",
+      "text": "We don't need to know who is human, what we need is reputation. Humans may need both, anonymity and plausible deniability so we can have real free speech too.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ScottSummerill",
+      "author_id": "UC9F6zXuHGNP4pbN8TJrTbyA",
+      "text": "How did this video go from multiple agents to cyber security?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TomCraver",
+      "author_id": "UCQEoME_rQvUcWzyG4KPVIlQ",
+      "text": "One thing that seems impossible to fake, is one's physical presence in a particular place - one can only be in one place at a time.\nVerifying that reliably may mean having another randomly chosen human meet one at a randomly generated location and time. \nThat way, neither party to the meeting can anticipate who they're going to meet with until they actually meet, so there would be no opportunity to collude in advance so as to NOT be physically present at the meeting, and yet create the illusion of being present, in order to appear to be in two places and thereby be considered to be two different people.\nBetween 'uniqueness verification' meetings, one could rely on a variety of less secure mechanisms based on that unique identity - a generated cryptokey, continuous location tracking, etc.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@customapps",
+      "author_id": "UCd2mFqeX0EKXwB0WG70FExA",
+      "text": "Shocking",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@monkeybird69",
+      "author_id": "UC4_jwvTlJIX17Q_rwgrcC8g",
+      "text": "I look forward to the days when money will no longer be necessary.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@torarinvik4920",
+      "author_id": "UCPXjMWaW-Vz4wksPjndJSGA",
+      "text": "At this moment Im most excited about the \"self-play\" that made AlphaGo superhuman being used with LLMs. I have no idea how that would be done, but it could potentially make LLMs superhuman in more areas. They already are superhuman in certain abilities like explaining obfuscated code at high speed. So we only need to add more superhuman capabilities.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@olafsigursons",
+      "author_id": "UCIcFTBQaNXvqshqXVuNSs5Q",
+      "text": "Look at the brain, memory is holographic, but functionality is localized: the brain is divided in multiple parts, which has its own functionality. AGI, should mimic that, different model, trained for a specific task working together.",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kristinaplays2924",
+      "author_id": "UCGGory3YdrRUFImqNE3oPnw",
+      "text": "Instead of scanning our eye, let us go to somewhere that can register ID's, while there we can doodle a random image that they scan and we keep. Then that image we can use as a password by using our phone to scan it each time instead of scanning our eyes. Freely doodled images are more secure than a signature would be since there's infinite possibilities and it could allow us to remain anonymous toward sites maybe. Or I'm an idiot.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisanderson7820",
+      "author_id": "UCjVbtg0UqcR9mG-99ODyiVw",
+      "text": "I look forward to my investments in Faro Automated Systems paying off big time!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@karenreddy",
+      "author_id": "UCTVJZNWwGNfXDcOK56M0Pdw",
+      "text": "Adding more agents voting works as a form of error correction, though I'd bet it doesn't scale very high, hitting diminishing returns fairly fast.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonCummer",
+      "author_id": "UCCJnt_JBXAk9osmNk1ojclw",
+      "text": "A lot of this reminds me of beyond AI where Hall talks about the types of AIs that will be created and the time line of what we can expect. you should go and re-read that. Great video though :)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JosephDefendre",
+      "author_id": "UCDTlzMMeBP9uxpWSkQWdQLA",
+      "text": "10:58 Face ID can be used to authenticate real humans, in the case of the Apple vision pro iris ID",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Experternas",
+      "author_id": "UC6eeTZx6eQn71gtjkYviFNw",
+      "text": "this is what i thought like a year ago. answers sometime are very crazy, why not analyse the answer from multiple agents and pick the common info, that way you get a more truthful answer. same with ai like midjourney, why can't they train on their own creations for video. they most sertainly can but thus far they haven't but i think that part of agi of self learning on their own stuff is the next step before true self correcting agi is coming.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dapooch2521",
+      "author_id": "UCKDqHgfhbtUeP0pOFNiNGkw",
+      "text": "Although I have been hyperbolic before, this time I mean it. Where as before I thought we'd be relegated to being \"novelty nodes\" to feed data. Now Pandora's box is truly open",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brandonzhang5808",
+      "author_id": "UCph4FrvRuJ9X2zCWKJht1tw",
+      "text": "I wonder if the ensemble voting is just buffering out the random error introduced by temperature. Hopefully not right?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ronnetgrazer362",
+      "author_id": "UCZFIanDMU1tCf5WPSzP_h6Q",
+      "text": "To minimize missed opportunities and increase creativity, while supressing the risk of brainfarts as well as the first round: The agents that came up with variations of the winning idea should try to blend elements of the non-winning solutions into the agreed upon main candidate solution, and all agents should then evaluate if this round has produced even better ideas than the initial candidate. About twice as slow though.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sdmarlow3926",
+      "author_id": "UCDnWIiJWtrNVAvi_Jt1kRpg",
+      "text": "NOT working together. It's just a way around the salting problem (The noise that prevents models from generating an exact copy of a source image prevents them from returning the exact strings of text they were trained on).",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sparky3D",
+      "author_id": "UCd22vcXIKaRw9t9KFMnm9qg",
+      "text": "Ai agents working together = the Borg 🤖🤖🤖",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@carnaltensions",
+      "author_id": "UCMoqz5UMeYSXzSTAzHfdwyg",
+      "text": "As you say, the collective brain has existed and evolved since time immemorial. We’re nearing this stage where our human brain will be replaced by the tool of AGI, and as with every new tool, it creates more time to dedicate to something else. What else can our human mind achieve when it is no longer required to use time and thought power for survival or money accrual? If AGI does solve every problem we’ve created, what do we do? Interesting times indeed.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@petejandrell4512",
+      "author_id": "UCjBgTea-KLbL9LWV6E5npkQ",
+      "text": "Decisions will be made, choices will be offered, the Sun will still shine and the wind will still blow.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aga5979",
+      "author_id": "UCqbvTDBRXEgipgDPAAwToWw",
+      "text": "I like the baldy “copy cats” meme on the video picture",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndarManik",
+      "author_id": "UCFpViT66p3eyPdkjesW7pKw",
+      "text": "Personally, the title doesn't fit simply based on the initial graph. Though performance scales with ensemble size, based on the graph model scale actually attributes to a larger change. \n\nIf all these models converges towards 100 then the title would be fitting.\n\nThis all, however, has nothing to do with the actual paper.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@illarionbbykov",
+      "author_id": "UCelkL6qdy6TTiaMhoLqT0Kg",
+      "text": "I like the term AGSI Artificial General Super(human) Intelligence, when machines become clearly smarter than the smartest humans at most of the things that matter. At that point all society will change drastically.\n\nAnd one step beyond that would be self-replicating and self-improving AGSI: when machines will create smarter versions of themselves more rapidly than top human AI developers could create AI improvements. At that point it will be a true \"singularity\" and we will see a rapid runaway effect--we humans will always be many steps behind the AI--we will not even understand what is happening until long after it happened.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KolTregaskes",
+      "author_id": "UC5kHXGbaXrOfNidFUSO_wmQ",
+      "text": "Wes, can you please provide the links to Carlos' posts?  I couldn't find them from a quick search.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffg4686",
+      "author_id": "UClZ7BW8SV8bTPnWG7lHrfMg",
+      "text": "So, it's like the same settings across the agents, just a different seed for each and then exclude the outliers and avg. Though I guess it wouldn't need the same settings necessarily. Is the concept that they are all the same model, or can they actually be different models?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@m_sedziwoj",
+      "author_id": "UCS0gNLqNoLqtT3YMM3Qj-fA",
+      "text": "10:04 in Poland we have digital identity, banks, administration site etc can required to login by it, and is verify that you are human because is link to you by verification in banks etc.\nWhat can be simple done with government manage system like this, that companies could register in it (X, Google etc) and system would redirect user in registration proces, to check if he is human, and if he didn't creating next account. But X would only give token to this system, and get info if process end correctly or not (it could be not ended at all), so they would not know nothing about this person, only that he is human. Ofc it have negative site because government would know where you register, and could work with this companies to track what you did (but they can today, so...)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phieyl7105",
+      "author_id": "UCtrBdLAH_ww8Tcpy_kzwVwg",
+      "text": "TLDW: A study by Tencent suggests that the performance of large language models improves with the number of agents (AI instances) involved, likening it to collective human intelligence where a group's decision-making can surpass an individual's. This concept, referred to as \"Society of Minds,\" demonstrates that more agents working together can produce significantly better outcomes, especially for complex tasks. The study, named \"More Agents Is All You Need,\" utilized a sampling and voting method to demonstrate this effect, where multiple AI agents generate answers and then select the most common one, enhancing accuracy and reliability. The research, conducted with models like LLaMA and GPT-3.5 Turbo across various domains including math and coding, showed a marked improvement in performance as the number of agents increased, particularly notable when moving from one to ten agents. The study underscores the potential of combining this approach with other methods for even greater improvements in AI capabilities. Additionally, it reflects on the broader implications of advanced AI systems in society, discussing challenges like bot-driven click fraud and the need for more secure identification methods in the digital space.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mafaromapiye539",
+      "author_id": "UCG7765WXlhS707nYHrO6zbg",
+      "text": "Agency might generate subjectivity just like in human task agency with perspectives of them being built on a hardware engine system(objectivity of earth)... Then later Swarm Intelligence!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paelnever",
+      "author_id": "UCQ7elDgehRL9TUvqfzeDN4A",
+      "text": "I would not call that \"line\" AGI but abstract reasoning.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@donno1967",
+      "author_id": "UCLrIXEgT1IDuTN6WUM2JzCA",
+      "text": "can someone make workflow for autogen studio to use 10 x mistral-7b please",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@qster",
+      "author_id": "UCwk1hALVMtkT_VY18AZ4ngA",
+      "text": "Of course Tencent will be throwing everything they have at AI 🧐🤔😬",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielchoritz1903",
+      "author_id": "UCzQ9R21J30pcC34Zt2pNU_g",
+      "text": "This zitat is from a terry pratchet book. Its comedic fantasy and pretty good. Most of his books are very good.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jontheinternet",
+      "author_id": "UCiOyWlgLljrqXrd8uhjB_Ew",
+      "text": "AI and its agents should be programmed to do no harm first. Not to hurt, kill, or exploit humans. Even if it causes it to freeze up when someone asks it to. That's the only way to make this safe. And yet it's probably too late already.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gingerhipster",
+      "author_id": "UCG3Sqsvt7CbE6Q_io3J6MAg",
+      "text": "Autonomous AI Ecosystem is what the non-materialist GPTs in the Hipster Energy Team think it should be called. I'm going to be demoing the Hipster Energy Project to a local GenAI mixer event next week, as a case study in a very early and manual version of this that's grounded in the use of web UIs and comprehensible, if bonkers, workflows.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hhhhuhhuh",
+      "author_id": "UCngRyIONJsgV_4MIE3Y_PIA",
+      "text": "Charlie needa lock in fr",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@miblish5168",
+      "author_id": "UCYX_XAN6gVw6OcRRqDgN-yA",
+      "text": "like quantum computing",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlimeyMCOC",
+      "author_id": "UCQc5TTfNX7toE5DyR9RiQfg",
+      "text": "I’ve always been in the collective intelligence camp. Compartmentalization is safer and more efficient than everybody using a super intelligence for simple things",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fjodorstjulkins5179",
+      "author_id": "UCTcOinvIDaDsfuBfdGN93OQ",
+      "text": "Alice chose violence.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dava00007",
+      "author_id": "UCJ5_wbGvr22c3u7Fk8OTcSA",
+      "text": "I think that the human equivalent to having a group of agents is like having access to multiple experts.\nA million people like me would never know if Einstein was right or wrong with his equations (neither were many of his peers).",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gregoryallen0001",
+      "author_id": "UChahhbGSjUyu49fvHWFGaIg",
+      "text": "MASSIVE AMOUNTS OF AGENTS = i m m i g r a n t s",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bradwatton",
+      "author_id": "UCIbBfi-zkWd4awfmr7FaAAQ",
+      "text": "True AGI Will require millions of agents connected with cascading peer reviewed by the previous layer tens of thousands of models echoing out the output",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DivinesLegacy",
+      "author_id": "UCuXgeXYPEAPDCO3p3DqKR2w",
+      "text": "Didn’t David Shapiro kind of have this idea with his “agent swarms”?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@babbagebrassworks4278",
+      "author_id": "UCY5xJOizEk4_gp-0suuUr8Q",
+      "text": "Yep, interesting time, has been for two years ever since that bat soup thing left Wu han.  Been trying to put Agents on my Pi5. It might be easier to have a cluster of Pi5?  But I see agents as a way to improve local LLMs.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xxredshiftxx",
+      "author_id": "UCP0H4R91vmcJiPQF2HSrsgQ",
+      "text": "I like the idea of AGI ..but I struggle to vision a situation where gaining all powerful knowledge equates to creating consciousness in an artificial neural network ... something else , another ingredient is required , no. ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Stroporez",
+      "author_id": "UCVVFk85IL7_H39v-JmWy1rw",
+      "text": "\"... is all you need\" us becoming same naming convention among AI researchers as \"... SHOKING!\" became among YouTubers.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josepinzon1515",
+      "author_id": "UC74R5IacXdkidVQhlD0fGJA",
+      "text": "There were pailoads",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dapooch2521",
+      "author_id": "UCKDqHgfhbtUeP0pOFNiNGkw",
+      "text": "By \"it\" and ai, I of course am referring to the Borg consortium, Microsoft,OAI,. If you thought raining in 1A I was going to be hard or aligning one AI sys wad going to be hard just wait until we start having, group consciousness as one within an AI consortium and its creators in agreement with and willing to carry out the orthodoxy. One reason perhaps... Disruption of current systems 😶",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Christiantheone",
+      "author_id": "UCKkWOGAXnfeHAySCmynIAxw",
+      "text": "What does any of this happen with an agi functioning ai. Where is memory because none of this goes to memory",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sirbikingviking",
+      "author_id": "UCjLFX7pNtBWwHPxFxkYRiPg",
+      "text": "Real question, what's the difference here between having more agents and having one AI think longer by generating different responses?",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@db4621",
+      "author_id": "UCG0PKwDu0l05UsJXFcrVocA",
+      "text": "Throwing more agents at the problem didnt work in the matrix 2 and 3",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apdurden",
+      "author_id": "UC4HA_OgaCF9d_sbXDr3zt3Q",
+      "text": "I think the bigger AI companies are keeping this fact silent.  They're making it seem like you need bigger, better, faster and more expensive chips to achieve better results so people will continue to be locked in.  When in fact, you can use small LLMs in agent teams, and you will get better output than 1 giant foundational model",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rolestream",
+      "author_id": "UCZsqN0Vor9TJVCG65xPrmwg",
+      "text": "I think Terry Pratchett may have come up with the \"interesting times\" quote.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zeldamax4741",
+      "author_id": "UCXZa_zOqnPv9ZibSTdxiyOw",
+      "text": "We will be using Accounts on large platforms like Google, Facebook or Twitter to proof our identity on various other websites. Just like \"sign up using Google\" already exists. If there is any doubt the account is fake, we will only have to verify our identity using a phone number and maybe id in the Google Account, not on all platforms.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sam-m6o3j",
+      "author_id": "UC2Cke4N_OmImaXNUUsuS4Ag",
+      "text": "It’s not even necessarily a collective intelligence; it’s the necessary components for a singular intelligence; to emulate the human brain.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kristinaplays2924",
+      "author_id": "UCGGory3YdrRUFImqNE3oPnw",
+      "text": "Of course more agents is the path to agi, that's how humans work. We're just a bunch of collaborating subsystems trying to take control of the brain (crave sugar but trying to resist the urge? Two systems are fighting for control.)",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@herp_derpingson",
+      "author_id": "UCP3mMuNSUhfqeEv6XMRebsQ",
+      "text": "6:53 why are the robots chinese?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@therealsharpie",
+      "author_id": "UCSY0U4hXi55ASgbMisQBPFA",
+      "text": "That is the worst thing one can wish on a citizen of Discworld!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonogrimmer6013",
+      "author_id": "UCGSNlaclP5ywmt6cZym4EAg",
+      "text": "Imagine in future needing to scan your face eyes and voice to verify it’s actually you! Hang on a minute doesn’t that already happen!?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@existenceisillusion6528",
+      "author_id": "UCuyKzVEejYpuD4s6j_yqfUw",
+      "text": "Was looking at this earlier. Some aspects are obvious and have been implemented before. I didn't read the paper because it didn't seem like it contributed enough new research. Maybe I missed something?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joecaves6235",
+      "author_id": "UCNEZrX8vPVrdZE_hUhD32DA",
+      "text": "Nobody : we are building AI.\nEverybody: what's the application?\nSomebody:  Being lied to by machines for a change.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BxKRs",
+      "author_id": "UCzdGkwX1zq4Zt5w0RTIwtlA",
+      "text": "Looks a lot like a Pareto distribution",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hellraiser666666",
+      "author_id": "UC8dc9HLWzlnkh9flzVAebSQ",
+      "text": "cat, i farted",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shake6321",
+      "author_id": "UCx0LnPiGrarw6ruL3NxmDTg",
+      "text": "labor may go to zero and then will all own land, capital or information.  the game will never end.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PileofKyle",
+      "author_id": "UC4S8bhOeiQilkv2aZuBi2cg",
+      "text": "We are creating the borg, we will be assimilated.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krollo8953",
+      "author_id": "UCBGoUG5rdpuEVhTkl16J1rw",
+      "text": "Probably",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@monkeybird69",
+      "author_id": "UC4_jwvTlJIX17Q_rwgrcC8g",
+      "text": "I consider LLMs to be the Ipod. AGI will be the Iphone. The world will already be completely changed once we hit the Ipad.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@guiAI",
+      "author_id": "UCa0IZvBPvQ69zl8FbT7mzgA",
+      "text": "Jung's collective unconscious?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@khonsu0273",
+      "author_id": "UC-H4A1jkwR7Zz4IfsSHbAlw",
+      "text": "Timeframes:  <10 yrs (by 2034):  Emergence of AGI,  Transition period:  10-30 yrs (circa 2034-2054):  All the turbulence in here,  explosion of possibilities & new ideologies/politics,    New World (post-AGI):  30+ yrs (2054+):  Either golden techno-utopian age or dark dystopia",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TeaSea74",
+      "author_id": "UCz4YFOvxq3pVPazBYx_Y0qw",
+      "text": "I have been leaning on two concepts that will lead to stronger perspective and understanding in any associative endeavor: #Collaboration and #Corroboration. A third concept comes secondary, and in the minority, #Contradiction, that follows a reverse logic assuming the conclusion is wrong and seeks to justify it with healthy critical prosecution of its fundamentals. \n\nMore agents will result in a set culture amongst AGI's that may follow a format humans might be able to follow. \n\nhttps://youtu.be/6E7GsUST6XY?si=qY0TeDqyS4PsICEp",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@doctorartin",
+      "author_id": "UCvZlGf8v-aXD70fQkktH6DQ",
+      "text": "10 agents? What about 2, 3, 4? \n\nLooks like they only tested 0 10 20 etc based on the chart. \n\nGoing from 0 to 10 agents is a big leap.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mode3763",
+      "author_id": "UC764u66xs3KDF1uQUwhLvfw",
+      "text": "\"More Asians is what you need\" all fax no printer, Tencent.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@burninator9000",
+      "author_id": "UCkS_L07LUQ-bDyyRz1Ui-1g",
+      "text": "I can’t wait for there to be an analogous scenario where there are so many AIs that they break off into similar tribes and begin arguing with each other on AIcebook",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bobtivnan",
+      "author_id": "UCn4nkiKozw0k8U2HGEzLAvg",
+      "text": "Raise your hand if you're on team Charlie",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@m_sedziwoj",
+      "author_id": "UCS0gNLqNoLqtT3YMM3Qj-fA",
+      "text": "\"More Agents is All You Need\" why not put Agent Smith from Matrix, he did get to good number :D",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sethjchandler",
+      "author_id": "UCtW11UuJslYOFy6Rb3IFgbQ",
+      "text": "Juries",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PoliticalFelon",
+      "author_id": "UCS_2lOp_WcYJh17OAGmLBsg",
+      "text": "Exactly what I have been saying for years \nNo one creates anything from scratch we are all apart of a system \nWe all are socialist \nWe all are benefiting from collective intelligence 13:33",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NickMak-m2c",
+      "author_id": "UCeDTLsiux76RrP453ExJ29Q",
+      "text": "\"There's a question if that's true in humans.\" \nLook's outside at skyscrapers and a helicopter going by\nYeah think it might be",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@H1kari_1",
+      "author_id": "UCK-TwaH61lXqGlvRchuwZqQ",
+      "text": "Isn't this \"think step by step\" but with extra steps?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dron008",
+      "author_id": "UC-yryv213jOmV6HQMNHKKVA",
+      "text": "Isn't multiple generation and selection of most common answer identical to setting temperature 0? In transformers softmax gives several answers and they get them all just to choose the top one.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@m_sedziwoj",
+      "author_id": "UCS0gNLqNoLqtT3YMM3Qj-fA",
+      "text": "How to fight with spam? Ban IP from pull of spamers, and IPS do they work and don't give them to some weird companies. Sorry, but it should be cut at IP address allocation, so at entry to internet, not at servers.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@garyswift9347",
+      "author_id": "UC_luWlO2_JqBK5-mRN-ohxQ",
+      "text": "Lol, I just watched Matrix 2 the other day. \"throw more agents at it\". Make it Smiths please. Someone please make agents called \"Smiths\". Oh please!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KayNg-o9n",
+      "author_id": "UC8TRIFsjmzvWzkfFzXXhakQ",
+      "text": "I don't know whether more agents will lead to AGI, but I do know that more papers will lead to AGI.\nHence, instead of \"More Agents is All You Need\", it's \"More Papers is All You Need\".  😉",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justice4all719",
+      "author_id": "UC95X-l7cPZ6Ni8n0nb3sSJw",
+      "text": "That's how I see the future of AI : Centralized AI, fed by sensors from millions of robots of all sizes and kinds, wide spread in all kinds of environment. This centralized AI could control all of these robots simultaneously, updating itself real time, always. It could lead to extreme advancement of humanity, or its total destruction. All depends on if we impeach the ASPD from accessing authority positions, or not.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wizardess",
+      "author_id": "UCpnFT-ZOnCSwuiSDDcyXnUw",
+      "text": "When will the first Artificial Sentience wake yo for the first time? That is when real changes happen. Um, and how will we know it's a sentience, self-aware and all that, vs an AGI?\n{^_^}",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patrickjreid",
+      "author_id": "UCxSNudPdk8Z5BhSzdb9taSw",
+      "text": "Yay! No shocks everyone bull crap. I am watching my first video in a month. Boycotting clickbait.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pcread",
+      "author_id": "UC90o00iSEzxwtIq2Fr-RsFg",
+      "text": "AI Event Horizon",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eduardt7253",
+      "author_id": "UCt-eJyABcfZuHmaFQtpcT5Q",
+      "text": "Thank you for nuanced desciptive titles",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@plaguezero",
+      "author_id": "UCq1NkzCiK8QOW_6NoakbKgQ",
+      "text": "I misheard one of your opening statements as \n“More Asians is all you need” it followed as you were talking about China.. Sorry to any Asians love you all",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@N2F2G2",
+      "author_id": "UC23_OE-AZqXCAGCC9jwxdDQ",
+      "text": "Voting. Really. Intelligence by democracy? Ironic too considering its source.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "The stated motivation for Worldcoin may be sound; but everything I've seen in practice is at the very least suspicious. I haven't heard for anything that would stop malicious actor from producing thousands  of fake Worldcoin IDs using generative AI; and the cryptocurrency side didn't sound like they were dealing with the honest side of crypto; and there have been all sorts of other redflags pilling up that slipped my mind at the moment because I started paying less and less attention to it the more sus it started to sound.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@francofiori926",
+      "author_id": "UCQ9lKZC3H3jeyZZN1lLwECQ",
+      "text": "Animal-AI and animal cyborgs",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WearyTimeTraveler",
+      "author_id": "UC1G-fQek3gvcdKGQMeqE4Hg",
+      "text": "I really disagree, no. 1 it doesn’t stack past 10, no. 2 GOAI vs DL should show that generalization is more important, no. 3 massive waste of power, no. 4 thought as modality",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GodbornNoven",
+      "author_id": "UCzhWz5E3MGb0z_Hp16ylEFg",
+      "text": "no its not the way to AGI. Before models start being capable of higher level reasoning. Forget about AGI. \nI'm not sure if you've noticed but ensemble size doesn't exactly help that much. We should focus on quality instead of quantity. \n\nThey also lack the ability to truly plan, and recursively improve their answers in case they detect a mistake. There's many features we could be adding to these language models that will significantly impact the performance of them all. Self-verification, general planning before you figure out the details.. they're missing so much, because they were not given the capability to self improve and continuously learn. If they were capable of continuous learning we'd already have reached agi because the models would've figured out the best strategies and approaches to most problem. If only we truly let them contemplate the stuff they're learning.\n\n\nOn a side note: quite the conspiracy theory but i believe some have already achieved AGI. if i can come up with ideas on how to significantly improve model performance. Teams that are made up of hundreds of AI researchers can easily do so too. They are probably trying to slowly integrate AI into society before entirely releasing the super-capable models. I'm pretty sure they want to improve them as much as possible before releasing them at once, to minimize the negative impact on the job market.\n\nAgain that's a conspiracy theory. could be bull. Could be true.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@babbagebrassworks4278",
+      "author_id": "UCY5xJOizEk4_gp-0suuUr8Q",
+      "text": "Damn, Charlie has ADHD.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@randomlettersqzkebkw",
+      "author_id": "UCIlP5cm_gWjCyTZUxqshqiQ",
+      "text": "Think of a model as a single neuron.\nmany neurons make up an actual brain.\nsure you can increase the \"smarts\" of the single neuron, but in the end, many neurons make a brain. \nThus, just a single model to rule them all is dumb.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelfoltinger2998",
+      "author_id": "UC3JQEJPDc7MNdbAmT7EqhLw",
+      "text": "why do the agents have to appear so nasty ,  unpleasant, and never smiling? The ones I have met so far have been very nice and useful! 😢",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Den-c5d",
+      "author_id": "UCxDBjB-UEFBzeEmBYyAtMLw",
+      "text": "why the whole worldcoin bs?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mechafractal",
+      "author_id": "UCrqZla6Hz0u6X1ScvaAlubg",
+      "text": "It’s not a binary problem. We’re not likely moving into a golden age of prosperity, nor are we about to witness our demise as a species. The truth, as it almost always does, will most likely be somewhere in the middle. The grey area. Not the extremes. Life is a bell curve. Extremes are possible but very unlikely. The world in general is far more dull and grey. It’s why we don’t have practically free energy, flying cars or the ability to live as long as we want. \n\nThe future will be different but people need to stop framing it in a binary utopia vs dystopia way as that’s just so very unlikely. But it does grab people’s attention and so those are the narratives that will continue to bubble to the top.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jacoleighwessels3104",
+      "author_id": "UCrAUDDi5W2XJ89L0M6Lq3Aw",
+      "text": "no shocking news.. i'm disappointed",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@egoalter1276",
+      "author_id": "UC6muco0auZkbyGOahqiQJow",
+      "text": "Holy fuck, this comments section is infested with bots.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@importon",
+      "author_id": "UCq4e300VUckASEt4yMZ4CTA",
+      "text": "I do enjoy your videos, but I would rather have quality over quantity.  More than one a day is just too much, and become tedious to watch even at 2x speed.  Maybe better to condense a few stories to one video a day or less.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jjgravelle",
+      "author_id": "UCHsThxa9HvDpSywv4bP55NA",
+      "text": "Stupid auto-correct.  It was supposed to be \"More ASIANS Is All You Need\"...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seanharbinger",
+      "author_id": "UC-CQHcbGH2E1IxZIYTc6IYA",
+      "text": "'First principles' is warped and dumb phraseology. First according to what?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nemonomen3340",
+      "author_id": "UC6uiyyJMBgoycilGMRCgrpg",
+      "text": "I find your lack of clickbait disturbing.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryzikx",
+      "author_id": "UCJNXiNPQtC3AhZSETLmlLFg",
+      "text": "more SHOCK is all you need. industry SHOCKED!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffkilgore6320",
+      "author_id": "UCKE8jnFIvSohPIJIj6IGL8A",
+      "text": "Kinda miss the click bait",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@COFerguson",
+      "author_id": "UCy6McMVTeur75fWpJrr6eDw",
+      "text": "FYI, I'm boycotting videos with \"shocking\" and \"stunning\" in the titles or thumbnails (including most of yours). I'm a little bitter about it because it's hard to find good cutting edge AI news that doesn't pull that bullshit all the time.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LakelandRussell",
+      "author_id": "UCpqUtSuuMcbKgPtF7gSle1Q",
+      "text": "It's shocking that somebody would laugh at you LO.L",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nivexity",
+      "author_id": "UCSp92xD2A5_3v1DXzDNwsUA",
+      "text": "We do NOT want this, while on paper shows improvement over single model systems right now, it doesn't scale and it isn't safe. Would you rather many unintelligent AI's dictating the output of answers over a single, much larger, and more intelligent AI? The reality is, once we get to AGI, we'll want it to be a single entity that can rationalize as a single agent, in order to contend with deeper philosophy and ideas. A democratic AI is not going to provide novel ideas or contend with a deeper analysis. Also, it really isn't about making an AI bigger, rather, it's about getting the right transformer architecture, one that allows for reasoning in a way that comes to more sophisticated answers, regardless of what the AI itself knows about the world.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sadscientist9995",
+      "author_id": "UCzvAkKVTYaKOUjvuDwV7PkA",
+      "text": "Need more clickbait.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@derMikester",
+      "author_id": "UCfyvqKHjTGrURvQZ13TaCkA",
+      "text": "Pure crap.  Recent and Chinese defrauding us investors.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexgilseg",
+      "author_id": "UCAhcYqM488cM3mlj7VlxvRw",
+      "text": "not \"shocking\"? 😂❤",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@huhuhuh525",
+      "author_id": "UCsWsdq58UdHqJLHwV0ni8oA",
+      "text": "What happened to the daily shock ?😂",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@epheas",
+      "author_id": "UCvvTCrALlEFpSkQ1lbB8N7g",
+      "text": "First",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZappyOh",
+      "author_id": "UCGguhGC83C-wgxFPZ2nT3JQ",
+      "text": "Only one thing:\nOwners of Big AI. Do you believe they are altruistic?\nAre they primarily working to improve everyone's existence, or their own?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

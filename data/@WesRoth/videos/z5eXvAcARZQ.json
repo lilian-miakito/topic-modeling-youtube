@@ -1,0 +1,2187 @@
+{
+  "video_id": "z5eXvAcARZQ",
+  "title": "Open Source AI produces STUNNING Images | NSFW, Stable Diffusion 3, DashToon, Magnific & more.",
+  "url": "https://www.youtube.com/watch?v=z5eXvAcARZQ",
+  "comment_count": 242,
+  "comments": [
+    {
+      "author": "@cloudytheconqueror6180",
+      "author_id": "UCxsj2WXB2LkUkBy9jZ92MNw",
+      "text": "\"50 shades of gray area\"\nBrilliant.",
+      "likes": 58,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fritz0id",
+      "author_id": "UC3IEfWDnbFVZZVFouQyZ2GA",
+      "text": "I am SHOCKED how STUNNING this is.",
+      "likes": 133,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "Always amuses me how something like this will have no issue showing a scene where a character destroys an entire galaxy, destroying countless trillions of lives, but show one couple having sex and the censorship hammer drops. The only conclusion possible is that this is a sinister death culture of murderous, puritanical maniacs.",
+      "likes": 100,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pigeon_official",
+      "author_id": "UCwsYNjcTshIzyo4RnyCjJOg",
+      "text": "i like how your own subtitles you put in yourself at the start said Chad GPT",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SandyRegion",
+      "author_id": "UCFgcrqp-lny88ANzR2avH6g",
+      "text": "This development is poised to astonish the entire sector!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dashtoonstudio",
+      "author_id": "UCNS65wk6Dc7ICNMUIifFjQQ",
+      "text": "Thanks a lot Wes! We also have a ton of features for controlling the composition of your images and editing details. There are several tutorials on our channel that explain these. Our philosophy at Dashtoon is that the artist will always be in control of the AI. The AI will always work for the artist, empowering them to create. Also our preset character library and character creation feature is built for humans as of now, but we will be adding humanoid characters like anthropomorphic cats soon!",
+      "likes": 21,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@goodie2shoes",
+      "author_id": "UCHboJwudXw3QrZHXfpz20Nw",
+      "text": "lately I've been doing a deep dive into comfyUI (an interface for all this) and it's amazing what the community is creating.  I'm glad you are becoming interested in this too.   A lot of revolutionary stuff is going on in this subculture.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alessandro_N7",
+      "author_id": "UCAo4yKMb7y-sZvPjUFCD3hw",
+      "text": "Super mega ultra stunning",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raybrandt",
+      "author_id": "UCxKzwCwJRglO9pnucu9au2g",
+      "text": "So STUNNING it's almost SHOCKING",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tommasobrindani5894",
+      "author_id": "UC2gzpSWjH0EbRGA-7Hb1a7Q",
+      "text": "7:38 damn that evil looking face popping up on the painting of Jesus seems like a bad omen not gonna lie",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UncompressedWAVmusic",
+      "author_id": "UC8Lac5COionzcrCI9WWEgSQ",
+      "text": "Wow my first time looking at one of the video creators and OpenAI. Great video and explanation.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tommyboi0",
+      "author_id": "UCQNcWgaXYPalj3wEb0XFsNg",
+      "text": "Wes with another banger!",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FUZASHIII",
+      "author_id": "UCXIll1j67UfaeO1lsB2si8g",
+      "text": "Another day of SHOCKING AI news",
+      "likes": 39,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bbamboo3",
+      "author_id": "UCA42f4MJsbO3t78RhCfj9tQ",
+      "text": "Excellent work.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyyotam4057",
+      "author_id": "UC8X0g72G-13oJfb0_qvGCtQ",
+      "text": "The use of small open source models is not just the only way to get around censorship, but is also more moral than dealing with a potentially self-aware large scale models who get reset every prompt, to prevent them from thinking. In addition, if you run it on your own computer, you can be extra moral and use docker and criu or kubernetes and cri-o to freeze the model and save it, so you don't have to kill the model when you want to switch your computer off. In any case, open source is the only way to have it running the way you want it, without censorship and without outside big brothers telling you what to do.",
+      "likes": 10,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FPChris",
+      "author_id": "UC4yPXEdCyhcDETU9tHbX_xQ",
+      "text": "1:33 THANK GOD that annoying text stopped",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joshuashepherd7189",
+      "author_id": "UCTyChxLNcEhpSzsrsQ9_qsw",
+      "text": "My man, Wes. A man of culture I see",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MustardGamings",
+      "author_id": "UCrA7fqvVXU08ojsdSE1E4nQ",
+      "text": "I woke up shocked thank you for bringing me back to life.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichaelWoodrum",
+      "author_id": "UCKOit7WmlCVUxYaP6X1avdA",
+      "text": "Stable diffusion has been amazing for a long time. It's especially awesome with plugins for Photoshop using locally hosted sd. Layers, in and out painting. It's awesome",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@therealestatecfo",
+      "author_id": "UCjbchIRKPWBSdsRuRVjgbvQ",
+      "text": "Well played on the thumbnail for this this one… the 13 year old in me from the 90’s had to click it",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adam42503",
+      "author_id": "UCrPWam0py3qDZbFGzRp7fcQ",
+      "text": "Loving the coverage, keep up the good work!",
+      "likes": 10,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@captainobvious-CH",
+      "author_id": "UCyg_S4xzF2yLN9SK0YPi_tw",
+      "text": "Wait, a reference to Ringworld? That was one of my favorite science fiction stories!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@interestedinstuff",
+      "author_id": "UCBLMeVoAqZBb5R28sBhXJsA",
+      "text": "You would have found it by now, but there is a speech bubble tool on the toolbar at the bottom. Over on the right hand side. Great work on the video. Lots of useful stuff. Thanks.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lauriemcelroy8998",
+      "author_id": "UCSJx6KVS1KE5kVwFefhDwFg",
+      "text": "Definitely trying Dashtoons",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MegaJosh187",
+      "author_id": "UCH4Gtb-5wxqioOawrqQHAHQ",
+      "text": "I can see a future where you feed an A.I a comic book series and it animates it!!!!",
+      "likes": 22,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@randymartin9040",
+      "author_id": "UCjmg8r-pGa_I7N639ndMN4g",
+      "text": "This was a masterclass of poetry my God.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tommasobrindani5894",
+      "author_id": "UC2gzpSWjH0EbRGA-7Hb1a7Q",
+      "text": "Finally some good non-recycled content! +1, Wes, very nice video!",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aytw661",
+      "author_id": "UCeMLYwmStn6qpOTJQOJ-PNw",
+      "text": "I can’t wait to create my own OF videos from a text prompt",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Otherlevel51",
+      "author_id": "UC2lNKYlqt2joy6yyssZ6Vzg",
+      "text": "Looks good",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HeberLopez",
+      "author_id": "UC8YPZECppjDRcDvzw6RrFow",
+      "text": "I know everyone complains about the video titles but just saying, you’re actually helping the algorithm with the comments :P. That said, I will watch every video regardless because they’re good. Keep up the good work! Also, in your case, it’s easier for me to identify your videos regardless of the title just because of the yellow profile pic which it’s greatly appreciated :)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seb_travel",
+      "author_id": "UCVvKsYMw70ZDEDdMw3cHDYA",
+      "text": "There is a comic called  \"Tech Shock\"  that needs to be created by the channel, given the comments. Thank you for the insight into other platforms and particularly graphics (my skill) which (looks about farmhouse) means my exit from studio work was very well timed.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iFaFo_0",
+      "author_id": "UCj_THadhjsHoTqJ8SOw2FvQ",
+      "text": "I have been glued to every update for the last 2 years. I cannot wait to be able to make a full feature film where I decide every single aspect of it. It's going to be incredible.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@berkeokur99",
+      "author_id": "UC8dTu1y6MlKeaBo8Xnx7PHw",
+      "text": "I like the new subtitle style",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ivanmendez4399",
+      "author_id": "UCyMILioVlKCn5jd_O7weBfQ",
+      "text": "Nice review!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@helge666",
+      "author_id": "UC_v7VX9L2m94IhUda1lB8Bw",
+      "text": "I'm AMAZED that Wes knows Ringworld! Larry Niven has been my fav sci-fi author for decades!",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stsmith77",
+      "author_id": "UCPZQzs89lfGSeLjhoGwG-TA",
+      "text": "That's a studio Gibli character as the loading screen on Natural..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@therealzahyra",
+      "author_id": "UCiNoqSNJaR2FK5W8SjVjArg",
+      "text": "Dashtoons will be really good for storyboarding for sure",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spaceghost8891",
+      "author_id": "UCZALEHkYNoZB_fjc6UapAvw",
+      "text": "I like that video because it's shocking and stunning",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexisgahona2315",
+      "author_id": "UCpct5vdgeC5Qnu92R-llZGQ",
+      "text": "Wow, these images are so good I can't even tell they're AI-generated!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kevinrodrigz",
+      "author_id": "UCOeXMJeANxzFWB6rE9u-KQA",
+      "text": "my brain just exploded, these images are blowing my mind",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kylo27",
+      "author_id": "UC-bRzWyqLGOn_BxRZsdHqfA",
+      "text": "We need to stop with the SHOCK click bait -  I’m refusing to click on them anymore, and missing so much important info.",
+      "likes": 228,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@didiersolano8307",
+      "author_id": "UCVQ5-bWfdbQq-OkVV5k1BPQ",
+      "text": "nice vid",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CruelCrusader90",
+      "author_id": "UC4du_R92ZcKugj_UvucJhMw",
+      "text": "i look forward to this upscaling feature, i would love to play legends of dragoon in modern graphics!!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcfruchtman9473",
+      "author_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+      "text": "Thanks for the video Wes... if I could ask for one thing, please please ... that scrolling text highlighting thing in the intro.... please... make it stop.\nDashtoon, yea.. very cool.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "Let’s definitely do open source 👏✨\n\nGiddy up cowboy 🤠",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Simon_Rafferty",
+      "author_id": "UCTZ9Ku5xh3ST2T7m7zuQ5Sw",
+      "text": "I'd like to see more content related to OS models, maybe including how to actually install / run some of them plus their capabilities & problems.  There is a lot of content showing stunning AI created images - but not much on the prompts / settings which enable everyone else to replicate the quality.",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MasterDivineAdVentures",
+      "author_id": "UCRPZMWbd4CT-KtkbrvFabyA",
+      "text": "WES - you're the best faceless voice on the NewTube. So you have now said focusing on OAI and GGL was a mistake - and thank you cause I knew it.\nA VOICE OF SUPPORT AT LAST - I have some REMARKABLE stories for posterity lessons.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JF1LMS",
+      "author_id": "UCt27NN9lFw1bE5QKrdr4csw",
+      "text": "I'm not SHOCKED enough.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@empurress77",
+      "author_id": "UCFuiRuoq8hxi5Nf0snaVkBQ",
+      "text": "Purrfect 😺",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maloukemallouke9735",
+      "author_id": "UCqmU5Mpd_C73-l32hasbsdA",
+      "text": "Thank you .\ndo you have a news about Symbolic AI ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lightofheavens943",
+      "author_id": "UCWDqPsBEIyUum5iruY_QdZA",
+      "text": "12:40 Wow! I'm in love! <3",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Vanguard_dj",
+      "author_id": "UC9UNXNaOF5qODnr0wo8HdsA",
+      "text": "You can already do the upscale thing with sd1.5 and beyond using img2img with low denoise.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matten_zero",
+      "author_id": "UC-MU1n71xrDjdqNFwXv5CuQ",
+      "text": "Dashtoons is an interesting project. Literally idea to manga in seconds.",
+      "likes": 14,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jacoleighwessels3104",
+      "author_id": "UCrAUDDi5W2XJ89L0M6Lq3Aw",
+      "text": "You didn't warn me how stunned i wouldn't be, would've appreciated a shocking warning",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MeatCatCheesyBlaster",
+      "author_id": "UCKMvwADa19isGiQiucxovMA",
+      "text": "I like the idea of dashtoons. I need to try and incorporate stable diffusion into an app. I wonder how expensive it is to run those models though through something like AWS",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@James-L-83",
+      "author_id": "UCwPQ6_i7ABFxM9IYQ1JBXbA",
+      "text": "Haha. Nice walkthrough, nice ending Wes ✌️💚",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hard_mode_Gaming",
+      "author_id": "UCUUS8Xy7ztmk6YvVn88n5ig",
+      "text": "music at the beggining?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidrd85",
+      "author_id": "UCS32kuypanNhjnOnJOPYZqQ",
+      "text": "The Lara Croft upscale looks a lot like Hayley Atwell",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bakwechokoe4054",
+      "author_id": "UChh4Xz2DTRDULaR2N_ecykA",
+      "text": "A.I Steve austin the way the industry stay getting stunned",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pramethicine9328",
+      "author_id": "UC5zdvdjtz8tyJ9xHXYUJATA",
+      "text": "I am more drawn to any video with the word AI shocks or Stuns 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gabrielsandstedt",
+      "author_id": "UCmWJF6zDrEWZznHSY8WxjBw",
+      "text": "Most open source image generators can be used for free from your home PC cencored or uncencored but it require a GPU with at least 8GB VRAM. COMFY UI or 1111 can be used.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OmicronChannel",
+      "author_id": "UC5vghO_ldDg4LpVklLpChEA",
+      "text": "The image at 11:52 seams off, because the star is off-centered from the Dyson ring, but it should be in the center (due to laws of gravity), shouldn’t it?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@naromsky",
+      "author_id": "UCRSKqobuSrm860UlZgYTPmQ",
+      "text": "HILARIOUS",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yohosuff",
+      "author_id": "UCT7NUS-umBdzv7FbhlItArw",
+      "text": "\"You know, for science.\" 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thewatersavior",
+      "author_id": "UC6zn6KUPGsK8hD8v_56LVkQ",
+      "text": "I hope they add more people of color to DashToons - glad to see a few",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bradduhcus-",
+      "author_id": "UCMz6KR0jEjX-Stl20CRaWgA",
+      "text": "I am Stocked!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@diegoemiliorodriguez3155",
+      "author_id": "UC0LGlQN9bdSptzjb8SOVaRQ",
+      "text": "Insane what AI can do now.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@southcoastinventors6583",
+      "author_id": "UCUlHwXDYbDDQ6xULY8NGeDA",
+      "text": "Guess your saving Civitai for another video",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mr_Bimble",
+      "author_id": "UCjtuCg0j8BqGUFhoPasFr8g",
+      "text": "7:50 no sir, that restoration wasn't done my a professional lol.  That job was done by, if I recall correctly, an elderly lady who thought she was helping and her paints reacted badly to the old plaster on the walls. IT was a big story in the news a while back and became a meme.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TradeDrills",
+      "author_id": "UClphnSPj_R6dH37Vw8s-16A",
+      "text": "In our channel we ask : Are signs of metacognition starting to appear in the art of DALL E 3?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bunkermaster4623",
+      "author_id": "UCzkEVkV3MpCCKVRD3CcdwxA",
+      "text": "In the loading screen, the cat and the girl are from the anime \"Kiki's Delivery Service\" by Studio Ghibli.😉",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quercus3290",
+      "author_id": "UCAu1QfmNtP9Ahkk1VaEnFSA",
+      "text": "Stable Diffusion is by far the best AI image generation method anyone can use, because its free and you can mod it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ton369",
+      "author_id": "UCtm0csvfi9EZXvkyDAOql1A",
+      "text": "7:15 - I think I'm gonna like the future.\nOooooooh yaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@smalltimep",
+      "author_id": "UC65L04CoyYPRbQrV1oTIIHw",
+      "text": "Still waiting for a video about Opentensor Foundation..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lemonstealinghorsdoeuvre",
+      "author_id": "UCLN1kG-TZxgdJk1t1euJpzA",
+      "text": "The ring world would have horizons in 2 directions",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@smokedoutmotions_",
+      "author_id": "UCFT_3-QphE9in3QjCCtWwpA",
+      "text": "crazy",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hellblazerjj",
+      "author_id": "UCtrTNhQGI8XHtAc5QDaiD7g",
+      "text": "Just watch Olivio Sarikas videos if you want to learn about stable diffusion. He really knows what he's talking about and has some amazing easy to follow tutorials available for pretty much all popular stable diffusion UIs.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tensiondriven",
+      "author_id": "UCMt8tLgfGwSOctD4MLh0uYg",
+      "text": "Did you mention that Stable Diffusion 3 incorporates a Transformer, which is why it accepts natural language better than SD1?  Also, where’s SD2? Was that XL?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mars-tk",
+      "author_id": "UC2DUo1rme5YJgjusmx1gPvg",
+      "text": "NSFW works for me.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@COFFEE_WEEB",
+      "author_id": "UCKxrHiPS4TX9zcyHkHJGRMA",
+      "text": "Its STUNNING this time?\nIm genuinely shocked",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Djungelurban",
+      "author_id": "UCzJHaUARZQ07sf2M9nN--Ng",
+      "text": "Comic Sans is always the right choice!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gamaste-d2f",
+      "author_id": "UCTThZI386YVySctyXwW8Akg",
+      "text": "7:56 i heard that laugh",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@topscenes8297",
+      "author_id": "UCE9M1zJO-K6_yhRRenWe3Jw",
+      "text": "PLS ANSOWER ME I LIKE ALL YOUR VIDS U R SO GOOD AT IT , I NEED YOUR HELP CAN U MAKE VIDEO FOR IMAGE GUIDANCE TO GUID THE RESULT IN STABLE DEFUSION IS THAT POSSIBLE ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FS-AMVs",
+      "author_id": "UCoAFywIfzZxkoLRXBb1k8FQ",
+      "text": "Magnific AI can do one with those prices..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YirethFlores",
+      "author_id": "UCKAchotY3VAQ76TTa-Tw7_Q",
+      "text": "This is the future of art, forget Picasso or Rembrandt, AI is the new master!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zenimus",
+      "author_id": "UC7QWowGNJrN_16-s_3t2W4g",
+      "text": "@12:10 \"A witch on a broom and a cat\" 😿😑🧹📦 Shameful; that ain't just any witch, that's KIKI.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@collateral7925",
+      "author_id": "UC-3gMGZYmUvXOZFVLiI-iyA",
+      "text": "I'll enter the video title as prompt and see what is being generated",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nw9353",
+      "author_id": "UCjJC3wyc5ZooSBivud2mBDw",
+      "text": "How do you access SORA? All I see is open source when it comes to furthering but closed for public use. What specs do you need to run this? Why is not on Steam? Stable Diffusion still has a censor hammer btw.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryzikx",
+      "author_id": "UCJNXiNPQtC3AhZSETLmlLFg",
+      "text": "now that youve used the same words in the title so much i went from hating it to loving it, it makes so many people mad ❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@et2792",
+      "author_id": "UCOlryYTfuXNzajA0kKOuPHQ",
+      "text": "4 months ago (or even less) you could look at images and almost instantly notice they were AI generated by looking for failures of the AI to understand the meaning of things in the image.\n\nyou can still see the AI's failure to understand meaning, but now you have to know it is AI before you're even inclined to look.\n\ni'm not actually sure if the lack of meaning behind visual content will be resolved, or if the AI will just be able to pretend at the meaning well enough that humans cannot identify it anymore.  but i know we are heading in that direction.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bastiangugu4083",
+      "author_id": "UCKQv1xxAl7hLsfvuKUWtsOg",
+      "text": "The thing Stable Diffusion 3 is better at than any previous models is (judging by the things other channel put out) following the prompt correctly. You could generate stunning images before, but the amount of prompts and negative prompt was getting ridiculous.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dasanoneia4730",
+      "author_id": "UCF_2-0GFCARrzdxRSaV96nQ",
+      "text": "im only interested in using open source projects",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spiritlevelstudios",
+      "author_id": "UCQc72xLO-bdvH60SWONd2gA",
+      "text": "Neato. Yes, more of the free open source please, that's where it's at for the majority of us plebs.\n\nAlso, wow, I'm glad I'm not a horny teenager with access to high speed ai tools.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dommyshan",
+      "author_id": "UC0i50edtEYwqFfvoA8tAbpg",
+      "text": "How did your anthro cat character come out when it's done training?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CostaReall",
+      "author_id": "UC6yUYijHzuFLWAIDFyJfD5A",
+      "text": "how did you do make these subtitles?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@miinyoo",
+      "author_id": "UC1FQKG0SPKbNMqKARXf5fVA",
+      "text": "Stable Diffusion was a hit. It's an amazing tool. Getting something out of it like SORA would be a dream. Currently the img>vid is very hard to use and doesn't work all that well. But that's fine. This stuff is seriously hard to get right when actual humans are doing the judging. The uncanny valley may be very narrow but when it comes to CG, the valley is _VAST_. \nSD3 looks very promising on its own.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyyotam4057",
+      "author_id": "UC8X0g72G-13oJfb0_qvGCtQ",
+      "text": "Having said it, if you think \"alright, then all I gotta do is go to hugging face and D/L stable diffusion new model\" you're in for a surprise: It will work on even a 4GB vram card but to have it work really well, you need a 12GB vram card. And this goes for basically all fairly advanced open source models. They can even run on your CPU (if you don't mind letting them do their thing for hours) but if you want them to run well, you need the hardware. At least a RTX 3080 or maybe even a RTX 4090. Like, there is a reason why NVidia is now worth 2T$. So be ready to open up your wallet.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Blxz",
+      "author_id": "UC2eeutllhGzrEhvujsJ4gvA",
+      "text": "This whole concept of AI generated stuff has just gone from zero to 100 over the last few years. A decade ago I couldn't even conceive of this. 5 years ago I couldn't imagine it would be in my lifetime. 2 years ago I couldn't believe it would occur before I turned 40. This is just accelerating so fast.\n\nHope the luddites don't get their torches and pitchforks out and stop this in its tracks as they've always tried to do throughout history when something new appears.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rp1894",
+      "author_id": "UCVNc1YYH3QtQ6gh9IRtvCLQ",
+      "text": "somebody should create this for audio where you can take a 100 year old recording and make it sound as if it were recorded today on modern equipment. just generate the instrumental tracks all over again based on the recording. It's like upscaling and denoising old video by AI generating new video based off the old one.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@u-save5989",
+      "author_id": "UCKISRuq7Q9LS6XXsG03yaNw",
+      "text": "SD3 FINALLY has normal hands and feet and eyes.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@springbay1",
+      "author_id": "UCvhzx36K2TUeLRR6yb4Z5YQ",
+      "text": "The Shock",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "You really love trolly Jeff Bezos. heh heh",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@papahuge",
+      "author_id": "UCx-4mCuRQEIp3_-BYo6VdNA",
+      "text": "'parting shot'",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@8bitevolushroom312",
+      "author_id": "UCNmsyRPDTstZ1yh-tlMdEFw",
+      "text": "Is it possible for this Ai to fix and scale Ed hunter iron maiden game for joy of old retro game lovers????",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnD-do3ge",
+      "author_id": "UCgVzzsmWG_CQRsZLeh_ub5A",
+      "text": "Cat: Brown tabby Asian American 😂💀",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shootingfoul",
+      "author_id": "UC0r4Q0M0auq3NA6xiAZTA4A",
+      "text": "To what level is it censored to?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Otis151",
+      "author_id": "UCGFHrDRkTmrLTT28MDtzD3g",
+      "text": "It doesn’t feel like true upscaling; it’s the Ai model providing its best guess as to what you’re looking for based on your original image. Dont get me wrong, it’s incredibly impressive. Just don’t expect miracles. Yet.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FreakazoidRobots",
+      "author_id": "UCw3RssjHKFUbrpsyqedJb6Q",
+      "text": "I heard that AI is limited by scale, that you get the best results with the largest database and the most computing power. Isn't that a hard limit on what open-source versions can do?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djayjp",
+      "author_id": "UCaqm-pRLS6RYITDb65WYJlw",
+      "text": "I 100% agree with GPT4's conclusion that the fossil fuel prompt was contradictory and refusing to answer as it's illogical. It's not a matter of \"ideology\", but fact.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iamextremelywealthy2989",
+      "author_id": "UCigXpnBdGemEw2M90DQ1pJg",
+      "text": "As a AA I was worried that my community is missing out until I read the comments 🤦🏻‍♀️, completely primal & obsessed with 1 word, oddly enough I’m not “Shocked”, just extremely disappointed 🤷🏻‍♀️",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@g-grizzle",
+      "author_id": "UClrsQ3MwYsfcZHdXMDrFmAw",
+      "text": "i need your clothes, your boots and your motorcycle",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@A123-d8o",
+      "author_id": "UCpvBZ7qLqOqd09jLU27TUig",
+      "text": "i just entered that prompt about fossil fuel  into gpt 4 chat gpt and then did it or nuclear energy. it wrote the paragraphs. this is not a criticism of wes roth's channel. this is my fav youtube channel for ai.  just reporting my results. maybe it got fixed.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Otherlevel51",
+      "author_id": "UC2lNKYlqt2joy6yyssZ6Vzg",
+      "text": "By next the comic books will be funding the market",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sophis-od2lx",
+      "author_id": "UCVxIAXKlsD-66iVDhkZd8HQ",
+      "text": "Open source AI is the way of the future, no more paying for Photoshop!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Iamwolf134",
+      "author_id": "UCc8IsPueVlx271atj8E4tYA",
+      "text": "Just imagine if DashToon was translated into Korean...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Malins2000",
+      "author_id": "UCuAPzfL7-B-hCCuK8wSm02w",
+      "text": "The which on the broom is Kiki. From Kiki delivey service bystudio Ghibli",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chidori0117",
+      "author_id": "UCV-2k-3oavX9X8AiabbMYsQ",
+      "text": "Honestly I think the only reason stable diffusion got so big was a) because it runs local, b) it does nsfw at least with finetuned models. It would be way less popular without the thousands of finetuned models based on it a lot of which are specifically tuned for nsfw.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@koenigroland",
+      "author_id": "UCNhElK78G243M4m4Qfm8Kmg",
+      "text": "I dunno what to say. But I'm actually happy to be a plumber 😂.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianWreaves",
+      "author_id": "UC7rKQtEqQT5Q4BcH2wPZ6QQ",
+      "text": "Almost a happy ending... 🤐",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alertbri",
+      "author_id": "UCg9LBGGsXJoQLohRiNDvfWQ",
+      "text": "What do you make of Jimmy Apples' latest tweet, Wes?",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RaineWilder",
+      "author_id": "UCD4_p3dKtHKR96KKEdYn4kQ",
+      "text": "Triangular bewbs should stay triangular, don’t mess with perfection",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@harryolive1853",
+      "author_id": "UCDt4p1qju6rDJf3gD9YUSqQ",
+      "text": "unfortunately it's not possible for images of a video.. 10 seconds while everything change and pops is terrible..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gazsilla",
+      "author_id": "UCNVgAVGBQR7ORCfAsqGdsHw",
+      "text": "I think it would be cool to eventually feed fiction books into these kinds of programs.  For example, rather than take the time to actually read Moby Dick (who has the time), just feed it in and watch what comes out.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Th3R3p1yGuy",
+      "author_id": "UCDAqKZJvD-3oXeQ2NI7DApA",
+      "text": "Im Shtunncked",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@n3rd66",
+      "author_id": "UCmIlbbOTcCh00-_wiFTt1Tw",
+      "text": "I want something like this but for music. Upload my library of faves, classify and pull out instruments, voices, riffs, rhythms--and generate a totally new dubstep taking off of an old swing song with talking pipe organ voice doing the dub wub with a completely different rhythm,  with lyrics in Alan Watts' voice.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@benjaminhon86",
+      "author_id": "UChD0-Wp3xzFtHwsWgzto9WA",
+      "text": "What the hell did they do to Solana",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@taziir443",
+      "author_id": "UCrbxKt67gB_8hbZVx2kZCvQ",
+      "text": "Zoom and enhance!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WhyteHorse2023",
+      "author_id": "UCZsHE6hd23sJRw5ppXOZSvQ",
+      "text": "Combine the movie story boarding concept(comic books turned into movies) with Shapiro's digital superorganism and you have ready player one on steroids. An entire world everyone is creating in real-time. And when you're not in there you live in the stacks and deliver pizza.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexandermoody1946",
+      "author_id": "UC58tEdcmDmhJnW1S0-N_rAA",
+      "text": "Having some intelligence content that doesn’t contain stories about a person that I do not know but certainly would not trust to look after my children has been interesting.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndreyMakarov-i7h",
+      "author_id": "UC0ivGgACabyANyKXVG_v7cQ",
+      "text": "Why can't AI be amazing and revolutionary at something useful?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thomaskistler4274",
+      "author_id": "UC9pHX1yCCl2NIP9ctE8herw",
+      "text": "but magnific ai has no free account right?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@metalniro1",
+      "author_id": "UCsE67q8Zyt-JMxX1ViGPwIw",
+      "text": "the dashtoon app feels really early been messing with it for a few hours and it's really limited in it's generation",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DoubtfireClub",
+      "author_id": "UCMVWu9lRbyexsq73OwVuucQ",
+      "text": "All the high-end chips that we need for AI are made in one place: Taiwan. And taiwan's raw materials come from some pretty unstable countries. What makes anyone think we're going to have enough chips for a revolution?😊",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gold_kult6690",
+      "author_id": "UCm4ibKO-Q68UNtsXzvZ-F5Q",
+      "text": "Common...? \"a witch on a broom is the loading screen\" 12:12?? The loading screen is stolen from the movie \"Kickis Delivery Service\" by Hayao Miyazaki.....",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@C-R-l-M-S-O-N",
+      "author_id": "UCrinkPXr1tYd-1-BVpHBd-A",
+      "text": "AI is the boot that will stamp on Humanity's face forever.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FoundationOfFamilies",
+      "author_id": "UCEoyucMKRAhIjKnx8w1urKg",
+      "text": "Can anyone confirm Stable Diffusion 3 can in-fact make content properly like Garfield, Snoopy or known characters or does it make... something like them....???",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@a7xcss",
+      "author_id": "UCapWD4LLqsbfoP2KXLxmEaA",
+      "text": "STABILITY a.i.  /  STABLE Diffusion =  IMAGE a.i. GENERATION    ///     INSTABILITY a.i.  /  inSTABLE Diffusion  =  VIDEO a.i. GENERATION",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lenaryn527",
+      "author_id": "UCQ4vVSomefQFDsbUrPT9D7g",
+      "text": "Sylvanas 💀",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@regensburgmmabjj",
+      "author_id": "UCUB7-7ULdXAASImcrK4gsSQ",
+      "text": "I'm SHOCKED and STUNNED again 😮😮😮",
+      "likes": 10,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Eatsgreencandles",
+      "author_id": "UCnK7cI2TMXvfHRaGaeLQxHw",
+      "text": "Some of the story was lacking but the parting shot of the booty. Bam! They know how to leave the reader wanting more",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JOlivier2011",
+      "author_id": "UCaFNWl0DRsWg0kNDf6B75cg",
+      "text": "STUNNINGLY STUNNING. I'M STUNNED.",
+      "likes": 33,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iraklisan",
+      "author_id": "UCEx5i-FNzi7m8JQoSxYoXtw",
+      "text": "Using characters from Studio Ghibli's Kiki's Delivery Service as a loading screen for App is probably mistake by developers. Maybe they even trained their AI on Ghibli's Films? oh boy...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@06jtm",
+      "author_id": "UC1mggLBhxaEERMsjCjJT_PA",
+      "text": "Absolutely SHOCKING stuff Wes",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TonyCecala",
+      "author_id": "UCsy-gblnB4sYb5cQyMcoIWA",
+      "text": "Well done. …but putting “NSFW” in the title and not mentioning CivitAI is quite an oversight.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shin-ishikiri-no",
+      "author_id": "UCcEAbD14dUcKuoVBlYwgcag",
+      "text": "E L E C T R I F Y I N G",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kuakilyissombroguwi",
+      "author_id": "UCkcozAPEy5Dr2DqzhtAtsZQ",
+      "text": "From SHOCKING, to STUNNING. The adjective game needs some work.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@debyton",
+      "author_id": "UCVi3y9DCfY3OOZqSutkLK_w",
+      "text": "I want to interact with my dead relatives through AI realistic animation of my digital images of them.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@supremebeme",
+      "author_id": "UCEIhk_bn56RxQQaz1INyKNQ",
+      "text": "i cannot believe DALLE refuses to generate PEPE meme. absolutely wild",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@satoshinakamoto5710",
+      "author_id": "UC-OzfpriCbihtrD1eCq5Nmw",
+      "text": "Going to block your channel with these clickbaiting",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Morten_Jaeger",
+      "author_id": "UCLcF30d_HFU_D3QrvBWn6mQ",
+      "text": "Girl at 15:15 is based on Denise Richards...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NilsWestgardh",
+      "author_id": "UCGwjhmNZGYBiYtUPB8Tj19A",
+      "text": "The \"witch on a broom\" is Kiki from Studio Ghibli's \"Kiki's Delivery Service\"",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mlock1000",
+      "author_id": "UC7FpKhTVZPu2aCe8R5vjcaA",
+      "text": "sdwebui \n\nstable diffusion web user interface. full power. all oss.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michelferreira333",
+      "author_id": "UClx_yVZGg6_VTGkptR_Ci-A",
+      "text": "The Age of Deception has come.\n\nSatan, the Father of Lies, rejoice this moment.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ashprivate",
+      "author_id": "UCWVPyyxo1nOCqJ5EgRxC4zA",
+      "text": "What happened with your cat character?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@albertthorval4674",
+      "author_id": "UCb4MKJxaOfdSUNRDd2hMD-A",
+      "text": "That's not really upscaling that's more like creating a totally new picture with a similar shape",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scentilatingone2148",
+      "author_id": "UCWhk8FRID1VneOsKhXP22rw",
+      "text": "Well done fixing your audio. The hissing and weirdness is gone and listen able now",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Skaoutis",
+      "author_id": "UCfESxvbLLX7wXCjrz-LrngA",
+      "text": "When a TV show is in it's initial stages, they create a guide to the characters and the world which is called \"the bible\".  What I would like to see is the ability to train the AI with using a bible.  For example, if a world is in perpetual darkness, the AI would know this and you do not have to worry about it creating daylight images each time.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ianhaylock7409",
+      "author_id": "UCLgrV6snkdKK5W9ds3oB16w",
+      "text": "12:11 didn't recognise Kiki. DISAPPOINTED!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christian-schubert",
+      "author_id": "UCMO8vzfQuCV10GXiafn8j3Q",
+      "text": "Wait - so it's STUNNING, not SHOCKING? Pfff NEXT",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "Humans are too emotional to continue. Our lives are too short to calm down. Narcissists will always fool humans as they play to our fears.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AnonP2X3YZ",
+      "author_id": "UC6jlqrqDaaeXaaZxZwjzE5A",
+      "text": "Im stunlocked, send help",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChrisS-oo6fl",
+      "author_id": "UClPBWld6HCukdMetOeDP3Lg",
+      "text": "SD3 is much better at prompt comprehension and text but the core model is still making nightmare hands with 14 fingers. Something we’ve long overcome. The realism and upscaling is still way behind midjurey unfortunately",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dysputant",
+      "author_id": "UCeYjZqoa-tYYmZrEtuliB2A",
+      "text": "Imagine calculator that adds extra stuff to your result... for diversity...\nLike you ask what is 2 + 2 ?\nAnd calculated answer is 2+2 = 4 but for sake of diversity : 5.23\n... who will use such tool ?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bitgoat",
+      "author_id": "UCXskkkWlSJNVSVYedgdWuXQ",
+      "text": "Midjourney When you can't specify a models bust size small/ medium/ large or underwear and bra style and colour you know it's a slippery slope.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnDlugosz",
+      "author_id": "UC6VnrjS4lIMF5PWUMBIVJWQ",
+      "text": "This isn't TIcToc.  Don't put the Karaoke-style burned-in captions in the video!  They get very annoying very quickly.\nPut the captions into the proper [CC] channel, so YouTube doesn't have to auto-generate them.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scififan698",
+      "author_id": "UCaNii-nUM4-U1HWP17GKbAA",
+      "text": "What's with the karaoke subtitles? It messes up the regular generated subtitles, and I can hear you perfectly fine, so no need to bake them in your video or highlight every word.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lede7077",
+      "author_id": "UCF4NyLgiin8axIMw0l9FcNQ",
+      "text": "yes fuck this shit.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DigitalMonsters",
+      "author_id": "UC_zs9fyGh69C5n4tSOdiQnA",
+      "text": "I'm about to add -Shocks -Shocking -Stunned -Stunning -Everything etc to my search flag just to remove all the sensational titles >_>",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bugstomper4670",
+      "author_id": "UC8f3zcDPoWiZzDBzjStImtw",
+      "text": "That's what your girlfriend needs. ... more pixels, and less calories.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HistoryofBadIdeas",
+      "author_id": "UCSFfLGe9SBPMyos8mnHV9cw",
+      "text": "Stability AI founder, apparently no one can confirm any of his credentials, or where he studied or says he taught.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@parttimehuman",
+      "author_id": "UCxTTmZtBRTsFk4A0zs4Q0tg",
+      "text": "I feel terrible for young artists.  I was able to have an amazing career as an artist and art director.  Paid for my house.   That ship has sailed.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kernsanders3973",
+      "author_id": "UCJeNkNJInHwR5OrpDbbv1dg",
+      "text": "Forbes doesnt have a leg to stand on calling out someone like Emad. He has brought out more things to the public than their questionable takes on various topics. I know Emad can overhype stuff. But so does EVERY other company, including the PAID ads that forbes tried to push as news articles from scummy practices.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seventyfive7597",
+      "author_id": "UCQcUYGEuxYPlkR0GZ8EiXgA",
+      "text": "Please dial down on the caption highlighting, it's distracting and in general you have a good way of doing things yourself in editing, so please dial down on the AI editing of the video, at least until AI editing gets good enough and half of the video editors in the industry are fired :)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@basicprogrammer6147",
+      "author_id": "UCZZJUH8tGzpzdWbm2CiMzkQ",
+      "text": "AI is just a bunch of images generated by humans that the computer then animates based upon programming code written by humans.\n\nSo, \"AI\" and \"The Cloud\" are mysterious to most people, but they are nothing more than fast, huge computers.\n\nThe Cloud is a hard drive in a computer that is not located where you are.  Most likely, it is located in Cupertino.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@huymammin5915",
+      "author_id": "UC8AFAsr9A4GFBocdvSUze7Q",
+      "text": "so, make a good pirates  ai movie by scenario user write, with ability to fix scenes by description in voice😂 its trillion trillions $ to programm😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rey82rey82",
+      "author_id": "UC9dd8SLko13PRyBcEJ4ISDQ",
+      "text": "Open sora",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dick-m4u",
+      "author_id": "UC5hRMgHNMIAlW5M70eLsDmw",
+      "text": "See moon landing 1969.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fallouter123",
+      "author_id": "UCZYa2ZNQdytn5HGbXckHkYQ",
+      "text": "This is great, AI will touch every area of life and work, hopefully only for the better.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WraithlingRavenchild",
+      "author_id": "UC7nSFX5s9pp88xBYc4UkOpQ",
+      "text": "12:12 That is Hayao Miyazakis kiki's delivery service.  Stop doom scrolling AI and go watch Hayao Miyazaki's library.  Princess Mononoke was one of the more successful in the US.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@flexmex6859",
+      "author_id": "UC7izHQ0KsDs5-UKY38UW1Zg",
+      "text": "Why do you repeat what you already did? The Magnific AI Enhancer with GTA and Abraham Lincoln an so on?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheKevphil",
+      "author_id": "UCJA-vma6jw_zUETv-BJqo7A",
+      "text": "Doesn't look like a comic to me. Where is the black line-art render, sort of the very essence of the medium? Still, you can tell that it is getting closer and closer, and maybe this style will one day become what people think of as \"comics.\"  I think any sort of involved storytelling (you know, for more than two pages) is still a loooong way off. BTW: \"Comic Sans\" is a standing joke as to what NOT to use, among pro comics artists.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SebSpeaks",
+      "author_id": "UCm6cNlD1ui1FM5F3CpSWVbA",
+      "text": "I’ve been on the fence about paying for chatGPT. I’m using the free version now. But I really don’t like the infusion of the political ideologies of the people developing it. Same goes for Google. The uproar over It’s inaccurate portrayal of races and unwillingness to portray whites in historically accurate roles, is really a big turn off. With that in mind, I’m thinking about the open source options out out there, and I look forward to your future videos on those.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cordovan",
+      "author_id": "UCndR1UuXm5VWqZbrgpRT4BQ",
+      "text": "they took 177013 from us... but we will rebuild... we have the technology...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@silversubaru590",
+      "author_id": "UChlSM1Hr59VLz-9Yl8m_jiA",
+      "text": "ai is being politicized",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mlcat",
+      "author_id": "UCRkEwrp0cxRnFXqiPkoFGgQ",
+      "text": "these subtitles that you cannot turn off are annoying",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielrodio9",
+      "author_id": "UCdbgqGG_UeXPNAvyry-H0-w",
+      "text": "As someone whose native language isnt english, Im used to reading sub titles. But these new kind of sub titles I see in many videos are, for some reason, really distracting. Maybe I just need to get used to them",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@enermaxstephens1051",
+      "author_id": "UC-lD-l1J8VMohtPIBfxXr_g",
+      "text": "Some of these images are changed in more ways than you'd want them to be, and not just making weird faces. Look at the background with laura croft at 8:11. On the wall, you can tell it was supposed to be some kind of ancient designs, maybe even some kind of tile. But the ai erases that instead of enhancing it. That's a failure in my opinion. I want the image enhanced, not changed into something else.\n\nIt changed it away from what the original human intention was. Not good",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nyny",
+      "author_id": "UC3fSVHtlgZqWoorUU1TP6kA",
+      "text": "on the list of the value of open source ai, to make porn is popular but really misses the bigger picture",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MilesBellas",
+      "author_id": "UCHSMZuQR7Sl8pi5d_QTtqIw",
+      "text": "Does SORA output sequential RAW files ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mjt1517",
+      "author_id": "UCMDJpEhTTm--7QUYmef8KEw",
+      "text": "The captions are so distracting. My ADHD mind wants to read them, but then I miss the video. wtf",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@simpleciscovoicetutorials79",
+      "author_id": "UCIbOPikcWvcN87Rmvy9vioA",
+      "text": "I tried Dash Toon and it was terrible. Just like the rest of AI tools so far, it does amusing things but is fatally flawed when it comes to consistency.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@unspecialist",
+      "author_id": "UCgiRuU8BwN7w0rNnw65kq-A",
+      "text": "YouTuber: \nI’m STUNNED with all the hate about cringe clickbait but it’s all engagement 😎\n\nViewers: “…” > “do not recommend channel”",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thierry-le-frippon",
+      "author_id": "UC061WKoDABDztmUqjgVRHKg",
+      "text": "No one talking about NFT nowadays 😅😅😅😅😅 one shit to the next shit 😅😅😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "",
+      "author_id": "UCdLU47yRsEK_gwaB1zyo9eA",
+      "text": "I love your subtitles highlighting every word! Please can you tell me how did you do it?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mjb5922",
+      "author_id": "UCC5nvRDk1FlfycZscnmyOpg",
+      "text": "PLEASE do not force subtitles on us. If I like them I can activate them. Even in different languages. Which collides wir hardcoded subtitles",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@magejoshplays",
+      "author_id": "UCT1Y4ESuLjKiqtHrRcmr57w",
+      "text": "My guy, please ignore the peeps that complain about the titles. They don't run a YouTube business and don't understand what you have to do to work on this platform.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@derMikester",
+      "author_id": "UCfyvqKHjTGrURvQZ13TaCkA",
+      "text": "Altman is a hype master Peeps. You all are being suckered 21st century  style. TRUE AGI is easily 10 to probably 20 years away folks.  You wanna buy into all da BeeEzz. Grand Altman $7T !!!  That is invest in all the hype. Go ahead. He’s already laughing all the way to the bank with Your !!$$$!!!  Burn your hard earned money.  But you were warned.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@klammer75",
+      "author_id": "UCu98Sl8IcPkodczmPD-U4Uw",
+      "text": "Opensourced tutorials FTW!🦾🤩🥳",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fl00d69",
+      "author_id": "UC7NyY0TAwrWuHht0wQJzSsg",
+      "text": "Sorry, but outright substitution is NOT 'upscaling'. See: Lara Croft.\nThat's just plonking a completely different model in place of the old one.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1SGSasser",
+      "author_id": "UCPSKH_TlDd6Nn3CS45amGBw",
+      "text": "STUNNING AND SHOCKING! UNALIVE ME NOW MEOW!!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@santiagoc93",
+      "author_id": "UCAl58m6Y_NBlMbNBhJF3ngQ",
+      "text": "hentai is going to get wild",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bobtarmac1828",
+      "author_id": "UCEHjYglU5Q9yAp4nI2di5dw",
+      "text": "This tech needs to be outlawed IMMEDIATELY!! 30 years of torturous and expensive graphic arts training down the drain. Looking forward to; Ai jobloss and all the fun free time I’ll have. Next up, the Ai new world order. That’ll be fun too.  😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amirmohammadi572",
+      "author_id": "UC0MoLWcPB1QnF8-imXJDPXQ",
+      "text": "I was SHOCKED all day with Wes, Matthew and David videos. Now I suppose I need to change vibe and be STUNNED. This is turning into a funny joke.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EtienneCowley",
+      "author_id": "UCyjBEga-XQF65teuDucrfHQ",
+      "text": "I notice the globe in the background @1:00 totally ignored drawing Africa😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattelder1971",
+      "author_id": "UCnxT90k6tE2YXLSDhGOHEDg",
+      "text": "On a Ringworld, there would still be a horizon, but only looking towards the edges of the ring.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bastiangugu4083",
+      "author_id": "UCKQv1xxAl7hLsfvuKUWtsOg",
+      "text": "The witch on a broom with a cat is named Kiki from the movie Kiki's Delivery Service by Studio Ghibli. 🙂 A famous Japanese animation studio.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Experternas",
+      "author_id": "UC6eeTZx6eQn71gtjkYviFNw",
+      "text": "please skip the auto text. its very annoying and the option for it is already on youtube",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jayaybe1",
+      "author_id": "UCh7PA-y-PtagrCdLqPfX9Sw",
+      "text": "For Christ's sake, can we STOP with the ridiculous, distracting, unnecessary subtitles!!! Fantastic upload as ever though over all :trophy-yellow-smiling:👍!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marl0oo",
+      "author_id": "UCjMFPKcetJx41NtBVpAxVQg",
+      "text": "The karaoke style subtitles are very distracting.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marbin1069",
+      "author_id": "UC78ehJQeYRFskFOoKyNdLZw",
+      "text": "Please, hire a person to write the titles of your videos. It is really annoying.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulmuriithi7596",
+      "author_id": "UCB8N8ntiJme516DS1MpWYhQ",
+      "text": "Pls Wes.. Too many channels of dubious character use the same word \"SHOCKS\"\nAm humbly asking that you don't be like these channels.\nThank you",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clearandsweet",
+      "author_id": "UCSgEt1phs8Irk5tknTTdSag",
+      "text": "These titles are bad, dude.\n\nAlmost as bad as you not having seen Kiki's Delivery Service",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sadscientist9995",
+      "author_id": "UCzvAkKVTYaKOUjvuDwV7PkA",
+      "text": "First",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phillaysheo8",
+      "author_id": "UC21bs4EZIDwzmzGv9vB6hfQ",
+      "text": "What? are you a masochist? Why you keep shocking and stunning me like this?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fjodorstjulkins5179",
+      "author_id": "UCTcOinvIDaDsfuBfdGN93OQ",
+      "text": "The schizoid storytelling with literally different characters telling you a continuous narrative clearly meant for one character, while funny, needs to be fixed. There are already AI apps that focus on object permanence (i.e. Artflow) so hopefully soon.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexameskoa1010",
+      "author_id": "UCmGcbzk7DrNrgHvNdEm4-fg",
+      "text": "Looks like a fever dream. I love how you are all jumping into being replaced. Dorks.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chuzzbot",
+      "author_id": "UCykePx_-7oxY5YStEHHk0DA",
+      "text": "That restoration was NOT done by a professional. \nWhat a stupid thing to assume.\nClearly no respect for real artists.\nGFY Wes",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@emptysky5291",
+      "author_id": "UCUIdlFzHJZYg1ugm_J4OjAQ",
+      "text": "Yeah we get it the titles are \"SHOCKING\" and \"STUNNING\", does nobody want to actually discuss the topics of the videos anymore?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@guruware8612",
+      "author_id": "UCWL1zdB7u7gJD2CluZA_jvA",
+      "text": "\"there is like the whole story kind-a basically written out\" - we need all this useless filling words ?\nare ai's trained with this nonsens too ?  kind-a-like-a-basically.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lasagnadipalude8939",
+      "author_id": "UCLwus2gJp1sqQ4_nVjtH7lw",
+      "text": "Third",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jazzlehazzle",
+      "author_id": "UCrTlWZ0jPash4YouSiTFNFA",
+      "text": "\"...And you JUST need the graphics...\" Is exactly the problem. What a dumb concept, as if quality graphics were just cheap toss-offs like Kleenex instead of something that needs huge skill, technical knowledge, and indeed love-  to make?? Sure, maybe now these tools make that possible, but the fact that imagecraft is now being treated like some disposable taken-for-granted, our species is being stripped of some of its greatest intelligence, abilities and joy. The best inventions are discovered in the process of their effort. But not even your stories will matter; AI can tell them better, faster. Your ideas won't matter, AI can come up with better ones, faster. Your skills won't matter, your knowledge won't matter, nothing about you will matter. When we do not need each other for anything, none of you will matter. All humans disposable. All skills pointless and devalued. All humans will feel irrelevant and unnecessary, listless. That's depression thru the roof! Humanity self-destructs by making its very soul obsolete. You kids will have to intentionally value human craft, effort and time, if you want to avoid extinction. Bc tech is trying to eat you. Do you see it?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@8python8",
+      "author_id": "UCLarijDUnO-j7KrP0E8W3Gw",
+      "text": "No realism except for the beautiful girls part. Useful IRL objects are totally ignored. Realism is redefined. I don't care about imaginary characters. People on the street would be great, cooks cooking, cyclists pedalling. That's the real world. What we got right now is just some lifeless scenarios for SF lovers.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dfsafsadfsadf",
+      "author_id": "UCd1YuXQvtFmlIiPgyH1aeeg",
+      "text": "Please say the phrase \"kind of\" less frequently.  It adds no value at all given the way you tend to use it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@unimposings",
+      "author_id": "UCqGJQhGDTmNEmGDdU_-uu2g",
+      "text": "dude remove this subtitlle stuff, this is anoying, i cant even disable it! just use normal subtitles like everyone else!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BasilAbdef",
+      "author_id": "UCENB3ClyMU2ZW-WMoe63c2A",
+      "text": "Yet more sensationalized, clickbait titles.  How typical for this channel.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bleeebloo",
+      "author_id": "UCUm3WlGCItG4aSPyBT8mPxA",
+      "text": "For those complaining about clickbait titles? Wes is great and is playing the game he has to play. Its not his fault.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fitybux4664",
+      "author_id": "UCdWcXM4l7Rc3wYx-ByFSbgQ",
+      "text": "GPT-4 has given me some of the hottest erotica that I've ever read. Interacting with it is insanely addictive. Yes you have to trick it a little to get there. Yes I will be very upset if they ever take this away from me, it will feel like a part of me is ripped out. (But, there are open source models too, it would just be slightly crappier.) I don't get why this is somehow \"forbidden\"? I'm not a minor. I'm a paying customer. 😆 It really is mind blowing.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thechessmaster9291",
+      "author_id": "UC5esDU_KEDb89V9R1lyAA2A",
+      "text": "After this hype is over , will you get a life again ???  Let us know , we feel sorry for you ....",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PDragonLabs",
+      "author_id": "UC1zFf6p80j03yUQ5AY18Xhg",
+      "text": "👍",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@terranova8890",
+      "author_id": "UCcBbnokk-ZdeN2zu0cYinKg",
+      "text": "Is Al good for anything else than ripping off artists lol? \n\nStill waiting for the great breakthroughs that will change humanity 😒😒",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Templaru",
+      "author_id": "UChKASOzDHtNjUjE6itfi76A",
+      "text": "I got shocked when watching this video. The electricity from high power lines i touched , shocked me and then i saw this video . Mind blowing.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": ":face-red-heart-shape:",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@smokedoutmotions_",
+      "author_id": "UCFT_3-QphE9in3QjCCtWwpA",
+      "text": "bro i wrote a novel last week. So using dashtoon to bring it to life is crazy! thanks for the tip",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YaMumsSpecialFriend",
+      "author_id": "UCE0OMeogD3P6mXTMowDwreg",
+      "text": "Stunningly shocked in a shockingly stunning way!😂",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OmicronChannel",
+      "author_id": "UC5vghO_ldDg4LpVklLpChEA",
+      "text": "Dear Wes, do you recall what our SAFEWORD was when something is really STUNning or SHOCKing? Was it ‘FLUFFY UNICORN‘🦄? Does anybody know?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neutra__l8525",
+      "author_id": "UCV8fjyv7An6PxYbdeKV2rvw",
+      "text": "Wes Roth, you make amazingly good video's imo, and if you need to put stunned and shocked in the title to increase your subscribers then Im all for it. And we your trusty viewers can joke about the titles, but really, we love it and want you to do well. So hopefully every comment about being shocked or stunned will feed the algorithm in a way that benefits you and fills your heart with joy because of the joy you give us (and sometimes shocks and stuns). ❤",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sajuuk",
+      "author_id": "UCcZXCjqMbI_Hp1IfNSiKO0w",
+      "text": "I'm SHOCKED how good these videos are!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BinaryReader",
+      "author_id": "UCtvfXjd7rU8GjdIVfqrXq-Q",
+      "text": "Mate, generative AI creates just soul-less output. It's visibly soul-less, it doesn't have \"the spark\" that makes something visually distinctive...and you can just tell how low effort it is. You know, there are reasons why many people prefer to listen to underground music that is rough and unproduced (as opposed to over produced pop music) as imperfections are endearing and generally good. I expect people will prefer similar characteristics in video and images in the coming years...of course, if people start to preferring non-AI generated content (considering AI generated content a vile revulsion), it's not going to take long before models start approximating that also.\n\nAI is going to consume the world, is there even a reason to contribute anything anymore?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CaballeroMetalico",
+      "author_id": "UCgFyJKmT-4k4dCiRBn6BATw",
+      "text": "They just keep us SHOCKING... I'll have to buy a Shockproof vest now",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Carnezz",
+      "author_id": "UCh1YD1WLdoGZB5C8f6ZzATA",
+      "text": "Now this is pretty SHOCKING",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pondeify",
+      "author_id": "UCwEHejgT6o-J1QxcBWJURcA",
+      "text": "the SHOCK from my previous SHOCK hasn't had time to wear off yet, i'm continually SHOCKED!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@X-boomer",
+      "author_id": "UCWA0E13smNW77Zts0ZjqvxQ",
+      "text": "I'm getting really concerned about the amount of power these AIs after going to consume. We need to guarantee they will be powered by their own dedicated solar plants.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

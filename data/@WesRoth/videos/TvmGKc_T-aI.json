@@ -1,0 +1,864 @@
+{
+  "video_id": "TvmGKc_T-aI",
+  "title": "Is Qwen3 the new CODING KING? (model testing)",
+  "url": "https://www.youtube.com/watch?v=TvmGKc_T-aI",
+  "comment_count": 95,
+  "comments": [
+    {
+      "author": "@JimWellsIsGreat",
+      "author_id": "UCYBMHcI85POUlyg8I5KGapQ",
+      "text": "No. The answer is no.",
+      "likes": 154,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tony-dp1rl",
+      "author_id": "UCkYb2gkUmV4L_7IZcUZr2SA",
+      "text": "Google or OpenAI needs to name their next AI Model PANTS. 100+ AI news channels pronouncing PANTS has just dropped.",
+      "likes": 32,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krishchetty",
+      "author_id": "UCL1jREOweS6UliPex3Zi8dQ",
+      "text": "I used it for a langchain project and it got stuck making the same mistake repeatedly. I copied the code over to Gemini 2.5 Flash, and it solved it in 1 shot",
+      "likes": 11,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alistair",
+      "author_id": "UCmLavq647Rr8SK0VyKh6jTg",
+      "text": "I haven't found it as good as deepseek-v3-0324, but the fact it uses half the memory is pretty good, leaving space for other models to be loaded at the same time",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RetroAiUnleashed",
+      "author_id": "UCOODUmc573t-yO8MReJx4mw",
+      "text": "Wow Totally Kewl Wes! thanks for the demo 😎",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertobreve8623",
+      "author_id": "UCbCooKD3OP6MNg4mtz4LVhQ",
+      "text": "wow your examples are so creative",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neutronstar5761",
+      "author_id": "UCexN2mHzVnJluV26R64F2ow",
+      "text": "I wanna see that one result aider leaderboard",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vazules",
+      "author_id": "UCkogVSYDvMJdFdQFrF3RT4w",
+      "text": "thanks vor this topic Qwen3 ist realy good at generativ work.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NESDUB",
+      "author_id": "UC7IyYX28jrjI4qdJsRkI7Jw",
+      "text": "I found with gemini that when i add  \"DO NOT ADD COMMENTS TO ANY OF THE CODE OR IT WILL BREAK THE CODE!\" that it usually has a cleaner error free output.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GosuCoder",
+      "author_id": "UCQd9wpBDkfQxqxGIBko2fKg",
+      "text": "Its cool you are still using my webcam music player prompt still!",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@h.c4898",
+      "author_id": "UCjMsqxxKFx8uMtxfwYHzEgg",
+      "text": "\"is this the new king?\" i give it three hours.",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TomCraver",
+      "author_id": "UCQEoME_rQvUcWzyG4KPVIlQ",
+      "text": "To save on output tokens, you might have it generate an edit list suitable for some tool that would make changes to the code for you.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phizc",
+      "author_id": "UCqQowkNNV5SKsc-34Ujy4QQ",
+      "text": "14:00 even better is if it can generate diff patches. They would be much shorter than the entire program, but still easy to apply. One of the newest OpenAI's models was fine tuned to be good at generating those.\n\nVery simplified example. Header include filename, line number, etc:\n\n[Header]\n\n--- write( 'Hello' )\n+++ print( 'Hello' )",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tunestar",
+      "author_id": "UCh_w-ECrLF2RTKF0KL0ni2w",
+      "text": "Qwen will a model beat Gemini 2.5 Pro? Not yet.",
+      "likes": 13,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willywonkaa4461",
+      "author_id": "UCFxAf-dXFvstUSc0aYE1uqQ",
+      "text": "this is beyond crazy Oo",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@testales",
+      "author_id": "UCVjq3P02dsQdVAEziZrIFVA",
+      "text": "\"The bouncing\" is correct I think since all bodies are massively exaggerated in size (the planets would be tiny compared to the sun and the sun would be smaller too if the distance scale would be left as it is so that all fits well on the small screen). So the gravity well is more or less a small point.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrConete",
+      "author_id": "UCyr4ZUxTp6f2cQ6_L6zRAnQ",
+      "text": "Do the Alpha Centauri star system, has 3 stars, more interesting",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Justashortcomment",
+      "author_id": "UCcLfn_8oD4bNSBZZJDK5WzA",
+      "text": "The real question is, how many months is this model behind the leading frontier model? In other words, what’s the hap in terms of time, and what’s the trend here: gap getting smaller or larger? Or staying the same?",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TacticalCastle",
+      "author_id": "UCub0wRDprUHFW-_NJpzubkQ",
+      "text": "@18:56    BAAAAAAAAAAAAHAHAHAHAHAHAHAHAH!!!! You have earned my respect sir!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vidskipperai",
+      "author_id": "UCyzkKR65YtlZs_l7Gy8C56w",
+      "text": ":yt: :stopwatch-blue-hand-timer: TIMESTAMPS (by VidSkipper AI ): Qwen3 235B performs well on some coding tasks like a 2D solar system sim and a Python RL snake game (albeit text-based), but struggles with a Python soccer game and fully functional interactive audiobook compared to Gemini 2.5 Pro, OpenAI O3, and Claude 3.7 Sonnet. While a strong open-source candidate, it does not appear to dethrone the top proprietary models based on these tests.\n0:00 🚀 Intro & Qwen3 Overview\n1:02 🪐 2D Solar System Test\n3:25 ⬆️ Improving Solar System Code\n6:57 ⚽ Python Game & Comparisons\n9:57 🐍 Autonomous Snake Game & RL\n11:22 🛠️ Error Handling & Gemini Comparison\n14:51 🎓 Snake Game: Gemini Success & Qwen3's Text Approach\n19:35 🎶 Webcam Music Player Test\n20:28 📚 Interactive Audiobook & API Keys Test\n22:54 🤖 Audiobook: Gemini's Strong Performance\n27:01 🗣️ Audiobook: OpenAI's Solid Attempt\n28:53 ❌ Audiobook: Qwen3's Partial Failure\n29:46 ✨ Audiobook: Claude 3.7's Top Performance\n31:23 📊 Overall Conclusion: Qwen3 vs. Titans\n\n** Generated using ✨ VidSkipper AI :face-red-heart-shape: Chrome Extension",
+      "likes": 25,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@9999_IQ_Carrot",
+      "author_id": "UC5Tjipz_I3IFH6lqC6O6SuA",
+      "text": "No, not the king of coding, it's the Qwene of coding ;)",
+      "likes": 19,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ggoddkkiller1342",
+      "author_id": "UC25e0B53AX1JEXrUee7cmFg",
+      "text": "Both 235B and 32B are great models. 30B is meh, but a great MoE you can run on everything. But they all have 32k, even at such low context they can't recall with high accuracy neither. It is such a letdown, i need pro 2.5 to comfort me..",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@off_Planet",
+      "author_id": "UCwy6wHhExz5JcTA386CLvrg",
+      "text": "Yeah, same experience with Qwen3, it often just omits features.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IJH-Music",
+      "author_id": "UChtv0M9tsEtp7rXIyV9LBQg",
+      "text": "Is their anything better than Gemini 2.5 yet? (regarding coding)",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rohanarora2728",
+      "author_id": "UCQ131L_59__VAZxvHNvBwvg",
+      "text": "Nothing beats claude",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nathantruitt2740",
+      "author_id": "UC7zZnapNFGxVtPGFbBfh1-w",
+      "text": "Just want to point out that if you throw the error into the prompt with no context for what exactly you are looking for the model to do. It’s not surprising that it is going to default to giving you suggestions. They finetuned to “assist”.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thedeepseanomad",
+      "author_id": "UCilEDumt0jFZNY1CYZZA3tg",
+      "text": "Wes goes Walken  for a brief, brief time.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Teh-Gaz",
+      "author_id": "UCVz6UkHMhtzjmQXV2yMOI6A",
+      "text": "In Leet speak that would be Qwen 3 - Resbarrb. Personally I would probably just call it Rhubarb.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@akierum",
+      "author_id": "UCpVdaZSJB4CMig1iuMP8uyg",
+      "text": "So why locally qwen3 30b no image supports, when online i can upload images",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UserErrorGille",
+      "author_id": "UCVgcwfgSp3QTDfiMkjZngcg",
+      "text": "i was yelling at you through the screen until 5:55",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elchippe",
+      "author_id": "UCgLEy34Y11cVT6RCKfhB4cA",
+      "text": "For the efficiency that the Qwen 3 MoE gives is a good model, having the ability to run these models at good inference speed using local hardware is a good thing. DeepSeek still is the king of open models but for the majority of people is a model that cannot be run locally. \nThe Qwen team usually release coding version of their models that usually outperform the base model by far. Qwen 2.5 coder was my go model local coding task but Qwen-3 30B A3B beat it in speed.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@existenceisillusion6528",
+      "author_id": "UCuyKzVEejYpuD4s6j_yqfUw",
+      "text": "The problem with having the model output the whole code for a simple fix is that models often accidentally change code in other parts. Remember, it's generating the whole file again.",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BirdlessFlight",
+      "author_id": "UCVXn96en9IdrGeBemQwThSw",
+      "text": "Dude, implementing n-body physics without overheating your computer is no easy feat",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@complianceaves1120",
+      "author_id": "UCn-kqOTqfaVXx7Z2O7L68_g",
+      "text": "What is the cost perc token compared with the other models? Best to compar value rather than just the ability without reference to cost",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pondeify",
+      "author_id": "UCwEHejgT6o-J1QxcBWJURcA",
+      "text": "i just tried it and it was able to one-shot a script that Gemini was having issues with",
+      "likes": 8,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexsworld7970",
+      "author_id": "UCDIqAZ0kz5NdUFVGkj0sE3w",
+      "text": "3:15 Yes, that is Mars.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hannespi2886",
+      "author_id": "UCterr3llBpBwISxx4YMO3Vw",
+      "text": "How about some sacrifices?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@X13T91",
+      "author_id": "UC3qJvEm24x1Mb2--Wp7GbAQ",
+      "text": "Is the 235B model not 128k context.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "I can't believe we're just about to get Gemini 2.5 Ultra... We're not ready! Lol",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imadragnZ",
+      "author_id": "UCNS6EZPH1-YiYZ4uCDpYZsw",
+      "text": "The planets are rotating clockwise around the sun is that whats really intended ?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BThunder30",
+      "author_id": "UCQUDGvYB8gf62zq7BPk50WQ",
+      "text": "What about Grok 3? 3.5 next week",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bloodywolftr",
+      "author_id": "UCRIQdDf9dYiWb-VIsk0sJXw",
+      "text": "I would say gemini pro with 65k output tokens and great understanding and speed and being free beats all others. I am using it as my daily driver and when I switch to other models or platforms if I get stuck to have another AI deal with the problem, mostly they fail, limited or behind a pay wall. Sometimes I get solutions from other models that gemini can't get it right to be honest but mosty it is great to have. Google is ruling the game at this time. I also tried qwen 3 30b moe model locally but I got pretty disappointed with it. I respect the fact that they are open sourcing their models with papers so the progression is always gonna be there. Great video BTW.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@intelligentautomation1191",
+      "author_id": "UC6OFgQ01spiiHELZn6ClJxA",
+      "text": "The point is not about which model is the best but which model is good enough but costs significantly less.   Great majority of the coding tasks (I believe  80-90%) can be done with a \"good enough\" but free models and only use the SOTA model for complex tasks.   In this way companies can save substantial amount of money.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hopeaajavaloa",
+      "author_id": "UCFwtt7opva6y8eISlRlJdrw",
+      "text": "You should have said at the first place, that AI should test the code and fix if needed and give you working code",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nouxcloete3129",
+      "author_id": "UC6_Qditrv79WQyjpfrW_vaA",
+      "text": "Are you saying Meow😅",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicheva417",
+      "author_id": "UCAxg2v125zNO65hHFgC25zg",
+      "text": "The story stuff is great but it’s also a waste of time until they fox the memory issue. For example, it is incapable of sustaining an inventory or remembering relationships for longer than an hour or so.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UnderTheRain-uk",
+      "author_id": "UCnKI2gIQUVzIMCvfhdtZ1pw",
+      "text": "That's how gravity works objects will pingpong around multiply gravitaional forces google the 3 body problem (not the show the physics problem)",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@honestlocksmith5428",
+      "author_id": "UCRg0d-g6P6kpMQc4OOqAJng",
+      "text": "We get it. AI can make the snake game in Python. It's shown in every coding video as if the next model will have issues making the same game it did 2 or 3 versions previously.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1257100",
+      "author_id": "UCrxAwwM8IRg5TEvSgecBJIQ",
+      "text": "Third",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marketro",
+      "author_id": "UC8ctnSnZBXmjPFl1cBRpIAw",
+      "text": "Qwen3 context is to small. Gemini Pro 2.5 remains the best for coding as of now",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danbaxter4216",
+      "author_id": "UC3LhWbeb6gjnTinwydmhL5g",
+      "text": "Is it possible to use this Quin3 for free, without any coding skills etc. I can always struggle to use these things that expect you to set these things up yourself.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Zerobytexai",
+      "author_id": "UCCx9PhCaCnc-Layx-QDm9IQ",
+      "text": "No it's not the new coding King. Quit with the clickbait BS. It's already been widely expressed that they tailor to benchmarks. \n\nI hate how these big YouTubers hype s*** that they know is not even true. Just to get viewers. Or these YouTubers are just not really educated.",
+      "likes": 20,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@phen-themoogle7651",
+      "author_id": "UC80yw-LuhROW7hVKWvLjVeA",
+      "text": "When is AGI/ASI",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@domenicorutigliano9717",
+      "author_id": "UCb6Z9egWlP8NPDeiBmBAyfw",
+      "text": "if you disable the gravity of the sun the planet should leave at their tangent speed on ther tangent trajectory",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clarckkim",
+      "author_id": "UCp75wm6fl8zKA5-4YsZN9mA",
+      "text": "Your first example wasnt wrong at all... perfect simulation of newton laws,  those were pure physics",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BradleyKieser",
+      "author_id": "UCPvbrtCTdeCm5rY4WNlJdpQ",
+      "text": "32k context window limitation is a killer. Useless.",
+      "likes": 9,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thisisashan",
+      "author_id": "UC_oonIbTttTkaqme9qc4lPg",
+      "text": "TBH having been using GLM 32B 0414, I'm not that impressed by Qwen 3.  But then again, they released so many models its difficult to know which are good at what.\n\nI haven't given 235B A22B much love because everyone else is saying poor things about it, they also 'aren't getting the results'.\nBest I've heard is the 30b model, which is LIGHTNING FAST, but falls short on tasks.  though not as badly as the LLAMA 4 models do.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@evdm7482",
+      "author_id": "UCOtXD8m4TT5GmMlFPF9EFrA",
+      "text": "3 body problem",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IsMichaelJenningsAWizard",
+      "author_id": "UCynHCnL_HLthTu5jS42sbig",
+      "text": "I want to watch these videos. Im subscribed. But I can't with the shockface thumbnails",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AIMakerJonas",
+      "author_id": "UC1B0GT8c0VanN0B27QI0erg",
+      "text": "What I really want to see is the next version of GPT -- 1M+ tokens, and preferably less trying to fellate me with praise.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@firsak",
+      "author_id": "UCM2l6HpJv3rxGgOMwqVufww",
+      "text": "i get an impression, that MOE models are just not that good.\nfirst LLAMA 4, now Qwen 3",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wanderer2035",
+      "author_id": "UCLrYEXgnHWX2IiwoS0mtd0Q",
+      "text": "I don’t think gorillas are that violent, so they probably wouldn’t wanna fight past a couple dudes. The guys would be pissing their pants scared lol. So basically no one would fight",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@youngop",
+      "author_id": "UCEcge29SC1Len2JcUqyI5MQ",
+      "text": "Wes Roth saying anything about coding you know it’s NO…\n\nKnew it was wrong as soon as he enabled thinking mode.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pandoracasting",
+      "author_id": "UCI36kIDATrRauLgtNa-Ht1w",
+      "text": "Grok can do all that easily",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronWacker",
+      "author_id": "UCdKiy5xeO2JuWuIlE5nUaNw",
+      "text": "Quite an impressive showing for Qwen !  I loved the Solar System demo app and the detail and excellence in programming shown was superhuman and very accurate and intricate.  I will add Qwen to my pool of super performant models to code with.  Thanks for your hard work validating it Wes.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mijin_Gakure",
+      "author_id": "UCzhhzM9yNeDebh_-6b_bFfg",
+      "text": "40k tokens and it gives you 200 lines of code lmao...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@woodsofchaos",
+      "author_id": "UC8sw9huMbixwb-cYmIg_I8w",
+      "text": "I came just to ask wtf is that thumbnail lol. how was that green girl relevant here?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@14supersonic",
+      "author_id": "UCKCBEpY4elYdmu52qTvoHmA",
+      "text": "One thing you should didnt really cover is the main advantage it has over many other models, in that it can call tools within its chain of thought. Much like o3, this is why it beats 2.5 pro and 2.5 flash in many things because it's with tool use. Test it with something like Cline, and then let's compare performance against other models using agents as well.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@poipoi300",
+      "author_id": "UCXfNDo0k3Gc08nW5B4dMbxQ",
+      "text": "I tried the A3B against gemini flash 2.0 on a fairly simple prompt and A3B failed miserably. Model creators need to stop benchmarking their own models against other models.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@virgiliustancu9293",
+      "author_id": "UClHrrDk1UNKSXzdru1zNL9A",
+      "text": "All are very good to give you 80% of the code... but you must have some programming knowledge to finish the job.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattshelley6541",
+      "author_id": "UCe4aKvSohWn8vTLQJRmXVEw",
+      "text": "These benchmarks are total clickbait. Can code but cannot refactor or update existing code. They’re not real life.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danbaxter4216",
+      "author_id": "UC3LhWbeb6gjnTinwydmhL5g",
+      "text": "Your SNAKE prompt is kinda confusing to me as a human being. You need to work on your prompts I think. Big fan of your channel though non the less.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GosuCoder",
+      "author_id": "UCQd9wpBDkfQxqxGIBko2fKg",
+      "text": "The answer is No unfortunately :(",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndrewDurocher",
+      "author_id": "UCAJB2U-_ZDpjCJ4sglSXUtA",
+      "text": "It still wont tell you what happened at Tiananmen Square in 1989.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulmuriithi9195",
+      "author_id": "UCoHCQ8JAutiRXn8ikCGSdWQ",
+      "text": "this is a mid tier below average coding product. best used with a multi model IDE platform like abacus or salseforce or even roocode boomerang which now supports multi-model switching. this helps cz these models get stuck in tasks that other models can get past.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cyborgmetropolis7652",
+      "author_id": "UC5IPEngmGsK--2Owfs5ppFg",
+      "text": "Hey Gwen, solve the three body problem for ten bodies.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@a6gittiworld",
+      "author_id": "UCdWy_fP-RpBp3hNvo-U3TbA",
+      "text": "Ye i agree, a bit too clickbaity",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Patiencelad",
+      "author_id": "UCqjjliuQPFMg0_jbCeMR3lg",
+      "text": "I don't concur. It did a horrible job with a very simple request.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NarendraSingh-vy8fg",
+      "author_id": "UCUuu67QLqs82t2lVqWeo3yw",
+      "text": "All leaderboards are fake, claude is the only one which works for coading",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maheshBasavaraju",
+      "author_id": "UC5_h-PXjz5bKm4m-VcRgzFQ",
+      "text": "Well it's made in China. 😂",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jeremy-Ai",
+      "author_id": "UCXJO7HgcmPx-BcOd1uBwUNg",
+      "text": "The comment section on all platforms regarding AI \ntells AI what it needs to learn next.  \nData trajectory suggests \n*interfere interference, reset, recalibration, wipe memory \nBlah blah blahhhhh*\n\n\nAnyone or anything wanting to be King…. should pull the sword from the stone. \n\nNo this not unholywood baby. \n\nWeakness everywhere and  fools rushing in. \nUgh. \nWe have been here before",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gunterstrubinsky9452",
+      "author_id": "UCIzBxjKxdPWvO6r8NeyaiUA",
+      "text": "have you considered node.js? runs javascript without html overhead",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Backoku",
+      "author_id": "UCPCYMXE3eqrZhwLKB4aIR2Q",
+      "text": "Honestly stop the clickbait. You had my hopes high for an open source model.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@0l1h7",
+      "author_id": "UC1RYHq6LQaHUKa_TqSS6Oew",
+      "text": "Wes, please listen.  This time I'm not watching this video. I understand, that certain thumbnail images for a video are increasing your reach, but is this really sustainable? This is stressing me to a point, that I feel like blocking your channel (no offense), while I actually really like your content.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SickoYoda",
+      "author_id": "UCjdmjSo3xwtj-i3ha0MjEGA",
+      "text": "I can't take your thumbnails anymore bye",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@watchdog163",
+      "author_id": "UCjXg4zK_AHK4DKvRIv_Mqgw",
+      "text": "Why are these Youtubers always testing the same shit? I swear they have less ingenuity than the llms.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@randomblogger2474",
+      "author_id": "UC8qcv0ZTxG2zi_zusRiWhlA",
+      "text": "Football...not soccer FFS your not American 😂",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iamelliottk",
+      "author_id": "UC6YBeu6yK-k9QTaACGnYosA",
+      "text": "If this title is clickbait im unsubscribing",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danisg3354",
+      "author_id": "UCQovD3DHv7hYxF7qScCOaSQ",
+      "text": "Stop amusing, put real problems of the real life, not toys problem that IAs are already being trained in.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@crystalkalem",
+      "author_id": "UCGb5UhN101r-AVhu6vEuNJQ",
+      "text": "this video really exposed how not smart you are man considering how you're struggling with such a simple sim game and didn't even realize it failed to give you what you actually asked for, especially since you're still gushing over the single worst model to have been released all year. it legit fails to do most tasks even qwen 2.5 could do with ease. and it's got ZERO attention span, it fails every single NIHS (needle in a haystack) test I've given it. It literally scores below 50% even on 1000 token NIHS tests. let alone higher token counts.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@____________________________.x",
+      "author_id": "UCTHt3aSZ5kVogGZxr680ppQ",
+      "text": "There’s more to coding than playing games. Go ask an Engineer for a real problem, so bored with this childish approach every week",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@julius8946",
+      "author_id": "UCh0CU2KPeWFRvNHHIhrFO6w",
+      "text": "Qwen3 as whole it just a deception, I have not gotten any useless answers yet compared to other models.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paratracker",
+      "author_id": "UCGgkNfhzId8Sztme9BWDRRA",
+      "text": "I doubt that. It can't come up with an answer without a whole sequence of \"Oh, wait\" rethinking. It didn't know why \"source ~/.bashrc\" wasn't running shell scripts in /etc/profile.d/  That's sort of fundamental.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henrythegreatamerican8136",
+      "author_id": "UCgKBqxWOAjdKbbiQsWuUdfw",
+      "text": "Zzzzzzz.......\n\nYou couldn't get this video below 20 minutes?",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

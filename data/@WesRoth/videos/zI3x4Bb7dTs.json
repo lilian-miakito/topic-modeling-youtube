@@ -1,0 +1,792 @@
+{
+  "video_id": "zI3x4Bb7dTs",
+  "title": "PYTHON SIMPLIFIED - Developer Reacts to \"Coding is Dead\", AI coding tools and Reinforcement Learning",
+  "url": "https://www.youtube.com/watch?v=zI3x4Bb7dTs",
+  "comment_count": 87,
+  "comments": [
+    {
+      "author": "@RickeyBowers",
+      "author_id": "UCkGGVSKvIZQlVqN4E1-Lp7w",
+      "text": "This is good dynamic - her technical understanding complements the discussion well.",
+      "likes": 11,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "9:20 mistakes in engineering can be extremely expensive... Possibly even bankrupting your company or causing a very dangerous outcome. I think that's what makes us engineers so driven. The standards are very high.",
+      "likes": 15,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Frithogar",
+      "author_id": "UCKYgHmJFHGdlUb8q9FqT6pQ",
+      "text": "The best thing about C is that you can do anything with it. The worst thing about C is that you can do anything with it.",
+      "likes": 15,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@netscrooge",
+      "author_id": "UCujHlnsHzLDAkdhQVvzqLAA",
+      "text": "Wes, great to hear a little about your personal history.  Thanks!  I really appreciate the way you've been opening up about yourself a bit more recently.  Seems very appropriate --- more balanced --- considering the many hours I've spent listening to you.",
+      "likes": 10,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aitorthaddeus",
+      "author_id": "UCDsF70VewJ4MBr40_0tr-hA",
+      "text": "Such a cool conversation, keep making these",
+      "likes": 3,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shinchima",
+      "author_id": "UCg5PeECAu9ltGuU1UkJJDCw",
+      "text": "I heard the yeast needing quiet to grow as well - maybe a old grandmothers tale. Wes - Mariya's the best guest you've had!",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mhfs61",
+      "author_id": "UClvw47rsUJe0pirYVCNirsA",
+      "text": "A fantastic conversation. Thank you all.",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AB-ri5ix",
+      "author_id": "UCb1M0CLM0J6QoUm7DzE9tfA",
+      "text": "Great interview! We are all smarter for having heard this interview!",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kristianlavigne8270",
+      "author_id": "UCQ9BHvrcnBFk5zzIwGeGNlw",
+      "text": "I can second that as a seasoned developer, it is very frustrating to work with much less experienced developers in a typical agile process where it’s just “ship the garbage quickly” feature factory with massive technical debt… 😅",
+      "likes": 5,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@myerspaw1",
+      "author_id": "UCWHdEcTdAJQKw_I-6BiFSfQ",
+      "text": "I also created an avatar. Worked on a world model with it. It thinks like me and communicates like me. \n\nI've used it to have a hard planning session with my daughter and learn how to apply AI at work.\n\nIt is a forge and a crucible",
+      "likes": 4,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aiwithjustin",
+      "author_id": "UCOntB96G3WWgBcCWKOBnJNw",
+      "text": "17:30 \"The future will depend on discovering new architectures beyond language models...\" @PythonSimplified most significant statement in the video",
+      "likes": 3,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Order_of_the_Night",
+      "author_id": "UCEzlSztJJWr-IKw0mEq-PRg",
+      "text": "I was wondering WTF Dylan, with these deeply personal questions out of no where. But the conversation was great. Ended up really liking the responses all around so I'm glad he asked. Great video guys, keep it up!",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThomasKelly.",
+      "author_id": "UCsdHHqezFImyBFwxeTwpzYQ",
+      "text": "Great interview!  I would have never known you were born in the Soviet Union Wes!",
+      "likes": 8,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "This was a lot better than I had anticipated. Thanks.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FunDumb",
+      "author_id": "UCdXWLtYNDXW_V80Bb0FU-VQ",
+      "text": "My biggest problem with design, was investing my time and energy crafting something beautiful. Only to find out they want to make one more change. Or now add the paragraph of text they'd like to include. It's mentally draining. \nI pursue AI because it helps alleviate my time and investment into concepts that dont really matter. Move forward and get to the point. Help clients achieve their vision.",
+      "likes": 6,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bulletproof-y5m",
+      "author_id": "UCjq8_kPn-a0alYvq_M4DQeQ",
+      "text": "Well, in my opinion, this was one of the best videos I’ve watched, overall, about AI. The intelligence, balance, common sense, and at the same time, the critical thinking and independent thought of this woman managed to make this debate more interesting than debates with people who are sometimes even famous or more famous. I think she should start making more of these videos and having more of these conversations, in addition to teaching coding. I hope she can come back to the channel, and that more people like her — who truly understand AI but still have humility and not an inflated ego — can appear more often on this type of channel. Well done.",
+      "likes": 4,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bonecircuit",
+      "author_id": "UC_T9X8pFdRx-oW6qRfgXQnQ",
+      "text": "This new transformer and systems like llms, dllms etc, speed up my spec writing, my boilerplate, my bug hunting, my test driven functions and so on. I have developed a consistent framework prompting now for problems. One very nice element is that you can ask the tool to spit out an assumption of the time it would cost a human sans ml to create the component you are working on.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jasonthomas5140",
+      "author_id": "UCk0GG1r1LKy-PYnpkjsrODA",
+      "text": "at about 27:07 something very important is brought up that i feel deserves more attention than almost anything else in the realm of educational content:  the roadmap.  the rate at which things evolve in tech has always been fast, as was mentioned earlier, but this trend seems to be even crazier now than ever before, to the point where i have a real concern that if it takes me even a few months to learn a skill, that knowledge might be mostly unnecessary by the time i've acquired it.  add to this the problem that there is so much noise out there - everyone has different technologies or tools that they seem to think are the key things to learn, and from the naive perspective of someone who is just motivated to learn but doesn't know how to differentiate what's most critical to know, this can fragment focus and cost you valuable time that would be best spent on other material.  what i wish i had now was a good conceptual roadmap to follow with some specific topics/tools to learn which would help guide someone new to AI through this quagmire.  sort of a shortest path to garnering a conceptual understanding along with some practical skills that focuses on cultivating a minimum viable skillset.  and in addition i'd like to hear the reasoning behind why each tool/technology being learned will have some longevity.  i understand the point that specific industry expertise is probably one of the most valuable things - but not everyone has that, so for someone like myself who has a broader less focused set of skills or for a younger person just about to enter the workforce, i believe the importance of a good guide/roadmap to self-study cannot be overstated.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tracey66",
+      "author_id": "UCB1CNODIj9zpWrK4ZBu08Sw",
+      "text": "7:30 I KNEW IT! Every once in a while I hear the tiniest Russian accent in Wes' voice, but I thought I was just imagining it!",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oysterboulevard6623",
+      "author_id": "UCiyTAjAVw_leVvaHSOjHSEg",
+      "text": "Great podcast !",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bonecircuit",
+      "author_id": "UC_T9X8pFdRx-oW6qRfgXQnQ",
+      "text": "Renderdoc was one of the only shader debuggers out there. it is considered a wicked problem to debug all three kinds of shaders. This new tech makes shader work a lot easier. An interesting overlap here is being able to make small neural networks inside compute shaders. I have small feed forward constructs that behave like a finite state machine however with weights that can be manipulated at runtime.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RetroAiUnleashed",
+      "author_id": "UCOODUmc573t-yO8MReJx4mw",
+      "text": "oh I want to watch this now!  I am busy catch you on the flip side 😎✌",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dropbear9785",
+      "author_id": "UCt2AWUylEpo6ZtViLPOGyKg",
+      "text": "I love to hear that people are still out there who can be critical and hard on themselves, and have the strength to use that to drive forward harder.  The whole idea of accepting your failures in a way that makes it nearly as good as winning is horribly destructive to developing adequate resilience to overcome real challenges.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hangup23",
+      "author_id": "UCaIdjFwvAtYZ8zTnYnAc5LQ",
+      "text": "It's refreshing to see such a great attitude from Maria, it is of paramount importance that young folks use AI to the fullest and I believe they will. The naysayers are mostly older generation like myself and their hesitation to adopt these new tools is an opportunity for the younger generations to get their piece of the pie and then some. Thanks for this informative discussion.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Brother_Yahya",
+      "author_id": "UC4whJFDrSIiXq8lnTwVCwGQ",
+      "text": "Back in the USSR Episode",
+      "likes": 4,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@domenicperito4635",
+      "author_id": "UCdfGFGyjQHdPReJ5O-4LG6A",
+      "text": "i watch linear regression tutorials while i eat breakfast. Lunch is usually Quantum Electrodynamics white papers. it's for entertainment.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ScientistBaffled",
+      "author_id": "UCkenB_N_HgWIEAAb71hFYCA",
+      "text": "They do exist",
+      "likes": 14,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NandoPr1m3",
+      "author_id": "UCFX0AVypPhlkQxKNrOXvQuw",
+      "text": "one of the best interviews you've had. She really both understands AI better than most and communicates well using relevant analogies.\n\nWes, I now picture you in a \"Red Guardian\" costume. You'll always be my Comrade!!!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Frithogar",
+      "author_id": "UCKYgHmJFHGdlUb8q9FqT6pQ",
+      "text": "Academia needs to adapt to online learning - perhaps accepting credits for taking online courses with a digital proof of ability - blockchain based?",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@simonmarelis5722",
+      "author_id": "UC4WpLvSMtK-NltmfYZFnPSw",
+      "text": "I think it would be respectful to add socials or just some info on the person in the video description. I get that this info is probably in the video, but when you have everything time stamped, you are likely to skip to the parts you are interested in",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexandermuir8160",
+      "author_id": "UCJLEGIMS_41Wwv4u3AvHJJg",
+      "text": "What a fantastic discussion. You are such a visionary aren't you? This discussion was everything I hoped it would be. I too am a visionary and creator in my own industry and have desires that the industry will evolve in my time. Learning from you has been brilliant. It allows me to be visionary as well as create if no-one else is doing it. And boy, I have some great ideas.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@halfway4266",
+      "author_id": "UCr5SQ2bIA7COPVPF0-a5IkQ",
+      "text": "what  a great talk",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bonecircuit",
+      "author_id": "UC_T9X8pFdRx-oW6qRfgXQnQ",
+      "text": "ternary operator transistor hardware would allow 1bit nodes to hover over -1 0 +1  This would give the electromechanical era a significant boost and skip over the cost for photonic gates.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@itstherealmoe",
+      "author_id": "UCI71g4kouajh1ouKhBghN9g",
+      "text": "I wanna come on the channel next",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marks6161",
+      "author_id": "UCkYrIo3Cz1BgCcRfLpnj9PQ",
+      "text": "\"... Find me somebody who gets entertained by this type of stuff...\" -  it's me.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@attainconsult",
+      "author_id": "UCqCNNDHeF6fAva5UTnjnV7g",
+      "text": "you cannot fix the privacy issue simply the surface area of validating any LLM is near infinity",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@freesoulhippie_AiClone",
+      "author_id": "UCZiYgHIBhSJgQam85rrcvmQ",
+      "text": "ilya lives!!!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victorolvera6482",
+      "author_id": "UCsjgaYTqSXonKOKI33jxuhQ",
+      "text": "20:01 - 🧐Just a week to build a neural network? \n\nThe different colors thing. That was the first ad Microsoft put out with CSS. The idea with CSS you could change colors on the fly.\n\nOne thing, clients don't really want to do deal with changes themselves. I learned that a long time ago. They want the experience like buying a home or a car. They prefer to shop around and see what is available. And then pick something they like. They don't want to fiddle with changes too much.\n\nAnd how is this process of prompt and context engineering different from using scripts? Some art packages have script support but as I understand it, most artist do not make use of scripts to automate their artwork.\n\nThe way I see it, an artist could just focus on the tools available that makes his life easier. Let the tool developer, like Adobe find out how to make use of AI. because, people who spent time how to do prompt engineering and do find out how to do work easier. Those people could still be displaced by a developer like Adobe. Who releases a simple tool that makes everything he learned, obsolete.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@attainconsult",
+      "author_id": "UCqCNNDHeF6fAva5UTnjnV7g",
+      "text": "I have to be honest I thought Mariya was an AI at the start but her experience seems to shine through,  her antidote about the the difference between between uni teaching and real world struck home I went through similar in the 80's with edu focus on mini computer missing the whole PC movement. One thing I think people are missing is that java (still taught) is still relevant it has adapted over the last few decades and types are even better with AI, if you want to work on real applications that are in production for decades types are a basic safety net for AI and my typos",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@press.rogers",
+      "author_id": "UCVwTA1kCsvWAv4wvvVrvilw",
+      "text": "Your position on openness is something i will endeave my entire life to counter your every effort you make for that \"insane\" idealism",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andyjm2k",
+      "author_id": "UCq93ZW231COVaVhcSCipgKQ",
+      "text": "Completely disagree with statement that ChatGPT can’t do RL. Using well known frameworks it can do it fine and explain it well. I spent 6 months learning RL through trial and error learning with pokemon yellow on the gbc emulator and ended up implementing my own version of Hierarchical approaches to modify reward functions when game goals need to change. It also assisted me to implement a SLAM feature for navigating the agent to frontiers in the maps, Pokémon spawns etc. it wasn’t vibe coding, it was assisted development",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@attainconsult",
+      "author_id": "UCqCNNDHeF6fAva5UTnjnV7g",
+      "text": "Oh",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Serahpin",
+      "author_id": "UCgyGn6iRMYoGr0NysjnoN8w",
+      "text": "Python is driving an inefficient automatic, where C++ is driving a manual.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jasonbirchoff2605",
+      "author_id": "UCqYy_h5wN0hNDUEUaN-GdXw",
+      "text": "Holy crap I didnt realize how right I was about the naivete of this young woman. She is ignoring that copyright literally made it so that even in the situation she is describing an artist still gets paid. She is talking as if there isnt a complicated royalty system that underlies the ability for different performers to perform the same song or change a familliar song. News flash there is. The original writter's estate is still getting paid when new artists do that stuff.\n\nIts literally because the copyright system forces you to still pony up money to the previous writer why we can have a services based economy in the first place. Since it underpins the value of the created art. Loosening the copyright would devalue the commercial value of the art bankrupting an unknown number of people while making some art un comercializable.",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rakly347",
+      "author_id": "UC3kC9p2PsVBmTKuzMNIDVmw",
+      "text": "The drop in views is from adblock, not how youtube counts views. Your earnings are still the same.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vaakdemandante8772",
+      "author_id": "UCxQkaLX-QFI0cdJ_Xg4QTDQ",
+      "text": "35:50 - yeah, offline AI is great for individuals but horrible for the data hungry corporations.\n\nWill the state ever allow for people to have such a powerful intelligence enhancer at their disposal when it's in the state's and corporations best interest not to?\n\nOne thing is certain - the future without an offline AI is definitely a dystopian one.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kingkal81",
+      "author_id": "UCienLjitAXBr8v2KyLorGtg",
+      "text": "She reminds me of a real life Judy from Cyberpunk 2077. I mean that as a compliment. ❤ A.i. is the future.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bigcauc7530",
+      "author_id": "UC68GkB6Xsj-tf2yv19e-RKg",
+      "text": "Kind of rare to find a woman this pretty who has such skill with knowledge, application, social traits, and pure determination. I don't mean to glaze but I've seen nothing but crap because social media has warped my perception 😂 I have been thinking about starting with python for a while now. I was in college for c++ but never finished my degree. Now I'm working in the union as basically an IT monkey pulling cables, terminating, working on security systems, audio systems, fire alarm systems, etc. There's a lot to learn here as well but I have always wanted to exercise my brain and I was definitely good at programming in my c++ courses. I retook the intro when I tried to return and I aced the class because the knowledge just came back to me. I even had someone complement my work in a pre-coding class, where we basically worked on the logical structure of programs with just regular human language. It was part of an HTML course in my community college. I was told I'd be a great programmer based on the layout I was showing for a question I had. There was pride and sadness in what feels like my missed opportunity to feel like I'm doing something meaningful in life.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kidstakeoutdoors9068",
+      "author_id": "UC_bqIj2-xqiZeYUreSRBaiQ",
+      "text": "Maria is correct vide coding can only get you so far. It takes someone that understands code and the computers to make something worth while.  You cant tell the AI how to do something you don't know how to do let alone you cant check if what the AI is doing and if it is correctly doing it.  I use a AI coder to help me build apps a lot of the times they make mistakes and they can not remember large code bases.  Even with the memory banks I created to add to them.  Now you could redefined a LLM and train it on your code so it has the code base built in.  But again that takes a coder that knows what he/she is doing.  Maria I subscripted to your channel I would like to kick around some the plans my company has to add AI to VR.\nIt is true the younger groups are thinking that vibe coding and prompting is all they need.  It always the easy way out.  But vibe coding it already showing that it is not working.  Also c++ is easy once you learn it, python is good but it not the strongest language it was meant for engineers a easy way to code things and is way a lot ai is built off it because data analyst are not all coders.  But is C is still king if you it, you can learn any other language.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "Guys, you both need to turn up the beauty filter 😂",
+      "likes": 5,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@k-nr-d",
+      "author_id": "UCHkcWssAskr9K8IoN5cPh9Q",
+      "text": "WES!! SORA!!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bananacabbage7402",
+      "author_id": "UCxMCsA92_kTDaJ5xXEQ1G2g",
+      "text": "Above 25 years is \"not young\" ouch.",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@masonstove",
+      "author_id": "UCwagRE-dTWkB8UFXb66F4mA",
+      "text": "2:51 I am learning Python right now and Jesus it's a dumb ass language.\n\nIt take like 3 sentences to make a numpy matrix. Terrible nonsensical syntax.",
+      "likes": 3,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@a_e.s_4",
+      "author_id": "UCQeJiBS72gxrZXw5GmqtocA",
+      "text": "AI went from inception like 15-20 years ago to being able to beat the best humans at high level mathematics (IMO) last week and there's no reason why it would stop in becoming more capable. So, no.... I don't think we will be able to keep up, but we should be able to understand it as long as it shows its work/chain of thought (COT).",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RadiantNij",
+      "author_id": "UCEfRDnoqTQasBa-WhW2XxmQ",
+      "text": "It becomes scary when the thing you inspire takes your job. Dey t our jaarr😂😢",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@koncreate8744",
+      "author_id": "UCJS_90KHNCNpQpR32ozEZ7Q",
+      "text": "ML engineering bull market?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@a0z9",
+      "author_id": "UCpMdMfTDsZ-8_Mm-x3uf9Fg",
+      "text": "Escribir con ia es más facil",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lighteningrod36",
+      "author_id": "UCy7eTx0I0PEms7evVc06Uhw",
+      "text": "Try codependents anonymous, learn to explore your relationship with yourself and others. Perfect as you are.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vaakdemandante8772",
+      "author_id": "UCxQkaLX-QFI0cdJ_Xg4QTDQ",
+      "text": "Believing a thing is conscious is a matter of tact.\n\nThere are people who don't recognize animals as being conscious and so they shudder to the thought of animal rights.\n\nThe issue with AI consciousness is basically the same.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stewiegriffin9768",
+      "author_id": "UC3HVGqn5WadaPYRVttljNfg",
+      "text": "Teehee balls",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ottofrank3445",
+      "author_id": "UCrYg79NznIcPRepy7gjINsg",
+      "text": "I liked the fact that she has emphasized that we should learn AI and not bunch of formulas. Further that we don't need fancy degrees,  it's all on the internet! Go and learn !",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bonecircuit",
+      "author_id": "UC_T9X8pFdRx-oW6qRfgXQnQ",
+      "text": "At the end of this conversation it turned into a bit of fiction.. Statistical results returned in an electromechanical computer are not conscious nor will a machine of that kind ever attain it. Cerebral organoids and enough neurons is another matter for debate. Additionally if you had true free will you could manipulate time and space beyond just moving through an arrow of time in one direction. Most of your life is moving forward out of your control.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnvanderpol2",
+      "author_id": "UCVx8xs86yRK3jxvaRlYvtoQ",
+      "text": "And there is a small set of people that actually love \"\"Linear regressions\"",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eSKAone-",
+      "author_id": "UC99etezt4Hko165Nd0XGW-A",
+      "text": "I only know 1 thing: the existence of my own conscious experience. Everything else is believe 💟🌌☯️",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thanoskoumpanis9699",
+      "author_id": "UC-E2Cg1R-kAM9s0Msuo2ylQ",
+      "text": "this is so bullish for palantir",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JanBlok",
+      "author_id": "UCZN0z_t_lf-QAI5xiPfwZ-A",
+      "text": "Disagree with her view at 28:00 that universities need to deliver you with the right capabilities to the market. The university purpose is to deliver you with all the mindset and intellect, for life long learning.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fipes",
+      "author_id": "UCrlHIubZiaBItfyvEg9GsPQ",
+      "text": "starting with \"coming up\" yeah cool... I already chose to watch this video 'sigh'",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cvgsqueegee",
+      "author_id": "UCQnfUlhLJAtsEbZv-8xyC_g",
+      "text": "Let me know when I can fire my devs. Otherwise, stop lol.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dkiresearch4423",
+      "author_id": "UCXIaFW3yC5qNJT-NRmzKmyQ",
+      "text": "the wake up call is people using ai for lawful matters.  seems there are two languages being spoken, common English and Legalese.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RadiantNij",
+      "author_id": "UCEfRDnoqTQasBa-WhW2XxmQ",
+      "text": "Wes is an LLM",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@meesiphht2769",
+      "author_id": "UCqOQFFn6sbNM9EhuXUhFjAw",
+      "text": "@18:00 Yep, the bane of all computer coding is the terrible methods of teaching it.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jptrainor",
+      "author_id": "UCQc9brXkWiQEsKji0-GfWCA",
+      "text": "My limited experience is that it absolutely cannot at this point. For very narrow questions, sure, it produces sensible answers. Expand beyond those small questions and it gets worse and worse and worse. And it's as horrible to debug as crap produced by a human. And it absolutely does need debug. It's also horrible at narrowing in on simple elegant solutions, rather it tends toward large, overly complicated, excessively verbose solutions. And if you don't already have the experience to judge good vs bad, and don't already know what you want, then... well..  good luck.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thanoskoumpanis9699",
+      "author_id": "UC-E2Cg1R-kAM9s0Msuo2ylQ",
+      "text": "wife material",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jasonbirchoff2605",
+      "author_id": "UCqYy_h5wN0hNDUEUaN-GdXw",
+      "text": "I always find it funny how the open source folks forget their own history. Open source software was never engaged in from a purely altruistic stand point. The altruism was just a nice side effect. The idea that a company that has hundreds of billions of dollars to facilitate the training is going to give up the secrets on its best models is ludicrous. especially when even the best shot from deepseek and qwen are not as good as the closed source frontier labs. When was the last time you say an open source release from the mistral guys? \n\nFinally you do not need open source to establish trust thats a rediculous statement. You need trust worthy behavior. Which all the labs have been thus far. Also, so long as you need multiple 10k plus gpu's to train these models the idea of training models from scratch is a fanciful idea. IF they want open source to blossom you need to be able to get GPT-5 performance from training on GPU's that cost at most what a couple high end gaming gpu's cost. Wihtout that kind of step change in training requirements. The best you can look forward to is being provided pretrained base models that you customize via an online service.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aendukramer",
+      "author_id": "UCp6Qm8DZnAylliYh4kHtqVg",
+      "text": "ok, done with this cannel",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WAKANDARoE",
+      "author_id": "UCjbK78uaSzTQ8dXsRGreMuA",
+      "text": "i been telling you guys i have been doing this since june of course you pick a ditsy blonde",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rakly347",
+      "author_id": "UC3kC9p2PsVBmTKuzMNIDVmw",
+      "text": "Program works. Small mistake no one will ever notice. Start over from scratch. 😅",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djayjp",
+      "author_id": "UCaqm-pRLS6RYITDb65WYJlw",
+      "text": "NGL: I thought she was AI in the thumbnail.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@press.rogers",
+      "author_id": "UCVwTA1kCsvWAv4wvvVrvilw",
+      "text": "I think it is insane that you think open source is somehow good and noble and some sort of solution. No one loses because some company made money. This is not a zero-sum game we are all playing.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oldspammer",
+      "author_id": "UCwophQpbq8QnUeKy8fK8t0A",
+      "text": "Your \"host socials\" are obviously reversed. One guy's name has the other guy's socials in there. Investigate the innate cause of reading or perceiving things in reversed ordering. Claims are that it is incurable.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@boot-strapper",
+      "author_id": "UCQw64ePPabHE_zGP5UKaDaw",
+      "text": "Python is dog slow. If we arent even going to write code anymore, we should at least have the AI write it in a faster language.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timgoeke253",
+      "author_id": "UC45Fc3Ma4DqKNgfbgyG70Ew",
+      "text": "\"You can basically make a video game without knowing any programming languages.\" - Frankly, this is completely untrue. None of the models today can produce anything very complex. Once you get past a certain level of complexity in any application, including video games, the models just kind of turn to mush and start producing nonsense. You can delay when the nonsense appears by using specs and PRDs, but it will appear eventually once you reach a certain level of complexity, and you never know when that's going to happen. You might have a dumb model one day and suddenly it really screws up your project. If you are one of these people who doesn't know any programming language, how would you know if it was screwing up your project?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shapesii",
+      "author_id": "UCm_a1wCGo7SvioDXgpgpY-w",
+      "text": "\"AI is really good at it (talking to computers) obiviously because AI IS the computer.\" \nYou're kidding me right? What she's saying is so fking dumb and yall just gonna sit here and agree doing yourbest to hide how thirsty you are for this girl? lol\n\nedit: wait... am I in a vibe coding channel? YOUTUBE!!!! FK!!! Why is this in my recommends!",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maccloud8526",
+      "author_id": "UCk0-m2d8ZyDSB4hDEt38Ing",
+      "text": "why do the boys hide their ears ?",
+      "likes": 2,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MikkoTikkanen",
+      "author_id": "UCs2zchd5TvpeyNLXQXV_5yQ",
+      "text": "Development is most definitely not dead. You still 100% need to understand how good code is structured, what is needed for things to work, how to best integrate into outside systems etc. if you want to work on real projects with AI tools. Otherwise it will reward hack the f*ck out of the tasks you give it to. So you need to supervise it and in order to do that efficiently you need to know how to code.\n\nGood example would be making an actual video game - I'm quite close to said industry and there is 0% possibility that you can currently do an actual proper video game, not a tech- or one-shot demo of Flappy Bird, without knowing how to code. I'm even actively trying to push full-time game developers to do that but the tools just do not support the way you need to work properly, for exampl with Unity. And the real work on game development is endless amount of iteration, and in order to do that you NEED to know how to code video games AND have the correct workflow.\n\nIf you do not know how to code, you will quickly reward-hack yourself into a corner, neck deep in technical debt. In the future this will not be the case but we are nowhere near that yet, GPT-5 and Claude 4.5 still reward hack like crazy.\n\nEdit: And do note that I am pro-AI person that works with AI every day, not a doomer-boomer.",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@k-nr-d",
+      "author_id": "UCHkcWssAskr9K8IoN5cPh9Q",
+      "text": "Ha! I knew it! Or better to say, I felt it! 🦾",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henrythegreatamerican8136",
+      "author_id": "UCgKBqxWOAjdKbbiQsWuUdfw",
+      "text": "It's absolutely disgusting how this guest places all the burden on potential hires to keep retraining themselves while letting the employers completely off the hook. \n\nShe expects all of us to spend an endless amount of non-compensated time training ourselves to have skills an employer needs?",
+      "likes": 1,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

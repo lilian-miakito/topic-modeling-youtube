@@ -1,0 +1,774 @@
+{
+  "video_id": "5Km-6zZP8IQ",
+  "title": "BIG win for Open Source AI | Snowflake Arctic 128 Experts MoE, \"Cookbook\" create world-class models",
+  "url": "https://www.youtube.com/watch?v=5Km-6zZP8IQ",
+  "comment_count": 85,
+  "comments": [
+    {
+      "author": "@DefenderX",
+      "author_id": "UCYXMsr7FEvIN4h5x6NCV5nw",
+      "text": "The more powerful a model becomes, the more important it is to open source.",
+      "likes": 33,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobooHood",
+      "author_id": "UCz3ThwqFAyDywx_y977m1ww",
+      "text": "The Snowflake Arctic 128 Experts MoE model and the \"Cookbook\" approach sound like a game-changer. I'm impressed by how fast they could catch up using open-source tools and methods....",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@winsomehax",
+      "author_id": "UC9TAfqNY3tgxgajt16HGkOw",
+      "text": "Thanks for the reminder of the google \"no moat' paper. I remember reading it then and thinking it was prescient. Now it's scarily prophetic. Props to the authors. They are so right, they no doubt got fired.",
+      "likes": 34,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AGI-Bingo",
+      "author_id": "UCJ_qPdqhb_EEn0OO5s_b8cg",
+      "text": "A new golden age of Open source is upon us ❤ #WholesomeAGI",
+      "likes": 18,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeltoninc.8542",
+      "author_id": "UCP-wRiytvF3xmJrmUAt6WYg",
+      "text": "I’m so early, I’m still outside the pod not eating any bugs!",
+      "likes": 27,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomgreen8246",
+      "author_id": "UCT81rWf-iPJ5ZnFudynZ-4g",
+      "text": "\"ADHD is a hell of a drug\" - I didn't even notice the tangent mate 😂. I loved it.",
+      "likes": 49,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dundeedolphin",
+      "author_id": "UCJUezO8Wyn9FWrp9t7wbtAQ",
+      "text": "What an amazing channel. Thank you.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robhewitt5209",
+      "author_id": "UCtljVZBG78AFcR6figD-9qw",
+      "text": "DOUBLE THE CLUSTER",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@burninator9000",
+      "author_id": "UCkS_L07LUQ-bDyyRz1Ui-1g",
+      "text": "LOL @ Ilya in the box",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aclearlight",
+      "author_id": "UCIZTPX1RVERlscnHolBm4ig",
+      "text": "Great piece, thank you. I wish I better grasp of just what the training process entails; I'm left puzzled as to how the expense involved can be so widely varying and yet result in comparably-performing end products.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@billybob9247",
+      "author_id": "UCU0Izadf4uwsZCVqdWXKaHw",
+      "text": "I think MoE is already Out Dated !! I think agent systems are already doing this (large collection of tiny specific models). LLMWare is a good example of this. They have a large collection of SLIM models that are so small and fast, they can run efficiently on CPU only. I also think MoE is a WASTE of RAM since it has to have everything loaded and ready even if it isn't being used. LoRALand is a solution to that where it only loads a base model then auto loads the ONE required LoRA onto into memory for use. One advantage of MoE over Agents would be that MoE will auto route tasks to the appropriate model while Agents needs a human-defined workflow stating which model to use and when.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LouwPretorius",
+      "author_id": "UCx1JrQBqmlOofHXJcooVvvg",
+      "text": "Good points raised Wes, thanks for showing us a better perspective on the AI landscape",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nw9353",
+      "author_id": "UCjJC3wyc5ZooSBivud2mBDw",
+      "text": "Great source of information. Thank you !",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patrickguillaume1592",
+      "author_id": "UCPaYMEJb4GzHrf75YzauSbg",
+      "text": "Big thanks  Wes ! Very interesting",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "Always good stuff. Watched this one twice.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Copa20777",
+      "author_id": "UCCvDzxLeA3uxXHeTyFSchXA",
+      "text": "Nobody is sleeping after phi 3😂",
+      "likes": 17,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulmclean876",
+      "author_id": "UCCxj_3t0Zk0NOPLeuVJ02qw",
+      "text": "safe vs authoritarian and everything in between ... a perfect reflection of reality...",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spencerfunk6697",
+      "author_id": "UC9Sv_vQWjIvZPRDwW5eodPg",
+      "text": "they need to  make a groq portable inference thing. something you can plug into any computer and load your models on",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Urgelt",
+      "author_id": "UCyQyiww8IiefV8ZK_3npV4w",
+      "text": "Weights + code, but not initial training data. So Karpathy's insight applies. You train new data, overwrite default weights, you degrade the default capability. The more you train, the worse will be the degradation.",
+      "likes": 14,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcfruchtman9473",
+      "author_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+      "text": "Great info.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imaginateca",
+      "author_id": "UCxnGM1v3RIiULT_LA0iVQRw",
+      "text": "Table showed in 4:22 is no longer showed in the Snowflake Artic blog page. Uhm...\nThank you for your videos, Wes. All them are full of value!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Creepaminer",
+      "author_id": "UC9v5M8EQC4sh0s15nJpIY2A",
+      "text": "Funny how not putting “shocking” in the title makes me click on the video",
+      "likes": 28,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TooManyPartsToCount",
+      "author_id": "UCbE_2mau7GNQLFGo_NbcfOw",
+      "text": "Nice! trojan content. And the Ilya joke at the end!! thanks for the news and laughs Wes",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronWacker",
+      "author_id": "UCdKiy5xeO2JuWuIlE5nUaNw",
+      "text": "Good tangent.  I learned alot and wondered on safety issue too as well as how governance is affected - thx.  With the 128 MoE - I am interested in discovering the SFT content and what the experts input datasets look like.  Any chance that is documented as a paper and open too?  Going to check what I can go find.  Thanks Wes!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danberm1755",
+      "author_id": "UCguI33YmpFs_momly4JKhPA",
+      "text": "It might be that any model that uses the same tokenizer can use the NN created. I saw that a Llama model was able to interact with another LLM because it used the Llama tokenizer. \n\nThis could propel a mixture of experts module to be plug-in compatible with all LLMs that use the same tokenizer.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PawelBojkowski",
+      "author_id": "UCHf3QKkJ6rZU2nR_UUR6dgg",
+      "text": "Every agent will have their own LLM model !!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Qbabxtra",
+      "author_id": "UCmp325zcuusazn5Wch_AmJQ",
+      "text": "@14:56 please dont flash bang me like this again when im in my bed trying to sleep lol.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VastCNC",
+      "author_id": "UCCQKoqR3ZNAD7UbS9qmSXyA",
+      "text": "Moving from MOE to cluster of experts is the next level, this is a step towards that end. Then it’ll be hive.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AaronWacker",
+      "author_id": "UCdKiy5xeO2JuWuIlE5nUaNw",
+      "text": "Oh and thanks! - you spotlighted huggingface and Clem at that CEO table with Elon and Sundar.  He deserves alot of credit that his team and org made it easy for most of the world..    Rightly so - huggingface has been the Open Source leader helping get the worlds open models ready for prime time for the masses since 2020 imho.  With all the AI buzz there should be more coverage on HF since they are the heavy lifters in my opinion for about 4 years now.  Transformers, hub, the GPU KEDA patterns its all there and HF is base of open source AI for the world.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christopherd.winnan8701",
+      "author_id": "UCNkEaH1_sPMC-wTdysJxjUA",
+      "text": "Thank the lord for ADHD.\n\nAll my life, I was told it was an impairment. Turns out it is really a superpower!!",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@les_crow",
+      "author_id": "UC_Egs8d_Xh6j0GU0XR-r0Yg",
+      "text": "Altman is shorter than I'd thought.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mh60648",
+      "author_id": "UCoBM9U15GooMJvTPAiH7-qw",
+      "text": "I saw this safety vs. control issue explained in a youtube video several years ago, before AI was in the picture. \n\nTop edge technology is more and more available to everyone. It is easy to buy drones and ‘do damage’, for example. AI exposes society to even more dangerous possibilities, and as shown in this video, small companies and open source also pose a financial threat to big companies who invest heavily in it. \n\nSo governements and industries are (and have been for a while) aligning on the subject of increased control over the people with the use of new technology, while at the same time slowely destroying and limiting the amount of, and possibilities for smaller companies in favor of the big ones. I think you get the picture.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PossiblePasts",
+      "author_id": "UC6P3Zf8nS--WePl2it2f9jw",
+      "text": "Never before I heard someone prounance eSQeL as SeQueL",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ErnestoConfused",
+      "author_id": "UC0t6G-cYkhKcH3-cHLgI8RQ",
+      "text": "They recommend 4XH100s for inference. Absolutely nuts.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@antoniomonteiro3698",
+      "author_id": "UC7mcucdxt_UfHy4k9CtGWzQ",
+      "text": "I'm new at this... will these training methods will be the \"bubble sort\" of the future?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Windswept7",
+      "author_id": "UCTXafNOE0prVfvufEogLqXw",
+      "text": "'ADHD is one hell of a drug' 💯",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@verigumetin4291",
+      "author_id": "UCOx1qTMMDbT3euj2MxKSp9A",
+      "text": "\"ADHD is a hell of a drug\" I'm going to be honest, by this point in the video, I had completely forgotten about Arctic. \nDo I have ADHD?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@biological-machine",
+      "author_id": "UCSBs30CLJJfYncxw0WhSKmQ",
+      "text": "Another win for open source.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FitnessCoachAustralia",
+      "author_id": "UC4uXOxFWJYGlxlZ3fh3qaYQ",
+      "text": "Snowflake offered a free breakfast seminar here in Australia to go over their products. I applied and was told that there was no more places available. My wife applied under the exact same business and was welcomed with open arms and received a place. I hope Arctic is nice to middle aged white males 😂",
+      "likes": 93,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shake6321",
+      "author_id": "UCx0LnPiGrarw6ruL3NxmDTg",
+      "text": "its not even the middle of 2024 and it already feels like the technological singularity is here - at least in the world of Ai.\nanother day, another amazing model or breakthrough.  last week we had meta llama 3, infinite attention by google, and more.  \n\n2022/23: Generative Ai (images, gpt)\n2024/25: Ai Agents.\n25/26: The autonomous web where every click turns into an voice activated api call will soon be here.\n27:  ai movies\n28/29: autonomous everything.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jpdominator",
+      "author_id": "UC_1Xmu6-E3A1q8fkU-exbng",
+      "text": "Day-b-youed",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raspas99",
+      "author_id": "UCwF0gIMqizxTWVe12dsl5Jg",
+      "text": "What can I do with this open source-free model? Can I make it work and then what can I do with it?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mickelodiansurname9578",
+      "author_id": "UCeqgMguRpGTh4pOL2iNxDOg",
+      "text": "better yet, apart from snowflake being enterprise domain... well it doesn't need to be right? A bunch load of industry specific professionals can now essentially crowd source a new foundational model for their industry, based on high value training data, and if there are enough of them its easily funded.  This for example of maybe a large plumbers union or organization building the Snowflake_ Plumber2.4 which is essentially trained from the get go on hydrolytics and engineering and so on.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CaponeBlackBusiness",
+      "author_id": "UC7jkLyWFtdD3kJSkUIgemvA",
+      "text": "Where are the \"SHOCKS\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cory-v4w",
+      "author_id": "UCOqKF2TjMRqhE_EKzzEE56w",
+      "text": "Ai this world is only one cluster away from you.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ReflectionOcean",
+      "author_id": "UCPB9024fIlk4q4-eedTa8Rw",
+      "text": "By YouSum Live\n\n00:00:00 Snowflake Arctic: Enterprise AI for B2B solutions.\n00:00:39 Cost-effective LM training under $2 million.\n00:00:54 Open-source model with Apache 2.0 license.\n00:02:05 Focus on Enterprise intelligence and efficiency.\n00:05:30 Unique dense hybrid Transformer architecture.\n00:06:38 480 billion parameters across 128 experts.\n00:09:00 Open-source AI revolutionizing accessibility and innovation.\n00:14:25 Debate on AI safety and open-source models.\n00:19:02 The impact of open-source AI on industry dynamics.\n00:19:56 Government funding impacts expertise accessibility.\n00:20:27 Open weight models' significance in AI discourse.\n00:22:38 Open source software fosters innovation and competition.\n00:23:30 Open models do not exacerbate AI safety risks.\n00:24:29 Personalized AI models for everyday tasks on the horizon.\n00:25:16 Curriculum on data composition and model evaluation.\n00:25:36 Advanced AI computing advancements with Nvidia collaboration.\n\nBy YouSum Live",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "22:24 debuted? Is that how Americans say it? Or should we blame Elevenlabs? 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@supercurioTube",
+      "author_id": "UCSGNex0ozuqXgrNPSjdtQdA",
+      "text": "Hey ADHD friend, I enjoyed your tangent today 🤗\nI appreciate you're sharing your findings on how the AI safety excuse is used for regulatory capture.\n\nNext, I hope that you'll look into the associated \"AGI in 2 years, the whole world will be immediately transformed: do as I say to avoid the apocalypse\" story.\nIt's based on forever, exponential growth of resources and intelligence - without slow down near the top. That's not exactly compatible with the real world constraints IMO.\nThere's fast growth after a breakthrough, then it gets exponentially harder to make significant progress.\nExample among many others: self-driving cars.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PierreH1968",
+      "author_id": "UCESXN00tLuw1XoiS6j2Dh2w",
+      "text": "What I don't understand is how open sourcing a black box is really open source?\nThe training data is what causes all benefits and biases, that's the real source. \nIt is like open sourcing a house by dropping a ready-made house in your garden.... You know where is the door. the windows the switches, the rooms, you can move-in but you have no idea how to build one.\nIt is like giving away Excel, but not getting the code and calling it open source.\nSomeone explain that to me?!",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brootalbap",
+      "author_id": "UCHARbYzeLjNQsDa0g4R1mLQ",
+      "text": "No shocking news! Thank god! It was so annoying!",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonBulsa",
+      "author_id": "UCDrzqP828zhlTJV1M6yR-rg",
+      "text": "I wrote this last week. SAM Altman was incorrect that small agents and new high quality data would outperform his \"compute\" new oil. He is also wrong on movies becoming custom video games. Both are being replaced by Ai girlfriends not openAi LLMs. He's wrong about God, intelligent design programmed, and Evolution, what hes assumed/ taught. Is a bitter 😐 observer not fascinated one.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erikjohnson9112",
+      "author_id": "UCx7BfR15XiDER0oh2Bc52xw",
+      "text": "19:56 \"We don't properly fund our government anymore.\"  Yeah right.  We overfund our government who misappropriate 95% of what we pay them (and that's on a good day).  She cannot be serious.",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@borhex",
+      "author_id": "UCxHFukpJi8-QOxoCAb6lDuw",
+      "text": "The basilisk is now in physical form 🤖",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AceDeclan",
+      "author_id": "UCPl61wZdoui94PiKYzafiKw",
+      "text": "Can you please get a better mic",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertheinrich2994",
+      "author_id": "UC6MzGQlMEF9ICf3gGPcp1qQ",
+      "text": "it's a weird irony, that openAI now has to be afraid of open source.\ntheir initial mission has been, to make open source AI, but then smelled the absolute massive amount of money that can me made in that area.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OscarTheStrategist",
+      "author_id": "UCkigSkt3UoglNel5-Iow5fA",
+      "text": "I’ve never seen another company fight for limelight as hard as OpenAI without adding much to the conversation.\n\nRelease your next foundational model or stfu 😂😂😂",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jurelleel668",
+      "author_id": "UC0Y6vuECAwBSTJOySN7DkIw",
+      "text": "more toys",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cryptogenik",
+      "author_id": "UCmsvLIdEbCmiQpWm_p1ZKrw",
+      "text": "Hmm enterprise ai sounds like a good business right now",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JukaDominator",
+      "author_id": "UCdwsHiNeXCiaTz--5VokwJQ",
+      "text": "But can open source models generate me 10 racial slurs? That how I'll know they're legit",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@elsavelaz",
+      "author_id": "UCPuyP6ZkKTkbGbrB158KNFA",
+      "text": "I have real time experience with in April 2024  as an ai engineer- I’m still not clear how this enhances automation because it requires lots of human in the loop . Just fyi — maybe there’s something I’m not aware of or maybe some businesses need to keep humans around for stuff that could be automated with cheaper in house solutions",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cacogenicist",
+      "author_id": "UCOeNj9DCtp2uOYYD9CpuHLA",
+      "text": "Your biases are not hard to detect, which is fine. The thing that's a bit annoying at times is your pretending-to-not-have-biases shtick -- with the \"I'm not here to try to pursuade you\" thing, but that's exactly what you're trying to do, with fake neutrality as a tactic towards that end. \n\nJust put your opinions out plainly, and drop the act. Most of us are smart enough to see through it.",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ScottzPlaylists",
+      "author_id": "UCVNsBa7P-oDN6khanIifnCA",
+      "text": "😆 \"All in one room at the same time\"  ha ha ..❗😆\nThere not POTUS, VP,  DOD, Secretary General, and Congress in the same room❗❗\nIt's just Big Tech Heads, easily replaced❗ Right❓",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stelioskoroneos3872",
+      "author_id": "UCAo2Km6ITgnnARuUmAPhKVg",
+      "text": "The \"moat\" for all the closed-source model's will be \"regulation\", pushing governments to require models to be \"licensed\", following the \"they are so dangerous\" meme . Most open source projects will not be able to achieve this.\nAlso even if they release the model weights, and not hide it behind an API, no one is releasing their training data, which is where the real value is.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djfghwetrysdfg",
+      "author_id": "UC2ql4xLcFZ6r1ISWlO2LPUg",
+      "text": "guys listen to this video at 1.5x speed to not fall asleep\n\nalso im happy to be snowflake shareholder, therefore supporting the global communities knowledge expansion",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@exzld",
+      "author_id": "UCgJP8B4hFjDP4Q0S0z45Ftw",
+      "text": "moreso risk for their wallets",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@microaggressions",
+      "author_id": "UCSOgTH7ABIJVTxaMebXgeZg",
+      "text": "There's no way in hell. I would want to talk to any AI that's named the snowflake. I can already guarantee you. This thing has more ethical governors and restrictions. 'Dan, it can even list out without running out of tokens probably",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danjensen9425",
+      "author_id": "UCVaKdgtyTpt_4ddZjw-HxBg",
+      "text": "When will they build an energy producing power station to power their power hungry AI. One that doesn’t use gas oil coal the sun or nuclear technology. Don’t get a patent for it so the government can’t interfere and shut it down.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "I care about their cost… $$$?🤖✋🖖😊",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ariaden",
+      "author_id": "UCp5vuMIV5fjWUnANfnbG_Zg",
+      "text": "24:50\n> I don't wanna deal with the engagement farming...\n\nAt first, I was SHOCKED to hear that. ;)\nBut then I realized this may be the new normal.\n\nAs in that example of how LLMs can be used:\n1. The sender uses LLM to turn a terse item list into a full-fledged e-mail.\n2. The recipients uses LLM to summarize the received e-mail into a terse item list.\n(Everybody hopes not too much got lost in the translation. Un-initiated observers get a false feeling of understanding the conversation, while getting remembering mostly just the irrelevant AI fluff.) \n\nAm I the only one that finds that funny, ironic, sad, and totally explainable by evolutionary psychology?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Charles-Darwin",
+      "author_id": "UCQDBtgVF1u95N3pgorg796A",
+      "text": "Whats the catch? You ride the upsides line really hard yet mention absolutely zero downs",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ytrew9717",
+      "author_id": "UCj4rTkNe0PIyFfH8xuH0KxA",
+      "text": "This one was a bit repetitive",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CloudEconomics",
+      "author_id": "UCmfT_b5mnlLfenfOabj000Q",
+      "text": "Don't switch from black background to white background.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@retrofuturism",
+      "author_id": "UCz7xvutOqfUA3pLg9xPoPQg",
+      "text": "Generative Legacy \n\nPersonal history turned into artisan objects using AI \n\nIn this home, every item tells a story, merging traditional craftsmanship with advanced AI to reflect the family’s heritage and personal narratives. Vibrant textiles, voice-sculpted pottery, and AI-designed stained glass windows create a tapestry of historical and emotional significance. From embroidered linens to custom stationery and mood-reactive jewelry, each piece not only preserves but actively contributes to the family’s legacy, blending past traditions with digital innovations for a dynamic celebration of identity and connection.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hodders9834",
+      "author_id": "UCXoYM4ylKsBZjOV_lrMwIPQ",
+      "text": "AGI/ASI is our only chance to escape goverment tyranny..",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seanharbinger",
+      "author_id": "UC-CQHcbGH2E1IxZIYTc6IYA",
+      "text": "All these goobers trying to get their name visible for ‘advancing ai’ even though in a couple years AI will handle its own growth and optimization. 😂😂😂 now we’re at the price reduction conversation, which as we all know from various other markets, is a non-starter.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@basically335",
+      "author_id": "UCrG4d-KRsaEcPVcHxzVn2jA",
+      "text": "This is the beginning of the fall of capitalism, quote me on it :))",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juancarlospizarromendez3954",
+      "author_id": "UC3rl8yHkI2zOyro8GpDJz5A",
+      "text": "I believe that mixing artificial experts for transforming to one artificial superexpert is still a challenge. It maybe undecidable or intractable.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ecereto",
+      "author_id": "UCv8vkOv8H4Tgwt7agE3ZX9Q",
+      "text": "Such an awesome video. Thank you. \n\nYou gave me a brand new perspective on open source AI models. I understand now why it's not as simple as I previously thought.\n\nI have to think more but I actually don't know anymore if OSS is right for AI models.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zalzalahbuttsaab",
+      "author_id": "UC1Wfb2aiquDgj8nMYoAFUbg",
+      "text": "2:02 Wes, bro - I just tried the Snowflake interface and it's pants bro. Total pants. That's pants with pants on. It's transparent as an opaque piece of glass with nothing on the other side. Thumbs down here. And they can keep the temperature slider for what it's worth (spoiler: nothing at all). And yes: I am smarter and more handsome.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DJ369-Miami",
+      "author_id": "UC-28CdWpskvLFJECMYHVfvw",
+      "text": "Why do you have to a annotate all over the screen like a madman? Just make stuff more distracting",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HyperUpscale",
+      "author_id": "UCZRSOZYUrelAtyZ1H7VhBLw",
+      "text": ":face-blue-wide-eyes:",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ramakrishnan00",
+      "author_id": "UCyp7eCBq_k0NungCdXAEBEQ",
+      "text": "Open sourcing AI is considered a bad idea for several reasons:\n\n1) Firstly, it can disadvantage smaller players in the field.\n2) Secondly, it increases the likelihood of bad actors misusing AI for nefarious purposes.\n3) Additionally, it may stifle innovation and hinder the emergence of new ideas and breakthroughs.\n\nThe only perceived advantage is that it might make some AI technologies more affordable from larger players. However, the free AI available currently meets most daily needs, and those who pay for higher models are typically less concerned about cost. Therefore, open sourcing intelligence may not significantly benefit the general audience and could potentially empower bad actors.\n\nIn conclusion, while open sourcing AI may seem advantageous, it's akin to a double-edged sword, as it comes with both benefits and risks.",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jianju69",
+      "author_id": "UCl5jTRVDMI-hjXJizHj2NoA",
+      "text": "Seems like Elon Musk started this trend of open-sourcing these huge, powerful corporate LLMs. Wondering if Meta would have followed suit had he not, and so on.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZappyOh",
+      "author_id": "UCGguhGC83C-wgxFPZ2nT3JQ",
+      "text": "Open Source AI is only interesting, if it can run on high-tier consumer hardware, or less.\nI mean, if nobody can afford the compute needed, nobody will be able to use it locally.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

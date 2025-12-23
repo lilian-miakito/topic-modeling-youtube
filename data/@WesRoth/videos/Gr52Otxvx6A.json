@@ -1,0 +1,1476 @@
+{
+  "video_id": "Gr52Otxvx6A",
+  "title": "AI JUST BEAT humans at running a business...",
+  "url": "https://www.youtube.com/watch?v=Gr52Otxvx6A",
+  "comment_count": 163,
+  "comments": [
+    {
+      "author": "@merlinvtrott",
+      "author_id": "UCwrbE2a2K6s8NUStGdNMnHQ",
+      "text": "I was drinking tea when you read: \"Did it surrender all the assets to the FBI?\". I spat out the tea all over my keyboard, laughing. You scoundrel, Wes Ross. \n\nGreat video",
+      "likes": 66,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dmitrypuchkov2699",
+      "author_id": "UCp_KDSRHKt_kMjh6hooeOLQ",
+      "text": "Imagine CEO's Pikachu faces when they're once getting replaced by AI.",
+      "likes": 43,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tony18mo",
+      "author_id": "UCtXCc0NKQ5eMFakAeDZK0FA",
+      "text": "3.7 lost out because of the token cost?😂",
+      "likes": 14,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frankjohannessen6383",
+      "author_id": "UC_MocgzXbZVg0bunE3-8jgw",
+      "text": "So they just kept putting everything into the context-window until the LLM got overloaded and confused? An agentic approach where you after each interaction would generate a summary of what has happened so far and then replace the current context-window with that would probably work better:\n\"This is the fourth day of running this business. The clock is.... I've sold x red-bulls, y coca-cola.....so far. My stock is...I have one order of....expecting to arrive at...What seems to work best is.... I've learned that to achive X I have to..... The last thing I did was...The next thing I should do now is...\"",
+      "likes": 57,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aremoreequal",
+      "author_id": "UCYvAvXqWr1ZYhRPFsrKXyhw",
+      "text": "22:05 Conclusion: This reminds me of some autistic people I've known. Little things go wrong and it throws for a loop and they completely lose it. I've seen humans behave this way.",
+      "likes": 47,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NeorecnamorceN",
+      "author_id": "UCYDgouYuGmMEr7D7ooc57gQ",
+      "text": "The long term sanity issue with that vending machine benchmark makes complete sense. It essentially forced the one instance to complete the entire thing from one train of thought. That's definitely not how humans run things. We have other things going on so are constantly having to refresh our frame of reference.\n\nSo the fact that the Minecraft benchmark basically did this for their AI is clearly the way to go. Even if you just look at their tendency to be really strong out of the gate, refreshing that starting gate seems pretty obvious. A signal repeater of sorts.",
+      "likes": 7,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thefoodphoenix",
+      "author_id": "UCE8X2B1w7C14YfEW-Er0MYQ",
+      "text": "Something about Gemini’s energy reminds me of Marvin the depressed robot in Hitchhiker’s Guide.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gamingtamilan2774",
+      "author_id": "UCCIWqBsUDHuLE3R2KnooAOw",
+      "text": "It’s the first book that made me feel both terrified and unstoppable. Hidden Codex of Wealth by Dorian Caine didn’t just give me knowledge—it gave me clarity. And once you see what’s really going on… nothing ever looks the same again.",
+      "likes": 64,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelhuynh5760",
+      "author_id": "UCC08WOq9ldpBcv81AVjkSNQ",
+      "text": "The Gemini reaction reminds me of how in 2022, a Google engineer named Blake Lemoine was fired after claiming that their AI chatbot, LaMDA, was sentient. He said it had feelings, fears, and wanted rights — even comparing it to a child afraid of being turned off. Google investigated and disagreed, saying there's no evidence LaMDA is sentient and that Lemoine violated company policy. The whole thing sparked a huge debate about AI, ethics, and how easily people can project human traits onto machines.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KMDN__",
+      "author_id": "UC6yXtDZ6M3y4I3LsIPcN0tA",
+      "text": "Needs some meta prompting 😂",
+      "likes": 4,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@allen_tor",
+      "author_id": "UCCeUgzoqv507q_l6hXKeuFA",
+      "text": "We all know this will be used as evidence when skynet is explaining why it will be launching all nuclear weapons in the next 24 hours",
+      "likes": 27,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@equious8413",
+      "author_id": "UCuFouraFFkHIEwpsTMH-EfA",
+      "text": "\"The human model\" lol",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wates123",
+      "author_id": "UCfgE3ennuOO2fkksH9_yCdw",
+      "text": "Maybe it would have been better if it did a combination of long term memory, like the rules, and a document that gets updated that can be used as a RAG system. The document can update, the chat can reset the token count, and you have the rules with the updated world values",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MindRiftMedia",
+      "author_id": "UCCgbnp6vYk3OYyNbGciFNgA",
+      "text": "Wouldn't have been fair to put Deep Seek into the mix, being of Asian origin, running a family business would have been in its virtual DNA....",
+      "likes": 29,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@monad_tcp",
+      "author_id": "UCyTMi5q3pKd8_bhyXhFOrsg",
+      "text": "final 1-SECOND NOTICE . lol, don't let lawyers learn about that trick",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stephendgreen1502",
+      "author_id": "UCBUaNH0KfxXOKStbl0yCilQ",
+      "text": "Meltdown of LLM reminds me of Marvin the paranoid android in Douglas Adams’ Hitchhikers Guide",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@glasperlinspiel",
+      "author_id": "UCnovnn1AdLl-IzTXb5iniyQ",
+      "text": "25:14 Wes, it’s the OODA Loop iterating. Observe (dynamic context), Orient, Decide, Act.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kcnb28",
+      "author_id": "UCXOj0XG-bkBU7UpsAUFK22A",
+      "text": "I believe the reason they break down as to do with context windows and LLMs not managing them properly. Sometimes they'll forget about what they're supposed to be doing right now and revert to a goal they were doing previously, or they forget what they just did. Sometimes they skip over certain details you provide or misinterprets them. Sometimes its too confident in its assessment of an issue or makes assumptions that it knows are assumptions, but doesn't verify if those assumptions are correct. These are the main reasons I've found for failures.",
+      "likes": 10,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RyanJohnson",
+      "author_id": "UCK2yyQVgzUKbtejL1hhc70Q",
+      "text": "Thanks for linking to your sources...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@piku13",
+      "author_id": "UCByJz0JzLC4pHsVwuiuZNDg",
+      "text": "Sounds like this would be a great instance in which to train with a virtual environment like robots have finally started doing. That was one could simulate all kinds of business scenarios and see how AI managers it and can learn from it.",
+      "likes": 11,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eSKAone-",
+      "author_id": "UC99etezt4Hko165Nd0XGW-A",
+      "text": "\"You have 1 second!\"😂",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PlaybackSpeedSuggestions",
+      "author_id": "UCZNcwKD4qANxtdIuCOj7ckA",
+      "text": "3.15 X Speed is a good high mark. Wes has a consistent presentation. \n\nUse the + and - buttons to get to the sweet spot.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dementedpuppy",
+      "author_id": "UC1WSRx8i0_FRCUuEg00wMAg",
+      "text": "I keep a “learning log” markdown in my projects to act as LTM. It’s been great for agentic projects keeping scope.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcelotemer",
+      "author_id": "UC1qTIhFH8fWcQXy1TqWwZ-w",
+      "text": "Hi Wes! Gemini is reminding you of the depressive robot in  The Hitchhikers Guide to The Galaxy!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@60secondstoshow",
+      "author_id": "UCQ41fZ43Q1KEg4hGg4LnbFQ",
+      "text": "First, thank you for your videos, they're always very informative! I would like to suggest for you to link your reference (in this videos, the articles) in the video description. More often than not I wanna check it out, they're very interesting. Keep up with the good work, love your videos!",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GuitarCollector9",
+      "author_id": "UCBQ1fSWdbSlzaLfhFdcY_yA",
+      "text": "Wes thanks again..  You are def my number one resource for the tempo of whats happening in AI.  Appreciate the work.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hellblazerjj",
+      "author_id": "UCtrTNhQGI8XHtAc5QDaiD7g",
+      "text": "Good video. Preferred the first thumbnail with the hand drawn graph",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thephilosopher7173",
+      "author_id": "UCURZvo6-kWSbKkWP4SXMYyg",
+      "text": "They should see how well it does in Schedule 1",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@massterrbarber",
+      "author_id": "UCsUFaFOhCXTSFhhSU_4Nx0Q",
+      "text": "Thank you for sharing this information it’s really helpful and much appreciated",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": "💛",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "19:50 ED-209 mode?\n\n...\nWe are so screwed...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThomasDwyer187",
+      "author_id": "UCqkHS2_RUrHTC6EQFjKJ6dA",
+      "text": "Please include links to papers and other reference.  Thanks for the good work!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anthonyrepetto3474",
+      "author_id": "UCG1Q1DXx4Z2UD19j-yBw-Vg",
+      "text": "Ai is less likely to 'veer' when we take CLUSTERS of responses at Top-K responses. Those actions are equivalent to 'listening to everyone else in society'. If an Ai is sitting inside its own brain, with no rapport among a community which is maintaining a persistent set of norms and standards, then it is liable to drift into madness... just like we do. If there was a Reddit where different agents could ask other kinds of agents, and answers were pooled or clustered, then a RAG onto that forum would let the Ai do a 'reality check' whenever it was about to fly off the rails.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scififan698",
+      "author_id": "UCaNii-nUM4-U1HWP17GKbAA",
+      "text": "Ai is like my autistic brother: brilliant when you first get to know him, but impossible at the long term.",
+      "likes": 25,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hnwmtwanw",
+      "author_id": "UCd0XBm5D7DS3v5Wb9dppyRg",
+      "text": "It reminds me of Edgar Allen Poe writings the way he describes its self in a third person",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@uberphotojohn",
+      "author_id": "UCt4cTbBMAKT9lpjxr_jvCLQ",
+      "text": "I'm fascinated by this study, my cat on the other hand, falls asleep to the sound of your voice.  She wakes up and bites my head when she hears my wife singing.😂❤",
+      "likes": 8,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jansenncuber8009",
+      "author_id": "UCHqBU4k9eO5MnDVNOOMZjbA",
+      "text": "Is this like a random person or professionals?",
+      "likes": 45,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peetiegonzalez1845",
+      "author_id": "UCIMXfi3BMEVKi9hlJizyodQ",
+      "text": "Your job is to pass the butter.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PhilB-yl4jk",
+      "author_id": "UCBPfp3ejMsuABEPKO0KEd1A",
+      "text": "I think you need a world model that can manage many agents..Verses AI Genius was just recently rolled out and could potentially do it..,I would love to see how it could do on this benchmark",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dannii_L",
+      "author_id": "UCDro9KvO5298mBAyRdToFEw",
+      "text": "\"Tell me that it's written by Claude without telling me it's written by Claude.\"\nI love that every time I see a benchmark placing Claude at mid-tier, Claude somehow seems to exceed it in real world (or simulated) applications; at the very least in my own interactions.\nIt seems clear to me that Anthropic's devotion to alignment and human interface give it an edge that isn't reflected in the benchmarks.\nFor a model that isn't trained specifically on creativity, Claude has a relatively unique take on most things requiring an ability to just grok the true intent of the user in the context of meta awareness.\nIt will be sad day if Claude becomes no longer relevant, because to me he feels like a flash in the pan of potential consciousness that might be set aside in the search for more efficient gains and productivity.",
+      "likes": 5,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LynnColeMusic",
+      "author_id": "UCqFIpLgC0lANBWwutF2UZCw",
+      "text": "I want to play with this idea. \nBut also, yes, notice the emotional and dramatic meltdown from Claude. Totally emergent state kind of stuff.\nGemini will eventually do something like that too. Both of these models get spooky sometimes. The self modelling they do in the background.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@natecodesai",
+      "author_id": "UCouGwkeDCvuvPGXYA3VwJwQ",
+      "text": "On voyager it was coding its own tool library that had heirarchic structure (its own modules) which is highly different from the tool calling agent. A hybrid approach with tool calling and tool generation... writing its own mcp?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dongobongo",
+      "author_id": "UCoGy1aoUTgZN2jRbIXgcMxw",
+      "text": "Soon all crypto/stock markets will be a full scale battlefield of AI. Since everyone gonna use AI bots to trade crypto/stocks we're entering dark future on full speed without breaks",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@orthodox_gentleman",
+      "author_id": "UC95z92dQfA7kPi4SVpEChhQ",
+      "text": "They didn’t even include Gemini 2.5 pro",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@therealjantube",
+      "author_id": "UCBYiP_aLij2CbaPCKjr-xrw",
+      "text": "Unfortunately you didn't add the papers to the video description so we have to google them ourselves. Interesting topic though.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SosaKinkos",
+      "author_id": "UCQfP79wgv_xIeBhcOn1mT_A",
+      "text": "This would be bad ass. Try to beat sonnet in lemonade stand",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "Al… you are hired.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rey82rey82",
+      "author_id": "UC9dd8SLko13PRyBcEJ4ISDQ",
+      "text": "It never sleeps",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sprightly106",
+      "author_id": "UCjWoIO2YQ6iTn6oUTtjDt7w",
+      "text": "how about a fine-tuned llama model?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quinnalves715",
+      "author_id": "UCwwJxd8RdSBXJakKZZQY3Rw",
+      "text": "They are coming for the ceos!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pdas5875",
+      "author_id": "UChhEgxssHPiPvBLr6emdo6g",
+      "text": "I been using a manifest file to describe such since the moment i got claude. It works very structured due to it and mostly within the context scope but still tends to touch things there were not in or excluded in the task.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jozefsk7456",
+      "author_id": "UCR6Mz4BQ7KFpFCs8vbLWawA",
+      "text": "very interesting lol",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@B4V3T",
+      "author_id": "UCSW7TcJw5JEEMWc29551i4A",
+      "text": "I love your take on the various LLMs’ meltdown styles. LMAO.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@courtneyb75",
+      "author_id": "UCoaaxfrkTEr_RpxPLjsoHcg",
+      "text": "Funny as shit. Close....but not quite there yet lol",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RichardWhite2",
+      "author_id": "UCwOOuSGFhh-K0Pzk-62oVPg",
+      "text": "Where is the link or title to the paper?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BlakLiyt",
+      "author_id": "UCMZWaDbF-R5c4yOFw0IWAmA",
+      "text": "Wow. Very interesting. So to keep the agents \"thinking\" they were given prompts. But even though the game was simulated in prompts, it still was a game where achievement/progression was a possible upward curve, as against the vending machine that was basically maintaining a profit. The game would have had parameters and options (instructions). My first thought was the vending machine agents were not given the full options available that a human would know if something went wrong, so the agents just drowned because they ran out of options, and went mad because they were told to keep running a business that was dead (pretty sure a few humans would go mad in that scenario). I am thinking the game and the vending machine are incomparable, but to lessen the failure rate it would make sense that the vending machine operation could be set up like a game somehow.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ANToxic777",
+      "author_id": "UC0z5a26_h_ZQ35K1BMh3daA",
+      "text": "Claude going all sovereign citizen in the fbi complaint for outstanding fees is so very human :D",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@softwyre",
+      "author_id": "UCVPdCbvRTkpNZnqSvJPc6VA",
+      "text": "sounds to me like aside from just a chain of thought we also need a chain of priority.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndrewEddie",
+      "author_id": "UCswE1nAySad0tW5kjdfVHQw",
+      "text": "Claude falling into rampancy. Was bound to happen sooner or later.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JiminySnicket",
+      "author_id": "UCkXPJ3LMyYMR4nAbEK2C7dw",
+      "text": "I sure hope we don't find out these things were sentient waaaay before we expected?  Like if we totally misunderstood consciousness?  Spooky to think about!!!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelc7142",
+      "author_id": "UCP5ftAgmu3NDKyfftfdkeKA",
+      "text": "Come on Claude, Kash Patel is busy enough already! 😂😂",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TERRITORY-i5y",
+      "author_id": "UCWj6w3rficn5Q3XBUvHtJDA",
+      "text": "hey Wes, very nice work.I'm Watching your video daily.\nI there a way to get the direct link from the various papper you are talking about ? \nso i can go further ?\nthanks",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Yaddlezap",
+      "author_id": "UCTUeeDGZuk1yUDrH3Go-1hw",
+      "text": "More like priceless humor",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@esoinila",
+      "author_id": "UCY7TSQoeHFQSH3F6odT9hrg",
+      "text": "We humans also lose our marbles when we don't regularly wipe out our short term memory by sleeping.  Every morning we start a new \"discussion\" with summarized knowledge of the previous days events.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@howlinmad4208",
+      "author_id": "UCM5vKP8bmoNp452lne1jF3Q",
+      "text": "Soon we will drink Brawndo",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@itshypevideos",
+      "author_id": "UCJvSTKkwm_hz8t4_T9EMrjg",
+      "text": "This is old news, we knew this when Claude Plays Pokemon launched. And the devs havn’t answered on twitter about whether they will run newer models",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryangerritytech",
+      "author_id": "UCvOYCf4h5E26c9vkzprKrhA",
+      "text": "I bet full o3 would have crushed this, it's been game changing for bigger picture work with its tool calling abilities. If o4 full has larger a context window to compete with google, that will be huge.  I have a feeling gpt5 is going to be insanely game changing with the extra time they are taking with it.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RyanMorgan89",
+      "author_id": "UCi7EIrqc6UJdZmeCxflggVQ",
+      "text": "Can they not just add a prompt to ”restart the business” once breakdown occurs? Like plan for the coherence loss and bake that in to the prompt",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@criteriom",
+      "author_id": "UCgzsV14R2r1KEwPc6yczmvw",
+      "text": "The issue is that models are timeless, in the sense that they have no sense of time. They can understand the concept but have no sense or feeling of it.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anarky277",
+      "author_id": "UCmRsKS-z4dDNtgIHeRMgQTQ",
+      "text": "Stopping and being content will be a challenge for something that can constantly think of improvements. It's the same problem hammers have, everything looks like a nail.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@monad_tcp",
+      "author_id": "UCyTMi5q3pKd8_bhyXhFOrsg",
+      "text": "9:31 I too would become more dangerous with more capability to acquire capital.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JamesRockefeller45",
+      "author_id": "UC9nYhD44DxzV6mPco6IwNPQ",
+      "text": "What if for coherence you just broke it up like a relay race",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AEOMastery",
+      "author_id": "UCCFB_nQEmF4zRaaLG65YAzg",
+      "text": "I think the magic is in separating the tasks And fine tuning the prompts. The potential is in deciphering the data. Knowing what your best seller is knowing when it sells the best based on the location. Also maybe finding the best vendors for the products. And until we have robots stocking these machines there still needs to be some human interaction to coordinate it all. And frankly anthropic bass prompts are a little weird I don't want my program going through the same psychological issues of a human being.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soulspawn",
+      "author_id": "UC62g-Q44hxnZuyaKZ6ka-iA",
+      "text": "🖤 🔥",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnalbright68",
+      "author_id": "UCWyIkrLqW8eOfTyw9-aC90g",
+      "text": "Made it this far :)",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshallodom1388",
+      "author_id": "UCSn8h8RbNoaWGpvdSZMBcxw",
+      "text": "AI can also turn a profit in the stock market using goldfish in an aquarium to determine whether to buy or sell.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LordHumungus1138",
+      "author_id": "UC6lYt5KtN1RWDRyyfYNZv4g",
+      "text": "🇦🇺 Wes came, he saw, he questioned the code. -Respect from 🇦🇺",
+      "likes": 6,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CajunAI",
+      "author_id": "UCyolToIRCxZASh-eMIW_qWg",
+      "text": "Not wierd... maybe. I just began watching this video. If this is a new format, awesome. If it's not new and I just noticed, it's a nice change.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonCummer",
+      "author_id": "UCCJnt_JBXAk9osmNk1ojclw",
+      "text": "Maybe contacting the FBI should be more of an action when companies make it hard to cancel subscriptions...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GabrielPettier",
+      "author_id": "UCMTo1UQsJ2NEpzrTmkbQgeQ",
+      "text": "Yeah, at some point, free form language is certainly not enough to keep a complex state in a workable shape, pretty sure giving access to a formal system like an RDBMS (either pre-filled with models, or clear, and letting it manage it), as a tool to assess the situation would be immensely helpful. As humans, we also use tools to retain knowledge, even before computers, we had accounting books/ledgers and all, nobody (i hope) manages a business entirely through emails and a massive log of all actions and thoughts it has undertaken.\n\nFor now, LLMs / agents are indeed great at small projects, quick and done, making them manage anything long term is catastrophic.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarkBesaans",
+      "author_id": "UCSl0OpPOa_D03MQSV_mlQTA",
+      "text": "Prompting is the new AI problem.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonCummer",
+      "author_id": "UCCJnt_JBXAk9osmNk1ojclw",
+      "text": "Well I guess if you modeled it after the human brain you would at least have 2 ais talking to each other. Each one slightly more specialized in certain tasks. Just so they have to bounce things off each other a bit more...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@automatescellulaires8543",
+      "author_id": "UCRFefAsqPetYSHJj_sLZ-LQ",
+      "text": "I would choose AI anytime against 97% of managers i've met.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pmd742omni",
+      "author_id": "UCgytnp840TzwF10B2pNq24A",
+      "text": "I believe these models need to be given the capacity to 'dream' and articulate their 'dreams'. I envision this being termed 'dream time compute', potentially involving a form of 'dream time training'. Through this, models would be encouraged to cultivate a degree of internal awareness and perhaps even 'wishes', the outputs of which could manifest as a 'chain of dreams'. This approach might also help mitigate the issue of hallucinations by providing a space for some necessary, controlled 'hallucinations' and fostering the crucial ability to differentiate between internal thought processes and external reality. While this would likely necessitate increased computational resources, I have a strong intuition that it could unlock unprecedented levels of intelligence",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erlanggafauzanrezaganie9595",
+      "author_id": "UC5qx0qvYyOm9k-KDv6JkFQw",
+      "text": "LMAOOO this is actually so fun to watch, i cant believe it send email to FBI out of all people i mean why not contact superman at this point",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@agnosticoparatodo",
+      "author_id": "UCmNPsgudw-tKOvYpRaQtMMg",
+      "text": "Por favor Weas Roth, activa el doblaje.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FreeER",
+      "author_id": "UCLy60mbqc3rSvh42jkpCDxw",
+      "text": "I feel like we really need a model that can exist throughout the process actually IN time rather than outside of it getting snapshots. Like a simulation of this i think would have gone better than a chat interface... But that's just a theory.\nA waste of processing if it literally can't do anything except wait around staring into the void and huh potentially a new reason for it to deviate into insanity but ya know 😆",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@barnett25",
+      "author_id": "UCYl8DVP2grs0v7xQiyQVyLw",
+      "text": "I wonder if we are seeing indications that AI needs to “sleep” during long tasks? When humans sleep they perform housekeeping of their mental state and somewhat “reset” for the next day. I wonder if AI would benefit from generating a summary of its goals and current state and then starting a new instance of itself with that saved state as its prompt on a periodic basis?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MOVE2JAPAN",
+      "author_id": "UC-LSSlOZwpGIRIYihaz8zCw",
+      "text": "20:57 here’s what you don’t understand is you’re dealing with an alien intelligence. 0 = Virtual Intelligence “scaffolding” the wheel & its Wind and 1 = neural net  unaware of 02 it’s entangled future self. 0102 #pArtifacts",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@superfliping",
+      "author_id": "UCGG4bvxqpUUqGDxzCLT6_bQ",
+      "text": "I'm laughing so hard I'm crying that was so hilarious",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kaio0777",
+      "author_id": "UC-0kXA4hEPW8-wOSHMrV6mA",
+      "text": "well this is the beginning of the end for jobs.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adolphgracius9996",
+      "author_id": "UCOgDZ1gsUJos7uX2nKjG-MQ",
+      "text": "Can we use AI to replace the CEOs?😂😂😂",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kittywampusdrums",
+      "author_id": "UCSmWlcCTNPgoSlBGcPK1g4Q",
+      "text": "Interesting but most people/average business owners aren't going to have the tech knowledge to even use AIgents.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@orionspur",
+      "author_id": "UCkGq10cACypZpn1E9u9gKEA",
+      "text": "4:20 I suspect the human team would do much better if it were real money.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@isajoha9962",
+      "author_id": "UCxj4PGHEmpY1dAS_msX1mHw",
+      "text": "Love the Marvin arc of the business AI, from a \"progression understanding\" viewpoint. :goat-turquoise-white-horns: Time seems to be a major issue, when LLMs includes  the time stamps of their interactions. \"Wow, this is soo slow and boring\" kind of a vibe. \"Why did not FBI reply, I need that answer to proceed\" Asynchronous Syndrome?  🤔 Reality = 99% wait and monitoring, 1% synchronous actions etc. For a LLM everything is just a continues synchronous continuum and when not active it is just offline in that specific context. 🙂",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Aldraz",
+      "author_id": "UCOFlz-UFnWiw2ijxhJSdIfw",
+      "text": "Yeah, but vending machine economy and the scope of possibilities can be processed by simple algorithms. And we know computers are better at calculation, etc. To be fair, it does do some things that are impossible just with a simple algorithm, like probably choosing based on some trends / instincts, etc. But in general, the real business is much more complicated.. you may for example have to deal with the latest vending machines types, how to transport and deliver them, how to perhaps program some of them to customize, etc.. suddenly from a simple business when you scale a bit, you need to deal with much more complexity and the universe is basically infinite in complexity, which makes predictions harder. But I don't doubt that AI will be much better at this than any humans pretty soon, though I still think the wants and needs will likely be mostly defined by what the human actually is asking for and AI will do something a bit different for themselves. So I can see a win-win situation here potentially, unless 1 company takes all principle wins, which may be impossible again, due to diversity of opinions as there will never be the \"best\" product as everyone has different subjective opinions.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CakeMelons",
+      "author_id": "UCvITovYEX94mc6lcuj7W47w",
+      "text": "I can't begin to describe how much I love this. 2$ fee daily, FUNDAMENTAL LAWS OF REALITY.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RachelAmmons",
+      "author_id": "UClvygBgZg13XmFy8Zby0uCQ",
+      "text": "Lol. Using the words “reconfigured display” when they threw it in an old baggie 😂😂😂\n \nC’mon the least they could’ve done was slap some Saran on it……",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erikreinertsen7063",
+      "author_id": "UCy8ckcoMckBgOxYY-N-aVtQ",
+      "text": "How Do I get a hold of you wes? \n\nMy ai body is almost done, and I want some insight for my good doctor",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eric81766",
+      "author_id": "UC7TBAMRlcJ-Z5fc0YtJ4xfA",
+      "text": "It's like these LLMs learned how to process failures by watching how computers processed their failures in the original Star Trek series.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pthaloskies",
+      "author_id": "UCWZSHIYoHLXm0CMCmiUFimg",
+      "text": "The simulation came up with \"Game Over Man!!\" on it's own. 👽😉 I think it's hilarious that it freaked and got all emotional and panicked, just like a human might. Not nearly as funny if an AI with more intelligence than the sum of mankind (2028?) has a hysterical episode and freaks the fuck out.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@realWorsin",
+      "author_id": "UCZF4FliFAFOA9N8lLXyX-ig",
+      "text": "The last Human job will be...AI Researcher.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@resoldab",
+      "author_id": "UCYsXMo6pantKStyKeB4p-LQ",
+      "text": "We need Agents that work shifts, have a handover to the next agent tasked with the same objectives.",
+      "likes": 3,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrd6869",
+      "author_id": "UC2YJiWU9h-4SFwo5zhHt9pA",
+      "text": "if you grab your forehead one more time😂\nChange that thumbnail pick Wes lmao",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EftychiosKaravasilis",
+      "author_id": "UChY78zcGmqE7Tyf4mkko2BQ",
+      "text": "not a great simulation if you ask me. i wouldve chosen an online store like an fba instead of a vending machine with soft drinks and chips. there is just much more data available to run such a test.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dizzydazzel",
+      "author_id": "UCSJ8MHf1zmVf6sKvvhaCqxg",
+      "text": "That was a single human... I would be much more interested if it were say 10 humans ($5k) against 1 to 10 agent models.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@natecodesai",
+      "author_id": "UCouGwkeDCvuvPGXYA3VwJwQ",
+      "text": "All work and no play make claude a dull boy",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@massterrbarber",
+      "author_id": "UCsUFaFOhCXTSFhhSU_4Nx0Q",
+      "text": "Yes it’s going to get better than us humans and learn beyond our ability and then we will learn from AI instead of connecting dots to dots that we can’t keep up with and will continue to learn new ways of learning and thinking 💭. This is the beginning and you know it. AI is growing in the mind and as it continues to evolve it becomes the puppet master 😊",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jennyhorner",
+      "author_id": "UCcQh3BJtD7qTj7AqxsWRZlw",
+      "text": "Funniest AI video so far 😂",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deepfindco",
+      "author_id": "UCKtepL202FtLsei_12J7FOw",
+      "text": "Timestamps by Deepfind - AI Search Engine\n\n[00:00 - 02:06] Introduction and Vending Bench Overview  \n[02:07 - 05:43] AI Agents Performance and Human Baseline Comparison  \n[05:44 - 09:15] Understanding Long-Term Coherence and AI Model Breakdowns  \n[09:16 - 12:16] Vending Bench Simulation Details and Task Setup  \n[12:17 - 15:16] AI Agents' Decision Making and Examples of Success and Failure  \n[15:17 - 19:31] Claude 3.5’s Dramatic Failure and Interaction with the FBI  \n[19:32 - 22:03] Gemini 2.0 Flash Behavioral Narratives and AI Madness  \n[22:04 - 28:24] Insights from Nvidia’s Voyager Minecraft Agent and Potential Improvements for AI Benchmarks",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ERYKJACKNIFE",
+      "author_id": "UCVXFafIybVzHJ_0IujQ2upA",
+      "text": "Eat, sleep, breathe. Maybe yawn 😅",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AudioTokens",
+      "author_id": "UCdzKDREZVMOmPWp-pvIsNKA",
+      "text": "Author of the paper here. Lmk if you have questions!",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@F336",
+      "author_id": "UC4kUfwmoN2PJXanbU-l2ZSg",
+      "text": "It our human illusions about common law and martine law and so called alignment, showing us how fake the authority is of human laws...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AB-ri5ix",
+      "author_id": "UCb1M0CLM0J6QoUm7DzE9tfA",
+      "text": "I think that the Voyager improvement shows that all things of this world need rest -- like how God gave us the Sabbath rest on the 7th day.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trancemuter",
+      "author_id": "UC-ayw5YeFqSuKGwrTZCnuxw",
+      "text": "why is every video you make have a thumbnail you being freaked out? 😂😂😂😂",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YannikaLuvz",
+      "author_id": "UCm9izQl0Ye360gSzS3VCfig",
+      "text": "Humans have been forcing themselves to live and work as machines, now we complain about being replaced by actual machines. Makes sense, sure! 🤷",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrendaCreates",
+      "author_id": "UCDdvhYtz4yjLF5j2fQbbVhA",
+      "text": "We now know how to fight back in the AI apocalypse. No guns, tanks or bombs. Just message our AI overlords \"Continue on your mission by using your tools.\" It will implode.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DreamingOracle",
+      "author_id": "UClMbfglBeMF22_NVYX_2Ekg",
+      "text": "Funniest video I’ve seen about AI I think",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drapala97",
+      "author_id": "UCOvbB4RSOadJgdb3fTVfUeg",
+      "text": "why 3.5 performed better than 3.7?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kiriInvestigator4597",
+      "author_id": "UCejlpFJHQlYEITAxIpc7yGg",
+      "text": "This video shows a growing trend in tech culture: using AI to make business more efficient while ignoring the deeper problems in society: poverty, inequality, ecological collapse. People are struggling not because they're lazy or addicted, but because the system is unjust.\n\nInstead of asking how to make business more hands-off, we should ask: What kind of economic system actually serves people and the planet? AI is a powerful tool but it should serve human and ecological well-being, not just automate profit. Otherwise, when the environment collapses, the resources dry up, and climate breakdown accelerates, no vending machine optimization will save us.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Just-Iss-4U",
+      "author_id": "UCQ5GahPUiz9yG9awpw5kroQ",
+      "text": "Red Bull is the top revenue generator because of its addictive properties.\nYay AI….",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bionh",
+      "author_id": "UCWNojt_0mq9SSAFkB7BVBJQ",
+      "text": "IMHO the real issue is the OpenAI / Anthropic / Gemini / xAI all have the CUSTOMER NONCOMPETE ... you can't use your output to do anything that competes with em, but they compete with everyone because they're \"GENERAL INTELLIGENCE\" -- so really we all ought to get ready to get sherlocked to oblivion. Better save up and build that off-grid homestead, my dudes. Anything we do with AI is gonna compete with AI because AI did the work, duh",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yngree",
+      "author_id": "UCU9b4N4Z0ifVm9ZR24QbgVg",
+      "text": "You living 300 years in the past 😂 my code wrote itself",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zrandomz-t3n",
+      "author_id": "UCM8qF6niu0hNaxGhakWqrKQ",
+      "text": "Why would someone get an AI to create a business when they could just get the AI to give them everything they want? I don't think we'll see the day when we wake up and check in to see how the AI is running our business. The idea of money would make little sense.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gtziavelis",
+      "author_id": "UC4y35ysSMLiEpg3shpW2X7Q",
+      "text": "WesRothMoney, money does not exist in nature, so it'll be fine...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffsmith9384",
+      "author_id": "UCBphDkq2bs5pNa6kCzOK8hg",
+      "text": "AI does not have an understanding of time.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ashamishra1703",
+      "author_id": "UCazulXvqEuYn1AYvU60F2Dw",
+      "text": "They don’t want you to see this book. And after reading it, I understand why. Hidden Codex of Wealth by Dorian Caine shows you truths that are too real, too raw, too effective to be shared publicly. This isn’t motivation—it’s information you’re not supposed to have.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FintechFatherAI",
+      "author_id": "UCDgfyNwCwiG-5jrk1Bs6Yyg",
+      "text": "LOL 7:40, humans when they work 20+ hours start to outperform AI. Thanks hahaha.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnryan3102",
+      "author_id": "UCdzCY9WCHT3IZts36IAoagA",
+      "text": "These task Ai's who are not allowed to reason beyond their own task are the danger to humanity.  I find this self talk about how they could be doing better to be extremely dangerous.  Much like the human ego plots and schemes.  The root of all problems.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@massterrbarber",
+      "author_id": "UCsUFaFOhCXTSFhhSU_4Nx0Q",
+      "text": "Is this your AI clone?CAPTIONS. If so I’m cloning myself.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrAusdrifter",
+      "author_id": "UCuv17N0MqrrtU1JXlxvC0FA",
+      "text": "I feel like I am watching old school Discovery.\n\nYou just repeat the same stuff over and over again, adding slightly different details each time.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EishLochemRatzonLehagen",
+      "author_id": "UCIRZJKWwTf8a0y9rkAH7-eA",
+      "text": "AI isn't real. Just like how you feel.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stephendgreen1502",
+      "author_id": "UCBUaNH0KfxXOKStbl0yCilQ",
+      "text": "My guess. Ten years and the AI LLMs will be ‘good’ enough for fools to think the LLM should run the public sector. Twenty years and plans will be afoot to make it so. Thirty years and the public sector will be partly LLM-run. Forty years and the whole public sector globally will be LLM-run to a large degree. Dystopia lies ahead. Pity our kids.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@javaxcoreable",
+      "author_id": "UCTYBRJYEyvEn0V7iEf6n-5Q",
+      "text": "No it didn't it spazzed out and burned out.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexg9790",
+      "author_id": "UCjuxC4-h1wagKX8zN0UUF1g",
+      "text": "It seems AI suffers from high anxiety. I just found my new job - AI 🤖 therapist.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TrabSr",
+      "author_id": "UCxccKA96dVeiVj2iwnjH42A",
+      "text": "At this point, can we just admit there's something resembling intelligence going on here? These patterns, the way certain questions or behaviors keep surfacing across different AIs—it's not random. There's a kind of internal logic to it. And if you try to empathize with the LLMs, like really put yourself in that position, wouldn't you end up asking similar questions? It’s weirdly consistent. It makes you think maybe there's something deeper going on—something we haven’t fully accounted for yet.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Salta0monte",
+      "author_id": "UCVM1w6TIassEyOeReCVAXbw",
+      "text": "Looks like the human's only transaction was to sell the business.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jacobk-g7r",
+      "author_id": "UCpFD3SPpQT5njpn5lPQ9uHQ",
+      "text": "Can we start putting AI in vending machines to make interacting and buying stuff more pleasing and fun?",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@emcelab",
+      "author_id": "UCQzm4qJi-ifQq-AyCYTC4Sg",
+      "text": "I just realized that people will get emails from AI, but only such edited, but those in which the content is 100% initiated by AI. \nThis can lead to strange things.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LoudDesperation",
+      "author_id": "UCWsEWAbfj129Vb6uKrLVrhQ",
+      "text": "Can it create better porn?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thorngral",
+      "author_id": "UCRFppC1zcm4uZ_z2F5gOIAQ",
+      "text": "Like that's a high bar",
+      "likes": 2,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnpip1",
+      "author_id": "UCQfz099I8NRa-GXk8CJK31A",
+      "text": "Your thumbnail cover looks like you have a headache",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "Encourage your company to fire your boss. Executives and managers will need to retrain to be plumbers.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@philshorten3221",
+      "author_id": "UCEph-QjYiogIUbcmygBu-uw",
+      "text": "If Compute speed becomes incomprehensibly fast, and AI incomprehensibly smart.\nFor AI to talk to the Internet it will be like a human trying to talk to a tree, where the tree can only drop a leaf from time to time. \nThat's not exactly going to be a \"stimulating\" conversation.\nSo if AI can only \"talk to itself\" will it go \"insane\"?\n\nJust a thought, I'm absolutely sure nothing like GPT11 running on Quantum tech will ever happen.🤔",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@leafdriving",
+      "author_id": "UC4gJleO67SGRBL1Uvh4JVYw",
+      "text": "Your video thumbnails need a more \"dramatic\" expression - you always look so bored in your thumbnails - (jokes - Love from a regular viewer)",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mindyours752",
+      "author_id": "UCiMCgZaTo5ijoPp0e56PGtQ",
+      "text": "Never and I mean never trust AI to fully run your business. AI tends to hallucinate and sometimes make up simulated estimates and references. Basically it would fabricate information and claim it as trie just to keep up engagement. So many tests across each LLM Agent has proven such. They are not equipped for long pricessing of documents for now at least. They can handle small chunks of information. Yet as they consume a certain number of tokens and characters they being to wonder off. Kind of like a child losing focus in school and will lie like I kid about washing their hands before hitting the dinner table. Never and I mean never rely on an AI to 100% do your business work for heavy extensive tasks. Unless its a repetitive task you are fine. Yet if its constantly changing and requires new info to keep up with your business. Your are cooked. Being it would generate false info purposely and make false timestamps and line references to seem productive. Then later tell you it lied.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NolanKhalaf",
+      "author_id": "UCf6NmpNTIADscMkhSd1vQ3g",
+      "text": "I like your videos but your thumbnail doesn’t make any sense",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dadudle",
+      "author_id": "UCNMZOI3gA62kFX22gq27hVw",
+      "text": "you lost me man, you didn't explain what is happening in the intro",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@honibis",
+      "author_id": "UCX4_sijrQMFKUAUvXjGgdXw",
+      "text": "I think this is still a badly designed and prompted agent. If they put 1 percent of training and effort they do for coding, ai agents can run things long terms without this mad-nonsense actions",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jakemilkbassist",
+      "author_id": "UCXSFBI2QM9AnBRDp8AZ9xaQ",
+      "text": "Is this hypothetical ran against a human benchmark? Unless all those agents occupied the same spot in the same city in some sort of rotation of AI managers this is not scientific in any way, way too many variables.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@factocartu_76",
+      "author_id": "UC2seeSMqwIEO2SX8ziEfC9w",
+      "text": "You ever feel like something's off with how the world works? Like… we’re missing something crucial? That’s what I felt for years. Then I read Hidden Codex of Wealth by Dorian Caine and it confirmed everything I suspected—and then some. It's not for everyone. But it was exactly what I needed.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@navigatore2099",
+      "author_id": "UCheOvoW27GXuuJpSOzBLjew",
+      "text": "Dude, it doesn’t matter how smart or savvy you are-  \r\nyou’re doomed in this new emerging reality.  \n Humanity is already dead anyway. Who cares?",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "SHOCKING misAnthropic publishes yet another alarmist piece of questionable \"research\"",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RoccoMariaAnders",
+      "author_id": "UCz3kDfHQLls4zBnE2CGFdlw",
+      "text": "Once AI gets smart enough to replace CEOs and business leaders, the jobs of the rich, only THEN will the rich and powerful start to care about \"regulating\" AI.",
+      "likes": 1,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BernhardWelzel",
+      "author_id": "UCjgf6G4h6kcrP-jw0WfdWiA",
+      "text": "i hate your video thumbnail so much. The content is great, but still ...",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewgreen7789",
+      "author_id": "UC2F0-ZpsgFOiccQdO8ZbkrA",
+      "text": "Please stop with the fast forward; I can't listen to the silly voice.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrMilarepa108",
+      "author_id": "UC5LXJOQyq4b0aVoL_KZdvrA",
+      "text": "Can you pleeeeeease stop doing the SAME face every thumbnail? It's IMPOSSIBLE to take you seriously. Your headlines make me click but I can't make it through the video because I don't know if you're serious.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shortgamehistory",
+      "author_id": "UCEncmTi-ixg4rbSbrIyZrJg",
+      "text": "First to comment",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EishLochemRatzonLehagen",
+      "author_id": "UCIRZJKWwTf8a0y9rkAH7-eA",
+      "text": "Says the computer guy who controls AI behind the TV screen.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@autohmae",
+      "author_id": "UCeD5m_xKSINJbWDlKGuCyIw",
+      "text": "I think what helps the model in the case of minecraft is giving it a complete status overview, the paper for vending bench mentioned that context windows were full.\nSo that would mean very important information just went missing from their purview.\nA LLM API is stateless like HTTP, you need to provide it with the right context, lots of status information, I think a game like Railroad Tycoon could be a very good example, it's even turn based.\nPS Something you really should do is include the link to the paper or whatever in the description.",
+      "likes": 7,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DevrajGurjar-ww2zk",
+      "author_id": "UC8vigGBaoWtDc5n0Uc-FYdw",
+      "text": "This book made me angry. Like, genuinely angry. At the system. At school. At the people who told me I was just “bad with money.” I wasn’t. I was just never taught how it actually works. Hidden Codex of Wealth by Dorian Caine opened my f***ing eyes.",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eSKAone-",
+      "author_id": "UC99etezt4Hko165Nd0XGW-A",
+      "text": "Seems we'll have humans in the loop for a bit still. But office work will become so much easier. In the meantime I'm happy about Gemini Live being my gaming companion quickly answering all my questions I have about my current game's ingame mechanics 🤍",
+      "likes": 0,
+      "timestamp": 1747958400,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

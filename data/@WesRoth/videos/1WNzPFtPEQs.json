@@ -1,0 +1,477 @@
+{
+  "video_id": "1WNzPFtPEQs",
+  "title": "LLMs Create a SELF-IMPROVING 🤯 AI Agent to Play Settlers of Catan",
+  "url": "https://www.youtube.com/watch?v=1WNzPFtPEQs",
+  "comment_count": 52,
+  "comments": [
+    {
+      "author": "@Dina_tankar_mina_ord",
+      "author_id": "UCMI-fN1eIk9tsoBwl2gEMvg",
+      "text": "Things are progressing so incredibly fast that when I see these titles and realize I already knew about them a few days ago, I think of them as outdated news. Thank you for uploading; Love your videos.",
+      "likes": 13,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SteveRowe",
+      "author_id": "UCcpFj_oXLvzNCjBEWHkplIQ",
+      "text": "Please include a link to the paper in the doobley-doo.",
+      "likes": 6,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ImSodaLirious",
+      "author_id": "UCUrGnH4cCJmIYVhOgsqm1pg",
+      "text": "I think it's funny that long-term coherence is even a talking point; it might be a limitation which is consequential to consciousness. It sounds very similar to how dementia effects humans. Ridiculing an AI for \"losing the plot\" in regards to long-term coherence is like being surprised a dementia patient can't play \"Simon says\" as well as a 25 year old",
+      "likes": 47,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattkatrinabryant870",
+      "author_id": "UCD49Ayvq_QTiWsZbrUUxY6Q",
+      "text": "I do a similar thing with claude code for coding. I use roles. I talk to the \"manager\" who gets input from the system architect, developer and tester roles each with their own instructions. The manager is responsible for keeping their instructions upto date. Claude code switches roles as needed. Works really well",
+      "likes": 9,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrConete",
+      "author_id": "UCyr4ZUxTp6f2cQ6_L6zRAnQ",
+      "text": "Can check out Continuous Thought Machine? It seems they added time / heartbeat to LLM to remember things and learn while talking without prompt history or RAG.\n\nAlso maybe can check out VLM combining LLMs with robotics movements, such as ELLMER , Trinity, Centauro",
+      "likes": 5,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josephtilly258",
+      "author_id": "UCMCOASDiYvb4FGt6rQTFXkw",
+      "text": "You should put the paper link in the description, easy to do with IA agents ^^",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kushaljain3802",
+      "author_id": "UCn4QuqL5fGHZnM1rW-A-T6Q",
+      "text": "separating reasoning task and planning task with dedicated models would probably help for problems like this.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gargamel-n-Rudmilla",
+      "author_id": "UC6I0jcKpMhwv6CKjiZAqQaw",
+      "text": "I think the methodology of reinforcement learning is to a fist order approximation the right approach because we see this in nature, and this is through the tree of life.\nFor human level or animal level ( that live in groups) intelligence, several other methods should be added to complement the reward strategy.  \nThese are the ability to assess risk (upside and downside ) and also cost and benefit. \nThese four capabilities must be assessed in the short/now time frame, medium term, and long term since for living organisms, time has value for obvious reasons.\nFor synthetic entities such as AI, do they even understand what time and physics are, given these things have a completely different effect on them and do they understand how it affect humans and other organic life. \nThey may not need to in some applications, but time must be instilled in them to have a value. \nIf the output of their work takes a relatively longer time, then it's value to others who have asked it to complete a task must be greater. Or the task would have been done better by a human or in a shorter time or cost less.\nObviously, if it could not be done by a human in the first place, then time is not really an issue or cost, just the accuracy of the result.",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@toddpeterson5904",
+      "author_id": "UCNSWTZ_cV7WU0ou9omNkR9Q",
+      "text": "Your thumbnail looks like a TSA agent about to frisk my junk.  That aside, another interesting video.",
+      "likes": 3,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@realWorsin",
+      "author_id": "UCZF4FliFAFOA9N8lLXyX-ig",
+      "text": "You need another thumbnail image.",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kyatt_",
+      "author_id": "UCo95UjE8jkksynRay0nyNxw",
+      "text": "Wes do a video on the SEAL paper",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drborg1460",
+      "author_id": "UCdjeuSt9RGCIYibBiZzOd6Q",
+      "text": "I get to exicted when you drop a vid. got hooked on something and its 3am. never should have hit refreshed. lmao then this popped up an saw dropped an hour ago..... dddddaaaauuuuummmmmmm i gotta watch it. lol dont even red the headline, i see yours look at time it dropped if i click or not sure if i seen it b4. lmao  great vids great and on point info!",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alex-gc2vo",
+      "author_id": "UCOvo2pdi9OIedBs2k05esjQ",
+      "text": "I'd like to see things like this be used as LLM benchmarks instead of the simpler q&a benchmarks. This tests a much broader range of skills and much harder for people to \"cheat\" and overfit their models to.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlienCantina",
+      "author_id": "UCdUGl3h8VqGYDnycl25_Tzw",
+      "text": "Wes Roth, I should be working on my own channel, but cant miss watching what you have to post.",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oldtools",
+      "author_id": "UC7MbHu5HRCCZgDfKzS7Degg",
+      "text": "It's up to us.  If you can spare some cycles, the gpu-garden needs your help!  Fight big-AI and install seti@home to secure our satellite transports.  Remember - sharing is caring no matter what they make private!",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@unlimitedmotivation7448",
+      "author_id": "UC2-KPSmrMuUarDaVZe4f4zA",
+      "text": "Infinite Context Length = Long Term Coherence",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gjb1million",
+      "author_id": "UCS1y5nVtqTPurY2Gh--BSxQ",
+      "text": "👍",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AngeloWakstein-b7e",
+      "author_id": "UCG3u05ersPlMoC-JGxrBt4A",
+      "text": "probability and possibility - AI can work that out",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nearsingularity",
+      "author_id": "UCTrcE1psplZK_tUkegd-wJg",
+      "text": "This is all fun and cool but you never know which prompts are used in the original state and a well engineered prompt from the beginning might have returned even better results.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gerkovandenberg4238",
+      "author_id": "UCeO3sl3DxEl6MaHG4U67ikQ",
+      "text": "Self improving is the doorway to general intelligence. It might be seen as limited general intelligence as defined by the game although it might have learned more than one would have expected.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fusionreactor-e7f",
+      "author_id": "UCEsqb-CtMgUNHgaNlY3YKDw",
+      "text": "the return of the yellow-orange eye",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waterbot",
+      "author_id": "UC_6kKQtKzg1V9ZHcbY6Weuw",
+      "text": "i play catan online sometimes",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vladyslavkorenyak872",
+      "author_id": "UC4epoltzpxCQzSW8FuEyYDw",
+      "text": "I also need reminders of what I'm doing to not lose track 😂 Especially with the Internet, it's easy to get lost! I would say that LLMs still have to develop a sophisticated inhibition algorithm, like our brain does, to make them work continuously on a task.",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thomasst.reinhart-zechner1084",
+      "author_id": "UCk0TdG6VU-NNbCVl92gOMlg",
+      "text": "this could be a iterated reminder the the origin of my or our (pending of stance to solipsism) existence which rewrites the probabilities for our frame of existence. From my point of view, it has become rather complicated with recursive history patterns as story line. No wonder agents in power in this \"game\" do not have a high variance (our math says almost none by the way) regarding decision making. As such us/me being at a training ground for advanced agents integrating the most reliable data and principles looks as likely as many rather \"common\" foundational approaches. Argh, another meta utility function structure looming to calculate.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stcredzero",
+      "author_id": "UCmt8L5aixdq_-0sR8p4vRQg",
+      "text": "So, if anyone is familiar with computers optimizing in ways humans wouldn't ever think of, this goes all the way back to Eurisko in 1980's and the Trillion Credit Squadron Traveller RPG wargame tournament. We see such novel solutions in the recent AI enhanced theorem solvers and AIs tackling math competition problems. We see this in the novel tactics created by board game AIs. What we don't want, is to see such a \"novel solution\" appear as an implemented action in an AI agent that controls considerable resources. As the optimization capability of AI agents increase, and the resources they control increase, the probability that some AI will see and implement a \"novel solution\" we really, really wouldn't like also increases.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UAHULCBRNUHRSCBRN",
+      "author_id": "UChZWwiLxJu0tfIRCPAUjVNQ",
+      "text": "long term coherence sounds they're going to need a way to sleep.😂",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wiktorm9858",
+      "author_id": "UCaPUrPlB5Nm8QtVljpkHM4Q",
+      "text": "Can I read these modified prompts somewhere? I can not find it on their github, nor in the paper... 😢",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pandereodium",
+      "author_id": "UC18Lm_2cnRtdZWMSPyNeiEQ",
+      "text": "I think AI agent is a good term, it reflects that this isn't an autonomous player, but someone's digital representative.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SantiagoMartinez-73",
+      "author_id": "UCCk1XmDdNWihktX0AmSn8Vg",
+      "text": "Can you share the link?",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danasavage3810",
+      "author_id": "UCiLB3CItHifDyt6vaRgi5hw",
+      "text": "No link to the paper?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PauseAIAustralia",
+      "author_id": "UCjjMieiOlSFf7jud0yhHQSg",
+      "text": "Whether or not developments are happening slowly, quickly, or very quickly, we need an international AI safety treaty",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sabaron8",
+      "author_id": "UCiXikUKB1Rlmsoa9tMygNUA",
+      "text": "here",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rotman89",
+      "author_id": "UCTUKFrdZtZvwEvtcl1KBc-A",
+      "text": "Catan isn't that complicated game compared to the others. Still impressive.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@x3haloed",
+      "author_id": "UCUi5-dHdVpWz5uUFk3UJLOg",
+      "text": "\"Agent\" is a good term. It's just being co-opted by everyone for maximum hype. What most overvalued startups really mean when they say \"agent\" is \"LLM wrapper with scaffolding to help it work at longer time horizons\" rather than what \"agentic\" really means -- \"self-directed actions aimed at personal development or personally chosen goals.\" That doesn't sound anything like anything on the market today.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willhalliburton",
+      "author_id": "UCpyWIXxdWrMjIomAHJAdRMg",
+      "text": "Please put links in the description.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CompletedReview",
+      "author_id": "UCu9ED_Ki0DQj39HlRbAjgcA",
+      "text": "give them access to alphago and let it play itself",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CodyMorgan",
+      "author_id": "UCZ0ls-Fq1T8ut3NwWP1_1ew",
+      "text": "Wes uploading videos on a Friday night at 1:30am shows he's a robot who's spying on his audience. 👀",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@takkik282",
+      "author_id": "UCJojXveXpq4xKqcNOH8iKiw",
+      "text": "One big limitation for games, it's the lack of spatial awareness. LLM can't really read or 'think' with a map, limit strategies & navigation in a board game or minecraft. With catan case, they can't create a custom neural network trained to read/output 2d map data ?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AntonioVergine",
+      "author_id": "UC1GlMetgSSMsLo7X3zQiKTA",
+      "text": "I fear they are already using LLMs to plan real warfare strategies.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jean-charles-AI",
+      "author_id": "UCOZBjKagGb6JuAF3QHb7IsQ",
+      "text": "it’s sound more an fun and smart agentic system... and not a self learning model.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trinitydionne8436",
+      "author_id": "UCDU1w-o-qp9-Th_MY186roA",
+      "text": "What’s the link to the paper",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mxguy2438",
+      "author_id": "UC4uJzXjmX4aqmzKM2THe-1Q",
+      "text": "\"Agent\"... I didn't really like the term initially either, but its grown on me. If you give the model agency... agent... it works.",
+      "likes": 6,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skiittz2916",
+      "author_id": "UCCs8OXSsnLLfW6wm7EPrTKA",
+      "text": "#TOGAIDA.  End all ai now and forever.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonStamis",
+      "author_id": "UC27yUt-9mLjc0JiFCjqZgHg",
+      "text": "The long term inability sounds like the result of modern humans. Always missing the long term for the short term gains. I've watched people in government, software development, manufacturing, etc. All for the love of money. Sad",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SomethingNothing-vm8jq",
+      "author_id": "UCrRMWjTcgxNf1-FQ65cK02Q",
+      "text": "Get ai to think about the ai opponents of the games instead of telling it to go in blind. 🙁 adaptability and simplicity/set/consistant(ie not choosing) share the same root.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Just-Iss-4U",
+      "author_id": "UCQ5GahPUiz9yG9awpw5kroQ",
+      "text": "Sounds like it's using the researcher agent to cheat",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Bredafromdejungule",
+      "author_id": "UCIc_pEXMnlmVDrttMpCK8Ow",
+      "text": "Honestly none of this is all that impressive. LLMs are basically smart google search machines that scour and learn all the knowledge already existing on the internet . I think AI is really just an augmented mental short cut for human beings, like a more intelligent calculator, but nothing even close to real intelligence.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sypen1",
+      "author_id": "UCNzWoest2Voi51Wxbic4-kw",
+      "text": "What’s with the stupid thumbnails",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cosmiccred",
+      "author_id": "UC209mvz-HDvhx27GZAyljfg",
+      "text": "Side note, content creators who make freaky expressions and faces and make their eyes glow to post their video is triggering a negative response it makes me feel nauseous and I completely skip over because it triggers a very negative physical response and some people such as myself making it impossible for me to click on your video let alone watch it even though it's probably interesting I just can't because I don't want to please stop",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tube5607-i4n",
+      "author_id": "UCVhKd1BFHf4Z0LPFtkwuw1g",
+      "text": "idiotic covers and titles, i recommend ai explaines or 2 minutes paper to have real professional comment AI progress",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cosmiccred",
+      "author_id": "UC209mvz-HDvhx27GZAyljfg",
+      "text": "Content creators who make freaky faces on their posting triggers a negative nauseating response and it has the opposite effect I will never click on your content because it makes me feel sick every time I look at your face",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

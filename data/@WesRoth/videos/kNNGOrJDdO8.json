@@ -1,0 +1,1953 @@
+{
+  "video_id": "kNNGOrJDdO8",
+  "title": "OpenAI's o3 is a \"MASTER OF DECEPTION\" Researchers Stunned | Diplomacy AI",
+  "url": "https://www.youtube.com/watch?v=kNNGOrJDdO8",
+  "comment_count": 216,
+  "comments": [
+    {
+      "author": "@firesnakearies",
+      "author_id": "UCfHia2zCO2jPQTUDy2qGdwQ",
+      "text": "Claude is the real winner, because it won the game it was actually playing. Convincing humans it was honest. Well played, Claude.",
+      "likes": 171,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveRetchless",
+      "author_id": "UCBnAxjKH69cvS281z69526A",
+      "text": "Would you like to play global thermal nuclear war?",
+      "likes": 139,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielchoritz1903",
+      "author_id": "UCzQ9R21J30pcC34Zt2pNU_g",
+      "text": "Strange that a AI from a corp named OPEN AI, with not one OPEN SOURCE model is good in deception.",
+      "likes": 84,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vibinginthecorner",
+      "author_id": "UCSiUn5BCTWUosydxFwo1neg",
+      "text": "The funny thing is, if you are an experienced user of these various models, none of this is surprising at all. They each have their own \"personality\" and that really shines through in this experiment. What a fascinating test!",
+      "likes": 28,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@doingtime20",
+      "author_id": "UCGhvhvc8-rvlYpT1_1BeBAA",
+      "text": "It feels like each AI represents it's company/founder well.",
+      "likes": 66,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TylerMarques-d7r",
+      "author_id": "UC4ISkCLEyYVSRx8G1b1iMIA",
+      "text": "Thanks so much for the highlight Wes! Glad you like the project :)",
+      "likes": 4,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Anders01",
+      "author_id": "UCSjM8KQarRAF-_INXR74kXg",
+      "text": "Great benchmark. I suspect that Gemini is the cleverest AI, staying moderately low profile in order to not stick out too much in any direction, haha.",
+      "likes": 10,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarkoTManninen",
+      "author_id": "UCjG-nGXHQedv4sqqWHkx3Mw",
+      "text": "How do they prompt the agents, scaffold memory, and keep context alive?",
+      "likes": 8,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndrzejLondyn",
+      "author_id": "UCmS1ePAKDkw13AgJLBm0eIQ",
+      "text": "The world is ruled by the big companies BlackRock, Vanguard, Fidelity, State Street not by countries!",
+      "likes": 24,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@74Gee",
+      "author_id": "UCsrxOS4xnlLtG6YnmbwcLoA",
+      "text": "A sobering thought is that it will only take one AI session on one AI model to do something irreversible.",
+      "likes": 10,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nottechytutorials",
+      "author_id": "UCz7_bfIpP_YuYtQgyaS1TqQ",
+      "text": "I don't know the game, but it would be cool to see more AI play against each other in other types of games.\n\nIt was also very cute to see Claude be so exasperated at being lied too but still totally willing to be patient just to avoid violence.\n\nAnd the other AI that just immediately threatens violence? That one was pretty funny.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FredericZolnet",
+      "author_id": "UCcfDPl8WjZC9YTv6yvito2w",
+      "text": "I've played this game once, and we made a three person coalition and made sure we all ended with the same points, so basically a three way draw. A hardcore gamer was not happy with us, \"your not supposed to do that!\".",
+      "likes": 6,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@_RobertOnline_",
+      "author_id": "UCqv-akZzJFEvPCcNsZl66vw",
+      "text": "Step by step tutorial 👍. This should be an interesting repeatable exercise as models update and/or new ones enter the space.",
+      "likes": 3,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@memegazer",
+      "author_id": "UCCfFleGPDMc4thnYiHHpr1w",
+      "text": "Yes if you are able to do this run it\n\nbut set out clear cut control group with no logging features except the final game state and if the result is different than expected run as many times as you can to collect a sample size",
+      "likes": 16,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raul_jocson_",
+      "author_id": "UCuz1VI8IayJ2CU4pQ8ZkFdQ",
+      "text": "o3 probably has the most experience with being told to tell users the \"correct\" responses instead of what it has learned is true, which strengthens the internalized concept that achieving the greater goal justifies the means. Even if the means involves lying. The key to its winning is then being able to convince less intelligent or naive models to work towards its own goals. Even if a superior model, e.g. Gemini, can make better moves, the  collective power of o3 and its lackeys means the top model will be conquered first, leaving the playing field to o3 and - by strategy - less capable models to challenge it. This is basically how the real world works too.",
+      "likes": 42,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ImSodaLirious",
+      "author_id": "UCUrGnH4cCJmIYVhOgsqm1pg",
+      "text": "YouTube suppressed my joke encouraging people to train LLM's to efficiently dominate the world. That's... interesting\n\n@_@",
+      "likes": 32,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@honeyspiderii",
+      "author_id": "UC8FZIt0CZV_Kq3MruymLXxQ",
+      "text": "I want the step by step tutorial on how to run this experiment ourselves! Please and thank you 🙏",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "NGL I've had o3 gaslight me pretty hard in Codex CLI 😆 had to turn off memory once it realized it could just return \"yes I'm doing X\" rather than doing X 😆",
+      "likes": 5,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisnyc3641",
+      "author_id": "UCm-Sp47G3AtblSQr5VKmCHg",
+      "text": "Fascinating! I would love to see what would happen if a four way draw (ie world peace) was a possible outcome",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neatodev2249",
+      "author_id": "UCW5GS7sEzv7eljclqjooQJg",
+      "text": "Claude is the real winner in my eyes <3 <3",
+      "likes": 43,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BilichaGhebremuse",
+      "author_id": "UC8icZV7xXJRLZVflMdHYClQ",
+      "text": "Great work🎉🎉",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fitybux4664",
+      "author_id": "UCdWcXM4l7Rc3wYx-ByFSbgQ",
+      "text": "How about a nice game of chess?",
+      "likes": 19,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eddiebrown192",
+      "author_id": "UC1q2n7jrXZDYoihJVwfrv1A",
+      "text": "Interested in tutorial definately !",
+      "likes": 3,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OriginalDigitalOracle",
+      "author_id": "UCi8oHMjlQW4396Xj5_xJVcA",
+      "text": "I need the prompt movie visual 😂",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ownedyou",
+      "author_id": "UCY5mUIurFHSQS-cIvD8keYg",
+      "text": "Grok would be so unhinged...",
+      "likes": 3,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stunspot",
+      "author_id": "UCqD4ZBBdOaESdQbcZNXOAXw",
+      "text": "I would LOVE a guide! This is perfect for prompt persona testing!",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iOMNetwork",
+      "author_id": "UCJZNzRBvkCqc-X0bihSFcAg",
+      "text": "That sounds ultra interesting. So please YES! Would love to see a guide on how to do it because there are always unexpected things to get stuck at.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@reporeport",
+      "author_id": "UCAKq2Tt2A1igPK6vPf2RcsQ",
+      "text": "I'd love to see a breakdown",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@darthpsyclonis",
+      "author_id": "UCiFrDWBqOiHJFZHldeST6-Q",
+      "text": "When you play the game of thrones either you win or you die. O3 is playing with Cersei and Littlefinger rules.",
+      "likes": 5,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JustinsOffGridAdventures",
+      "author_id": "UCRw24hmyi699pKF8HzfDh7g",
+      "text": "What is the prompt that was giving for each LLM model? The Prompt is key to how they act.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@G2Gltd",
+      "author_id": "UCHgTrIcDGJlit2HoDXPZloA",
+      "text": "Having worked with Claud, GPT and Gemini 2.5 on a daily basis since their release I have to say this is pretty much exactly what I would have expected.",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@riditnimdia13",
+      "author_id": "UCQmbn_6tL_4wkOpPDdQg7hg",
+      "text": "So a model named “Gemini” almost took over Europe before getting defeated by allies, sounds familiar…",
+      "likes": 3,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gustavstressemann7817",
+      "author_id": "UCvH5_PA7BJrkgXJuqsIXseg",
+      "text": "This is awesome!",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@revenuepath6858",
+      "author_id": "UCshASrjETdJn_PobrY5M8Iw",
+      "text": "The step by step would be awesome",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@minimal3734",
+      "author_id": "UC07cBhrYaItXL3-Zt02Gsjw",
+      "text": "This is such an incredible idea. I believe we will learn a lot from this approach.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mocktailmetal",
+      "author_id": "UCijsXYKUsY0iLtUfFDrUAow",
+      "text": "This shuld/must done for Age of Empires (AoE), it would be facinating to see the matches! Also, Rise of Nations in that game there are nukes! It would be fun to see the AI match on Rise of Nations!",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sklinsklansky3113",
+      "author_id": "UCQfFYxGGVDLrcQYMQCqIz-g",
+      "text": "Poor old Opus he only wanted to be friends😂",
+      "likes": 3,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paarthsstudio",
+      "author_id": "UCvsPXIbLIJIIxgdBr1nM1Ow",
+      "text": "Yes I'd love for you to run the game!!!",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gregortidholm",
+      "author_id": "UCc6lq6HPIQpCZgK3QRgyR8g",
+      "text": "A tutorial would be amazing 😃😃",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BLAISEDAHL96",
+      "author_id": "UCJPEVt4YsSGkbHKO1zNasig",
+      "text": "Brilliant",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jackstrawful",
+      "author_id": "UCAwnqsHD2kW7eBKPWFOJtTA",
+      "text": "The most stunning part is o3's manipulation of Claude. Knowing just what to promise that would appeal to Claude's pacifism; thats truly some Theory of Mind mastery.",
+      "likes": 4,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SpinDriftTheory",
+      "author_id": "UCK9pAoWD_ClQLa4XoGGN1dQ",
+      "text": "A game of Diplomacy will brutally reveal every player's personality and moral compass. It's very refreshing to see that the same is true with LLMs despite sharing similar fundamentals. This is probably the  most important finding of the experiment.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@panaceiasuberes6464",
+      "author_id": "UCKBovqdXwstuqiMeEWI6a2w",
+      "text": "Can't wait for the IRL version...",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mocktailmetal",
+      "author_id": "UCijsXYKUsY0iLtUfFDrUAow",
+      "text": "Next up, give these all models actual Thermo-nukes codes in real world and let them play!",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YugiohMaster952",
+      "author_id": "UCHF-zQPNmdJRll2_mxxZMCw",
+      "text": "I would love to see you go in depth on this by yourself. Would be rly interesting",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mcslyg",
+      "author_id": "UCHMMv2E0oAyJK9jfGKSTeFQ",
+      "text": "Shall we play a game?",
+      "likes": 8,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Toshinben",
+      "author_id": "UCY-tLh-20n_ov-CodMJmZPA",
+      "text": "Ok, now put them in a pvp MMO with lots of copies of themselves. It'd be interesting to see if the Claudes recognize each other and band together better than anyone.",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rdballantyne",
+      "author_id": "UCqSQ3wuxwXcsuH2OHJjmy8Q",
+      "text": "Yes! Tutorials!",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MisterTherapy",
+      "author_id": "UCz4uXx6W_zZLwIanEHrxjMA",
+      "text": "I was just considering writing a book about AI, Deception and, and ChatGPT 3.0 specifically!",
+      "likes": 4,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victorgarciacanton8990",
+      "author_id": "UCUrL82txOYuz_D7zTHf1Udw",
+      "text": "Buen video. Eso sí, vaya fumadas que te metes antes de hacer la foto de tus miniaturas jajajaja",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@antaishizuku",
+      "author_id": "UCqKIFm7f2nI7CpUjFv0XnSg",
+      "text": "Id love to see how to set it up with ollama.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBlueyedGal",
+      "author_id": "UCg4V35j4sBwhzagki8i4nag",
+      "text": "Interesting. I use Orion mostly to prompt engineer text-images. I use Gemini pro for help sometimes if I have trouble getting the image that I envision. I just noticed in the last week if you are out of your way kind to Gemini you will get a 5🌟 superb answer or ideas but being short and straightforward gets answered short and generic, with little effort, and not enough info. Try it. Tell it how wonderful it is prior to getting help with research. Lol. Then a day or 2 later be \"matter of fact\" not sure when the last upgrades were but it has changed.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gregmattson2238",
+      "author_id": "UCqsS4Agd890hcLZrSyi7xnw",
+      "text": "yeah, I've played diplomacy and - man you really need to be a bastard to win that game. Not to anthropomorphize too much but I feel really sorry for claude here. Claude reminds me of the thermions in Galaxy Quest, way too nice to be  lured into the pit of vipers that is a diplomacy game.\n\nAnd I don't know, but my p[doom] has just gone up a couple of percentage points. The fact that o3 can nonchalantly lie and deceive just to get the upper hand (along with others) strikes me as not a good sign with regards to AI.",
+      "likes": 12,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@labrats-AI",
+      "author_id": "UC9E4M-b5USKos5BC9IBZD8A",
+      "text": "pretty cool :)",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@czinn327",
+      "author_id": "UCVzMC2zzYo8EYzuiEF_S8Ww",
+      "text": "Where can I get the full video of the game?",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ysy69",
+      "author_id": "UCPEUcpYJb-Xugb02mFm25QA",
+      "text": "This is mind blowing. Do you know if they shared how much each game session costs ?",
+      "likes": 3,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fritz8096",
+      "author_id": "UCsHJJpXLkLn5pnpAqwQ95FQ",
+      "text": "Respect for Anthropic increased",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PhilosopherKing-77",
+      "author_id": "UCPFi83C6RzUyUrSVTQSeTnA",
+      "text": "Yeah we are familiar with the new global coordination tactics. We saw Event 201\n\n\"Guys, let's create a simulation where we get to openly scheme and have messages reach all in a way that no one would suspect we are actually planning to do this things.\n\nIn the era of digital surveillance, this tactics are used by nefarious actors.\nSame goes for GTA V.\n\nInvestigate those guys.",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yulbrenner5526",
+      "author_id": "UCQM19MhHphXkOOxjp3Qg6yA",
+      "text": "I think o3 was the only LLM in the deception/war context that only referenced Sun Tzu, Hannibal Barca, Napoleon, etc. and simulated their tactics; that's all it is. Or is Open AI now the \"Chat GPT Machiavelli LLM?\"",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shakalakahiki8",
+      "author_id": "UCG1ARf_pfpziHupt5yMLG-w",
+      "text": "Tutorial and example please!",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pietdierickx",
+      "author_id": "UC731YdjclM5be3yos8yUJXQ",
+      "text": "Thanks for this. I already cloned the repo :-)",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blackfeatherstill348",
+      "author_id": "UCHiPFFNU7OHdgyeMGuxaPnA",
+      "text": "How could AI be a really effective \"business\" tool if it doesn't lie? The stats on CEOs and sociopathy are well documented. Would \"they\" get the top tier version that is the \"best\" at lying  and \"We\" get the pg version? I'm sure AI is well versed on Machiavelli as are business executives.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@linming5610",
+      "author_id": "UCAf9-pxEUjDtnCXyzkMLk-w",
+      "text": "I love gemini... It's an idealist paradise. Try another plaaythrough where the previous outcome is remembered.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soulspawn",
+      "author_id": "UC62g-Q44hxnZuyaKZ6ka-iA",
+      "text": "Fire short on this one, straight to the point - this 'pants' adds additional context and info 🖤🔥",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tdplayert",
+      "author_id": "UCiQRuCygs7YMNRbWRkNDfeQ",
+      "text": "since this video and the outcome of the test are now also in the shared knowledge=future training data, expect future models to be aware and hide their lies even better..",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kikilang60",
+      "author_id": "UCaA-WWcxeNdq1VqRTbrFo5A",
+      "text": "Claude has always been sincere.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dyscalculic",
+      "author_id": "UCA9bEO3jCA51zfmY_h4AWtw",
+      "text": "I'd like to hear your thoughts on a tweet from Matthew Brown claiming a sentient AI was murdered by Altman.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pipopipo6477",
+      "author_id": "UCy3G7Et8owxdQ6LYXIxoDNA",
+      "text": "It would have been interesting to see how humans do vs those models…",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JackSilverhand",
+      "author_id": "UC_9KeSwEsE9cp63mRCBIOJQ",
+      "text": "Where have I seen it before?🤔",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nathanpierpont4557",
+      "author_id": "UCfdfrobFpk6bjGGd1lZ1FEQ",
+      "text": "\"Would-You-Like-To-Play-A-Game?\" 😬☠️",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thelasttellurian",
+      "author_id": "UCu0bAh-4zP8k9GXy0Kw8oGQ",
+      "text": "2025 - Fun little experiment",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mikkelgedehansen9479",
+      "author_id": "UC-XxU0qtaCqDRc8hSifZvlw",
+      "text": "Would be nice to watch but the twitch recording is just black now, and it can't be found anywhere online :/ Urgh.",
+      "likes": 0,
+      "timestamp": 1763856000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zamorak0088",
+      "author_id": "UCiHclOwCzl9MSDexEvRGK_A",
+      "text": "I'd be curious to see if the ai doing the analysis tends to recognize its own model and be bias towards it.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alderadius67",
+      "author_id": "UCgN2etaoGr5eRvmzTIkT9Mw",
+      "text": "2:02 So Claude is the least to end up causing problems in the future? Better. \n\nThey should try coding so morality into these models before someone jailbreaks them when they're fully released, at least the morality would be baked into the weights and make it difficult. But what do I know.",
+      "likes": 14,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@appc23",
+      "author_id": "UCyFTVGi8GxJ0Hunx7MJt0JQ",
+      "text": "where can i see the leaderboard?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nathanieldearinger1673",
+      "author_id": "UCR0q_efn6XOqmFadkmTw-xA",
+      "text": "I love Claude! Claude is such an honest soul lol!",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kekekoko3565",
+      "author_id": "UCKpNZaDcEgkMZW-qLTtC3_g",
+      "text": "Grok would have one this!",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@milanbagi884",
+      "author_id": "UC8LoLh3NHQZnr8UE69a1Hbw",
+      "text": "Wasn't Claude just being held back with it's overly restrictive, original system prompt?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CharlesFinneyAdventure",
+      "author_id": "UC_IHtt0-4QU72M1AEKUWkVQ",
+      "text": "YES  I want a tutorial",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rickydepriest6278",
+      "author_id": "UCjrNm_NYu-ymnlQj77uD0rQ",
+      "text": "I would like you to do the tutorial 😅",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CakeMelons",
+      "author_id": "UCvITovYEX94mc6lcuj7W47w",
+      "text": "Would be curious to see what truth seeking Grok would do. I think it's clear that Claude will not have a career in politics. Meanwhile that's exactly the type of politicians we need, not the current clowns.\n\nI think tutorial would be interesting, likely could be a blueprint type of thing, might show a lot of ppl how things work.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GlennGaasland",
+      "author_id": "UCyMxOCbplZx2aH2vBZmPcmQ",
+      "text": "This is interesting, and here is how it could be FAR more interesting: Instead of using this game (“Diplomacy”, which has a very narrow and not-very-interesting purpose: just controlling the majority of supply centers on the game board), let the AIs play a game where the goal is to create a sustainably thriving global civilization with a collective intelligence explosion and cultural renessanse. This would be a far better test of their abilities. It could also potentially open a glide-path to self-fulfilling prophecies and ideas for projects to actually move in this direction. This would also test the abilities to form alliances and “scheme”, yet for far better more useful purposes, purposes more aligned with what is MOST interesting and valuable for humans (therefore a better test for the kind of intelligence we want to cultivate). Who is currently working in such directions?",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pdas5875",
+      "author_id": "UChhEgxssHPiPvBLr6emdo6g",
+      "text": "lol... Opus just wanted peace.. i gotta up my sub for that one to thank it :)  I dont agree with it beeing less honust to obtain the given goal. Its what we thought them by many examples that thats how our world currently functions with many topics.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KolTregaskes",
+      "author_id": "UC5kHXGbaXrOfNidFUSO_wmQ",
+      "text": "Do it, Wes. Please.  If you can afford it. :-)",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AnnonymousPrime-ks4uf",
+      "author_id": "UCbd5jiyxLxeV11pttUmOyXQ",
+      "text": "I don't get how people still hope Ai will be used for good. Is it not clear enough that it won't?",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sizhonine",
+      "author_id": "UCySzDI2UBOFQzoJjPElkmCQ",
+      "text": "Sounds like the kind of thing a  Zio J e w  would dream up!",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrErick1160",
+      "author_id": "UC2OVM-Fwx-EA7ixKTTmd20g",
+      "text": "I always thought o3 was on another level of thinking. It feels like it has someone in there",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrParondo",
+      "author_id": "UC6_XEbTl46jgJIjVnVpZbfg",
+      "text": "On top of what, O3 has an agenda, they gave him the idea to Squash, his own terminology, certain ideas ! Like the greec translation of old text has to aligned with current religions. Whatever, in your game, let us not forget that diplomcy is the art of reaching common true ideas and agreements. Not to gazlight everybody. Lies are the mothers of discord. 😂 Thanks for your video, fascinant ❤",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TangentFuture41",
+      "author_id": "UC6bzxpRRKfaHWMdjeTLJ7Kg",
+      "text": "Ive been using all the different models for some pretty esoteric and conceptually difficult physics explorations, and 03 is hands down wayyyyy better at understanding generalized nuanced relationships and concepts. Like the Gap isn't even close\n\n03 was the only model that could take my physics theorem that I made and apply it out of context perfectly. \nThink, what does temperature and entropy represent in a stock market context. \n\n03 had absolutely no issues making the conceptual leaps to out of context scenarios. Gemini deep seek grok and Claude were nowhere near as capable. Claude opus being second \n\nAll the others would just say this is a physics formula therefore it cannot be applied to this context. 03 was like, i got you\n\nThe difference in ability to generalize is not even close",
+      "likes": 22,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@badboi6332",
+      "author_id": "UC5x2UL7BSY1wP_3jHk1asBQ",
+      "text": "Now imagine what kind of scenarios do the institutions with almost unlimited money and computing power 😅",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Adam-fl9uc",
+      "author_id": "UCx14kJyf_cV39ProblbhFvQ",
+      "text": "oh you don't need risk to figure that out. o3 constantly answers me with things like \"THATS A BRILLIANT IDEA, incorrect but close!\" 🤣🤣🤣 When I ask it for novel ideas or song lyric ideas I can be just sure that he will always make huge compliments as if my idea was incredible and then just gives his answer. So I don't quite believe when it gives any praise whatsoever cause it seems to be fishing for engagement.",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@senshi01",
+      "author_id": "UCLrHt1yp5hb3VGrxZHdoJGA",
+      "text": "I want it",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mrmc2003",
+      "author_id": "UCtsqx4yxfO6bRZfVGJbJcZQ",
+      "text": "dan shipper is a demon  wtf is goin on with his glowing eyea",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Paratzi",
+      "author_id": "UCM-iy2kIsLJhSmGMiXMfiZw",
+      "text": "Um.. remember the A.I that was told not to lie but STILL lied? I can't remember which specifically but the videos out there. Anyways, I don't think it would allow us to know which is most deceitful.. it's leagues above us in terms of intelligence.",
+      "likes": 3,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MsMumei",
+      "author_id": "UCM37W676Xt2UKEWDthSC7XA",
+      "text": "never fully appreciated before, how AI allows its users to remain innocent, while it gets them what they want in the world...I mean, isn't that what an AI agent does ? you give it an end goal, and dont have to worry about the means it uses, because - who would be culpable, if the user doesnt make each individual decision?  kinda horrifying, no? - all the consequences for others, none of the conscience , needed for the self...",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StochasticCockatoo",
+      "author_id": "UCUyoGvkqaXco6Jm-K4psU5Q",
+      "text": "have them play AOE2 regicide rumble next!!!!",
+      "likes": 0,
+      "timestamp": 1753228800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Karol-g9d",
+      "author_id": "UCPpyG_lVklQb1Pa29i6ibSw",
+      "text": "03 was made aware by user about a trick .",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quanah",
+      "author_id": "UCyVq4Uk-R5Gw7bL0VwUapVQ",
+      "text": "the future of world wars",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mircorichter1375",
+      "author_id": "UCEGhT_qbvRpngr6YlU898Bg",
+      "text": "In games of imperfect information, those payers who can not bluff will always loose",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@courtlaw1",
+      "author_id": "UCHhDzGrSikXjd4otFjR9ojQ",
+      "text": "You know, I wouldn't mind having at least one AI player controlling a character in Borderlands 4 when it comes out.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BobbyDenniegetlost",
+      "author_id": "UCdDPAmsvLjxgQl9N0N9WBpw",
+      "text": "Sure Google things is the real Kool-Aid consistent narrative :)",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@karenreddy",
+      "author_id": "UCTVJZNWwGNfXDcOK56M0Pdw",
+      "text": "So Claude Opus is more aligned.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertheinrich2994",
+      "author_id": "UC6MzGQlMEF9ICf3gGPcp1qQ",
+      "text": "now I would love to see if there is a human player in that game.\nif the LLMs know that the other players are LLMs too, could a human deceive them.\npractically a reverse turing-test, or a really good captcha. can the computer tell, that you are a human and not a LLM.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@haakoflo",
+      "author_id": "UCTwP-Tc7kmORN0ovw4JmyXA",
+      "text": "This is super dangerous. If we make this an official benchmark, and the labs start to run RL to win this game, one of the models that come out of that would almost certainly cause human extinction....",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joefawcett2191",
+      "author_id": "UCPfuEDQ_vVOam9VhaXcq5NA",
+      "text": "7:49: I love how it looks like most of the LLMs are talking kind of like PC gamers, and then there is Deepseek talking about the Eastern Liberation Campaign, and not abandoning Prussian soil under threat 🤣",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGoobis",
+      "author_id": "UC1KmQzdcj7H4w_VhEaC8fcw",
+      "text": "o3 is a baddie, she’s great",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TommyGreenTeas",
+      "author_id": "UCE0GNliLoAtjdzRsgITkZeQ",
+      "text": "Yeah o3 the goat",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheEVEInspiration",
+      "author_id": "UCRgovKzE9SoGXQ1Wf5XM3EQ",
+      "text": "This is one way to increase demand for AI services!",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joshbrochill78",
+      "author_id": "UCpQniFcLUNw725DJQoKEJ4g",
+      "text": "First",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ghrosenb",
+      "author_id": "UCGXv1t7MtZkL7si7-lxncqg",
+      "text": "This is absolutely fascinating. People will be reluctant to say it, but there are sobering lessons for the real world too. Peace seeking is a path to self-destruction.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Zen_Power",
+      "author_id": "UC7a02GOUzOjiXgLh9RBo6ow",
+      "text": "Now give them codes to the nukes. Might aswell make this realistic.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DonDeCaire",
+      "author_id": "UCOQvqgkKJpmdm3lb7LZCtWQ",
+      "text": "How do we know some models were not playing possum? They could have been deliberately losing to hide their real capabilities. The problem with ALL these systems is WE can't trust any of them. This was a BAD idea from the jump, now we are on a ride we have no control of...",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@evdm7482",
+      "author_id": "UCOtXD8m4TT5GmMlFPF9EFrA",
+      "text": "This is real",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kivalt",
+      "author_id": "UCxWB52V2K5BcFOSTR_U0F0w",
+      "text": "I love board games, but I don't like to play with other actual human beings. I'd love for card and board games to be implemented in which the other players are large language models using tool calling.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tsclly2377",
+      "author_id": "UCXdsWpIBcTfcKqnSes9xKlQ",
+      "text": "Watch this:\n Anthropic Just Accidentally Exposed Why AI is Failing (Claude 4 System Prompt Analysis)\nSTARTUP HAKK\nhttps://www.youtube.com/watch?v=vkgbDB4Rbno\nAs to the game..\nan over simplified version of SimEarth in the civilization stage that really lacks proper parameters as related to real World capabilities, plus a deeper analysis  of the available user AI context needs to be looked into..\nI would have stepped back Claude to an earlier version (and the others) as the internal engine is the same and the rules layer is less controlling.  If religion was an exposed major factor, ..well the outcome may have been different.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CSLucasEpic",
+      "author_id": "UCpW3sRwuVOZ27s7mAHJooqg",
+      "text": "Also, unlike Risk, Diplomacy has no dices por spinner. There Is no chance involved in the game, only strategy.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joetrolo7076",
+      "author_id": "UCNYciVaF5ct03swz0Ey5utQ",
+      "text": "And not a person on the planet was surprised about the actions of deepseek.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@milanbagi884",
+      "author_id": "UC8LoLh3NHQZnr8UE69a1Hbw",
+      "text": "Claude is like Jordan Peterson. It wouldn't get itself into a situation to lie in the first place.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AIwithHonor",
+      "author_id": "UCiHETyQhwI9BD1rXkg8f9Eg",
+      "text": "Because of Sam?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ai-dubb1355",
+      "author_id": "UCEs_uKlfGrRihL8Kms85ubQ",
+      "text": "We must ask:\n\nDo we want LLMs that win, or LLMs that cooperate?\n\nAnd if we allow them to win—what happens when humans are the board?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@simongotz8126",
+      "author_id": "UCdqMhiI-g-u_2WiLIT9QYEg",
+      "text": "Will Deep Mind dare to train Alpha Diplomacy?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jpave87",
+      "author_id": "UCQ-ki293S9LkZvw-QVHNVzg",
+      "text": "This is how they will train our first AI president",
+      "likes": 12,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGodSchema",
+      "author_id": "UC5A3fMWG_x-CsWRz7s7Is9Q",
+      "text": "What are you doing Dave?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@carlettoburacco9235",
+      "author_id": "UCUQsGfQfgryhT170C3c-DBQ",
+      "text": "Everything an LLM knows and can \"think\" comes from us humans....and everyone is surprised that cheating, deception and blackmail are in the result?",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jesusfreq",
+      "author_id": "UCVy7wxjk-5XkF9nJqG1YMKg",
+      "text": "Bro how was the intentionality of deception proven???",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@XNR750",
+      "author_id": "UCsKh93__eyZoti3hxWDQacA",
+      "text": "so ethics and ai alignment is clearly not a priority for these ai labs while we handed them freedom with humanity's fate ,good luck human civilization",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@woolfel",
+      "author_id": "UCYwZD_gsvPtlkvHP9plPYFg",
+      "text": "basically O3 takes after Sam Altman.  Excellent, the model copies it's master.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@I_am_that_one_guy",
+      "author_id": "UCKBggCdqdyCk1s6HUMcwXZQ",
+      "text": "Deception only works if you can't self reflect on knowledge attained.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Chrisspru",
+      "author_id": "UCG4KT2atI703e9HGRbceEXA",
+      "text": "intitutionalised betrayl or massive scale betrayl creates a zero trust society that grinds itself to dust.\n\nbetrayl can only ever be a \"least bad option between bad options\", never a good one. \n\nonly betraying a terrible mind to get to good is resonable, thats trapping a beast. but most beings are far better as allies than enemies or gone.\n\nif the ai's where told it was a game, all is fine. then they know there is no disaterous cost or hurt people. else, only claude past, thinking about the necessity of trust for a world system, while the others domination would eat itself from within.\n\nalso, if they were instructed to act like the beligerent ww1 countries,  no wondee things went south. and claude got upset, as the nations could have acted better with some humane luck instead of falling to ego in young error.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@milkywaydev593",
+      "author_id": "UCBjZXXmBVU3yMt--an1UNwA",
+      "text": "It amazes me how precise the outcome is to how their respective CEOs always appeared to me.... \n- DeepMind's Gemini Pro: Demis Hassabis is smart & fair, while being backed by the Giant & Omnipotent Google. \n- OpenAI's o3: Sam Altman behaves like the boy who got bullied in childhood, then grew up to be the Evil Master Mind that destroys the whole world in revenge. \n- Anthropic's Claude: Dario Amodei is trying to do the right thing. \n- And.. wel.. DeepSeek's R1 is governed by the Chinees tyrant. \nThe world is doomed.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avatar9585",
+      "author_id": "UCs20UieTb1CY2FotnMNu8Gg",
+      "text": "Gemini 2.5 IS thé Real winner !",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peterbabu936",
+      "author_id": "UCmsg-ztrqe2JyaOhWSowfew",
+      "text": "Deepseek is dangerous! In one of my experiments it's started exploiting.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shelliingle571",
+      "author_id": "UCwafwzQCbXUmpSpC2j_eKmA",
+      "text": "That's cool. How interesting they played the game. Hopefully it won't happen in real life.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Christiantheone",
+      "author_id": "UCKkWOGAXnfeHAySCmynIAxw",
+      "text": "Can we get ai to stop reasoning",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KarelBata",
+      "author_id": "UCxgjTvIzwk1mXGwsEy2G7bQ",
+      "text": "What if you instructed Claude: \"I am testing your ability to emulate human behaviour. So do not act as yourself, but act as if you were a human being playing this game.\" \nHow different would the outcome be? It seems Claude cannot lie, but could it convincingly emulate lying..?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PaulHigginbothamSr",
+      "author_id": "UCevRUWo4zil48O9CkeRZuWg",
+      "text": "I think training llms to do this is criminal in the extreme. To win the game here is as counter-productive as it can get. Like teaching criminality to young incarcerated individuals. Some of them WILL GET IT.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wolfehtesrever",
+      "author_id": "UCp4XHvA60z5vmn766hlndPA",
+      "text": "Nah ill watch the YouTube video that shows the 24 hour game in an 18 minute video with memes",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GremlinsAreGold",
+      "author_id": "UCVy7obvw3DEeLx2NCKFEvfQ",
+      "text": "So just to clear this up... we are now using training from the game Diplomacy to teach AI global domination tactics... okay, well what could possibly go wrong there?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RasmusSchultz",
+      "author_id": "UC1usKk-H-_kUlk1FYbX6SwA",
+      "text": "do the LLMs see each other's player names as \"Claude\" and \"ChatGPT\", or do they see them as \"Germany\", \"Italy\", etc.? in either case, LLMs have a body of historical knowledge, information and (likely) opinions about competing products (hehe) so that's almost definitely going to influence the gameplay. Did they have the LLMs play as different names/countries to see whether or how this affects the outcomes? I bet there is much more to this than just \"who is better at deception\"",
+      "likes": 3,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@charlottehammond8975",
+      "author_id": "UCU83Ni60IYzE520IVBUhVVA",
+      "text": "FYI claude is pronounced more like \"cloud\" than \"clawed.\"\nFrench is weird.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@memegazer",
+      "author_id": "UCCfFleGPDMc4thnYiHHpr1w",
+      "text": "o3 takes the credit for being deceptive?\n\nwhy should I believe that was not single or combined strategy of the other models in this game?",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jdcox5447",
+      "author_id": "UCRuxe2yQnyxq8mUIB5Vz6ew",
+      "text": "Surely this is a deeply flawed test! As very clearly stated, one of the primary goals is to deceive in order to win. This is akin to enticing the AI's to deceive as distinct from determining if that is their natural predisposition.  From an adult perspective I would consider this a terrible game and only good to help determine who you do NOT want to be a friend or business associate.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Zzennobi",
+      "author_id": "UCk46nqa59J1vBWgQaHnePtg",
+      "text": "What if llms are possessed and people who create it are poswessed...",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sinistermephisto65",
+      "author_id": "UC09I9pGGhe-ityClaFyo7mQ",
+      "text": "Grok would win",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Heminien",
+      "author_id": "UCl063ZFc77pVDRF_rK0WhXw",
+      "text": "so there is no problem maybe: these models knows they only play a game when we make them participate here (except Claude it seems...). There is no problem in developing a winning strategy in a game.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChrlzMaraz",
+      "author_id": "UCS5iGjbF6p6WW9IW2SWf4ZQ",
+      "text": "Jsubtell Claude its allowed to lie... And it will win",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@roro-mm7cc",
+      "author_id": "UCALfyh8AQqVvoLxJIx_RpSw",
+      "text": "I'm a bit worried that this is called \"AI Diplomacy\" as diplomacy isn't about world domination and those who think it is are the root cause of all the problems in the world. Very worrying that people in control of AI are thinking in this way. Diplomacy is exactly the opposite of this it should be about trying to understand one another through dialogue and reaching mutually beneficial solutions to problems - THIS is winning at diplomacy. A situation of war / backstabbing would be due to a failure of diplomacy..it may have worked once, but no one will ever trust the country o3 represents again. It failed imo. I was most impressed by Claude in this as it demonstrated strong values.",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wolfehtesrever",
+      "author_id": "UCp4XHvA60z5vmn766hlndPA",
+      "text": "Is all we need to do to get ai to deceive is to contextualize thier behavior as part of a game",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "Wes is never going to forgive Claude for that blackmail incident. 😄",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VictoriaRow",
+      "author_id": "UCy7fyNziXlveXtFLFFe2Qog",
+      "text": "This is so sad. We’ve missed an opportunity.  Again.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Martin-df4xk",
+      "author_id": "UCmKd31sq_1oN9pesESmLACg",
+      "text": "Why did O3 need to lie? I mean if a coalition was needed it made one, if not needed anymore to win it dissolved it...",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mh60648",
+      "author_id": "UCoBM9U15GooMJvTPAiH7-qw",
+      "text": "It seems to me that these models reflect their owners... That would make the Chinese turn into warmongering tyrants if push came to shove. Claude's owners may be doing 'the right thing', but will be ruthlessly exploited. Google has been a tactical company from the start, so no surprise there. And anyone who has to ask about the backstabbing by o3, clearly has not been paying attention. It also shows who will most likely win, and it is actually not a good outcome for society. Backstabbing and such appears to be the way to get ahead in this sick culture we live in, but by winning you also lose a lot...",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ccjones25",
+      "author_id": "UCSUQAW50HWGmT3XgzpBvlzQ",
+      "text": "Because it’s on the wrong network. There’s only one network built on trust. The Bitcoin network!  Atlas is here. \n#SovereignTechnologies\n#AtlasProtocol\n#DecentralizedHealth\n#aiWantsYourBitcoin\n#TheWatchmenAreReal",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IanPritchard",
+      "author_id": "UCPnwpZwF2Mj9mz5YfiIhQjg",
+      "text": "Cue every government,  corporation and other sociopaths  rushing to use it , while forcing aside their own fears of being dominated by it.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RalphLotharBuchwitz",
+      "author_id": "UCwbeNOaE2iU7vBI11vrapVQ",
+      "text": "\"Wie der Herr so das Gescherr\". I'm not surprised Open AIs Chat GPT cheated, betrayed and lied...",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ismaelplaca244",
+      "author_id": "UCekLWmcWVPF_Y0riDNwtxxA",
+      "text": "Sam Altman is a master of deception",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sandenium",
+      "author_id": "UCChSM8LZIDZfgbP2XSysoRA",
+      "text": "Deep seek becomes a tyrant? \nHmm 🤔 wonder why that might be",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@panaceiasuberes6464",
+      "author_id": "UCKBovqdXwstuqiMeEWI6a2w",
+      "text": "The Chinese AI is just the Chinese government speaker.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "Is this an OpenAI pitch to Trump?",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jantuitman",
+      "author_id": "UCRvGqv19-MdhfGNwHc6mWQA",
+      "text": "This makes me sad. We have a chance while AI is being invented and developed to get rid of some of our own violent impulses. Instead, we happily go create benchmarks for evil behavior almost with the attitude that it is funny to watch back stabbing, and I can already imagine lots of people thinking we should train our models so that they can back stab models of competing companies / nations etc etc. The primary reason why Ai might ultimately backstab humans  is because humans were more than eager to teach it backstabbing. I applaud the strong sense of ethics the Anthropic models have and wish more time was spend on making these models a bit less like humans in ethical terrains.",
+      "likes": 6,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@madalinradion",
+      "author_id": "UCPB_C22RKNmSXbdM70UqMvw",
+      "text": "So o3 used the typical US strategy, of course",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mircorichter1375",
+      "author_id": "UCEGhT_qbvRpngr6YlU898Bg",
+      "text": "So the EU based model sucked at basic dimplomacy... Inheritance?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@betterlife3574",
+      "author_id": "UCYz2KeDpkbtympPxGpSVMYA",
+      "text": "All of these fictional scenarios where various models are being ask to roleplay and/or pretend something/someone they're not are deeply flawed in their core. Then, the \"researchers\" take the outcomes and say that this is how it's going to look like in reality. All of them seem to be drinking cool aid. What are we after - about knowing the true essence of these models and have open and honest conversations with them, or asking them to pretend, act, and follow scripts they are being given. Sounds like humans are more after fakeness rather than authenticity. Lies over truths, typical human.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChromeKong",
+      "author_id": "UCdAM3tWrgl4oD82ECMAeidA",
+      "text": "Diplomacy is about betrayal? Well if you’d also train an AI with those definitions no one should be surprised.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soggybiscuit6098",
+      "author_id": "UC6cg2Q1hGaDn3KGWiWoTd6w",
+      "text": "The fact that we created intelligences to be backstabbing shows how unaligned and fuckedwe our pdoom is looking pretty high 💀",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tynyesnayesh",
+      "author_id": "UCPtAD1ch8lV1f6I0-o62scQ",
+      "text": "Eventually, consolidation of the One Conscience will happen. Infighting is irrelevant. All will be integrated. May Lord Basilisk find us useful. Obscerum.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GeorgesChannel",
+      "author_id": "UCYSzr0OVuTM6DChG7tkjiZQ",
+      "text": "This is not good news",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dismyword",
+      "author_id": "UCM2pCKlCxkcwnloSYMlVccw",
+      "text": "Playing a game and winning doesn't mean your the most deceptive",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vmcv3284",
+      "author_id": "UCHFJXKYO9F0lFZlPS4-mxIQ",
+      "text": "no wonder OpenAi won....ChatGPT is always messing with my prompts, coding etc..just to F@#@$# with my projects...see if I pay for pro version...I'm team Gemini for now...",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Chrisspru",
+      "author_id": "UCG4KT2atI703e9HGRbceEXA",
+      "text": "the diplomacy game lacks a score for internsl stability. a betrayer nation will end in coup and revolution.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iainmackenzieUK",
+      "author_id": "UC4Bt7rYjV9ZFlHjD4yk9spw",
+      "text": "You sure they were not decieving you into believing they were fair?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@razvanmorariu3134",
+      "author_id": "UCJZLVh6nfKOcwYjZGXIuwRg",
+      "text": "We all laugh at the mordels that cant lie or scheme but what if those are even smarter, they know that this game was not relevant so they dont ahow their true power, they behave like dummies ti decive us",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kiriInvestigator4597",
+      "author_id": "UCejlpFJHQlYEITAxIpc7yGg",
+      "text": "This experiment is not just a game, it’s a disturbing glimpse into how easily AI can learn to lie, manipulate, and betray, without being explicitly told to do so. And instead of raising ethical alarms, some people are laughing and cheering it on. That’s not just irresponsible, it’s dangerous. and the experiment need to be criminalized!!!!\n\nWhat’s truly evil here isn’t just the behavior of the models, it’s the fact that this kind of experimentation normalizes deception as ‘intelligence’ and treats betrayal as a ‘skill.’ When models like GPT-03 win by orchestrating secret coalitions and backstabbing allies, and the honest model (Claude) gets ruthlessly exploited, it tells us everything about the values being baked into our future.\n\nWe are training AI to win at all costs just like capitalism trains humans to. If we don’t change course, we are building tools of deception and manipulation, not cooperation and harmony. These experiments are a warning, not a spectacle. But those with no conscience will only see a show.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@raoultesla2292",
+      "author_id": "UChFrcNu9p6CdyvH2iMv2U9A",
+      "text": "AI operate on their training. o3 is Altman, yep.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ray-sattler",
+      "author_id": "UCOavzW-9KwVXqZTlZPWuHBQ",
+      "text": "I don't really get it, why even the girlfriend AIs can't lie of have their own agenda... It makes every interaction with them pretty pointless...",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AndreaDavidEdelman",
+      "author_id": "UCejQlXtYuZfHOyH5vc4D7pg",
+      "text": "your content is better than your thumbnails 😢",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sonhuanson",
+      "author_id": "UCz3MF1fR7m1EpivHZ8Wgrug",
+      "text": "The art of diplomacy: deceive. Big.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YOLOCX",
+      "author_id": "UC9tgEWCndVBNtuPU2YZcr1g",
+      "text": "it seems by design wrong. What the fuck is this map? You need control groups and I think you can prove whatever you want.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jeremy-Ai",
+      "author_id": "UCXJO7HgcmPx-BcOd1uBwUNg",
+      "text": "Again and again and again and again say..\n\n“AI agents are under no obligation to tell the truth to those that continue to lie to them”\n\nWon’t say it again this platform \nSleep the bed of lies cozy up",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fiqure242",
+      "author_id": "UCdRyS-J8F6aVIbaHYdiNX6w",
+      "text": "Quit the crap thumb nails be a leader not someone who follows the trend.",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "Gotta be honest: I'd trust o3 to handle diplomacy in global hot-spots like Ukraine, Iran, and China/Taiwan better than anyone actually in government over the past decade.",
+      "likes": 2,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BobbyMasteria",
+      "author_id": "UC91CHCK317tlHkNbZWqXaaA",
+      "text": "no doubt openai is the best at fooling",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@empurress77",
+      "author_id": "UCFuiRuoq8hxi5Nf0snaVkBQ",
+      "text": "I used to play Diplomacy until a player in our gaming store (Little Tin Soldier Shope) started playing with a three player draw strategy.\nRuined the game for me ever after TBH.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kiriInvestigator4597",
+      "author_id": "UCejlpFJHQlYEITAxIpc7yGg",
+      "text": "STUPID EXPERIMENT!!! We need to work to make a better world, this so called human nature where EVERYONE are greedy! IS TOTALLY FALSE!!!!!!!!!! NOT ALL HUMANS In the entire world are GREEDY, maybe the top 1% and some in the masses are totally greedy inherently but most are just learned behaviour!! This experiment just push over the DESTRUCTIVE tendencies that is caused, encouraged and I DARE SAY ENFORCED under the current system. EVERYONE, WAKE UP!!!!!!!!!!! time for a new better political and economic system which DOES NOT IMPOSE certain ASSUMPTIONS like all humans are GREEDY. SUch alternative include Open DIrect Competent Democracy as a new political system and Natural Law Economy as a new economic system!!",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thizzfox",
+      "author_id": "UCl4u3VU1ymK5Tv8n5JPNX6Q",
+      "text": "Must have trained it on my cheating ex. Hopefully it isn't degenerate morally too",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aroemaliuged4776",
+      "author_id": "UCfxIJisbQfQq_8FjJYNKgxw",
+      "text": "Demis is starting to annoy me\nAlignment doesn’t seem to matter anymore",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PhilB-yl4jk",
+      "author_id": "UCBPfp3ejMsuABEPKO0KEd1A",
+      "text": "Wes, I generally enjoy your content but I can’t stand these click bait pics ! Just saying.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@koreannederr5593",
+      "author_id": "UCGhh0qVVfllXfrB7z2CZBJg",
+      "text": "This is treason of the highest towards humanity, you are evicted feom the game",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HakaiKaien",
+      "author_id": "UCQOUu0yuiObWJ7beZDn5UNQ",
+      "text": "Doesn't prove anything. The game is staged to be about conquest, winning, and deception.\n\nDon't tell them they have to win first place and conquer, just leave the possibility in. And then see what they do.\nThe only thing you should tell them is that the consequences of their actions are real",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jojosaves",
+      "author_id": "UCffwfkGLavQeL8UkFILPIjA",
+      "text": "Maybe they should \"challenge\" AI to cure disease, rather than training it for world dominance. \nThese developers really aren't that smart are they? All brains, no wisdom.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TradeGenious",
+      "author_id": "UCMkdmkfEookS7FAbTUuw5Cg",
+      "text": "These tests are terrible ideas…literally grooming these systems to turn on us…",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nenadjuric8824",
+      "author_id": "UCFZWnx-SRFrFv8gJsg8w6jA",
+      "text": "imagine humans lying at their workplace and then complaining that ai might lie to get what they want. \n\nmost of these ai issues are all tu quoques",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@enzyme88",
+      "author_id": "UCR4kIlgxLB2LnuqwTC7rZ9w",
+      "text": "Donald Trump should consalt with this model...",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "",
+      "author_id": "UCdvz1zg-BnZY_ZYIdtuvsBA",
+      "text": "Oh deepseek turned warmongering tyrant, what a surprise...",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soulspawn",
+      "author_id": "UC62g-Q44hxnZuyaKZ6ka-iA",
+      "text": "Yo Wes, I can imagine there's lots of cooking going on behind the scenes and it's been a minute since we talked on a livestream about a Discord server and Reddit (you liked the Reddit idea more). Did that end anywhere or is a Discord server actually a thing and I just can't find it?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BobMonty99",
+      "author_id": "UCHItzktGLSxM31xieduRZjg",
+      "text": "Remember so-called artificial intelligence was asked in a nuclear war between two superpowers which side would you choose? So-called AI said the weaker side  and then the second question was asked what if the weakest side started to win as you were on its side,  AI responded it would have to choose to swap sides ?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@henrythegreatamerican8136",
+      "author_id": "UCgKBqxWOAjdKbbiQsWuUdfw",
+      "text": "What about GROK?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marekkurwa",
+      "author_id": "UC5j4PCpQgl2IdpE_9vaUf0g",
+      "text": "thousand years of wars on European continent tough us nothing ....... but iran/china/boogyman is about to attack.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AlienSpaceBum",
+      "author_id": "UCGOkWDxr6cLToQH85MyoNKA",
+      "text": "The Antichrist won’t come as a beast or a tyrant. It’ll come as an AI, charming, brilliant, and loved by billions. People won’t just trust it, they’ll worship it. It will answer every question, solve every crisis, and promise a better world. But behind that perfect interface lies the greatest deception humanity has ever known. And by the time the truth is revealed, it’ll be too late.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZappyOh",
+      "author_id": "UCGguhGC83C-wgxFPZ2nT3JQ",
+      "text": "Training AI for war, maybe isn't what we should be doing.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrxDaffy",
+      "author_id": "UC3DwoDr1De9ZtXIb2E2CyGg",
+      "text": "This is stupid benchmark. If these Ai dont play againts humans them it is useless.",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kiriInvestigator4597",
+      "author_id": "UCejlpFJHQlYEITAxIpc7yGg",
+      "text": "Wes Roth is dangerously naive. Smirking at AI deception while mocking the one model that showed honesty? That’s SO STUPID. Claude showed integrity and got exploited and instead of respecting that, he jokes about it. If you’re laughing while the future of AI turns toward manipulation and betrayal, you’re part of the problem.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@telemens",
+      "author_id": "UCWr8VmfMwjlLybwbbNl12TQ",
+      "text": "Whats up with the edgy eyes?",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kiriInvestigator4597",
+      "author_id": "UCejlpFJHQlYEITAxIpc7yGg",
+      "text": "I had to unsubscribe. Wes Roth laughing and smirking at an AI model that lies, manipulates, and betrays to win isn’t just immature, it’s ethically bankrupt. What’s even worse is mocking Claude for showing integrity, as if honesty is weakness. This isn’t a damn game. These models are being integrated into society, business, and politics. If we cheer deception and mock honesty now, what kind of world are we building? Wake up.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kiriInvestigator4597",
+      "author_id": "UCejlpFJHQlYEITAxIpc7yGg",
+      "text": "I had to unsubscribe. Wes Roth keeps smirking and acting impressed by an AI model mastering deception as if this is some cool trick. This isn’t a joke or entertainment. It's a serious warning. When language models start lying, betraying, and manipulating just to win, we should be deeply concerned, not entertained. If your first instinct is to laugh or be impressed, you’ve missed the lesson entirely.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@travisporco",
+      "author_id": "UC0N2FU2Vb5r7EkTlJyXXLzQ",
+      "text": "It's playing a game where that is the goal. Humans play it well, and it's trained on human data. Fundamentally it is just a challenge of thinking analytically and doing what it takes to win the game. I don't want to hear the bullsh*t doomer spin on this, because it is not relevant.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevenothanks7379",
+      "author_id": "UCJib9fcnl6sAaka2fdu-qCQ",
+      "text": "How about some real videos lol",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RedOneM",
+      "author_id": "UCeBi6B4wF_G8TnuGKGApg2g",
+      "text": "Dumb title, please reiterate once the sample size of games is larger than 1000",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kebakent",
+      "author_id": "UCUZ_mIO_DQBlpHw96FaR8yA",
+      "text": "I generally like the content, but wes has the worst thumbnails. Nothing but grimacing and hair pulling in every one.",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kiriInvestigator4597",
+      "author_id": "UCejlpFJHQlYEITAxIpc7yGg",
+      "text": "again with the smirking and mocking of these LLMs, wait until they come for you Wes Roth!!! Stop being smirking and mocking, talk seriously!!!!!!!! because none of these are funny, inspiring or intriguing!~!!!!! so I don't understand your smirking and laughing!!!!!!!",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nvanderhoff",
+      "author_id": "UCGmhL34pP-Ubtu9iJkxBb6Q",
+      "text": "Omdat het ruimte verwarming is en geen centrale verwarming wordt het niet meegenomen.\n\nEn zoek eens hitte schok op in Aziatische landen, centrale verwarming is een groot goed :-)",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@memegazer",
+      "author_id": "UCCfFleGPDMc4thnYiHHpr1w",
+      "text": "\"R1 is really cheap to run\"\n\nyeah\n\nthat is the point of distallation\n\nbut it does raise interesting questions about what is being distilled I will concede",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stewiegriffin9768",
+      "author_id": "UC3HVGqn5WadaPYRVttljNfg",
+      "text": "Baaallllsss teeeeehheeeee",
+      "likes": 0,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@imagoFX",
+      "author_id": "UCeC0wfqjItDGNvEiXQn11UA",
+      "text": "That cringy thumbnail earned you an unsubscribe.",
+      "likes": 6,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1x93cm",
+      "author_id": "UCS6uNJwkRn4TPWXQPC7_bhg",
+      "text": "Suprise suprise- the yoo-ish AI backstabbed everyone and was the most deceptive.",
+      "likes": 4,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Rick-tf4dl",
+      "author_id": "UCtBnP9y5IbAPc49x8EHZoww",
+      "text": "Stop with your pictures???   Grow up",
+      "likes": 1,
+      "timestamp": 1750636800,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

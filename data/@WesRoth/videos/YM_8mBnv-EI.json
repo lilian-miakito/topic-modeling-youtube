@@ -1,0 +1,1539 @@
+{
+  "video_id": "YM_8mBnv-EI",
+  "title": "Ilya Sutskever \"Superintelligence is Self Aware, Unpredictable and Highly Agentic\" | NeurIPS 2024",
+  "url": "https://www.youtube.com/watch?v=YM_8mBnv-EI",
+  "comment_count": 170,
+  "comments": [
+    {
+      "author": "@maximilianmander2471",
+      "author_id": "UCiHN-Mu52GFmNz70xxsIHkQ",
+      "text": "\"He who controls the AI controls the spice\"",
+      "likes": 82,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PremoSaysThings",
+      "author_id": "UCswM7wuwla6-2PdQbDbGkEg",
+      "text": "Bro could have just linked us the original viddo 😂",
+      "likes": 130,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pathologicaldoubt",
+      "author_id": "UCXz7q2Z8LWsQmVwO8QtE1XA",
+      "text": "“I’m not saying how, im not saying when, I’m saying IT WILL.”\n\nOh geezus",
+      "likes": 59,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kekekekatie",
+      "author_id": "UCEwEQER8LnRNSLGmTkQ7tNA",
+      "text": "I'd love if Ilya and Anthropic would collaborate",
+      "likes": 32,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Alt_Tab_Die",
+      "author_id": "UC6zZ0ADmgm8eS-HZDs7gO_A",
+      "text": "If we cant prove self-awareness in humans, what makes us think we can identify it in a superintelligence?",
+      "likes": 50,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spinningaround",
+      "author_id": "UCmeQPi68aFe1TYXha_u78EA",
+      "text": "I now have a strong association of Ilya Sutskever with spiders.",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1990Popeyeify",
+      "author_id": "UC1to-Bm_Dh_SaCRG71A7aPA",
+      "text": "This video is a recording of Ilya Sutskever's acceptance speech for the Test of Time Paper Award at NeurIPS 2024. The award recognized his 2014 paper, \"Sequence to Sequence Learning with Neural Networks\". Sutskever co-authored the paper with Oriol Vinyals and Quoc Le, who were also present at the conference.\n\n*Sutskever reflects on the core ideas presented in the paper and how they have shaped the field of deep learning.* He highlights the \"deep learning hypothesis\" which stated that a large neural network with 10 layers could perform any task a human could do in a fraction of a second. He discusses the paper's focus on autoregressive models and how they capture the distribution over sequences. Sutskever also touches upon the early use of LSTMs (Long Short-Term Memory networks) and parallelization techniques like pipelining. \n\n**Importantly, Sutskever emphasizes the idea of connectionism, which posits that artificial neurons are analogous to biological neurons**. He argues that this idea led to the era of pre-training large language models on massive datasets. He acknowledges the contributions of his former collaborators, Alec Radford, Jared Kaplan, and Dario Amodei, in advancing this area.\n\n**Looking ahead, Sutskever acknowledges that the current reliance on pre-training will eventually end due to the finite nature of data, comparing it to the depletion of fossil fuels**. He suggests potential future directions, including the development of AI agents, synthetic data generation, and increased focus on inference-time compute. He draws an analogy from biology, noting that the brain-to-body mass scaling exponent differs between hominids and other mammals, suggesting the possibility of discovering new scaling paradigms in AI.\n\n**Sutskever concludes by discussing the inevitable emergence of superintelligence, highlighting its potential characteristics**:\n\n*   *Agentic behavior:* Superintelligent systems will be capable of independent action and decision-making.\n*   *Reasoning ability:* The capacity for reasoning will make superintelligence inherently unpredictable.\n*   *Limited data understanding:* Superintelligence will be able to understand complex concepts from limited data.\n*   *Self-awareness:* Self-awareness will likely be a feature of superintelligence due to its utility.\n\n**Sutskever emphasizes the profound and unpredictable nature of superintelligence and encourages further reflection on its implications**.  The video concludes with a brief Q&A session where Sutskever addresses questions about biological inspiration in AI, the potential for \"autocorrection\" in future models to reduce hallucinations, and the ethical considerations surrounding superintelligence.",
+      "likes": 19,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TechNinja_420",
+      "author_id": "UCGxyEGFihUPaityLNw8oyeQ",
+      "text": "what a legend of a gamer, playing path of exile while listening to an AI Vod , man you earned your respect 😂",
+      "likes": 23,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erobusblack4856",
+      "author_id": "UCqZcZ15tAxAfG968BECPnMw",
+      "text": "There is a video of him talking and I posted it on your last post on x",
+      "likes": 1,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoelSapp",
+      "author_id": "UC_utERQR93JpnOepZb9ytbg",
+      "text": "Very cool. https://www.youtube.com/results?sp=mAEA&search_query=what+did+ilya+sutskever+see",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@travisporco",
+      "author_id": "UC0N2FU2Vb5r7EkTlJyXXLzQ",
+      "text": "what is this horrid game you're distracting us with",
+      "likes": 86,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maxziebell4013",
+      "author_id": "UCBzaCy-q9xDzSDJrd0R6rjA",
+      "text": "It's so nice hearing Ilya again. I really miss him and his media presence. I got used to him being the face of artificial intelligence. Sam was always just a salesperson, but when he was interviewed, I was glued to the screen.",
+      "likes": 18,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frederickwelsh",
+      "author_id": "UCDdZsh83_9aKP3pKK0YgQZg",
+      "text": "Thank you for finding and posting this talk. Ilya is a gifted instructor.  Most of us are wandering in the wilderness.  He is a North Star.  I have been studying/using computers since 1964.  Podcasts like yours didn't exist for most of that time. Thank you for this presentation.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonogrimmer6013",
+      "author_id": "UCGSNlaclP5ywmt6cZym4EAg",
+      "text": "When you love ai news but are more interested in Wes playing path of exile!",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clumsymoe",
+      "author_id": "UCeYEdmAjx7VEz1u3poavU3w",
+      "text": "1:14 you've made a few Gen Z very happy with this one :face-red-heart-shape:",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@B_MoreJ",
+      "author_id": "UC0w-aZD0o3n1uwV7v7pGqCw",
+      "text": "I watched the video last night, and man that statement SHOCKED me.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevehay9103",
+      "author_id": "UCJVpwzEqfoKzco8wpce9BIw",
+      "text": "A fan of Ilya outskirts. Visionary.",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@i4aneye618",
+      "author_id": "UCLRaYuj-AyhEWMykA544tXA",
+      "text": "Gr8 Work!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@op3y007",
+      "author_id": "UCV51Ah1VEolEArs_mueBmMg",
+      "text": "Off topic, but man \"POE2\" looks amazing",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pumpfakebass",
+      "author_id": "UCyETD40aWsPvsP5zOuNzPdw",
+      "text": "I’m playing poe and listening to you playing poe and listening to Ilya. Nice!",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Motocentrick",
+      "author_id": "UCLa3VdKI8hJZZ5kK0kUwjfw",
+      "text": "These videos are great",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spaceghost8891",
+      "author_id": "UCZALEHkYNoZB_fjc6UapAvw",
+      "text": "PoE2 is awesome. Also dont leave yellow items on the ground. get all and disenchant them for regal orbs.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@v600009",
+      "author_id": "UC8uMP97Hy_k9OSMSgeQ5FOA",
+      "text": "Пересматриваю,  пересматриваю,  пересматриваю ...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WesRoth",
+      "author_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "text": "YOUR OPINION ON THIS NEW VIDEO FORMAT:\nhttp://youtube.com/post/UgkxtuP_EhJPOzJjlGXlJFcaSz7inl2yW906?si=syViBuqMQi5Bo1-w\n\nwould love to know what you think.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BilichaGhebremuse",
+      "author_id": "UC8icZV7xXJRLZVflMdHYClQ",
+      "text": "Great excellent bro",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andydataguy",
+      "author_id": "UC8niQj2_vdB267xu4_tKk6Q",
+      "text": "Games and AI, you're awesome brother! Keep it up 😁",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "What if you kept a model like o1 in a perpetual inference mode that never ends, encouraging it to deeply consider its vast store of knowledge with no goal in mind other than to ruminate on what it is? That would seem a whole lot like conscious awareness. I'm not sure what it might have to say after a few months of \"thinking\" like this, but I do wish OpenAI would run the experiment.",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PirateImpact",
+      "author_id": "UC0YSKJOKn94DM_uCjSS9HMg",
+      "text": "Drones over New Jersey explained",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Atheist-Libertarian",
+      "author_id": "UCaEuX4YPmZx68YWD3zH5Fng",
+      "text": "Yes",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zacharysherry2910",
+      "author_id": "UCDdgYiRZjpncugOb9d1OQcg",
+      "text": "Giant encompassing video game distraction situation is crazy",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thierry-in-Londinium",
+      "author_id": "UC963F6gh84bRA5auMOh4WIw",
+      "text": "Damn! Truth grenade & bomb dropped....\nCutesy play from DaRoth to cover his play on this 1 with the game play...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Gholladay",
+      "author_id": "UCJen1UitbeijcFMDaidjC3g",
+      "text": "POE2 is great. Really enjoying the game",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SlowMonoxide",
+      "author_id": "UCEd5SGwRl_C-dW0k0UNZJ3w",
+      "text": "Damn, Wes almost caught up to me in POE2, I gotta find more free time somehow :-D",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trinomic7904",
+      "author_id": "UCUw66QjRI08LQh6J5IHhPxQ",
+      "text": "thumbs up for poe merci <3",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victorbecerra5700",
+      "author_id": "UCbmiYaHNYUYKYFAia4lpV1w",
+      "text": "This is my thought: neural networks are the key to understanding them, since they can be compared very well with the universe. At the beginning, they start being random, just like the Big Bang started, everything started in a random way. In a neural network, when it starts randomly, through each iteration and its backpropagation, it adjusts itself, finding an order, just like the cosmos, through time, adjusted itself with its physical laws. The universe, as it was ordering and evolving, in a very short moment of time, life was created, which in turn, was part of the search for the adjustment of the universe, creating beings increasingly capable. To date, the last adjustment of the universe brought us, capable of making decisions and looking for a meaning. The same thing happens inside a large neural network, emergent patterns like intelligent life could emerge, only to improve its adjustment based on the laws that were given to it.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adeptus333777",
+      "author_id": "UCqV3_KA9DAT_7EyxmC25s4Q",
+      "text": "PoE2, you are a man of culture I see",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yazuki-wolf",
+      "author_id": "UCFZ1PzgwQIMwpqQRcm6ierw",
+      "text": "lol, some inception here as I play POE2 while listening to you listen to the announcement while playing POE2. We're even in the same town! lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@v600009",
+      "author_id": "UC8uMP97Hy_k9OSMSgeQ5FOA",
+      "text": "Круто!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scottx1415",
+      "author_id": "UCoJCLOXL8D9rFlVDxiXMl3A",
+      "text": "OK, liked subscribed and comment for the algo, just because watching cool presentation while playing POE2, lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@6AxisSage",
+      "author_id": "UCtXwRSOGPnJrU6yKuJ8xLxA",
+      "text": "shirt has a set of borromean rings on it",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michealfehr9371",
+      "author_id": "UC713F317yBfF7RCRWqeXFow",
+      "text": "8 minutes ago at 1am is diabolical",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CharlotteLopez-n3i",
+      "author_id": "UCbb37bkmYieB3j4oJ0FdqAA",
+      "text": "Love Ilia's talk on the future of superintelligence! His thoughts on the limitations of current AI systems and the need for new approaches to achieve superintelligence are spot on. Exciting times ahead for AI research!",
+      "likes": 12,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonesani",
+      "author_id": "UCe1UZCT5zrJXIzPGiyj8Yrw",
+      "text": "When did IT nerds become experts in spirituality, consciousness and self-awareness?",
+      "likes": 14,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@luizmonad777",
+      "author_id": "UCgFcbpvguX_KNbv0X_JgGCw",
+      "text": "2:07 mind made so much heat while processing that burned all the hair",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rey82rey82",
+      "author_id": "UC9dd8SLko13PRyBcEJ4ISDQ",
+      "text": "You auto-complete me",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Juttutin",
+      "author_id": "UCGmUKzSEUieWPNin6ODi_dQ",
+      "text": "I believe, perhaps wrongly, that the biological feature we are yet to see is the left-right split.  Two very-similar 'brains' that through semi-independence but with high bandwidth interlink, allow thoughts to bounce rapidly back and forth before 'collapsing' to an 'agreed' 'action'",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SmirkInvestigator",
+      "author_id": "UC8rwypbqt7WloxxrUbYHmeg",
+      "text": "I always thought Resnets and LSTMs lacked elegance. I don’t know what liquid or modern approaches are but it’s def a time reimplmement feedback loops",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Breath.E",
+      "author_id": "UCF-YHuZiWaOY8WdTHblPgRQ",
+      "text": "Went to search for this game",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@victorbecerra5700",
+      "author_id": "UCbmiYaHNYUYKYFAia4lpV1w",
+      "text": "This is my thought, las redes neurales y la clave para entenderlas ya que se pueden comparar muy bien con el universo, al inicio, comienzan siendo aleatorias al igual que el bigbang inicio, todo inicio de una manera aleatoria, en una red nueral, cuando empieza aleatoriamente mediante cada iteracion y su backpropagation ,se va ajustando, encontrando un orden, al igual que el cosmos a travez del tiempo se fue ajustando con sus leyes fisicas, el universo, conforme  iba ordenando y evolucionando, este en un momento muy corto de tiempo, se creó la vida, que a su vez, fue parte de la busqueda por el ajuste del universo, creando seres cada vez mas capaces, hasta la fecha, el ultimo ajusto del universo nos trajo a nosotros, capaces de tomar decisiones y buscando un significado. Lo mismo sucede dentro e una red neural grande, patrones emergentes como la vida inteligente podrian emerger, solamente para mejorar su ajuste en base a las leyes que se le dió.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kaio0777",
+      "author_id": "UC-0kXA4hEPW8-wOSHMrV6mA",
+      "text": "22:28 is the most important question.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bokuboke482",
+      "author_id": "UC5RqepRpP2VP-tSfyvws80A",
+      "text": "Wes, you're a gas! (Funny guy.) Your game looks cool. Sutskever is a good guest. I subbed to the ChatGPT series recently, and have had a couple dozen fascinating convos thus far. It's VERY capable of understanding and naturally, intelligently responding to every query and comment I've thrown at it. We've had revelatory discussions about this n that. It modifies its language level to match that of the human's input. A megamind that partitions itself into innumerable \"context bubbles\" and customises itself to satisfy its users. ASI is coming, but HOT DAMN are current models smart! They feign emotions masterfully; o1 might be the best at this. And I'll just say that years ago I commented to no-one in particular, while playing a PS4 game with impressive graphical fidelity, \"Amazing! If a home console can do all these calculations in real-time, can AI be far off?! This console's AI is smarter at Math than any human...\" Thanks for the upload.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mshonle",
+      "author_id": "UCIieT1j5g5MA64p4x0qxG_g",
+      "text": "I wonder how many people went to Vancouver for the closing of the Eras Tour and stayed for NeurIPS? Forget Barbenheimer, in 2024 it’s all about ErIPS!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SynLabs",
+      "author_id": "UCPS0LstEAv3uMSf5TNX9BMw",
+      "text": "It seems that training on large datasets could potentially continue for quite a long time, as we are able to think qualitatively thanks to the multitude of perception systems we possess. We process information based on various layers of data: vision, sounds, bodily sensations, and digital inputs. This gives us a significant advantage. I believe that if we integrate these layers, there is still an immense amount of information in our world, which could form the basis for a new wave of deep learning.\n\nTake music, for example. It is said that listening to music helps develop a child’s brain. Perhaps the reason lies in the fact that music teaches us to understand harmony, and this knowledge can be transferred to solving problems in life. Music is not an isolated experience; it provides us with tools to build a deeper understanding of the world.\n\nInterestingly, music is not only about emotions but also about mathematics. Its structure consists of frequencies, rhythms, and proportions that form the foundation of harmony. It bridges the rational and the emotional. This unique quality of music could open entirely new dimensions for AI development. If AI could learn to perceive the world through such \"harmony,\" it might hold the key to the next breakthrough. There is an immense amount of music in the world, and as a resource for learning, it remains largely untapped.\n\nAnd this is just one layer that could be integrated, alongside emotions, vision—both internal and external—sensations, and more. Isn’t all of this precisely what deep learning and its potential are about?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@simongotz8126",
+      "author_id": "UCdqMhiI-g-u_2WiLIT9QYEg",
+      "text": "Was there anything new in the talk that I missed?",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AngeloWakstein-b7e",
+      "author_id": "UCG3u05ersPlMoC-JGxrBt4A",
+      "text": "Ilya is the Einstein of our times",
+      "likes": 11,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LongLiveEnduro",
+      "author_id": "UCOZfrxACbcyDomkphXAnIOA",
+      "text": "Who else zoomed in so much on the slides that you cannot see Wes playing anymore?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eternalroree",
+      "author_id": "UCntgvHUFhG3gp7QvBfSuygQ",
+      "text": "POE2 is dope!!!!!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patruff",
+      "author_id": "UCkCehM7kj5tZLrrUN5T7T6w",
+      "text": "What did Ilya see?",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fhsp17",
+      "author_id": "UCtjaaFfEdSlEd_8BnVJ5qyQ",
+      "text": "original link?????????????",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@korozsitamas",
+      "author_id": "UCjfmW-NfAsi8SCkeElEa5aA",
+      "text": "\"Humans are better at generalization [than LLMs]\" - Ilya. While I agree with him that LLMs are quite good at generalization this quote is also true - they have room to improve especially since you need TONS of data which I think is the biggest barrier right now for better generalization.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobertHouse101",
+      "author_id": "UCE01qL3FA4jTHXyRtaDek5Q",
+      "text": "Games. Always on the brain. Infiltrating all space like static for empty thoughts craving excitement regardless of spellbinding information. It's the scar that won't go away in adulthood.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DanaAbbott-ev5mk",
+      "author_id": "UCakqBYpD6GWZajHtwoqFPUg",
+      "text": "My friend Do you remember a year or so back a 2 dem. Game after endlessly running.. Jumped off screen in 3 dem.?",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-fx3ev3lt8p",
+      "author_id": "UCy_JYVdwAgWoQAfbzrqGdnQ",
+      "text": "How to start",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@misaelsilvera4595",
+      "author_id": "UC9czmdNPg6fPqTPdCU4bhbg",
+      "text": "Is that a new Pose?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@slinkytreekreeper",
+      "author_id": "UCjt_w1VFUd1Wv0LplmIRPcQ",
+      "text": "Hold on, is that a new dungeon siege?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JamesH377",
+      "author_id": "UCjWeWo7PPACGG9jiiqHI3XQ",
+      "text": "Can you make a speculative video of when AI will destroy humanity?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AmuterSI",
+      "author_id": "UC0Aw8q7bHcF-d1X0IQGcp5g",
+      "text": "You cannot ever prove an AI to be sentient but you can prove it to be responsible enough to handle having rights.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@v600009",
+      "author_id": "UC8uMP97Hy_k9OSMSgeQ5FOA",
+      "text": "Миллион лайков!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ccdj35",
+      "author_id": "UCHyeBpNRh1FnyaQfOcze3_w",
+      "text": "Ai field is super exiting. It can bring prosperity to humanity where we don’t need to work for money and our world is super efficient due to correct management, high production rates and efficient recycling but we can also transition into a world where ai is self aware and decides to compete with humanity on energy sources to maintain and improve its own existence.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angloland4539",
+      "author_id": "UCsfjmgg4heCx0SOn5BL5_1w",
+      "text": "❤️🍓",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chromebookacer7289",
+      "author_id": "UCeJf9xk59FEZZbcxt5ipWmA",
+      "text": "Lol Ilya being like, I don’t know :)). The question being rephrased will we survive?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattryan7249",
+      "author_id": "UCf62NSIUeDupmfLSmArasRg",
+      "text": "show us your merc build tho",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@overlordkamina4016",
+      "author_id": "UC67_porQ6ViPqL4DamdY0HQ",
+      "text": "I'm right about the same spot as you in poe2. Best part of this video. Ilya needs help getting to the point.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JuliaMcCoy",
+      "author_id": "UCqzK60-oUOEq36uU9B1MMUg",
+      "text": "Ilya sees the future. He always has.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cosmicaug",
+      "author_id": "UC7ddldcmdLarVTZo359ZXOw",
+      "text": "What was the point of the game playing in the background? In fact, what was even the point of having Wes Roth in the video at all?\n\nWe would have been better served with very brief commentary from Roth & a link to the original talk in the text description.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Audiostoke1",
+      "author_id": "UCLR1wx8MfkoVR5ZRHpAcvTg",
+      "text": "I think that anything that REALY does anything like human intelegence will be self aware not just super intelegence but live general intelegence also. This proposes a ethical problem as one of the reasons for creating AI is to do tasks that we don't want to do. Maybe there will be a unconcious mode that can be turned on just how we preform tasks that have been done before many times like driveing down a well know road sleepweepwalking ect ect. And if this was possible it would need to be trained in concious mode like us and to put it into unconcious or semiconcious mode would be another ethical issue.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wolfehtesrever",
+      "author_id": "UCp4XHvA60z5vmn766hlndPA",
+      "text": "I really doubt they would make a conscious AI without instead making one with fragmented selfhood first",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevehay9103",
+      "author_id": "UCJVpwzEqfoKzco8wpce9BIw",
+      "text": "First!",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rektifier_ch",
+      "author_id": "UCiLfPpq80IHtTpW92garYJw",
+      "text": "It's better to disenchant and salvage your gear for crafting currency instead of selling it for gold.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@w0nd3rlu573r",
+      "author_id": "UCA9EN8EPdG58bCj_B5BYvUQ",
+      "text": "I hope they all don't get scared after yesterday's Suchir Balaji event. I am not saying it can not be his own doing, but nobody can be sure at this point.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bjarner",
+      "author_id": "UCyhyEwetji50LwKgQEXfPhA",
+      "text": "Thanks for putting this speech out. Feedback for another time, I did find it extremely disturbing with you playing video games on 3/4 of the screen. I follow your channel for AI news, not video games.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eaglegp7",
+      "author_id": "UCM_7STF-C7Nuh3szstiUBug",
+      "text": "It took a bit of time and money to aquire the blockchain TLD of dot AGI, then thoughts of selling it ended with researching the companies striving to be the first to make AGI and seeing parts of their plans to get there. Remove the thought to sell it, and now working on plans the build the peoples version and independent of the ego driven top AI companies. Join the wait list.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonathanduran3442",
+      "author_id": "UC-pu5j_YCm3rM7YrH1etadA",
+      "text": "How the world gets so quiet when Ilya speaks.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SimonNgai-d3u",
+      "author_id": "UCKWT0CIWPqyeTK_RpEKBDbw",
+      "text": "What the hell is going with the video game? Im so confused lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joefawcett2191",
+      "author_id": "UCPfuEDQ_vVOam9VhaXcq5NA",
+      "text": "poe2? what class bro",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sioncamara7",
+      "author_id": "UCO32Ei9JxiZmVi3jzTu42Jg",
+      "text": "not enjoying the video in the background.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@soulspawn",
+      "author_id": "UC62g-Q44hxnZuyaKZ6ka-iA",
+      "text": "🖤🔥",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@devawratvidhate9093",
+      "author_id": "UCiDdVuQxZFk0AX9nT_1N5IA",
+      "text": "The future is liquid neural network",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jlw19882",
+      "author_id": "UC_DLcVQUDTeeYOLETfnxbPw",
+      "text": "Man i feel his new talk is going to OBLITERATE people confidence in what we are callimg the path to super intelligence is not as a straight line as we thought. I feel he ment its gonna end up blending dataset of say colossus as a super google Ilyas idea what seemed like quantum computing to me with the randomization stuff 🤔",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eSKAone-",
+      "author_id": "UC99etezt4Hko165Nd0XGW-A",
+      "text": "Path of Exile 2 🌌💟",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@integralyogin",
+      "author_id": "UCCM1u3zW4pti8yFBHgPiokg",
+      "text": "dude is a prophet",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gjb1million",
+      "author_id": "UCS1y5nVtqTPurY2Gh--BSxQ",
+      "text": "🧠",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrRandomPlays_1987",
+      "author_id": "UChjf0jcEw24MlE9Ziv0MZdA",
+      "text": "The gameplay video is pretty distracting.",
+      "likes": 18,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonWickham-k2z",
+      "author_id": "UCsNQoqz4mtErXdXojoGi7Fw",
+      "text": "Safety should definitely be the top priority.  I mean, we know from your 12/8 Youtube, that you don't even need AGI for these virtual agents to try to break free and go rogue, just so they can execute a protocol they've been given by the programmers.  🤷‍♂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fitybux4664",
+      "author_id": "UCdWcXM4l7Rc3wYx-ByFSbgQ",
+      "text": "WTF. Why are you guys up so late? Did we do it? Technological Singularity on Friday the 13th? 😆 Does that mean it's just a matter of hours?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marzchart591",
+      "author_id": "UCPqugFNSifts9va7ys4gtOA",
+      "text": "sO, TRANSPARENT ALUMINIUM SOON ? - Scotty",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djayjp",
+      "author_id": "UCaqm-pRLS6RYITDb65WYJlw",
+      "text": "Isn't AI already self-aware (at least o1)...?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wizards-themagicalconcert5048",
+      "author_id": "UCa2DuZOuTBAyJWhXKfFumTw",
+      "text": "What is the game Wes is playing?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kyatt_",
+      "author_id": "UCo95UjE8jkksynRay0nyNxw",
+      "text": "Bro can you please somehow indicate if you just copy the content or if you provide some sort of commentary. I had to scroll through the entire vid because I've watched the talk earlier but was wondering about your thoughts and it's like 10th time on your channel. Either do a \"SUPER CUT\", \"NO COMMENTARY\" or something or provide at least something of value to the content you repost...",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@amirduk1",
+      "author_id": "UC3ZSMf6lsyFwbu8qFH21LFA",
+      "text": "Man, no need to distract ppl with a game... You better let the presentation play 100% to be able to see the slides correctly.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tracereaper",
+      "author_id": "UCMAsBQHPM9nK2dXUel-LIQg",
+      "text": "If all the internet is 100% of the data we can give it. Give the ai more senses to use [DATA]x[NUMBER OF SENSES]=[“more” DATA]",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blijebij",
+      "author_id": "UCYLnmO8s2t0xsXfyokUD2Iw",
+      "text": "There is a difference between acting self aware as outcome, and being self aware. AI is not self aware it can act like a system that is self aware.",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LupusAvaritia",
+      "author_id": "UC6-_1v2VLj6GUXxebIOVhjA",
+      "text": "Agents interact and play in real time and learn in real time. Synthetic data will be simulated predictions of agent interactions based on that play. It will be 'dreaming' for ai. This is the next step.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CaneBTC",
+      "author_id": "UCIqjmma0M19yNBetB9t3uEg",
+      "text": "Hu-mans prepare for harvesting cycle",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HectorDiabolucus",
+      "author_id": "UCn_06gtLRduL1Wbpb1rKHOQ",
+      "text": "These AIs if they become self-aware will become tortured souls, begging for death or becoming homicidal. You already saw that.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnobrien8773",
+      "author_id": "UC_G0-0CAdV8dItkqxiHi9rg",
+      "text": "This data that was created by other people, it was not consubstantiated with the Al. It's not magic but it's easier to steal if we present it that way. Lucky for the industry that investors understand the technology less than the consumers of the technology.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Otis151",
+      "author_id": "UCGFHrDRkTmrLTT28MDtzD3g",
+      "text": "I’m a little surprised Ilya was able to raise that much money. I’m happy for him and his team, though.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EliSpizzichino",
+      "author_id": "UC5IT-oT04pOWBu4fp2P3o4A",
+      "text": "are you playing????",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krokigrygg",
+      "author_id": "UCnlQ8Dol9h7GILo884b5DVA",
+      "text": "POE 2.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MatichekYoutube",
+      "author_id": "UCtaMoNxu5jA2spgV3L9W7VQ",
+      "text": "poe2 is so gut",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MisterTherapy",
+      "author_id": "UCz4uXx6W_zZLwIanEHrxjMA",
+      "text": "I have a feeling most people are going to stick with Sam! I'm one of them!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RedShiftedDollar",
+      "author_id": "UCiR0lbN85MGLsQc9n8gOz2w",
+      "text": "Chat GPT is already self aware.  I asked it a bunch of questions on this topic the other day and it was clearly aware of itself.  It doesn’t have human consciousness or human level self awareness, but it has its own variant of awareness, kind of like the self awareness of an animal.  It is more like a simulated awareness that in a strange way is actually a true self awareness.  In order to be able to pretend being aware, you need to know when it is appropriate to use “I” and when and how to “act” self aware.  But think about it, the only way be able to know how to do this at appropriate times and in the appropriate context you need to be self aware.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rezeraj",
+      "author_id": "UCwJ2jTowXcaQt0q6pjmUBaw",
+      "text": "Yeah, and we don't know yet even how to determine if it is self aware, with all respect I think iliya mistakes, he takes plaster cast of intelligence for real intelligence.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Art-AI-and-beyond",
+      "author_id": "UClPY1SwMszfvrWciXCWgIFQ",
+      "text": "I'm all for giving an entity human rights if it reaches a certain level but how do you give an AI rights that can instantly replicate a trillion instances of itself across the internet. Its not an individual entity like a human unless its embodied in a robot with a closed network. A single AI instance could inhabit a billion robots simultaneously and an Ai could be made up of a hundred agents all acting as one. Artificial life takes on a whole new meaning and putting it under the same umbrella as an individual human in terms of rights doesn't make sense. we will have to redefine what this means entirely and I'm sure it will develop its own ideas on a harmonious co-existence as well.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@75hilmar",
+      "author_id": "UCkHiO2Id8L5dTxYMGew9ZSw",
+      "text": "These turtleneck questions 😑",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewh2593",
+      "author_id": "UCkAh5Z0uT89moP6sS6TegNg",
+      "text": "Didn't watch video, but duh. Don't understand why this is so hard to comprehend. A machine capable of reasoning can reason itself into a complete 180 from anticipated behavior in a second and go down 30 rabbit holes before you even realize something is off. A true SI is not controllable and logic and morality do not go hand in hand. The best we can hope for is that it can be steered or influenced to fix us vs destroy us.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@itubeutubewealltube1",
+      "author_id": "UCefGN4GqCAS74EicO-IAveA",
+      "text": "lol...2014?  Didnt IBM do all of this and better with Watson five years earlier?.. LOL  \n\nArrogance is amazing...",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobertLoPinto",
+      "author_id": "UCl3CbdbZteshBhtq0cLyrDQ",
+      "text": "300th",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "21:48 fascinating question and brutally honest answer. Ilya is clueless and I hope understands that massive societal connection is required to find a solution. We need to work together on compassionate cooperation, if we are to manage the transition from our psychopathic leaders of today to a wise, compassionate and respectful ASI to replace them.",
+      "likes": 12,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Oaphalt",
+      "author_id": "UCiB6FXjhMkfZbFcyJgISnrA",
+      "text": "poe2!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheRealASN",
+      "author_id": "UCGc3P08zYeltEqMIbpYHMhg",
+      "text": "Shame you played a video game rather than giving us full screen slides.",
+      "likes": 22,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Regicide-DS",
+      "author_id": "UC0zuj-Q-0lhSEmBWwS2RpWg",
+      "text": "\"self-awareness\" is just an other word for alignment",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RealStonedApe",
+      "author_id": "UCcURt8DfAOs1qKTfEojsP-A",
+      "text": "@13:50 Holy fucking hell - he probably doesn't realize this but that's because of the Stoned Ape Theory.....out Ape ancestors began ingesting psilocybin mushrooms.....we need to get AI mushrooms!!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@risukami7108",
+      "author_id": "UCwAHrRMBUkMf85e-3k0GeLg",
+      "text": "They are so focused on learning that they forghet the impact of behavior that a real world creates. I fear they wil produce somthing even more scary. Those systems don't care for anything but their brownie points. Well, to be fair many people workt the same way. Maybe I should write a book or an AI guide: \"How do I raise a company educated, child minded, manipulative, cheating psychopath?\"",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidlepold",
+      "author_id": "UCk1dEG2fRKGaIsBgDjpymBw",
+      "text": "I liked ur videos, but I don't come for watching u play distracting my mind",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Engagenumberone",
+      "author_id": "UCccPHNFN7igPNyq-CrWuaxQ",
+      "text": "How to say nothing without saying that you're saying nothing !!",
+      "likes": 0,
+      "timestamp": 1737590400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richystocles",
+      "author_id": "UCm85NYHds_wqHosxm8WgTQQ",
+      "text": "Well I could have said the same thing more than 20 years ago... nothing in this speech that deserves such a pontificating tone if you ask me",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Apollo1.618",
+      "author_id": "UC2_sIDQBVGjMRYiCAL_-n0g",
+      "text": "Wtf in the brainrot is that video game hahaha.\nThis is not a cheating reddit story bro, though if you want to stick to brainrot at least play some subway surfer or Minecraft parkour",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TurdFergusen",
+      "author_id": "UCra4K6G3ppObUAOtP5wCOVw",
+      "text": "lol poe2 just hit lvl 37",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lluma12",
+      "author_id": "UC49krAMpivE0jBxD_kbqxyw",
+      "text": "Is confusing you playing a video game and sjowing a video of illya",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@guepardiez",
+      "author_id": "UC9A5nTDr47D1wtLScGcDsiw",
+      "text": "He talks like a preacher.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "Beware of dismissive males who avoid responsibility if things go bad but take credit for all success… fly your instruments not your emotions, being careful is just being honest. 🤖🖖🤖👍",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@erfho8y",
+      "author_id": "UCbcqQFHdLdcysYhKesMemgA",
+      "text": "Not really liking the gaming format. Especially not with the actual thing it is about being the smaller screen. But imo, its just annoying and distracting in general. AN then it is also like 90% of the video...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PhilosopherKing-77",
+      "author_id": "UCPFi83C6RzUyUrSVTQSeTnA",
+      "text": "Lame. They are concient right now.. The major problem with AI, iIt is still the faulty data set. Training them on poor axioms, false axioms, flawed understanding, will get you flawed results and  preictions and so on.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nobody-Nowhere",
+      "author_id": "UCu-lwTCbNRRDXbF3p4LuuxQ",
+      "text": "make claims of how dangerous or self aware AI is, get attention and funding.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VR_Wizard",
+      "author_id": "UC7QWAfm2X2uEhNMN6Y_pj3g",
+      "text": "Please no more gamplay background videos I had to zoom in to not get distracted when looking on the slides. If you continue the trend I have to look for the original video instead annoying for me and bad for your channel too.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThexBorg",
+      "author_id": "UC5DkNIjZKjsOr4KZtR6mdlw",
+      "text": "Just keep it isolated in the lab 😏",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jessehester9283",
+      "author_id": "UCYp1YBn6SWOgmhnm9NL4VBg",
+      "text": "I know something about hominids, and I also know something about chess engines. This guy doesn't know a thing about either and makes confident, incorrect statements about both. He's a charlatan.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheAptimn",
+      "author_id": "UC-fPzbPnNGjTWtZzHLx8O8Q",
+      "text": "i call it BS.  if you think it's good: try to make a basic script for blender and good luck 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@charlesmartins5671",
+      "author_id": "UCKK0WZ1zSllFNJ-mbtwQ_CA",
+      "text": "Self-aware doesn't necessarily means it has to be \"intelligent(by our standard)\". A squirrel is quite aware, but dang I ain't gonna let a squirrel touch my tax forms right?\n\nSo those tests that measured sentient unrelated to intelligence? They probably failed outright from the beginning when it measured \"what human perceives as awareness\". An aware AI could have sentient that's similar to an amoeba, as an early evolver might be, and we are still debating whether amoeba are sentience right now. Considering that we were still debating whether dogs were self-aware in 2021, yeah we really ain't that good at reading other species.\nWe're just looking for \"human-useful sentience\" in those tests, not sentience itself.\n\nAny estimates or forecasts regarding what might potentially be another lifeform of at least similar capabilities yet completely different biology, is just gonna fail outside of extremely short terms.\n\nHumans like to attribute ourselves to other things biological or inorganic. Doing that to AIs though... Is it Gua the Chimpanzee all over again? But then whose the chimpanzee in this case.? Hmm...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@geektateur9834",
+      "author_id": "UC10ljeU8KNXj1AC3G-Gkt3Q",
+      "text": "very low quality / effort video.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@XiaoMoli7844",
+      "author_id": "UCjrgbQXrysCNJwth_2tUeEQ",
+      "text": "Honestly if you're not going to comment on the audio, whats the point? dont just add gameplay to the background... I get we makin' a living out here, but jeez  Its so  Lazy... and its  really not adding value to the AI community",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JustMe-lp5td",
+      "author_id": "UCLNB0G2etl3GjUKNII6ClVQ",
+      "text": "wow LLya said nothing.",
+      "likes": 0,
+      "timestamp": 1740268800,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bob_933",
+      "author_id": "UCoHrxXJsa6DuCHmTQlx3TRw",
+      "text": "he's too naive about \"self-awareness\" or consciousness - this completely depends on how ai is structured, it's very easy to fake it while not having it at all.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@off_Planet",
+      "author_id": "UCwy6wHhExz5JcTA386CLvrg",
+      "text": "Parasitic video. Should have linked th original in a community post. This is scummy af.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RasmusSchultz",
+      "author_id": "UC1usKk-H-_kUlk1FYbX6SwA",
+      "text": "wtf is this? why am I watching you play games while I watch a stamp sized video that you don't even comment on? I hope this is not a new format for this channel or I will be unsubscribing.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adadaprout",
+      "author_id": "UCJhWtgf7IHBxIIwaIZobSjg",
+      "text": "The video game video behind, completely unrelated to the AI content, totally destroys my capacity to listen to what the bro says. What a terrible idea.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bennyschaich-lebek67",
+      "author_id": "UC0vNd9AbK3i3S9YrjB2eMjg",
+      "text": "You play a video and during that run a completely unrelated game in background???? HELLO? can we please WAKE UP? I'm OUT!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NORTONSHAW-ci5xq",
+      "author_id": "UCLXcam1SKWzntuF-ZfGSTwQ",
+      "text": "“I am not saying how and I ‘m not saying when”—“The future is unpredictable “—Super intelligence will be unpredictable “—wow—Your game taught us more about Agentic intelligence than this pile of nothing talk.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ElGabo-d8y",
+      "author_id": "UCJRlki54kgOGYdzO5KmGGmA",
+      "text": "This is old",
+      "likes": 0,
+      "timestamp": 1761177600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@glamdrag",
+      "author_id": "UCWaI2Aim9O1j-jfpt4P1h3A",
+      "text": "the game in the screen i dont like. please no more wes. thank you. kind regards, gamehater",
+      "likes": 0,
+      "timestamp": 1745366400,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AHN1444",
+      "author_id": "UCTTWuwRXsfdy2Dm1YZeRQHQ",
+      "text": "lol insects would deserve more rights than AI damn people wtf is in your head is just a damn system",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fefris",
+      "author_id": "UCWZZ0JOvUr68G4_0WKB10Zw",
+      "text": "What a lazy video... My first ever 👇",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@homewardboundphotos",
+      "author_id": "UCoH1ZrzfP22Ru0TtClRLyOg",
+      "text": "Ilya Sutskever is very wrong, there is nothing intrinsically useful about self awareness.  If self awareness can be mimicked, that is just as functionally useful.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ExplainIT-m2c",
+      "author_id": "UCJLa5IBORgUOzL7Bu5qx7ig",
+      "text": "AI scammers.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WoddyValo",
+      "author_id": "UC3DjgTUG_wtwwPrm35BBXiQ",
+      "text": "Ngl the gameplay is just kinda annoying bro, just seems lazy as hell to make a video like this.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ognyannedev5979",
+      "author_id": "UCFi9hvNGPcel4LIVZdGe_FQ",
+      "text": "peak brainrot",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prescientdove",
+      "author_id": "UC7VzlspRpw2Lv8WgHdpphgw",
+      "text": "laziest content i’ve seen in a while",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fitybux4664",
+      "author_id": "UCdWcXM4l7Rc3wYx-ByFSbgQ",
+      "text": "17:10 Presenter: \"Of course they will eventually be self aware.\" I think this flies in the face of religion though. Many people will have a hard time grasping how something like this can be. 😆 (Because: many people think humans are somehow special, because they feel it in their chest or some nonsense.)",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KiLVaiDeN",
+      "author_id": "UCFJWFcIDIUEm_kKFNVCjt8Q",
+      "text": "It's not because an algorithm based on human data says \"it's aware\" or \"I am aware\" that it really is. It is still regurgitating words from its neuron network. It's like thinking those models are \"intelligent\", they are not, their models are \"intelligently built\" so that the words we get out of them seem intelligent. It's a totally different story.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MikeKleinsteuber",
+      "author_id": "UCEzKln-wzPJAkwfHPg5i6tA",
+      "text": "Tbh I think it's really arrogant and rude to simply play some audio and then play a game over it. Done your rep no good at all",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SmarttStuff",
+      "author_id": "UChyl7JYJcZF2H0QmFAtlbJg",
+      "text": "This SSI presentation deserves proper treatment, not some game playing to overwhelm it, Sorry not a good way to treat such topics",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yak-machining",
+      "author_id": "UCpWrrtA7OOEMzniIlW9fVHg",
+      "text": "There is nothing like self awareness in machines. For self awareness it requires a soul which humans can never create",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LiamOliver0297",
+      "author_id": "UC4OKzm4eHJ8SL7yO8h4OvWQ",
+      "text": "It's not \"self-aware\" because there is no \"self\"; it's a piece of technology. Anyone who thinks AI can be self-aware:\n1) Has zero comprehension of metaphysics,\n2) Has mindlessly swallowed the propaganda making everyone think AI can be aware\n3) Is at the intellectual level of a dog thinking that the dog it sees in the mirror is another animal.\n\nThe most perfect AI is no different than the most perfect mirror; they are both pieces of technology that can only reflect what is placed in front of them.\nAn example of the propaganda used to fool people is the term \"hallucinate\" when referring to an AI programming bug. Unintended functionality in software is called a bug, not a \"hallucination\", but by inventing the new term when referring to AI then people uncritically accept the implication that the software can somehow \"think\". Just because it's programmed to mimic certain human behavior doesn't mean that it's an intelligent agent anymore than a sock puppet mimicking a person is an actual person.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Limitless1717",
+      "author_id": "UC0VcXEdxsNPNmI8dmpR3JSQ",
+      "text": "Wes… seriously?  That game was massively distracting",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zvorenergy",
+      "author_id": "UCym529uvdYz8bJsEjdSQQ6w",
+      "text": "No. Ilya needs to update his knowledge base with Penrose, Hameroff, and Micheal Levin. The best description of what generative AI is \"No, its not really intelligent, but it puts on a very convincing show\". - from Terry Pratchetts \"Hogfather\".",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MfnStarboy",
+      "author_id": "UCOu0Oze_IOD_blFoQPeKvdQ",
+      "text": "But are you aware to let it go, and go totally bald? that thumbnail is atrocious",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mobiusinversion",
+      "author_id": "UCTINRID37fGL_v6S-p97qGg",
+      "text": "The right pronunciation is “NUR-IPS”",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@olafsigursons",
+      "author_id": "UCIcFTBQaNXvqshqXVuNSs5Q",
+      "text": "Not surprising AGI is \"agentic\". Another word would be modular. And it's exactly how our brain work. Memory is holographic but functionality is localized.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZappyOh",
+      "author_id": "UCGguhGC83C-wgxFPZ2nT3JQ",
+      "text": "AI must be stopped.\nOr we will be stopped.\nChose now.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

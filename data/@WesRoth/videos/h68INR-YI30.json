@@ -1,0 +1,81 @@
+{
+  "video_id": "h68INR-YI30",
+  "title": "How To Access ChatGPT Plugins | They are LIVE! (but hidden)",
+  "url": "https://www.youtube.com/watch?v=h68INR-YI30",
+  "comment_count": 8,
+  "comments": [
+    {
+      "author": "@madjohnshaft",
+      "author_id": "UCMMWyETPL27VecZ5aq1lqmg",
+      "text": "I have plus, my screen still shows the selector for GPT3.5 and 4 as a drop down, rather than side by side. I added the -plugins but no joy :(",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@K.F-R",
+      "author_id": "UCx6KJXTgg092gqIl6aIeUBg",
+      "text": "No \"Beta features\" for me yet.  Plus user in Canada.",
+      "likes": 16,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gara8142",
+      "author_id": "UCCVJqt4_BsUTaLm8vhpsGyw",
+      "text": "I have the beta features, but I only have access to web browsing",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Abszol",
+      "author_id": "UC5FeM6GLiOOkdL4DFETDIPw",
+      "text": "I had to append -plugins to my url then go to settings where beta was available, enable that and now I have the plugins, ty.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thatboyp444",
+      "author_id": "UCa0kpzeer1KM6UzgWYSzW2w",
+      "text": "only have browsing",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FranciscoKemeny",
+      "author_id": "UCFBRUimJbkwzKy89YSv0F3g",
+      "text": "I have browse but no plugins :(",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AgiReady",
+      "author_id": "UCMIthGgmT0xESShg_5KJEqQ",
+      "text": "Not for me, Just Checked. It only shows browsing for Me. Thought Browsing is such a great addition.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nulled7888",
+      "author_id": "UCAC3uTnZDco78VSAiIKNxnw",
+      "text": "Hidden behind a paywall, as expected :')",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

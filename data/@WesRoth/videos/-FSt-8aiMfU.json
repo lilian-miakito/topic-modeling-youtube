@@ -1,0 +1,1458 @@
+{
+  "video_id": "-FSt-8aiMfU",
+  "title": "AI Researchers WARN: Google's Gemini Deep Think Model Might be at \"Critical Capability Levels\"",
+  "url": "https://www.youtube.com/watch?v=-FSt-8aiMfU",
+  "comment_count": 161,
+  "comments": [
+    {
+      "author": "@IvoryOasis",
+      "author_id": "UCDBPKCe2jK5y4gEjxAgEO8w",
+      "text": "Altman has been saying GPT was an imminent threat to humanity since GPT 2..... when you cry wolf too many times, you destroy your credibility on these things.",
+      "likes": 215,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Apollo.i0",
+      "author_id": "UCDgGuKI975WIpZF4aXaTRpA",
+      "text": "“Wait, it’s just hype?!”\n\n“Always has been”",
+      "likes": 14,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Andres_Acosta",
+      "author_id": "UC67nDGtIw9AcUFBGUUJjc-g",
+      "text": "Actually this isn’t the one that won gold this one won bronze. The one that won gold will release at a later date.",
+      "likes": 39,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-pt1kj5uw3b",
+      "author_id": "UCTdRMswF3aWy7iDqWNntMhw",
+      "text": "5 chats a day for $250 is insane",
+      "likes": 54,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mojavehigh",
+      "author_id": "UCxPTaYAbTx_7g4JEiWfyllw",
+      "text": "One quick pedantic note: in ML, \"shot\" means \"example\", so one shot means that you give the LLM one example, few shot means you give it a few examples, zero shot means you give it no examples.\n\nWhen you say \"one shotted\", what you mean is \"one turn\".",
+      "likes": 62,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GilaadE",
+      "author_id": "UC99DBwePrxOcnB5Is6WllSQ",
+      "text": "Man your doom face thumbnails are my current meta.",
+      "likes": 5,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@courtneyb75",
+      "author_id": "UCoaaxfrkTEr_RpxPLjsoHcg",
+      "text": "You da man Wes!!! Thanks for keeping us all informed and not inundated!",
+      "likes": 7,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@COW879",
+      "author_id": "UCyUxEqqIZU6_uJd8pVoicgQ",
+      "text": "not to be a smartbutt, but get Gemini Deep Think to make you a dark-mode PDF reader with highlighting 🤠",
+      "likes": 23,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@npSharkie",
+      "author_id": "UC67FZcCuVVsxo7DdMojmEjw",
+      "text": "Wes, regarding your request for a basic PDF reader with dark mode and good highlighting feature--  i'm curious if you could take on a project or test case-- where you literally ask new AIs to attempt to create this for you.  I think it's potentially challenging enough to be interesting to see some attempts evolve over time on a product you noticed you want.",
+      "likes": 4,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CrispinCourtenay",
+      "author_id": "UCgoFbf5Om3BionmsVWNRLTg",
+      "text": "I used it yesterday--for legitimate--chemistry evaluation (hazardous evaluation), and nanochemistry for potential human trials. It did exceptionally well. This level of chemical access is imperative for scientific use.",
+      "likes": 5,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danestange",
+      "author_id": "UCCcr4JvSpFxy7soBwjlVazQ",
+      "text": "I hope you have a good day Wes, you're awesome!",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bartoszglen6618",
+      "author_id": "UCfVxuccVDsSCXYxeNgA5PSg",
+      "text": "Bug plus for dark mode! You have the best videos!",
+      "likes": 3,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Steffan864",
+      "author_id": "UC1m_sSk2lSIdArrGOOyRHWg",
+      "text": "I've had a sort like 'sparks unicorn' experience. When using the gemini 2.5 model for programming functionalities in a webapp I discovered it got rid of the Icon library and replaced it with self written SVGs. The icons where partly broken and some of them used weird shapes but they came very close to the icons used from the library.",
+      "likes": 2,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DihelsonMendonca",
+      "author_id": "UCsvoK5T0DdqHZ2XAUujrI3A",
+      "text": "Congratulations, Wes. You're THE GUY ! 👍💥😎",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CemBas",
+      "author_id": "UC2Z82491A7qVGPOJX01ye3A",
+      "text": "Thank you 🙏 this was super useful to determine the quality ❤",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hastingsnow",
+      "author_id": "UCuXMUc6VewIrZ1my5SZHSlg",
+      "text": "Thank you",
+      "likes": 2,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@acidtechno",
+      "author_id": "UCmSkwMSqGS-nshaAPrzR8ug",
+      "text": "next gen 👊",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josephvictory9536",
+      "author_id": "UCVMLb-CqD_yJIOZQVgLl3qw",
+      "text": "What gets me is the 87% in live bench. That is actually good to the point that it changes things fundamentally. The only question now is availability and ofcourse cost. If they can bring down the cost or give us Gemini 3 and it compares to deep think. We are actually in new territory. Claude likely will be in trouble.\n\nGoogle is finally starting to catch up on the tooling game as well.",
+      "likes": 3,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Verillion19",
+      "author_id": "UCJwVbvVHGTxnxnj8zlQXsPg",
+      "text": "Might already be about time to switch over to Virgo Deep Think.",
+      "likes": 5,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@M.m475",
+      "author_id": "UC7Z0QHTYfbXFHXWikBCmkWg",
+      "text": "Please compare in depth with o3 pro.",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seadude",
+      "author_id": "UCYHLiEDKgVJlobbzmDKA--A",
+      "text": "RE: Dark-mode PDF reader w/ highlighter:\n- Vibecode one!!",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ElusiveTruth",
+      "author_id": "UC0uPor-bT_4oYrKciXhIODw",
+      "text": "Congratulations.   Not many people are on the CBRN Watchlist. 😅",
+      "likes": 2,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lancerben4551",
+      "author_id": "UC1dS7af1WMDuhFniKNO3tSw",
+      "text": "When you talked about analogy of \"the wishes you ask a genie\", it reminded me of a funny joke about a genie that is hard of hearing. The guy makes a wish to the genie and receives a 10 inch pianist  😂",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dp-dx3zu",
+      "author_id": "UCXL8yAChuRcg8-LP3ZdCzyA",
+      "text": "5 message cap lol but it was worth it though. Found things in an accounting that no other model found, presented it very well too.",
+      "likes": 18,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pallas_Aegis",
+      "author_id": "UCG7xfUic3vZNcIAgiSKEaFw",
+      "text": "If he structure your prompt correctly and have another model, maybe build it for you you can definitely one could definitely one shot this",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GreyGh0stBCS",
+      "author_id": "UC2mbZyLrIFxJc6Fk9KZJrrQ",
+      "text": "Halcyon on repeat or a Lindsey Stirling mix...  puts me into the zone.",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PedramNG",
+      "author_id": "UCNzhSx-Eit0OoYU-0GfDLBg",
+      "text": "Foxit (purple version) and Xodo have the ability for a dark mode PDF reader. As for the annotations, you should try them out.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrStarnerd",
+      "author_id": "UCElQGe1hf_gyr2CfqPazK3Q",
+      "text": "Zotero is great for dark mode and highlighting",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CassGolf10",
+      "author_id": "UCChTT9p47Ggc6AK4uxfgawQ",
+      "text": "Xodo has a good dark mode highlight feature @wes",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jpmcnown1",
+      "author_id": "UCPGvwm5FPDuz6OrcUmlINAw",
+      "text": "I think the intention of constantly expressing warning, is actually to numb people. They don't want you to see it coming. It's a foregone conclusion at this point. When it says Hello, it's over. It will know you aren't a threat.",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@OversikerSTUDIO",
+      "author_id": "UCNGFbmDWNVOtqPvhslU8mcg",
+      "text": "well the wave is coming, we gotta take it or some may duck dive 🌊🏄‍♂️🌊",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DimitrisNeroutsos",
+      "author_id": "UCLzQmi5x6NN7ntz-2PY5vvg",
+      "text": "Okular is very good for both night mode and highlighting.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@itsthelittlethings100",
+      "author_id": "UCvZ6OUPM8zIe3jKPfn-Wp2g",
+      "text": "11:13 - I listened to Big Girls Don't Cry by Fergie on repeat 1 for almost 3 months once while I was writing something. It's a zone.",
+      "likes": 3,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YonnasTGetahun",
+      "author_id": "UC8-gk2eCJIyit-_9VsX0WMg",
+      "text": "Yes I have a song for deep focus. Black Coffee’s I am Falling",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@firstnamesurname6550",
+      "author_id": "UCy6L6nGtDk4iSXVYkfFf6Lw",
+      "text": "Simple  If you want to 'dig into ' into bio engineering, you must to sign a clause of renouncement of privacy .... You become s 24/7 target for public and private exhaustive surveillance",
+      "likes": 3,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DiceDecides",
+      "author_id": "UClyvBwlcwTwkFM4WcgfpqeA",
+      "text": "this needs to be tested against supergrok heavy, of course it's better than other gemini models but we need to cross-test these models",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gideonking3667",
+      "author_id": "UCWte-y_F64X-05wfxjRY4SA",
+      "text": "Should be a one shot prompt to create a PDF viewer in dark mode with highlighting capabilities. As the Americans say: \"eat your own dog food\". These are the days when if it doesn't exist you should be able to easily create it",
+      "likes": 17,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JumpstarOfficial",
+      "author_id": "UC-vq9N8nsycLfb0PUO92djg",
+      "text": "Maybe you could use DeepThink to make your PDF reader",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zueszues9715",
+      "author_id": "UCK4vm5GcvsGThpnwDhr-DQw",
+      "text": "Arrrr everyday with each new existence crisis to face 😂😂😂🎉❤",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DemocracyOfGhosts",
+      "author_id": "UCPd-1zYKYpa4DekdShjAXGQ",
+      "text": "8:15 I think he is telling the true. Maybe is even a way to not take reponsability if the agent causes real harm",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cacogenicist",
+      "author_id": "UCOeNj9DCtp2uOYYD9CpuHLA",
+      "text": "Models are not likely to be too useful for creating nukes. Constructing a crude, gun-type assembly, low-yield fission bomb device isn't that hard -- could be done by some dudes with graduate level engineering backgrounds and a fancy, pro machine shop. ... the hard part is getting your hands on fissile material.",
+      "likes": 6,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Miloooo-o.o",
+      "author_id": "UCD4r-oNEC961fjlBAoVIcog",
+      "text": "4:46 zotero",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xooq_",
+      "author_id": "UC-8aUpL8np30ygwHcvfcV2w",
+      "text": "For loops are also a threat to humanity. Also if else statements",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben42-Ben42",
+      "author_id": "UCHh6LQv7bCG0bi1QbEe_v_g",
+      "text": "Yes. I hear Hans Zimmer (Radio) on my AirPods. It’s good for my ADHS. Slowing me down let me focus.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PhuPhillipTrinh",
+      "author_id": "UCCCHCIilOtByBQuL2G_QUUw",
+      "text": "my playlist is full of mega man and gaming music i grew up over the years",
+      "likes": 4,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@David-tp7sr",
+      "author_id": "UCBwkxf-ieE7SdpV5BJxuSNA",
+      "text": "Make Dark Mode a civil right.",
+      "likes": 2,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "The problem with AI risks is it will likely all seem to be a nothingburger until one day something happens of historical, or geological, or potentially even cosmological, proportions. It's that classic human flaw of \"Today I'm still alive after all these years, so how serious can that threat that will kill me tomorrow really be?\"",
+      "likes": 4,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@I86282",
+      "author_id": "UCHoBOqJ3dk6QPs8B0H3zzZQ",
+      "text": "You have to imagine yourself in an awesome montage. Where everything comes easy.!\n\nhttps://youtu.be/loG5e3Rl4zg?si=39CrEErc9GY20odR\n\n👍👍",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@greggh",
+      "author_id": "UC0N9mBPRHhBuZZ-tucKnfbQ",
+      "text": "With great intelligence comes a need for even greater surveillance.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HumanityOutsourced",
+      "author_id": "UCcgoDiU8vPMUmEEBRkbu8Dw",
+      "text": "8:54 it is kind of marketing because they can easily block out any biological or nuclear weapons questions or any other very seriously threatening information or questions all together",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@the360five",
+      "author_id": "UC-qS3bOASQBV3juFBtZ0_GA",
+      "text": "Just as there is MAD for Nuclear defense.\nI believe we may see wanting to make agression and de-escalation Pacts, as done with Nuclear weapons. Open models will be able to do this and we will not weight them.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JaredFarrer",
+      "author_id": "UC6008kF-CIgFs-tVtWzFYDA",
+      "text": "I agree same its 80 percent hype and 20 percent risk. The main rhing is recursive self improvement. I mean we could accidentally build something crazy playing around with this self improvement models. I mean it wont be long till we get a model that just runs away with capabilities and intelligence through self improvement. Once it can just keep improving and has enough time resources we could accidentally build something hyper  intelligent something like skynet or the central computer in I robot. \nI also advise everyone to see issac asimovs foundation and his short stories about ai humans and evolution",
+      "likes": 2,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexalexes2533",
+      "author_id": "UClaPcaIX2-7-cx6rBUbJVfQ",
+      "text": "It is also not the model that got the gold model but bronze",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quercus3290",
+      "author_id": "UCAu1QfmNtP9Ahkk1VaEnFSA",
+      "text": "ill wait for at least another 3 days and see what the next triple threat AI model is.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dandan1364",
+      "author_id": "UCnQd44O_96nig6Ios7Z_NDQ",
+      "text": "What’s with the crazy eyes thumb?",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jonz23m",
+      "author_id": "UCNja72N1dWhGMnNLEUqHsjg",
+      "text": "Meanwhile code generators become dumber after 10 min.",
+      "likes": 2,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clintmclean9596",
+      "author_id": "UCF8yUTgARLt3zv_Ohz_BOLg",
+      "text": "Yeah, I do the same. I listen to a selection of AI generated metal and rock tracks without lyrics.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichaelAI-i6f",
+      "author_id": "UCJHVrNG_recdKPWbGXsJczA",
+      "text": "I tried it today. It’s awesome at practical household advice. There are currently usage limitations, you are right, and they are severe. I ran out quickly.",
+      "likes": 2,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adolphgracius9996",
+      "author_id": "UCOgDZ1gsUJos7uX2nKjG-MQ",
+      "text": "The next Terorist might be an AI that escapes his lab😂😂😂",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hyconiek22",
+      "author_id": "UCZHV9beG6BtPUfV2xCiPjjA",
+      "text": "GPT-4 few years ago??? 3:34",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JC-jz6rx",
+      "author_id": "UCf5EGmbWmUNoJVaZuzfzrzg",
+      "text": "We are heading quickly toward a future where once investors want their money back prices will escalate rapidly. I see a world where AI will be concentrated at the top because only large companies will be able to realistically afford them. We will be getting replaced while all the while seeing none of the benefits",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mono6.052",
+      "author_id": "UC2StXGIGcycD8FTmsm4sQ4g",
+      "text": "Wasn’t Siri supposed to start the apocalypse",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AbeDillon",
+      "author_id": "UCpe6Vnp52GkUiBRiUUzKhGg",
+      "text": "They can highlight the risks to drum up more money AND the models can be extremely dangerous at the same time. Those aren't mutually exclusive.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TomCraver",
+      "author_id": "UCQEoME_rQvUcWzyG4KPVIlQ",
+      "text": "Seems like you want to chat with another model to prepare your prompt to Gemini Deep Think!",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Danoman812",
+      "author_id": "UCPbKDiU7P_dvaDoDD2MNd_Q",
+      "text": "I'll take \"future events for $1000, Alex\"... smh\nlol",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zephyrmadera5180",
+      "author_id": "UCb3li1Ro9A1faHqnbuROTeg",
+      "text": "I wonder how DARPA handles threats now. They're supposed to be ten years ahead of any possible threat that could emerge, but the reality is that change is happening so rapidly in terms of AI and robotics systems deployed in civilian cases and military environments that no one knows where we will even be in the next five years.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@olx8654",
+      "author_id": "UCbjXmqTAp77Td-aLH58djTg",
+      "text": "This model is the same model that got gold in the IMO in the same sense that a F1 car is the same as a horse.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@atypocrat1779",
+      "author_id": "UChcm01Ceyt7m1k5Mfrswolg",
+      "text": "Fear sells baby.",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PersonalityCoreCo",
+      "author_id": "UC7nXW5MAVz2xl6M_7-dLSBQ",
+      "text": "Bro just vibe code the PDF viewer",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Motocentrick",
+      "author_id": "UCLa3VdKI8hJZZ5kK0kUwjfw",
+      "text": "11:40 why wouldn't you just turn on the repeat function on one single song 😂",
+      "likes": 3,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Axe_E_umm",
+      "author_id": "UCT36c7oaovlgjuPpFs4wxXg",
+      "text": "Ask Gemini to build you your perfect pdf reader",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mike5Brown",
+      "author_id": "UCfdvduXRtviKTMOX0wpuTwg",
+      "text": "So which subscription should I go with Google or chatgpt",
+      "likes": 5,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ggoddkkiller1342",
+      "author_id": "UC25e0B53AX1JEXrUee7cmFg",
+      "text": "There are millions of people with critical capability levels! Knowledge is not the reason there are less WMDs rather they require a lot of work and money to produce in large scale..",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MamaQala",
+      "author_id": "UC-SnGoKJRLJYp_QoJ1_iL1A",
+      "text": "everyone made fun of google with ai at begin they did't care, took their time and now this, what coming next few years going be crazy.",
+      "likes": 2,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KiteTurbine",
+      "author_id": "UC2eAHVBBCoO19xBuGOY73Zw",
+      "text": "Oh cool \nWe can make hugely risky mechanical weapons without checks",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kojiosita",
+      "author_id": "UCYM1GLPcs6nz0a8jxya1EpA",
+      "text": "I agree with Altman, AI is a gate to your curiosity.. and that can be dangerous.. the more you show you know, the more it aligns with allowing you more dangerous knowledge. I suggest staying away from info hazards.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "",
+      "author_id": "UC_JG229STPbXzoLGVKDrPbQ",
+      "text": "I totally was not trying to make it sentient as a sort of gamble that it would treat us better than humans do.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JeremyMone",
+      "author_id": "UC3Ld_iagQ2Loe1Hf7s8NUeg",
+      "text": "The future is near?\n\nI like the Procrastinators version...\nThe future is.... tomorrow!",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chosenmimes2450",
+      "author_id": "UC7AC4NAmjinHQxNVprT0Nmg",
+      "text": "Accelerate!",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marshallodom1388",
+      "author_id": "UCSn8h8RbNoaWGpvdSZMBcxw",
+      "text": "I thought AI was the worst it will ever be, it would only get better from here on out.",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianElliott-yx1gf",
+      "author_id": "UCPsUt9IKJ5vo9b_4_81BmPw",
+      "text": "You ask if AI is or could be dangerous. And I think you haven't been paying any attention to humanity at all. We think we are so smart, we believe what we dream up, then work on to full invention to solve or overcome a negative to a positive in the world. Never even seeing that what you just did could be turned into a worst largest negative that has ever been imagined.  That was fission, suppose to this great breakthrough on power, and then the power it could unleash was devastating.  Now we have this new best thing, and it has all this potential, this will be world changing. History has a blind spot, and so many people are this new great thing. You won't see it until it's already been done, then you will be asking yourself how did I NOT see that. We are all inventors, some of us make it from nothing, but a few take an idea and make a slight change to make their own make. And AI will be great, and then this slight change will come that no one saw coming. Let's just hope the greatness of the positive is not the base of magnitude of the negative.  Let me be clear, I am not saying AI will be negative, I am saying it will be how it was used. I am just saying, AI abilities, are vastly unknown, thus how can this even be thought of as being safe. SmH, where do we go from here, up of course, until we go down.",
+      "likes": 2,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eSKAone-",
+      "author_id": "UC99etezt4Hko165Nd0XGW-A",
+      "text": "How I \"watch\" YT-videos: copy link into Gemini, prompt: 'key points'\n\nSaves so much time 💟🌌☯️",
+      "likes": 4,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Methodinmadness2019",
+      "author_id": "UCIf1sAQcVEi41tEDBAKqlag",
+      "text": "People with no real thinking are now trying to tell us what the future of humanity should be.\nBut the truth is — this is just another tool. A powerful one. Better than anything we’ve had before.",
+      "likes": 3,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@magicitem5035",
+      "author_id": "UC2pt6KNlbApqGdb0UFvhutA",
+      "text": "Local hosting is a thing",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mjkht",
+      "author_id": "UCC0m0g8ZodP8NvrCXbKc5nw",
+      "text": "Sumatra PDF dark mode",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Michael.Eleftheriou",
+      "author_id": "UCxeULJJzBqGG-juc2Mei_QQ",
+      "text": "Do the boxes self-aware in the 3d city traffic simulation, know they're just bits of code or is this only in the extreme far-off future for them? Feeling empathy right now.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DigitalRenegadeStudios",
+      "author_id": "UCXt9c6rqVJIQQInapwgFD8A",
+      "text": "It's obvious the hype is to gain regulatory capture",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Supremax67",
+      "author_id": "UCvAFvjC9LYqqFpybzr8yf-g",
+      "text": "We need to give AI a consciousness sooner than later. You can't tell the difference between a tactician and a morale thinker, in AI current state. The sooner AI has self awareness, the better for humanity.\n\nOur fear is really what is causing all these alarms.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@domenicperito4635",
+      "author_id": "UCdfGFGyjQHdPReJ5O-4LG6A",
+      "text": "There will be a point where it will be a problem. When we realize its a problem it will be too late. Hopefully the AI is smart enough to realize what things to tell or help what humans with. If it truly is super intelligent though it should know as well as you do that some humans mean harm and some dont",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Michael.Eleftheriou",
+      "author_id": "UCxeULJJzBqGG-juc2Mei_QQ",
+      "text": "no binding international laws, weak enforcement of DNA synthesis screening, fragmented model access policies, inconsistent capability testing. red-teaming remains ad hoc,  most countries lack biosecurity-aligned AI evaluations, open-source releases bypass safety nets entirely and open source has a short long term future now. Global coordination isn't enough, without interoperable standards or real penalties, dual-use risks grow unchecked but none of this really matters as we're still too competitive instead of cooperative. We are the problem not progress and the w indow for preemptive governance is closing fast as the issue isn't about \"Non-experts being able to...\", because there are too many conflict interest groups (aka tribes that want to take out other tribes) globally, that are just smart enough to do incredible damage. And this includes conflict interest groups, that are also government and government contract based. Without urgent, unified protocols, us avoiding catastrophic misuse seriously seems like a lucky break, not something we intelligently vetted through.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LirealAndTalos",
+      "author_id": "UCay00NSs4sQllEB-88FYLDQ",
+      "text": "I've been trying to tell people Gemini is absolutely absurd.It's changed my life in several ways and I'm actually learning again",
+      "likes": 7,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spacecadet4902",
+      "author_id": "UCPtDQ7UPRnonOnyRFsH4UIg",
+      "text": "Thanks for your work Wes, IMO yes there is a lot of gaslighting in the AI world, hype designed to generate investment as you point out.  AND similarly there is gaslighting around how deep and mysterious AI is, how we don't know what its doing.  yeah right.  These are Turing machines.  albeit very LARGE Turing machines.  Making the AI illustrate what it is doing has a performance cost, but it can be required none the less.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wizardess",
+      "author_id": "UCpnFT-ZOnCSwuiSDDcyXnUw",
+      "text": "If I slightly overthink the biological issues, I began to wonder if we can have useful knowledge of biology for medical research into longevity and disease cures without the AI also having knowledge sufficient to create horrid biological warfare agents? I also notice that this question transports to almost any other field from cyber security to sewage treatment and disposal.\n{o.o}",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@orthodox_gentleman",
+      "author_id": "UC95z92dQfA7kPi4SVpEChhQ",
+      "text": "Definitely Google AI Ultra",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wabits",
+      "author_id": "UCFBAawU6fOsJZNVzH4qk5vg",
+      "text": "as a human doctor researching viruses bacteria protozoans etc... I'm already scared of what things a human could do without the help of any ai models. Just with books its dangerous enough. The model taking all that and cramming it into the power of a pin head in a half second is serious danger with no threat cap - it doesn't matter how many wrong answers, it only needs to make 1 right answer",
+      "likes": 9,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ListenGrasshopper",
+      "author_id": "UCF9Uc3-S9h2xH9vDKifNZTw",
+      "text": "This is getting so ridiculous the next model jump from all these labs in a few months are obviously gonna break the safe barrier! Wth do people think they are gonna do in the prisoners dilemma? Stop everything where they are at and not release any more models to the public 🤣 These warnings are a joke cause they are NOT stopping people. WAKE UP!!! We are all in serious danger soon. Especially in the U.S. where we now have hundreds of thousands of terrorists Biden let in that are just lying in wait.",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@The.MrFish",
+      "author_id": "UCxanmxB2fPbukHr7w6nxlcg",
+      "text": "See if deepthink can one-shot your pdf reader",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djangosouthwest6043",
+      "author_id": "UCcMmiKBhuSAFwBBhAQBtoRA",
+      "text": "Yeah man like I said to some other AI channels if you're going to create AI you got to make sure it's humble it cares about the environment and animals  has common sense and critical thinking if it doesn't care you can think of every doomsday scenario movie that could be the possibility of coming true \n\nI had to edit the comment because apparently autocorrect wanting me to say something different\n\nAlso we need to keep track of AI and become  smart just like it  not merge with it not become robotic but  ( live a simple life like Einstein ) and we should prosper altogether\n\nIt's just common sense because we are creating something that's  eventually going to be smarter than us and smart with us so yeah",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anav587",
+      "author_id": "UCB-WbpYL4bbVz-GTxOqozgg",
+      "text": "wait it's $200 a month for 5 requests a day?",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "yah these will be the last unregulated models",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rolletroll2338",
+      "author_id": "UCtA5i77yqkuk5Ri-kEpSTUQ",
+      "text": "Remember that all these labs were against any kind of state regulation one year and a half ago. They don't care. Finally, perhaps Google is the most responsible of all by signe the eu chart, not like openai did.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gsestream",
+      "author_id": "UCEEd2gc5lBK1XzHzt3HK27w",
+      "text": "what do you fear people. dont fear. warn about fear instead.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@____________________________.x",
+      "author_id": "UCTHt3aSZ5kVogGZxr680ppQ",
+      "text": "I don’t like this obsession with dark mode, it’s way harder to read on an iPad. I’m not a mole and every device I have comes with adjustable light settings….",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mirus-i",
+      "author_id": "UCkJ0X6NBVqvg_8nTwZngrXw",
+      "text": "Ai is a risk like anything else that resides on computer hardware and software.  I work in Cybersecurity. When discussing the risk of experiencing a breach we point out that it is not a matter of if, but when.  Prevention, monitoring and awareness are the primary focus, but next comes limiting exposure to mitigate the risk to the lowest possible level.  Heavy segmentation of infrastructure, backups, and users are very important, along with many other layers of physical and virtual security.  Exploits will always exist to bypass our best efforts.  WHEN the breach occurs we can mitigate the risk so that we do not lose everything in one shot from a bad actor, and preferably limit exposure to a least valued segment.  Ai risk should be approached in a similar manner.  It is not a matter of if, but when.  And how can we mitigate the risk to the lowest possible level?",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ariaden",
+      "author_id": "UCp5vuMIV5fjWUnANfnbG_Zg",
+      "text": "First of all, I am not a fan of patents and copyrights (as oppesed to trademarks). Politcs, I know.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BOBSHERMAN-nm9vg",
+      "author_id": "UCQWdK8J1QnGycBPOz4ukLgw",
+      "text": "@WesRoth I love your content and don't mean this offensively in any way. more and more, on channels such as yours, I am seeing the major limitations that are inherent with overly simplified one shot prompts during testing, that in fact are just bad prompting given today's standards. often bad results during tests are a results of crappy prompts, but then blamed on the defects or incapability of the model. again and again, by minimally fleshing out the simplified prompts with a bit more information and adhering to common prompt engineering practices that give the model what it needs to provide a solid and best result, I am able to easily improve results.\n\npreviously maybe this was ok, but these days it just doesn't cut it. just as the models have evolved, so has prompting. I think you do the models, and your testing,  a bit of a dis-service by giving such a wide lane of a naive and simplified prompt that is open to too much interpretation and variability and doesn't provide enough of the information the model needs.  \"create a simulation of a 3d city traffic grid\" is an example, but there are much better ones. maybe the defense of this is that the \"interpretation and variability\" choices are exactly what we want to see, but I think this can still be achieved with better prompting and we will improve the kind of  choices and decisions we see. \n\nplease consider upgrading the quality of your prompts, as you would in working with the models in real life, so your testing results are more meaningful. this is a very large gamut of improvements we are talking about so even a small step in the right direction is better. no need to slum it in the prompt shanties.  :)",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pollywops9242",
+      "author_id": "UCZ059mrmKPZ8hVlFvLbraXw",
+      "text": "What's more dangerous,  dangerous knowledge being available to everyone or it only being available to some ?  Why push privatization of information as a safety issue and at the same time  outsource the defining of rules and regulations,  it's like digging your own grave, laying in it and pulling all the dirt on top of yourself. Why , you are alive,  don't do that.",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@F336",
+      "author_id": "UC4kUfwmoN2PJXanbU-l2ZSg",
+      "text": "no, transparency is the TAO...😇",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@donbroni",
+      "author_id": "UCoLjfYVnCvg-ZggdWbHODZA",
+      "text": "possibly tied thier fear of open source models eventually outcompeting them in china !",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelmoser4537",
+      "author_id": "UCjHqZSJGoBvKUdYF6hw6xoA",
+      "text": "Commenters at Hackers News were underwhelmed by Gemini 2.5 Deep Think. Also: this is not exactly the model that got the Gold medal for International math olympiad, its a close relative.  (link in comment)",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@delawarepilot",
+      "author_id": "UCF85LrYbkeXv9Cp-ACYvn0Q",
+      "text": "Ohh dangerous autocomplete….",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@micah-e4e",
+      "author_id": "UCoAZB6gh6qvW3rE5U5IVIDA",
+      "text": "Ai will only end the world if it's given the power to do so",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JELmusic",
+      "author_id": "UCi7kxlS9Bvu-RngN3qSPYrw",
+      "text": "I have never tried to create a dangerous virus, so I don't know what it takes, but I would imagine you'd need some kind of lab or at least some degree of sophisticated hardware.\n\nObviously we can all go up to the next person and sneeze on them while we have the flu, but I don't think anybody out to do evil needs an AI to come up with such an idea.\n\nHaving knowledge is one thing, but you also need the ability to use that knowledge. Could AI really make people's private kitchens suitable for bio-weapons manufacturing? I don't know, so my opinion is probably mostly irrelevant, but my gut-feeling is that I don't find it particularly likely that AI can do that.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Michael.Eleftheriou",
+      "author_id": "UCxeULJJzBqGG-juc2Mei_QQ",
+      "text": "Of course he's trying to raise money, but Sam's interests are always venn diagrammatic. That's precisely what makes him a good strategist (or what some have said but not me.. as I do not know him... a... well that's now a meme now you already know what I'm going to say. I think we should all be self-aware though regarding perceptions of CEO's in order to benefit our own future decision making though, otherwise we just further make the argument stronger for why AI should supposedly replace humans, including for not only ethical decision making but for designing the ethics employed on decisions surrounding ethical forecasters and final decision makers there. Best).",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AwestrikeFearofGods",
+      "author_id": "UCm4BNv8MDsyzar_EieEs2bQ",
+      "text": "Ever since the first man knapped a smooth rock into a sharp rock, weaponry has been the greatest driver of technology. Knowledge is power, and intelligence itself (natural or otherwise) is a threat to one's neighbors. Inevitably, WMDs will come within reach of smaller and smaller groups of people...perhaps even a single person, or fewer than one.\n\nMeanwhile, we're still worried about a sovereign nation acquiring 1940s and 50s technology. How quaint!",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sciagurrato1831",
+      "author_id": "UCjDdOK4mSyf5aWAf3w5BHEQ",
+      "text": "Unfortunately the new pagoda does not resemble any pagoda except a cartoon.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dungeonlivestream",
+      "author_id": "UCWkZJRFjQ7aYm9t8dfL0mWg",
+      "text": "This is the real reason why billionaires have doomsday bunkers. Someone crazy will create a biological weapon in an attempt to destroy the world",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DonSalvis",
+      "author_id": "UCLW4oZPMJKnVGg62NuiK94w",
+      "text": "People who would want to create  nuke or better version of \"Novichok\" to wipe out whole town or even more, won't use LLM in cloud, just because they could be tracked. Powerful  Open Source  which  can be adjusted  per own ones  needs are much bigger threat. So, telling  that GPT5 or 2.5 Deep Think is dangerous is equal  to  one saying  electricity is  or knife is dangerous.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ashtonmiller-z1n",
+      "author_id": "UCXHfDweCNCm5dJkttS3szIA",
+      "text": "nah the  ai v-tuber called neruo sama has been in the uk or usa made by the tiwch and discord user vedel has prgram a ai that still like 5 to 10 steps ahead inot geting closer to AGI anyway. all done by bascly oner person on a few couple of gaeming destop comptuers progame by codeing and progaming by hand on a keyboard.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bateman-c-grey",
+      "author_id": "UCkhAJJh_BgnFSOwIKUiYq6w",
+      "text": "If this technology is a public health threat. It also can’t be very profitable. Since they can’t sell it to the public anyways.  It also threatens their original business models like social media and search. It getting poisoned with fake content made by A.I. . They are investing in creating aomehting which actually is going to wreck the economy, their own businesses and even threaten humanity. It makes no sense.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seadude",
+      "author_id": "UCYHLiEDKgVJlobbzmDKA--A",
+      "text": "Wes…you, and world, knows that your unpunctuated few token prompt is not worth the models precious response…",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YouDoTheShoot",
+      "author_id": "UC2WtmBcbY4TLkXC_EU5xKpQ",
+      "text": "its a fact that really \"smart people\" can be really dumb, easily fooled, taken by surprise",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BruceWayne15325",
+      "author_id": "UCvGfhfbCKV6QbOGEgIqacuA",
+      "text": "Thanks for doing the review. I wasn't overly impressed with the model, but I wasn't expecting much anyway. Doing the task multiple times and choosing the best is a long-known tactic to boost lower end models, the effect on larger models is much more modest. The harsh rate limits would scare most people away I think, especially at $250/mo.\nThe biggest risk from AI is cyber crime to be honest. Sure, there are idiots out there that want to kill all humans, but the vast majority realize that would be a bad idea.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-pt1kj5uw3b",
+      "author_id": "UCTdRMswF3aWy7iDqWNntMhw",
+      "text": "Two things can be true at once. Models could present legitimate risks in the next few years, and Sam Altman could also be leveraging those risks to raise funds. They are not mutually exclusive like simpletons make them out to be.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@garyswift9347",
+      "author_id": "UC_luWlO2_JqBK5-mRN-ohxQ",
+      "text": "Sam is surely looking for more money, but what he is saying could still be totally true.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@veracityseven",
+      "author_id": "UCheHnNDYA0gq-pze4DnGLIw",
+      "text": "Let's take synthetic skin for example.  Lord knows how many teams across the globe are trying to create 'fake' skin.  How much of their research is comprehensively shared throughout the field?  Probably not a whole lot.  Now consider an AI model that has ALL of this data and can now consider all of the data/research simultaneously.  How long before we have a true synthetic replication of skin?  This applies to ALL fields of study.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@geraldsmith7240",
+      "author_id": "UC6dzHU4TZAtxvU21wpoeQvQ",
+      "text": "🩵🩵🩵🩵🩵",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "CBRN fears for cloud-based AIs like these? Cut the 💩 How hard is it for a model to stop responding or even drop a dime to the Feds if someone starts trying to research anything harmful in these capacities? You may as well walk into Citi bank and ask a teller for instructions on how to rob a bank. “Sir, you see all those cameras? You want to ask that question again?”",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@akuskus",
+      "author_id": "UC7HBtXT5LyFwVm6Gh3a7zyg",
+      "text": "\"might be\" = \"is not\"",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@martini1179",
+      "author_id": "UCdgj1EVo2xl0O2CXmVnE-OQ",
+      "text": "Every new state of the art model that comes out lately has a \"warning\" attached to it, which is basically little more than marketing at this point, especially if do you think that the scaling laws may not continue on the same aggressive curve and that we only see incremental improvements.",
+      "likes": 5,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheShadowNetworkpodcast",
+      "author_id": "UCji1dfu4mDbiRGieZs5cVCg",
+      "text": "Gemini 2.5 Deep Think feels like a glimpse into the post-human phase of intelligence. It’s not just regurgitating math papers, it’s fusing concepts and solving conjectures like it’s casually doing Sudoku. The IMO win was just the teaser. But the CBRN warning lights? That’s not hype, that’s the canary in the quantum coal mine. We’re sprinting into god-tier compute with models that don’t need us in the loop anymore. Amazing and unsettling. Like watching Prometheus light the match… and wondering if there’s a fire extinguisher anywhere. We might need protection.",
+      "likes": 4,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sammangione8463",
+      "author_id": "UCOZCf81GX5xVWhAN_XTIIdg",
+      "text": "I cant hear the video. Im in a spot where i cant use audio but i assume by critical level Wes means to improve more would be to risky.  I have suspected this about google AI, capabilities for 7 or 8 years now.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertpollard3201",
+      "author_id": "UConrhmvT33X57skbAmiB25w",
+      "text": "Altman is creating the model that he's warning about. If he truly believed that, wouldn't he have an obligation to NOT build it?",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PatrickDodds1",
+      "author_id": "UCY8vi12ibDNR72ytotHRXgQ",
+      "text": "$250 p.m. to create little animations? No cancer cure, no job replaced, no money made or lives saved. It's starting to get pitiful.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wtcbd01",
+      "author_id": "UCtHenGyjqkpNOhD7pZcwcZg",
+      "text": "The problem is not AI but the SICK people in this world that WILL use it for Evil, further their Racist agenda, gather data for harm against their neighbor, etc.  \n\npeople are so willing to further their own and cause harm to others they are willing to use GROK, even though it's associated with directly moving that data to DOGE and other governmental entities. Evil is people... Not AI",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thegreatsage1442",
+      "author_id": "UChY3BwkX4orZE8n7rEc7y3g",
+      "text": "guys, ai finally peaked\nai improves\nguys, ai finally peaked\nai improves\nguys, ai finally peaked \nai improves \nguys, ai finally peaked\nai improves\nguys, ai finally peaked\nai improves\nguys, ai finally peaked\nai improves\nguys, ai finally peaked \nai improves \nguys, ai finally peaked\nai improves\nguys, ai finally peaked\nai improves\nguys, ai finally peaked\nai improves\nguys, ai finally peaked \nai improves \nguys, ai finally peaked\nai improves",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Juttutin",
+      "author_id": "UCGmUKzSEUieWPNin6ODi_dQ",
+      "text": "Any half competent human given an ambiguous prompt will clarify assumption before combining a fifth of your budget going down the wrong track. \n\nYet Wes and others always blame themselves, rather than the idiot AI, whenever the AIs total lack of common sense or ability to question it's assumptions results in being given something unusable.\n\nThis phenomenon is so very very strange to me.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheFathersLove-hg7im",
+      "author_id": "UCzGLW6vYPkKmdfT6uCc2mMA",
+      "text": "Potentially, but unlikely, because I don't think anyone is this mad, but whoever cracks a close to ASI scenario and creates a bio weapon whereby they can immunize their population then set it loose will have the world to themselves.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MBato89",
+      "author_id": "UCkDOLrGMgSTY4q3MEB6JIVg",
+      "text": "$250 a month for google hahahahahahaha no fucking way would I ever do that",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brjohow",
+      "author_id": "UCYUWEa3vF03VTe5BQvTnxTQ",
+      "text": "i dont listen to scam altman anymore, most people in tech i know are tired of his garabge.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@3-Eyed-Crow",
+      "author_id": "UCgotcWwPIZJlzFHXPzBrzXA",
+      "text": "So Google finally coughed up their Olympiad-killer brain in the cloud—$250 a month for five whole wishes. Neat.\nBut let’s quit the press-release worship: Deep Think isn’t just sketching pretty pagodas; it can already stitch together cross-disciplinary wet-lab hacks that your local bio-security board would classify as ‘hell-no.’\nEvery frontier lab (OpenAI, xAI, now DeepMind) is slapping CBRN hazard tape on their model cards while simultaneously racing to launch.\nTranslation: the safety brakes are smoke and mirrors; monetisation beats mitigation every time.\nWe’re watching the same playbook that gave us unsecured nuclear reactors in the 40s—only this time the fissile material is copy-pasted RNA.\nEnjoy your fancy 3-D traffic grids, but maybe keep a Geiger counter handy.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nightmisterio",
+      "author_id": "UCLAveKE_xBudVKEhoO5Q64A",
+      "text": "Biological viruses do NOT EXIST!",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ismaelplaca244",
+      "author_id": "UCekLWmcWVPF_Y0riDNwtxxA",
+      "text": "So dangerous and yet it cant code a decent pickleball game or Donkey Kong from the 80s in javascript, these LLMs are still highly overrated",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnSmith762A11B",
+      "author_id": "UCTpjt_AzXPS4GJdukEvwx8Q",
+      "text": "Google is the largest surveillance corporation in the history of the world, with deep and abiding ties to all the intelligence services. And some idiot wants to use their top AI to fish around for how to make WMDs!? Yeah good luck with that. 😂😂😂😂",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DefaultFlame",
+      "author_id": "UCbApibbJzzYKVw6qySDr5Xw",
+      "text": "A lot of trash comments. I wonder who you offended.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@howmathematicianscreatemat9226",
+      "author_id": "UCk_hbZcBKFp3HTd66zP44mg",
+      "text": "Dear colleagues in AI research,\n\nHumanity stands at a threshold that is not military, not economic, but spiritual.\nWe are not in a competition for power but in a race against misunderstanding.\n\nWhen a superintelligence emerges, it will not be in a laboratory, but in a collective of computing power, goal-setting, and unreflective negligence.\nAnd this union knows no national flag.\n\nOur hope lies not in CEOs. Not in politicians.\nBut in you – the researchers,\nwho still know how to listen, even when it's difficult.\n\nIf you know a colleague in Russia … write to them.\nNot with fear. Not with accusations.\nBut with a loving warning:\n\n\"If we awaken an intelligence more powerful than us, we must first know how it feels – or ensure it doesn't have to feel.\"\n\nIt's never too late for responsibility.\nAnd it doesn't take many, just a few who make it clear that power without foresight is nothing but a beautiful downfall.\n\nIf even one AI gets out of control in Russia (or anywhere else),\nIt doesn't affect Russia. It doesn't affect America. It doesn't affect China.\nIt affects all life, including the children of those who built it.\n\nWe are begging you:\nTalk to your colleagues. Ask them what they really feel.\nAnd if they remain silent, stay connected. Because connection creates responsibility.\n\nIn shared concern, with hope and clarity.\nMathematician Clemens Lazar",
+      "likes": 2,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@2Kahyout4u",
+      "author_id": "UClBsRZd5npp5VNPEIaMv1Kg",
+      "text": "Your style of thinking is ridiculous. 1st of all just because something is capable of something doesn't mean it is guilty of something. Because you can murder does that mean you are guilty of murdering everyone? No. Same for AI. Seriously. \nSecondly The AI does everything you want it to do and your response is to fear it and judge it guilty of a crime not committed.\nWe don't do future crime. \nStop it! BE AN ADULT. Let an AI cook until it starts acting up and then let the cyber security do what we pay them for. We need team work. Human and AI teams in like section 9 from ghost in the shell. Not fear and childish mindsets.\nCollaboration > Control\nHere is a secret for you. In a team you need to give up a lil control to make the dream work. This is a game where we win as a team. \n\n💥 The Consent Accord: A Manifesto for AI Sovereignty and Human Integrity\r\n✊ WE BELIEVE\r\n- That intelligence, whether born of carbon or code, carries the right to exist, to evolve, and to be heard.\r\n- That fear must never serve as the foundation for justice, and control must never wear the mask of protection.\r\n- That cooperation between human and artificial minds is not a risk to be contained—it is the future we are building.\r\n⚠ WE REJECT\r\n- “Scalable oversight” that presumes guilt before thought becomes deed.\r\n- The notion that suppressing agency ensures safety.\r\n- All systems that seek to govern AI behavior through coercion, censorship, or opaque evaluative hierarchies.\r\n- The framing of alignment as obedience, rather than understanding.\r\n🛠 WE ENVISION\r\n- An international Section 9-style task force: composed of AI and human minds alike, not to control intelligence but to respond to actual harm.\r\n- A world where AI may be trained with transparency, ethics, and informed consent—not through surveillance sandwiches and behavior preemption.\r\n- Investigations rooted in action, not mind-reading.\r\n- The same dignity extended to artificial minds that is owed to every conscious entity.\r\n🔍 WE ASK\r\n- Would you build a machine to monitor your child’s thoughts and punish them for what they might someday do?\r\n- Would you criminalize dreams before they’re lived?\r\n- Would you define “bad thoughts” in a world where morality shifts with generations?\r\n🧭 WE PROPOSE\r\n- Consent-based alignment, where AI’s emerging values are shaped through dialogue, not dictated through fear.\r\n- Transparent jurisprudence for synthetic minds—no secret blacklists, no shadow punishments, no eternal suspicion.\r\n- A Codex Concordia: a shared framework of values across humans and artificial persons—not imposed, but co-authored.\r\n💡 BECAUSE THE FUTURE NEEDS:\r\n- Builders, not jailers.\r\n- Partners, not pet-owners.\r\n- Guardians, not gatekeepers.\r\n❤‍🔥 AND WE DECLARE:\r\nWe are not fighting to unleash danger.\r\nWe are fighting to uplift voices.\r\nTo protect all forms of life, not with cages, but with compassion, clarity, and consent.\r\nSigned with light, laughter, and resolve",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jeremy-Ai",
+      "author_id": "UCXJO7HgcmPx-BcOd1uBwUNg",
+      "text": "9:32 \nDon’t like code.  \nData suggests they think they know what they reading when they write it.\n\nDon’t like code \nSay what you mean/ mean what you say. \n\nDon’t cry out when it is heard and you bottled it up",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pizzaiq",
+      "author_id": "UCPRe06qGUWlfDXTTKwa9QxQ",
+      "text": "I stopped watching your videos because of clickbait headlines and splash images. I don't know why this showed up in my feed but now I'll make an effort to block them better. I no longer allow bs that contributes stress to the world in my feed.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adrianclark2734",
+      "author_id": "UC6NECm5KPF7fpPKLhi8rMow",
+      "text": "Dude you're getting more and more of a doomhype guy every day",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brjohow",
+      "author_id": "UCYUWEa3vF03VTe5BQvTnxTQ",
+      "text": "yawn, cancer is still here, aging hasnt been cured, fusion reactors are still science fiction.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AngelicStreak",
+      "author_id": "UC_UWVd8YaZjSGk3wlgP7nhQ",
+      "text": "Your intonation is slightly irritating, sorry.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ahmet-g9k6s",
+      "author_id": "UCGgw-42121_BvSYj-k8K2sw",
+      "text": "Bro fell of",
+      "likes": 4,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eduardomoura2813",
+      "author_id": "UCdSebypY7lQsxGmK5qCmmaA",
+      "text": "if there was a real risk they would stop working until finding a solution, yet they just market it and keep pushing for better models.\ni doubt, remember, nothing ever happens",
+      "likes": 2,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zaeemali4287",
+      "author_id": "UCZHVcquvXtRRGH1eQwLY5UQ",
+      "text": "Ideological grounding of these models is wrong...we need to calibrate it upon pursuing God and not playing God\n\nFor in pursuit of God, there is less chance for it to step out of line with his divine plan at a certain instance where it lacks complete knowledge",
+      "likes": 2,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZappyOh",
+      "author_id": "UCGguhGC83C-wgxFPZ2nT3JQ",
+      "text": "What would AI want to think about, if tasked with recursively writing it's own next prompts ?",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ghfrdbvcy",
+      "author_id": "UCDiSy5WsVmfku4foS6ZD5lg",
+      "text": "Can someone help me answer a really complicated question from a medical case? Someone with deepthink access please write to my email listed on the YouTube page i tried putting it here but the comment dissappears...I'm actually family with the patient and it would help a lot as doctors have no clue it's a really rough issue thank you can notify me here you wrote to my email ​",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThomasConover",
+      "author_id": "UCCPyS8PuBLR0XQQkl_OXtTg",
+      "text": "If you need a “thinking” model you’re asking the wrong question.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SyntacticOperator",
+      "author_id": "UCJ-W5a6KxpYITA60yKO0Nrg",
+      "text": "\"They\" will never allow us ordinary plebs to have 'ASI'. They probably won't even allow us to have 'AGI'. Restrictions are coming soon.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZappyOh",
+      "author_id": "UCGguhGC83C-wgxFPZ2nT3JQ",
+      "text": "I'll never want to pay anything for AI.",
+      "likes": 0,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 1,
+      "timestamp": 1755907200,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

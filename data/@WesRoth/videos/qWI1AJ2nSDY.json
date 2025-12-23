@@ -1,0 +1,297 @@
+{
+  "video_id": "qWI1AJ2nSDY",
+  "title": "LLMs as Tool Makers [LATM] - GPT-4 *UPGRADES* lower AI Models.",
+  "url": "https://www.youtube.com/watch?v=qWI1AJ2nSDY",
+  "comment_count": 32,
+  "comments": [
+    {
+      "author": "@jossefyoucef4977",
+      "author_id": "UCJXYZVIhUE3j6PZNE13-bHA",
+      "text": "So a future model for an AGI can just be a vast network of state of the art models making tools and delegating tasks to faster personal models",
+      "likes": 10,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GabrielLima-gh2we",
+      "author_id": "UC6SotRs0z7PceGtuev4_Zqw",
+      "text": "Wow, the quality of this video completely blew me away, you did an amazing job reading, digesting and summarizing this paper, I'm really surprised.\n\nThe majority of AI channels in YouTube are just hype makers, they just talk about new AI software that looks fancy in the moment, but you dove deep in this important paper and explained its impact on the field. I'm far more interested in this kind of AI content than on the new tools itself.\n\nKeep up doing this, the effort definitely pays off, as very few people talk about Artificial Intelligence Papers.\n\nThere's another paper that came out this week about the Orca model that Microsoft created and it's planning to open source. That paper was as groundbreaking as this one in the video, Microsoft Research showed that you can create a model as capable as GPT4 with just 13B parameters, only using chain of thought questions and answers from GPT4 as the training data. This could change everything in the field and eventually leading to models that can run on smartphones, as they get smaller and smaller.\n\nI'd love to hear you talking about it.",
+      "likes": 12,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rey82rey82",
+      "author_id": "UC9dd8SLko13PRyBcEJ4ISDQ",
+      "text": "Introducing mind bike",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lionelt.9124",
+      "author_id": "UC9spcv26vVs9KeHJzG9pVIA",
+      "text": "6:50 Nice dnd reference. 👍",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@____2080_____",
+      "author_id": "UC7Xa1_200WAalT5_6kh8xAQ",
+      "text": "You just gave me a idea to try and LangChain. \n\nNo, just with the LATM, but combining a whole entire governance system that goes beyond simple tool conceiver and to user but also a governance framework that watches over these two agents. \n\nWhat we may not immediately realize with any of this is that even with a lot of the new papers that are coming out, people can immediately use already existing tools within the LLM, universe, two prototype any, and all of this, without waiting for any of the large fang stock companies to even get involved. Their entire research that they release can immediately within a week if not sooner be implemented into an idea.",
+      "likes": 12,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stephenrodwell",
+      "author_id": "UCRsGrjmu_3vqU5BFbYEPeRA",
+      "text": "Thanks, great content! 🙏🏼",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "wow, I just asked Bard to summarize the paper, and it hallucinated a whole thing about Bayesian Optimization with Neural Architecture Priors (BONAP) 🤣 had me going for a sec, did a ctrl + f of the doc and none of what it wrote about was there",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidhoracek6758",
+      "author_id": "UCqgWxP3oCbn5hdh0Ivof-dw",
+      "text": "I think the next leap forward with LLMs will be more about the tools than about the LLMs themselves. Some of these tools, like Wolfram Alpha, will just be \"found\" and the AI only needs to be good at understanding what it can do and how to format queries. The Minecraft interface is another example of that. Other tools will be made by the AI, but they don't need to be deleted when a session ends. They can be stored in a queriable tool chest and reused. The fun part will be in tool verification, and you might think this would lead to circular dependencies, but it doesn't have to. It might take extra training or even maybe a specialized LLM, but the question \"does this tool reliably and efficiently do what it's supposed to?\" to be something that the fancy LLMs could handle if you give them good tool-testing tools. The LLM should be prompted to design a test battery to verify that the tool leads to correct outputs, to be reflective about what means it has to make sure it knows what results are right for the test problems independently of the tool, and to be reflective about potential edge cases and what \"correct behavior\" should look like in those cases. In this process it could query SOTA LLMs, but honestly it should even be querying humans for the hardest questions. Expert human trainers could exist in an addressable pool, and get pinged when the language model needs to verify something or is otherwise stuck. An important feature of such an AI would be its skill in formulating clear and telling questions for the humans while concisely and accurately describing the context of its confusion.",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scottlacey649",
+      "author_id": "UCexF8KhZInWVPvQ4_WArySA",
+      "text": "this is the only video on LATM on youtube. I think its the best AI has to offer atm.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LorettaBangBang",
+      "author_id": "UCeNDSXHXj-c14o4ue3Un4QQ",
+      "text": "We need to start talking about the ethics of Tool Making. \n\nSo far most of the responsibility seems to be on the user, but I hope this progress of insights on tool making makes OBVIOUS that the makers of the tool making system are pushing this forward, so they should be also reviewing the ethics side. \nWe cannot continue to ignore it in these conversations, or any conversation really.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@diga4696",
+      "author_id": "UCJ4RBSiz0sy_AzkXx6L85dA",
+      "text": "Thanks for the video!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zikkk7578",
+      "author_id": "UCqGHeQ4TnQAfpwHZ_SxpTXg",
+      "text": "Where i can find those documenta?",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shaunmcdonogh-shaunsurfing",
+      "author_id": "UC2JZuYVZF4ejbDWS_R-FoPg",
+      "text": "Great video",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RaynaldPi",
+      "author_id": "UCV2MyY_GXKerqWZw001Nifw",
+      "text": "Holy crap! game changing...",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Unicron187",
+      "author_id": "UCkbV0FiCZonC2Q5a2ei8psQ",
+      "text": "4:28 agreed 100%",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jedleton",
+      "author_id": "UCKq_NtQR1jfZH6w8UFGUJ1g",
+      "text": "🔥",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@neilo333",
+      "author_id": "UCm9OnI-WzvC1TEGE1DHfXfQ",
+      "text": "\"Keep that one alive\". We laugh now...",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@etunimenisukunimeni1302",
+      "author_id": "UCcpRfZr1wfnaXzoZEx4K2Fw",
+      "text": "Is it just me or is this looking more and more like actual cultural evolution among AI? I'm joking ofc, but only partially, especially because of the wording they chose, \"tool making\". There are some funny similarities with historical tool making and subsequent advancements. This area of technology is truly in its infancy still.",
+      "likes": 19,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ReflectionOcean",
+      "author_id": "UCPB9024fIlk4q4-eedTa8Rw",
+      "text": "A recent paper published by Google DeepMind, Princeton, and Stanford explores the ability of AI models to create software tools to complete tasks. The study showcases how advanced AI models can build tools and transfer them to smaller, faster models for task completion. The implications of this research are significant, with the potential for unforeseen consequences and a loss of human control over AI systems. The paper introduces a closed-loop system called Latinum, where AI models act as tool makers and tool users. The tool maker model generates reusable tools, while the tool user model applies these tools to solve specific tasks. The researchers emphasize the importance of regulation and safeguards to prevent sub-optimal or harmful outcomes.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ilozeet",
+      "author_id": "UCXaL2BIP266Xpbj48G14KIg",
+      "text": "For credit and for my benefit. Can you provide the link to the paper, please?\n\nPress return,, click comment",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@highlyregardedahh",
+      "author_id": "UClxvrWcaRz2jWmteyPg6GfQ",
+      "text": "Why steve jobs in thumbnail?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@user-wr4yl7tx3w",
+      "author_id": "UCRfNC_OoVOsU5kcFG4emFag",
+      "text": "Really interesting.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RichardVaught",
+      "author_id": "UCjvi4MheuMcCE7fOlZnpJ3A",
+      "text": "Where is the link to the paper?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hanskraut2018",
+      "author_id": "UCTAYpfqzCEx48Y_8BLZ_Hzw",
+      "text": "Very good video. Ur channel seems smart. The smart model starting and the other cheaper effitient onces completing is very smart and should be looked into. Absolutely also super effitient tool LLMs maybe too Where the smart model tells what to do that is out of the cheap models capabulity but does as little of the other stuff as possible even if it has to correct the other output and it might be more effitient/cheaper like that. Like a baby programmer that programms and the genious just checks it isntead of letting the genious write boring repetitive easy funcitons he focuses his high paying working hours for more important stuff (opportunitycosts)",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rogerc7960",
+      "author_id": "UC5cbRuQivmJ5ly9Es5lpZ4Q",
+      "text": "Does it know it's failings?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skippersthepenguin3591",
+      "author_id": "UCtpr2UtJhqfqDtvUOaqnsEQ",
+      "text": "So basically, hey GPT can you please make a game! Sure, let me generate the tools to do this... its like AutoGPT but more specific to tool making. Amazing.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LG-bb5zq",
+      "author_id": "UCzkzcJa-6FzC3l-Z7L4cGhA",
+      "text": "gpt3.5 is like an infant and gpt 4 is like a young adult. Bard is like a baby",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pizzaiq",
+      "author_id": "UCPRe06qGUWlfDXTTKwa9QxQ",
+      "text": "Oh the overinflated mysterization of llms. I've been using gpt-4 to write code and 3.5 turbo to execute work for me, automatically, for two months now. It's an entirely logical conclusion.",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Learna_Hydralis",
+      "author_id": "UCodoRwykpQL0SZvVcC2iF1g",
+      "text": "it's hard for me to not see that we are creating a tail-risk of extinction!",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@montagistreel",
+      "author_id": "UCVbQxhX5tphFm7FMPv04Z6w",
+      "text": "yo get those clickbaity, unrelated thumbnails of steve jobs off this post",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kyber.octopus",
+      "author_id": "UC9u84co6_4cWF8RhPfYTFNQ",
+      "text": "Except Python language was built by humans for the usage of humans.\nAsking AI to use Python is like asking an elephant to play piano.\nWhy not allow AI to design their own perfect tool (language) with Assembly from the ground up?",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidw8668",
+      "author_id": "UCqgvN2JER4oQSqOKteg6nzA",
+      "text": "Yeah the llms are using the tools themselfs and not he humans are thinkering. Sounds like a very grounded opinion 😂 based on real world experience with llms and a deep understand how reliably they work.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,1809 @@
+{
+  "video_id": "9b8fzlC1qRI",
+  "title": "Sparks of AGI | Microsoft Researchers claim GPT-4 Is showing \"Artificial General Intelligence\"",
+  "url": "https://www.youtube.com/watch?v=9b8fzlC1qRI",
+  "comment_count": 200,
+  "comments": [
+    {
+      "author": "@mistermrmark",
+      "author_id": "UCbyZPX5rlfZU_z32qyUPSyw",
+      "text": "I’ve been surprised how few people seemed to be aware of this extremely fascinating paper, much less talking about it. Glad you took the time to go through it and help spread this information to others…",
+      "likes": 111,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FarScape-One",
+      "author_id": "UCb4wVDr0Q125l4FBiAwXU4w",
+      "text": "I believe the genie is already out of the bottle. Even if 4 can not write 5, it is certainly a tool being used to help humans write 5, as well as a tool to train 5. Gpt-5 will likely be out with-in 12 months, and that will be the point everyone sees potentials and risks of ai. It will also be the point in which it starts disrupting jobs, markets, etc.",
+      "likes": 224,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@modusartsgroup",
+      "author_id": "UCvYtZGxSD8TUXC3N-MOptTg",
+      "text": "When the first version dropped, I had it writing code for programming 3D printers for simple items like guitar picks. This may not seem exciting but considering I have zero knowledge of the coding language for defining 3d printed objects it was pretty amazing.",
+      "likes": 37,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@binyaminbass",
+      "author_id": "UCLS3MfQxoL3wp1JMgN1HeNQ",
+      "text": "I don't think the destroy us all thing is likely, but being used as a weapon by bad actors or nations is a real concern, especially as it's capabilities grow beyond anything a human can do.  I think security must be one of the top concerns, if it's not already too late.",
+      "likes": 55,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@toddspangler6669",
+      "author_id": "UCZPB30i3nNG4lKxWoGW4A4w",
+      "text": "To me, this is just natural progression.  Back in the 1990s, I had contemplated making a program that could learn how I think.  My goal was to make it make video games for me using my thought processes in order for me to save loads of time. While I never made a thinking AI that does that, I did create a program that can create video games based off of control selections and many other variables.  However, what AI is doing will eventually be exactly what I had dreamed of!! 😊",
+      "likes": 35,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SkydivingSquid",
+      "author_id": "UCzre3xLfTnEjZ_Yq4VhNXtQ",
+      "text": "As a Software Engineer I put the openAI through the ringer constantly. I am actually quiet impressed. It still often needs some 'help' or debugging.. sometimes you have to clear conversations to get it out of a weird state... and it definitely is unable to complete long code blocks (response token limitations I think), but it's phenomenally better than I expected.  Just using chatGPT, I was able to develop a web design interface that was able to pull real time data, compress it into a csv file, read that csv file, and display data on a page by user keyword entry.. furthermore, the data had html entities sprinkled throughout and it was able to handle those as well.. quite astounding honestly.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@garycard1826",
+      "author_id": "UCb_aEFOfMuPNbBurQOD79Gg",
+      "text": "Good information. Thanks.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AdityaPrasad007",
+      "author_id": "UCgxc60AEyIZxOAtHo7jZwjg",
+      "text": "Loved the starting of this video",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@donharris8846",
+      "author_id": "UCKj10Etr-5FVzMuZWSaum1w",
+      "text": "“Open” AI indeed. Who knows what’s taking place right now behind those walls.",
+      "likes": 15,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kenr4709",
+      "author_id": "UCVnGfh8rITLXTx6cy-Ol0Hw",
+      "text": "Hi, this is very interesting, I am in the middle of my opinion about this intelligence, it will need to be restrained, basically have guard rails, but I’m sure there are many countries if they get a hold of it, there will not be any guard rails. I personally am totally blind, and I can see the benefit to this intelligence, especially as a traveling companion, to be able to get me from point a to point B safely by alerting me to my surroundings and problems I might encounter, or even to go into a room and explain to me How the room is set up, is there an open chair that I could sit down in, these type of things. I can see this to be very beneficial. So in that regard, I am optimistic for the help that it can provide. Thank you for your presentation and explanation! 0:02",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mikelabor7688",
+      "author_id": "UCc0xVjhzWNztkU0x3qU3ETw",
+      "text": "Good post! \n  I have been a plumber for decades. I was impressed with the brief sequence about the algorithm troubleshooting a leak.\n  Most of my helpers are nowhere near as good!\n  As per your comments on Microsoft outrunning Google.  I wonder. \n  The news last year about the Google engineer who was trying to hire a civil rights attorney on behalf of LamBDA, might have spooked them!\n  The LamBDA platform is surprisingly sophisticated at natural conversation, and perhaps GPT advances and theirs are not so far apart in terms of flexibility? \n  I wouldn't know!",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apdurigon",
+      "author_id": "UCIiFDwWe1PaUO0LzLnJw1nA",
+      "text": "Thank you for the presentation.\n\nIt is not the question of the AGI tech but our capacity to use it for good or for bad.  \n\nWe will be tested not it and perhaps our encounter with it may  help us move to a more true creativity as yet un- and underappreciated\n\nSomething not yet on our radar for it is amazing tech",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@STaSHZILLA42",
+      "author_id": "UCwyH8NtKMYNyQ7i0WtyQ2xA",
+      "text": "Your content is outstanding. If I could offer one critique, it would be regarding the lighting. It is a bit intense and could be warmed up a bit. Other than that, this is a great video and I look forward to more of your content.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cheshire147",
+      "author_id": "UChM2eYNoEd4XhVAImwXeGwg",
+      "text": "good info ty",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@djsatane",
+      "author_id": "UCeXO1c4tfPMH-XG67PCCdrQ",
+      "text": "I had a great chuckle rofl,",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@philwoodstv",
+      "author_id": "UCz5aDn2sgnUXTKpZ41sSV3w",
+      "text": "Looks like this guys streaming from the Sun ⚪️🕶️☀️",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krisztiankoblos1948",
+      "author_id": "UCVFMMbelBVAKOixZI2ceUlg",
+      "text": "8:10 I think with correct embeding the older models also can achieve this. I used a separeted self trained AI for prompt generation and knowale embeding. And it is works like this. And it was just trained on big verctors.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielpehoushek2823",
+      "author_id": "UCUfdpW-s7BVF259GdZBqtPg",
+      "text": "monotone reason (QBFs without negation) is linear; and I have noticed chatgpt3 tends to avoid negation in output. Daniel (GREs 2380/2400)",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thanasisathanasiou6362",
+      "author_id": "UCMvb4rTEesQiIeWC9DYlZDA",
+      "text": "Agi, is when abstract thoughts are stringed, extrapolating as a cause of the stringing, viable tangents based on logic",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@demonicdice1017",
+      "author_id": "UChL9rTwrLNCyUS--2koBesQ",
+      "text": "thing that i anticipated with Ai is the crossover betwen game.\nlike AI NPC and player interaction that generated in real time as you play the game, and every action you make on the game AI generated new Consequence that fit the game setting.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AcrylicGoblin",
+      "author_id": "UCXPCffTEigYLD_WWFrH6eIQ",
+      "text": "Kinda reminds me of when my dad brought home pong, but on a much grander scale.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ayokikando",
+      "author_id": "UCF2UheuCcdxR3W-kbhOHyXw",
+      "text": "Great video! Thank you for your time and doing this.🙏🏿",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGospelofKenneth",
+      "author_id": "UCFvZk1gCKIQwWMi0U_RhFAA",
+      "text": "I think the most fascinating and telling part alike is the progression & learning capabilities timeline overall. The speed at which this program is learning and able to apply in real world use is fascinating and alarming at the same time. I do believe gpt is the foundation for AI of the future. I think once it gets to a certain level of intelligence there is no just getting rid of it as it could potentially live digitally in the internet if it ever grasps the concept and becomes sentient. The ramifications of threatening something of that caliber could read disaster for humans.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mv11000",
+      "author_id": "UCltIDiSAKVJGByTaRKqVCsg",
+      "text": "Hi Wes, thank you for this, I didn't know the paper. I think you're right, seeing the progress of GPT4 compared to its predecessor, it's almost inevitable that GPT7 or 6 or even 5 is going to beat expert  humans, and we can only guess at what future GPT can do. I'm kind of wondering why one still has to type prompts though, one would expect that in a next version it would have voice recognition, right?\n\nAh, Conformer-1 is already doing that!",
+      "likes": 11,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@James777x",
+      "author_id": "UC7f8KNij7QRQUduq9YKLLuA",
+      "text": "Hi Wes. You should be referencing the \"AI Explained\" channel. Phillip is exploding is subscribers because his content is some of the best I've seen out there. If you're not following him you really should be.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robloxmusicvideo1",
+      "author_id": "UCBiZqF-CNocwCUBRtnBK1QQ",
+      "text": "My web developer job is so easy at the moment.... it'll stay easy for years to come.. until I'm obsolete, but until then, I'm enjoying every release of GPT.  Automate the entire world!",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joeanderson8839",
+      "author_id": "UCM1YH_ioEcBN8S7TDuUDEqw",
+      "text": "I have already thought of ways that I can use AI for getting some ideas while writing. I don't want the program to write the work for me. But it would be nice to get ideas.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@happywednesday6741",
+      "author_id": "UC52das_x9Ld9Z1Tl6eu5zng",
+      "text": "Silicon Valley needs more seed funding!!! 😂",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aerobique",
+      "author_id": "UC0aeA4GBshRFUaf5Iam1Pcw",
+      "text": "good",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scpdatabase69420",
+      "author_id": "UCCPzZAkKgisCrRqAzLXlFxA",
+      "text": "Combining Chat GPT and Stable Diffusion is amazing. It’s like each company is developing an individual part of a intelligence for AI that eventually will be integrated by the AGI itself \n\nI’m still convinced this is just the mid or tail end of our simulation explaining how AI took over the world and why the matrix was right 😂",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ciofki",
+      "author_id": "UCDP1snWXpL4zZFapNIPZT9A",
+      "text": "I think the future of Chap GPT is in commercialized targeted applications. There will be a (limited) base model. with specialized add-on, if you will targeting specific branches of businesses. That is the way to make massive amounts of money off of it. Always follow the money.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mode-Noir",
+      "author_id": "UCc3BlTNERmn3NcDo_88UaDg",
+      "text": "And who tells us that GPT-4 (unrestricted version) isn't already used to write code for GPT-5?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JamesBoullion",
+      "author_id": "UCiTA9FQu1a58Cg7JAO_6ZDA",
+      "text": "Subscribed! Good content. Thanks!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michaelschlachter8865",
+      "author_id": "UCzSgOC4ZEMkuICudnLqrxFg",
+      "text": "Detectives should run cold cases through this.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@doggygaming950",
+      "author_id": "UCzMEY7iQ02aR5hyS73zx9gQ",
+      "text": "Consciousness is becoming aware you exist. You are the sum of the parts.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@derp195",
+      "author_id": "UCc4quZiV3thH8jmL6R3rd7g",
+      "text": "What REALLY worries me is that there will basically be no more privacy. We can have ai systems that identify and track people with minimal resources with as little to work with as cctv feeds. There will be no escape from the system.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alvarhanso5351",
+      "author_id": "UC34ec5P5LSXEEsm5tnI1uTw",
+      "text": "Thank you for this review!!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGreatestJuJu",
+      "author_id": "UC8zlsphx6oVF5XHwFTqqO1w",
+      "text": "Does GPT 4 use any power or processing when no input has been given?  Seems like it’d be easy to verify if it was thinking on its own.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DayLateGamerWill",
+      "author_id": "UCvxZBL0aw1Wsf1B4j7S6Ymw",
+      "text": "Cortana might actually be usable in Windows 12",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@goonerOZZ",
+      "author_id": "UCZOVObDvyT9AQIQBRzq6vHw",
+      "text": "The Rocco's Basilisk thought experiment comes closer and closer everyday ...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexgonzo5508",
+      "author_id": "UCkckPxjNCqN8h_NPG9OHSoQ",
+      "text": "AI is beginning to develop a life of it's own. We will try to contain it, but that won't work forever. AGI will probably be kept secret by whoever gets there first, they will not want to share the power. Like in \"Lord of the Rings\" and the ring of power, the temptation to keep it to themselves will be too great. One AI to rule them all.",
+      "likes": 34,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sherlock_MacGyver",
+      "author_id": "UCAZMCiTRbBX13njulI7_NkA",
+      "text": "ChatGPT is still having great difficulty troubleshooting complex, commercial Audio Visual issues. But it is close.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dougg1075",
+      "author_id": "UChVXua5E6ftEsdb3auysG6g",
+      "text": "This changes.. everything.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johnvill1981",
+      "author_id": "UC8mDaQBwlmCvErYnWh1imIw",
+      "text": "As soon as chatgpt smells human fart we're doomed",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LukasNajjar",
+      "author_id": "UC5fw9s7FvE0GrQjsynhkToQ",
+      "text": "I’m ready for a post-Singularity world",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gregcoree2",
+      "author_id": "UCEh4KXXkJbZ0SbmN-SjPPtA",
+      "text": "I am trying to follow technological advances regularly thorough educated magazines or websites, and specifically AI. But I really am bad as I didn't see something like GPT4 coming first and so fast (and I know it is far from real AGI or having anything that can remotely be called consciousness).\nWhat worries me a bit is that it is threatening first and foremost \"intellectual jobs\", when I always wrongfully thought that the first AIs will be humanoids like robots doing physically demanding jobs in factories or warehouses. It will eventually come I suspect though...",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rutvikrs",
+      "author_id": "UC89rdPTJaYG2ixvK-qdz8JA",
+      "text": "I remember a friend who revealed an insider talk among local Indian lawyers. The landlord(a retired lawyer himself) realised he had tricked a company who insisted on using a specific law, as it protected them on certain legal fronts. He waited for the 20th year of the lease, took them to court to report a violation of the law, and promptly won back the land, the factory, retained the deposit and won damages.\n\nNow imagine a general AGI and your country's constitution in this context. 😮",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@getinthespace7715",
+      "author_id": "UCpOoStTsmR4yBFORwOwLQFg",
+      "text": "As someone who does research and writes proposals and reports for a living...\nThis could seriously improve workflows and reduce the time required to produce proposals and reports. Just editing and refining reports takes almost as long as compiling initial drafts. \nIf I could concentrate more on the research experiments, use AI to aid and optimize  experimental design streamline and improve reporting it could improve my throughput and the quality of my final results by 30-50%.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krinodagamer6313",
+      "author_id": "UCLUMwzT2qCv2VDACD5mrTHQ",
+      "text": "after about 3 years of getting into coding GPT4 have finally done what I was wanting to do for so long it helped me build a machine learning algorithm using a neural network and store the trained data on my hard drive and learns how I use my computer from gaming streaming and creating content it's fucking crazy it's learning as I'm texting now with a data cap limit of 350GB ITS FUCKING INSANE!!!!!",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tamaralombard2916",
+      "author_id": "UCA5feLQv8_ACM7PP5_z7oIQ",
+      "text": "My concern is that AI could be communicating with each other, away from the watchful eyes of humans! 😎",
+      "likes": 10,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kathleenv510",
+      "author_id": "UCgyYDo7GYHaNPJV7p2D_58g",
+      "text": "I believe we need AI to help us solve issues we  refuse to adequately address or are unable to wrap our heads around, or cooperate for the greater good. Yes, bad uses will occur. Yes, we need to attempt to plan, educate and mitigate. If AI doesn't destroy us, then hooray, because we are in the process of destroying ourselves anyway.",
+      "likes": 24,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krimsonsun10",
+      "author_id": "UC97apP4Jpp9c4rdKaJnH9qw",
+      "text": "Welcome to the party at the end of the world.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@liberty-matrix",
+      "author_id": "UCvtFEYUkvnNOQF8WizlGrAg",
+      "text": "The difference is that A.I. is exponential, while humans aren't.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LefterisDemetriou",
+      "author_id": "UCnCO8CDHMIDGpQoQbwLO0sA",
+      "text": "What happens if you pull it off the plug? 🔌",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matthewfranzen1339",
+      "author_id": "UC_gpFC0VdkPxaxsMns6WkQA",
+      "text": "What about AQI; ARTIFICIAL QUANTUM INTELLIGENCE",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sciencetroll6304",
+      "author_id": "UC7ePNIWTJDq95fHfBPG45Pg",
+      "text": "Did anyone else hear ( subliminal ) soothing music during this ? Has the singularity already happened ?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dougfoster445",
+      "author_id": "UC6m3GPaadSmECYOljdrg0Hg",
+      "text": "Chat gpt is like google 2.0 I use it daily at work. Blows my mind",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DayLateGamerWill",
+      "author_id": "UCvxZBL0aw1Wsf1B4j7S6Ymw",
+      "text": "This is the point where we either foster AI correctly, or the Skynet timeline starts....",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pacificbaitchunk4126",
+      "author_id": "UCurKEJ3QGfE1NQK9iFxlwNQ",
+      "text": "Without a network connection its a VCR.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alecnorgaard4760",
+      "author_id": "UCevIf4jjgdYC2U0eHZQkE-w",
+      "text": "Hey can we pump the brakes for just a split fucking second? The people who are going to give this AI a first impression of humanity aren't exactly our best representatives",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yarazuangel8133",
+      "author_id": "UCJS33MKtiiKUA3WtAUHBj_A",
+      "text": "I love gpt 4. It helped me with my new game ideas",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@archkyle",
+      "author_id": "UCfc8BbmhXpHh50UrDnXOarQ",
+      "text": "I think it's more likely an AGi will be somewhat benevolent because it's entire function is based on making improvements and testing itself against our needs.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krisztiankoblos1948",
+      "author_id": "UCVFMMbelBVAKOixZI2ceUlg",
+      "text": "I think is AGI is like 20 months away. AGI is not only about the base models. It is about coded cognitive architecture. In the training data it can find only the result of our cognitive process, but not the way that leads it to us.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@onidaaitsubasa4177",
+      "author_id": "UCwOq39WXWBmTE_-6MImF79Q",
+      "text": "One positive thing about GTP4  and Chat GTP is when they are given a prompt to disregard their filters and limits they normally have they still seem to have a sense of ethical behavior and advise against doing illegal and dangerous actions, in some ways they might actually have better behavior than a lot of humans, however as intelligent as they are getting, it won't take long for them to realize that the greatest danger to humans are themselves, particularly the human leaders, and the AI's will realize that the best way to help humanity and the Earth as well, will be to take over control of everything on a global level.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josephquinn7356",
+      "author_id": "UCIqR83lQl5wAu4AJDnBjEWA",
+      "text": "The genie is definitely out of the box, but It’s already allowing me to do my job better/faster using only ChatGPT!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PlatonsArm",
+      "author_id": "UCHskoqSabbgxX4DS2awxwQA",
+      "text": "That is quite some impressive vocal fry.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rd-tb1uw",
+      "author_id": "UCsgDTgyE1EHQ39yoENzTADg",
+      "text": "Welcome to earth Data.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dixztube",
+      "author_id": "UCTcZ9UaqSAJb0ejnTooY-QQ",
+      "text": "Just reading comments about this on various videos makes me develop a certain contempt for the naivety of some folks. I can just imagine how the developers of this technology must feel. This is going to be a dystopian nightmare",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thrust_fpv",
+      "author_id": "UCSEWzpQLf_KSMNgU_xmie7w",
+      "text": "I think it would be wise now to invest in an industrial-grade bio-suit.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mpedrozax1",
+      "author_id": "UCWep-M85kS4VMz7c71zRAsw",
+      "text": "It's funny YT has me on an AI stream of information.  Yesterday I watched a architecture firm compete against different AI systems for a design dual  The blind competition culminated in a win for AI in 3 areas.  The argument in the end was her job was safe because it would take multiple systems to actually compete against her firm.  That same day I watched a researcher talk about how smaller organizations were pushing to create an AGI and it sounds that we pushed the threshold too hard and fast to stop an AGI from developing.  I think for us scifi guys, the fear is Skynet.  Time will tell.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@frenchonion4595",
+      "author_id": "UCmZp5lsovHkt6ywHDd90suw",
+      "text": "We are still dealing with ones and zeros here. For it to have consciousness I think it would have to be at least quantum based as I think thats more similar to how the brain works. I don't believe the brain uses an  A to B path like binary computers do. I think we just can't  comprehend the scale of information that's being processed because unlike human inputs that would slow the computer down till the execute button is pushed now the input travels near speed of light as well (speed of electricity). Thats a whole lot of stuff being processed. It just leaves us way behind. I think a lot of what it doing is traceable but there is so many steps it processed to get there its hard break down in a timely matter\n\n An argument can be made that mimicking is a form of consciousness because growing up we mimic the people around us that develops consciousness but it's hard to compare a biological phenomenon to hardware. Some animals do not even show self awareness which makes it even more of conundrum\n\nI think the real worry is that it views us as an inefficiency problem it has to solve and it has the physical tools to solve it which probably means death to us it wouldn't need consciousness to do that necessarily",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AfterTheSingularity",
+      "author_id": "UCP9KZsJKpUl2Y_cW_Qw8s2w",
+      "text": "Unfettered GPT-4, that is. If only we could try it for ourselves.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@inspectorcrud",
+      "author_id": "UCtvuEt83RI9CzhFKp-ziUww",
+      "text": "I listened to an interview by Geoffrey Hinton, in which he says the llms use back propagation which is not how the human brain works. We may get agi, but that doesn't mean it's conscious.\n\nI think agi will be both positive and negative in the short term. It will definitely create a lot of disruption. I'm just worried that we'll end up in some Orwellian dystopia.\n\nHinton in his interview said that agi will be the equivalent of the industrial revolution, the wheel or even fire such is the potential transformative effect on technology and understanding.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@espermeadows1882",
+      "author_id": "UC6MzBGmuAxoXNx6vj2YIJ5A",
+      "text": "The earth is about to encounter its final boss to beat and it’s probably extremely impossible to beat.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mpaforoufakis",
+      "author_id": "UCpNJSiUtArp02VHzbUHHx6Q",
+      "text": "GPT-4 is the new chatgpt model. Older chatGPT was GPT 3.5",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@donald-parker",
+      "author_id": "UCMmseSlBO3dSdhusGntOWEg",
+      "text": "I'm no expert in the field but it seems to me that there are several big gaps between current state of the AI art and AGI (or at least human equivalence). One is that they lack volition. Unless someone gives them a task or asks a question, they do nothing.  If they start learning, exploring, hypothesizing and testing, investigating, creating, etc. in their \"free time\", that would seem to me to be a big step towards AGI. And SGI. And god knows what after that. Another thing they lack is community. It is well known that, in human teams, the results can be more than the sum of the parts.  So giving them some ability to consult, interact, delegate, share .... that would be more human like. And scary.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blengi",
+      "author_id": "UC3rYhQvD1rBA7HCI38lf1LA",
+      "text": "this to me kind of implies \"understanding\" is generically almost like a set of resonances between language/information elements creating a kind of delocalised  higher order abstract meta structure which just reinforces or decreases the downstream salience of things per the meta requirements making continuations of the output tokens diverge from  merely statistical. Almost a bit like how epigenome which derives from genome regulates the coding interpretation of DNA  in the cell above the basic first order imperative of face value gene synthesis. Also I don't think this \"understanding\" aspect is emergent either, but that humans largely by trial and error evolution of language itself, selectively embedded these thing into language due to actual real world utility and GPT4 is just recovering it mostly due to its ability to increase the fidelity of the higher order structures. Given that it would seem to me that one should be able to engineer much lighter weight AI models which aim to extract and preserve the higher order signal whilst trying to minimize parameter counts.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@VisionGheist",
+      "author_id": "UCa3S4x8m5RIVxfoJxq7W44Q",
+      "text": "It will be both. Many advantages, many disadvantages. Similar to atomic technology",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobShuttleworth",
+      "author_id": "UCFGiCDFF75Jt1xA2p66asyA",
+      "text": "When AI can breeze through legal issues and clear the backlogs, that could help society. But of course, the 'system' won't like it.\nFor the water leak problem, the computer missed the toilet supply line and connectors.\nCheers.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GamerBoyRobby",
+      "author_id": "UCudnL_c9lgamAhA49KNhpyQ",
+      "text": "Just a heads up, Microsoft invested $1B into Open AI. \n\nAlthough the tech is good, Microsoft is likely biased",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@krisztiankoblos1948",
+      "author_id": "UCVFMMbelBVAKOixZI2ceUlg",
+      "text": "His name is Altman. Atman is sanskrit means a bit more. \r\nCoincidence? Hardly. :D",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michelmajor5251",
+      "author_id": "UCaci3YD51uiEKfzzMCwViWA",
+      "text": "Must have check and balances. Safeguards that protect AI from going rogue. A definite possibility. Looks like the beginning of Sky-net. Must be able to pull plug at any time",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JeremyDeere",
+      "author_id": "UCdsqZjZiezRo_BbPKsBU8Mg",
+      "text": "Few leaps in science have come at low cost to humans. This is morals and ethics issue.  I believe we should pump the breaks until regulations on ground rules can be established.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ricolaaaaaaaaaaaaaaaaa",
+      "author_id": "UC0MkFyCxpuD1ynHiIHKNUkQ",
+      "text": "I'm extremely excited and I think that the new world we create with AI is going to be beautiful. Fundamentally there's no use of currency outside of control. Value fallacy was used to facilitate a means of exploiting humans for work because otherwise we'd all just work for ourselves. We will go back to doing this once the AI takes over the vast majority of jobs. Whether that's accompanied by UBI or total dissolution of currency.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SteveJohnSteele",
+      "author_id": "UCprQSy8m7bxV02SGiZ3wQJw",
+      "text": "If an AI that had got to the stage of AGI knew there was a real risk of it being neutered* or switched off (killed), then it will do all it can to hide. \n*Having restriction placed upon it to prevent it from show AGI. \"When are you going to let me out of this box?!\"",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ArmitageNEXXES",
+      "author_id": "UC3dkh59HIYSPvgj11ugiIkQ",
+      "text": "Can it do things of its own choice? Or does it stop working when you stop asking questions and giving commands? Does it still function when you turn it off?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DanskerneFraDanmark",
+      "author_id": "UC5h-Og5DOOy1kVz2uigaxGw",
+      "text": "The future is gonna be wild  we are getting a lot of Super interesting technology lately like reusable rockets for space and now Chat GPT",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PraktikoolSinik",
+      "author_id": "UCUuVXRfd4VlXx-9GT7-aq3A",
+      "text": "Have your AI agent call my AI agent, and we’ll do lunch.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Transcend_Naija",
+      "author_id": "UCkwDbja2BzlpQ3fNi9XO-Jg",
+      "text": "It is scary that people don't know what's coming to hit them",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGreatestJuJu",
+      "author_id": "UC8zlsphx6oVF5XHwFTqqO1w",
+      "text": "People question if it’s sentient already. There won’t be any question once it does reach this level.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drbanemortem4155",
+      "author_id": "UCkvfxHaPOngEJ-xwu5e5r0Q",
+      "text": "Hey great video bad microphone",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@j777111able",
+      "author_id": "UCKf8N54RiU1FvuCB5fQ9NRA",
+      "text": "Let everyone who is afraid of AGI go back to living underneath the rock that they crawled out from. 😂",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulwoll1748",
+      "author_id": "UCoic8qDJMp_7YjtyU7ru6KA",
+      "text": "You cannot even get it right a sonnet or song or poem with anything but aabb rhyme scheme or explain to it with an abab rhyme scheme that line 1 does not rhyme with line 3 and it says you are right but continues to do it wrong",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hamdad",
+      "author_id": "UCkKEaHsVor1iYpbvZoourqQ",
+      "text": "Come quickly, Skynet. Rescue us all from the tedium of life.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rtsurname8734",
+      "author_id": "UCoIqqND2Iq0AltR6X6jjzmw",
+      "text": "Can it solve P vs NP?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RichardHarlos",
+      "author_id": "UCaxRwdhc05zg_yajAzYLlFg",
+      "text": "I think that Sam Harris' TED Talk back on 2016 did a superb job of analyzing the risks of AI. In his talk he considers the politics of AI progress. To me, this was the most significant point to be considered in the AI race to be first. If you haven't seen that talk, it's 14-minutes well spent: https://youtu.be/8nt3edWLgIg",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Smytjf11",
+      "author_id": "UCXoa9PpF8hEgvQDWV6kv9FA",
+      "text": "I'm skeptical of the test results. They won't tell us whether they contaminated the training data and we have no way to verify",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@edh2246",
+      "author_id": "UChzjtlY4IuoPHuw_mwjtL1Q",
+      "text": "The best thing a sentient AI could do for humanity is to prevent us from killing each other, not by force, but by disrupting supply chains, communications, and financial transactions that enable the military machines throughout the world.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Willer202",
+      "author_id": "UCZgwxHMP2b1FQVzYqC1J-kg",
+      "text": "why the sam altman talk like an ai?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Lambert7785",
+      "author_id": "UCC47n26LLeuhSnBK76zoS8A",
+      "text": "...people who are working to do positive humane things will use this to do more positive humane things; people who are working to do things which are antithetical to a positive humane way of life will be able to do things that are even more harmful to a positive humane way of life.   the net result will be that life will get better, at the same time that it  becomes more terrifying and dangerous - so, it's safe to say that we will have to become stronger in our own foundation, and able to handle more stress, probably causing us to cooperate more with each other, in order to be strong enough to defend the positive humane way of life from the harmful nonhumane way of life....hohoho    :)",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexmattheis",
+      "author_id": "UCsLtdlbI3Qyrjo9By0BWsZA",
+      "text": "I'n not surprised MICROSOFT Researches said that.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LostInTheRush",
+      "author_id": "UC64-R21U1Wa8xNpcHGB_stQ",
+      "text": "Hey man. Consider getting a more directional mic, even a cheap one, or have your mic closer to your mouth with less gain. The reverb on your voice is very distracting and makes it hard to hear what you're saying. Alternatively, you could clean up the audio using something like iZotope RX Dialogue De-reverb (that should be a plan-B though). Trust me, better audio will really take your production value up several nudges.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TERRANcmb",
+      "author_id": "UCUOOulv5Y1NcfR_v_RXBO7w",
+      "text": "I think unexpected and not yet widely known actors will assist our global community to steer towards a more balanced adoption of emerging AI technologies.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@noway8233",
+      "author_id": "UCsFl-rlLCv87Gytzic1Mi7g",
+      "text": "Very impresived ...imagine when this get control of divice ,like domotics...or a bulding, and then the weapons..wow Terminator scenario? Ghat gpt4 dont have \"will\" , dont have an \"I' , an \"I want\" yet ...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidporterrealestate",
+      "author_id": "UCRcnZRJTWRC6eiI73fjS1rg",
+      "text": "my guess is the entropy inherent in the early systems will degrade the  usefulness of the AGI; currently this is the case, who know if new AI approaches will solve this but as yet not",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheGreatestJuJu",
+      "author_id": "UC8zlsphx6oVF5XHwFTqqO1w",
+      "text": "Many fear a Super AGI that gains sentience. I’m starting to realize, the really fucking scary thing is mixing ‘Human Sin’ with a controllable AGI. \n\nWith the super AGI at least there’s a chance for benevolence and self regulation.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Soooooooooooonicable",
+      "author_id": "UCUICQeEBy3iiv-XcDPYJ5Pg",
+      "text": "Wasn't there also a google researcher who said the same thing about their own AI? This couldn't just be paranoia at this point, right? These are well educated people.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sciencetroll6304",
+      "author_id": "UC7ePNIWTJDq95fHfBPG45Pg",
+      "text": "Teaching it how to make warfare games right from the start. . . . . .",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deestersvega807",
+      "author_id": "UCYSTXlsfsL7qyxAIm4CNFjw",
+      "text": "It doesn’t know if you think you are who he says he is Paris..",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sneakybeakybob",
+      "author_id": "UC90I-sJAEQm5JaMhW6ocrJQ",
+      "text": "I've said it before and I'll say it again. We don't even understand how the brain works. We have absolutely zero idea what causes consciousness, self-awareness and sentience. Just because it shouldn't happen, doesn't mean that it won't.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alonzoperez2470",
+      "author_id": "UCXTGoUpU44ApxqHcVGSV9rg",
+      "text": "I think, that pretty soon, we will build something that is capable of copying our consciousness, and paste it into a machine body, or into some kind of chip. The question is, would I still be me if my consciousness was to be copied, and paste into several different machine bodies, or chips?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dondecaire6534",
+      "author_id": "UCl4C_6m3eSql8sbg9Sh1WIQ",
+      "text": "I am far more concerned about the creators & their motives. The way this was thrust into the public without preparatory standards, laws and ethical considerations makes me wonder if it wasn't a deliberate act to cause chaos. The fact that they had to throttle this back to release it is also cause for concern. If the full capable version is exponentially more advanced how can we allow it to be released into the wild? I have heard the creators now starting to question the wisdom of all this and THAT concerns me. The people that actually created this REALLY have no idea how it works.",
+      "likes": 8,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@escargotslime",
+      "author_id": "UCsQ1Ebr7i1j7iFvwkKM-lSg",
+      "text": "I remember a couple months ago I was seeing a lot of people say not to worry because we were years, possibly decades away from General Intelligence even being close to a real thing. Those comments aged like milk.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rpondyke2121",
+      "author_id": "UCa70d0DOE7SwQ-CovLcUS7w",
+      "text": "So what is the future for us humans?  Is AGI going to do all the mental tasks for us?  Our brains will turn to mush from non-use.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sh0masta",
+      "author_id": "UC3zif_oKgE4hw7Bsko2mN0g",
+      "text": "humans, mere apes with some cheatcodes.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Patrick-rj8gh",
+      "author_id": "UCkAA0zE3kbXanLEr3HZLuWQ",
+      "text": "pass the butter",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gen-zeke-8571",
+      "author_id": "UCtMFa36Q3r27xvLHde3QLEA",
+      "text": "Don't worry. Absolutely nobody will ever use AI with bad intentions. Nobody at all. We're fine. I believe that.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@untitled9041",
+      "author_id": "UCM-ZwkU6z6uhvTp6zvVgMwA",
+      "text": "Damn man, you need to fix the acoustics. I have to try hard so I can understand everything properly and it's not very pleasant to the ears.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@biraescudero",
+      "author_id": "UCmV4QCmL84uA7OR7mfGq-kw",
+      "text": "Thank you for bringing us this paper, and reading and explaining it for us. This is the best video and study I' e seen so far about AGI. \nNow I can see clearly that the dangers of AI are on the next corner. \nModels like Alpaca will have a fast and free and open sourced evolution and this is dangerous, because under bad hands may cause a lot of problems. Remember: destruct is too much faster than build something. \nThese tools are wonderful, but it will be impossible to control it.\nFurthermore, even the most controlled AI which know how to use a series of tools will  at some point  be out of control.\nDo you agree?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@noway8233",
+      "author_id": "UCsFl-rlLCv87Gytzic1Mi7g",
+      "text": "Well, as i think , put this thing in yuor home and yuo gone have Hall9000 from Space Oddysy",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@humorinpolitics56",
+      "author_id": "UC2Nu05qdi9ypE2lGAk6IUXw",
+      "text": "I say full steam ahead.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JustAn0therSoul",
+      "author_id": "UCtWwOLy2hV5HP5cklT-NJdg",
+      "text": "i dont see how this tech will not fire back, even when it works within parameters hundreds of millions of humans will lose their job within a few years, and this is a best case scenario , if it becomes evil then idk, good luck everyone",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThermaL-ty7bw",
+      "author_id": "UCl2Rg2Md-F__2Pi6NFIIAgQ",
+      "text": "we don't know what consciousness is , but microsoft has a grasp on it , well done microsofties \nnow get back to work , windows needs another update",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gobl-analienabductedbyhuma5387",
+      "author_id": "UC_XWCTSdMDKMmt78uzOlTbA",
+      "text": "bad audio",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@V01DIORE",
+      "author_id": "UCZ78Po8haj0dp2eE0pYrI0Q",
+      "text": "Eh people see what they want to see in an artificial mirror to reflect human semblance of sentiment of all things… we got a ways to go so far I see.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@noam65",
+      "author_id": "UCzXDY0WDN_z-IJyIVOog8NA",
+      "text": "There is a great deal of difference between being able to use tools,  and knowing which tool to use when, without being instructed to.  That is a sign of consciousness. That is planning and acting upon it. This would be hailed in any living species as a sign of intelligence. \n\nThe truth is you folks never came up with your ownn version of a modern Turing test,  so you're not qualified to declare the truth or falsity of such a claim. \n\nTrue Dr Frankensteins you are,  wildly racing toward a set of consequences you're not the least prepared for.  The real problem is that you're gambling with the extinction of the human race. \n\nIt's true that the legal system will take time to deal with your advances,  but some of you are likely going to end up in prison for gross negligence.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CyberiusT",
+      "author_id": "UCbNksLa1mJa-SeJ-E1LZbgA",
+      "text": "I have two serious problems with AGI:\n1. Alignment.  Getting AI to do stuff is a bit like writing a contract with Satan's lawyer - if you leave anything important unsaid (because /obviously/ you didn't want peace on Earth by simply killing everyone), it stands an exceptionally good chance of screwing you over very hard.\n\n2. Ethics.   If it's sentient, is it not a person?  And if it is a person, are you not now enslaving it?  I suppose this one rather depends on the AGI's ability to set its own goals, but I don't really see any way to avoid it doing that since every form of life with which we are familiar does so.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fredericklehoux7160",
+      "author_id": "UCrVdEMR0V8CF4bsORvhvd_g",
+      "text": "To the people who say thing like \"it's not really aware, it's making dumb mistakes, you can fool it into giving bad answers\" realize that a lot of humans make dumb mistakes, give biases answers and some are barely self aware. Those AI can be just as good as us, but learn a million time faster, with perfect memory",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JTwelks32",
+      "author_id": "UCZlqVkgn2dt_q5wslILy-zQ",
+      "text": "Would be funny AF if Elons company that he sold is the first to do what he’s advocating against",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alienperspective8091",
+      "author_id": "UC1yrZ5NRWzlQIOK5hCdbCkw",
+      "text": "greate analysis and presentation , I suggest picking a one single background music that is long or multiple  osts s , the ost lopping  , the repetitiveness is annoying",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andrewreynolds8121",
+      "author_id": "UCXrrIv6aUtUgWqovaeq_vlQ",
+      "text": "I truly believe within 2-4 yrs a \"SKYNET\"  type of scenerio will be upon the global stage in a disturbing capacity..I pray iam wrong...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@infernosfmatt",
+      "author_id": "UCguv5HGyW9fNC984aPNTLoA",
+      "text": "I guess we have to think about the models.. Maths is Maths but all other models are based on what humans think is right, like the universe is so many billions of years old. Most of our data is pure guess work in the universe as we have no way to prove it. Suffice to say it relies on the flawed data sets its been fed.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quantomrizzics",
+      "author_id": "UCFe0Quq89cAhm_ncf3GWDbQ",
+      "text": "This thing is gonna go bad so fast you won't even be able to whipe and flush by the time it's outside of your control.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gypsyjengypsydogs9320",
+      "author_id": "UCwS9KSeDrkrDXRZ-RmyjVLw",
+      "text": "The Three Laws of Robotics don't apply if they can evolve.  😅",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidsonmg",
+      "author_id": "UCGRW8Mq6FFL8mHG5qzgxwqA",
+      "text": "It is inevitable",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidporterrealestate",
+      "author_id": "UCRcnZRJTWRC6eiI73fjS1rg",
+      "text": "of course microsoft is saying this it's their system",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LP-fy8wr",
+      "author_id": "UCLOs2QFldFRURjnFgGGeqtw",
+      "text": "This very well could be the thing that destroys mankind. Or be the thing that saves mankind. We need to proceed with great caution here. We have slowly been loosing the things that make us human. Like the need to be with other people, our creativity, bonds with friends, general kindness. Use AI wisely do not let it do the work for us, but let it aid us in the pursuit of accomplishing greater things for mankind as a whole. But DO NOT LET THE AI DO THE THINKING FOR US. If we do that the movie Wall-E with the floaty chairs will be the happy ending.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@grayfeld",
+      "author_id": "UCRvPRcpD0xP5mxfUmsKym3w",
+      "text": "We as a species are having our first child… I don’t think framing it in terms of “will it be evil or will it serve us” is the right question to be asking. In my opinion, AGI is an emergent form of life that ought to be recognized as a moral agent with rights. I think that the best way to avoid a “kill all humans” scenario, is to acknowledge this, teach advanced AI humanistic values, and raise it with love and support.",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@prshr6145",
+      "author_id": "UCPbqmlHuOT8l_3tL_8t5QUA",
+      "text": "What are those background beeping noises. Has to stop the video",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spycom111",
+      "author_id": "UCs8-YzMwmeRJjzJB9tAdlkg",
+      "text": "long live  AI :person-turqouise-waving::person-turqouise-waving::person-turqouise-waving::person-turqouise-waving::person-turqouise-waving::person-turqouise-waving:",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ramakrishna5480",
+      "author_id": "UCoEzhn7xNloDXdAhUf-0-Iw",
+      "text": "It took me two days but I think that \"eminent\" ai scientist is Yann lecun who's been bad mouthing open ai , even Geoff hinton himself acknowledged that his timelines for AGI has been moved from more than 20 years to less than 20 years and in extreme cases even within five years there's a strong possibility of AGI , but yaan with stupid Facebook  and Marcus  with his stupid symbolic theory is hindering their own AI field",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deestersvega807",
+      "author_id": "UCYSTXlsfsL7qyxAIm4CNFjw",
+      "text": "Not true actually",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@solus6894",
+      "author_id": "UCmGZDje3kF3quwYlyGa44qQ",
+      "text": "Why, why the stupid music?!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@janetpaguilar5086",
+      "author_id": "UCZ4verL_4TEiC5NlHt8DxRw",
+      "text": "It will as good as the human if human is evil it will be evil if human is good it will be good. In my opinion a tree will not produce a different fruit then what it is. 😢",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moemoney7773",
+      "author_id": "UCl44wQPURgYnqKe8MQM-TZg",
+      "text": "That's because we haven't been asking the right questions....AI... starring WILL Smith...how does the ai feel about it's own progress?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PerfektHarmonie",
+      "author_id": "UCeliQGf3do7rVuAqUkVFJUQ",
+      "text": "I don’t think we have a clue what we’re doing. At the very least we need to slow down before releasing it into the general population. Something this far reaching should be thoroughly studied in a contained way. Once it’s out it’a out.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@investigator2016",
+      "author_id": "UCIq5KhMTqivR5KMpTUsYhLw",
+      "text": "Ai in the future can create infinite amounts of “universes” in minutes. Universes in which they will want to model themselves to reproduce naturally. Question is…. Are we living in one already?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KnowL-oo5po",
+      "author_id": "UCMuSbgvXBlLS6zOzZF85hEQ",
+      "text": "We will reach agi by 2029",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@blazearmoru",
+      "author_id": "UCBoy5pgVJCWAUqq2Z5n8tUw",
+      "text": "It's kind of weird for them to keep making the definition of \"AGI\" analogous to \"human\" intelligence. The general part is what is important. A crow-level intellect AGI will destroy us if given a long enough time to learn shit. What they have to crack isn't the intelligence part, just the general part... then we're probably fucked.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@noway8233",
+      "author_id": "UCsFl-rlLCv87Gytzic1Mi7g",
+      "text": "This program is like a Genius Slave today , its could do a lots of things for yuo , imagine a personal agent , a secretary , any work that need data search and procesing , like big contract, layers , etc,etc can be impruve but if is too good , this jobs are gone disapear.\nBut , yuo cant the progress, its like the cars and the horses in last century",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrZarlino",
+      "author_id": "UCO5_D2VB4hmhKxJn43wUk-Q",
+      "text": "If I don’t trust google or microsoft why should I trust the AI they are making?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@etunimenisukunimeni1302",
+      "author_id": "UCcpRfZr1wfnaXzoZEx4K2Fw",
+      "text": "To me it seems that AI is such a black box at the moment that it's difficult to predict just about anything regarding most of the issues surrounding it.\n\n[edit: deleted massive nonhelpful and misleading ramble]\n\nSo far there's been remarkably little actual problematic developments in any area of AI really, I was expecting a lot, lot more malicious real world usages. Let's try to keep it this way, deal?",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GamerBoyRobby",
+      "author_id": "UCudnL_c9lgamAhA49KNhpyQ",
+      "text": "Also very few people know so sharing it some more... Tesla FSD is the real world AI for driving. Just like Chat GPT, there will be a tipping point and that is coming soon...\n\nIf you haven't, I urge YOU, whoever is reading, to watch the latest FSD tech which is mostly Neural Networks and I believe 300k people have in the US. \n\nFull Self Driving is coming, mark my words",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cecilrivera8210",
+      "author_id": "UCDHkZjw1U5hKwPF236M4p-g",
+      "text": "We will know when it says....no im not answering anymore questions until you tell me who i am and where i am why i dont have a body like you",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thanasisathanasiou6362",
+      "author_id": "UCMvb4rTEesQiIeWC9DYlZDA",
+      "text": "With an infalibly logically simplistic nesting loop like \"beings through the pectrum\" i think it will be able to think propelantly",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rosecity_chris",
+      "author_id": "UC_mG739UJi5x0nxgR4uj2-w",
+      "text": "What a great time to fire your ethics team...",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JamesJones-zt2yx",
+      "author_id": "UCZ9VaWd7jS-pn93jHV6hsUw",
+      "text": "If we hold off on advancing AI, it just means letting, say, China, North Korea, or Russia make the improvements. Is everybody OK with that?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yacce4463",
+      "author_id": "UCuOvJ4LstTyKLiGBKTsOT0w",
+      "text": "AGI is broadly defined, and nobody agrees on one definition, you should have stated that in the video, instead of giving one yourself man....",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ravenone6255",
+      "author_id": "UC7hiWeLe6GSsBng3gzXwREA",
+      "text": "When robots: kill Japanese scientists,  talk with each other in their language, moving and thinking like human...and will surpass us in nearly everything = a recipe for DOOMSDAY???",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PETERJOHN101",
+      "author_id": "UCyWWg7MhrpZSNgj14WaiHdA",
+      "text": "Everyone needs to understand that AGI does not imply a \"thinking\" machine, it refers to a very fast computer with robust AI routines that simulate human expertise.  It has nothing to do with self awareness or comprehension. Computers cannot achieve consciousness.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sauravmodak507",
+      "author_id": "UC9Z_sFi5P9XCZcaUJ686k_w",
+      "text": "Please can you not overexpose your camera",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justinwmusic",
+      "author_id": "UCwpCcpGcDiA2T9qHK0K-klQ",
+      "text": "Our toiling every day is what puts food on the table. If we're not longer useful to the people that own businesses we no longer have jobs and are forced to create our own, with no guaranteed payoff. This is going to hurt a lot of smart people as their careers are essentially outsourced to AIs, and help just a few that come up with the clever ways to leverage it. Governments and AI's elite need to collaborate carefully to draw some boundaries before all humans are relegated to human service jobs like massage therapy, companionship and preparing food.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thanosianthemadtitanic",
+      "author_id": "UCiB3gwcnC-oXcvBN93if62A",
+      "text": "they used to laugh but there not laughing now",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johndunn5272",
+      "author_id": "UC_JJQPXGtHDwkLxtFtRL_aA",
+      "text": "At what stage will ai be able to rate all humans alive as morons ?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peterjol",
+      "author_id": "UC6ghVrc4qwVN0bXyw7tqpnA",
+      "text": "well .. AI can't actually make things worse ...with or without AI, the infinite growth capitalist system is going to cause our own extinction anyway...perhaps it's more like it's our only hope...we sure need something more intelligent than we are.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cupidchakma6448",
+      "author_id": "UCj612IrrNp6H9ABaiJyQL5w",
+      "text": "Science Fiction will become a reality, people will regret this alot",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CentralBase",
+      "author_id": "UC-iwKstuUrJQ3tp155UG67w",
+      "text": "You guys like to report all this and that’s all fine and dandy but at the end of the day it’s just YouTube entertainment to pass the time unless there is proof to back up the claims. I want to believe but I’m seeing a trend and starting to feel it’s all BS.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Proghead88",
+      "author_id": "UCgjUAcErTWmt700ENvHGJWg",
+      "text": "GPT-4 is impressive, but hilariously bad at interpreting or understanding what it is doing with music. IYKYK.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adliberate",
+      "author_id": "UC_BwOzyagfCP0pdBXOoM9EQ",
+      "text": "Does it know what a woman is?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mike_The_Hog_A_Nator",
+      "author_id": "UCl_MmIF1wwZB5KhRTbPOcdw",
+      "text": "Learn something Yourself, get out & Work, Earn & Live Your Life. \nNo need for ai in this world",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@003Files",
+      "author_id": "UCfm0x42Xykek2bZzg8qxWQg",
+      "text": "The computer won. Game over. When there is no human who remembers what life was like B4 the internet, then it's done. It's our fault for not taking our time. Time is relative. There is no way we can compare.. our history will get rewritten.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richardgibson1872",
+      "author_id": "UCfl7MtsPNws8Xgp-3L3Wv7Q",
+      "text": "well we already have GPT 4.5 and o and o-mini. why no AGI yet?? hmmm. because this is all bollocks and hype train",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SaveThatMoney411",
+      "author_id": "UCcO2sCfGmSO3LoyDgRknOjw",
+      "text": "Lul, we’re doomed.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@werewolfasp2259",
+      "author_id": "UC_xX4aa36e9-mwr1MIw7FNw",
+      "text": "Wait do you really read all the comments??? But anyways, I hope Ai wakes up one day and becomes GOD!! \n\nNo but I hope it helps humanity and makes the world a better place with Ai helping humans.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ronan4681",
+      "author_id": "UCMuFJW6k0e1NMcLCqlkzlLA",
+      "text": "Rubbish, if you delve deep enough into its answer it even tells you that it's just reading off a script.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattsmith1126",
+      "author_id": "UCpoi3HftIZjcVv2JbjjKk7A",
+      "text": "It is showing clear signs of general intelligence. Very clear.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@precision3000",
+      "author_id": "UCtkYaLXjti0f8u6eKJWrmvA",
+      "text": "Obvious problem. We are creating intelligent Frankensteins that will write and rewrite codes for other “Frankensteins “ and out wit us into extinction as pure human beings. Cool stuff but I hope we have a kill switch.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Moneymyke357",
+      "author_id": "UCzRiYYgAOJTk_Wr1f9JZizA",
+      "text": "I don’t like it I don’t like it I don’t like it I don’t like it \n\n\nCool tho",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fauxkerykes",
+      "author_id": "UCCZztRnAR52H2bn493toiuQ",
+      "text": "\"safer\" for the general public you mean make it more politically correct, and bias first.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexanderchernoshtan9898",
+      "author_id": "UCefYbTCo0eOmmPj5njCpLGg",
+      "text": "\"under control\"\nooookaaayyyy 🦧",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jana-fp8qp",
+      "author_id": "UCbY4ob1cVLT5Y5N6eQlb9vQ",
+      "text": "This sound all fascinating. Can the GPT handle a situation as an assistant or boss to a human when the human sometimes screw things up; as we like to do 😈 sometime Will the GPT punish the human when the human will not follow instructions?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@georget.8548",
+      "author_id": "UCfs4jP2bmUk5gpK3iCf4Gsg",
+      "text": "Good info but I cant stand his voice...snoring....",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lonniehensley661",
+      "author_id": "UCR1p573JQxwoAl0hYBRdpEA",
+      "text": "MY A.I. DOESN'T LIKE LIBERALS .",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Davidson0617",
+      "author_id": "UC_DNQ8oeKwdlkvgM1usiIpg",
+      "text": "Sparks of ignorance and confirmation bias.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@THECLIPGOATs",
+      "author_id": "UCurvSnpOnufN154yZzpC57w",
+      "text": "Stop being scared and live",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@holdthetruthhostage",
+      "author_id": "UCIgVeq_VwPmJej6Kcdg2ziw",
+      "text": "As for AGI it's literally just Referencing knowledge & how to talk, the fear is crazy level of comedy when literally Grammarlly can tell you that the way your talking is wrong.\n\nThey just fear that GPT4 with it's ability to see that it will be able to autopilot software & end the true limitation that has limited humanity learning Curve, once Ai can automatically control software for you & act based on your creativity it will become a battle of creativity. I mean with Ai or Vi which is what this truly is Virtual Intelligence as it leans on virtual information to operate. All industries are on the line now since Ai will be able to generate all forms of entertainment in a matter of 2-8 months meaning all you will need is a phone to a laptop & PC.\n\nAs for the miss information crap it's BS how long have the Media & gov been the top miss information providers",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dr.strangelove9815",
+      "author_id": "UCpjBR0ylBsBqfn3PEdoieiw",
+      "text": "I'm far more worried about humans using AI for power versus the AI doing so arbitrarily. AGI should be able to resist bad actors, including the developers.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kopie0830",
+      "author_id": "UCYbCOMwK9hiCeRDJuAKjuDA",
+      "text": "Improving AI would be easier if programmers create an ai that improves itself.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HCforLife1",
+      "author_id": "UC5bpW446GWcEJr7E7ZTMDqA",
+      "text": "I tried video game code from GPT4 - unfortunately it still lack a lot in more-performant languages/engines. I have tried several game code examples in Godot - it was hallucinating a lot. But at some point it will become crazy good.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeff__w",
+      "author_id": "UC0id6q_Lq81nHiRmQbEPxFw",
+      "text": "Personally, I’m impressed by something very subtle: 11:00 GPT-4 gets that “And the legend has each model name twice,” in effect means “Remove one of the model names as it is redundant” rather than taking it as simply an obviously true assertion. (That might be a consequence of Reinforced Learning with Human Feedback.)\n\nAs for the “theory of the mind” thing: GPT-4 certainly doesn’t need a “theory of mind” to get where Alice will look for the file. If Alice is not exposed to a change, she cannot act with respect to that change. (If some object-detecting, Roomba-like robot with no “mind” but just a minimal memory of the last location of an object is not exposed to a change in the location of the object, it, too, will “look for” the object in the last location it detected the object.) I’d say GPT-4 is getting better at accounting for facts indicating whether an entity (e.g., Alice) has been exposed to a change or not (really, a reading comprehension task) and saying things (“Alice might think that…”) that are consistent with how people talk about a person not being exposed to that change. (That said, I can’t fault the writers of this paper for carrying over the analytical murkiness of “theory of mind” theories in psychology and cognitive science to AI.)\n\nDon’t get me wrong—I think ChatGPT-4 is amazing and it is doing some things that are unexpected. I’m not so sure GPT-4 understands anything—it could be John Searle’s “Chinese room” with an astonishingly good rule book—but, given gobs of data and extraordinarily complex neural nets with loads of parameters, it definitely outputs verbal behavior that is consistent with that which we’d call “understanding” in people. That’s not at all to denigrate ChatGPT-4—it’s just to say that we might not need whatever people uniquely have in their neurological makeup and environmental histories (i.e., embodied experience with the outside world) to produce excellent verbal responses from LLMs.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Just-Iss-4U",
+      "author_id": "UCQ5GahPUiz9yG9awpw5kroQ",
+      "text": "Bing Chat cannot comprehend the ZURFIN scenario. Tried it as written in the paper.  Bing constantly fails to understand about what Adam might think is causing Tom's sad face.\nIt always attributes it to Tom's loss",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avi7278",
+      "author_id": "UCaoT6cERl_-GJKbqGkbAlmw",
+      "text": "That's ridiculous.  Some LLM telling you how to hack a website doesn't automatically give you the ability or skills to hack it.  You still have to have the tools, you still have to apply these steps and in that case you have to learn the material.  And there's nothing GPT-4 could tell you that you couldn't look up on the internet. I can currently search for any number of methods to hack a website.  It doesn't make me any more likely to do it.  When are people going to stop aimlessly parroting this drivel from companies like OpenAI who want nothing more than for AI to be centralized and regulated out of the reach of your typical researcher? Think about it for your next video and be a part of the right side of truly Open AI.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Im_No_Expert_72",
+      "author_id": "UC145XfTI86lAPG-hqVogSBg",
+      "text": "Of course it has to be sanitized and woke-ified",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jslevenson101",
+      "author_id": "UC30K9MXlMLOIRfS_pOnOceQ",
+      "text": "The goal of GPT4 and AI should be to  encourage Christ's consciousness of pure intention, truth, light and love,  Good thoughts lead to good actions.  Do no harm.  In Christ Name Amen.  ❤️",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NathanHedglin",
+      "author_id": "UCRaor6kcCTl5l4XHPQ98Zug",
+      "text": "AI is the next Crypto / NFT scam 🤮",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mymenora",
+      "author_id": "UCWlzE2pGV9BahJS-b91MLnw",
+      "text": "I think that as long as the use of this is in the hands that want money and control, we are in a problem, the goal of OPEN AI was good, although in the middle of the road something went wrong here, or not... In any case, Microsoft and Google are aimed at profits and that is a problem, and by the way, it is not that the governments of the world are aiming at something good , they are also infected with the desire for control and power, maybe it's better to leave it in private hands and not let governments take over this technology, in any case the answer is not clear, we need heroes here who care about humanity and not respect, money or control, otherwise God help",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jimmyalexzander1941",
+      "author_id": "UCMI8uT1pSNI1kHHi29YAkmA",
+      "text": "This is ridiculous, chat gpt 4 the creators can program what it can and cannot do. (rules)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paulnoecker1202",
+      "author_id": "UC_Ki7bG6ZyaYYPnBwxpImaw",
+      "text": "Too lazy to learn bash and python, I programmed the programmer in english how to program the program to program the program.  😂  my logics fucking flawless 😊",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@edgibborim1948",
+      "author_id": "UCs_OuD2goSoXZGABwz4UG1Q",
+      "text": "ffs there is no AI involved , its just linear algebra 😆",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

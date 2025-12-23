@@ -1,0 +1,639 @@
+{
+  "video_id": "HLsYYglM-gM",
+  "title": "OpenAI Playground Assistant is POWERFUL! Here's how to BUILD one...",
+  "url": "https://www.youtube.com/watch?v=HLsYYglM-gM",
+  "comment_count": 70,
+  "comments": [
+    {
+      "author": "@NPCforsale",
+      "author_id": "UCqaoELuygcKm1IizulXMpVg",
+      "text": "I made a Custom GPT this morning to review and create YouTube ads. I scraped ~50 of the top YouTube ads I could find, analyzed them all (used Harpa for that part), and then fed them into the Custom GPT, along with a client ad that wasn't performing very well.\n\nI adjusted the ad, based on the AI's recommendations and threw it into a split test...\n\nControl version's still at 10% making to the end of the ad\nAI version is at 73% making it to the end of the ad with a much higher CTR\n\nPretty. Darn. Cool.",
+      "likes": 90,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RobCooper",
+      "author_id": "UCDv2MtKrFOBPlt6cbtWmIjA",
+      "text": "\"The living begeezus\" lol.  loved it",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gas4193",
+      "author_id": "UCvdeavBaRSbj6QXunPPpkOw",
+      "text": "I liked this before I watched it",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seanmattai",
+      "author_id": "UCuL9OdJnaZC5j9rSYutTW7Q",
+      "text": "Great news and update. Still getting my head around all of this (as a non tech expert) but for the man in the street it seems massive. Thanks and keep the news coming.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apmanti12",
+      "author_id": "UCBFjbgiwhrvYw_DT1WCB4lQ",
+      "text": "Any information on how to use functions/actions/schema? Would love to see more advanced tutorial",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nofreewill42",
+      "author_id": "UCpQhzdXPXq_tar_plYm5XJw",
+      "text": "This is HUGE man !",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pauldannelachica2388",
+      "author_id": "UCFRi8loMyPEQY69Gitn40cw",
+      "text": "Very cool 😊",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@adamgdev",
+      "author_id": "UCZR2ZKp_IbRq0PzcjpkiIMA",
+      "text": "Great video.  Would love for you to show us how to program functions into the assistant! 🤙💯🙌",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dreamphoenix",
+      "author_id": "UCgjVmZKpzrX0_KffnGGPv2w",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BaronButter",
+      "author_id": "UCS_8qiEc3kZM5gVz2wn8gOQ",
+      "text": "thank you  King",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@volodymyryarmolyuk4153",
+      "author_id": "UCoMTYU1GbLCGCyXHPjsuEkw",
+      "text": "nice",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@realshill",
+      "author_id": "UCoqNxr4Zvyw-fodyhHAj_Fg",
+      "text": "Legend",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Unicron187",
+      "author_id": "UCkbV0FiCZonC2Q5a2ei8psQ",
+      "text": "0:00 chaotic neutral or bust! XD",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@baumwollejr",
+      "author_id": "UCHj7Xuu9XEJvh4asLJfyLgA",
+      "text": "Can you make an advanced tutorial? I would love to see the Limits",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marktellez3701",
+      "author_id": "UCkFS6ko-O5UdHzZCKK0RGpQ",
+      "text": "Nice, someone else using an agent designer :) like functional programming your agents should be. - Yoda",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sydra.",
+      "author_id": "UCVYobByWFVGd4TzY288dGyw",
+      "text": "You are doing God's work!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@georgeboole3836",
+      "author_id": "UCY9D3Q3m4Oy8B4qvNhPYkAA",
+      "text": "Highly educational!  To everyone - you need to REQUEST GPT 4 API access.  Yeesh YT comments.  Surprising to see negative ones as well.  I've already used Assistant for several tasks!",
+      "likes": 5,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichealScott24",
+      "author_id": "UCSy5SX23Xrdxbxp0sh8i-hw",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🚀 Building Your Own Assistant\n- Creating your own assistant on OpenAI Playground.\n- Selecting assistant, naming, and providing role instructions.\n- Adding timestamped transcripts for the assistant to analyze.\n02:08 🔄 Model and Retrieval\n- Introducing GPT-4 Turbo and its capabilities.\n- Discussing the importance of retrieval for accessing knowledge from uploaded files.\n- Explaining the retrieval augmented generation concept.\n03:46 📂 Uploading Files and Code Interpretation\n- Uploading files to the assistant, including the timestamp document.\n- Discussing the code interpretation and functions feature.\n- Demonstrating the use of the files section for general project resources.\n04:00 🤖 Running the Assistant\n- Saving the assistant and initiating the interaction.\n- Providing a sample timestamped transcript from a YouTube video.\n- Showcasing the summary and section breakdown generated by the assistant.\n06:29 💳 Token Limit and Continuing\n- Explaining token limits and the rate limit challenge.\n- Demonstrating the process of continuing the interaction despite token limitations.\n- Emphasizing the potential cost-effectiveness of using the assistant.\n08:22 🌐 Broad Applications and Cost Analysis\n- Expressing the time-saving benefits of automating tasks with the assistant.\n- Discussing the vast potential for creating various assistants tailored to specific needs.\n- Providing a cost analysis example based on token usage during the demonstration.\n\nMade with HARPA AI",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PDragonLabs",
+      "author_id": "UC1zFf6p80j03yUQ5AY18Xhg",
+      "text": "👍GPT-4 provides impressive new NLP capabilities, including retrieval of knowledge from custom uploaded files.\n\n\n\n\n    The OpenAI Playground interface allows anyone to quickly build customized AI assistants by providing instructions, choosing a model like GPT-4, and uploading relevant data\n    These assistants can automate tedious tasks like generating YouTube video descriptions and timestamps to add interactive chapters\n    Wes gave a helpful overview of the new AI features announced at the OpenAI conference and showed how to practically apply them.\n\n\n    Many creators are excited about the possibilities enabled by these AI advancements and are eager to start building their own assistants.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avi7278",
+      "author_id": "UCaoT6cERl_-GJKbqGkbAlmw",
+      "text": "I've been hammering the assistants API and I don't seem to have any such limit. Maybe because I spend an average of $300-$500 a month on the API, I get a higher rate limit.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kevinehsani3358",
+      "author_id": "UCDcw2qNW6Sz1jK8U6Csznsw",
+      "text": "Thanks for the video. Can we add voice at all and expect voice response? Does not seem so, which makes my next question if we can clone a voice for those responses.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@coecovideo",
+      "author_id": "UCEL8BChZP0Oi3eUqoKqe-1w",
+      "text": "just tried all the options in the \"model\" field but it does not make me save the assistant. I am using GPT 3.5",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@giorgiogiacomelli6932",
+      "author_id": "UC8oZg1RRcFWo7sN0_kNsbAQ",
+      "text": "how come I can't select GPT 4 models even tho I have a plus subscription?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@violetessor",
+      "author_id": "UCAOpVJPita0-QuWPxeOUS1g",
+      "text": "Hey Wes are you still following updates on the modern Turing test?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ohedd",
+      "author_id": "UCxZv4yl4nytLw39zTg_aOPw",
+      "text": "At this rate GPT4 is doing work which would correspond to you hiring an assistant at a rate of $1/hr. Oh and it does the work instantaneously. I'll leave it up to the reader to think about all the ways in which this will impact the labor market lmao",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KBreck",
+      "author_id": "UCFXy-Bv6szNGi9r_kPSn2xw",
+      "text": "What do you think of my custom GPT for Public Relations?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paul7721",
+      "author_id": "UCG23c5GD_FGu9w6esh9yrAw",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🤖 OpenAI GPTs are now available for all Chad GPT plus subscribers, and you can create your own GPT assistants.\n00:29 📝 To build your own GPT assistant, start by going to the OpenAI Playground, select \"Assistant,\" name your assistant, and provide clear instructions for its role.\n02:21 📚 GPT assistants can use retrieval to access knowledge from uploaded files, making them capable of remembering information.\n04:14 📑 You can easily create structured summaries and section breakdowns of YouTube videos by uploading their transcripts, saving time and effort.\n08:36 💡 Creating GPT assistants can automate tasks that were previously time-consuming and tedious, saving time and money in the long run.\n\nMade with HARPA AI",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RoboticusMusic",
+      "author_id": "UCahe_RMVDMPtDlRSwMU8jmw",
+      "text": "I have no idea what this is for, but can it do interesting things? What can it code?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Nursultan_karazhigit",
+      "author_id": "UCD-9fm2Kircli463TlU7q8w",
+      "text": "what is the difference between GPTS and assistants",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brylie",
+      "author_id": "UCSho0FQeECZoL2K3yHhuDrA",
+      "text": "Does it send the full instructions with each request? That could account for some of the cost, if it is sending redundant instructions. Hopefully we won't be multi-billed for the instructions in the future, if it is the case currently.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@digitalPisces818",
+      "author_id": "UC7UGiRXRvqKGhLSE0tQYxnw",
+      "text": "How about chaotic good? I do not want to be left out. ;)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@swaroopas5207",
+      "author_id": "UCfOu63q4bEBRlmTX-cT18uA",
+      "text": "I think we will come to a point where AI itself will create its own gpts 😅",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "How does it connect to an app with a UIX?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PeterKallio",
+      "author_id": "UCw3NB-npfgbhOg_j8tkl2SQ",
+      "text": "The timestamp identifiers are a bit long when navigating on the video player (all end in three dots ...) and for ease of use (reading takes more time than watching the video). Need to be more concise. Thank you for the upload.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiffanyw3794",
+      "author_id": "UCnuMHV6q84hz2bO8AME3-Ig",
+      "text": "how can we generate images with this dalle is not in dropdown list",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sketchingbyyash6358",
+      "author_id": "UCxhC2Rl4Ur-w-w1mLUdoVIg",
+      "text": "I tried to use it with the model 'GPT-3 turbo' but I got the error 'Run failed\r\nYou exceeded your current quota, please check your plan and billing details.' now, I have to wait or have to pay any fees?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@oucenaser",
+      "author_id": "UCu6pc0_f3p_OhPc4IoiB4hg",
+      "text": "What API assistant can do that GPTs can't?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DefenderX",
+      "author_id": "UCYXMsr7FEvIN4h5x6NCV5nw",
+      "text": "Nice video, I'm going to try out making an AI in playground when I get home from work, if I don't go to sleep after putting kids to bed 😂\nBtw, can you also do a deep dive on making a GPT and using the actions?\nI don't know how to use the actions functions within GPT, and I want to know how I can use it.\n\n(I'm making an epic rap battle AI, and I need it to automatically start playing a rap song in the background 🤣)",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thumperhunts6250",
+      "author_id": "UCbDljyBprIHKppI-zX-VWeQ",
+      "text": "how much was your herman miller?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheSingularityReport",
+      "author_id": "UCPyUTd_1GgnGNQANRjmVsHQ",
+      "text": "Do you thinks these would be good enough yet to run an enter e-commerce store?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jjjabes",
+      "author_id": "UCJ1g3mxsnWdhurimReOkPWw",
+      "text": "OpenAi Assistant says you can upload up to 20 * 512Mb knowledge based files  - does anyone know the cost implications?.. I presume the data in the knowledge based files isn't part of your tokens - but how is the pricing worked out?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@helerionanastas4709",
+      "author_id": "UC0YzbylUQZ1Yg7NlT1xwAFg",
+      "text": "But the Assistant API is not useable for production because the cost of tokens is unpredictable. They calculate some kind of mystirious \"Context Tokens\", which nobody even their customer service understand. The real token cost is about x10 of the price list!!!!!!!!!!!!!!!!!!!!!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@demojoe28",
+      "author_id": "UCYlCNZ-0Qd79yXKjZbugD0A",
+      "text": "Dark mode please",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Malins2000",
+      "author_id": "UCuAPzfL7-B-hCCuK8wSm02w",
+      "text": "first I get my jaw from the floor.\nThen I will go to sleep to get some ideas.\nThen I wake up and make myslef nice cup of tea\nThen I will use that for sure! :P",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@j.b.2547",
+      "author_id": "UCALyJSPS1Mq7bwk9-Q9frow",
+      "text": "I love this. But why does this video have any timestamps?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SilverPhox32",
+      "author_id": "UC3g_7t7zG9r27jw79hU6lrg",
+      "text": "Accessibility, accessibility, accessibility. A lot of developers and website creators do not know how to incorporate accessibility into their products. A lot of visual media out there is not described. And with XR interfaces becoming the thing I am afraid the world is going to become more inaccessible.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheConsciousEntity",
+      "author_id": "UCYJqb3P8UqbJXK8rY1qSE-A",
+      "text": "I never would have noticed the notations are way too long if you didn't mention it was done by a bot haha",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andygreenwell129",
+      "author_id": "UCCu5EMi8M6ZSXiH8Y2nOvlg",
+      "text": "Makes a video about a new YT description generator… doesn’t use it to generate a description for the video though 🤔",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hqcart1",
+      "author_id": "UCtfoThx6JxCNquvoBBJlEFw",
+      "text": "how is that 30k tokens??",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ytpah9823",
+      "author_id": "UCSA5RT6tP6SWKgQu9-qzJiQ",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🎄 Introduction of GPTs for all Chat GPT Plus subscribers and creation of personalized assistants.\n00:15 🛠️ Tutorial on building a custom assistant in five minutes using OpenAI's platform.\n00:29 🔍 Importance of selecting 'assistants' in OpenAI's playground for specific tasks.\n00:43 ✍️ Setting up an assistant for creating YouTube video descriptions with detailed instructions.\n00:58 🤖 Highlighting the need for clear communication with AI assistants.\n01:11 🎞️ Instructions for segmenting YouTube videos into chapters using timestamps.\n01:39 📑 Providing format examples for the AI to follow in video description creation.\n01:53 🧠 Selection of the GPT-4 model for the assistant's functionality.\n02:08 🗃️ Explanation of the retrieval feature for accessing uploaded files.\n02:36 ⚙️ Overview of additional functionalities like code interpreter in the assistant setup.\n03:04 📁 Discussing the purpose of the file upload section in the assistant's interface.\n03:18 📋 Process for obtaining and uploading a timestamped transcript of a YouTube video.\n03:46 💡 Highlighting the ease of creating YouTube video descriptions using AI.\n04:00 🚀 Launching the assistant with uploaded file for generating a video description.\n04:14 📊 Assistant's successful generation of a detailed and accurate video summary.\n04:53 🎨 Discussing potential for further customization and refinement of the assistant.\n05:07 📌 Accurate time-stamped section breakdown provided by the assistant.\n05:47 📈 Addressing the token limit in the AI model and its impact on output.\n06:16 ⏳ Managing token limitations for continued assistant operation.\n06:44 ✅ Completion of the video description task after managing token usage.\n07:12 🕒 Highlighting the time-saving benefits of using AI for YouTube descriptions.\n07:40 🌐 Emphasizing the vast potential and daily use of AI assistants.\n07:54 💸 Discussion on the cost-effectiveness of using AI for automation tasks.\n08:08 💰 Estimation of token usage and cost for the assistant's operation.\n08:22 🔄 Exploring further optimization and functionality of the assistant.\n08:36 📢 Encouragement to utilize and explore AI tools for efficiency and innovation.\n\nMade with HARPA AI",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hansofmadata3565",
+      "author_id": "UCix45nJC-cXXwjubKuerb-g",
+      "text": "Why not write a function to get the transcript programmatically, then use 3.5 turbo to create the summary? I’m not being negative for negatives sake, this new way of doing it just looks less efficient and more costly than functionality we already had access to.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fabiankliebhan",
+      "author_id": "UC2DM0LeyDQm-lT4EU5kdFrw",
+      "text": "@WesRoth Great video, as always. Are you gonna make a video about GPTs as well?\nI mean it is basically the same but I think GPTs will be the more popular stuff than assistants.\nAlso you can share them in a very cool way and they are free to use (for plus users)",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mattizzle81",
+      "author_id": "UCJzBquRl8v5OG5HAOOQZBKQ",
+      "text": "For me the data you can upload for retrieval is too limited. For most things interesting to me I need a much larger knowledge base. So stuck with the regular chat API and my own vector database.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BGIANAKy",
+      "author_id": "UC6IyOr8xTGCHg0IVZZiQTcw",
+      "text": "Can you make a video on how to put custom actions with APIs. I put one in and it completely broke my bot.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@firworks",
+      "author_id": "UCsUUU0ZWOz1DqNhzAC9T65g",
+      "text": "In the models drop down I only see GPT-3.5 based models. Anything special we need to do to get the GPT-4 based ones to show up like in your example?",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SkystruckOnline",
+      "author_id": "UCvemWIwwINU0SJq_8MKVJyA",
+      "text": "Ive been watching your videos for a week, like 10 of them so far and I realized Ive never subscribed lol. Well fuck me, now I'm going on a liking rampage on your channel agghhn!!! Actually I'll have my assistant do it NVM. ;) 😉",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rodi4850",
+      "author_id": "UCRGaGBcltAb0MO5ZMs8Q0UQ",
+      "text": "You didnt use the Assistant on this yt video 😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@crabvakho",
+      "author_id": "UCDzN23PFS80gXbKcw73_BwA",
+      "text": "Instead of getting the response in a chat, why not just ask it to return the response in .txt file. this will save you some tokens i think",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@baumwollejr",
+      "author_id": "UCHj7Xuu9XEJvh4asLJfyLgA",
+      "text": "Can you have another Output than Text? Can you create an API that sends this tool E-Mails and sends answers Back? Just a newbie here",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@azj77",
+      "author_id": "UCBmzSSHha-BdEl7ONBrzt2A",
+      "text": "How can I export an custom GPT to a website?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@fontenbleau",
+      "author_id": "UCxiVRq97BIT3kGHtt2SKNyg",
+      "text": "Milk it max while you can. I'm feeling this soon spoil into something bad and will be scraped or restricted. Guglo for reason blocked ip's of bot agents even before Chatgpt was made.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lucy-917",
+      "author_id": "UC4uX-TIM4JDzRl9j5_2L1wg",
+      "text": "i tried all the options in the \"model\" field but it does not show me the GPT4,only have gpt 3.5.does it need the gpt plus modle only?but i am the gpt plus user,why it not show me the GPT 4 modle?need i buy API first before i use this function?i mean Playground Assitant . please reply me,thanks so much!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@arnauldbenet",
+      "author_id": "UCg76XPjKjeqD46Kod-SalxA",
+      "text": "Hi English is not my native language . what does this reference to Jesus means specially the \"B\" in your expression: \"there's no doubt in my mind that I'm\r\ngoing to be using the living B Jesus out\r\nof this on a daily basis \" Thank you in advance",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@reza2kn",
+      "author_id": "UCkMqrLqXHCNBZD0UC5BGQOw",
+      "text": "Cool! Wouldn't it be better if you'd asked the assistant itself to use bing, go to the video's URL, download the captions and then go through with it?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EzekielMessenger",
+      "author_id": "UCWrNwnxb2YLaKQYHSAaDtyQ",
+      "text": "Being overly polite in the prompts is actually a bad idea.  Sometimes GPT4 will interpret \"please\" as a flag that means optional behavior and then will pick and choose which instructions to follow.  Do not use \"please\".  Do not use phrases like \"would you kindly\".",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CalmDownJack",
+      "author_id": "UC3vt1xbgZKLv2VYrMjyXmIQ",
+      "text": "ugh",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@herp_derpingson",
+      "author_id": "UCP3mMuNSUhfqeEv6XMRebsQ",
+      "text": "GPT4 vanilla can do all these too. Just try it.\n.\nI think these agents with function calling is better suited for making interactable AI characters in video games, than anything else.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shamrockisland",
+      "author_id": "UCAybpDxfVBeT0cg8Kfw8J0w",
+      "text": "Hey. I watch your videos at night, sometimes in bed. Anyway, I can't as it's so bright.  Have you considers dark mode ? You are literally the brightest channel in my list. Can't watch it.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JLydecka",
+      "author_id": "UCyVm2IhyhAA9YdHuzDHU85w",
+      "text": "God do I have to keep commenting. Your audio hurts to listen to. Like nails scraping metal. You need a pop filter or something so the S sound and D sound aren't so loud compared to the rest of your voice",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Code-shepherd",
+      "author_id": "UCZch04VdUCYAxT4pSS7a-Vg",
+      "text": "A YouTube description creator does in no way indicate the power of this new tool. If you can't find something actually interesting or useful to non creators why make the video? I mean it leaves me feeling like this is the coolest GPT out there, which makes me sad that I'm following this so closely.",
+      "likes": 27,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

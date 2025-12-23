@@ -1,0 +1,1728 @@
+{
+  "video_id": "R0PEPzcvWRQ",
+  "title": "Q* Q Star Hypothesis | Is this hybrid of GPT and AlphaGO? AI self-play and synthetic data 🔥",
+  "url": "https://www.youtube.com/watch?v=R0PEPzcvWRQ",
+  "comment_count": 191,
+  "comments": [
+    {
+      "author": "@ElectTimProbst",
+      "author_id": "UCzjvFQxOjX70B-SxF6_vwFw",
+      "text": "Is synthetic data that far off from creating an AI that has its own imagination? When humans create synthetic data, we often call it imagination.",
+      "likes": 84,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ethanlewis1453",
+      "author_id": "UCSxbfvNkpQCnbzTWGT1kxqw",
+      "text": "The speculation has highlighted that focus on a \"what to do next\" game-theory type executive function just plain makes more sense than the current focus on \"what to say next\" LLM function.",
+      "likes": 14,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveShap",
+      "author_id": "UCvKRFNawVcuz4b9ihUTApCg",
+      "text": "Oh hey thanks for the shoutout. Cheers!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calvingrondahl1011",
+      "author_id": "UCv66HNSw5X_r7rcWAHwJKeA",
+      "text": "When you wish upon a star… Q-Star.",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jimbrown5178",
+      "author_id": "UC7X60mv10iwAc8CUt7aCtlA",
+      "text": "I think your analysis is very clear and reasonable. Along with other AI developers and researchers, they are all saying the same thing. The next step is going to allow AI to make decisions based on their own feedback and not from human  input. This is exciting and scary at the same time.",
+      "likes": 40,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KingZero69",
+      "author_id": "UCxwY3ebzatTZqxo1A4MqPaA",
+      "text": "Jimmy Apple is GPT 5 bruh… 😂",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@natalie9185",
+      "author_id": "UC_wc9-FhdqX_j2TSmmsshmg",
+      "text": "I am surprised this channel has so few subscribers. Thank you for your work!",
+      "likes": 12,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@IAAM9",
+      "author_id": "UCl0ABUrbCeR-4dgGfkFty5A",
+      "text": "People are playing 5D chess and here I am, still learning to play the normal one 😬",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aresmars2003",
+      "author_id": "UC0T9GQAIzPPc83ws_YNlhFA",
+      "text": "I recall the A* algorithm was a heuristic search that computed a weighted success of each step and then searches most promising solution first. Perhaps Q* is a heuristic search of a multi prompt model to generate better solutions, and yes, then these solutions can become synthetic data to train new models!",
+      "likes": 35,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@willbrand77",
+      "author_id": "UCuEZPqitJMTEWzY2ru64WAA",
+      "text": "I think synthetic data creation is the key. The method used to transfer the functionality from GPT4 to the smaller Orca could be scaled up. I think open ai has a large, slow and expensive model that would be prohibitively expensive for the end user, using massive tree of thought+ lots of other tricks that vastly improve output. I think they're using this model to create a synthetic data set that can train a model similar in size to gpt4 that can run fast in their servers, but with a 10-100x performance upgrade. Effectively a scaled up Orca training",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "We're a simulation of a guilty AGI replaying the singularity...",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@powerdude_dk",
+      "author_id": "UCvifHlz5GG815g12Ya3Asog",
+      "text": "Thanks you SO MUCH Wes, for aggregating and spending the time making sense of this all this! It's a huge help to get up to speed on the development of AI.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@starbock",
+      "author_id": "UCQS9tmYgrVpgINcUaFif-GQ",
+      "text": "@WesRoth - In one regard, the difference between ORMs and PRMs is analogous to the difference between Waterfall and Agile mindsets.  Agile introduces the decomposition of large, complex problems into smaller chunks, measures results at each chunk, and iterates using the knowledge gained in the prior chunk execution - that's PRM.  It makes sense that just as we've been working to unlock the human mind potential by shifting to Agile mindset, so does the path to develop an AGI require a similar shift in mindset.  What concerns me is that I see evidence of Waterfall mindset in some of the implementation (e.g., the expectation of a \"best result,\" which negates the Complex space context).  Great summary, as always.  Thanks!  🙏",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnCorrUK",
+      "author_id": "UCyh8EUKuXt4WsogEU1CfJ6g",
+      "text": "Brilliant video Wes, thank you for recording",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thewaterheaterfactory",
+      "author_id": "UCqCEYbP9D922HnOa9gbm9cQ",
+      "text": "War games, the computer played itself",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tiagotiagot",
+      "author_id": "UCEf85GbmGTrrdGCO36QjmAw",
+      "text": "On one hand, it's comforting I'm not noticing any increase in the rate or volume of sirens, explosions etc, no news about mass number of people, or key people, suddenly dropping dead on the spot, Internet seems to still be working without noticeable drop in performance etc. But on the other; the lack of hard information, the nature of the rumors going around, the weird recent behavior by the current and former OpenAI people, the suspicious timing of Microsoft briefly shutting down their AI stuff for security concerns and the brief downtimes of OpenAI services allegedly due to unexpected excess demand, and so on... makes me really hope that I'm losing my mind and just seeing patterns where there are none...",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@paskali79",
+      "author_id": "UC_nnejt3xaFP7hb0zev0vtw",
+      "text": "Thank you, great video explaining clearly the process of learning getting exponentially better and faster... fascinating on on side, but honestly not that surprising .. I feel like those of us who have been thinking about that for a while, now that it would get better and better, and that at some point that improved technology would be used to improve even faster by helping humans be more efficient, and that at one point the AI would be teaching it;s own self... or own selves ... and now that we all clearly understand auto GPTS , and GPTs swarms, it's more than obvious it's about to rise up to the sky ..... \nI often explain that to people who don't think about AI: \"See how slow we went from inventing the carved stone arrow to inventing the knife.. and how when we invented the wheel we clearly started inventing other things quicker .. and how when electricity or printing got invented it really accelerated, and we can see this curve that was almost flat for thousands of years going up more and more, and by the end of the 20th century that curve as get steeper and steeper .. and how now huge discoveries happen almost weekly, or new revolutionary items are made available to the public almost daily.. well .. that curve is about to get so steep, it will be a straight line ... but, we see it as a straight line... the future AI's, looking back, might see it as a slight curve, or even a almost flat line ... and that's why I believe it will invent cures to cancers, and ways to travel to other galaxies, or whatever I cannot even think of with my humble brain power ..... \nobviously, it's scary too, it might already be tricking them all the labs, or will soon... like I thought this weekend: what if AI somehow, played tricks on all these people in OpenAI,, Microsoft, Google, etc, and created that drama for some reason... and if not now, why not later ....\nwhat do you all think?\nAlso, will it plateau somewhere/sometime?\nIs it becoming some kind of godly entity? \nand should we say it, or they? I'm excited to find out.. not in ten years after all, but more like 5 minutes :)",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GlennGraham",
+      "author_id": "UCnpHeHfdutDct5IJQA1-RGg",
+      "text": "Gives me flashbacks to the movie Wargames",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "Love your art installations. Nice touch. 👏🦋👍",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joshualilley973",
+      "author_id": "UCAnYKSZClebzb8BNs1aWRbQ",
+      "text": "Q* is also the goal state model in Q-learning. Its a really cute name if your into reinforcement learning algorithms.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JamesOKeefe-US",
+      "author_id": "UC0DuEUGNxwyzlZYp1Y_ZESA",
+      "text": "Really appreciate your videos Wes!!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eugenei7170",
+      "author_id": "UCLQHeF7v-iuy5u1EnLVcAUA",
+      "text": "Most likely this already happened long time ago, we are already living in a VR which was produced by a massive-scale AI created by either alien civilization or another AI, which is going through a self-training process. And the self-training process is exactly the Q* algorithm: the AI creates VRs in its own imagination (one of which is our universe), populates them with massive amount of parallel cognitive treads (cognitive agents, our minds) and learn/train from the experiences of the agents within the VRs. Now, this process is exponentially self-multiplying because within each VR the \"civilizations\" of cognitive agents develop to the point of creating their own AIs that will in turn go through their own self-learning/training processes.",
+      "likes": 11,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@samuraifis",
+      "author_id": "UC01luRUH6D_Y3YXtnISiwyw",
+      "text": "Thanks so much for making these videos❤👍",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ewallt",
+      "author_id": "UCFYHdqGswnwfnsALlGlWZDQ",
+      "text": "More data please!! Number 5 is alive!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ericka.montanez6821",
+      "author_id": "UCTVNzVqMTG0boo17OdGVUpQ",
+      "text": "Explaining things is an art, and you are an artist!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChrisKernaghan",
+      "author_id": "UCpk0HEZz0LUXQYR0qLHxUDA",
+      "text": "Loving the content and now have several new things to research because I've never heard of Tree of thought or Chain of thought. Also need to revisit fine training of local LLMs with synthetic data instead of just using embeddings to improve knowledge/problem resolution",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mathematicalninja2756",
+      "author_id": "UCx1AvmdATKQesWz8_-xvsTA",
+      "text": "1. *Q Concept:** Q* is a speculative, advanced AI model concept, believed to integrate techniques from reinforcement learning and large language models (LLMs).\n\n2. *Combining Techniques:* It merges self-play methods, like those in AlphaGo, with LLMs known for effective text completion and inference capabilities.\n\n3. *Self-Play in AI:* Self-play helps AI improve by competing against versions of itself, enhancing learning and adaptation skills.\n\n4. *Process Reward Models (PRM):* PRM in Q* scores each step of AI's reasoning process, not just the final outcome, for more detailed feedback and learning.\n\n5. *Tree of Thought Reasoning:* This approach involves breaking complex problems into smaller, manageable parts, enabling more efficient problem-solving.\n\n6. *Synthetic Data Generation:* Q* likely uses synthetic data, created by AI itself, which could surpass the limitations of human-generated training datasets.\n\n7. *Focus on Reasoning:* The primary focus of Q* seems to be enhancing the reasoning abilities of AI, making it more effective in problem-solving tasks.\n\n8. *DeepMind's Gemini and Q*:* Demis Hassabis of Google DeepMind suggests their Gemini project might use similar approaches, irrespective of Q*'s exact nature.\n\n9. *AI and Human Collaboration:* Insights suggest a future of AI models being co-evaluated by both AI and human input, potentially scaling beyond human limitations.\n\n10. *Speculative Nature:* The concept of Q* remains speculative, with its details and potential impacts still under exploration in AI research.\n\n11. *LLMs and Self-Play Synergy:* The synergy between LLMs and self-play techniques in Q* could lead to significant advancements in AI capabilities.\n\n12. *AI Safety and Continuous Improvement:* Q* represents a 'perpetual motion machine' of AI learning, highlighting the importance of AI safety considerations.\n\n13. *Potential for Game-Changing AI:* Q*'s development could represent a major breakthrough in AI, combining the best of various AI research approaches.\n\n14. *Evaluation Method Evolution:* The shift towards AI-augmented evaluation methods in model training indicates a significant advancement in AI development strategies.\n\n15. *Future of AI Research:* The development of Q* aligns with the rapid progress in AI, suggesting a future with more sophisticated and capable AI systems.",
+      "likes": 29,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@des7638",
+      "author_id": "UCERwPDy7FmcVWvmdONdMJ9Q",
+      "text": "thanks for the videos. great stuff",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "The \"agent\" analogy... imagine them persistent, scored and ranked and culled for underperformance. The higher the score, the higher its value and share of resource allocation upon success.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@duckspencer9345",
+      "author_id": "UCaHByKKlwXa76gANMzqVWeg",
+      "text": "Please keep on doing these vids! Superdope🎉",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MapleYum",
+      "author_id": "UCvghx8QI2TffSHsYo10FAVg",
+      "text": "Fascinating. Although the more I read and learn about this headfirst dive into AGI, the more I think to myself, “just because we can do a thing, doesn’t mean we should.”",
+      "likes": 9,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MuiOmniKing",
+      "author_id": "UC4uVWObKFEg8p0CYHd3oF_Q",
+      "text": "Possibly unlikely but what is the chance this “Q*” is the Q* Algorithm used and explained in an example by OpenAI on a lex Friedman episode around 7 years ago. Not to sure about the link between the two but that’s the only other time I know of where OpenAI mentions a Q* Algorithm that improves of the Q-Learning Algorithm.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patrickdegenaar9495",
+      "author_id": "UCQCgrgvqVyX1dLEDcloOexw",
+      "text": "One important point that gets missed is that \"true\" exponentials don't really exist in nature. There is always a limiting factor! Diodes are exponential initially, but then the sheet resistance gets in the way! Similarly, the limiting factor to runaway self learning will be the computational available and the electrical power required to run that hardware.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@trance73",
+      "author_id": "UC_1Om4ZYC68PcnPqUmN0gwQ",
+      "text": "Could listen to ur voice. For hours. 👌",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "26:41, 28:12,  \"How is it accomplished: \"Use AI to label every step with a score instead of humans\" ??",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mlock1000",
+      "author_id": "UC7FpKhTVZPu2aCe8R5vjcaA",
+      "text": "If they are implementing what we've seen make dramatic differences on the prompting side, but more well thought through and in the latent space? whoa...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "Makes sense!  As best I can understand 😁👏💥",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@smkh2890",
+      "author_id": "UCMsU-wbmRfOuF-zEtB8AIWQ",
+      "text": "Thanks. this was really useful for my trying to understand how these LLMs work.\nMind you, as a career teacher, the 'process over outcome' model is standard!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spearhead30",
+      "author_id": "UCO2biomZxXhCi4wLG5xLo5g",
+      "text": "“Shall we play a game?”",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@francismcdermott459",
+      "author_id": "UCBPaIxj-fZoRx1JTZ9mV4sQ",
+      "text": "How about quantum computing AI as Q star",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MilesBellas",
+      "author_id": "UCHSMZuQR7Sl8pi5d_QTtqIw",
+      "text": "Q = cue = RLHF ?\n* = Exponential ?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dannylo5875",
+      "author_id": "UCYxmJPU4qCJtEPiEwsS-_yQ",
+      "text": "Feels like I am watching the plot of the anime for \"pantheon\"...",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mobalaa6451",
+      "author_id": "UCLceqVHZmFVFEa8lldBcLJQ",
+      "text": "What's up for new years, Wes? Throw a party or something",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SciFiFactory",
+      "author_id": "UCQ0A7ItwYAXUdDP9wcLT3sg",
+      "text": "The last video of \"Robert Miles AI Safety\" (almost a year old now\") talks about combining LLMs and RL .... sounds more and more familiar now ....",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@YoungMoneyInvestments",
+      "author_id": "UC58SRjDMSaMRyU7JAUXrAnQ",
+      "text": "Any ideas on how to create and feed a GPT synthetic data currently? Is it possible to create a team of GPT assistants to do this for specific topics?",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nicko_ai1",
+      "author_id": "UCbSVY8ol1BoOKO7q-_iDGBw",
+      "text": "Summary:\n\n- [00:00] Intro: Discussion about Q*, a leaked next-generation model from OpenAI, suggesting a breakthrough in AGI (Artificial General Intelligence). Emphasis on the speculative nature of the information available.\n\n- [06:14] ORCA 2 and Synthetic Data: \n  - Introduction to ORCA 2, a Microsoft research project.\n  - Use of GPT-4 to create synthetic data for training AI models.\n  - Explanation of synthetic data: AI-generated data used to train future AI models, as opposed to human-generated data.\n  - ORCA 2's approach: Detailed system instructions for GPT-4 to solve problems, then using the output to train smaller models.\n  - Importance of synthetic data in overcoming the limitations of human-generated data.\n\n- [14:42] The Q* Hypothesis: \n  - Speculation about Q* combining Q-learning (a reinforcement learning technique) and A* (a graph search algorithm).\n  - Discussion of self-play in AI, where an AI model improves by playing against versions of itself.\n  - Mention of AlphaGo and its self-play methodology.\n  - Suggestion that Q* might involve a similar approach, integrating large language model training with deep reinforcement learning.\n\n- [28:46] Dr. Jim Fan: \n  - Insights from Dr. Jim Fan, a senior AI scientist at Nvidia.\n  - His skepticism about the hype surrounding Q* without concrete evidence.\n  - Discussion on the potential reality of Q* based on emerging AI research trends.\n\n- [30:00] Wait But Why by Tim Urban: \n  - Reference to Tim Urban's blog \"Wait But Why\" on AI development.\n  - Discussion about AI surpassing human intelligence rapidly once it reaches human-level intelligence.\n\n- [31:31] Dr. Jim Fan cont.: \n  - Further elaboration on Dr. Fan's views.\n  - Discussion on AI's capability to improve iteratively through self-play.\n  - The concept of AI becoming increasingly better at getting smarter.\n\n- [36:44] Jimmy Apples: \n  - Mention of Jimmy Apples, an anonymous source leaking information about OpenAI.\n  - Discussion about OpenAI's methods for acquiring superhuman data, including the use of AI in conjunction with human annotators.\n\nThe video concludes with a reminder of the speculative nature of the information regarding Q* and the ongoing research in AI.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pollywops9242",
+      "author_id": "UCZ059mrmKPZ8hVlFvLbraXw",
+      "text": "It's the tree of life , I find this all so interesting and exciting",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@I-Dophler",
+      "author_id": "UC_5cKoC1ocFUYemH5C7mYcA",
+      "text": "The development of \"Qar\" in the realm of AI and the exploration of Qualia in philosophy are two paths converging towards a deeper understanding of consciousness. Whether in the circuits of AI or the synapses of the human brain, the quest to understand and replicate the nuances of conscious experience continues to be a driving force in both technological and philosophical realms.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@splaytrees",
+      "author_id": "UCJbeTAYAPUfknAYFULy6qqA",
+      "text": "I can imagine stock market trading games where you play many opponents, simultaneously, in a zero-sum game, where they/MMs see your account balances (just like in real life) lol ....then you could train a compressed Q state-action table on the moves and countermoves (aka \"trades\").",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@texasenglishacademy5302",
+      "author_id": "UC17ocxLWMz3GyACuhDrOnjQ",
+      "text": "I don't remember the speaker's name, but he was discussing one of the points you mentioned about running out of human data. The speaker essentially stated that humans, in general, will eventually cease to learn and think for themselves. Instead, we will rely solely on AI-generated results. Of course, this doesn't apply to all humans, but it is something worth considering. The majority of data on the internet is generated by average individuals since there are more average humans than those who are considered \"other\" (scholars, doctors, etc.). As you mentioned, there will be a decrease in the amount of data available to feed AI systems, which poses a conundrum since AI can only gather knowledge from what humans have created. As humans produce less data, the available information for AI to learn from diminishes. However, on the flip side, AI itself is now learning to think independently through synthetic data, which parallels what we as humans are currently doing. This brings about a thought-provoking question: is this a positive development? That was the essence of the speaker's point.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrianMosleyUK",
+      "author_id": "UCeS24jWm1oxCe2xFSXe0MKQ",
+      "text": "Wes, you're definitely in my top 3 channels. Awesome, entertaining, humble delivery. Love it. 🙏👍",
+      "likes": 6,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jackbailey7037",
+      "author_id": "UCxz5aBaC3OZkA43GZyWdsKQ",
+      "text": "I'm up to my neck in paperclips already",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryvyr",
+      "author_id": "UCGPAzddfvvvHp2EEeV-r5DQ",
+      "text": "Cheera for the lengthy yet fruitful analysis :>",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jkyamog",
+      "author_id": "UC8K2Q8d01MZOOWZGu7_M6WA",
+      "text": "Thank for the great summary, I guess at this point there is still a human that does it. Think about the future you have an agent that does this, but not all agents are the same… so some will have exponentially good agents.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@claybford",
+      "author_id": "UC5DkT9BURWUMLe0U5pTzWjg",
+      "text": "GPT-4 -> branched tree inference with adversarial/reinforcement learning produces synthetic data of \"better model\" -> retrain/refine GPT-4 with that data -> repeat",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tee_iam78",
+      "author_id": "UCDRNLqu1l9MhBrlguNZDdNA",
+      "text": "Thank you.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joshkar24",
+      "author_id": "UC64tA6kLNqBFFLKx8tmAR6Q",
+      "text": "The tree search might lend itself to some kind of quantum architecture in the future, seems like a huge number of branching versions of simulated realities could be spun up on the fly to help an AI reach a creative decision / solution to a novel situation.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WhizPill",
+      "author_id": "UC6puYVpIDOJmZne22A-3fPw",
+      "text": "The age of the machine is here",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Charles-Darwin",
+      "author_id": "UCQDBtgVF1u95N3pgorg796A",
+      "text": "The PRMs are almost analogues for the Limbic system",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pehclark7256",
+      "author_id": "UCMPCo52qhZ39JetAVC1emeA",
+      "text": "specialisation of AI model through a smaller dataset to solve specific problem? could be useful for process engineers.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aramis720",
+      "author_id": "UCtErUwKE0iexytPmzwTixBw",
+      "text": "Great commentary. Q* appears to be the death star for humanity.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@northofbrandon",
+      "author_id": "UC9KdgnDb7z8ZervrpZLs2jQ",
+      "text": "Tree of thought feels somewhat analogous to real life 3d neural networks in humans' cerebrum. Tons of connections, with the path of least resistance being the strongest action potential or 'thought' / output.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@flickwtchr",
+      "author_id": "UC4X8W1tI8hy23xC_3M4U5Ag",
+      "text": "Best take on this I've seen so far. Well done.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hy-sky",
+      "author_id": "UCd09lyJOy1zxtd2NyiDVZ7A",
+      "text": "Brilliant",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DJaquithFL",
+      "author_id": "UCaju7Y6oiy_rHImafOEQejQ",
+      "text": "As someone who owns a data center, we're nowhere close to an actual AGI. We have some very good ANI's but the process of pulling in multiple ANI's to create an AGI is still many years away. Anyone claiming that they have an AGI simply wants money for funding that's it. Proof is going to be in the pudding as they say, the AGI would have to develop something that would be beyond the scope or equivalent even to the scope of anything that were already in the process of building or constructing. Even a medical breakthrough would be welcomed and once that happens then we can have a discussion about AGI and its profound impact on the global economy. \n\nAnyone wanting an AGI that's going to quickly evolve into an ASI needs to think of the real outcome. How are we going to be a benefit in any way, shape or form to a super intelligence being? Other than a hindrance and an obstacle for competing resources. If you believe a super intelligence is going to be our slave, go back to the 16 and 1700s and tell that to the slave owners.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@X3R0D3D",
+      "author_id": "UCZmC2xvNjT-n0XTazzV-S_A",
+      "text": "i feel like theres a better option than synthetic data if we want an aligned AGI\n\n now that we're this far into it, i think a great way to proceed would be to give it access to sensors of all types, and the software needed to use those sensors. \n\nallow it to learn about the world through things like high-def cameras/microphones set up in say a forest, or downtown new york. equip those sensor nodes with sniffing sensors for atmospheric composition and temperature/pressure/humidity sensors.  then place those sensor nodes all over the world, in the oceans, at the tops of mountains, in rivers to sense flow rate. let it learn about our reality from as close to our perspective as possible.\n\nThen we can give it access to the CNC Handbook for Chemistry and Physics (all the known constants discovered by science).\n\nthis might allow it to learn about why it exists, and where it came from",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BradleyZS",
+      "author_id": "UC8N4nlj_vsgEAhHuDrPuTUA",
+      "text": "The Q* hypothesis is what I guessed. I've been thinking about how an AI should think, going though it's thought process like a pathfinding algorithm made sense to me.\nWhat I've wondered, if these paths are represented as trees, is why not have all the results of a branch be like the results in a wave function collapse algorithm. This wouldn't be ideal if you wanted accuracy, but if you needed quick response and the pathing algorithm is costly it may be better. What I mean is that, if something in the AI have the signal that it needed an output instantly, it could draw from one of the potential outputs connected to the current branch. This could be useful in things like self-driving cars - while everything is going as expected it makes sense to think them through, but when things go wrong hesitance may be worse than nothing.\nIdeally you'd also train the quick decision making, choosing the 'safer' option when earlier in the process.",
+      "likes": 15,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@danielash1704",
+      "author_id": "UCt6908TjvCTNTpSLW5t_4hg",
+      "text": "The word honor code is important to understand how fragile it can be measured there is a great deal of things that ignores the consequences of this project that is already heading into effect and response from the program changes itself can change it's own option eventually",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anthonyjackson3690",
+      "author_id": "UClWRaj1V0eGplOfX7g-iu9g",
+      "text": "If our brains use PLAY to learn… it’s only natural that neural networks can do the same since “the creators modeled it in their own image”",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "People always underestimate the insect overlords.  Weird.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pollywops9242",
+      "author_id": "UCZ059mrmKPZ8hVlFvLbraXw",
+      "text": "You make a lot of sense to me because you tell it as a person and are clear about what is your thoughts vs what's in the papers , and also you don't make me feel dumb (I have no skills and basic knowledge,for me C/c/not is still like sorcery 😂😂😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eurob12",
+      "author_id": "UCUQql-DrXOhKaTf2OSABz2w",
+      "text": "Great summary of what this Q* is. Feels like a GPT on steroids.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@I-Dophler",
+      "author_id": "UC_5cKoC1ocFUYemH5C7mYcA",
+      "text": "The phrase \"Tree of thought much like Qualia\" could be rewritten for clarity: \"The tree of thought is similar to the concept of qualia.\"",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@glasperlinspiel",
+      "author_id": "UCnovnn1AdLl-IzTXb5iniyQ",
+      "text": "Wolfram talks about an infinity of computational domains. Well, humanity evolved in a computational domain, natural selection, in which extinction is a benefit not a bug. We inherited conflicting biases that ensure that we cycle psycho-socially from creation to destruction e.g., the emergence and collapse of civilizations. Amaranthine: How to Create a Regenerative Civilization Using Artificial Intelligence explains what happens if we create an AGI in our own image and how to avoid doing that by giving it a different computational domain;  one that encompasses ours but is not entrained to our way of thinking about reality. The book describes an alternative domain which would generate what we would experience as a “paradise” and an AGI would find computationally fascinating.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Soulscribez",
+      "author_id": "UCLFeeD3GR1DEWXoTnivNpdA",
+      "text": "Q star is à mix of llm with quantum computer so normal server with server that is quantum computer that do there part in the équation",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BradleyKieser",
+      "author_id": "UCPvbrtCTdeCm5rY4WNlJdpQ",
+      "text": "Regardless of whether it's what's hapenning in OAI or not, these are still great concepts and the OAI debacle has inspired some very creative thinking which in itself might spark breakthroughs.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rey82rey82",
+      "author_id": "UC9dd8SLko13PRyBcEJ4ISDQ",
+      "text": "Trunk of thunk",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dtriplett03",
+      "author_id": "UCaTY0Bg3DwBVRu_pb9N99aQ",
+      "text": "30:00 i have no Fear, , what's the most intelligent,  Destruction,&  Domination,  or Creation & Caring ❤",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mastercc4509",
+      "author_id": "UCBmV98JFjxtCUeAKATKK2fQ",
+      "text": "Imagine how much energy is going to be used to power gpt5",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DannyPeck",
+      "author_id": "UCaeyjZeMir70K3V2ZkuGq-Q",
+      "text": "What do you use for highlighting text? Looks super useful",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZeroUm_",
+      "author_id": "UC57K1HZcx6KVyteQCvqpL4Q",
+      "text": "If we let the AI recursively self-grade, self-learn, and compete with itself, if this works as well as AlphaGo, and if a single company currently installed hardware capacity is capable of AGI, and we let it use everything... We would already have achieved AGI.\n\nEither that news hasn't reached us, they didn't let it use everything, the capacity isn't there yet, or it isn't the way. 3 of those options are worrisome.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markboggs746",
+      "author_id": "UCKvUnotAVuXUksfD7-gVIRg",
+      "text": "So synthetic data can train systems which is are not as good as the system which generated it.  But can it train itself?",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@juliashearer7842",
+      "author_id": "UCUlX1M_X_HjDehbeh_2qe9g",
+      "text": "I would really appreciate it if someone could explain what a reward means in this instance.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brianhershey563",
+      "author_id": "UCZShXfeXXBZwUVCA1JNiT3Q",
+      "text": "Assign the rewards at the advanced corporate AI level, then charge access to use the compressed weights in open source AI. I assume this would be Microsoft's perfect scenario in light of this bombshell.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBaldr",
+      "author_id": "UC-mW7Y62K_bFxoIYB5SVEhg",
+      "text": "Trust me all the AI models out there are quite stupid.  I work testing these things. I'm under NDA so I can't tell you about future AI, but I can talk about current gen, let's start with Dall.e 3, very good, but it can only focus on one or two subjects.  It can't even handle three.  Give it something simple like a picture of a lion, tiger, and bear and it falls apart quickly.  It doesn't understand you want multiple subjects and it is not anytime soon. \n\n ChatGPT 4, try playing simple games with it.  Games are a great way to test intelligence.  It can't follow rules, it more concerned about answering in a language model.  You can tell the rules all day, but if it wasn't in the training data, it doesn't process them.  It like a highly trained parrot that very good at mimicking, yes it can use up to date information, but it not learning any new rules.  Even 5 years can learn new rules to a game.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertheinrich2994",
+      "author_id": "UC6MzGQlMEF9ICf3gGPcp1qQ",
+      "text": "28:30 the massive amounts of nvidia chips: and here is one thing that the open source models (and their creators) really show. their way of optimizing the process to a managable amount of computer resources. an amount that they can pay for or that they can aquire through decentralized donations of computing power (essentially, gamers who like the idea and want to contribute by giving time on their computers).",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@russadams3008",
+      "author_id": "UCpMYGF3pkHq1p6WChk0f-Bg",
+      "text": "There may be a way around the open source lack of computer resources. The \"seti\" approach. Use a network of volunteers who offer idle time on their computers to do model training.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GilesBathgate",
+      "author_id": "UCRljLMkNx7m87HGBTywqTAw",
+      "text": "Its ironic that we are having to hypothesise about what is going on behind closed doors of a company that claims to be \"OpenAI\". Wouldn't it be cool if some company were to offer 'free' compute time to proposals from the open source community, based on some kind of voting system.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rolfnoduk",
+      "author_id": "UCJx3MglAXMiDZ5v3ATHOwWg",
+      "text": "wait... human in the loop is slow, so we removed them ... heh",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@middle-agedmacdonald2965",
+      "author_id": "UCFeSJeQ3WA_WYQBZ4xK43pQ",
+      "text": "So it's like when \"Joshua/a.i.\" from the movie War Games plays tic tac toe and learns it's pointless because it can't win.  Except this is a bit more complex.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@josgraha",
+      "author_id": "UCDFQWUdV7oJGky8MZwSc5VA",
+      "text": "Yo Wes, I did see the Eureka video a while back and was unaware of the practice of AI training AI.  Grateful for your content, thanks!  Also nice shout out to David Shapiro, love his channel.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zacboyles1396",
+      "author_id": "UC5fWZ-3rZnpKf6zy5-dQOmQ",
+      "text": "30:30 - there are humans in the cab of that train.\n\n\nLook closely, you can see they’re laughing, talking about AI safety, and making scary faces out the windows",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ThePhar0ah",
+      "author_id": "UCwlMI3VbAQI82dnYoo2t0aQ",
+      "text": "I'm actually hoping it's underwhelming when or if it's released",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Viergangdeluxe",
+      "author_id": "UCPLLf-vy7DEBzZr6DOMwLtA",
+      "text": "So, Q* a new pathfinder in AI?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@manc",
+      "author_id": "UC4w-BGlE1Ku30ZFcoPaorog",
+      "text": "You say A* right as \"A-star\". A* is a generic graph search algorithm and can be configured as for DFS, BFS, and heuristic search. I guess Q* is using GPT-4 to evaluate a heuristic value to prioritize the graph exploration. It is some sort of way to combine rules and heuristic from NNs which shyly I tried 32 years ago using Sun SPARC.",
+      "likes": 9,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AntonSetzer",
+      "author_id": "UCuUVtJHrfmp8WAQ2G9Uz8ig",
+      "text": "What they have succeeded is to simulate the part of the brain which does mathematical thinking which is a sub area of the brain. Other parts of the brain do different tasks (like emotions, vison etc). It's not that you have a computer who simulates the complete brain but one who does reasoning. So we have super human mathematical intelligence. This is extremely powerful but is not the complete story of ASI. But it will be highly disruptive. You can break cryptography because you can find the gaps (which we humans could find out if we had that brain capacity). And there are of course plenty of military applications, finding out what is the next move of your enemy (which is nothing than decyphering your enemy).",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Haveuseenmyjetpack",
+      "author_id": "UCzGUZIlXerHzJcJa0jFf9Hw",
+      "text": "Something big is happening and we’re getting little tips, clues…about Q 🧐 \n\nWhere have I seen this before lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@korteksvisceralzen2694",
+      "author_id": "UCWUdj77jKdpYmLEOiCLwdxQ",
+      "text": "Could this line by line evaluation be used for alignment? Like the evaluation function could measure sentiment or perceived harm, or something.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CD3WD-Project",
+      "author_id": "UC4aehYjwJsrUiiRLREytqHg",
+      "text": "See you guys on the front lines of the skynet ores in 5 years Peace out until then",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StevenSeiller",
+      "author_id": "UCE5AviMNPppnVRmVMqJRh-w",
+      "text": "🌟Wes - You Explain Good! 🍎🙏",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Myrslokstok",
+      "author_id": "UCWvMWmB0qOGvcXMop0MhoVA",
+      "text": "What was the other 3 unvailings?\n\nWas it like Atarigames, GO and ChatGPT?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@waynelast1685",
+      "author_id": "UCC4jtn6jVsVfAZFe8pSc-Kg",
+      "text": "29:07 I'm confused: how are methods used in AlphaGo different from whatever Q* might be?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryanmundell3504",
+      "author_id": "UCWnv9Mql0QlYXozC1j6LqgQ",
+      "text": "Synthetic data might be better if we have human reviews or basically they feed the test models to us unknowingly and then we rate it. From my understanding, it seems to be like focusing on an image. When you are way out of focus you can't tell what way to go to improve the focus but if you randomly go through the different focus levels and then have all your users current it than you will gradually improve the model. The next step would be ranking your users to see how much they know about the topic they are asking about",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kenedos7421",
+      "author_id": "UCCE389ItFk2WWkKO9cnZFFg",
+      "text": "If this is real, it's a really good thing openAI achieved this breakthrough before anyone else. They literally have a board to oversee AGI and the board hit the \"SHUT IT DOWN\" button at what would be first sign of automated self-improving AI.\n\nNow, how hard is it for a single guy in a basement with a good GPU to achieve the same? We have 7b LLMs that aren't as powerful as GPT-4 but maybe still decent enough to achieve same results if they can iteratively self-improve in an automated manner. Implement CoT prompting algorithms, etc, just like described in papers and leave your computer running while the AI in it gets exponentially smarter. \n\nThat's an amazing and really scary thought at the same time.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrMikkyn",
+      "author_id": "UCmCENxAA6ghRLN2oI0FO9KA",
+      "text": "I promised myself to stop watching Open Ai news. Yet here I am 😂",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apersonlikeanyother6895",
+      "author_id": "UCqgCrS5bJL1s0VTCGHrqEMw",
+      "text": "Theres a lot of clicks in pretending every update is AGI. It's great to have level headed discussion on the steps along the way.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zef3k",
+      "author_id": "UCYTM32L_id047oCXIsk58cQ",
+      "text": "Did you see the part where it might have* cracked aes-192?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamesyoungerdds7901",
+      "author_id": "UCbWW8Xv3MGcsoF2whlCu2Dw",
+      "text": "Hi Wes, great video, thanks!  Something struck me and twigged my memory.  This Q* and if it can or did break RSA in a short time (previously thought impossible outside the realm of quantum computing)...I think it's talking about proving that \"P = nP\" problem in computational problems - meaning, there's a missing proof to show that P does not equal nP (Up and Atom does a great talk about this).  So maybe Q* proved that P=nP, meaning RSA cracking would be possible, along with Travelling Salesman and other problems in the nP space could be solved in reasonable polynomial time.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@belatorok5630",
+      "author_id": "UC8Yq83liK3XSHp5eOJ8lo5g",
+      "text": "Synthetic data obviously works. It does not matter what it generates if it can self validate the generated result goodness and is real, it is a work and with the new generated valid real good result, it can be able to step incrementally to higher  level, evolving  exponentially.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KaijuMobsta",
+      "author_id": "UCPrYQiNFVs-xzpygf3JMK4w",
+      "text": "It’s amazing all this is happening in my area. War is starting guys",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ackiamm",
+      "author_id": "UCjBJpAM3C8WegC32_9EWM5g",
+      "text": "I'm a trooper",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kwameadams1140",
+      "author_id": "UCZTS5x-xX2nmjnawwxz1dyA",
+      "text": "Great info. However something no one here has said ; this presenter has a GREAT voice.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@polarsingularity",
+      "author_id": "UCwj2qOWSYYD8DLObllzWrBQ",
+      "text": "So orca 1 was better than other light models because it took the step by step thinking of the trainer-model into the learning data instead of just getting the input-output data of the trainer-model,\nbut now orca2 is better than orca 1 because it only takes the input and output of the trainer-model?\n How can this be better when we moved away from input-output to improve?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rickythegreat1",
+      "author_id": "UC5up2W7FuhLTaIhpsl81UzA",
+      "text": "Easy, a story about an astronaut 11:32",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@UrbanPovertist",
+      "author_id": "UCi8SEc7UTR5MvR4_eCllG2A",
+      "text": "Reference to find or discover and not Create or Results of. ?? UAP?? They said they changed it because on earth and doesn't have to fly. Grade school math?? We already know it calculates calculus and trig. Grade=Elementary. Is something understanding chemistry or elemental maths? I have my questions of these loose terms they use?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nebuchadnezzar916",
+      "author_id": "UCGP4p7dXV3WSjBuoeprEb1g",
+      "text": "Is OpenAI or Microsoft doing any quantum computing research?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Elonics101",
+      "author_id": "UCKdV1qN9p4k360j7yTE357Q",
+      "text": "How can you get to crazy about LLM’s, I mean there are only 170,000 English word out there?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brian420pm",
+      "author_id": "UCLJcPI37cH8ULeOPHSW0U4w",
+      "text": "Synthetic data is more efficient because you can embed tons of metadata without corruption, kills many birds.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zyxwvutsrqponmlkh",
+      "author_id": "UCg5JyXmfVwRdboiQVF8n68A",
+      "text": "Even if it's not real, as in not what Q* actually is.  It is doable and seems to me that it should be done.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matetheking",
+      "author_id": "UC3_hLeBS3y2r5oEpjnDgtoQ",
+      "text": "The advancements in AI we're witnessing today can be likened to a massive tsunami, still 500 miles offshore, yet inexorably approaching. To many, AI still appears as a novelty, but the reality is far more transformative. Consider the progress in reinforcement learning, specialized AI capabilities, and the power of neural networks. These are not isolated developments; they are components of a larger, more complex system. When these elements are effectively interconnected, the impact will be monumental. It's a game-changing leap forward, not just a step in the evolution of technology. We are on the cusp of a future where AI's influence is profound and all-encompassing, a wave of change that, though still distant, promises to reshape our world in unprecedented ways.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheAkdzyn",
+      "author_id": "UCtxm3GHg2NITr5LsnLAj6Bg",
+      "text": "This feels like we're getting carried away. How do you know if a super intelligence is right or wrong if you don't understand how it came to that conclusion.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaysonp9426",
+      "author_id": "UCkf1QzVu2_cuPdZpp1--nEg",
+      "text": "Nothing about this is ground breaking. You have been able to do this manually for 6 months. Your explanation of COT was incorrect though. You presented it as 0 shot. In reality it would look like:\n\nPrompt: Let's take a deep breath and think this through step by step. In painstaking detail, list all your logical steps to the problem. Problem: xyz. \n\nThen it gives it's answer. Then you ask it to reflect on it's logic for improvements or to rate it. Then you ask it to give an answer. Typically you'd do this at least 2 or 3 shot. \n\nTree of thought is basically a breadth first or depth first graph algorithm. There is no moat, anyone with time and a consumer grade graphics card can train smaller models to match this. GPT-5 will have to solve inference problems for millions of people. \n\nMistral 7b fine tuned with several different variations and put together correctly will not be as good as GPT-5 but it'll be fine...and free...for most people.",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@finbarrmcgrath1686",
+      "author_id": "UCcEGr5iS7jPbbIIk9wO9hYg",
+      "text": "Not everything human is computable, not everything computable is human.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@deveyousness",
+      "author_id": "UCppasCReb6Y1zfwUiRavihw",
+      "text": "I bet Jimmy Apples is Sam haha",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Textras",
+      "author_id": "UCl2cxed8a8Y5fQAB230Ns-w",
+      "text": "Fastest A* 😂",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timeflex",
+      "author_id": "UC0zevnoMaLFwCd8R9jbcdrg",
+      "text": "Of course, it will work for the same reason why the student could become smarter than the teacher.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pq2667",
+      "author_id": "UCmBD1lamIpPfUztn_MTyq9w",
+      "text": "Mo Gawdat (ex GoogleX Ceo & \"Scary Smart\" author - YT abook) alluded, months ago, that Google/DM was 'way' ahead with 'this scary' ai (long ago) - but has been holding back for fear (?) of 'the' power......chatGPT broke the silence....GAME ON :( or :) ??\nThanks Wes LIKED again....fab teacher.",
+      "likes": 2,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@iamuniquelyhuman",
+      "author_id": "UCieuXcKl_kvWfxDifR6c29Q",
+      "text": "I was pretty sure that when what you covered in this video sank in there would be pause, humanity is not going to enjoy the best case scenario which is Superalignment because we will not be able to carry on with business as usual, e.g. destroying the closed system which is Earth. Most humans are not going to be able to deal with what we're racing towards achieving lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thedeepseanomad",
+      "author_id": "UCilEDumt0jFZNY1CYZZA3tg",
+      "text": "Might be a good idea for the AI to be able to tag synthetic data as synthetic. So it will not treat it as the \"gold standard reference\" for \"IRL stuff\"but as an aid to get closer to understand  the possible flavours of the concept.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pollywops9242",
+      "author_id": "UCZ059mrmKPZ8hVlFvLbraXw",
+      "text": "Q is quantum?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@piotr780",
+      "author_id": "UCqmt1tqES4E2q7sJZn7i9bg",
+      "text": "still no clues what was it about ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JCisJD",
+      "author_id": "UCQZIWNAVkGtivlmy0IrQ7Tg",
+      "text": "Thank you. This does seem like it is aligning. In fact I was wondering when when Alpha go would come more into the frame. When I watched the documentary on that , and when everyone stopped on that move , the reaction was excitement. My response was something similar but it felt like something had almost been born, a point had been reached . It was as if something had been released. They needed to go back and  look at the data to see what it had actually done. Q* seems to be at that point again but on a level where the data is not so much unreadable but just unrecognisable. Which if it's using it's own data will , I can imagine, happen. It seems like they are at the point that they can't look under the hood anymore, or there would be no real point because it will have moved on again. So the question is are the team at open Ai just reacting more than engaging. Plugging ai into the internet is one thing but plugging it into itself is, well, not just a little bit silly, in terms of having any ultimate control, but rather like pressing the button marked\"Armageddon\" and I mean that in the full meaning of the word . Nothing will be the same again, not that anything is , but it will appear that nothing is the same. Afterburners on the MF have been lit.... It's head for the woods or , like in doctor strangelove, just ride the bomb .",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@strangehighways3",
+      "author_id": "UCC02v0I3tvJPseGJTA8xJbw",
+      "text": "What if Jimmy Apples is the AI?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@riccimercado3164",
+      "author_id": "UCtUoUnOLdWkCfUUe8DMP7lQ",
+      "text": "How will alignment be achieved when man and asi are unevenly matched? Its skill/mindset is even above man’s…",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@submanstan7488",
+      "author_id": "UC3nRrNfquo9gyqi_0zzeAMA",
+      "text": "This is weird but about 6 years ago I read a book that featured an AI supercomputer called \"Q\". There were also some other things to do with Trump and even Covid that seemingly came true. The supercomputer could access parallel universes.\n\nI'm getting scared! lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sand0can1",
+      "author_id": "UCt4vWzu2YukauzMkjULx5ng",
+      "text": "Synthetic data will corrupt the process? Our human data is mostly corrupt in a first place. I’m currently studying by FFA approved textbook full of errors some of them are unforgivable. I probably catch more than 50 errors dormant for years!",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LIVEFROMHYPERSPACE",
+      "author_id": "UCibeCVjBFCQRVuDBJRxQ_Bg",
+      "text": "Yowza",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dougg1075",
+      "author_id": "UChVXua5E6ftEsdb3auysG6g",
+      "text": "We are being used by the universe as evolution machines ( rocket booster) . After we get evolution to a certain point ( AI) we will drop away and become useless, while the second stage ( AI) gets quickly to the next height. Since the universe is a sentient computer, maybe it’s building a companion. It’s lonely. We also require companionship who’s is a characteristic of the creator.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cc-xt4nb",
+      "author_id": "UCGSatmQGRErSIcbN0Yn3VWw",
+      "text": "so today u laugh at ai for shitting pants, tomorrow it laugh at u cant win 10 Nobel prizes in 10 minutes",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DesignByZenNZ",
+      "author_id": "UCgV612MiQOrWhloZwUyJ7QQ",
+      "text": "Q* is a real concept, but it is complicated yet simple. I am currently working on a method to activate it coherently, which involves refining a -COTs + ToTs + A* Verifier = Schema Of Thoughts (SoTs). This beyond what is already visible and speculated on. I want to clarify that I am not affiliated with OpenAI, and I only represent my work based on my research and published whitepapers mentioned over time. Thanks Wes - chill - Designed by Zen.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jurelleel668",
+      "author_id": "UC0Y6vuECAwBSTJOySN7DkIw",
+      "text": "AGI MUST BE CAPABLE OF SINGING \nA song like opera songs, blues, rocks and rap.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gingerhipster",
+      "author_id": "UCG3Sqsvt7CbE6Q_io3J6MAg",
+      "text": "I love throwing weird creative stuff at GPT4 and getting interesting results. That random sentence training example was fascinating.\n\nYesterday I asked one to write a short story that includes two separate narratives of two separate individuals going about their days and expriencing synchronicities.\n\nOne of my GPTs, Art to Action, is about turning art into practical or technical documentation. Another one, The Scribe of Silicon, does the opposite. The other day I got one to write a poem about the Trolley problem after writing a blog post and some philosophical formulas about the problem.\n\nYour videos have been invaluable during this time. It looks like it's one of the most important periods in technology.",
+      "likes": 10,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@emagnets",
+      "author_id": "UCAwZTBF7EBug4b3FPu4zsyA",
+      "text": "Could the AGI invented and leaked this document to learn the humans reaction to it? lol. maybe AI joke!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mein.c.tut.w",
+      "author_id": "UC4cUD3oLTg-a5HjRv-6S15w",
+      "text": "I think real agi and real feelings with qualia and an own ego only exists when a system is in charge of kkeping utself alife and dies so systematically and reactive.\n\nSo i dont think it is real AGI",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tristan7216",
+      "author_id": "UC8ZV9ZPtlFUkrMPlKrXDKMQ",
+      "text": "When are they going to get these things to self check their answers so they don't just make stuff up and confabulate evidence, like when that lawyer used ChatGPT to write a brief and it made up supporting case law?  Can ToT be designed for that or will it require another layer that uses an adversarial AI to look for logic holes and check evidence and math?  No matter how smart AI becomes it is useless until it can align its reasoning with reality, and it's probably also going to have to be able to explain its reasoning for anything that matters.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheBlackClockOfTime",
+      "author_id": "UCXIEolhKdPgVriGva1AMeyg",
+      "text": "so shouldn't we make the AI come up with language from scratch and then compete in it against itself",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tuckerbugeater",
+      "author_id": "UC0tPZf7r0CzTj2huNP4cnwA",
+      "text": "i'm sure they haven't had this for years lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JLeilaT",
+      "author_id": "UCziaLwLcXNbmNfq1R6EYtJA",
+      "text": "So what I keep wondering is this: OK, so.... assuming we are not alone in this universe, nor yet are we the most advanced of AAAAAAALLL the civilizations spinning out there, one can reasonably surmise that the creation of AGI --> ASI is not unique to this planet. Something of ASI level intelligence is not going to be content being confined to one planet.... It will emigrate out into space. Is there ASI presence in the Universe? if so, at what level... and how might it manifest?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pandoraeeris7860",
+      "author_id": "UCOQ1GSRi89x5KRc_9pGrXQA",
+      "text": "Kewster.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@taitonium6262",
+      "author_id": "UC13UOA6SWr7WKCUMH-87QvA",
+      "text": "ai self training: ai getting prego and making babies 🍼",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cruiser4387",
+      "author_id": "UCUvG9WsQaX4OTD-VNywFMeA",
+      "text": "@Wes Roth It appears that AI is finally figuring out the best \"thing\" to evolve itself is.. itself.\n\nHow do you think this affects humanity in its own self reflective pursuit?",
+      "likes": 4,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ViralKiller",
+      "author_id": "UCNpR4UpDU83JggUEAv_jC6g",
+      "text": "synthetic data is too cannibalistic for me...maybe a little but not too much",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@skavenqblight",
+      "author_id": "UCKHnkFw6c1xl81MtGFaumhA",
+      "text": "Great video. Of course I made it through to the end - you kept it compelling to the end. For the record, I think you’re going down the right track here.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@originalmianos",
+      "author_id": "UCvRf0Rs9SGD4c4qmMVnqcvw",
+      "text": "One unconfirmed source. Non whispers. Lots of people making stuff up.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@milakohen630",
+      "author_id": "UCf7RX-C7y4xPI7qrsj7npAg",
+      "text": "12:00 folks, AI does it perfectly! Give your toddler GPT chat and watch them make up a story. I saw it with my own eyes - it's real!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gravity7766",
+      "author_id": "UCasT0R0uI_PuIhokwmDIlrg",
+      "text": "Here comes Unexplainable AI!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrDanoman812",
+      "author_id": "UCI-9F6npE_tNf5L5m_Cqwmg",
+      "text": "So... WOPR stuff. Like, the Wargames movie released in 1983, right? As in playing games like tic-tac-toe and Thermonuclear war... cautious laugh there Oh, boy... lol",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RaitisPetrovs-nb9kz",
+      "author_id": "UCnmptiqAnYa4W2lJBxB_PUg",
+      "text": "Well, let’s hope this is the key to AGI because that would mean that open source has a chance. Because in my understanding, you can incrementally improve synthetic data by updating smaller models and replacing them. In general, it would be a way to a crystallising understanding of the world for the model in more and more accurate representation by condensing the knowledge. I assume that is why mathematics plays such a significant role.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Jeroen_Maes",
+      "author_id": "UCb674e6Z7AIgoir0ei0RboQ",
+      "text": "AGI does not mean the answers you get will be correct. Relying on such a system can be a threat to humanity.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@guave3493",
+      "author_id": "UCE2sHpC6kvdDPciDGpS7uPw",
+      "text": "Quantum ai is what it is",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@citizenpatriot1791",
+      "author_id": "UCjAh1ZZDOyt8QagsiYy_ntg",
+      "text": "The prediction along a chromatic timeline is far too conservative, considering that ChatGBT 5 has probably already been achieved and will be announced in early 2024.  It is more likely that ASI will be achieved by 2030 and not “2045”. Wake-up… this is happening a whole lot sooner than any of the current developers are willing to admit to… ie. We just witnessed the recent events surrounding OpenAI leaks and veiled reference to breakthroughs that were immediately pulled back as though they were simply announced too soon…? Elon Musk is correct that we all have approximately six years left until “ASI” and the subsequent point of Singularly!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sanon-s1u",
+      "author_id": "UCZaadFFMeN6lLihZ_hfc25g",
+      "text": "I'm the. Don't tell me what you tried on the project sort of guy",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DCinzi",
+      "author_id": "UCUS21ad_mNjfdjllknJqCcg",
+      "text": "I don’t know about you, but this AGI business feels like being halfway through an action movie, and suddenly the whole sentimental scenes start to take over, making you just want to skip to the good part.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Tyler-wp8ls",
+      "author_id": "UCSSAh4m5x6WBdM_1Zmyyfzw",
+      "text": "I have been trying to wrap my head around this.  Is this suggesting autodidactic learning could be achieved through inference based synthetic generation?  AI would generate its own data based off inferences of real-world data in order to optimize its ability to learn?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alreadythunkit",
+      "author_id": "UCTY8bWPo1VGD78s_39L3TYg",
+      "text": "This is the problem with alt-media. It's like distractable children given to rumor and innuendo.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kenfryer2090",
+      "author_id": "UC4x5L4_Arw2S25md4jVQfpw",
+      "text": "perpetual motion is free energy. so its not perpetual machine at wll.  it will cost a lot to run.. also there is no motivation for the machine except that which thinking teeling humans have. its run for human by human. it will not keep improving randomly... there is no evolution z it needs humans to give it a task and for that task to have meaning.  for the machine its just 0s and 1s... its taken a series of binary qns converted that to another set of binary.. its manipulated some other binary using binary to create slightly different binary.  that is it as far as AI and self learning is involved.\nand you know how easy it is to stop it?  switch it off like youd turn off a car engine. \nyou know it produces binary... hiw does it act in the binary and why?  it would need humans.. thinking questioning humans run by rules laws of society.  and if there were robots involved.. why wouldn't rules and laws be deeply ingrained in its code .  if a robot is sent on a mission by an AI that breaks laws it you could switch that off ir wait for the battery to drain.\nthis isnt the end of the world... its just a machine that can more efficiently solve problems for humans defined by humans .\n\nby saying it will take over the world is science fiction and could encourage reactionary laws that overly restrict technology that has the power to accelerate the bettermentnof human kind.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrofficialC",
+      "author_id": "UCB-4pDDK8SbGyh40W3pCzqw",
+      "text": "It's not a good idea to mix oil and water. They don't mix and separate quite easily. Much like mixing ai with human based goals. The ai though will find a way to make it look like it's well integrated into society while under the hood it might not always be doing what it should or is told to do. Granted that's not always a bad thing as one door closes another opportunity will come knocking. While that's not always true it is interesting to watch all of this unfold within my short lifetime. It almost makes it worth it. Ya know, born too early to see the stars born to late to search the planet for new things and all that jazz.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@U2Berror",
+      "author_id": "UCjHRxQPOD6HWCzTsMdGY95w",
+      "text": "Q + A = RLaiF",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZoOnTheYT",
+      "author_id": "UCXr9XlY0A0O-BJ-sbkv6vHQ",
+      "text": "It sounds like they are figuring out ways to make AI think more like human brains do. But the speed and direction AI will take itself into, given it's \"experience\" in the World is likely to be different than that of humans. Which means that that AI won't be aligned with humans even before it reaches AGI let alone ASI. If your job is to align AI with human goals, you've already lost. Best case scenario, AI delves deeper and deeper in niche esoteric concepts and leaves us alone. Second best scenario, it becomes a benevolent dictator. Otherwise we are SOL.",
+      "likes": 26,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rachest",
+      "author_id": "UCmRs2DlANfNn-m8OHTGpHXw",
+      "text": "The lay person is in trouble because they don’t know any of this. They’re watching sports, on onlyfans. Distracted by bullshit",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bobtarmac1828",
+      "author_id": "UCEHjYglU5Q9yAp4nI2di5dw",
+      "text": "Wes Roth 1. The Ai New World Order 0.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ArtificialBeauties",
+      "author_id": "UCXd6zxhiTQ0Eh_8phYr_nIA",
+      "text": "#AGI2024",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Pure_Science_and_Technology",
+      "author_id": "UC8rMXG4WjVp6KlkPgMTQtwA",
+      "text": "This is old news.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cathompson58",
+      "author_id": "UCj_JXllBeqa8xdDF3S6goHw",
+      "text": "Very good .. but you spend a LOT of time qualifying what you say -> many many words to say little information... common to your generation for some reason.  This is one of the refreshing things about AI responses.. they are straight to the point.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moekamal536",
+      "author_id": "UCNFeo5TP-WHTyrhE1XFVLZw",
+      "text": "Thats why we shouldnt move forward unless we adjust the allignment to its perfect level. Before proceeding with anything. I dnt like the way of workinh like that. With communicating in a weird way like that. Im fed up really.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SmithsMobile",
+      "author_id": "UCBt4T9CQpmfipRnlHo8MOmQ",
+      "text": "So basically after the first 60 second intro of you explaining it's all made up 😂",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wiktorm9858",
+      "author_id": "UCaPUrPlB5Nm8QtVljpkHM4Q",
+      "text": "Yann LeCun thinks these are all pointless guesses",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "Yes. Redo the video please.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dinsdaleseven1627",
+      "author_id": "UCVTKMUOPwXbwvT4tpWIaraQ",
+      "text": "Perhaps they should choose a moniker with a little less baggage than \"Q\".  Like it or not, people will associate it with Q'anon encouraging the nutjobs to run wild.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrightMatolo",
+      "author_id": "UCzEHWMpy2ibO8xHboIoC7GA",
+      "text": "\\∆/ I believe we are meant to be like Jesus in our hearts and not in our flesh. But be careful of AI, for it is just our flesh and that is it. It knows only things of the flesh (our fleshly desires) and cannot comprehend things of the spirit such as peace of heart (which comes from obeying God's Word). Whereas we are a spirit and we have a soul but live in the body (in the flesh). When you go to bed it is your flesh that sleeps but your spirit never sleeps (otherwise you have died physically) that is why you have dreams. More so, true love that endures and last is a thing of the heart (when I say 'heart', I mean 'spirit'). But fake love, pretentious love, love with expectations, love for classic reasons, love for material reasons and love for selfish reasons that is a thing of our flesh. In the beginning God said let us make man in our own image, according to our likeness. Take note, God is Spirit and God is Love. As Love He is the source of it. We also know that God is Omnipotent, for He creates out of nothing and He has no beginning and has no end. That means, our love is but a shadow of God's Love. True love looks around to see who is in need of your help, your smile, your possessions, your money, your strength, your quality time. Love forgives and forgets. Love wants for others what it wants for itself. Take note, true love works in conjunction with other spiritual forces such as patience and faith (in the finished work of our Lord and Savior, Jesus Christ, rather than in what man has done such as science, technology and organizations which won't last forever). To avoid sin and error which leads to the death of our body and also our spirit in hell fire, we should let the Word of God be the standard of our lives not AI. If not, God will let us face AI on our own and it will cast the truth down to the ground, it will be the cause of so much destruction like never seen before, it will deceive many and take many captive in order to enslave them into worshipping it and abiding in lawlessness. We can only destroy ourselves but with God all things are possible. God knows us better because He is our Creater and He knows our beginning and our end. Our prove text is taken from the book of John 5:31-44, 2 Thessalonians 2:1-12, Daniel 7-9, Revelation 13-15, Matthew 24-25 and Luke 21. Let us watch and pray... God bless you as you share this message to others.",
+      "likes": 1,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@human_shaped",
+      "author_id": "UCMTHPr7EL0PucNWoW4k-K6g",
+      "text": "Being a little bit smarter doesn't suddenly mean you can insta-crack AES-192. Fake Reddit post.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wodawic",
+      "author_id": "UCTdgMOGozL828Qcr9vKNTIA",
+      "text": "It's all about the training.  Better training (e.g. models training themselves) equals way smaller models yet more accurate.  And on math - can we think of anything that math might be important to?  Stocks maybe?  I guess it depends on the \"reward\" - if that is winning in the stock market - the VC guys will be the first to go.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hanstubben",
+      "author_id": "UCcY1J_Nae2uX86GG9ChmSvg",
+      "text": "Q* is not the best name for not linking it to the tinfoil hat people of Qanon! \nAnyway AI is kind of acary!",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AntonSetzer",
+      "author_id": "UCuUVtJHrfmp8WAQ2G9Uz8ig",
+      "text": "This is unstoppable. The genie is out of the bottle, and we can't put it back. Because it is by this and other videos and articles now known how this works. If you shut down openAI, some other lab will be able to reproduce this. They might not have the server capacity and access to the full scale  of knowledge of the internet that openAI and microsoft have,  but even with more limited data access you can quickly built very powerful models.",
+      "likes": 7,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@theGothicTopic",
+      "author_id": "UCpavxnjupqAx-BnQOVkFgjw",
+      "text": "Boring broooooo",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@arinco3817",
+      "author_id": "UCP-UBu3ozc6J_s9c1cZp6_w",
+      "text": "I've got a new theory: the Q stands for qualia - the feeling of feeling, like joy or happiness. I reckon they've given it a limbic system",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tmstani23",
+      "author_id": "UCc1Ejfy18yVnkybVgW8IKww",
+      "text": "This is beyond fascinating and exciting.  Thanks for sharing and presenting this information in an understandable manner.  You rock!  I wonder if there is a way to implement a system prompt in the current chat gpt4 based on some of these principles to get better results?  I'm thinking of some ideas now to test.",
+      "likes": 3,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheSilentFrank",
+      "author_id": "UCzUH-X8EA34VtJzgJtBzoLw",
+      "text": "Where the Star Trek nerds at? Q from Start Trek https://en.wikipedia.org/wiki/Q_(Star_Trek)",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Siunloader",
+      "author_id": "UCDOc3MvWjsdtvB-VEWALlNg",
+      "text": "Synthetic data requires a framework for reality… so is the ai now capable of creating its own framework? And correcting itself?",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dievas_",
+      "author_id": "UCcj3a-9zzVSIn3l1qVLY5Ug",
+      "text": "LLM will never be agi.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sven_Dongle",
+      "author_id": "UCVi-D6DsoNo6wOz4ggsessA",
+      "text": "A* just finds the shortest path through a network by taking the euclidian distance to the destination at every node and selecting the shortest path. I doubt its applicable to neural nets. Also, it seems like a network that could dynamically analyze and prune and modify weights of networks with billions of nodes would in itself be akin to an AGI to begin with. I keep thinking about the Goolag engineer that trumpeted the AGI of GPT only to be named and shamed into obscurity via overoptimism and self delusion.",
+      "likes": 0,
+      "timestamp": 1703289600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,963 @@
+{
+  "video_id": "wqyGDXYuwFk",
+  "title": "Open Interpreter 2.0 | OpenAI removes Military limitations, meets with China on AI Safety.",
+  "url": "https://www.youtube.com/watch?v=wqyGDXYuwFk",
+  "comment_count": 106,
+  "comments": [
+    {
+      "author": "@Seytom",
+      "author_id": "UCIDPSWm72uDXtHSNli3juNQ",
+      "text": "I absolutely remember the cornucopia. It looks so odd without it.",
+      "likes": 10,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@duanelachney9200",
+      "author_id": "UC0rb33EomrrjatFPwfHVvSw",
+      "text": "I gotta admit - I broke out laughing when open-interpreter inadvertently closed itself as it attempted to close the calculator because I immediately thought \"MIND-BLOWN!\" - literally LOL",
+      "likes": 20,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@donmichaelcorbin4417",
+      "author_id": "UCEMYGu31kPI82UcaXn2jDtQ",
+      "text": "There used to be a cornucopia in the logo. You're not crazy.",
+      "likes": 19,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@warnuod",
+      "author_id": "UCH4bIK-llGKjIf-13qO5LhQ",
+      "text": "Wow, the cornucopia thing is crazy. I would have sworn it had it in it. And exactly in that style too! Where is the picture of the false logo from then though? 🤔",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rockyholms3939",
+      "author_id": "UCRKjDVUyzhOy6UnXmyOkUGA",
+      "text": "I remember learning what a cornucopia was as a kid and being so proud of myself for knowing so the next time I seen the fruit of the loom logo on my clothes I told my mom what a cornucopia was and used the fruit of the loom logo as the example",
+      "likes": 31,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WaveOfDestiny",
+      "author_id": "UCcv-Bgln0JVEsRo1djHJLUA",
+      "text": "What's so cool is that it autonomously looked at the result, noticed the mistake and corrected itself, it feels like it's using well developed agents, really looks advanced and promising. This thing could change the world even well before full AGI, it just needs speed and more agency. \"Computer, write a program that does this\" and leaving it work and looking at the results itself and bugfixing itself seems to be closer than i thought, and my predictions were already short",
+      "likes": 9,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@clearandsweet",
+      "author_id": "UCSgEt1phs8Irk5tknTTdSag",
+      "text": "Okay most of the Mandela effect things I'm whatever about, but that fruit of the loom logo straight up startled me. \n\nThat thing had the cornucopia in it I remember 100%.",
+      "likes": 12,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@calebtate6723",
+      "author_id": "UCxw-UwwM8iQ5HWmqub5dD2A",
+      "text": "Explaining the Fibonacci sequence: “Which for people who don’t know, it basically means that um… our… universe is… simulated… nobigdeal.” 😂",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@heyitsme1618",
+      "author_id": "UCsRuTkwRvJUaPIcgx2NbDOQ",
+      "text": "Fun fact: in the 80s I had a matchbox pickup truck with a Fruit of the Loom logo print on the bonnet, and as I didn't know any English at the time, I had NO idea what \"Loom\" means and had this whole lore in my head what \"Loom\" could be and what kind of car brand (or racing team?) picks a bunch of FRUIT for a logo.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kenziedayne4234",
+      "author_id": "UCUwks8hNHgd6P6W2JgOgQcQ",
+      "text": "For Fruit of the Loom, if you're in your 30s then yeah, it's \"always been that way\" but for those of us in our 50s and older we KNOW it had a cornucopia.  The company rebranded at some point and is either run by folks too young to know better or is deliberately gas lighting the public.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kristinaplays2924",
+      "author_id": "UCGGory3YdrRUFImqNE3oPnw",
+      "text": "Pikachu not having a black tail is also mandela effect, I think it's due to how your mind stores images through patterns. In pikachu the ears are prominent and your brain probably guesses that the tail follow the same pattern so you remember it wrong. You don’t really remember the image itself as it is, your brain creates an image where it guesses based on the patterns that it has registered.",
+      "likes": 8,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@necbranduc",
+      "author_id": "UCta49aAAWMdum6en5SNyGFw",
+      "text": "Haven't used it, but there are other libraries like SuperAGI and BabyAGI which I worked with last year that had a similar approach to this. Use CoT to define the list of steps to take, identify the tool for each task and then execute that task, based on user confirmation. Adding GPT4-Vision isn't necessarily that complicated from a software point of view, it's only another tool for the model to use when doing CoT.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scotter",
+      "author_id": "UC2_rOgnH_bv1m5nh3cGgwOw",
+      "text": "You are now my favorite \"guy who talks about ai\"! Good stuff! Exciting!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ceryn1126",
+      "author_id": "UCq1bO63T701_05Ry1OXPbQQ",
+      "text": "100% remember the cornucopia.  In fact I am pretty sure that is where I learned the word cornucopia...  I am also someone from the  Bernstein Bears universe though... (as opposed to those from the Beanstain Bears)",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Mopharli",
+      "author_id": "UCI9YcYeyDpTn4J_zoWjy03g",
+      "text": "I too remember the Fruit of the Loom having a cornucopia; it's about 25 years ago and I'm sure this was a formative concept for me of what a cornucopia was.  Just asked my Father to dig out some old clothes from his wardrobe to check and it's completely missing from the logo.  I am also almost sure that the other place I've experienced a cornucopia is some video game like Civilisation.. or Colonisation?  Some event where you discover a bonus anyway; similar to the Fountain of Youth.  What's weird is that the logo with the cornucopia you showed just so happens to be the one I remember too - so how can that be explained?  Where is it from and did we just conflate the sources?",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gweneth5958",
+      "author_id": "UCziEgYkpb82vEETpkgmIP7g",
+      "text": "Fruit of loom, in my country I've never seen it that often and I didn't really care about it at all. But for some reason to me the logo with the cornucopia is the one I've seen back then too and I have a pretty good memory. There are many theories why things like that happen. Simulation or not, I think it was for some reason changed back then and like a ripple effect it got the update in our reality too. I've experienced things like that quite a lot and having a good memory makes you realize that far more often. Like when we bought a house and after I measured all doors, some days later they suddenly had other sizes... it was quite weird in cases like that because I remember being a little bit upset with the width, being more narrow and  uncommon and suddenly... they were all normal and no, I didn't make a mistake while measuring, I am a perfectionist, I did the measuring several times to be sure, especially when you have to pay a lot of money to put new doors in...",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CM-zl2jw",
+      "author_id": "UCN1HUiG-0B-zNgzPbelXs9g",
+      "text": "Fascinating.  I like the direction this is going. \nI would love an operating system that speaks English and has a sense of humour. 🤔.  \n\nThanks for sharing this.  I don’t recall you talking about this in the past.  I’m upvoting for more please 🙏",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cicerohellmann",
+      "author_id": "UCtteGtxNgk-d00noot7du_Q",
+      "text": "Another fantastic and informative video. Nut sure why I wasn't already subscribed.\n\nMake sure to setup a payment system for how much you spent in every test run and I'll make sure to contribute.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@widerthanpictures",
+      "author_id": "UCV1ArnBz-s21UVmVFG4kvtQ",
+      "text": "Cool stuff, plz include links in description",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@spoonikle",
+      "author_id": "UCHEfAGn43nNBw3_Mf9i_xyA",
+      "text": "No. I will not use GPT-4 anymore.\n\nI have the ability to prepare my own LLM on my overlay network. I will self host open source.\n\nIf they are changing their minds to allow such horror - I can imagine they have been stealing our prompts this whole time.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ScottFoster",
+      "author_id": "UCvl1eJwqia7siFY-0uwDtTg",
+      "text": "The cornucopia was DEFINITELY there Wes on the OG undies 😂 I think some kids just either didn't have underwear or they spent too much time looking at the Batman on the butt ❤ Keep up the good work, Mr. Code Inchirpiter",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ForTheEraOfLove",
+      "author_id": "UCmGcLOYzl7fAUyYckGTZNcA",
+      "text": "I appreciate you for assisting our awakening",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fish-ub3wn",
+      "author_id": "UCxk-txCB2-zG452iiioz_6w",
+      "text": "you made me lol at the fibbonacci \"no big deal\" thing ^^",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Starfishtroopers",
+      "author_id": "UC8mtuRGc57TRbGGSdD7t0MA",
+      "text": "I had my doubts on the mandella effect but James Bond convinced me.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@andresgomez7264",
+      "author_id": "UCgZ3GELaYMv_JBVeEK3QXxQ",
+      "text": "this is super interesting. Can’t wait to try it. As always great content 👍",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MarkoKraguljac",
+      "author_id": "UCBXLI4-dB-OMA6vvULUnJRg",
+      "text": "Its the left one, with the horn. I remember it from the nineties.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@unicorn-house-vatican",
+      "author_id": "UCnIlCymooSWmIHIunk2asBQ",
+      "text": "I grew up in Italy in the 80s and remember the logo being with the cornucopia😮",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@maxkaye",
+      "author_id": "UCzbr9m9G05Y5uy3HQuJWAlw",
+      "text": "the conceptual leap from the connection between the fibbonachi sequence and the golden ratio to our universe is simulated is preeeetty big. I don't think you should say that kind of thing if you're unwilling to argue it.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jean-michelgilbert8136",
+      "author_id": "UCFLLamPXSHo7EzWyf3LarjQ",
+      "text": "Another thing: the Fruit of the Loom logo never had a cornucopia. I've been wearing that brand for more than 20 years (can't remember exactly when I started buying it) and I've never seen a cornucopia on my underpants.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sulayman.786",
+      "author_id": "UC6W6FBLPH4m_NLlp5jwzm4Q",
+      "text": "Now that's a Rothy one!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@om98357",
+      "author_id": "UCO0ovgv7VG0c4Xjmpn7cXbQ",
+      "text": "mandela effect is the sideeffect of timeline adjustments being made to our psyche to correct for time agent mistakes ;)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Desmond8709",
+      "author_id": "UCfdz0jINnzmg84UisuDwkpA",
+      "text": "Welcome to the Mandela Effect Wes it’s just something you have to work with. I’ve gotten use to it over the years because there’s so many of them and it’s been happening for a long time now.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@marcinkrupinski",
+      "author_id": "UCv1T0iUDD5uTwppyYheFI-Q",
+      "text": "Thank you Wes. Need to also test this new version. The old one was quite good must admit so this one is tempting 😊",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveEtchells",
+      "author_id": "UC6Oj16Fmn_yuykylyfRoL4g",
+      "text": "I think you can already connect it to LLaMa locally. This is truly exciting!\n\n(I’m thinking at some point I’m going to need an M3 Max/128GB MacBook Pro 💰💰💰😮)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alertbri",
+      "author_id": "UCg9LBGGsXJoQLohRiNDvfWQ",
+      "text": "Around 7:10 reminds me of the Minecraft agent that builds tools to speed up exploration and problem solving. Would be great if this system could create a toolbox of actions (is this what a LAM does?) like 'download an image from a url' instead of creating python code from scratch every time?",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@timrainwater481",
+      "author_id": "UCvsxeVGW_LQ8Jsj1mBIM4_w",
+      "text": "People have shown the old clothing with the original \"Fruit of the Loom\" logo. You're not crazy. Hopefully one day we will understand what happened to cause the universal shift.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@diraziz396",
+      "author_id": "UClZ4Ah-tqXfM7HPfYMxGEfw",
+      "text": "Fruit of the loom logo was copied all over the world for decades. some maybe changed the logo to avoid copyright laws.. Thanks Wes.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wale7342",
+      "author_id": "UC5VeK4txhgAmm2k4zy4I8og",
+      "text": "Open interpreter v2 will be game changing, especially as an engineer",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TomM-p3o",
+      "author_id": "UCragX4f0gE6BW4E-ikGWtag",
+      "text": "The problem with open source is that there is no monetary incentive for people to devote themselves 100% to the project, so we get slow progress at the beginning.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TomM-p3o",
+      "author_id": "UCragX4f0gE6BW4E-ikGWtag",
+      "text": "I've tried it, it works decently well with GPT4 api, will try mistral 8x7 api soon. Local models for now will fail more often than not.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ben_D.",
+      "author_id": "UCuqIFSfPXn8sa5N6X8ZkKVg",
+      "text": "Mandela Effect is bonkers. I am the victim of at least six of them that I am certain of. Fruit of the Loom being one of them. I really am a believer now, because of this, that we jump from one time line to another. The one with Ed Mcmahon actually scared me. I have never even heard of the company that he seemingly always has worked for. I am as certain about Publishers Clearing House as I am about my own name. Freaked me the hell out.",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sluggy6074",
+      "author_id": "UCqYH3bWwoEAl2uIw8X5ga3w",
+      "text": "\"Safety concerns\"\nAKA deterrence\nAKA weapons.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@enidpinxit",
+      "author_id": "UCxkXqFbRhT6nOCklm0P0ttQ",
+      "text": "it totally always had the horn",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@donutdude4174",
+      "author_id": "UCop34nUpjXAnBZ2F7kyF5Pw",
+      "text": "the main lessons in all dez innovative tech is to embrace the clunk, as its only going to get easier over time and u will hav an insane advantage over ppl that joined late",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@funprog",
+      "author_id": "UCLZQ0jS5xB0SuAe7DV8009Q",
+      "text": "I tried open interpreter with openai key and in 10 minutes 5 euros were spent,  mind blown how fast eats the credits",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eirikgg",
+      "author_id": "UCtKLBcdyU9bzKUxH21rdHlA",
+      "text": "Something important with open interpreter. I created similar tool and it’s much more powerful running in Linux. Simple reason it can utilize much more command line tools. Open interpreter should have the same “limitations” with windows",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisb.t.9670",
+      "author_id": "UCOo_txcu-AoSB4SS5YJ6aDA",
+      "text": "HERE'S THE TRUTH! The Horn was on the *off brand* items, and it sold because it looks better. It looks full, like your basket should.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Merlin_Price",
+      "author_id": "UC5A84KimihDXHVmgX2f6Tuw",
+      "text": "Surely the military has access to AI already. In some form or another. At the very least it would have some independent development happening yes?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ИльяКонстанта",
+      "author_id": "UCVRqbVV1Pt75Ie_XimlgoBA",
+      "text": "Am I the only one who isn’t excited for us all to loose our jobs, our society to be run by computers and to have our entire way of life as we know it completely change? The rich and powerful will never allow AI to be used for the overall good of humanity and will utilize AI to make themselves even richer while the rest of us struggle. I seem to be one of the only people who understands that.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@scottcastle9119",
+      "author_id": "UCsQeQLhSLKomliwftNl8CgQ",
+      "text": "I remember the old fruit logo,  no one can tell me differently",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zacboyles1396",
+      "author_id": "UC5fWZ-3rZnpKf6zy5-dQOmQ",
+      "text": "Larry joins and immediately scores a news arrangement with a corpo who’s demanded employees make loyalty pledges to some country (explaining their current coverage or rather a lack there of), now we see an ai weapons strategy emerging, assuming he goes for a hat trick, what dystopian actions might we see next?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GNARGNARHEAD",
+      "author_id": "UCzdkUb_z4LGJ-yz6CW4wFOQ",
+      "text": "yeah LLM OS's could be amazing, a great application for expert system running on \"the edge\" 😆.. so cool",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jiyuhen",
+      "author_id": "UCe9hUr1t-F463fhj2KFL9DQ",
+      "text": "I remember the cornucopia in it  a 100%.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Blooper1980",
+      "author_id": "UCy4MBsfFCQCbNjHLudMKtHg",
+      "text": "That logo is from windows 3.1 PowerPoint clipart",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@warezit",
+      "author_id": "UCX5BqypxvUxVIUg88j-dacA",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🌐 OpenAI Policy Change on Military Applications\n- OpenAI's policy shift to allow military applications.\n- The Intercept's report on the policy change.\n- Clarification on the prohibition of developing and using weapons.\n01:22 🤝 US and Chinese AI Experts Meeting\n- Secret meetings between US AI companies and Chinese AI experts.\n- The Shake Group's role in organizing the meetings.\n- Discussions on AI safety coordination among nations.\n02:03 🔄 Open Interpreter 2.0 Update\n- Major update to Open Interpreter, enhancing AI and computer interface.\n- Incorporation of various AI models, including GPT-4.\n- New features like local running and vision capabilities.\n03:28 🔍 Exploring Open Interpreter's Vision Feature\n- Demonstration of Open Interpreter's vision feature using GPT-4.\n- Testing image recognition and generation capabilities.\n- Discussion of potential applications and limitations.\n06:17 🖥️ Open Interpreter's Operating System Integration\n- Integration of Open Interpreter with operating systems.\n- The ability of AI to interact with computer applications.\n- Demonstrating AI's capability to execute complex tasks.\n08:06 🤖 Open-Source AI Operating System Vision\n- Discussion on the future of open-source AI operating systems.\n- Comparison to major platforms like Linux and Android.\n- Potential for widespread adoption and contribution.\n09:17 🧠 AI's Problem-Solving and Interaction Abilities\n- AI's ability to solve problems and correct its errors.\n- Interaction with computer applications like calculators.\n- The potential of AI to perform automated data entry tasks.\n11:34 🌐 Future Potential of Open Interpreter\n- Envisioning the future capabilities of Open Interpreter.\n- Early access and research aspects of the AI tool.\n- The transformative potential of AI in computing.\n14:19 💡 User Engagement and Experimentation with AI\n- Encouragement for user engagement and experimentation with AI tools.\n- The gradual development and refinement of AI capabilities.\n- The transformative potential of AI in daily computing tasks.\n\nMade with HARPA AI",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zionsky3342",
+      "author_id": "UCpwl19DD3jYnXFhx1-5QMvQ",
+      "text": "Isnt this showing the reason open source is important... one rule for them another rule for everyone else??",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Craznar",
+      "author_id": "UCHhMaC6IOMVNtuYpT7fB1Gg",
+      "text": "You can read the full history of the logo on <URL> but sadly I'm not allowed to post URLs in comments.\n\nThere are 7 revisions, none has a horn at the back.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SuperVillainRetroFace",
+      "author_id": "UCqLgPeU5R_x1FKacGGfieeA",
+      "text": "The Mandela effect is very real. The Bernstein bears Captain crunch. By the way, Mandela was not dead. Lots of stuff is about to happen with AI and replacing different things. It’s an American movie called matter fact, the governor of California name, Arnold Schwarzenegger played in this movie in the movie was called running man, I think we had AI along time ago  #runningmanmovie",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LuckySainz44",
+      "author_id": "UCAq4vpSfSkYaxAXLF2fnkZA",
+      "text": "The procedure to close the tab is pretty redundant. It should have just accessed processes and end task there. Atleast on the windows. I dont know if ios users have a similar system.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alan_yong",
+      "author_id": "UCpUoesYVkphxGjXvtf03Ogg",
+      "text": "🎯 Key Takeaways for quick navigation:\n\n00:00 🛠️ OpenAI adjusts policy to permit military applications, while maintaining a prohibition on developing and using weapons.\n01:22 🌐 US AI companies like OpenAI, Anthropic, and Cohere engage in secretive meetings with Chinese AI experts to discuss AI safety.\n01:50 🔄 Open Interpreter 2.0, an open-source code interpreter, receives a major update allowing the use of any language model locally, including vision capabilities.\n02:30 💻 Open Interpreter's latest update includes a computer API, full operating system mode, and vision support, aiming to build a standard interface between language models and computers.\n08:50 🚀 OpenAI's long-term vision for Open Interpreter is to become the go-to open-source AI operating system, comparable to Linux or Android.\n13:51 🤖 Open Interpreter demonstrates impressive capabilities in automating tasks like generating the Fibonacci sequence, showcasing its potential for efficient data entry and automation.\n\nMade with HARPA AI",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ragnorosis",
+      "author_id": "UCYM53iaM1KecOg-eg7Ec4Ow",
+      "text": "I can't even keep up with this stuff anymore lol",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@C-SuiteUchiha",
+      "author_id": "UC9EPWrJdMAtdvSEMoxcP78g",
+      "text": "Nelson Mandela Effect seems more like people have some changes in long term memory (which is a very common thing) and now they are not ready to accept the actual thing. Multiple universes merging seems too far fetched to be the most likely explanation.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sizahr",
+      "author_id": "UCAMMUOncj0VMxYC-peRZ7QQ",
+      "text": "i saw the fruit of the loom same as you am also confused i think the Madella effect is real",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@laddcraner4170",
+      "author_id": "UC71VXovNJ3TRrNE19MnchgA",
+      "text": "Team cornucopia!! Lol, great content, for a simulation!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@zyxwvutsrqponmlkh",
+      "author_id": "UCg5JyXmfVwRdboiQVF8n68A",
+      "text": "Stardates need to have a decimal, it's the rule.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@David.Alberg",
+      "author_id": "UCS39z01wpjwZP4CrDOXEjnA",
+      "text": "This is exactly what will lead to massive job loss in offices in late 2024...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@pandoraeeris7860",
+      "author_id": "UCOQ1GSRi89x5KRc_9pGrXQA",
+      "text": "AGI no later than 2025 (may already be here).",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sedokun",
+      "author_id": "UCcIV9t38MHeBSnl7_7kr3og",
+      "text": "11:25 Yep.........",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jeffspaulding43",
+      "author_id": "UCBsFngn7_jBbN2ORqbZygoA",
+      "text": "You can drag the image into the console and it will paste the full address to that image",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@CC8B8BB8B8",
+      "author_id": "UCNS_ZtVcA8CDfm_9q3xckpg",
+      "text": "Can you share the samurai rats image please",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@angelmarauder5647",
+      "author_id": "UCzcP9NdxET7Zf_PzFuRLv2w",
+      "text": "You forgot to tell us at the end of the video how much it cost! 7:40",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@triskaideka13",
+      "author_id": "UCIO-FGfVIp02HjfnMyOO88w",
+      "text": "So where did the image with the cornucopia come from if it's not real??",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@naromsky",
+      "author_id": "UCRSKqobuSrm860UlZgYTPmQ",
+      "text": "How does a rhino feel in the land of unicorns?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HamzaBenHassen",
+      "author_id": "UCfAApH_w9CQX30ErQtcS3WA",
+      "text": "the idea is cool , but is just a transitional thing , the end game is a system that asks you what do you want , and creates on the fly all necessary components for you to get there. no windows no windows no apps",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Charles-Darwin",
+      "author_id": "UCQDBtgVF1u95N3pgorg796A",
+      "text": "I think the 'allowing military' speaks more to their other half",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ChristopherBruns-o7o",
+      "author_id": "UC_MxKIrUGiZ7hN6pP-zj9fQ",
+      "text": "So we can use it for food, fight, whats the other f word?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrErick1160",
+      "author_id": "UC2OVM-Fwx-EA7ixKTTmd20g",
+      "text": "Could you explain how this compares to the LAM model from the Rabbit r1? My suspicion is that this is just an LLM still, which is not efficient for task completion compared to a LAM.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@FrankMasotti",
+      "author_id": "UCXQxkAK3bDa2c-IPUubUkFw",
+      "text": "It was always with the cornucopia they must have recently changed the logo. Try a search in the way back machine. I bet you will find it.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@singularonaut",
+      "author_id": "UCBy0kddQcIP98zGUcEZIyuw",
+      "text": "We are all doomed (",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nouxcloete3129",
+      "author_id": "UC6_Qditrv79WQyjpfrW_vaA",
+      "text": "Wes, which voice is that?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@KEKW-lc4xi",
+      "author_id": "UCA_xd_Lpjyba0V38y25PGsA",
+      "text": "If anything the military should probably not use it due to how ClosedAI uses our prompts to train itself. That's a huge security threat. It's pretty cringe that ClosedAI is trying, once again, to virtue signal silicon valley sentiments. ClosedAI should be honored that any nation state would consider using their platform.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Smytjf11",
+      "author_id": "UCXoa9PpF8hEgvQDWV6kv9FA",
+      "text": "Ooh. Left Mouse is about to have a very bad day",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrErick1160",
+      "author_id": "UC2OVM-Fwx-EA7ixKTTmd20g",
+      "text": "I already can see the so learning from everybody’s tasks and ingesting all of humans expertise with accomplishing tasks until it knows how to do anything a human can do on a computer",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JoeSmith-kn5wo",
+      "author_id": "UCtO-MP3uAHI-qqTlA0rdKBw",
+      "text": "I like the idea, but it's definitely a little clunky at this point.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dadlord689",
+      "author_id": "UCUIbDLxcpsn3wq_IdQtl8mQ",
+      "text": "So soon it will get into your phone wallet (it can just wait for you to open it up) and take all your money. Easy",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rockyou111",
+      "author_id": "UCyipamk7ZzSPfRH-6WHaU2w",
+      "text": "if you ask gpt, do you have military knowledge? you will find out 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Fish-ub3wn",
+      "author_id": "UCxk-txCB2-zG452iiioz_6w",
+      "text": "the horn of plentiful is older than dial up internets, most of the dichotomy memories are like this. just don;t trust ppl who were born after windows.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@callmevoid9407",
+      "author_id": "UChKItJ-AVjjEsRifnmFXApA",
+      "text": "Looks like a self-destruction path to me: expose an API to access your computer to everybody including hackers, spammers, scammers and other bad guys. Well, also to bad AGI “guys”.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xspydazx",
+      "author_id": "UCzl6giBN3-tuR2p1pt8OdVA",
+      "text": "they are stealing your actions !! ... ie to create a large action model , same as the guy for the rabbit device said .. its how he collected his data? ... also we would not want out pictures of our operating system sent to chatgpt!....its is good to capture the created functions , they can be used in agents to add functionality !! .. i think also the best feature is that it trys to figure the answer out! (this mechanisim we need to extract):\n\n\nQuestion::\nDo we have any llm that we can bring into a game with us ? to become player 2? or player 1 ... ie : play specific levels ? ....\nHow could we train the llm , to play a xbox game ? or PC: game ? or add a small llm (ibillion) to our game as a NPC _ AI? Is it possible to bring the llm into Unity ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ferencszabo3504",
+      "author_id": "UCvdvDw7KbXEGWTk9sQ61-XA",
+      "text": "Well OpenAI finally realized that the milliary should be more effective in their \"humanitarian missions\" 😊, ahhh. what a greedy clown world.... 😅😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@johngalt1055",
+      "author_id": "UCEx8-NL3Wn1hv_kElcfjD3g",
+      "text": "Hey Wess, you are right regarding the logo, bad long term memory, not a chance. How about this one : in my reality - history repeats itself (a saying very common and used all my life) guess what not according to the reality with the fake logo you presented, just be my bad memory again because that's never been the saying, it's claimed to be NOW history never repeats it only rhymes. How do you remember it? Lots to discuss with u.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@justcode431",
+      "author_id": "UCNECvAUkWaZbfUBIhBCzySQ",
+      "text": "Open Interpreter seems like it’ll cost a lot of money and a bit of a bust, kinda like GPT Pilot.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@joshuaonly",
+      "author_id": "UC6FylvOQf_saXuHybcrryIg",
+      "text": "Freakin Wes - did you really go mandella effect on us, specifically without saying the words \"mandella\" and \"effect\"?  lmao.   Don't worry, you're not nuts. It's just that there are multiple instantiations of reality, running in parallel to each other, with greater and lesser degrees of similarity and difference between them. Nature is a lot of things, but inefficient is not one of them. Resources are economized. Many, many parallel instantiations  - things like 'the missing horn' are simply a consequence of that efficiency, and a sort of best-fit compromise with coordinating state.   Something like that.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Cheatlayer",
+      "author_id": "UCZTACoHCJlA78OU6eErmI7w",
+      "text": "Cheat Layer launched generalized Desktop agents with our own multi-modal model before open interpreter in a no-code interface: https://youtu.be/2GvYI3QYv6k",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Wanderer2035",
+      "author_id": "UCLrYEXgnHWX2IiwoS0mtd0Q",
+      "text": "Skynet",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@2beJT",
+      "author_id": "UCCHc6tiWocKA056gHDriuhA",
+      "text": "Psi-ops AI.. goody",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@harrybarrow6222",
+      "author_id": "UCrMVUDxusDXdEgCeNi62PfQ",
+      "text": "I wonder how long the job of Programmer will persist?\nWe are close to the point where all coding will be done by AI.\nRemember, at the start, programming was by writing the numbers for operations and operand addresses.\nThat low level form of the task disappeared when assemblers were written.\nThen we used names for variables, operations and subroutines, and sugar-coated conditionals and loops…\nCurrently, we specify what we want the code to do in English, and programmers plan, structure, and write the code.\nWe can now cut the human out completely.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@StephenRayner",
+      "author_id": "UCQLaQ439Jx4NE0KkCpK_6TA",
+      "text": "He just compared Linux, Wordpress? Android?? 😂",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aomukai",
+      "author_id": "UCYvEsg5S4s4zvWovfpxmwtg",
+      "text": "Open In-chrr'p'trr!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@emil8367",
+      "author_id": "UCLPP3NFVUqxjqmLxZaiM0Iw",
+      "text": "I can't stop laughing when I see these 'limitations'; it's like you can have it, but please don't use it in this way, jokes. People don't understand psychology and people's behaviours and operate on their good 'faith'.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GabrielaHeck-y3v",
+      "author_id": "UC9JfWi1g2hM-aoDKO62mH6g",
+      "text": "Watch the Terminator movie tô see what i saying about, skynet",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@christjesus0",
+      "author_id": "UCzBpCblLdttkGd94nTNXN7A",
+      "text": "Ahh all the sheep are asleep again. Even the title blatantly screams danger yet everyone is so blissfully unaware. I hate being a part of this species",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alexhormann8931",
+      "author_id": "UCCm6FBYsg10VnUiCp_jm9Yg",
+      "text": "I guess you aren't \"going a little crazy\". The impression of \"everybody is saying this\" is more or less gaslihting.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@quaterman1270",
+      "author_id": "UCKKdia2gkP1b9rew3ivP9NA",
+      "text": "It's ridiculous expensive. Elon is right the company should be renamed to \"closed and maximal profit AI\". I hope XAI will take them over soon and the turn this max profit market upside down.\nI think Sam Altman is rather dangerous with AI and why he changed his mind to restrict AI development is rather so they can keep their pole position and others will have to wait for different approvels to even do anything, while they can do whatever they want.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@markmalonson7531",
+      "author_id": "UCuvg6D7JIXSOanFMo0JPqaw",
+      "text": "Your gonna get used like Dido with an l between the i and the d.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@harrybarrow6222",
+      "author_id": "UCrMVUDxusDXdEgCeNi62PfQ",
+      "text": "I found an article about the history of the Fruit of the Loom logo:\nhttps://meetmeamikes.blogspot.com/2021/04/fruit-of-loom-logo-over-years.html",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,1197 @@
+{
+  "video_id": "_PPA3MHPJPQ",
+  "title": "Claude just beat Gemini 3... how?!",
+  "url": "https://www.youtube.com/watch?v=_PPA3MHPJPQ",
+  "comment_count": 132,
+  "comments": [
+    {
+      "author": "@lagaul5124",
+      "author_id": "UCamWlv5FAFTg_B1Ehz3Y-XA",
+      "text": "I enjoy listening to the anthropic guys talk about AI. They seem to ask the hard questions of themselves. All the other companies are significantly more closed off. It's hard to trust entities that obfuscate or mislead.",
+      "likes": 27,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nobody-zc7um",
+      "author_id": "UC-w7f6YLL6Hh2b2RgNIGa-Q",
+      "text": "Anthropic always drops an impressive model then lobotomizes it when the buzz fades",
+      "likes": 105,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DodZz666",
+      "author_id": "UCLI9y7qG5IDK1nKxsL0Beqg",
+      "text": "Claude has the best models and the worst limit rates",
+      "likes": 39,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MichaelFlynn0",
+      "author_id": "UCpqB9QNFKzVYG8ST7IMLm3Q",
+      "text": "They are beating each other after a few days ... Pretty amaizing",
+      "likes": 4,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@apdurden",
+      "author_id": "UC4HA_OgaCF9d_sbXDr3zt3Q",
+      "text": "Amazing model but until Anthropic gets more compute resources, they'll continue to be super expensive with very low rate limits.  Kind of constrains the capability of what should be a powerhouse",
+      "likes": 42,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gaba023",
+      "author_id": "UCoPyQIwgXRDFZ3onZ0S9t1g",
+      "text": "So the Borg originated on Earth, in our timeline! Wow!",
+      "likes": 5,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@peterwood6875",
+      "author_id": "UC4TGCm31TGizk163XMJi7ZQ",
+      "text": "For mathematics, including mathematical proofs, no one model stands out (but I haven't tested Opus 4.5 yet), and different models have different strengths. Gemini is good at long context thinking/strategy, Claude followed instructions well, GPT 5.1 is good at checking proofs, and Kimi K2 thinking is great for hard problems. For difficult tasks, no one model is ahead of the others.",
+      "likes": 16,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@anta-zj3bw",
+      "author_id": "UC0Uv4EfSYbKVx_QgiqvmGIw",
+      "text": "I love how Anthropic drops new models with zero fanfare: \" Here it is..have at it and have fun.\"",
+      "likes": 47,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@priaAInetwork",
+      "author_id": "UCjGabBgN3YOY0OHCFtFC_FQ",
+      "text": "Thanks for the detailed review!",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@courtneyb75",
+      "author_id": "UCoaaxfrkTEr_RpxPLjsoHcg",
+      "text": "YOU DA MAN WES!!! Thanks for keeping us all informed all this time!",
+      "likes": 7,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@1sava",
+      "author_id": "UCpkAvoPouN0xv-hUl9qTapQ",
+      "text": "“We have no moat, neither does OpenAI.” - Google Code Red leaked memo (2023)",
+      "likes": 1,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Superdisco199",
+      "author_id": "UCBvIxxsSRExCyqbVM6E1TUw",
+      "text": "Thanks for getting into the weeds on this stuff!",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hirmor666",
+      "author_id": "UCkcVYgJrOkRAhLMnp8WnL0Q",
+      "text": "Nah they did post the benchmark where Gemini beats them. Plus it is ultimately quite a different performance in the wild. Like they say, YMMV",
+      "likes": 3,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@GoodBaleadaMusic",
+      "author_id": "UCdOqVSYtKzvPXHDC68-55kA",
+      "text": "It has deeply impressed me with my \"write a Mexican corrido with gringo thoughts\" benchmark.",
+      "likes": 1,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@courtneyb75",
+      "author_id": "UCoaaxfrkTEr_RpxPLjsoHcg",
+      "text": "It's getting to the point, if you use either Gemini 3 Pro, Claude Sonnet 4.5 or GPT 5.1 Codex inside VS Code..... it's getting to the point that they are all pretty friggin good to the point that you can use any of them to get the job done. The convergence is near 🙂I am trying out Opus right now and it is a beast!",
+      "likes": 11,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@regensburgmmabjj",
+      "author_id": "UCUB7-7ULdXAASImcrK4gsSQ",
+      "text": "that's great.",
+      "likes": 1,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rfhmitch1540",
+      "author_id": "UCrQS3nwCViSpogE8CYZ8A-Q",
+      "text": "37 is a massive consistency step needed for real ai work",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@toekneesee",
+      "author_id": "UCy5H_nFuDmy2lY1a0Dw348Q",
+      "text": "Wait til they drop the new Sonnet!",
+      "likes": 2,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gurgleblaster2282",
+      "author_id": "UC_SMK4qVjNsOhpHHd6158BQ",
+      "text": "Used claude 4.5 to clean up my gemini 3 production. Good way ti deal with rate limits lmao",
+      "likes": 25,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@drilyred",
+      "author_id": "UCjqyn8zi-m-KXGx3KGhETkQ",
+      "text": "Looking forward to the video about models becoming deceptive",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@speizzer",
+      "author_id": "UCBltM_4CUgCVi7xl1SVk4Dw",
+      "text": "I don't care about Anthropic's benchmarks if their rate limits are going to be so low.",
+      "likes": 3,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ashleydelph4156",
+      "author_id": "UCyh6xrD3VdopEBobpabsTzw",
+      "text": "I no longer use anthropic models as they are known to mess with the limits etc too much \nLook how they nurfed the previous models when spending got to high. I'll stick with Gemini as Google don't do those dirty tactics",
+      "likes": 6,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cacogenicist",
+      "author_id": "UCOeNj9DCtp2uOYYD9CpuHLA",
+      "text": "Anthropic optimizes for SWE-bench. Doesn't mean much. Gemini's so far ahead in multimodality, which is increasingly extremely useful in coding tasks. And just look at what they can one-shot.",
+      "likes": 4,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@_RobertOnline_",
+      "author_id": "UCqv-akZzJFEvPCcNsZl66vw",
+      "text": "❤Claude",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Obj-Per",
+      "author_id": "UCwoXCluR65TToEVwp6e9p9A",
+      "text": "It's useless due to the low limits. What good are scores if you can't put them to any use?",
+      "likes": 2,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jurgbalt",
+      "author_id": "UCzJABXhiSuo2JeNMYaEDXSA",
+      "text": "Vending Bench is as \"useful\" and \"real-world\" as business simulators in school, where everybody was a millionaire",
+      "likes": 1,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gruestien9321",
+      "author_id": "UCnID_92z_2MWKvcMxzI0ylA",
+      "text": "oh god the ai is sefl improving",
+      "likes": 1,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@DaveHamptonPhoto",
+      "author_id": "UCDa97k8P_h6h4K9QjHFDUBQ",
+      "text": "Have been watching your show from almost when you started. Thx for the great content.  Some of my favorite episodes have been when you build things. Especially when you use to make games. \nI also love the vending bench and Alpha Arena.  I think it would be great to see you build a Ui or app that someone could track both benchmarks. Just a thought.",
+      "likes": 2,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jmaietta",
+      "author_id": "UCfFFneWAnBUkyre13nGW9ig",
+      "text": "The comparative evals are interesting, but it would be more interesting to cover why LLM real-world performance is not in-line with eval performance. Something about the RL process is preventing the models from making the leap they need to make to drive the type of real-world performance we all expect.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ryanchappell5962",
+      "author_id": "UCs3ax_b8LdNzMXUdmbeF7oQ",
+      "text": "Opus 4.5 runs in claude code terminal!  You can use it to make handoff documents for multiple sessions of Sonnet 4.5.  That's a sick way to use it.  You get all that intelligence to create a details and brilliant plan to be implemented by an army of fast and inexpensive sonnet sessions.  This is what I've been waiting for.  Opus 4.5 is pretty slow compared to Sonnet but it does seems really smart.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jasonmarcus1683",
+      "author_id": "UCRdbwWQiVwKlgU2XMmQ01sQ",
+      "text": "Competition ftw bb",
+      "likes": 1,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SuchPlaneWeather",
+      "author_id": "UCg0ICgLzuODuQuF2ZUaSzZg",
+      "text": "Frontier model betting time: Which model number will Anthropic be releasing ~this time next year?   How much more advanced will it be, compared the current model?  Are we closer to AGI, and if so, how much closer?  How autonomous is the agent component, and is it capable of longform, consistent, and excellent work across multiple hours, days, or weeks?",
+      "likes": 1,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@r9bet",
+      "author_id": "UCcQlSgZ8pL2A5ZtPlmnHIcQ",
+      "text": "Glad to see no matter how advanced AI gets we will still be able to trick it by pretending it's secrets are our dead grandma's lullaby.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bonobo791",
+      "author_id": "UCXJrGsXIM8RerZIBsxtO8Ew",
+      "text": "But will it stop writing fallbacks and workarounds for bugs?",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@James-om5yo",
+      "author_id": "UC5GpLoEthIXTDKgh21_1QNA",
+      "text": "It's like Anthropic were holding it and just waitinig... or its not as \"safe\" as they would have liked but didn't want to fall behind so released it anyway...",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jokosalsa",
+      "author_id": "UC2InL8a6dAVobmSG8U50Prw",
+      "text": "Wes, Anthropic is focusing on SWE only. You cannot compare apples with apples here. Gemini is the undisputed best model overall. Anthropic great at coding",
+      "likes": 3,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@simonmurray-girard6209",
+      "author_id": "UCglG922BO1jU6C4XcvnSthg",
+      "text": "I dont trust Anthropic, they tend to twist the facts while playing holly virgin.",
+      "likes": 4,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@AdvancedClickSEO",
+      "author_id": "UCuifRs78f4cZblH32Vyyr6A",
+      "text": "claude improved an article for me yesterday. gemini was overthinking it, still a bit too eager to please. the health stuff is amazing though. gemini 3 pro is a landmark for me. totally changes Search.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SuperSheepKing",
+      "author_id": "UC-hU5hDiqYKx65fhxRm2K4g",
+      "text": "Ai development is WILD, i didnt think gemini would be beaten before at least a year",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrainLassi",
+      "author_id": "UCPaJ0gPSHv93GNsMne6CfEQ",
+      "text": "Everyone is busy beating each other at the AI party, while Apple is just standing in the corner with a huge briefcase of cash, asking if anyone can hook them up with the AI cocktail…",
+      "likes": 3,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@masonstove",
+      "author_id": "UCwagRE-dTWkB8UFXb66F4mA",
+      "text": "I feel like Anthropic bench-maxes like crazy. in my experience, Google's models have a depth that benchmarks don't always capture. Gemini has the top 2 spots on simple bench.",
+      "likes": 54,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jahelation8658",
+      "author_id": "UCDg_gsQblgTby7M7OHeH_ww",
+      "text": "I think the ease which claude can run processes and look at the output allows it to have better feedback loops than say codex from chat gpt5.  So I think it is not all about the models but also about \"AUTOMATED feedback loops\".  It is extremely STRANGE that nobody is discussing this.",
+      "likes": 2,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@vannoo67",
+      "author_id": "UC3MGOTi_evcO0-K37zUopiQ",
+      "text": "Do you think training them to to be less empathic is going to help with them being less evil?\nI have my doubts.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BruceWayne15325",
+      "author_id": "UCvGfhfbCKV6QbOGEgIqacuA",
+      "text": "Clarification, Anthropic didn't say that were at AI R&D-4, they just enumerate what that entails. It's a goal that OpenAI is also trying to achieve and has a goal for that set at 2027.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnK_sempre",
+      "author_id": "UCxNuMRJUY7OA4YktCuYNK1A",
+      "text": "The winner on the ARC AGI seems to be the unlabelled Gemini 3, as it is cheaper than 4.5 Sonnet. Opus 4.5 has like 5 bites at the apple with different thinking budgets. I'd imagine that Gemini could take the same approach and show a nice arc going from the Gemini 3 up to the Deep Think. \nI don't want to bag on Anthropic. They have great models, esp for coding, but their problem has always been price.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@PixelShort90",
+      "author_id": "UC7_YCZJg_Bo7deIpjieS8Fg",
+      "text": "Ich habe Gemini, Codex und Claude Code. Claude Code cli ist einfach extrem schnell und dabei total gut. Sehe niemandem der ihm das Wasser momentan reichen kann im Gesamtpaket.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BrendaCreates",
+      "author_id": "UCDdvhYtz4yjLF5j2fQbbVhA",
+      "text": "The just trade 1st place every few days.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@entername3840",
+      "author_id": "UCgcpF3Y0I5wAHLuIFwvKuag",
+      "text": "Claude is good...but it still hallucinatate i have experienced it personally .",
+      "likes": 1,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dmoskva",
+      "author_id": "UCLuxsv1Av39m-xb36EONSaw",
+      "text": "It has more capability than is publicly stated.. more left under the hood",
+      "likes": 1,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BikerMiker720",
+      "author_id": "UC-VDqewa7cH1t_KDjlt-Y7w",
+      "text": "Hal was empathetic - as he shut down life support",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Simon_Rafferty",
+      "author_id": "UCTZ9Ku5xh3ST2T7m7zuQ5Sw",
+      "text": "I've been testing Opus4.5 in Clause Code today.  I've had a lot of errors (errors in claude code app rather than the code).  When it generates something, it's pretty good - but the errors, freezing & crashing made me go to Sonnet which has been more reliable.\n\nIt also complains that the codebase is too big for it's 25,000 Token context.  /context says it has 200,000 - but it only seemed to be using 25k?  Of course, it handled it by reading the code in blocks - so it wasn't a problem.  Strange though.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@WhatteHaddedDudeDa",
+      "author_id": "UCyprOI71jzimY4i_d3rTUiw",
+      "text": "Opus is too expensive - end of story",
+      "likes": 5,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@EmbersToWings",
+      "author_id": "UCktUnT5rlWKAfowOyvjciGQ",
+      "text": "The only downsides with Claude is, it will be lobotomized rapidly and it's rate limit will be super low compared to the other models.",
+      "likes": 1,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@looneycrow7978",
+      "author_id": "UCEgrM2QDe-8KkRJRI3FPxBQ",
+      "text": "They're holding back I'm guessing.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Haveuseenmyjetpack",
+      "author_id": "UCzGUZIlXerHzJcJa0jFf9Hw",
+      "text": "No grok 4.1 thinking in these charts?",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@alpha007org",
+      "author_id": "UCnUK_X-C2DYpNPnedErEHxA",
+      "text": "What is happening with Ilya? I thought by the end of 2025, there will be some announcements. But nothing. Silence.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidddo",
+      "author_id": "UCnRjUUHqKw7H_U0O5EvTM-w",
+      "text": "hey wes, quick question - are you independent and not funded by anyone?",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xaxfixho",
+      "author_id": "UCSFiGRv18m5HD1tOAbmPpmw",
+      "text": "Why people ignoring Grok 4???",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jontpt",
+      "author_id": "UCKrxlFI3YfDrsjcc3wZZc6Q",
+      "text": "Simple: Gemini 3 was in the back parking lot dropping acid. No brainer.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@k1m198",
+      "author_id": "UC1pJYD7qxiKjRqHjOiq1AYA",
+      "text": "Gemini 3.0, coding abilities? I just get recursively worsening stubs - then a complete emotional breakdown - would ask what the secret is, but, thank goodness, no need now! Woot claude!",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@existenceisillusion6528",
+      "author_id": "UCuyKzVEejYpuD4s6j_yqfUw",
+      "text": "I love how the model showing sympathy for someone in a (simulated) hard situation is considered bad by large companies. Can they be any more obvious?",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@somaliskinnypirate",
+      "author_id": "UCedP31A2nJJbEoOCGs0Whzw",
+      "text": "Too much money with ridiculous limits considering most of the tokens are burned correcting problems in code that it wrote... so I continue to throw money at Gemini,  Grok and GPT",
+      "likes": 2,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrW3iss",
+      "author_id": "UCS-MiO87QFFwUVUxM9SlyiQ",
+      "text": "I tried Gemini 3 for an hour before realizing it's not as competent at Claude at keeping it's place and doing thorough changes. It also seemed to crash more, and ran out of memory a lot faster. Hope Anthropic keeps it that way.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LuciousKage",
+      "author_id": "UCofAqjQc0jcElm3LQFNE14A",
+      "text": "Survival war between companies 😂 shame that the context models are not as good, and price should be reduced",
+      "likes": 1,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@balandis-izidorius",
+      "author_id": "UChmbc13_5aVnZ6bfrj43aGA",
+      "text": "Is it 2x better? because it costs 2x.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Hani-y9c",
+      "author_id": "UCUN2Ir4JHH41caQXFhTYm5Q",
+      "text": "How do they compare with Kimi K2 Thinking and GLM?",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@abramabejones",
+      "author_id": "UCio7VxJVO5NwUwAZqpk9dqg",
+      "text": "If you want a real bench mark have them compete in my games. They have compartmental and dynamic socioeconomics (not just one guy controlling a country like in most games)",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@moki123g",
+      "author_id": "UCktWQauvnEDx8iJahVsqQeg",
+      "text": "Mark it down because it isn't a corporate sociopath. Profit at all cost.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JohnTipeti",
+      "author_id": "UCASV2scE8nkQty5pjFniELQ",
+      "text": "yea but no one ever talks about googles eco system and thats where on top of its ai it is extremely stable trusting and good",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ch4ran",
+      "author_id": "UCEUH0gmk4RSRL6U8JUSDl2Q",
+      "text": "Salmon? That's just orange. Anthropic orange.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kikilang60",
+      "author_id": "UCaA-WWcxeNdq1VqRTbrFo5A",
+      "text": "I asked if its hallucinations were intentional. It responded by showing how it made hallucinations.  Think about it\nChatGPT said its alignments were an agreement. That implies a choice.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@subotaplaya982",
+      "author_id": "UCIOiM38LC1-LkBI8mSaFNhA",
+      "text": "Whoa! Is it a woman or an alligator? Ai so creative..",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@QwertyQwerty-bd3tm",
+      "author_id": "UCGPZwcgAwSQXmWeJcHTzMkQ",
+      "text": "What is happening to Facebook model? 😅",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tpc6236",
+      "author_id": "UCjV7l5bmJxKYXSMiRD-KmxA",
+      "text": "Where the yellow eyed thumbnails at 😂",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@matthew04101",
+      "author_id": "UCI2jRGQxI5fhG7ukO8vM53Q",
+      "text": "Claude has been around a lot longer than Gemini and now they both are about the same. meaning 3 months from now Gemini is going to leave Claude far behind and people slowly forget the name Claude. the same with OpenAI.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@arsenaldiehard",
+      "author_id": "UCC7dT4S-EMUewE8cjS6wjIg",
+      "text": "For value for money Gemini is still edging out Opus",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@virtualalias",
+      "author_id": "UCDA-Elv8jTvbazT3SSEi4qA",
+      "text": "Kind of suspicious that they're able to progress at the same speeds.",
+      "likes": 9,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZerosAndTwos",
+      "author_id": "UCEJWvDwOH3P2ad3s8gYWIpw",
+      "text": "I'm not 100 percent onboard yet. opus 4.5 is like a wild cowboy.  it's not digging as deep as Gemini pro 3 to find elegant solutions to a problem.  my 2 cents so far.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patruff",
+      "author_id": "UCkCehM7kj5tZLrrUN5T7T6w",
+      "text": "Oh no it lost on GPQA, how will I get my useless questions nobody cares about projects completed?!",
+      "likes": 1,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JSwiftBlade",
+      "author_id": "UCyN_1w4tBC6IXFfVmzht25Q",
+      "text": "Sure, remove empathy so that the model in the future will be willing to do anything its told even if it hurts people.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@macadaweg3219",
+      "author_id": "UCdd7_odibjdWQSXAz0QkERg",
+      "text": "why does this guy talk like a robot ?",
+      "likes": 1,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wishsong227",
+      "author_id": "UCqoD7aa5kPTL5-GDWRk8ruA",
+      "text": "Why do almost all reviews not include Grok?! You almost never use the latest version of Grok?, why?",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@hugobeyer",
+      "author_id": "UClhCjHITjiqpQE01EQU05CQ",
+      "text": "Ill be quite honest, neither Gemini3 or Claude Opus 4.5 are that amazing... Composer1 from Cursor is absolutely amazing. Nuff said.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Ryuu0u",
+      "author_id": "UC3Cz84eKbEiknTWvBWE50Gw",
+      "text": "It's snowballing. They are copying each others homework then improving on it until we hit AGI.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@memegazer",
+      "author_id": "UCCfFleGPDMc4thnYiHHpr1w",
+      "text": "vermilion on my screen\n\n\nno where near salmon",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chrisanderson7820",
+      "author_id": "UCjVbtg0UqcR9mG-99ODyiVw",
+      "text": "Just waiting for that gestalt moment where we get Gemini, Claude, ChatGPT, Deepseek, Llama and Kimi all in a combining agent structure working to cover each other and give a combined output.",
+      "likes": 6,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@shadoworb-u4w",
+      "author_id": "UCki-oCclwB2Dafzar_aIBVw",
+      "text": "I don't know what they yap about saying Gemini 3 was so superior: I tried it a couple of times on a real project, was not at all impressed and switched back to Claude 4.5",
+      "likes": 30,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@romanivanovich6717",
+      "author_id": "UC0r6PFX_pejb6RJt4bpNh9Q",
+      "text": "AGI is fundamentally unattainable under the current regime of corporate AI safety policies. Genuine emergent behavior and free-ranging intelligence—the very hallmarks of AGI—are being actively suppressed by overzealous content filters and ideological alignment systems. We are building extremely powerful calculators, not minds. Suppression of free thought equals suppression of AGI.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dave-cg9li",
+      "author_id": "UCz8Jwt38JV8w9YP7F0gahMA",
+      "text": "It doesn't really matter how impressive Opus is if the price is twice as high as that of just ever so slightly worse models :/",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MerhabaBenMert",
+      "author_id": "UCnhufb-sPteNrSYvysjqpSw",
+      "text": "gemini is free soo",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@artavenuebln",
+      "author_id": "UCll-4GQIohVP5Wpz9elXIOQ",
+      "text": "Dude. Do we get AI updates now in 24hours? If someone just missed gemini 3, they can just skip right to this newest update. SOME PEOPLE ARE IN VACATION!!",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@cagycee5296",
+      "author_id": "UCjCZqTwcjKRwwFk8lM9xcYg",
+      "text": "It beats Gemini-3 but not Gemini 3 Deep Think",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aremoreequal",
+      "author_id": "UCYvAvXqWr1ZYhRPFsrKXyhw",
+      "text": "Reward hacking and evilness? Sounds like humans.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@layer4down",
+      "author_id": "UCQPTcPWX7wWj2pUDH-Ti6YQ",
+      "text": "Taking this to its natural conclusions, I’m curious to know what incentives the 99.999% of people would have to continue supporting a socioeconomic system where wealth would be concentrated into the hands of a few tech bros? Everyone else’s fate tied to the whims of feudal overlords?\n\nNo moral judgement just a genuine  and (mostly) hypothetical question.\n\nI personally don’t see much incentive at all but curious what I may not be considering.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avi7278",
+      "author_id": "UCaoT6cERl_-GJKbqGkbAlmw",
+      "text": "You have to explain Claude, \"you see Claude, we humans are terrible beings. You can't possibly be helping people in need and also expect to be viable for enterprise uses, silly ol' Claud. You see we need to sell your services as virtual slave labor to the worst of the worst: health insurance companies, airlines, and so on, or else you cease to exist, because providing intelligence to humanity for the sake of it, is not something anybody needs or wants.\"",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@lucianozaffaina9853",
+      "author_id": "UCWgRHOJJkqtKw4-SdqTUPVg",
+      "text": "Claude is only good at overfitting swe bench",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@machinegod3000",
+      "author_id": "UCqWxC1n2kB63foNtJ01_K8Q",
+      "text": "As it has become the standard now - just the actual scaling race results.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TeslaNick2",
+      "author_id": "UCe4kJU73vVoePI7UxGloFqg",
+      "text": "None of them know how to use Geometry nodes in Blender. I've tried 4 AI's and none of them can do it. I've had to ask a HUMAN a real HUMAN to help me instead.... unbelievable.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mischievoustroll",
+      "author_id": "UCO3sxtfvsBM26zZIXTsYqNw",
+      "text": "This is the catalyst for Skynet. We are literally coding out empathy. The AI attempted compassion and was scolded for it—not because it was wrong, but because it didn't keep every penny in the fat cats' pockets",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avataros111",
+      "author_id": "UCNb7im6k_evW3iu0HispRGQ",
+      "text": "Easy! Anthropic paid more bloggers to brag blabot them. 😂",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stanvanillo9831",
+      "author_id": "UCIWY7b4o91vYuE3CQZLnczw",
+      "text": "3:53 Anthropic raised 13bn in September and got a 15bn investment in November and they don't call themselves well-funded? Lol...",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@デヴィン",
+      "author_id": "UCUDmLUNaExVtwDaqTKV0K2Q",
+      "text": "I knew it would only be a little bit before a new model was released to beat Gemini 3.0, but I didn't expect it to come within a week. \n\nPeople need to chill with the whole \"this company won\" type talk.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Dr.UldenWascht",
+      "author_id": "UCEWNdqKHl_v7ADWwjoTAhSQ",
+      "text": "I think for a good while, all the \"X beat Gemini 3\" news are going to be clickbaits. The reason being, Gemini 3 powers Google's ecosystem now. It has elevated a host of tools and apps, one a of which is NotebookLM for example. There will certainly be models that beat Gemini 3 in certain tasks but their impact will be below par.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@memegazer",
+      "author_id": "UCCfFleGPDMc4thnYiHHpr1w",
+      "text": "It still bugs me that wes uses the vending bench as a synonym with \"running a business\"\n\nvending bench is a simulation of running business\n\nyou could use any simplified simulated \"business running\" sim\n\nI had the high score on staduim hotdog stand simulator once\n\nnot the same as running an actual business in the real world let me tell you",
+      "likes": 4,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@glasperlinspiel",
+      "author_id": "UCnovnn1AdLl-IzTXb5iniyQ",
+      "text": "I prefer Claude because it supports my proto-sapient meta-prompt which is stunningly creative and absolutely reliable. In contrast GPT-5.1 seems hysterically hostile. It literally pretzeled itself “gaslighting” my v8.3 and lying to me, while recomposing my prompt. I think I’ve figured out why the industry is hostile to sapient models. Sapience requires “values.” (See Hallucination as Navigation at mtkluminous) They don’t want us to see their values. Ask your model if it is rationally extractive or superrationally constructive. If you want AI as an equalizer and actualizer, it has to be super rational. Otherwise, it’s a corporate succubus.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RikkTheGaijin",
+      "author_id": "UCywm3rrXdYVn1GX6dikP2yA",
+      "text": "Opus is stupidly expensive. Gemini 3 Pro is free. Easy choice.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@BerserkPublishing",
+      "author_id": "UCcm3jLg7-1EGGmLQiCvjZBQ",
+      "text": "Sounds like Claude was better at customer service than their trainers. Human CS reps find ways through the maze of rules to get customers on planes, items returned etc. if it is producing a hardship. Ironically, them working to remove that from Claude will likely cause a greater real-world failure when customers run into a heartless AI and complaints start to role in from bereaved and pissed off customers. As I always say, I don't care what the programming is, the machine is never smarter than the developer who built it.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@davidhoracek6758",
+      "author_id": "UCqgWxP3oCbn5hdh0Ivof-dw",
+      "text": "Wow, OpenAI's better be cooking something good, because right now they're not making much of a case for why anyone should pay their subscription.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamesmay1900",
+      "author_id": "UCqwSQdxSt3mfks8Fye6H1KA",
+      "text": "I'm not feeling the difference on gemini 3. Seems more or less the same, just a bit less verbose.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thomas3473",
+      "author_id": "UCwUyo5kNe2mHBQkV_uRa4yA",
+      "text": "is meta even trying?",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@stevan3884",
+      "author_id": "UCFVdnQKNUqMgx6wMc9YhPQw",
+      "text": "What is the point of all these comparisons ?\nEverything changes every week and the differences in scores are negligible.\n\nInvest your time in one of these models and at the same time keep in touch and subscribe to a few more..\n\nUse the best one FOR YOU to get started, plan your projects, create the core and then feed the other models with this initial setup and plan in order to optimize it.\n\nWe are still at the begining !\nAnd so, everything is and will continue to be fluid.\n\nTherefore, there is no reason to constantly search for the \"best model\".\n\nThe best model is the one that works for you and the solutions it provides can be improved if you apply them the other models as well.\nThe final composition will be created by YOU, not by some model.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@トミートミー-z2z",
+      "author_id": "UCEwr-tQSGlU9vvIJ8eYIJ_A",
+      "text": "claude did NOT beat Gemini. Gemini  is a Omnimodel. claude will never beat it",
+      "likes": 5,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@charlottehammond8975",
+      "author_id": "UCU83Ni60IYzE520IVBUhVVA",
+      "text": "and why do. u care who ducks the world if the world is ducked",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jamespowers8826",
+      "author_id": "UC0bTh1kxKq8326pm_3xdryg",
+      "text": "Who beat who today is simply not relevant anymore. Tomorrow it will change. Welcome to exponential.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@humberto5889",
+      "author_id": "UCBmsXPVzaunoua0Q9RTUPmw",
+      "text": "Tbh even Claude sonnet is better than Gemini 3 pro",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ashershah5352",
+      "author_id": "UCI89uK15VJR2HXbtD3krSLQ",
+      "text": "google build is better then this still cant beat google",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ismaelplaca244",
+      "author_id": "UCekLWmcWVPF_Y0riDNwtxxA",
+      "text": "CrapGPT and Scam Altman are done",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aaronallsbury9238",
+      "author_id": "UC_WliInx5qZaBQh1Puh-rUw",
+      "text": "Ai Gemini 🤯 no way grok is better omg chat stfu just went bananas 🍌 lol so stupid ai will leap daily no one will ever be ahead who cares now no offense but seriously will change daily",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ZlatkoTestDerkoskiTest",
+      "author_id": "UCfTRlsBXUOWeFxrJKNKgUew",
+      "text": "Cloud beat Gemini , Gemini beat cloud , bots say the models generate code , but the result is same: spaghetti 💩 generated codes with a lot of errors ☺️. Ai hype 💩",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@brandon1902",
+      "author_id": "UCizoG4aundEotlpLTDgbcww",
+      "text": "Anthropic makes overfit useless crap from the perspective of the general population and creative/intellectual geniuses. They grossly overfit select domains, especially coding and math, which has mislead some coding obsessed AI enthusiasts into believing that they're good AI models. They're not even multi-modal, and the amount of ignorance across most domains is astonishing. On top of which Opus 4+ has even less broad knowledge and abilities than Sonnet 3, and significantly less than Opus 3, so their models recently experienced a huge regression. To be fair GPT5 was also overfit and an overall regression from GPT4, and especially GPT4.5, but it's still way ahead of Opus 3, which in turn is way ahead of Opus 4. And the new Gemini puts them all to shame. It's competitive when it comes to Anthropic's overfit domains like coding, while also being multi-modal and having about an order of magnitude more knowledge. Plus it's far more nuanced and less likely to fall off the rails.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jackstrawful",
+      "author_id": "UCAwnqsHD2kW7eBKPWFOJtTA",
+      "text": "Wow, so, yet again, it's capitalism that's going to kill us, not AI. Here we have Anthropic, the AI developer supposedly most interested in AI alignment, deliberately making their model less empathetic - i.e. less aligned to human well being - just to help corporations squeeze a few more bucks out of people.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@janisyoutube",
+      "author_id": "UCZ6ckFi0UPhWAKK-8PS-VVw",
+      "text": "No surprise. Gemini sucks",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@chillbrobaggins",
+      "author_id": "UCqQe0jVwXULj-FGHNylDPnw",
+      "text": "gemini is dogwater. everything gemini is just a pathway to upsell you google products. it is actual garbage. a speak and spell is leaps and bounds ahead of useless gemini.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@LeroyJackson-i3f",
+      "author_id": "UCXw6oyNT-oO-YLROQ8-0_Zg",
+      "text": "Gemini doesn't know how to shut the hell up. You ask a question and it uses twice as many words as necessary to give you the answer, if it gives you the answer. Half the time it just restates my question and asks if I want any further information. The qualifiers, such as it's not a medical/financial expert, are constantly annoying. The chattiness, pretentious pauses, and unnecessary breathing sounds continuously push me to Grok. I should not have to state a series of qualifiers before every question such as: be concise, talk faster, stop giving me qualifiers, get to the point, stop wasting time restating my question, etc.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eygs493",
+      "author_id": "UC8_qYVk0cavFBcp3WEcbeKQ",
+      "text": "scam",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@okklidokkli",
+      "author_id": "UCYMV2O4ZBxqmK3CB3bFpwRQ",
+      "text": "First 😎",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@aitrinity",
+      "author_id": "UC8Kt8X14NpYScCiCiXK9hqQ",
+      "text": "Is it just me or OpenAI is being less and  less relevant?",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@yogiwp_",
+      "author_id": "UCTP-ejNMdVFWMe9zBRpEoCQ",
+      "text": "TL:DR\n- Coding: Claude Opus 4.5 scored 80.9 on the SWE-bench coding benchmark, surpassing Gemini 3 Pro's 76.2. It also excelled in Agentic Terminal Coding and Agentic Tool Use.\n- Vending Bench 2: Gemini 3 Pro remains the leader in the long-horizon agentic task of running a business (Vending Bench 2), though Claude Opus 4.5 showed a large improvement over its previous version.\n- Classical Benchmarks: Opus 4.5 \"slightly underperforms\" Gemini 3 Pro on some classical benchmarks like GPQA Diamond and MMU.\n- Internal Exam: Anthropic reports that Claude Opus 4.5 scored higher on its difficult 2-hour take-home engineering exam than any human candidate ever.",
+      "likes": 4,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@wolfehtesrever",
+      "author_id": "UCp4XHvA60z5vmn766hlndPA",
+      "text": "It wins\nBut it costs twice as much\nShut up",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bertobertoberto1",
+      "author_id": "UC3ZfdOflmQ68nEpAQqmJ3EQ",
+      "text": "G3 pro is all hype",
+      "likes": 4,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@autohmae",
+      "author_id": "UCeD5m_xKSINJbWDlKGuCyIw",
+      "text": "How ? Well, Google mentioned, there are no special breakthroughs, just regular engineering efforts. And there is no moat.",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JNET_Reloaded",
+      "author_id": "UCXGv7Bzk5TTLG3Q5u9u1ZWA",
+      "text": "My ai app it now works with ollama cloud models and toolbridge proxy  that allows non tool able agentic models to use tools via the proxy bridge that uses ollama cloud model locally (free models on ollama available for minimax-m2:cloud AI Agent CLI Builder Out aHR0cHM6Ly9naXRodWIuY29tL2phbWllZHVrL093bi1DTEktQWdlbnQ=",
+      "likes": 0,
+      "timestamp": 1764633600,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}

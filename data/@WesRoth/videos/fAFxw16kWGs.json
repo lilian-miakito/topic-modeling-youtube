@@ -1,0 +1,729 @@
+{
+  "video_id": "fAFxw16kWGs",
+  "title": "META's new OPEN SOURCE Coding AI beats out GPT-4 | Code Llama 70B",
+  "url": "https://www.youtube.com/watch?v=fAFxw16kWGs",
+  "comment_count": 80,
+  "comments": [
+    {
+      "author": "@WesRoth",
+      "author_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "text": "NOTES:\n01:51 The \"700 million active monthly users\" part got clipped a bit. I hope that's not confusing, the screen says \"700 million\" and that's directly from META. It's \"700 million\"\n\n02:31 A lot of confusion here. Multiple people mentioned that I said that the 70B model was trained on \"one trillion tokens\", but the page says \"1TB\". I guessing that's a typo and supposed to be \"1T\", if you look below at the image, it says \"1T\" so....\n\nI really doubt they randomly switch between measuring tokens in \"number of tokens\" and \"terabytes of tokens\" 🤣\n\nI love you all, but a few of you need to take a chill pill lol.\n\nPS looks like the comment thread with those 'corrections' got deleted (not by me).\nEither by the original commenter or Google smote it.\n\nEither way 👍👍",
+      "likes": 35,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MrC0MPUT3R",
+      "author_id": "UCs70kU49kUQhhYD7JQDKUnA",
+      "text": "Programming is one of the biggest reasons I pay for GPT-4 👀\nThe real test is if it's good at languages that aren't Python.",
+      "likes": 72,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MelroyvandenBerg",
+      "author_id": "UChZWej2ONBe0g7_C12K2W5w",
+      "text": "Let's go Llama / Meta! I would never imagine I would say that sentence.",
+      "likes": 31,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@urbandecay3436",
+      "author_id": "UCG6_liapFqSvn_G46vWQY1Q",
+      "text": "GPT4 : It kicks the Llamas Ass",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JOHN.Z999",
+      "author_id": "UCE9WF0NPLpPjN0RTMoa3mcg",
+      "text": "I am positively surprised with Mark Zuckerberg!!! Meta is doing something really good and necessary for technological development. Congratulations Meta!!!",
+      "likes": 24,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@m0n4d59",
+      "author_id": "UCX4E3Y6DBXxwqKsqkRn2D4Q",
+      "text": "Unexpected Zucc W",
+      "likes": 16,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ihart.1142",
+      "author_id": "UCh6ePry6U_GKc1mimPpIE4g",
+      "text": "Cool!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Shaunmcdonogh-shaunsurfing",
+      "author_id": "UC2JZuYVZF4ejbDWS_R-FoPg",
+      "text": "Thank you Meta!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RayMerrell",
+      "author_id": "UCQCylGtzPKx8eSKuilH6X-w",
+      "text": "How do you use these?\nAm I missing something fundamental or something?\nThese models are beyond massive, this one is ~145 Gig. What GPU, TPU, DPU or even CPU has that much memory?\n\nIt doesn't matter what it outperforms if it takes 3 weeks to write an answer.",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dr.mikeybee",
+      "author_id": "UCMxnQ7gyb4BWKbLW5JWiaJA",
+      "text": "Thank you Meta!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jacobnunya808",
+      "author_id": "UCuaAamgBJxDilUtmmJ4UXUw",
+      "text": "I am hoping AI development becomes fast enough that they can make a bunch of specialized models and combine them to get something that is overall good without being too large.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RomboDawg",
+      "author_id": "UCkHh57ZkPAQDkz8h9ANxPmQ",
+      "text": "'Laughs in mistral-medium leak'",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@manuelpacheco4464",
+      "author_id": "UCMjtMUhTQ6faeG1v9LBjihw",
+      "text": "Finally an AI that can code without bugs, praise be!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rmt3589",
+      "author_id": "UCbjR7zCJLj4sH_hoWM-Ps6A",
+      "text": "Sounds perfect for my engine. Am using free Phind rn, but want to make my own. \nAs well as other projects that need AI like the Unliving Prophet AI I want to make.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Thedeepseanomad",
+      "author_id": "UCilEDumt0jFZNY1CYZZA3tg",
+      "text": "Very useful for everyone if everyone had 170GB VRAM",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SaveTheDoctorREAL",
+      "author_id": "UCv29O-UTCxYLl4zrFeAOjrQ",
+      "text": "Harrison Kinsley's book Neural Networks from Scratch with Python is awesome have a hard copy!!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@jaeljarquin-hi4kp",
+      "author_id": "UCoKkYgb6ZFAqTlYR4JL_BGQ",
+      "text": "I for one welcome our new coding overlords.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@boots3372",
+      "author_id": "UCnyXeP6yeiQty5MWJD1wLCA",
+      "text": "How beefy does my PC need to be to run it?",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@icesteel5855",
+      "author_id": "UCEjGHYphlO_qkF0uJBmK6-g",
+      "text": "No one has won the race yet, until the parties announce their final outcomes , or there's a limitation of this technology.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@farfromerease",
+      "author_id": "UCWUZrhZvGgx-MyW5vGfugcA",
+      "text": "The way you explain the future of AI and the way your mindset approaches the progress literally gives me a lot of hope in the future! Thanks Wes",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@SirHargreeves",
+      "author_id": "UCrpnQr1kwqVTRhr3K-kI0cw",
+      "text": "OS being 10-months behind isn’t impressive to me.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonWhittle1",
+      "author_id": "UCnZbfH4oqgEL-dO9HmQsRNQ",
+      "text": "Where can I use the python LLM?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thedoctor5478",
+      "author_id": "UCtkpiWd84yMR-_HvxBeHP7Q",
+      "text": "Can we merge and fine-tune to close a gap of 14 points? Idk but I'm about to give it a shot myself.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@doords",
+      "author_id": "UCiapdkhGiA38xpDqgIsR2nQ",
+      "text": "What are the affordable hosting options for this ?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@MadeInJack",
+      "author_id": "UCg4K1cIgCcPlMTXGvOaeGMQ",
+      "text": "OpenAI just becomes a service provider by hosting/maintaining models for you, but they don't own the intellectual property of AI models anymore, and that's a huge win.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Oliv-B",
+      "author_id": "UCLOgbgWwVvEHdKztF5Y6dMw",
+      "text": "Is there an easy cloud service to try it? Something like openai playground which allow to provide files in input? A pay per use pricing model, not subscription.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keithwhite2986",
+      "author_id": "UCeFLTI7Obczt3N1PbC6wH9A",
+      "text": "My preferred programming language is Julia, I hope that is supported in the non-python CodeLlama-70B.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Piotr_Sikora",
+      "author_id": "UCPsc9jpkRs5nkVGq6OYxdRQ",
+      "text": "How much VRAM is needed to run? And how big się context window?",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@qwertasd7",
+      "author_id": "UCT3Zkp1nwc2HB6LSpBiS16w",
+      "text": "but there are so many other coding languages... its (only) python, though its a start",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@seancollins-cruz2134",
+      "author_id": "UCmJiDry1AstpZ6tLyhXzHww",
+      "text": "I'd really like to know how it compares to specific coding GPTs like Grimoire.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@tomtomkowski7653",
+      "author_id": "UCRtF8JCUeVoUpRfLsOS9Wmw",
+      "text": "Cool.\nSome LLM to create visual scripting Blueprints in UE5 would be welcome :)",
+      "likes": 5,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bilalbaig8586",
+      "author_id": "UCzT-fhzO7F8JcLgpEb_anZA",
+      "text": "All praise the Zuck.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@xavierrodriguez1123",
+      "author_id": "UChSJka7Z2TU91c1kaZnuvjw",
+      "text": "Costs a fraction too!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@khaledalazab5144",
+      "author_id": "UCLCmVrKYXeXiJlWzm1B_4fQ",
+      "text": "How to use it?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sluggernaut",
+      "author_id": "UCZBN-t9psiOJ4waynyPZOsg",
+      "text": "Can I \"train\" this locally on my copy of Unreal Engine and have it specifically help me with using Unreal? (Assuming I have a decent machine and maybe 10 GB of drive space)",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@michel4882",
+      "author_id": "UCKwG-iyLWX_OzMHxw0Hr4Qg",
+      "text": "Think it can fix the bugs in my exoskeleton too?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patricecomedy",
+      "author_id": "UCcAVLO_9peNs4ZGhXwrwOCQ",
+      "text": "How can ANYONE believe a self-reported benchmark ?",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@keithwhite2986",
+      "author_id": "UCeFLTI7Obczt3N1PbC6wH9A",
+      "text": "The open source release I expect is due to the persuasions of Prof. Yann LeCun.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@geniusxbyofejiroagbaduta8665",
+      "author_id": "UCsWWz0BQMzdFUfH_UFkAlRg",
+      "text": "Thanks meta. At least we have something that surpasses gpt 4. We know it can be quantized to 2bit so it would require less than 120gb ram to run",
+      "likes": 4,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sephirothcloud3953",
+      "author_id": "UC1eb6lWaW1afM5SupBugXDA",
+      "text": "TY ZUCKERBERG!",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Kivalt",
+      "author_id": "UCxWB52V2K5BcFOSTR_U0F0w",
+      "text": "What I'd need from an open source LLM is function calling, which as far as I'm aware, only GPT-4 does at the moment.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@dragomirivanov7342",
+      "author_id": "UCkh9KYLK8rLCAFVou05SVbw",
+      "text": "Imagine having those AMD CPUs with NPUs in them in the second half of this year. 50 TOPS (INT8), would run 70B Llama just fine. And all this on your local machine, no copilot, no nothing.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@patrickjreid",
+      "author_id": "UCxSNudPdk8Z5BhSzdb9taSw",
+      "text": "Well, it failed my basic test. I asked it:\n\"Do you know the difference between the app router and pages router in next.js 14?\"\n\nIt answered:\n\"-The app router is the default router in Next.js. It is used to navigate between pages in your Next.js app.\r\n-The pages router is a new router introduced in Next.js 14. It is designed to provide a more flexible and customizable routing solution.\"\n\nThe second bullet is completely wrong. In other words, it cannot write modern next js code, but in fairness, neither can chatGPT.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nzname1",
+      "author_id": "UCi3SlmxBStlkaN-cAyEU8qA",
+      "text": "Hi ,this to help code ? Crypto?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@COMATRON.",
+      "author_id": "UCBR4R0UajLBIOrZ15hDr2BQ",
+      "text": "i wonder why those models do go python and not code raw metal machine language (ARM/AMD64) to take over all this sh1t a bit faster? i am in for it :)",
+      "likes": 7,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@motanabibro",
+      "author_id": "UCvNgq1RmYVvwHe_dXBJuM_A",
+      "text": "We can't use it for free?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@ankansharma4897",
+      "author_id": "UCPRtbxI_QahH9PwzE2UGYSg",
+      "text": "Yes I am happy and Meta releasing LLM opensource is a big deal. But in reality now they have become like apple iphone every year they do some minor improvement and advertises it like some state of the art stuff like USB-C.\nLLMs are now focusing on tweaking score instead of innovating which is sad.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Sri_Harsha_Electronics_Guthik",
+      "author_id": "UCtj6sGGb34zgGGYrOL-2pqA",
+      "text": "contamination?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nevildev",
+      "author_id": "UC9dT-98oKNaOGI_8zhUNi1A",
+      "text": "What hardware could run this smooth locally?",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@sfsft11",
+      "author_id": "UCi7eTd5ZeNNNF8Qb5XGzddg",
+      "text": "What is being missed is that openai with code interpreter runs it's code and checks for errors. Meaning they have now a big database what works and what not, to train the GPT5 to be way better. If Open source community doesn't start generating the new data from it's model (synthetic with every usage) that is being stored for next training, it's going to be hard to catch up after GPT5.",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HenriKoppen",
+      "author_id": "UC13DA1t7GQVG4KjIUITllEw",
+      "text": "Does 70B Llama does other than English language well?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@avi7278",
+      "author_id": "UCaoT6cERl_-GJKbqGkbAlmw",
+      "text": "The biggest problem is the context window with these open source models. The 128,000 context window of gpt 4 turbo is the must for me. Plus the open source models just aren't good enough yet for real serious coding at a real world production level. Sendex is a bit of a python script kiddy, excuse the terminology, but it's true, and the open source models might work to whip together a little python script, but when it comes to following 5, 6, 7 layers of instruction over 10 separate files as context and correctly determining diffs making those edit cleanly, these models like llama are just simply not enough. The only model that even comes close to being able to do what I needed it to do at a level that is relatively satisfactory is GPT4.",
+      "likes": 12,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@t2p5g4",
+      "author_id": "UC8kaY7IsXpyvZEWBtFkn8pQ",
+      "text": "Wes, who had Ben Shapiro with the #1 hip-hop tune on iTunes on their bingo cards?  😂",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JEFE-TITAN",
+      "author_id": "UCjxG45cU89gg6M_W349WL4Q",
+      "text": "META should rename it NotSkynet, put us all at ease ya know",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@georhodiumgeo9827",
+      "author_id": "UCqvL3IIFBg-sUxOaZZd8BcQ",
+      "text": "So Facebook went non profit and the non profit OpenAI went for profit.\n\nGuess we are just doing opposite day?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@janniksco",
+      "author_id": "UCkNUS83jyawOa8vkRU1KVaw",
+      "text": "You release so often now that videos are a bit long to fit in everyday 😅",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@robertfontaine3650",
+      "author_id": "UCaU5NFmsn_rWS_HZwgkWc5Q",
+      "text": "Is this llama 1 or 2.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@warsin8641",
+      "author_id": "UC4wBq7jv7fjnMo5PkxyMqTQ",
+      "text": "Cat eats crunchy uranium",
+      "likes": 3,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Allofussurvived",
+      "author_id": "UCdA_753nyi6ea6bAwlqBRGg",
+      "text": "Google and meta and open AI can  create as many new Ai programs as they want but won't get us any further or beyond it",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@NotMolly-jf2rh",
+      "author_id": "UCP3hdMD2KrINNyatJAArLhQ",
+      "text": "Is this trained on FB accounts??",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@gregmattson2238",
+      "author_id": "UCqsS4Agd890hcLZrSyi7xnw",
+      "text": "what I get from openai and closed models is - \n\n1. no setup\n2. no need for local hardware\n3. polished interface\n4. seamless upgrades\n5. high performance\n\nIt is so easy just to go to a website and type stuff in, i don't need to pay any setup costs and it provides close to state of the art answers.\n\nnow of course if I could integrate it in such a way that the instance is local and I can feed the repos to it that I work on (ie: train on those repos) then that would be something else. For now though openAI is so easy to use it is worth the 20 bucks.",
+      "likes": 13,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Macatho",
+      "author_id": "UCCiWXajWRYu5nJfzPCtrFvg",
+      "text": "My man Zuckerberg strikes again. ♥♥",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mortiz20101",
+      "author_id": "UCt5ggPWZxTNO_rpypUap0YQ",
+      "text": "Just shows you, that if your business model is solely producing AI models you don't really have much of a moat, as Open Source will catch up fairly quickly. The real money is going to be in hardware and selling compute.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@nycgweed",
+      "author_id": "UC5tB1xvQbe3By_wYHARbB4A",
+      "text": "what do I do with this?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@mantrik007",
+      "author_id": "UCiNcx5GZkhlO8tzXf8YozZA",
+      "text": "Why nobody talks about the truly open source Deepseek? Is it because it's Chinese owned?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@thefruit",
+      "author_id": "UCulZbm2_nuzf4sU7W2d0L-w",
+      "text": "So I need 120GB of VRAM? or just normal RAM, to run the 70B model?",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@RampagingCoder",
+      "author_id": "UCMsV-kZq9Zig64fIwb4bQew",
+      "text": "corrections: 700mil monthly users not 100mil.. 1TB of tokens not 1 trillion tokens...  500bil, not 50bil.. you are losing your quality, hire someone to check your videos..",
+      "likes": 105,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "",
+      "author_id": "UC9qRATliJrk1Cs-K8CEWEYg",
+      "text": "Yes. I'll just use the money I would be using for ChatGPT to pay ~$10 000 for two GPUs to actually run this.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@TheMirrorslash",
+      "author_id": "UCxnHh8lXDBCX3UQkgBSleoQ",
+      "text": "Its not as good as GPT-4. Its as good as GPT-4 back in march. GPT-4 got a lot better at coding since then.",
+      "likes": 2,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@casualgamer3689",
+      "author_id": "UCYEpUHUmWNVbNYjSTwd-zgg",
+      "text": "Am I missing something, can normal user even run a 70B model? Me running 13 B models is sloooooow for me on a 2000 dollar gaming setup. I never thought i would be start liking zuckerberg but with his apperance on joe rogan, his mma training he almost seems human. And that's how they got me!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@kapnchap3242",
+      "author_id": "UCZ8JD8Jj_m0fJocFeEB7rVg",
+      "text": "The pace and the enormous competition in this sector is rendering a lot of efforts to finetune these AIs useless, as every big tech company wants to win the race. I bet GPT-5 is just around the corner and will outperform anything we have seen so far again, and then the next one pops up, and so on.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@Allofussurvived",
+      "author_id": "UCdA_753nyi6ea6bAwlqBRGg",
+      "text": "A brain is a Quantum Computer but thats too F**kin basic",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@U2Berror",
+      "author_id": "UCjHRxQPOD6HWCzTsMdGY95w",
+      "text": "Time to short microsoft",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@eitantal726",
+      "author_id": "UC7ByILTEWQOwH0mdUjUwQOQ",
+      "text": "It blows my mind that Coding GPT is a thing. It's a language model, it has no abstract thinking. It can't do long division. You expect it to code?!",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@galaxymariosuper",
+      "author_id": "UCfGCwGsuywSN4y_PFfECYfQ",
+      "text": "I'm using the 70b q5_k_m model with LMStudio and am getting 0.78 tokens per second.\n\nRyzen 5800x\nRTX 4070 TiS (16Gb)\n64Gb DDR4 3000Mhz\n20 Layers GPU-Offload\n\nNot too bad to be honest.",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@rikkousa",
+      "author_id": "UCULXIJrlBJQWezwipMu_gyg",
+      "text": "But it’s meta …",
+      "likes": 1,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@HUEHUEUHEPony",
+      "author_id": "UCNE61EZsZ90wxgedWAK70GQ",
+      "text": "Yet another model that is better than gpt4?? Wow every week we get those off these but nobody seems to talk about it after 2 weeks I wonder why ...\nSpoiler alert: they aren't better than gpt4, stop clickbaiting",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@JasonWhittle1",
+      "author_id": "UCnZbfH4oqgEL-dO9HmQsRNQ",
+      "text": "Cancelling gpt4 sub now. Mostly need for python and it's a little too reserved/woke for other stuff",
+      "likes": 6,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@richmorin424",
+      "author_id": "UCgYgQ1nG3MjHuuijo7Aaubg",
+      "text": "A \"Lama\" (pronounced \"lama\") is a spiritual leader or teacher. A \"Llama\" (pronounced \"yama\") is a a domesticated South American camelid. It hurts my ears when you continually mispronounce it...",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    },
+    {
+      "author": "@bodyguardik",
+      "author_id": "UCjhM_PCOx6RA6QnrVrtrJjQ",
+      "text": "What is more effective - use 30b version, or quantized 70b version, i mean if models use same amount of vram?",
+      "likes": 0,
+      "timestamp": 1734912000,
+      "parent": "root",
+      "is_reply": false
+    }
+  ],
+  "error": null
+}
