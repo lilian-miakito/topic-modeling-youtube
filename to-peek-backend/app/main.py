@@ -3,11 +3,27 @@ To-Peek Backend - FastAPI Application
 
 Main entry point for the topic modeling backend API.
 """
+from contextlib import asynccontextmanager
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.core.config import settings
-from app.api.routes import datasets_router, topics_router, channels_router
+from app.api.routes import (
+    datasets_router,
+    topics_router,
+    channels_router,
+    youtube_router,
+    extraction_router,
+)
+from app.db import init_db
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """Initialize database on startup."""
+    init_db()
+    yield
 
 # Create FastAPI app
 app = FastAPI(
@@ -16,6 +32,7 @@ app = FastAPI(
     version="0.1.0",
     docs_url="/docs",
     redoc_url="/redoc",
+    lifespan=lifespan,
 )
 
 # Configure CORS
@@ -32,6 +49,8 @@ app.add_middleware(
 app.include_router(datasets_router, prefix=settings.API_V1_PREFIX)
 app.include_router(topics_router, prefix=settings.API_V1_PREFIX)
 app.include_router(channels_router, prefix=settings.API_V1_PREFIX)
+app.include_router(youtube_router, prefix=settings.API_V1_PREFIX)
+app.include_router(extraction_router, prefix=settings.API_V1_PREFIX)
 
 
 @app.get("/")
