@@ -2,6 +2,7 @@
 # To-Peek - Development Docker Compose
 # =============================================================================
 # Launches frontend and backend with hot reload
+# Data persisted in named volume (survives container restarts)
 #
 # Usage:
 #   docker compose up        # Start both services
@@ -49,16 +50,20 @@ services:
     volumes:
       # Mount source for hot reload
       - ./to-peek-backend/app:/app/app:ro
-      # Mount data and modeling directories (read-only)
-      - ./data:/app/data:ro
-      - ./modeling:/app/modeling:ro
+      # Named volume for SQLite database + caches (persistent)
+      - topeek-data:/app/data
     environment:
       - DEBUG=true
       - PYTHONUNBUFFERED=1
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
     networks:
       - to-peek-network
 
 networks:
   to-peek-network:
     driver: bridge
+
+volumes:
+  topeek-data:
+    name: topeek-data
 

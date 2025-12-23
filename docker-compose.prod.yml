@@ -1,7 +1,7 @@
 # =============================================================================
 # To-Peek - Production Docker Compose
 # =============================================================================
-# Optimized builds without hot reload
+# Optimized builds, standalone with named volume for data
 #
 # Usage:
 #   docker compose -f docker-compose.prod.yml up --build
@@ -38,11 +38,11 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      # Mount data directories (read-only for safety)
-      - ./data:/app/data:ro
-      - ./modeling:/app/modeling:ro
+      # Named volume for SQLite database + caches (persistent)
+      - topeek-data:/app/data
     environment:
       - DEBUG=false
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
     restart: unless-stopped
     networks:
       - to-peek-network
@@ -50,4 +50,8 @@ services:
 networks:
   to-peek-network:
     driver: bridge
+
+volumes:
+  topeek-data:
+    name: topeek-data-prod
 
