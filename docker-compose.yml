@@ -1,0 +1,64 @@
+# =============================================================================
+# To-Peek - Development Docker Compose
+# =============================================================================
+# Launches frontend and backend with hot reload
+#
+# Usage:
+#   docker compose up        # Start both services
+#   docker compose up -d     # Start in background
+#   docker compose down      # Stop services
+#   docker compose logs -f   # Follow logs
+
+services:
+  # ---------------------------------------------------------------------------
+  # Frontend - Next.js with HMR
+  # ---------------------------------------------------------------------------
+  frontend:
+    build:
+      context: ./to-peek
+      dockerfile: Dockerfile.dev
+    container_name: to-peek-frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      # Mount source for hot reload
+      - ./to-peek/src:/app/src:ro
+      - ./to-peek/public:/app/public:ro
+      # Exclude node_modules (use container's version)
+      - /app/node_modules
+      - /app/.next
+    environment:
+      - NODE_ENV=development
+      - NEXT_PUBLIC_API_URL=http://localhost:8000/api/v1
+      - WATCHPACK_POLLING=true
+    depends_on:
+      - backend
+    networks:
+      - to-peek-network
+
+  # ---------------------------------------------------------------------------
+  # Backend - FastAPI with hot reload
+  # ---------------------------------------------------------------------------
+  backend:
+    build:
+      context: ./to-peek-backend
+      dockerfile: Dockerfile.dev
+    container_name: to-peek-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount source for hot reload
+      - ./to-peek-backend/app:/app/app:ro
+      # Mount data and modeling directories (read-only)
+      - ./data:/app/data:ro
+      - ./modeling:/app/modeling:ro
+    environment:
+      - DEBUG=true
+      - PYTHONUNBUFFERED=1
+    networks:
+      - to-peek-network
+
+networks:
+  to-peek-network:
+    driver: bridge
+

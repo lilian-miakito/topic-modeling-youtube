@@ -1,0 +1,30 @@
+# =============================================================================
+# To-Peek Backend - Development Dockerfile (with hot reload)
+# =============================================================================
+
+FROM python:3.12-slim
+
+WORKDIR /app
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Python dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Don't copy code - will be mounted as volume for hot reload
+
+# Expose port
+EXPOSE 8000
+
+# Environment for development
+ENV PYTHONUNBUFFERED=1
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV DEBUG=true
+
+# Run with hot reload enabled
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+

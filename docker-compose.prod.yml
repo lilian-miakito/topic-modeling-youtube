@@ -1,0 +1,53 @@
+# =============================================================================
+# To-Peek - Production Docker Compose
+# =============================================================================
+# Optimized builds without hot reload
+#
+# Usage:
+#   docker compose -f docker-compose.prod.yml up --build
+#   docker compose -f docker-compose.prod.yml up -d
+
+services:
+  # ---------------------------------------------------------------------------
+  # Frontend - Next.js Production Build
+  # ---------------------------------------------------------------------------
+  frontend:
+    build:
+      context: ./to-peek
+      dockerfile: Dockerfile
+    container_name: to-peek-frontend-prod
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - NEXT_PUBLIC_API_URL=http://backend:8000/api/v1
+    depends_on:
+      - backend
+    restart: unless-stopped
+    networks:
+      - to-peek-network
+
+  # ---------------------------------------------------------------------------
+  # Backend - FastAPI Production
+  # ---------------------------------------------------------------------------
+  backend:
+    build:
+      context: ./to-peek-backend
+      dockerfile: Dockerfile
+    container_name: to-peek-backend-prod
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount data directories (read-only for safety)
+      - ./data:/app/data:ro
+      - ./modeling:/app/modeling:ro
+    environment:
+      - DEBUG=false
+    restart: unless-stopped
+    networks:
+      - to-peek-network
+
+networks:
+  to-peek-network:
+    driver: bridge
+

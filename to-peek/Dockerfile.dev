@@ -1,0 +1,26 @@
+# =============================================================================
+# To-Peek Frontend - Development Dockerfile (with HMR)
+# =============================================================================
+
+FROM node:20-alpine
+
+WORKDIR /app
+
+# Install dependencies first (for better caching)
+COPY package.json package-lock.json* ./
+RUN npm install
+
+# Copy source code
+COPY . .
+
+# Expose port for dev server
+EXPOSE 3000
+
+# Environment
+ENV NODE_ENV=development
+ENV NEXT_TELEMETRY_DISABLED=1
+ENV WATCHPACK_POLLING=true
+
+# Start dev server with hot reload
+CMD ["npm", "run", "dev"]
+
