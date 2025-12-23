@@ -78,7 +78,7 @@ export function ExtractionHistory({
               <div className="flex items-center gap-2">
                 <span className="text-xs text-zinc-500">
                   {ext.created_at
-                    ? new Date(ext.created_at).toLocaleDateString()
+                    ? new Date(ext.created_at).toLocaleString()
                     : ""}
                 </span>
                 <span className="text-amber-500 opacity-0 group-hover:opacity-100 transition-opacity">

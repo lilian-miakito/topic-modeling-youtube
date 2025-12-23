@@ -38,9 +38,10 @@ class TopicInfo(BaseModel):
     """Information about a single topic."""
     id: int
     count: int
-    silhouette: float | None = None
+    persistence: float | None = None
     variance: float | None = None
     max_distance: float | None = None
+    mean_distance: float | None = None
     top_words_centroid_mmr: list[str] = []
     top_words_centroid_mmr_detail: list[TopicWordDetail] = []
     example_comments_original: list[str] = []

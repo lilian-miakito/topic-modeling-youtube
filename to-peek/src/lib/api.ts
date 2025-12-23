@@ -55,9 +55,10 @@ export interface TopicInfo {
   parent_name?: string;
   generated_name: string;
   count: number;
-  silhouette?: number;
+  persistence?: number;
   variance?: number;
   max_distance?: number;
+  mean_distance?: number;
   top_words: string[];
   example_comments: string[];
   is_hierarchical: boolean;

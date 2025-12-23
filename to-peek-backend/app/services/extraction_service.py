@@ -4,7 +4,6 @@ Implements the hierarchical topic extraction pipeline.
 """
 import os
 import random
-import threading
 import warnings
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
@@ -19,30 +18,42 @@ import numpy as np
 warnings.filterwarnings("ignore", message="resource_tracker:")
 warnings.filterwarnings("ignore", message=".*leaked semaphore.*")
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.metrics import silhouette_samples
 from sklearn.metrics.pairwise import cosine_similarity
 from sqlalchemy.orm import Session
 
 from app.db.models import Channel, Video, Comment, Extraction
 from app.ml import (
     EMBEDDING_MODEL_NAME,
+    # UMAP
     UMAP_N_NEIGHBORS,
     UMAP_N_COMPONENTS,
     UMAP_MIN_DIST,
     UMAP_METRIC,
+    # HDBSCAN (permissive)
+    HDBSCAN_MIN_CLUSTER_SIZE,
+    HDBSCAN_MIN_SAMPLES,
+    HDBSCAN_CLUSTER_SELECTION_METHOD,
+    HDBSCAN_CLUSTER_EPSILON,
     HDBSCAN_METRIC,
+    # BERTopic reduction
     MIN_TOPIC_SIZE,
+    TARGET_TOPICS_LEVEL_0,
+    OUTLIER_REDUCTION_STRATEGY,
+    OUTLIER_REDUCTION_THRESHOLD,
+    # Hierarchy (mean-distance-based)
+    MEAN_DISTANCE_THRESHOLD,
+    MAX_DEPTH,
+    # Semantic
     SEMANTIC_TOP_N_WORDS,
     SEMANTIC_CANDIDATES,
     SEMANTIC_VOCAB_MIN_DF,
     SEMANTIC_NGRAM_RANGE,
     MMR_LAMBDA,
-    SILHOUETTE_THRESHOLD,
     STOP_WORDS,
+    # Classes/functions
     EmbeddingsCache,
     mmr_selection_fast,
     detect_stopwords,
-    get_adaptive_hdbscan_params,
     get_adaptive_sub_params,
 )
 from app.ml.topic_namer import configure_dspy, get_topic_namer, get_subtopic_namer
@@ -95,8 +106,8 @@ class ExtractionService:
     1. Load comments from DB
     2. Generate embeddings (cached)
     3. Run UMAP + HDBSCAN clustering
-    4. Calculate silhouette scores
-    5. Split low-silhouette clusters
+    4. Calculate DBCV + persistence scores
+    5. Split dispersed clusters (high mean_distance)
     6. Name topics with LLM
     7. Save results
     """
@@ -156,6 +167,11 @@ class ExtractionService:
         if not extraction:
             raise ValueError(f"Extraction {extraction_id} not found")
         
+        # Load user config (with defaults from global config)
+        user_config = extraction.config or {}
+        self.target_topics = user_config.get("num_topics", TARGET_TOPICS_LEVEL_0)
+        self.split_threshold = user_config.get("split_threshold", MEAN_DISTANCE_THRESHOLD)
+        
         try:
             # Update status
             extraction.status = "running"
@@ -166,6 +182,7 @@ class ExtractionService:
             print("=" * 70)
             print("🌳 HIERARCHICAL TOPIC EXTRACTION PIPELINE")
             print("=" * 70)
+            print(f"   Config: num_topics={self.target_topics}, split_threshold={self.split_threshold}")
             
             # Step 1: Load comments
             print("\n📚 Step 1: Loading comments...")
@@ -207,16 +224,19 @@ class ExtractionService:
             extraction.current_step = "Computing metrics"
             self.db.commit()
             
-            # Step 5: Compute metrics
-            print("\n📊 Step 5: Computing silhouette metrics...")
-            topics = self._compute_metrics(topics, embeddings, comments)
+            # Step 5: Compute metrics (DBCV + persistence)
+            print("\n📊 Step 5: Computing DBCV and persistence metrics...")
+            topics = self._compute_metrics(topics, embeddings, comments, topic_model)
             
-            fourre_tout = sum(1 for t in topics if t.get("silhouette", 1) < SILHOUETTE_THRESHOLD)
-            print(f"   Topics with silhouette < {SILHOUETTE_THRESHOLD}: {fourre_tout}")
+            # Log topic quality
+            topics_to_split = sum(1 for t in topics if self._should_split_topic(t))
+            print(f"   Topics needing split (mean_distance > {self.split_threshold}): {topics_to_split}")
             for t in topics:
-                sil = t.get("silhouette", 0)
-                marker = "⚠️ " if sil < SILHOUETTE_THRESHOLD else "✓ "
-                print(f"   {marker}Topic {t['id']}: count={t['count']}, sil={sil:.3f}")
+                dist = t.get("mean_distance")
+                dist_str = f"dist={dist:.3f}" if dist is not None else "dist=N/A"
+                should_split = self._should_split_topic(t)
+                marker = "⚠️ " if should_split else "✓ "
+                print(f"   {marker}Topic {t['id']}: count={t['count']}, {dist_str}")
             
             extraction.progress = 0.55
             extraction.current_step = "Extracting semantic words"
@@ -230,9 +250,9 @@ class ExtractionService:
             extraction.current_step = "Splitting low-quality clusters"
             self.db.commit()
             
-            # Step 7: Split low-silhouette clusters
-            print(f"\n🔀 Step 7: Splitting low-silhouette topics (threshold={SILHOUETTE_THRESHOLD})...")
-            topics = self._split_low_silhouette_topics(topics, embeddings, comments)
+            # Step 7: Split dispersed clusters
+            print(f"\n🔀 Step 7: Splitting dispersed topics (mean_distance > {self.split_threshold})...")
+            topics = self._split_low_quality_topics(topics, embeddings, comments)
             
             extraction.progress = 0.85
             extraction.current_step = "Naming topics"
@@ -304,11 +324,21 @@ class ExtractionService:
         embeddings: np.ndarray,
         stopwords: set[str],
     ) -> tuple:
-        """Run BERTopic clustering."""
+        """
+        Run robust BERTopic clustering with permissive HDBSCAN + reduction.
+        
+        Strategy:
+        1. Permissive clustering (many topics, few outliers)
+        2. Reduce topics to target count
+        3. Reassign outliers to nearest clusters
+        """
         UMAP = _get_umap()
         HDBSCAN = _get_hdbscan()
         BERTopic = _get_bertopic()
         
+        print(f"   Clustering {len(comments):,} comments...")
+        
+        # Step 1: UMAP dimensionality reduction
         umap_model = UMAP(
             n_neighbors=UMAP_N_NEIGHBORS,
             n_components=UMAP_N_COMPONENTS,
@@ -317,15 +347,15 @@ class ExtractionService:
             random_state=42,
         )
         
-        # Adaptive HDBSCAN parameters based on corpus size
-        hdbscan_params = get_adaptive_hdbscan_params(len(comments))
-        print(f"Adaptive HDBSCAN params for {len(comments)} docs: "
-              f"min_cluster_size={hdbscan_params['min_cluster_size']}, "
-              f"min_samples={hdbscan_params['min_samples']}")
+        # Step 2: Permissive HDBSCAN (accept many micro-topics)
+        print(f"   HDBSCAN params: min_cluster_size={HDBSCAN_MIN_CLUSTER_SIZE}, "
+              f"min_samples={HDBSCAN_MIN_SAMPLES}, method={HDBSCAN_CLUSTER_SELECTION_METHOD}")
         
         hdbscan_model = HDBSCAN(
-            min_cluster_size=hdbscan_params["min_cluster_size"],
-            min_samples=hdbscan_params["min_samples"],
+            min_cluster_size=HDBSCAN_MIN_CLUSTER_SIZE,
+            min_samples=HDBSCAN_MIN_SAMPLES,
+            cluster_selection_method=HDBSCAN_CLUSTER_SELECTION_METHOD,
+            cluster_selection_epsilon=HDBSCAN_CLUSTER_EPSILON,
             metric=HDBSCAN_METRIC,
             prediction_data=True,
         )
@@ -336,26 +366,56 @@ class ExtractionService:
             ngram_range=(1, 2),
         )
         
+        # Step 3: Initial BERTopic fit (permissive, many topics expected)
         topic_model = BERTopic(
             embedding_model=self.embedding_model,
             umap_model=umap_model,
             hdbscan_model=hdbscan_model,
             vectorizer_model=vectorizer,
             min_topic_size=MIN_TOPIC_SIZE,
-            calculate_probabilities=False,
+            calculate_probabilities=True,  # Needed for reduce_outliers
             verbose=False,
         )
         
-        topic_labels, _ = topic_model.fit_transform(comments, embeddings)
+        topic_labels, probs = topic_model.fit_transform(comments, embeddings)
         
-        # Collect outliers
+        # Count initial results
+        initial_topics = len(set(topic_labels) - {-1})
+        initial_outliers = sum(1 for l in topic_labels if l == -1)
+        initial_outlier_pct = 100 * initial_outliers / len(comments)
+        print(f"   Initial: {initial_topics} topics, {initial_outliers} outliers ({initial_outlier_pct:.1f}%)")
+        
+        # Step 4: Reduce topics to target count
+        if initial_topics > self.target_topics:
+            print(f"   Reducing topics: {initial_topics} → {self.target_topics}")
+            topic_model.reduce_topics(comments, nr_topics=self.target_topics)
+            topic_labels = topic_model.topics_
+            reduced_topics = len(set(topic_labels) - {-1})
+            print(f"   After reduction: {reduced_topics} topics")
+        
+        # Step 5: Reduce outliers (reassign to nearest cluster)
+        outlier_count_before = sum(1 for l in topic_labels if l == -1)
+        if outlier_count_before > 0:
+            print(f"   Reducing outliers ({OUTLIER_REDUCTION_STRATEGY} strategy)...")
+            try:
+                new_topics = topic_model.reduce_outliers(
+                    comments,
+                    topic_labels,
+                    strategy=OUTLIER_REDUCTION_STRATEGY,
+                    threshold=OUTLIER_REDUCTION_THRESHOLD,
+                )
+                topic_labels = new_topics
+                topic_model.update_topics(comments, topics=new_topics)
+            except Exception as e:
+                print(f"   Warning: reduce_outliers failed: {e}")
+        
+        # Final outlier stats
         outlier_indices = [i for i, label in enumerate(topic_labels) if label == -1]
         outlier_count = len(outlier_indices)
         outlier_pct = 100 * outlier_count / len(comments) if comments else 0
-        print(f"   Outliers: {outlier_count} ({outlier_pct:.1f}%)")
+        print(f"   Final: {len(set(topic_labels) - {-1})} topics, {outlier_count} outliers ({outlier_pct:.1f}%)")
         
         # Sample random outliers for exploration (max 100)
-        import random
         sample_size = min(100, outlier_count)
         sampled_indices = random.sample(outlier_indices, sample_size) if outlier_count > 0 else []
         outlier_examples = [comments[i] for i in sampled_indices]
@@ -396,8 +456,14 @@ class ExtractionService:
         topics: list[dict],
         embeddings: np.ndarray,
         comments: list[str],
+        topic_model=None,
     ) -> list[dict]:
-        """Compute silhouette and other metrics for each topic."""
+        """
+        Compute DBCV and cluster persistence metrics for each topic.
+        
+        Uses HDBSCAN's cluster_persistence_ as the per-topic quality metric,
+        and global DBCV for overall clustering quality.
+        """
         if not topics:
             return topics
         
@@ -407,28 +473,51 @@ class ExtractionService:
             for idx in topic["indices"]:
                 labels[idx] = topic["id"]
         
-        # Compute silhouette for non-outliers
         valid_mask = labels != -1
-        if valid_mask.sum() > 1:
-            valid_embeddings = embeddings[valid_mask]
-            valid_labels = labels[valid_mask]
+        if valid_mask.sum() <= 1:
+            return topics
+        
+        valid_embeddings = embeddings[valid_mask]
+        valid_labels = labels[valid_mask]
+        
+        # Compute global DBCV and per-cluster persistence
+        global_dbcv = None
+        cluster_persistence = {}
+        
+        if topic_model is not None:
+            try:
+                from hdbscan import validity_index
+                hdbscan_model = topic_model.hdbscan_model
+                
+                # Global DBCV score (cast to float64 as hdbscan expects double)
+                global_dbcv = validity_index(
+                    valid_embeddings.astype(np.float64), 
+                    valid_labels
+                )
+                print(f"   Global DBCV: {global_dbcv:.3f}")
+                
+                # Get cluster persistence (stability) - this is our per-topic metric
+                if hasattr(hdbscan_model, 'cluster_persistence_') and hdbscan_model.cluster_persistence_ is not None:
+                    persistence = hdbscan_model.cluster_persistence_
+                    unique_ids = sorted(set(valid_labels))
+                    for i, topic_id in enumerate(unique_ids):
+                        if i < len(persistence):
+                            cluster_persistence[topic_id] = float(persistence[i])
+                    print(f"   Persistence range: [{min(persistence):.3f}, {max(persistence):.3f}]")
+            except Exception as e:
+                print(f"   Warning: DBCV/persistence computation failed: {e}")
+        
+        # Assign metrics to each topic
+        for topic in topics:
+            # Persistence = cluster stability in HDBSCAN hierarchy
+            topic["persistence"] = cluster_persistence.get(topic["id"], None)
             
-            silhouette_per_sample = silhouette_samples(valid_embeddings, valid_labels)
-            
-            sample_idx = 0
-            for topic in topics:
-                topic_size = topic["count"]
-                topic_silhouettes = silhouette_per_sample[sample_idx:sample_idx + topic_size]
-                
-                topic["silhouette"] = float(np.mean(topic_silhouettes))
-                topic["variance"] = float(np.var(topic["embeddings"], axis=0).mean())
-                
-                # Centroid and max distance
-                centroid = np.mean(topic["embeddings"], axis=0)
-                distances = np.linalg.norm(topic["embeddings"] - centroid, axis=1)
-                topic["max_distance"] = float(np.max(distances))
-                
-                sample_idx += topic_size
+            # Variance and centroid metrics
+            topic["variance"] = float(np.var(topic["embeddings"], axis=0).mean())
+            centroid = np.mean(topic["embeddings"], axis=0)
+            distances = np.linalg.norm(topic["embeddings"] - centroid, axis=1)
+            topic["max_distance"] = float(np.max(distances))
+            topic["mean_distance"] = float(np.mean(distances))
         
         return topics
     
@@ -498,36 +587,58 @@ class ExtractionService:
         
         return topics
     
-    def _split_low_silhouette_topics(
+    def _should_split_topic(self, topic: dict) -> bool:
+        """
+        Determine if a topic should be split into sub-topics.
+        
+        Uses mean distance to centroid as quality metric.
+        High distance = dispersed cluster = candidate for split.
+        """
+        # Skip if already at max depth or too small
+        if topic.get("depth", 0) >= MAX_DEPTH:
+            return False
+        if topic["count"] < 30:
+            return False
+        
+        # Check mean_distance (high = dispersed cluster)
+        mean_distance = topic.get("mean_distance")
+        if mean_distance is not None and mean_distance > self.split_threshold:
+            return True
+        
+        return False
+    
+    def _split_low_quality_topics(
         self,
         topics: list[dict],
         embeddings: np.ndarray,
         comments: list[str],
     ) -> list[dict]:
-        """Split topics with low silhouette scores."""
+        """
+        Split topics with high mean_distance into sub-topics.
+        
+        Uses mean distance to centroid as the quality signal.
+        High distance = dispersed cluster = needs sub-clustering.
+        """
         UMAP = _get_umap()
         HDBSCAN = _get_hdbscan()
         BERTopic = _get_bertopic()
         
-        topics_to_split = [
-            t for t in topics
-            if t.get("silhouette", 1) < SILHOUETTE_THRESHOLD
-            and t["count"] >= 30
-            and t.get("depth", 0) < 1
-        ]
+        topics_to_split = [t for t in topics if self._should_split_topic(t)]
         
         if not topics_to_split:
             print("   No topics need splitting!")
             return topics
         
-        print(f"   Found {len(topics_to_split)} topics to split")
+        print(f"   Found {len(topics_to_split)} topics to split (mean_distance > {self.split_threshold})")
         
         for parent_topic in topics_to_split:
             parent_id = parent_topic["id"]
             cluster_comments = parent_topic["comments"]
             cluster_embeddings = parent_topic["embeddings"]
             
-            print(f"\n   📌 Splitting topic {parent_id} (count={len(cluster_comments)}, sil={parent_topic.get('silhouette', 0):.3f})...")
+            mean_dist = parent_topic.get("mean_distance")
+            dist_str = f"dist={mean_dist:.3f}" if mean_dist is not None else "dist=N/A"
+            print(f"\n   📌 Splitting topic {parent_id} (count={len(cluster_comments)}, {dist_str})...")
             
             if len(cluster_comments) < 30:
                 print(f"      Too few comments ({len(cluster_comments)}), skipping")
@@ -574,21 +685,17 @@ class ExtractionService:
             sub_topics = []
             unique_sub = set(sub_labels) - {-1}
             
-            # Compute silhouette for sub-topics if we have enough clusters
-            sub_silhouette_dict = {}
-            valid_sub_mask = np.array(sub_labels) != -1
-            unique_valid_labels = set(sub_labels) - {-1}
-            if valid_sub_mask.sum() > 1 and len(unique_valid_labels) > 1:
-                valid_sub_embeddings = cluster_embeddings[valid_sub_mask]
-                valid_sub_labels = np.array(sub_labels)[valid_sub_mask]
-                sub_silhouettes = silhouette_samples(valid_sub_embeddings, valid_sub_labels)
-                
-                # Map silhouette to each sub-topic
-                idx = 0
-                for sub_id in sorted(unique_valid_labels):
-                    count = (np.array(sub_labels) == sub_id).sum()
-                    sub_silhouette_dict[sub_id] = float(np.mean(sub_silhouettes[idx:idx + count]))
-                    idx += count
+            # Get persistence for sub-topics from the sub HDBSCAN model
+            sub_persistence_dict = {}
+            try:
+                sub_hdbscan_model = sub_topic_model.hdbscan_model
+                if hasattr(sub_hdbscan_model, 'cluster_persistence_') and sub_hdbscan_model.cluster_persistence_ is not None:
+                    persistence = sub_hdbscan_model.cluster_persistence_
+                    for i, sub_id in enumerate(sorted(unique_sub)):
+                        if i < len(persistence):
+                            sub_persistence_dict[sub_id] = float(persistence[i])
+            except Exception:
+                pass  # Persistence not available for sub-topics
             
             for sub_id in sorted(unique_sub):
                 mask = np.array(sub_labels) == sub_id
@@ -604,21 +711,24 @@ class ExtractionService:
                     variance = float(np.var(sub_embeddings, axis=0).mean())
                     distances = np.linalg.norm(sub_embeddings - centroid, axis=1)
                     max_dist = float(np.max(distances))
+                    mean_dist = float(np.mean(distances))
                 else:
                     variance = 0
                     max_dist = 0
+                    mean_dist = 0
                 
                 sub_topics.append({
                     "id": f"{parent_id}.{sub_id}",
                     "depth": 1,
                     "parent_id": parent_id,
                     "count": len(sub_comments),
-                    "silhouette": sub_silhouette_dict.get(sub_id),
+                    "persistence": sub_persistence_dict.get(sub_id),
                     "comments": sub_comments,
                     "embeddings": sub_embeddings,
                     "top_words": top_words,
                     "variance": variance,
                     "max_distance": max_dist,
+                    "mean_distance": mean_dist,
                 })
             
             if sub_topics:
@@ -627,9 +737,9 @@ class ExtractionService:
                 
                 print(f"      Found {len(sub_topics)} sub-topics")
                 for st in sub_topics:
-                    sil = st.get("silhouette")
-                    sil_str = f"{sil:.3f}" if sil is not None else "N/A"
-                    print(f"         └─ {st['id']}: count={st['count']}, sil={sil_str}")
+                    pers = st.get("persistence")
+                    pers_str = f"pers={pers:.3f}" if pers is not None else "pers=N/A"
+                    print(f"         └─ {st['id']}: count={st['count']}, {pers_str}")
                 parent_topic["children"] = sub_topics
                 parent_topic["is_hierarchical"] = True
             else:
@@ -809,6 +919,20 @@ class ExtractionService:
         
         return [comments[i] for i in selected_indices]
     
+    def _to_python_native(self, value):
+        """Convert numpy types to Python native types for JSON serialization."""
+        if value is None:
+            return None
+        if isinstance(value, (np.integer, np.int64, np.int32)):
+            return int(value)
+        if isinstance(value, (np.floating, np.float64, np.float32)):
+            return float(value)
+        if isinstance(value, np.ndarray):
+            return value.tolist()
+        if isinstance(value, np.bool_):
+            return bool(value)
+        return value
+    
     def _clean_topics_for_json(self, topics: list[dict]) -> list[dict]:
         """Remove non-serializable data and select representative comments."""
         def clean_topic(t):
@@ -823,18 +947,19 @@ class ExtractionService:
                 example_comments = comments[:10]
             
             cleaned = {
-                "id": t["id"],
-                "depth": t.get("depth", 0),
-                "parent_id": t.get("parent_id"),
+                "id": self._to_python_native(t["id"]),
+                "depth": self._to_python_native(t.get("depth", 0)),
+                "parent_id": self._to_python_native(t.get("parent_id")),
                 "parent_name": t.get("parent_name"),
                 "generated_name": t.get("generated_name", f"Topic {t['id']}"),
-                "count": t["count"],
-                "silhouette": t.get("silhouette"),
-                "variance": t.get("variance"),
-                "max_distance": t.get("max_distance"),
+                "count": self._to_python_native(t["count"]),
+                "persistence": self._to_python_native(t.get("persistence")),
+                "variance": self._to_python_native(t.get("variance")),
+                "max_distance": self._to_python_native(t.get("max_distance")),
+                "mean_distance": self._to_python_native(t.get("mean_distance")),
                 "top_words": t.get("top_words", []),
                 "example_comments": example_comments,
-                "is_hierarchical": t.get("is_hierarchical", False),
+                "is_hierarchical": self._to_python_native(t.get("is_hierarchical", False)),
             }
             
             if "children" in t:

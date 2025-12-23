@@ -225,12 +225,18 @@ class YouTubeService:
                 "fetched": 0,
             }
         
+        # Extract video data before threading (SQLAlchemy objects are not thread-safe)
+        video_data_list = [
+            {"id": v.id, "youtube_id": v.youtube_id, "title": v.title}
+            for v in videos_to_fetch
+        ]
+        
         # Update global state
         with _fetch_lock:
             _fetch_state.update({
                 "active": True,
                 "stop_requested": False,
-                "videos_total": len(videos_to_fetch),
+                "videos_total": len(video_data_list),
                 "videos_completed": 0,
                 "comments_extracted": 0,
                 "current_video": None,
@@ -239,17 +245,17 @@ class YouTubeService:
         total_comments = 0
         completed = 0
         
-        def process_video(video: Video):
+        def process_video(video_data: dict):
             """Fetch comments for a single video."""
             try:
-                comments = self.fetch_video_comments(video.youtube_id)
-                return video, comments, None
+                comments = self.fetch_video_comments(video_data["youtube_id"])
+                return video_data, comments, None
             except Exception as e:
-                return video, [], str(e)
+                return video_data, [], str(e)
         
         try:
             with ThreadPoolExecutor(max_workers=max_workers) as executor:
-                futures = {executor.submit(process_video, v): v for v in videos_to_fetch}
+                futures = {executor.submit(process_video, vd): vd for vd in video_data_list}
                 
                 for future in as_completed(futures):
                     # Check for stop request
@@ -258,7 +264,7 @@ class YouTubeService:
                             executor.shutdown(wait=False, cancel_futures=True)
                             break
                     
-                    video, comments, error = future.result()
+                    video_data, comments, error = future.result()
                     completed += 1
                     
                     if not error and comments:
@@ -267,7 +273,7 @@ class YouTubeService:
                             text = clean_text(comment_data.get("text", ""))
                             if text:
                                 comment = Comment(
-                                    video_id=video.id,
+                                    video_id=video_data["id"],
                                     author=clean_text(comment_data.get("author", "")),
                                     author_id=comment_data.get("author_id"),
                                     text=text,
@@ -278,9 +284,11 @@ class YouTubeService:
                                 )
                                 self.db.add(comment)
                         
-                        # Mark video as having comments
-                        video.has_comments = True
-                        video.comment_count = len(comments)
+                        # Mark video as having comments - fetch fresh from DB
+                        video = self.db.query(Video).filter(Video.id == video_data["id"]).first()
+                        if video:
+                            video.has_comments = True
+                            video.comment_count = len(comments)
                         self.db.commit()
                         
                         total_comments += len(comments)
@@ -290,7 +298,7 @@ class YouTubeService:
                         _fetch_state.update({
                             "videos_completed": completed,
                             "comments_extracted": total_comments,
-                            "current_video": video.title[:50] if video.title else "Unknown",
+                            "current_video": video_data["title"][:50] if video_data["title"] else "Unknown",
                         })
         
         finally:

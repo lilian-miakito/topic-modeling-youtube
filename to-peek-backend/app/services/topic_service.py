@@ -68,9 +68,10 @@ class TopicService:
             return TopicInfo(
                 id=t.get("id", 0),
                 count=t.get("count", 0),
-                silhouette=t.get("silhouette"),
+                persistence=t.get("persistence"),
                 variance=t.get("variance"),
                 max_distance=t.get("max_distance"),
+                mean_distance=t.get("mean_distance"),
                 top_words_centroid_mmr=t.get("top_words_ctfidf", []),  # Different key in hierarchical
                 example_comments_original=t.get("example_comments", []),
                 generated_name=t.get("generated_name"),

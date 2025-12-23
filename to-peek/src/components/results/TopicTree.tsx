@@ -48,19 +48,32 @@ function TopicCard({ topic, depth = 0 }: { topic: TopicInfo; depth?: number }) {
               </div>
             )}
           </div>
-          <div className="flex gap-2">
+          <div className="flex gap-2 flex-wrap">
             <span className="px-2 py-1 bg-zinc-700 rounded text-sm text-zinc-300">
               {topic.count} comments
             </span>
-            {topic.silhouette != null && (
+            {topic.persistence != null && (
               <span
-                className={`px-2 py-1 rounded text-sm ${
-                  topic.silhouette >= 0.15
-                    ? "bg-green-900/50 text-green-400"
-                    : "bg-amber-900/50 text-amber-400"
-                }`}
+                className="px-2 py-1 rounded text-sm bg-zinc-700 text-zinc-300"
+                title="Persistence: cluster stability in HDBSCAN hierarchy"
               >
-                sil: {topic.silhouette.toFixed(2)}
+                pers: {topic.persistence.toFixed(3)}
+              </span>
+            )}
+            {topic.variance != null && (
+              <span
+                className="px-2 py-1 rounded text-sm bg-zinc-700 text-zinc-300"
+                title="Variance: average variance across embedding dimensions"
+              >
+                var: {topic.variance.toFixed(4)}
+              </span>
+            )}
+            {topic.mean_distance != null && (
+              <span
+                className="px-2 py-1 rounded text-sm bg-zinc-700 text-zinc-300"
+                title="Mean distance: average distance to cluster centroid"
+              >
+                dist: {topic.mean_distance.toFixed(3)}
               </span>
             )}
           </div>

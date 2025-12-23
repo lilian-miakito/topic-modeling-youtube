@@ -24,6 +24,10 @@ export function Extraction({
   const [extractionId, setExtractionId] = useState<number | null>(null);
   const [status, setStatus] = useState<ExtractionStatus | null>(null);
   const [error, setError] = useState<string | null>(null);
+  
+  // User-configurable parameters
+  const [numTopics, setNumTopics] = useState(15);
+  const [splitThreshold, setSplitThreshold] = useState(0.75);
 
   // Get videos with comments only
   const videosWithComments = channel.videos.filter(
@@ -60,7 +64,11 @@ export function Extraction({
     try {
       const result = await startExtraction(
         channel.id,
-        videosWithComments.map((v) => v.id)
+        videosWithComments.map((v) => v.id),
+        {
+          num_topics: numTopics,
+          split_threshold: splitThreshold,
+        }
       );
       setExtractionId(result.id);
       setStatus(result);
@@ -123,6 +131,58 @@ export function Extraction({
         </div>
       )}
 
+      {/* Configuration sliders */}
+      {!extractionId && (
+        <div className="p-4 bg-zinc-800 rounded-lg space-y-5">
+          <h3 className="text-sm font-medium text-zinc-300 mb-4">
+            Extraction Settings
+          </h3>
+          
+          {/* Number of topics */}
+          <div className="space-y-2">
+            <div className="flex justify-between text-sm">
+              <label className="text-zinc-400">Number of themes</label>
+              <span className="text-zinc-200 font-medium">{numTopics}</span>
+            </div>
+            <input
+              type="range"
+              min={5}
+              max={40}
+              value={numTopics}
+              onChange={(e) => setNumTopics(Number(e.target.value))}
+              className="w-full h-2 bg-zinc-700 rounded-lg appearance-none cursor-pointer accent-amber-500"
+            />
+            <div className="flex justify-between text-xs text-zinc-500">
+              <span>Few (broad)</span>
+              <span>Many (specific)</span>
+            </div>
+          </div>
+          
+          {/* Split threshold */}
+          <div className="space-y-2">
+            <div className="flex justify-between text-sm">
+              <label className="text-zinc-400">Explore sub-themes</label>
+              <span className="text-zinc-200 font-medium">
+                {splitThreshold <= 0.65 ? "Aggressive" : splitThreshold >= 0.85 ? "Conservative" : "Moderate"}
+              </span>
+            </div>
+            <input
+              type="range"
+              min={0.6}
+              max={0.9}
+              step={0.05}
+              value={splitThreshold}
+              onChange={(e) => setSplitThreshold(Number(e.target.value))}
+              className="w-full h-2 bg-zinc-700 rounded-lg appearance-none cursor-pointer accent-amber-500"
+            />
+            <div className="flex justify-between text-xs text-zinc-500">
+              <span>More splits</span>
+              <span>Fewer splits</span>
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Pipeline steps */}
       {!extractionId && (
         <div className="space-y-2">
@@ -134,9 +194,9 @@ export function Extraction({
             "Generate embeddings (cached)",
             "Detect corpus-specific stopwords",
             "Cluster with UMAP + HDBSCAN",
-            "Calculate silhouette scores",
+            "Calculate cluster metrics",
             "Extract semantic words (centroid + MMR)",
-            "Split low-quality clusters",
+            "Split dispersed clusters",
             "Name topics with LLM",
           ].map((step, i) => (
             <div

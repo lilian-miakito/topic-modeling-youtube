@@ -17,57 +17,60 @@ UMAP_N_COMPONENTS = 5        # Number of dimensions to reduce to
 UMAP_MIN_DIST = 0.0          # 0.0 = tight clusters, 1.0 = spread out
 UMAP_METRIC = "cosine"       # Distance metric (cosine works well for text)
 
-# HDBSCAN: Clustering algorithm (base values, adapted dynamically)
-# Target: ~30 topics level-1, <20% outliers
-HDBSCAN_MIN_CLUSTER_SIZE_BASE = 15   # Minimum base value (lower = more small clusters allowed)
-HDBSCAN_MIN_CLUSTER_SIZE_RATIO = 70  # n_docs / ratio = min_cluster_size
-HDBSCAN_MIN_SAMPLES_BASE = 3         # Minimum base value (lower = less strict density)
-HDBSCAN_MIN_SAMPLES_RATIO = 500      # n_docs / ratio = min_samples (higher = less outliers)
-HDBSCAN_CLUSTER_EPSILON = 0.0        # Distance threshold (0 = auto)
+# =============================================================================
+# HDBSCAN: Permissive clustering (many topics, few outliers)
+# =============================================================================
+# Strategy: Accept many micro-topics initially, then reduce with BERTopic
+HDBSCAN_MIN_CLUSTER_SIZE = 10        # Low = more small clusters allowed
+HDBSCAN_MIN_SAMPLES = 3              # Low = less strict density requirement
+HDBSCAN_CLUSTER_SELECTION_METHOD = "eom"  # More stable than 'leaf'
+HDBSCAN_CLUSTER_EPSILON = 0.05       # Merge very close clusters
 HDBSCAN_METRIC = "euclidean"         # Distance metric for clustering
 
-# BERTopic
-MIN_TOPIC_SIZE = 3           # Minimum documents per topic (lower = keep small clusters)
+# =============================================================================
+# BERTopic: Topic reduction and outlier handling
+# =============================================================================
+MIN_TOPIC_SIZE = 5                   # Accept small topics initially
+TARGET_TOPICS_LEVEL_0 = 15           # reduce_topics() target (10-20 range)
+OUTLIER_REDUCTION_STRATEGY = "embeddings"  # "embeddings", "probabilities", or "c-tf-idf"
+OUTLIER_REDUCTION_THRESHOLD = 0.5    # Distance threshold for reassignment
+
+# =============================================================================
+# Hierarchy: Mean-distance-based splitting
+# =============================================================================
+MEAN_DISTANCE_THRESHOLD = 0.75       # High distance = dispersed cluster -> split
+MAX_DEPTH = 1                        # Max nesting levels
 
 # Sub-clustering (for splitting low-quality clusters)
-SUB_MIN_CLUSTER_SIZE_RATIO = 10   # parent_size / ratio = min_cluster_size
-SUB_MIN_CLUSTER_SIZE_BASE = 5     # Minimum base value
-SUB_MIN_TOPIC_SIZE_RATIO = 15     # parent_size / ratio = min_topic_size
-SUB_MIN_TOPIC_SIZE_BASE = 5       # Minimum base value
-
-
-def get_adaptive_hdbscan_params(n_docs: int) -> dict:
-    """
-    Calculate adaptive HDBSCAN parameters based on corpus size.
-    Target: ~30 topics, <20% outliers
-    
-    Examples:
-        - 500 docs  → min_cluster_size=15, min_samples=3
-        - 2000 docs → min_cluster_size=28, min_samples=4
-        - 10000 docs → min_cluster_size=142, min_samples=20
-    """
-    min_cluster_size = max(HDBSCAN_MIN_CLUSTER_SIZE_BASE, n_docs // HDBSCAN_MIN_CLUSTER_SIZE_RATIO)
-    min_samples = max(HDBSCAN_MIN_SAMPLES_BASE, n_docs // HDBSCAN_MIN_SAMPLES_RATIO)
-    
-    return {
-        "min_cluster_size": min_cluster_size,
-        "min_samples": min_samples,
-    }
+SUB_MIN_CLUSTER_SIZE_RATIO = 10      # parent_size / ratio = min_cluster_size
+SUB_MIN_CLUSTER_SIZE_BASE = 5        # Minimum base value
+SUB_MIN_CLUSTER_SIZE_MAX = 50        # Maximum value (cap for large clusters)
+SUB_MIN_TOPIC_SIZE_RATIO = 15        # parent_size / ratio = min_topic_size
+SUB_MIN_TOPIC_SIZE_BASE = 5          # Minimum base value
+SUB_MIN_TOPIC_SIZE_MAX = 30          # Maximum value (cap for large clusters)
 
 
 def get_adaptive_sub_params(parent_size: int) -> dict:
     """
     Calculate adaptive sub-clustering parameters based on parent cluster size.
     
+    Capped to avoid too-strict params on large clusters.
+    
     Examples:
-        - 50 docs  → min_cluster_size=5, min_topic_size=5
-        - 300 docs → min_cluster_size=30, min_topic_size=20
+        - 50 docs   → min_cluster_size=5, min_topic_size=5
+        - 300 docs  → min_cluster_size=30, min_topic_size=20
+        - 2500 docs → min_cluster_size=50 (capped), min_topic_size=30 (capped)
     """
+    min_cluster = parent_size // SUB_MIN_CLUSTER_SIZE_RATIO
+    min_cluster = max(SUB_MIN_CLUSTER_SIZE_BASE, min(SUB_MIN_CLUSTER_SIZE_MAX, min_cluster))
+    
+    min_topic = parent_size // SUB_MIN_TOPIC_SIZE_RATIO
+    min_topic = max(SUB_MIN_TOPIC_SIZE_BASE, min(SUB_MIN_TOPIC_SIZE_MAX, min_topic))
+    
     return {
-        "min_cluster_size": max(SUB_MIN_CLUSTER_SIZE_BASE, parent_size // SUB_MIN_CLUSTER_SIZE_RATIO),
-        "min_topic_size": max(SUB_MIN_TOPIC_SIZE_BASE, parent_size // SUB_MIN_TOPIC_SIZE_RATIO),
+        "min_cluster_size": min_cluster,
+        "min_topic_size": min_topic,
     }
-NR_TOPICS = None             # None = auto, or set a number to force reduction
 
 # Vectorizer
 VECTORIZER_MIN_DF = 2        # Word must appear in at least N docs
@@ -80,9 +83,9 @@ SEMANTIC_NGRAM_RANGE = (1, 3)  # Include unigrams, bigrams, trigrams
 SEMANTIC_CANDIDATES = 100     # Pre-filter top N candidates before MMR
 MMR_LAMBDA = 0.7             # MMR trade-off: 1.0 = pure relevance, 0.0 = pure diversity
 
-# Hierarchical extraction
-SILHOUETTE_THRESHOLD = 0.15  # Below this → split into sub-topics
-MAX_DEPTH = 1                # Max nesting levels
+# Hierarchical extraction (legacy - kept for reference)
+# SILHOUETTE_THRESHOLD = 0.15  # Replaced by PERSISTENCE_THRESHOLD
+# MAX_DEPTH defined above in Hierarchy section
 
 # =============================================================================
 # STOP WORDS

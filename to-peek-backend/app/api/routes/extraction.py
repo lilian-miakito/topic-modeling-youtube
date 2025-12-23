@@ -17,11 +17,17 @@ router = APIRouter(prefix="/extract", tags=["extraction"])
 # Request/Response Models
 # =============================================================================
 
+class ExtractionConfig(BaseModel):
+    """User-configurable extraction parameters."""
+    num_topics: int = 15        # Target number of top-level topics (5-50)
+    split_threshold: float = 0.75  # Mean distance threshold for splitting (0.6-0.9)
+
+
 class StartExtractionRequest(BaseModel):
     """Request to start topic extraction."""
     channel_id: int
     video_ids: list[int]
-    config: Optional[dict] = None
+    config: Optional[ExtractionConfig] = None
 
 
 class ExtractionStatusResponse(BaseModel):
@@ -43,9 +49,10 @@ class TopicInfo(BaseModel):
     parent_name: Optional[str] = None
     generated_name: str
     count: int
-    silhouette: Optional[float] = None
+    persistence: Optional[float] = None
     variance: Optional[float] = None
     max_distance: Optional[float] = None
+    mean_distance: Optional[float] = None
     top_words: list[str] = []
     example_comments: list[str] = []
     is_hierarchical: bool = False
@@ -89,11 +96,14 @@ async def start_extraction(
     """
     service = ExtractionService(db)
     
+    # Convert Pydantic config to dict for JSON storage
+    config_dict = request.config.model_dump() if request.config else {}
+    
     # Create extraction record
     extraction = service.start_extraction(
         channel_id=request.channel_id,
         video_ids=request.video_ids,
-        config=request.config,
+        config=config_dict,
     )
     
     # Run extraction in background
@@ -162,9 +172,10 @@ async def get_extraction_result(
             parent_name=t.get("parent_name"),
             generated_name=t.get("generated_name", f"Topic {t.get('id')}"),
             count=t.get("count", 0),
-            silhouette=t.get("silhouette"),
+            persistence=t.get("persistence"),
             variance=t.get("variance"),
             max_distance=t.get("max_distance"),
+            mean_distance=t.get("mean_distance"),
             top_words=t.get("top_words", []),
             example_comments=t.get("example_comments", []),
             is_hierarchical=t.get("is_hierarchical", False),
