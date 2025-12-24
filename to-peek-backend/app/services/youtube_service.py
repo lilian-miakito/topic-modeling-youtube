@@ -137,16 +137,20 @@ class YouTubeService:
         self.db.commit()
         self.db.refresh(channel)
         
-        # Add videos
+        # Add videos (skip if already exists)
         for video_data in info["videos"]:
-            video = Video(
-                channel_id=channel.id,
-                youtube_id=video_data["youtube_id"],
-                title=video_data["title"],
-                url=video_data["url"],
-                has_comments=False,
-            )
-            self.db.add(video)
+            existing_video = self.db.query(Video).filter(
+                Video.youtube_id == video_data["youtube_id"]
+            ).first()
+            if not existing_video:
+                video = Video(
+                    channel_id=channel.id,
+                    youtube_id=video_data["youtube_id"],
+                    title=video_data["title"],
+                    url=video_data["url"],
+                    has_comments=False,
+                )
+                self.db.add(video)
         
         self.db.commit()
         

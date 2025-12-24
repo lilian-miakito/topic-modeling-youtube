@@ -1,11 +1,15 @@
 # ML module for topic extraction
 from .config import (
     EMBEDDING_MODEL_NAME,
-    # UMAP
+    # UMAP (clustering)
     UMAP_N_NEIGHBORS,
     UMAP_N_COMPONENTS,
     UMAP_MIN_DIST,
     UMAP_METRIC,
+    # UMAP (visualization 2D)
+    VIZ_UMAP_N_NEIGHBORS,
+    VIZ_UMAP_MIN_DIST,
+    VIZ_UMAP_METRIC,
     # HDBSCAN (permissive clustering)
     HDBSCAN_MIN_CLUSTER_SIZE,
     HDBSCAN_MIN_SAMPLES,
@@ -47,6 +51,9 @@ __all__ = [
     "UMAP_N_COMPONENTS",
     "UMAP_MIN_DIST",
     "UMAP_METRIC",
+    "VIZ_UMAP_N_NEIGHBORS",
+    "VIZ_UMAP_MIN_DIST",
+    "VIZ_UMAP_METRIC",
     "HDBSCAN_MIN_CLUSTER_SIZE",
     "HDBSCAN_MIN_SAMPLES",
     "HDBSCAN_CLUSTER_SELECTION_METHOD",

@@ -138,6 +138,10 @@ export default function Home() {
                 channel={channel}
                 onVideosSelected={handleVideosSelected}
                 onBack={() => goBack("channel")}
+                onChannelDeleted={() => {
+                  setChannel(null);
+                  setStep("channel");
+                }}
               />
             </>
           )}

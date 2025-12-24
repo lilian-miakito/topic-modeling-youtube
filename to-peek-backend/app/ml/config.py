@@ -17,6 +17,11 @@ UMAP_N_COMPONENTS = 5        # Number of dimensions to reduce to
 UMAP_MIN_DIST = 0.0          # 0.0 = tight clusters, 1.0 = spread out
 UMAP_METRIC = "cosine"       # Distance metric (cosine works well for text)
 
+# UMAP: 2D projection for visualization (separate from clustering)
+VIZ_UMAP_N_NEIGHBORS = 15    # Balance local/global structure
+VIZ_UMAP_MIN_DIST = 0.2      # Slight spread for readability
+VIZ_UMAP_METRIC = "cosine"   # Same as clustering
+
 # =============================================================================
 # HDBSCAN: Permissive clustering (many topics, few outliers)
 # =============================================================================

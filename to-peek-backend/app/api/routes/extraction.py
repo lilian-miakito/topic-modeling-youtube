@@ -57,6 +57,10 @@ class TopicInfo(BaseModel):
     example_comments: list[str] = []
     is_hierarchical: bool = False
     children: list["TopicInfo"] = []
+    # 2D visualization coordinates
+    viz_x: Optional[float] = None
+    viz_y: Optional[float] = None
+    viz_spread: Optional[float] = None
 
 
 class OutliersInfo(BaseModel):
@@ -181,6 +185,10 @@ async def get_extraction_result(
             example_comments=t.get("example_comments", []),
             is_hierarchical=t.get("is_hierarchical", False),
             children=children,
+            # 2D visualization
+            viz_x=t.get("viz_x"),
+            viz_y=t.get("viz_y"),
+            viz_spread=t.get("viz_spread"),
         )
     
     topics = [parse_topic(t) for t in result.get("topics", [])]

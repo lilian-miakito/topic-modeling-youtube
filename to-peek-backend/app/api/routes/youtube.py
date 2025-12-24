@@ -255,3 +255,39 @@ async def list_channels(db: Session = Depends(get_db)):
     
     return {"channels": result, "total": len(result)}
 
+
+@router.delete("/channel/{channel_id}")
+async def delete_channel(channel_id: int, db: Session = Depends(get_db)):
+    """
+    Delete a channel and all associated data (videos, comments, extractions).
+    """
+    from app.db.models import Comment, Extraction
+    
+    channel = db.query(Channel).get(channel_id)
+    if not channel:
+        raise HTTPException(status_code=404, detail="Channel not found")
+    
+    # Count what will be deleted
+    video_count = db.query(Video).filter(Video.channel_id == channel_id).count()
+    video_ids = [v.id for v in db.query(Video).filter(Video.channel_id == channel_id).all()]
+    comment_count = db.query(Comment).filter(Comment.video_id.in_(video_ids)).count() if video_ids else 0
+    extraction_count = db.query(Extraction).filter(Extraction.channel_id == channel_id).count()
+    
+    # Delete in order (comments -> videos -> extractions -> channel)
+    if video_ids:
+        db.query(Comment).filter(Comment.video_id.in_(video_ids)).delete(synchronize_session=False)
+    db.query(Video).filter(Video.channel_id == channel_id).delete(synchronize_session=False)
+    db.query(Extraction).filter(Extraction.channel_id == channel_id).delete(synchronize_session=False)
+    db.delete(channel)
+    db.commit()
+    
+    return {
+        "success": True,
+        "message": f"Deleted channel {channel.name}",
+        "deleted": {
+            "videos": video_count,
+            "comments": comment_count,
+            "extractions": extraction_count,
+        }
+    }
+

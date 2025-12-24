@@ -24,11 +24,15 @@ from sqlalchemy.orm import Session
 from app.db.models import Channel, Video, Comment, Extraction
 from app.ml import (
     EMBEDDING_MODEL_NAME,
-    # UMAP
+    # UMAP (clustering)
     UMAP_N_NEIGHBORS,
     UMAP_N_COMPONENTS,
     UMAP_MIN_DIST,
     UMAP_METRIC,
+    # UMAP (visualization 2D)
+    VIZ_UMAP_N_NEIGHBORS,
+    VIZ_UMAP_MIN_DIST,
+    VIZ_UMAP_METRIC,
     # HDBSCAN (permissive)
     HDBSCAN_MIN_CLUSTER_SIZE,
     HDBSCAN_MIN_SAMPLES,
@@ -254,12 +258,20 @@ class ExtractionService:
             print(f"\n🔀 Step 7: Splitting dispersed topics (mean_distance > {self.split_threshold})...")
             topics = self._split_low_quality_topics(topics, embeddings, comments)
             
+            extraction.progress = 0.75
+            extraction.current_step = "Computing 2D projection"
+            self.db.commit()
+            
+            # Step 8: Compute 2D visualization coordinates
+            print("\n🗺️  Step 8: Computing 2D visualization projection...")
+            topics = self._compute_viz_coordinates(topics, embeddings, comments)
+            
             extraction.progress = 0.85
             extraction.current_step = "Naming topics"
             self.db.commit()
             
-            # Step 8: Name topics
-            print("\n🏷️  Step 8: Naming topics with LLM...")
+            # Step 9: Name topics
+            print("\n🏷️  Step 9: Naming topics with LLM...")
             config = extraction.config or {}
             llm_model = config.get("llm_model", "openai/gpt-4o-mini")
             print(f"   Model: {llm_model}")
@@ -837,6 +849,109 @@ class ExtractionService:
         
         return sub_topics
     
+    def _compute_viz_coordinates(
+        self,
+        topics: list[dict],
+        embeddings: np.ndarray,
+        comments: list[str],
+    ) -> list[dict]:
+        """
+        Compute 2D visualization coordinates for topics using UMAP projection.
+        
+        Adds viz_x, viz_y (centroid position) and viz_spread (cluster spread) 
+        to each topic and its children.
+        """
+        if not topics:
+            return topics
+        
+        UMAP = _get_umap()
+        
+        # Build label array for all comments
+        labels = np.full(len(comments), -1)
+        for topic in topics:
+            for idx in topic.get("indices", []):
+                labels[idx] = topic["id"]
+        
+        # Only project non-outliers
+        valid_mask = labels != -1
+        if valid_mask.sum() < 10:
+            print("   Not enough points for 2D projection, skipping")
+            return topics
+        
+        valid_embeddings = embeddings[valid_mask]
+        valid_labels = labels[valid_mask]
+        valid_indices = np.where(valid_mask)[0]
+        
+        # UMAP 2D projection for visualization
+        print(f"   Projecting {len(valid_embeddings):,} points to 2D...")
+        n_neighbors = min(VIZ_UMAP_N_NEIGHBORS, len(valid_embeddings) - 1)
+        
+        viz_umap = UMAP(
+            n_neighbors=n_neighbors,
+            n_components=2,
+            min_dist=VIZ_UMAP_MIN_DIST,
+            metric=VIZ_UMAP_METRIC,
+            random_state=42,
+        )
+        
+        viz_coords = viz_umap.fit_transform(valid_embeddings)
+        
+        # Create mapping from original index to viz coords
+        idx_to_viz = {int(valid_indices[i]): viz_coords[i] for i in range(len(valid_indices))}
+        
+        # Compute centroid and spread for each topic
+        for topic in topics:
+            topic_indices = topic.get("indices", [])
+            topic_coords = np.array([idx_to_viz[i] for i in topic_indices if i in idx_to_viz])
+            
+            if len(topic_coords) > 0:
+                centroid = np.mean(topic_coords, axis=0)
+                topic["viz_x"] = float(centroid[0])
+                topic["viz_y"] = float(centroid[1])
+                
+                # Spread = std of distances to centroid
+                if len(topic_coords) > 1:
+                    distances = np.linalg.norm(topic_coords - centroid, axis=1)
+                    topic["viz_spread"] = float(np.std(distances))
+                else:
+                    topic["viz_spread"] = 0.1
+            else:
+                # Fallback
+                topic["viz_x"] = 0.0
+                topic["viz_y"] = 0.0
+                topic["viz_spread"] = 0.1
+            
+            # Compute coordinates for children (subtopics)
+            for child in topic.get("children", []):
+                child_embeddings = child.get("embeddings")
+                if child_embeddings is not None and len(child_embeddings) > 0:
+                    # Project child embeddings using the same UMAP (transform)
+                    try:
+                        child_coords = viz_umap.transform(child_embeddings)
+                        child_centroid = np.mean(child_coords, axis=0)
+                        child["viz_x"] = float(child_centroid[0])
+                        child["viz_y"] = float(child_centroid[1])
+                        
+                        if len(child_coords) > 1:
+                            child_distances = np.linalg.norm(child_coords - child_centroid, axis=1)
+                            child["viz_spread"] = float(np.std(child_distances))
+                        else:
+                            child["viz_spread"] = 0.05
+                    except Exception as e:
+                        print(f"      Warning: Could not project subtopic {child['id']}: {e}")
+                        # Fallback: place near parent with offset
+                        child["viz_x"] = topic["viz_x"] + np.random.uniform(-0.5, 0.5)
+                        child["viz_y"] = topic["viz_y"] + np.random.uniform(-0.5, 0.5)
+                        child["viz_spread"] = 0.05
+        
+        # Compute global bounds for normalization info
+        all_x = [t["viz_x"] for t in topics]
+        all_y = [t["viz_y"] for t in topics]
+        print(f"   2D projection complete. X range: [{min(all_x):.2f}, {max(all_x):.2f}], "
+              f"Y range: [{min(all_y):.2f}, {max(all_y):.2f}]")
+        
+        return topics
+
     def _name_topics(self, topics: list[dict], llm_model: str) -> list[dict]:
         """Name topics using LLM."""
         try:
@@ -995,6 +1110,10 @@ class ExtractionService:
                 "top_words": t.get("top_words", []),
                 "example_comments": example_comments,
                 "is_hierarchical": self._to_python_native(t.get("is_hierarchical", False)),
+                # 2D visualization coordinates
+                "viz_x": self._to_python_native(t.get("viz_x")),
+                "viz_y": self._to_python_native(t.get("viz_y")),
+                "viz_spread": self._to_python_native(t.get("viz_spread")),
             }
             
             if "children" in t:

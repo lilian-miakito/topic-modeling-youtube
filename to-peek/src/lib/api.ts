@@ -63,6 +63,10 @@ export interface TopicInfo {
   example_comments: string[];
   is_hierarchical: boolean;
   children: TopicInfo[];
+  // 2D visualization coordinates
+  viz_x?: number;
+  viz_y?: number;
+  viz_spread?: number;
 }
 
 export interface OutliersInfo {
@@ -115,6 +119,14 @@ export async function searchChannel(channel: string): Promise<ChannelInfo> {
 
 export async function getChannel(channelId: number): Promise<ChannelInfo> {
   return fetchApi(`/youtube/channel/${channelId}`);
+}
+
+export async function deleteChannel(channelId: number): Promise<{
+  success: boolean;
+  message: string;
+  deleted: { videos: number; comments: number; extractions: number };
+}> {
+  return fetchApi(`/youtube/channel/${channelId}`, { method: "DELETE" });
 }
 
 export async function getChannelVideos(channelId: number) {

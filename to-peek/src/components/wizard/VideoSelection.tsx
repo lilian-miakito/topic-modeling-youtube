@@ -1,20 +1,22 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import type { ChannelInfo, VideoInfo } from "@/lib/api";
+import { deleteChannel, type ChannelInfo, type VideoInfo } from "@/lib/api";
 
 interface VideoSelectionProps {
   channel: ChannelInfo;
   onVideosSelected: (videoIds: number[]) => void;
   onBack: () => void;
+  onChannelDeleted?: () => void;
 }
 
-export function VideoSelection({ channel, onVideosSelected, onBack }: VideoSelectionProps) {
+export function VideoSelection({ channel, onVideosSelected, onBack, onChannelDeleted }: VideoSelectionProps) {
   const [selectedIds, setSelectedIds] = useState<Set<number>>(
     new Set(channel.videos.map((v) => v.id))
   );
   const [filter, setFilter] = useState<"all" | "with" | "without">("all");
   const [search, setSearch] = useState("");
+  const [isDeleting, setIsDeleting] = useState(false);
 
   const filteredVideos = useMemo(() => {
     let videos = channel.videos;
@@ -106,6 +108,35 @@ export function VideoSelection({ channel, onVideosSelected, onBack }: VideoSelec
           <div className="text-xs text-zinc-500">Selected</div>
         </div>
       </div>
+
+      {/* No videos warning */}
+      {stats.total === 0 && (
+        <div className="p-4 bg-amber-900/30 border border-amber-700 rounded-lg">
+          <p className="text-amber-300 mb-3">
+            This channel has no videos in the database. This may happen if the channel was previously cached 
+            with issues. You can clear the cached data and search again.
+          </p>
+          <button
+            onClick={async () => {
+              if (!confirm(`Delete all data for "${channel.name}"? This cannot be undone.`)) return;
+              setIsDeleting(true);
+              try {
+                await deleteChannel(channel.id);
+                onChannelDeleted?.();
+              } catch (err) {
+                alert(err instanceof Error ? err.message : "Failed to delete");
+              } finally {
+                setIsDeleting(false);
+              }
+            }}
+            disabled={isDeleting}
+            className="px-4 py-2 bg-red-600 hover:bg-red-500 disabled:bg-red-800 
+                     text-white rounded-lg transition-colors"
+          >
+            {isDeleting ? "Deleting..." : "🗑️ Clear Data & Retry"}
+          </button>
+        </div>
+      )}
 
       {/* Filters */}
       <div className="flex gap-4 items-center">

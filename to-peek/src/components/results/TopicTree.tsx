@@ -2,6 +2,9 @@
 
 import { useState, useEffect } from "react";
 import { getExtractionResult, type ExtractionResult, type TopicInfo } from "@/lib/api";
+import { TopicMap } from "./TopicMap";
+
+type ViewMode = "list" | "map";
 
 interface TopicTreeProps {
   extractionId: number;
@@ -128,6 +131,10 @@ export function TopicTree({ extractionId, onRestart }: TopicTreeProps) {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [showOutliersModal, setShowOutliersModal] = useState(false);
+  const [viewMode, setViewMode] = useState<ViewMode>("list");
+
+  // Check if map view is available (has viz coordinates)
+  const hasMapData = result?.topics?.some(t => t.viz_x != null && t.viz_y != null) ?? false;
 
   useEffect(() => {
     const loadResult = async () => {
@@ -181,12 +188,39 @@ export function TopicTree({ extractionId, onRestart }: TopicTreeProps) {
             {result.num_topics} topics found from {result.num_comments?.toLocaleString()} comments
           </p>
         </div>
-        <button
-          onClick={onRestart}
-          className="px-4 py-2 bg-zinc-700 hover:bg-zinc-600 text-zinc-100 rounded-lg transition-colors"
-        >
-          New Analysis
-        </button>
+        <div className="flex items-center gap-3">
+          {/* View mode toggle */}
+          {hasMapData && (
+            <div className="flex bg-zinc-800 rounded-lg p-1">
+              <button
+                onClick={() => setViewMode("list")}
+                className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
+                  viewMode === "list"
+                    ? "bg-amber-600 text-white"
+                    : "text-zinc-400 hover:text-zinc-200"
+                }`}
+              >
+                📋 List
+              </button>
+              <button
+                onClick={() => setViewMode("map")}
+                className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
+                  viewMode === "map"
+                    ? "bg-amber-600 text-white"
+                    : "text-zinc-400 hover:text-zinc-200"
+                }`}
+              >
+                🗺️ Map
+              </button>
+            </div>
+          )}
+          <button
+            onClick={onRestart}
+            className="px-4 py-2 bg-zinc-700 hover:bg-zinc-600 text-zinc-100 rounded-lg transition-colors"
+          >
+            New Analysis
+          </button>
+        </div>
       </div>
 
       {/* Stats */}
@@ -294,12 +328,19 @@ export function TopicTree({ extractionId, onRestart }: TopicTreeProps) {
         </div>
       )}
 
-      {/* Topics */}
-      <div className="space-y-4">
-        {result.topics.map((topic, i) => (
-          <TopicCard key={i} topic={topic} />
-        ))}
-      </div>
+      {/* Topics - List View */}
+      {viewMode === "list" && (
+        <div className="space-y-4">
+          {result.topics.map((topic, i) => (
+            <TopicCard key={i} topic={topic} />
+          ))}
+        </div>
+      )}
+
+      {/* Topics - Map View (renders as full-page overlay) */}
+      {viewMode === "map" && (
+        <TopicMap topics={result.topics} onBack={() => setViewMode("list")} />
+      )}
 
       {/* Generated timestamp */}
       {result.generated_at && (
