@@ -1,6 +1,8 @@
 # ML module for topic extraction
 from .config import (
     EMBEDDING_MODEL_NAME,
+    # PCA pre-reduction (hybrid approach)
+    PCA_N_COMPONENTS,
     # UMAP (clustering)
     UMAP_N_NEIGHBORS,
     UMAP_N_COMPONENTS,
@@ -47,6 +49,7 @@ from .umap_cache import UMAPCache
 __all__ = [
     # Config
     "EMBEDDING_MODEL_NAME",
+    "PCA_N_COMPONENTS",
     "UMAP_N_NEIGHBORS",
     "UMAP_N_COMPONENTS",
     "UMAP_MIN_DIST",

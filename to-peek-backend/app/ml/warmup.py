@@ -22,6 +22,9 @@ def get_embedding_model():
     if _embedding_model is None:
         from sentence_transformers import SentenceTransformer
         _embedding_model = SentenceTransformer(EMBEDDING_MODEL_NAME)
+        # Limit max sequence length for YouTube comments (avg ~150 chars, max ~1000 chars)
+        # BGE-M3 defaults to 8192 which wastes GPU memory
+        _embedding_model.max_seq_length = 256  # ~1000 chars is plenty
     return _embedding_model
 
 

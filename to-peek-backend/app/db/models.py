@@ -91,27 +91,37 @@ class Comment(Base):
 class CommentEmbedding(Base):
     """
     Cache for comment text embeddings.
-    Uses MD5 hash of text as key for deduplication.
+    Uses MD5 hash of text + model name as key for deduplication.
     """
     __tablename__ = "comment_embeddings"
     
     id = Column(Integer, primary_key=True, index=True)
-    text_hash = Column(String(32), unique=True, index=True)  # MD5 hash
+    text_hash = Column(String(32), index=True)  # MD5 hash
+    model_name = Column(String(100), index=True)  # Embedding model name
     embedding = Column(LargeBinary)  # numpy array as bytes
     created_at = Column(DateTime, default=datetime.utcnow)
+    
+    __table_args__ = (
+        Index("ix_comment_embeddings_hash_model", "text_hash", "model_name", unique=True),
+    )
 
 
 class VocabEmbedding(Base):
     """
     Cache for vocabulary word/n-gram embeddings.
-    Uses the word itself as key.
+    Uses the word + model name as key.
     """
     __tablename__ = "vocab_embeddings"
     
     id = Column(Integer, primary_key=True, index=True)
-    word = Column(String(200), unique=True, index=True)  # Word or n-gram
+    word = Column(String(200), index=True)  # Word or n-gram
+    model_name = Column(String(100), index=True)  # Embedding model name
     embedding = Column(LargeBinary)  # numpy array as bytes
     created_at = Column(DateTime, default=datetime.utcnow)
+    
+    __table_args__ = (
+        Index("ix_vocab_embeddings_word_model", "word", "model_name", unique=True),
+    )
 
 
 class Extraction(Base):

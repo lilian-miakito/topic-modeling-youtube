@@ -34,11 +34,13 @@ class EmbeddingsCache:
     """
     Cache for embeddings using SQLite.
     Handles both comment embeddings (by text hash) and vocabulary embeddings (by word).
+    Cache is keyed by (text/word, model_name) to support multiple embedding models.
     """
     
-    def __init__(self, db: Session, embedding_model: "SentenceTransformer"):
+    def __init__(self, db: Session, embedding_model: "SentenceTransformer", model_name: str):
         self.db = db
         self.embedding_model = embedding_model
+        self.model_name = model_name  # e.g., "BAAI/bge-m3"
     
     def get_comment_embeddings(self, comments: list[str], show_progress: bool = True) -> np.ndarray:
         """
@@ -57,12 +59,17 @@ class EmbeddingsCache:
         # Hash all comments
         comment_hashes = [_hash_text(c) for c in comments]
         
-        # Load existing from cache
-        cached = self.db.query(CommentEmbedding).filter(
-            CommentEmbedding.text_hash.in_(comment_hashes)
-        ).all()
-        
-        cache_dict = {c.text_hash: _deserialize_embedding(c.embedding) for c in cached}
+        # Load existing from cache (batch to avoid SQLite variable limit)
+        BATCH_SIZE = 500
+        cache_dict = {}
+        for i in range(0, len(comment_hashes), BATCH_SIZE):
+            batch_hashes = comment_hashes[i:i + BATCH_SIZE]
+            cached = self.db.query(CommentEmbedding).filter(
+                CommentEmbedding.text_hash.in_(batch_hashes),
+                CommentEmbedding.model_name == self.model_name
+            ).all()
+            for c in cached:
+                cache_dict[c.text_hash] = _deserialize_embedding(c.embedding)
         
         # Find comments not in cache
         new_indices = [i for i, h in enumerate(comment_hashes) if h not in cache_dict]
@@ -89,8 +96,8 @@ class EmbeddingsCache:
                 print(f"   Encoding {len(unique_comments)} unique new comments...")
                 new_embeddings = self.embedding_model.encode(
                     unique_comments,
-                    batch_size=256,  # Larger batch for better throughput
-                    show_progress_bar=show_progress and len(unique_comments) > 500,
+                    batch_size=256,  # With max_seq_length=256, can batch more
+                    show_progress_bar=show_progress and len(unique_comments) > 100,
                     normalize_embeddings=True,  # Pre-normalize for cosine similarity
                 )
                 
@@ -99,6 +106,7 @@ class EmbeddingsCache:
                     cache_dict[h] = emb
                     self.db.add(CommentEmbedding(
                         text_hash=h,
+                        model_name=self.model_name,
                         embedding=_serialize_embedding(emb)
                     ))
                 
@@ -126,12 +134,18 @@ class EmbeddingsCache:
         if not vocabulary:
             return np.array([])
         
-        # Load existing from cache
-        cached = self.db.query(VocabEmbedding).filter(
-            VocabEmbedding.word.in_(vocabulary)
-        ).all()
-        
-        cache_dict = {v.word: _deserialize_embedding(v.embedding) for v in cached}
+        # Load existing from cache (batch to avoid SQLite variable limit)
+        vocab_list = list(vocabulary)
+        BATCH_SIZE = 500
+        cache_dict = {}
+        for i in range(0, len(vocab_list), BATCH_SIZE):
+            batch_words = vocab_list[i:i + BATCH_SIZE]
+            cached = self.db.query(VocabEmbedding).filter(
+                VocabEmbedding.word.in_(batch_words),
+                VocabEmbedding.model_name == self.model_name
+            ).all()
+            for v in cached:
+                cache_dict[v.word] = _deserialize_embedding(v.embedding)
         
         # Find words not in cache
         vocab_set = set(vocabulary)
@@ -145,8 +159,8 @@ class EmbeddingsCache:
             print(f"   Encoding {len(new_words)} new words...")
             new_embeddings = self.embedding_model.encode(
                 new_words,
-                batch_size=512,  # Words are short, can batch more
-                show_progress_bar=show_progress and len(new_words) > 500,
+                batch_size=256,  # With max_seq_length=256, can batch more
+                show_progress_bar=show_progress and len(new_words) > 100,
                 normalize_embeddings=True,
             )
             
@@ -155,6 +169,7 @@ class EmbeddingsCache:
                 cache_dict[word] = emb
                 self.db.add(VocabEmbedding(
                     word=word,
+                    model_name=self.model_name,
                     embedding=_serialize_embedding(emb)
                 ))
             

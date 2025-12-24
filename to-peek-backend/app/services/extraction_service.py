@@ -24,6 +24,8 @@ from sqlalchemy.orm import Session
 from app.db.models import Channel, Video, Comment, Extraction
 from app.ml import (
     EMBEDDING_MODEL_NAME,
+    # PCA pre-reduction (hybrid)
+    PCA_N_COMPONENTS,
     # UMAP (clustering)
     UMAP_N_NEIGHBORS,
     UMAP_N_COMPONENTS,
@@ -123,7 +125,7 @@ class ExtractionService:
         """Initialize ML components lazily."""
         if self.embedding_model is None:
             self.embedding_model = _get_sentence_transformer()
-            self.embeddings_cache = EmbeddingsCache(self.db, self.embedding_model)
+            self.embeddings_cache = EmbeddingsCache(self.db, self.embedding_model, EMBEDDING_MODEL_NAME)
     
     def start_extraction(
         self,
@@ -219,7 +221,7 @@ class ExtractionService:
             
             # Step 4: Run clustering
             print("\n🔬 Step 4: Running BERTopic clustering...")
-            topics, topic_model, outliers_info = self._run_clustering(
+            topics, topic_model, outliers_info, umap_embeddings_5d = self._run_clustering(
                 comments, embeddings, stopwords, channel_id=extraction.channel_id
             )
             print(f"   Found {len(topics)} initial topics")
@@ -262,9 +264,9 @@ class ExtractionService:
             extraction.current_step = "Computing 2D projection"
             self.db.commit()
             
-            # Step 8: Compute 2D visualization coordinates
+            # Step 8: Compute 2D visualization coordinates (using 5D UMAP embeddings)
             print("\n🗺️  Step 8: Computing 2D visualization projection...")
-            topics = self._compute_viz_coordinates(topics, embeddings, comments)
+            topics = self._compute_viz_coordinates(topics, umap_embeddings_5d, comments)
             
             extraction.progress = 0.85
             extraction.current_step = "Naming topics"
@@ -350,27 +352,40 @@ class ExtractionService:
         UMAP = _get_umap()
         HDBSCAN = _get_hdbscan()
         BERTopic = _get_bertopic()
+        from sklearn.decomposition import PCA
         
         print(f"   Clustering {len(comments):,} comments...")
         
-        # Step 1: UMAP dimensionality reduction (with caching)
+        # Step 0: PCA pre-reduction (384D → 50D) - fast, ~7x speedup for UMAP
+        original_dim = embeddings.shape[1]
+        pca_target = min(PCA_N_COMPONENTS, len(embeddings) - 1, original_dim)
+        print(f"   PCA: {original_dim}D → {pca_target}D (hybrid speedup)...")
+        
+        pca_model = PCA(n_components=pca_target, random_state=42)
+        embeddings_pca = pca_model.fit_transform(embeddings)
+        explained_var = sum(pca_model.explained_variance_ratio_) * 100
+        print(f"   PCA explained variance: {explained_var:.1f}%")
+        
+        # Step 1: UMAP on PCA-reduced embeddings (with caching)
         umap_cache = UMAPCache()
         cached_umap = None
         
         if channel_id is not None:
-            cached_umap = umap_cache.get_cached_model(channel_id, len(embeddings))
+            cached_umap = umap_cache.get_cached_model(channel_id, len(embeddings_pca))
         
         if cached_umap is not None:
             print(f"   UMAP cache HIT - using cached model for channel {channel_id}")
             umap_model = cached_umap
         else:
-            print(f"   UMAP cache MISS - fitting new model...")
+            print(f"   UMAP cache MISS - fitting new model on {pca_target}D data...")
             umap_model = UMAP(
                 n_neighbors=UMAP_N_NEIGHBORS,
                 n_components=UMAP_N_COMPONENTS,
                 min_dist=UMAP_MIN_DIST,
                 metric=UMAP_METRIC,
                 random_state=42,
+                low_memory=True,
+                n_jobs=-1,
             )
         
         # Step 2: Permissive HDBSCAN (accept many micro-topics)
@@ -403,13 +418,13 @@ class ExtractionService:
             verbose=False,
         )
         
-        topic_labels, probs = topic_model.fit_transform(comments, embeddings)
+        topic_labels, probs = topic_model.fit_transform(comments, embeddings_pca)
         
         # Save UMAP model to cache if it was newly fitted
         if cached_umap is None and channel_id is not None:
             # BERTopic fits the UMAP model during fit_transform, retrieve it
             fitted_umap = topic_model.umap_model
-            umap_cache.save_model(channel_id, len(embeddings), fitted_umap)
+            umap_cache.save_model(channel_id, len(embeddings_pca), fitted_umap)
             print(f"   UMAP model cached for channel {channel_id}")
         
         # Count initial results
@@ -477,12 +492,15 @@ class ExtractionService:
                 "indices": np.where(mask)[0].tolist(),
             })
         
-        # Return topics, model, and outlier info
+        # Get 5D UMAP embeddings for visualization (much faster than 384D → 2D)
+        umap_embeddings_5d = topic_model.umap_model.embedding_
+        
+        # Return topics, model, outlier info, and 5D embeddings
         return topics, topic_model, {
             "count": outlier_count, 
             "percentage": outlier_pct,
             "examples": outlier_examples,
-        }
+        }, umap_embeddings_5d
     
     def _compute_metrics(
         self,
@@ -586,7 +604,7 @@ class ExtractionService:
         print(f"   Vocabulary size: {len(vocabulary)} words/ngrams")
         
         # Get vocabulary embeddings (cached)
-        embeddings_cache = EmbeddingsCache(self.db, self.embedding_model)
+        embeddings_cache = EmbeddingsCache(self.db, self.embedding_model, EMBEDDING_MODEL_NAME)
         vocab_embeddings = embeddings_cache.get_vocab_embeddings(vocabulary)
         print(f"   Vocabulary embeddings: {vocab_embeddings.shape}")
         
@@ -702,6 +720,8 @@ class ExtractionService:
                 min_dist=0.0,
                 metric="cosine",
                 random_state=42,
+                low_memory=True,
+                n_jobs=-1,
             )
             
             sub_hdbscan = HDBSCAN(
@@ -820,7 +840,7 @@ class ExtractionService:
             return sub_topics
         
         # Get vocabulary embeddings
-        embeddings_cache = EmbeddingsCache(self.db, self.embedding_model)
+        embeddings_cache = EmbeddingsCache(self.db, self.embedding_model, EMBEDDING_MODEL_NAME)
         vocab_embeddings = embeddings_cache.get_vocab_embeddings(vocabulary)
         
         # Extract semantic words for each sub-topic
@@ -858,6 +878,9 @@ class ExtractionService:
         """
         Compute 2D visualization coordinates for topics using UMAP projection.
         
+        Expects 5D UMAP embeddings (from main clustering), not original 384D.
+        This makes the 5D → 2D projection very fast.
+        
         Adds viz_x, viz_y (centroid position) and viz_spread (cluster spread) 
         to each topic and its children.
         """
@@ -878,12 +901,13 @@ class ExtractionService:
             print("   Not enough points for 2D projection, skipping")
             return topics
         
-        valid_embeddings = embeddings[valid_mask]
+        valid_embeddings = embeddings[valid_mask]  # Already 5D from main UMAP
         valid_labels = labels[valid_mask]
         valid_indices = np.where(valid_mask)[0]
         
-        # UMAP 2D projection for visualization
-        print(f"   Projecting {len(valid_embeddings):,} points to 2D...")
+        # UMAP 5D → 2D projection (very fast since input is already 5D)
+        print(f"   Projecting {len(valid_embeddings):,} points: {valid_embeddings.shape[1]}D → 2D...")
+        
         n_neighbors = min(VIZ_UMAP_N_NEIGHBORS, len(valid_embeddings) - 1)
         
         viz_umap = UMAP(
@@ -892,6 +916,8 @@ class ExtractionService:
             min_dist=VIZ_UMAP_MIN_DIST,
             metric=VIZ_UMAP_METRIC,
             random_state=42,
+            low_memory=True,
+            n_jobs=-1,
         )
         
         viz_coords = viz_umap.fit_transform(valid_embeddings)

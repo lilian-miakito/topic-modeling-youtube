@@ -31,7 +31,7 @@ class Settings(BaseSettings):
     ]
     
     # ML Models
-    EMBEDDING_MODEL_NAME: str = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+    EMBEDDING_MODEL_NAME: str = "BAAI/bge-m3"
     
     # LLM (for topic naming)
     DSPY_MODEL: str = "openai/gpt-4o-mini"
